@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6215c08275f01cac",
+      "title": "Barrow Says Government Supports 35,000 Vulnerable Families Monthly",
+      "summary": "Written by: Mama A. Touray President Adama Barrow has said his government provides monthly financial support to 35,000 vulnerable families across The Gambia to help them meet their basic needs. The president made the remarks over the weekend while addressing a gathering of far...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-says-government-supports-35000-vulnerable-families-monthly/",
+      "publishedAt": "2026-09-01T22:06:32.000Z",
+      "collectedAt": "2026-09-01T23:56:42.182Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ab34c6e81e9dc752",
       "title": "Chief Jatta Tells Residents to Stand by Barrow ‘Even If I Die,’ Issues Warning to Alkalos",
       "summary": "By Fatou Sillah Lamin Mondo Jatta, the chief of Brikama North, has urged residents of the district to continue supporting President Adama Barrow even after the chief’s death, as he rallied voters behind the president ahead of the December presidential election. Jatta said his ...",
@@ -2247,34 +2271,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-008",
-      "title": "National Biometric ID Rollout Reaches 80% Coverage",
-      "summary": "The Ministry of Information reports that 80% of eligible citizens have now received their national biometric identity cards under the Digital Gambia initiative.",
-      "sourceId": "grts",
-      "sourceName": "GRTS",
-      "sourceUrl": "https://grts.gm",
-      "originalUrl": "https://grts.gm",
-      "publishedAt": "2025-07-26T16:00:00Z",
-      "collectedAt": "2025-07-26T16:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "technology",
-        "politics"
-      ],
-      "contentType": "official-update",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": true,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-01T20:55:33.682Z",
+    "generatedAt": "2026-09-01T23:57:15.041Z",
     "count": 100
   }
 }

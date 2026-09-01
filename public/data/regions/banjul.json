@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6215c08275f01cac",
+      "title": "Barrow Says Government Supports 35,000 Vulnerable Families Monthly",
+      "summary": "Written by: Mama A. Touray President Adama Barrow has said his government provides monthly financial support to 35,000 vulnerable families across The Gambia to help them meet their basic needs. The president made the remarks over the weekend while addressing a gathering of far...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-says-government-supports-35000-vulnerable-families-monthly/",
+      "publishedAt": "2026-09-01T22:06:32.000Z",
+      "collectedAt": "2026-09-01T23:56:42.182Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "defd7c978f32cc41",
       "title": "Environment Minister Calls Sanitation at Major GBA Markets ‘Horrible and Heartbreaking’",
       "summary": "By Makutu Manneh Rohey John Manjang, the Minister of Environment, Climate Change and Natural Resources, has sharply criticized waste collection and sanitation conditions at several major markets in the Greater Banjul Area, describing the situation as “horrible” and “heartbreak...",
@@ -1788,33 +1812,10 @@
       "isOfficialSource": true,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-pol-001",
-      "title": "Opposition Parties Form Coalition Ahead of 2026 Presidential Election",
-      "summary": "Three major opposition parties have signed a memorandum of understanding to field a single candidate in the 2026 presidential election.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-26T14:00:00Z",
-      "collectedAt": "2025-07-26T14:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ebrima Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-01T20:55:33.682Z",
+    "generatedAt": "2026-09-01T23:57:15.041Z",
     "count": 80
   }
 }
