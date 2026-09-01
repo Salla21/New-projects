@@ -1,0 +1,346 @@
+{
+  "sources": [
+    {
+      "id": "the-standard",
+      "name": "The Standard",
+      "description": "The Gambia's leading independent newspaper covering politics, business, sports, and society.",
+      "websiteUrl": "https://standard.gm",
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "the-point",
+      "name": "The Point",
+      "description": "Established Gambian newspaper known for investigative journalism and national affairs reporting.",
+      "websiteUrl": "https://thepoint.gm",
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "foroyaa",
+      "name": "Foroyaa",
+      "description": "Independent newspaper focused on social justice, democratic accountability, and governance analysis.",
+      "websiteUrl": "https://foroyaa.net",
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "the-voice",
+      "name": "The Voice",
+      "description": "Gambian newspaper providing community-focused reporting and national news coverage.",
+      "websiteUrl": null,
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "the-alkamba-times",
+      "name": "The Alkamba Times",
+      "description": "Gambian publication covering politics, business, and social issues.",
+      "websiteUrl": null,
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "malagen",
+      "name": "Malagen",
+      "description": "Investigative journalism platform specialising in in-depth research and accountability reporting.",
+      "websiteUrl": null,
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "the-gambia-times",
+      "name": "The Gambia Times",
+      "description": "Online news publication covering Gambian current affairs and community stories.",
+      "websiteUrl": null,
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "grts",
+      "name": "GRTS",
+      "description": "Gambia Radio and Television Services — the national public broadcaster providing news, sports, and cultural programming.",
+      "websiteUrl": "https://grts.gm",
+      "contentTypes": ["article", "video", "radio", "official-update"],
+      "isOfficialSource": true,
+      "logoUrl": null
+    },
+    {
+      "id": "eye-africa-tv",
+      "name": "Eye Africa TV",
+      "description": "24-hour Gambian news and current-affairs television channel producing original video content and documentaries.",
+      "websiteUrl": "https://www.youtube.com/@EyeAfricaTV",
+      "contentTypes": ["video", "article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "qtv-gambia",
+      "name": "QTV Gambia",
+      "description": "Private television station providing news, entertainment, and talk shows.",
+      "websiteUrl": null,
+      "contentTypes": ["video"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "paradise-tv",
+      "name": "Paradise TV",
+      "description": "Gambian television and media company broadcasting news and entertainment programming.",
+      "websiteUrl": null,
+      "contentTypes": ["video"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "star-tv",
+      "name": "Star TV Gambia",
+      "description": "Private television broadcaster providing news and entertainment.",
+      "websiteUrl": null,
+      "contentTypes": ["video"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "the-fatu-network",
+      "name": "The Fatu Network",
+      "description": "Fast-growing online news platform covering politics, sports, entertainment, and community events.",
+      "websiteUrl": "https://thefatunetwork.com",
+      "contentTypes": ["article", "video"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "kerr-fatou",
+      "name": "Kerr Fatou",
+      "description": "Digital-first media platform delivering breaking news, podcasts, and youth-focused journalism.",
+      "websiteUrl": "https://kerrfatou.com",
+      "contentTypes": ["article", "video", "podcast"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "360pluz",
+      "name": "360 Plus News",
+      "description": "Online news and social media content platform covering Gambian current affairs.",
+      "websiteUrl": null,
+      "contentTypes": ["video", "social"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "kairo-news",
+      "name": "Kairo News",
+      "description": "Online news platform providing timely coverage of Gambian affairs from the diaspora.",
+      "websiteUrl": null,
+      "contentTypes": ["article", "video"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "whats-on-gambia",
+      "name": "What's On Gambia",
+      "description": "News, entertainment, lifestyle, tourism, and events coverage from across The Gambia.",
+      "websiteUrl": "https://whatson-gambia.com",
+      "contentTypes": ["article", "video"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "gambia-today",
+      "name": "Gambia Today",
+      "description": "Online news portal covering daily Gambian current affairs and community stories.",
+      "websiteUrl": null,
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "gunjur-online",
+      "name": "Gunjur Online News",
+      "description": "Community-focused online news from the Gunjur area and surrounding communities.",
+      "websiteUrl": null,
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "freedom-radio",
+      "name": "Freedom Radio / Freedom Newspaper",
+      "description": "Independent media outlet with radio and online news operations.",
+      "websiteUrl": "https://freedomnewspaper.com",
+      "contentTypes": ["radio", "article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "gainako",
+      "name": "Gainako News",
+      "description": "Online news and opinion platform covering Gambian politics and society from the diaspora.",
+      "websiteUrl": null,
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "kibaaro-news",
+      "name": "Kibaaro News",
+      "description": "Diaspora-focused news outlet providing coverage of Gambian affairs for Gambians abroad.",
+      "websiteUrl": null,
+      "contentTypes": ["article", "radio"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "jollofnews",
+      "name": "JollofNews",
+      "description": "Online news platform serving the Gambian community with daily news updates.",
+      "websiteUrl": null,
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "senegambia-news",
+      "name": "Senegambia News",
+      "description": "Regional news platform covering The Gambia and Senegal.",
+      "websiteUrl": null,
+      "contentTypes": ["article"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "block-tv",
+      "name": "Block TV Gambia",
+      "description": "Online news and entertainment video channel.",
+      "websiteUrl": null,
+      "contentTypes": ["video"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "atlantic-tv",
+      "name": "Atlantic TV Gambia",
+      "description": "Online television channel providing news and current affairs content.",
+      "websiteUrl": null,
+      "contentTypes": ["video"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "mengbe-kering-tv",
+      "name": "Mengbe Kering TV",
+      "description": "Online media platform with talk shows and current affairs programming.",
+      "websiteUrl": null,
+      "contentTypes": ["video", "podcast"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "paradise-fm",
+      "name": "Paradise FM",
+      "description": "Popular commercial FM radio station broadcasting across The Gambia.",
+      "websiteUrl": null,
+      "contentTypes": ["radio"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "west-coast-radio",
+      "name": "West Coast Radio",
+      "description": "FM radio station serving the West Coast Region.",
+      "websiteUrl": null,
+      "contentTypes": ["radio"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "capital-fm",
+      "name": "Capital FM",
+      "description": "News and talk radio station broadcasting from Banjul.",
+      "websiteUrl": null,
+      "contentTypes": ["radio"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "hot-fm",
+      "name": "Hot FM",
+      "description": "Popular music and entertainment radio station.",
+      "websiteUrl": null,
+      "contentTypes": ["radio"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "hilltop-radio",
+      "name": "Hilltop Radio",
+      "description": "Community radio station providing local news and programming.",
+      "websiteUrl": null,
+      "contentTypes": ["radio"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "bitilo-podcast",
+      "name": "Bitilo Podcast",
+      "description": "Gambian news, politics, and current affairs podcast.",
+      "websiteUrl": null,
+      "contentTypes": ["podcast"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "seedyshow",
+      "name": "SeedyShow",
+      "description": "Gambian dialogue and interview podcast platform.",
+      "websiteUrl": null,
+      "contentTypes": ["podcast"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "cafe-gambiano",
+      "name": "Café Gambiano Podcast",
+      "description": "Podcast exploring Gambian culture, society, and current affairs.",
+      "websiteUrl": null,
+      "contentTypes": ["podcast"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "faburama-podcast",
+      "name": "Faburama Podcast",
+      "description": "Gambian podcast covering social issues and community stories.",
+      "websiteUrl": null,
+      "contentTypes": ["podcast"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "for-the-gambia-podcast",
+      "name": "For The Gambia Podcast",
+      "description": "Podcast dedicated to Gambian affairs, development, and diaspora engagement.",
+      "websiteUrl": null,
+      "contentTypes": ["podcast"],
+      "isOfficialSource": false,
+      "logoUrl": null
+    },
+    {
+      "id": "gambia-daily-gov",
+      "name": "Gambia Daily (Government)",
+      "description": "The official source of government notices and public information.",
+      "websiteUrl": "https://gambiadaily.gov.gm",
+      "contentTypes": ["official-update"],
+      "isOfficialSource": true,
+      "logoUrl": null
+    }
+  ]
+}

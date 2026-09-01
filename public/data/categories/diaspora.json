@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "id": "80bd8587f28f2a51",
+      "title": "Gambia Immigration Department Intercepts 36 Suspected Would-Be Migrants in Tujereng",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 36 suspected would-be migrants in Tujereng, a village in the West Coast Region, as authorities continue efforts to curb irregular migration. The operation was carried out by the department’s Border Patrol...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-36-suspected-would-be-migrants-in-tujereng/",
+      "publishedAt": "2026-08-20T16:00:12.000Z",
+      "collectedAt": "2026-08-21T05:29:08.751Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "127f1042654333da",
+      "title": "Mansally says councillors deserve diplomatic passports to ease overseas networking",
+      "summary": "By Arret Jatta The Area Councillor for Talinding North, Babucarr Mansally, has called on the government to provide diplomatic passports to elected councillors, saying the document would be useful for them to pursue opportunities abroad. Speaking on Star TV’s Wake Up Gambia sho...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/mansally-says-councillors-deserve-diplomatic-passports-to-ease-overseas-networking/",
+      "publishedAt": "2026-08-20T10:12:00.000Z",
+      "collectedAt": "2026-08-21T05:29:00.681Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fb5241bc6278fef3",
+      "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
+      "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
+      "publishedAt": "2026-08-14T12:14:17.000Z",
+      "collectedAt": "2026-08-21T05:29:06.532Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-006",
+      "title": "Diaspora Investment Fund Reaches D50 Million Milestone",
+      "summary": "The Gambian Diaspora Investment Fund has crossed the D50 million mark with contributions from over 2,000 Gambians living abroad.",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com",
+      "originalUrl": "https://kerrfatou.com",
+      "publishedAt": "2025-07-28T07:45:00Z",
+      "collectedAt": "2025-07-28T08:15:00Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Isatou Drammeh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-012",
+      "title": "Gambian Diaspora Association US Pledges D20 Million for School Construction",
+      "summary": "The Gambian community in the United States has committed D20 million towards building five new primary schools in underserved rural areas.",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com",
+      "originalUrl": "https://thefatunetwork.com",
+      "publishedAt": "2025-07-27T10:00:00Z",
+      "collectedAt": "2025-07-27T10:30:00Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sarjo Camara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-019",
+      "title": "Gambian Diaspora Professionals Launch Virtual Mentorship Platform",
+      "summary": "A network of 150 Gambian professionals abroad has launched an online platform offering free career mentorship to young graduates at home.",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com",
+      "originalUrl": "https://thefatunetwork.com",
+      "publishedAt": "2025-07-25T08:00:00Z",
+      "collectedAt": "2025-07-25T08:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "diaspora",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sarjo Camara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-08-21T05:29:12.857Z",
+    "count": 6
+  }
+}

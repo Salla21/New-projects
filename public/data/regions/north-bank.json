@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "art-009",
+      "title": "North Bank Farmers Adopt New Irrigation Techniques for Rice Cultivation",
+      "summary": "Over 200 rice farmers in the North Bank Region have completed training on drip irrigation methods expected to double yields in the upcoming harvest.",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net",
+      "originalUrl": "https://foroyaa.net",
+      "publishedAt": "2025-07-27T14:00:00Z",
+      "collectedAt": "2025-07-27T14:30:00Z",
+      "region": "north-bank",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Baboucarr Gaye",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-020",
+      "title": "Agriculture Ministry Distributes Climate-Resilient Seeds for 2025 Rainy Season",
+      "summary": "The Ministry of Agriculture has distributed drought-resistant groundnut and rice seed varieties to 8,000 farming households ahead of the 2025 planting season.",
+      "sourceId": "the-point",
+      "sourceName": "The Point",
+      "sourceUrl": "https://thepoint.gm",
+      "originalUrl": "https://thepoint.gm",
+      "publishedAt": "2025-07-25T11:00:00Z",
+      "collectedAt": "2025-07-25T11:30:00Z",
+      "region": "north-bank",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Ousman Darboe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-08-21T05:29:12.857Z",
+    "count": 2
+  }
+}

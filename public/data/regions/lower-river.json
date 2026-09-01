@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "f4bcc68e3250b9b4",
+      "title": "COACH MCKINSTRY EXCITED ABOUT RETURN TO STADIUM",
+      "summary": "Gambia coach Jonathon McKinstry has sent a special message to his players informing them and expressing delight about news that the scorpions first match in the Afcon 2027 qualifiers, against Somalia, will be played at the Independence Stadium next month. Since taking over as ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/coach-mckinstry-excited-about-return-to-stadium/",
+      "publishedAt": "2026-08-20T10:10:38.000Z",
+      "collectedAt": "2026-08-21T05:29:00.681Z",
+      "region": "lower-river",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-013",
+      "title": "Lower River Schools Report 95% Transition Rate to Senior Secondary",
+      "summary": "The Lower River Region has achieved a 95% transition rate from basic to senior secondary school, the highest in the country according to MoBSE data.",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net",
+      "originalUrl": "https://foroyaa.net",
+      "publishedAt": "2025-07-26T09:00:00Z",
+      "collectedAt": "2025-07-26T09:30:00Z",
+      "region": "lower-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Adama Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-08-21T05:29:12.857Z",
+    "count": 2
+  }
+}

@@ -1,0 +1,261 @@
+# Gambia Media Source Registry
+# This file documents all known Gambian media sources for future ingestion integration.
+# Phase 2: automated scraping and RSS ingestion will use these entries.
+
+newspapers:
+  active:
+    - id: the-standard
+      name: The Standard Newspaper
+      website: https://standard.gm
+      rss: null  # To be verified
+      status: active
+      notes: "Leading independent newspaper, covers politics, business, sports"
+
+    - id: the-point
+      name: The Point Newspaper
+      website: https://thepoint.gm
+      rss: null  # To be verified
+      status: active
+      notes: "Investigative journalism, national affairs, West African regional coverage"
+
+    - id: foroyaa
+      name: Foroyaa Newspaper
+      website: https://foroyaa.net
+      rss: null
+      status: active
+      notes: "Social justice focus, democratic accountability, critical governance analysis"
+
+    - id: the-voice
+      name: The Voice Newspaper
+      website: null
+      rss: null
+      status: unknown
+      notes: "Community newspaper, presence to be verified"
+
+    - id: daily-observer
+      name: Daily Observer
+      website: null
+      rss: null
+      status: unknown
+      notes: "Formerly state-linked, current status to be verified"
+
+radio_stations:
+  commercial:
+    - id: paradise-fm
+      name: Paradise FM
+      frequency: "105.7"
+      website: null
+      stream_url: null
+      status: active
+      notes: "Popular commercial FM station"
+
+    - id: freedom-radio
+      name: Freedom Radio
+      frequency: null
+      website: https://freedomnewspaper.com
+      stream_url: null
+      status: active
+      notes: "Independent radio, call-in programmes, current affairs debates, sports"
+
+    - id: city-limits-fm
+      name: City Limits FM
+      frequency: null
+      website: null
+      stream_url: null
+      status: active
+      notes: "Urban music and entertainment radio"
+
+    - id: unique-fm
+      name: Unique FM
+      frequency: null
+      website: null
+      stream_url: null
+      status: active
+      notes: "Community-focused radio"
+
+    - id: capital-fm
+      name: Capital FM
+      frequency: null
+      website: null
+      stream_url: null
+      status: active
+      notes: "News and talk radio"
+
+    - id: west-coast-radio
+      name: West Coast Radio
+      frequency: null
+      website: null
+      stream_url: null
+      status: active
+      notes: "West Coast Region coverage"
+
+    - id: taranga-fm
+      name: Taranga FM
+      frequency: null
+      website: null
+      stream_url: null
+      status: active
+      notes: "Community radio station"
+
+    - id: afri-radio
+      name: Afri Radio
+      frequency: null
+      website: null
+      stream_url: null
+      status: active
+      notes: "Pan-African programming"
+
+  community:
+    - id: radio-gambia
+      name: Radio Gambia (GRTS Radio)
+      frequency: null
+      website: https://grts.gm
+      stream_url: null
+      status: active
+      notes: "National public broadcaster radio arm"
+
+tv_channels:
+  terrestrial:
+    - id: grts-tv
+      name: GRTS TV
+      website: https://grts.gm
+      youtube: null
+      status: active
+      notes: "National public broadcaster, official government communications, news bulletins"
+
+    - id: eye-africa-tv
+      name: Eye Africa TV
+      website: https://www.youtube.com/@EyeAfricaTV
+      youtube: null
+      status: active
+      notes: "Leading private TV station, original video content, documentaries"
+
+    - id: qcell-tv
+      name: QTV (QCell TV)
+      website: null
+      youtube: null
+      status: active
+      notes: "QCell-owned television station"
+
+    - id: star-tv
+      name: Star TV Gambia
+      website: null
+      youtube: null
+      status: unknown
+      notes: "Private TV station, status to be verified"
+
+online_media:
+  - id: the-fatu-network
+    name: The Fatu Network
+    website: https://thefatunetwork.com
+    youtube: null
+    status: active
+    notes: "Fast-growing online news platform, politics, sports, entertainment"
+
+  - id: kerr-fatou
+    name: Kerr Fatou
+    website: https://kerrfatou.com
+    youtube: null
+    status: active
+    notes: "Digital-first journalism, breaking news, podcasts, youth and diaspora focus"
+
+  - id: 360pluz
+    name: 360 Plus News
+    website: null
+    youtube: null
+    status: active
+    notes: "Online news aggregation"
+
+  - id: gainako
+    name: Gainako
+    website: null
+    youtube: null
+    status: active
+    notes: "Online news and opinion platform"
+
+  - id: malagen
+    name: Malagen
+    website: null
+    youtube: null
+    status: active
+    notes: "Online news platform"
+
+  - id: the-chronicle
+    name: The Chronicle (Gambia)
+    website: null
+    youtube: null
+    status: unknown
+    notes: "Online publication, status to be verified"
+
+  - id: freedom-newspaper
+    name: Freedom Newspaper Online
+    website: https://freedomnewspaper.com
+    youtube: null
+    status: active
+    notes: "Online news from the Freedom Radio group"
+
+podcasts:
+  - id: bitilo-podcast
+    name: Bitilo Podcast
+    rss: null
+    platform: null
+    status: active
+    notes: "Gambian podcast, topics to be documented"
+
+  - id: kerr-fatou-podcast
+    name: Kerr Fatou Podcast
+    rss: null
+    platform: "YouTube / Spotify"
+    status: active
+    notes: "Weekly political analysis and interviews"
+
+  - id: gambia-uncut
+    name: Gambia Uncut Podcast
+    rss: null
+    platform: null
+    status: active
+    notes: "Commentary on Gambian affairs"
+
+diaspora_media:
+  - id: kibaaro-news
+    name: Kibaaro News
+    website: null
+    status: active
+    notes: "Diaspora-focused news outlet"
+
+  - id: fatu-network-diaspora
+    name: The Fatu Network (Diaspora desk)
+    website: https://thefatunetwork.com
+    status: active
+    notes: "Diaspora content vertical of The Fatu Network"
+
+official_sources:
+  - id: government-of-gambia
+    name: Government of The Gambia
+    website: null
+    status: active
+    notes: "Official government press releases"
+
+  - id: state-house
+    name: State House
+    website: null
+    status: active
+    notes: "Presidential communications"
+
+  - id: national-assembly
+    name: National Assembly of The Gambia
+    website: null
+    status: active
+    notes: "Parliamentary proceedings and statements"
+
+  - id: iec-gambia
+    name: Independent Electoral Commission (IEC)
+    website: null
+    status: active
+    notes: "Electoral updates and announcements"
+
+  - id: central-bank-gambia
+    name: Central Bank of The Gambia
+    website: null
+    status: active
+    notes: "Monetary policy, financial sector updates"

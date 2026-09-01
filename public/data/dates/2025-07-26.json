@@ -1,0 +1,194 @@
+{
+  "items": [
+    {
+      "id": "art-008",
+      "title": "National Biometric ID Rollout Reaches 80% Coverage",
+      "summary": "The Ministry of Information reports that 80% of eligible citizens have now received their national biometric identity cards under the Digital Gambia initiative.",
+      "sourceId": "grts",
+      "sourceName": "GRTS",
+      "sourceUrl": "https://grts.gm",
+      "originalUrl": "https://grts.gm",
+      "publishedAt": "2025-07-26T16:00:00Z",
+      "collectedAt": "2025-07-26T16:30:00Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "politics"
+      ],
+      "contentType": "official-update",
+      "thumbnailUrl": null,
+      "author": null,
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": true,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-pol-001",
+      "title": "Opposition Parties Form Coalition Ahead of 2026 Presidential Election",
+      "summary": "Three major opposition parties have signed a memorandum of understanding to field a single candidate in the 2026 presidential election.",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net",
+      "originalUrl": "https://foroyaa.net",
+      "publishedAt": "2025-07-26T14:00:00Z",
+      "collectedAt": "2025-07-26T14:30:00Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Ebrima Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-016",
+      "title": "Scorpions Draw Morocco in 2026 World Cup Qualifying Group",
+      "summary": "The Gambia has been drawn alongside Morocco, Burundi, and Lesotho in the 2026 FIFA World Cup African qualifying group stage.",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com",
+      "originalUrl": "https://thefatunetwork.com",
+      "publishedAt": "2025-07-26T12:00:00Z",
+      "collectedAt": "2025-07-26T12:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Kebba Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-011",
+      "title": "Central River Region Solar Electrification Reaches 50 Villages",
+      "summary": "The rural electrification programme has connected 50 villages in the Central River Region to solar mini-grids, serving over 25,000 residents with reliable power.",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm",
+      "originalUrl": "https://standard.gm",
+      "publishedAt": "2025-07-26T11:00:00Z",
+      "collectedAt": "2025-07-26T11:30:00Z",
+      "region": "central-river",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Jallow",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "rad-fr-001",
+      "title": "Health Talk: New Malaria Vaccine Rollout Begins Across The Gambia",
+      "summary": "Freedom Radio's health segment covers the launch of the RTS,S malaria vaccine programme targeting children under five in all health regions.",
+      "sourceId": "freedom-radio",
+      "sourceName": "Freedom Radio",
+      "sourceUrl": "https://freedomnewspaper.com",
+      "originalUrl": "https://freedomnewspaper.com",
+      "publishedAt": "2025-07-26T10:00:00Z",
+      "collectedAt": "2025-07-26T10:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "radio",
+      "thumbnailUrl": null,
+      "author": null,
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-013",
+      "title": "Lower River Schools Report 95% Transition Rate to Senior Secondary",
+      "summary": "The Lower River Region has achieved a 95% transition rate from basic to senior secondary school, the highest in the country according to MoBSE data.",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net",
+      "originalUrl": "https://foroyaa.net",
+      "publishedAt": "2025-07-26T09:00:00Z",
+      "collectedAt": "2025-07-26T09:30:00Z",
+      "region": "lower-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Adama Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-017",
+      "title": "Gambia Tech Hub Secures D30 Million in International Funding",
+      "summary": "The Gambia Tech Hub has secured D30 million from the African Development Bank to expand its incubation programme and launch a fintech accelerator.",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com",
+      "originalUrl": "https://kerrfatou.com",
+      "publishedAt": "2025-07-26T09:00:00Z",
+      "collectedAt": "2025-07-26T09:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "technology",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Mustapha Njie",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-014",
+      "title": "Brikama-Kartong Highway Officially Opened to Traffic",
+      "summary": "President Barrow has officially opened the fully rehabilitated Brikama-Kartong highway, a 45km stretch completed three months ahead of schedule.",
+      "sourceId": "the-point",
+      "sourceName": "The Point",
+      "sourceUrl": "https://thepoint.gm",
+      "originalUrl": "https://thepoint.gm",
+      "publishedAt": "2025-07-26T07:00:00Z",
+      "collectedAt": "2025-07-26T07:30:00Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Ousman Darboe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-08-21T05:29:12.857Z",
+    "count": 8
+  }
+}

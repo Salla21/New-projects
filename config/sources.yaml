@@ -1,0 +1,235 @@
+sources:
+  # Newspapers with RSS
+  - id: the-standard
+    name: The Standard
+    connectorType: rss
+    url: https://standard.gm/feed/
+    isOfficialSource: false
+    enabled: true
+
+  - id: the-point
+    name: The Point
+    connectorType: rss
+    url: https://thepoint.gm/feed/
+    isOfficialSource: false
+    enabled: true
+
+  - id: foroyaa
+    name: Foroyaa
+    connectorType: rss
+    url: https://foroyaa.net/feed/
+    isOfficialSource: false
+    enabled: true
+
+  - id: whats-on-gambia
+    name: What's On Gambia
+    connectorType: rss
+    url: https://whatson-gambia.com/feed/
+    isOfficialSource: false
+    enabled: true
+
+  - id: the-fatu-network
+    name: The Fatu Network
+    connectorType: rss
+    url: https://thefatunetwork.com/feed/
+    isOfficialSource: false
+    enabled: true
+
+  - id: kerr-fatou
+    name: Kerr Fatou
+    connectorType: rss
+    url: https://kerrfatou.com/feed/
+    isOfficialSource: false
+    enabled: true
+
+  - id: freedom-newspaper
+    name: Freedom Newspaper
+    connectorType: rss
+    url: https://freedomnewspaper.com/feed/
+    isOfficialSource: false
+    enabled: true
+
+  # YouTube channels (channelId placeholders — to be filled with real IDs)
+  - id: grts-youtube
+    name: GRTS TV
+    connectorType: youtube
+    channelId: PLACEHOLDER_GRTS_CHANNEL_ID
+    isOfficialSource: true
+    contentType: video
+    enabled: false  # Enable when channel ID is verified
+
+  - id: eye-africa-youtube
+    name: Eye Africa TV
+    connectorType: youtube
+    channelId: PLACEHOLDER_EYE_AFRICA_CHANNEL_ID
+    isOfficialSource: false
+    contentType: video
+    enabled: false
+
+  - id: kerr-fatou-youtube
+    name: Kerr Fatou Video
+    connectorType: youtube
+    channelId: PLACEHOLDER_KERR_FATOU_CHANNEL_ID
+    isOfficialSource: false
+    contentType: video
+    enabled: false
+
+  # Podcasts (RSS URLs need verification)
+  - id: bitilo-podcast
+    name: Bitilo Podcast
+    connectorType: podcast
+    url: PLACEHOLDER_BITILO_RSS
+    isOfficialSource: false
+    enabled: false
+
+  # Official sources (manual)
+  - id: gambia-daily-gov
+    name: Gambia Daily (Government)
+    connectorType: manual
+    manualFile: config/manual/gambia-daily.json
+    isOfficialSource: true
+    enabled: false
+
+tagging:
+  regionKeywords:
+    banjul:
+      - Banjul
+      - State House
+      - National Assembly
+      - Supreme Court
+      - High Court
+      - Arch 22
+      - Albert Market
+    kanifing:
+      - Kanifing
+      - Serrekunda
+      - Bakau
+      - Fajara
+      - Pipeline
+      - Tallinding
+      - Bundung
+      - Latrikunda
+      - Churchills Town
+      - Kotu
+    west-coast:
+      - Brikama
+      - Kartong
+      - Gunjur
+      - Sanyang
+      - Tanji
+      - Kololi
+      - Brufut
+      - Sukuta
+      - Lamin
+    north-bank:
+      - Barra
+      - Kerewan
+      - Farafenni
+      - North Bank
+      - Essau
+    lower-river:
+      - Mansakonko
+      - Soma
+      - Lower River
+      - Jarra
+    central-river:
+      - Janjanbureh
+      - Georgetown
+      - Kuntaur
+      - Central River
+    upper-river:
+      - Basse
+      - Fatoto
+      - Upper River
+      - Sandu
+
+  categoryKeywords:
+    politics:
+      - election
+      - parliament
+      - National Assembly
+      - president
+      - minister
+      - opposition
+      - coalition
+      - vote
+      - constitution
+      - IEC
+      - UDP
+      - NPP
+      - APRC
+      - Barrow
+      - Darboe
+      - bill
+      - law
+      - governance
+    business:
+      - investment
+      - dalasi
+      - economy
+      - trade
+      - market
+      - tourism
+      - agriculture
+      - bank
+      - GDP
+      - employment
+      - revenue
+      - fiscal
+      - budget
+      - port
+    technology:
+      - digital
+      - tech
+      - internet
+      - software
+      - broadband
+      - ICT
+      - fintech
+      - startup
+      - QCell
+      - Africell
+      - Gamcel
+    sports:
+      - Scorpions
+      - football
+      - AFCON
+      - FIFA
+      - GFF
+      - basketball
+      - wrestling
+      - athletics
+      - Musa Barrow
+      - league
+      - tournament
+    diaspora:
+      - diaspora
+      - abroad
+      - remittance
+      - overseas Gambians
+      - returnees
+      - UK
+      - USA
+      - Europe
+      - migration
+
+  goodNewsKeywords:
+    - achievement
+    - milestone
+    - record
+    - launch
+    - opens
+    - invest
+    - graduate
+    - award
+    - breakthrough
+    - growth
+    - success
+    - partnership
+    - donation
+    - scholarship
+    - celebrate
+    - inaugurate
+    - commend
+    - progress
+    - improve

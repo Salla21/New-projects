@@ -1,0 +1,192 @@
+{
+  "items": [
+    {
+      "id": "art-001",
+      "title": "National Assembly Passes 2025-2026 Appropriation Bill After Marathon Debate",
+      "summary": "The National Assembly has approved the D38.2 billion appropriation bill for fiscal year 2025-2026 following three days of intense debate on allocations for education and health.",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm",
+      "originalUrl": "https://standard.gm",
+      "publishedAt": "2025-07-28T14:30:00Z",
+      "collectedAt": "2025-07-28T15:00:00Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-002",
+      "title": "Scorpions Captain Named in CAF Team of the Year Shortlist",
+      "summary": "National team captain Musa Barrow has been nominated for the CAF Team of the Year following an outstanding club season in Europe.",
+      "sourceId": "the-point",
+      "sourceName": "The Point",
+      "sourceUrl": "https://thepoint.gm",
+      "originalUrl": "https://thepoint.gm",
+      "publishedAt": "2025-07-28T13:45:00Z",
+      "collectedAt": "2025-07-28T14:00:00Z",
+      "region": "kanifing",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Lamin Ceesay",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-003",
+      "title": "President Barrow Launches National Digital Transformation Strategy 2025-2030",
+      "summary": "President Barrow has officially launched a five-year digital transformation strategy aimed at digitising all government services and expanding broadband to rural areas.",
+      "sourceId": "grts",
+      "sourceName": "GRTS",
+      "sourceUrl": "https://grts.gm",
+      "originalUrl": "https://grts.gm",
+      "publishedAt": "2025-07-28T12:00:00Z",
+      "collectedAt": "2025-07-28T12:30:00Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "official-update",
+      "thumbnailUrl": null,
+      "author": null,
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": true,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "vid-001",
+      "title": "Inside the Banjul Port Expansion: A Visual Progress Report",
+      "summary": "Eye Africa TV documents the ongoing Banjul port expansion project which will triple cargo handling capacity by 2027.",
+      "sourceId": "eye-africa-tv",
+      "sourceName": "Eye Africa TV",
+      "sourceUrl": "https://www.youtube.com/@EyeAfricaTV",
+      "originalUrl": "https://www.youtube.com/@EyeAfricaTV",
+      "publishedAt": "2025-07-28T11:30:00Z",
+      "collectedAt": "2025-07-28T12:00:00Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "video",
+      "thumbnailUrl": null,
+      "author": "Mariama Sanneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-004",
+      "title": "UTG Graduates Record 1,200 Students at 2025 Convocation",
+      "summary": "The University of The Gambia has conferred degrees on 1,200 graduates at its 2025 convocation ceremony, the largest cohort since the institution's founding.",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net",
+      "originalUrl": "https://foroyaa.net",
+      "publishedAt": "2025-07-28T10:15:00Z",
+      "collectedAt": "2025-07-28T10:45:00Z",
+      "region": "kanifing",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Ebrima Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "rad-001",
+      "title": "Morning Debate: Should The Gambia Adopt a New Constitution Before 2026?",
+      "summary": "Freedom Radio's flagship programme hosts a heated panel discussion on whether the draft constitution should be enacted before the 2026 elections.",
+      "sourceId": "freedom-radio",
+      "sourceName": "Freedom Radio",
+      "sourceUrl": "https://freedomnewspaper.com",
+      "originalUrl": "https://freedomnewspaper.com",
+      "publishedAt": "2025-07-28T09:00:00Z",
+      "collectedAt": "2025-07-28T09:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "radio",
+      "thumbnailUrl": null,
+      "author": null,
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-005",
+      "title": "Kanifing Industrial Estate Attracts D500 Million in New Investments",
+      "summary": "Three new manufacturing firms have committed D500 million in investments to the Kanifing Industrial Estate, expected to create over 400 permanent jobs.",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm",
+      "originalUrl": "https://standard.gm",
+      "publishedAt": "2025-07-28T08:30:00Z",
+      "collectedAt": "2025-07-28T09:00:00Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Amadou Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-006",
+      "title": "Diaspora Investment Fund Reaches D50 Million Milestone",
+      "summary": "The Gambian Diaspora Investment Fund has crossed the D50 million mark with contributions from over 2,000 Gambians living abroad.",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com",
+      "originalUrl": "https://kerrfatou.com",
+      "publishedAt": "2025-07-28T07:45:00Z",
+      "collectedAt": "2025-07-28T08:15:00Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Isatou Drammeh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-08-21T05:29:12.857Z",
+    "count": 8
+  }
+}

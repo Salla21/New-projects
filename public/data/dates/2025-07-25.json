@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "id": "art-015",
+      "title": "Central Bank Holds Policy Rate Steady Amid Declining Inflation",
+      "summary": "The Central Bank of The Gambia has maintained its policy rate at 15% as inflation eases to single digits for the first time in two years.",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm",
+      "originalUrl": "https://standard.gm",
+      "publishedAt": "2025-07-25T15:00:00Z",
+      "collectedAt": "2025-07-25T15:30:00Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Amadou Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-018",
+      "title": "IEC Completes Voter Registration Update, Adds 85,000 New Voters",
+      "summary": "The Independent Electoral Commission has concluded its nationwide voter registration update, adding 85,000 newly eligible voters ahead of the 2026 general elections.",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net",
+      "originalUrl": "https://foroyaa.net",
+      "publishedAt": "2025-07-25T14:00:00Z",
+      "collectedAt": "2025-07-25T14:30:00Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Ebrima Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-020",
+      "title": "Agriculture Ministry Distributes Climate-Resilient Seeds for 2025 Rainy Season",
+      "summary": "The Ministry of Agriculture has distributed drought-resistant groundnut and rice seed varieties to 8,000 farming households ahead of the 2025 planting season.",
+      "sourceId": "the-point",
+      "sourceName": "The Point",
+      "sourceUrl": "https://thepoint.gm",
+      "originalUrl": "https://thepoint.gm",
+      "publishedAt": "2025-07-25T11:00:00Z",
+      "collectedAt": "2025-07-25T11:30:00Z",
+      "region": "north-bank",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Ousman Darboe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-019",
+      "title": "Gambian Diaspora Professionals Launch Virtual Mentorship Platform",
+      "summary": "A network of 150 Gambian professionals abroad has launched an online platform offering free career mentorship to young graduates at home.",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com",
+      "originalUrl": "https://thefatunetwork.com",
+      "publishedAt": "2025-07-25T08:00:00Z",
+      "collectedAt": "2025-07-25T08:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "diaspora",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sarjo Camara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-08-21T05:29:12.857Z",
+    "count": 4
+  }
+}

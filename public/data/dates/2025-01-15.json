@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "id": "art-jan-001",
+      "title": "President Barrow Delivers New Year Address, Pledges Economic Reform",
+      "summary": "In his annual New Year broadcast, President Barrow outlined plans for tax reform, public sector efficiency, and accelerated infrastructure investment in 2025.",
+      "sourceId": "grts",
+      "sourceName": "GRTS",
+      "sourceUrl": "https://grts.gm",
+      "originalUrl": "https://grts.gm",
+      "publishedAt": "2025-01-15T18:00:00Z",
+      "collectedAt": "2025-01-15T18:30:00Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "official-update",
+      "thumbnailUrl": null,
+      "author": null,
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": true,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-jan-002",
+      "title": "Tourism Board Reports Strong Early Season Bookings for 2025",
+      "summary": "The Gambia Tourism Board reports a 25% increase in advance bookings for the January-April 2025 season compared to the same period last year.",
+      "sourceId": "the-point",
+      "sourceName": "The Point",
+      "sourceUrl": "https://thepoint.gm",
+      "originalUrl": "https://thepoint.gm",
+      "publishedAt": "2025-01-15T14:00:00Z",
+      "collectedAt": "2025-01-15T14:30:00Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Ousman Darboe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-jan-003",
+      "title": "IEC Announces Timeline for 2026 Election Preparation",
+      "summary": "The Independent Electoral Commission has published its roadmap for the 2026 elections including voter registration updates starting in March 2025.",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net",
+      "originalUrl": "https://foroyaa.net",
+      "publishedAt": "2025-01-15T11:00:00Z",
+      "collectedAt": "2025-01-15T11:30:00Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Ebrima Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-jan-004",
+      "title": "Gambian Fintech Startup Raises D15 Million in Series A Funding",
+      "summary": "A Banjul-based mobile payments startup has closed a D15 million Series A round led by a pan-African venture capital fund.",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com",
+      "originalUrl": "https://kerrfatou.com",
+      "publishedAt": "2025-01-15T09:00:00Z",
+      "collectedAt": "2025-01-15T09:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "technology",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Mustapha Njie",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "art-jan-005",
+      "title": "Scorpions Begin Training Camp for AFCON 2025 Finals in Morocco",
+      "summary": "The national football team has assembled in Banjul for a two-week training camp ahead of their maiden AFCON 2025 appearance in Morocco.",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com",
+      "originalUrl": "https://thefatunetwork.com",
+      "publishedAt": "2025-01-15T07:00:00Z",
+      "collectedAt": "2025-01-15T07:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Kebba Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2025-01-15T19:00:00Z",
+    "count": 5
+  }
+}

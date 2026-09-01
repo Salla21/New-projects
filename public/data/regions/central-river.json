@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "art-011",
+      "title": "Central River Region Solar Electrification Reaches 50 Villages",
+      "summary": "The rural electrification programme has connected 50 villages in the Central River Region to solar mini-grids, serving over 25,000 residents with reliable power.",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm",
+      "originalUrl": "https://standard.gm",
+      "publishedAt": "2025-07-26T11:00:00Z",
+      "collectedAt": "2025-07-26T11:30:00Z",
+      "region": "central-river",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Jallow",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-08-21T05:29:12.857Z",
+    "count": 1
+  }
+}

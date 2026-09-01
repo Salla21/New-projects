@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "rad-001",
+      "title": "Morning Debate: Should The Gambia Adopt a New Constitution Before 2026?",
+      "summary": "Freedom Radio's flagship programme hosts a heated panel discussion on whether the draft constitution should be enacted before the 2026 elections.",
+      "sourceId": "freedom-radio",
+      "sourceName": "Freedom Radio",
+      "sourceUrl": "https://freedomnewspaper.com",
+      "originalUrl": "https://freedomnewspaper.com",
+      "publishedAt": "2025-07-28T09:00:00Z",
+      "collectedAt": "2025-07-28T09:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "radio",
+      "thumbnailUrl": null,
+      "author": null,
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "rad-002",
+      "title": "Sports Hour: Scorpions AFCON 2025 Campaign Review",
+      "summary": "A comprehensive analysis of The Gambia's AFCON 2025 campaign with expert commentary on tactical improvements and standout performers.",
+      "sourceId": "freedom-radio",
+      "sourceName": "Freedom Radio",
+      "sourceUrl": "https://freedomnewspaper.com",
+      "originalUrl": "https://freedomnewspaper.com",
+      "publishedAt": "2025-07-27T08:00:00Z",
+      "collectedAt": "2025-07-27T08:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "radio",
+      "thumbnailUrl": null,
+      "author": null,
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "rad-fr-001",
+      "title": "Health Talk: New Malaria Vaccine Rollout Begins Across The Gambia",
+      "summary": "Freedom Radio's health segment covers the launch of the RTS,S malaria vaccine programme targeting children under five in all health regions.",
+      "sourceId": "freedom-radio",
+      "sourceName": "Freedom Radio",
+      "sourceUrl": "https://freedomnewspaper.com",
+      "originalUrl": "https://freedomnewspaper.com",
+      "publishedAt": "2025-07-26T10:00:00Z",
+      "collectedAt": "2025-07-26T10:30:00Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "radio",
+      "thumbnailUrl": null,
+      "author": null,
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-08-21T05:29:12.857Z",
+    "count": 3
+  }
+}

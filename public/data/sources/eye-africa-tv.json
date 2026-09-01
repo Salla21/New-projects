@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "vid-001",
+      "title": "Inside the Banjul Port Expansion: A Visual Progress Report",
+      "summary": "Eye Africa TV documents the ongoing Banjul port expansion project which will triple cargo handling capacity by 2027.",
+      "sourceId": "eye-africa-tv",
+      "sourceName": "Eye Africa TV",
+      "sourceUrl": "https://www.youtube.com/@EyeAfricaTV",
+      "originalUrl": "https://www.youtube.com/@EyeAfricaTV",
+      "publishedAt": "2025-07-28T11:30:00Z",
+      "collectedAt": "2025-07-28T12:00:00Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "video",
+      "thumbnailUrl": null,
+      "author": "Mariama Sanneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-08-21T05:29:12.857Z",
+    "count": 1
+  }
+}
