@@ -45,33 +45,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "rad-fr-001",
-      "title": "Health Talk: New Malaria Vaccine Rollout Begins Across The Gambia",
-      "summary": "Freedom Radio's health segment covers the launch of the RTS,S malaria vaccine programme targeting children under five in all health regions.",
-      "sourceId": "freedom-radio",
-      "sourceName": "Freedom Radio",
-      "sourceUrl": "https://freedomnewspaper.com",
-      "originalUrl": "https://freedomnewspaper.com",
-      "publishedAt": "2025-07-26T10:00:00Z",
-      "collectedAt": "2025-07-26T10:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "radio",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-01T17:48:31.398Z",
-    "count": 3
+    "generatedAt": "2026-09-01T20:55:33.682Z",
+    "count": 2
   }
 }

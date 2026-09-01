@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "ab34c6e81e9dc752",
+      "title": "Chief Jatta Tells Residents to Stand by Barrow ‘Even If I Die,’ Issues Warning to Alkalos",
+      "summary": "By Fatou Sillah Lamin Mondo Jatta, the chief of Brikama North, has urged residents of the district to continue supporting President Adama Barrow even after the chief’s death, as he rallied voters behind the president ahead of the December presidential election. Jatta said his ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/chief-jatta-tells-residents-to-stand-by-barrow-even-if-i-die-issues-warning-to-alkalos/",
+      "publishedAt": "2026-09-01T19:57:59.000Z",
+      "collectedAt": "2026-09-01T20:55:29.470Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "defd7c978f32cc41",
       "title": "Environment Minister Calls Sanitation at Major GBA Markets ‘Horrible and Heartbreaking’",
       "summary": "By Makutu Manneh Rohey John Manjang, the Minister of Environment, Climate Change and Natural Resources, has sharply criticized waste collection and sanitation conditions at several major markets in the Greater Banjul Area, describing the situation as “horrible” and “heartbreak...",
@@ -2246,33 +2271,10 @@
       "isOfficialSource": true,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-pol-001",
-      "title": "Opposition Parties Form Coalition Ahead of 2026 Presidential Election",
-      "summary": "Three major opposition parties have signed a memorandum of understanding to field a single candidate in the 2026 presidential election.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-26T14:00:00Z",
-      "collectedAt": "2025-07-26T14:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ebrima Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-01T17:48:31.398Z",
+    "generatedAt": "2026-09-01T20:55:33.682Z",
     "count": 100
   }
 }

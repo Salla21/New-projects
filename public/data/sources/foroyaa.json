@@ -294,56 +294,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-013",
-      "title": "Lower River Schools Report 95% Transition Rate to Senior Secondary",
-      "summary": "The Lower River Region has achieved a 95% transition rate from basic to senior secondary school, the highest in the country according to MoBSE data.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-26T09:00:00Z",
-      "collectedAt": "2025-07-26T09:30:00Z",
-      "region": "lower-river",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Adama Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-018",
-      "title": "IEC Completes Voter Registration Update, Adds 85,000 New Voters",
-      "summary": "The Independent Electoral Commission has concluded its nationwide voter registration update, adding 85,000 newly eligible voters ahead of the 2026 general elections.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-25T14:00:00Z",
-      "collectedAt": "2025-07-25T14:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ebrima Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-01T17:48:31.398Z",
-    "count": 15
+    "generatedAt": "2026-09-01T20:55:33.682Z",
+    "count": 13
   }
 }

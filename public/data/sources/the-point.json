@@ -45,56 +45,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-014",
-      "title": "Brikama-Kartong Highway Officially Opened to Traffic",
-      "summary": "President Barrow has officially opened the fully rehabilitated Brikama-Kartong highway, a 45km stretch completed three months ahead of schedule.",
-      "sourceId": "the-point",
-      "sourceName": "The Point",
-      "sourceUrl": "https://thepoint.gm",
-      "originalUrl": "https://thepoint.gm",
-      "publishedAt": "2025-07-26T07:00:00Z",
-      "collectedAt": "2025-07-26T07:30:00Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ousman Darboe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-020",
-      "title": "Agriculture Ministry Distributes Climate-Resilient Seeds for 2025 Rainy Season",
-      "summary": "The Ministry of Agriculture has distributed drought-resistant groundnut and rice seed varieties to 8,000 farming households ahead of the 2025 planting season.",
-      "sourceId": "the-point",
-      "sourceName": "The Point",
-      "sourceUrl": "https://thepoint.gm",
-      "originalUrl": "https://thepoint.gm",
-      "publishedAt": "2025-07-25T11:00:00Z",
-      "collectedAt": "2025-07-25T11:30:00Z",
-      "region": "north-bank",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ousman Darboe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-01T17:48:31.398Z",
-    "count": 4
+    "generatedAt": "2026-09-01T20:55:33.682Z",
+    "count": 2
   }
 }

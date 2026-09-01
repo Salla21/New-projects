@@ -498,57 +498,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-016",
-      "title": "Scorpions Draw Morocco in 2026 World Cup Qualifying Group",
-      "summary": "The Gambia has been drawn alongside Morocco, Burundi, and Lesotho in the 2026 FIFA World Cup African qualifying group stage.",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com",
-      "originalUrl": "https://thefatunetwork.com",
-      "publishedAt": "2025-07-26T12:00:00Z",
-      "collectedAt": "2025-07-26T12:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Kebba Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-019",
-      "title": "Gambian Diaspora Professionals Launch Virtual Mentorship Platform",
-      "summary": "A network of 150 Gambian professionals abroad has launched an online platform offering free career mentorship to young graduates at home.",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com",
-      "originalUrl": "https://thefatunetwork.com",
-      "publishedAt": "2025-07-25T08:00:00Z",
-      "collectedAt": "2025-07-25T08:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "diaspora",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sarjo Camara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-01T17:48:31.398Z",
-    "count": 24
+    "generatedAt": "2026-09-01T20:55:33.682Z",
+    "count": 22
   }
 }
