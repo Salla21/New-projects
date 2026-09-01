@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "f692bcc9cd008dc5",
+      "title": "NDI warns of hate speech, weak election rules ahead of Gambia’s presidential election",
+      "summary": "By Dawda Baldeh Rising hate speech, weak campaign finance laws, and stalled constitutional reforms could undermine The Gambia’s democratic progress ahead of its December 5, 2026 presidential election, the National Democratic Institute (NDI) has warned. The warning follows a fi...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ndi-warns-of-hate-speech-weak-election-rules-ahead-of-gambias-presidential-election/",
+      "publishedAt": "2026-08-28T22:49:11.000Z",
+      "collectedAt": "2026-09-01T17:46:34.017Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1b258a9cd9f08cdb",
+      "title": "Basse Area Council Gives D400,000 Boost to Complete Sutukonding Clinic",
+      "summary": "By Dawda Baldeh The Basse Area Council has handed over a D400,000 (£4,500; $6,000) cheque to complete the construction of the Sutukonding Community Clinic, in a move set to transform basic healthcare access for more than 10 surrounding villages. The Council’s Chairperson, Maha...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/basse-area-council-gives-d400000-boost-to-complete-sutukonding-clinic/",
+      "publishedAt": "2026-08-28T22:38:15.000Z",
+      "collectedAt": "2026-09-01T17:46:34.017Z",
+      "region": "upper-river",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-09-01T17:48:31.398Z",
+    "count": 2
+  }
+}

@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "id": "c15b56926f1d860c",
+      "title": "GAMBIA SET FOR CAF U-17 QUALIFIERS",
+      "summary": "The West African Football Union (WAFU) Zone A has released the official fixtures for its forthcoming Caf U-17 Africa Cup of Nations qualifier tournament in Senegal. The Gambia will open her account against Sierra Leone on 7th September in the late game, at 7pm. The Baby Scorpi...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambia-set-for-caf-u-17-qualifiers/",
+      "publishedAt": "2026-09-01T11:18:24.000Z",
+      "collectedAt": "2026-09-01T17:46:28.067Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f73dd36683bf9681",
+      "title": "Messi retires from Argentina duty with ‘nothing left to give’",
+      "summary": "Argentina great Lionel Messi has announced his retirement from international football, saying it was a decision that “hurt” but “the time has come”. The 39-year-old, who captained Argentina to World Cup glory in Qatar in 2022, has scored 125 goals in 207 appearances, making hi...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/messi-retires-from-argentina-duty-with-nothing-left-to-give/",
+      "publishedAt": "2026-09-01T11:18:19.000Z",
+      "collectedAt": "2026-09-01T17:46:28.067Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "280131c67dda6c4b",
+      "title": "Kemo Ceesay Says GFF Must Look Beyond FIFA, CAF Funding to Boost Revenue",
+      "summary": "By Fatou Sillah The newly elected president of the Gambia Football Federation, Kemo Ceesay, says the organization must develop new sources of revenue and reduce its dependence on funding from international and continental football bodies. Mr. Ceesay said strengthening the fede...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kemo-ceesay-says-gff-must-look-beyond-fifa-caf-funding-to-boost-revenue/",
+      "publishedAt": "2026-08-31T23:19:29.000Z",
+      "collectedAt": "2026-09-01T17:48:27.291Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c27042adfdedf848",
+      "title": "Col. Musa Jammeh’s GFF Presidential Bid: Campaign Sets Out Its Position as Election Race Intensifies",
+      "summary": "Written by: Dawda Baldeh As the Gambia Football Federation (GFF) elective congress approaches, campaigning for the leadership of Football House is intensifying, with competing camps presenting their plans and making their case to delegates. A recent post published by Gamfoot a...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/col-musa-jammehs-gff-presidential-bid-campaign-sets-out-its-position-as-election-race-intensifies/",
+      "publishedAt": "2026-08-26T12:23:12.000Z",
+      "collectedAt": "2026-09-01T17:46:34.017Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e7a9eec92f301018",
       "title": "Sports Minister Says Independence Stadium Will Be Reserved Primarily for Sports",
       "summary": "By Makutu Manneh Bakary Badjie, the Minister of Youth and Sports, has said the newly renovated Independence Stadium will be used primarily for sporting events, with musical concerts and wrestling no longer permitted at the facility.The minister also said the stadium would host...",
@@ -165,7 +261,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-21T05:29:12.857Z",
-    "count": 7
+    "generatedAt": "2026-09-01T17:48:31.398Z",
+    "count": 11
   }
 }

@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "1af354a4887e6c36",
+      "title": "GALA Blames State Negligence for Ebrima Gassama’s Death, Calls for Independent Investigation",
+      "summary": "By Makutu Manneh Gambians Against Looted Assets, or GALA, has accused the government of negligence in the death of Ebrima Gassama at Brikama General Hospital, calling for an independent investigation into the circumstances surrounding his death and the conditions at the facili...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gala-blames-state-negligence-for-ebrima-gassamas-death-calls-for-independent-investigation/",
+      "publishedAt": "2026-09-01T16:34:04.000Z",
+      "collectedAt": "2026-09-01T17:48:27.291Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b988c57fa01dd922",
+      "title": "What are we buying with time? Part 1",
+      "summary": "BAC public debt and the institutional inheritance question in The Gambia Chairman Yankuba Darboe’s clarification of Brikama Area Council’s proposed D50 million Ecobank facility has improved the factual basis of an important public-finance debate. More importantly, it exposes a...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/what-are-we-buying-with-time-part-1/",
+      "publishedAt": "2026-09-01T11:14:06.000Z",
+      "collectedAt": "2026-09-01T17:46:28.067Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7df264cbb488fd67",
       "title": "Kartong Celebrates Outstanding Nine Credit WASSCE Performance",
       "summary": "Published by: The Fatu Network Aminata Touray has given Kartong another reason to celebrate after an outstanding performance in the 2026 WASSCE, earning credits in all nine subjects, including four A1s in Civic Education, English Language, Commerce and Agricultural Science. A ...",
@@ -92,7 +137,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-21T05:29:12.857Z",
-    "count": 4
+    "generatedAt": "2026-09-01T17:48:31.398Z",
+    "count": 6
   }
 }

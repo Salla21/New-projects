@@ -1,6 +1,101 @@
 {
   "items": [
     {
+      "id": "a418f04468dab129",
+      "title": "America first, Africa when? The visa wall that should wake up The Gambia",
+      "summary": "By Mohammed Jallow There is a certain irony in watching a nation whose history is inseparable from immigration increasingly build political walls against the very phenomenon that helped construct its economic, cultural and demographic strength. America has every sovereign righ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/america-first-africa-when-the-visa-wall-that-should-wake-up-the-gambia/",
+      "publishedAt": "2026-09-01T11:16:15.000Z",
+      "collectedAt": "2026-09-01T17:46:28.067Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1b258a9cd9f08cdb",
+      "title": "Basse Area Council Gives D400,000 Boost to Complete Sutukonding Clinic",
+      "summary": "By Dawda Baldeh The Basse Area Council has handed over a D400,000 (£4,500; $6,000) cheque to complete the construction of the Sutukonding Community Clinic, in a move set to transform basic healthcare access for more than 10 surrounding villages. The Council’s Chairperson, Maha...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/basse-area-council-gives-d400000-boost-to-complete-sutukonding-clinic/",
+      "publishedAt": "2026-08-28T22:38:15.000Z",
+      "collectedAt": "2026-09-01T17:46:34.017Z",
+      "region": "upper-river",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bf12413fe571bdde",
+      "title": "Bakary K. Badjie Takes Presidential Tour to Gambians in Europe",
+      "summary": "Written by: Alieu Jallow Presidential aspirant and National Assembly Member for Foni Bintang, Hon. Bakary K. Badjie, has travelled to Europe to begin what his team describes as a “Listening Tour,” following the completion of a nationwide engagement with communities across The ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bakary-k-badjie-takes-presidential-listening-tour-to-gambians-in-europe/",
+      "publishedAt": "2026-08-26T13:40:06.000Z",
+      "collectedAt": "2026-09-01T17:46:34.017Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c27042adfdedf848",
+      "title": "Col. Musa Jammeh’s GFF Presidential Bid: Campaign Sets Out Its Position as Election Race Intensifies",
+      "summary": "Written by: Dawda Baldeh As the Gambia Football Federation (GFF) elective congress approaches, campaigning for the leadership of Football House is intensifying, with competing camps presenting their plans and making their case to delegates. A recent post published by Gamfoot a...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/col-musa-jammehs-gff-presidential-bid-campaign-sets-out-its-position-as-election-race-intensifies/",
+      "publishedAt": "2026-08-26T12:23:12.000Z",
+      "collectedAt": "2026-09-01T17:46:34.017Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "80bd8587f28f2a51",
       "title": "Gambia Immigration Department Intercepts 36 Suspected Would-Be Migrants in Tujereng",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 36 suspected would-be migrants in Tujereng, a village in the West Coast Region, as authorities continue efforts to curb irregular migration. The operation was carried out by the department’s Border Patrol...",
@@ -143,7 +238,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-21T05:29:12.857Z",
-    "count": 6
+    "generatedAt": "2026-09-01T17:48:31.398Z",
+    "count": 10
   }
 }

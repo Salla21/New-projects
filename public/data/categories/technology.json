@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "02b62aae454b9019",
+      "title": "Lamin Ceesay Says 90% of Civil Servants Will Vote Against Barrow in December Election",
+      "summary": "By Fatou Sillah Lamin Ceesay, the United Democratic Party National Assembly member for Kiang West, has predicted that an overwhelming majority of Gambian civil servants will vote against President Adama Barrow in the Dec. 5 presidential election, citing what he described as wi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-ceesay-says-90-of-civil-servants-will-vote-against-barrow-in-december-election/",
+      "publishedAt": "2026-09-01T16:15:50.000Z",
+      "collectedAt": "2026-09-01T17:48:27.291Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "eb42a2b4f14d1510",
+      "title": "SPECIAL PROSECUTOR ASSURES VICTIMS JUSTICE WILL BE PURSUED",
+      "summary": "By Olimatou Coker Martin Hackett, Special Prosecutor for The Gambia, tasked with leading investigations and prosecutions into alleged human rights violations and serious crimes committed during Jammeh’s rule, has pledged to pursue justice for victims. Addressing a large gather...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/special-prosecutor-assures-victims-justice-will-be-pursued/",
+      "publishedAt": "2026-09-01T10:25:00.000Z",
+      "collectedAt": "2026-09-01T17:46:28.067Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0d41a8de1a053c6c",
+      "title": "Brody warns any alliance based on Jammeh’s return would test Gambia’s justice process",
+      "summary": "By Omar Bah Reed Brody, a Hungarian-American human rights lawyer and prosecutor known as the “Dictator Hunter” has issued a stark warning that any political alliance that paves the way for former dictator Yahya Jammeh’s return would put The Gambia’s new accountability infrastr...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/brody-warns-any-alliance-based-on-jammehs-return-would-test-gambias-justice-process/",
+      "publishedAt": "2026-09-01T10:24:00.000Z",
+      "collectedAt": "2026-09-01T17:46:28.067Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9f5f9ab47d78b12b",
       "title": "Coalition 2026 Spokesman Predicts Victory, Casts Bensouda as Leader to ‘Rescue’ Gambia",
       "summary": "By Seedy Jobe Assan Martin, the spokesperson for Coalition 2026, has declared that the opposition alliance is poised to form the next government, casting its leader, Talib Ahmed Bensouda, as the candidate capable of delivering the political change Gambians are seeking. Speakin...",
@@ -213,7 +284,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-21T05:29:12.857Z",
-    "count": 9
+    "generatedAt": "2026-09-01T17:48:31.398Z",
+    "count": 12
   }
 }
