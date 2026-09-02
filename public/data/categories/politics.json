@@ -1,6 +1,127 @@
 {
   "items": [
     {
+      "id": "d16187764ee38249",
+      "title": "Senegal, IMF Agree on $2.2 Billion Loan Programme",
+      "summary": "Published by: The Fatu Network The International Monetary Fund (IMF) and Senegal have reached an agreement on a new three-year, $2.2 billion loan programme aimed at supporting economic reforms and restoring the country’s debt sustainability. The deal comes after the IMF froze ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/senegal-imf-agree-on-2-2-billion-loan-programme/",
+      "publishedAt": "2026-09-02T10:32:38.000Z",
+      "collectedAt": "2026-09-02T11:04:59.947Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e154b7b75b4e10f8",
+      "title": "GAP says Jammeh’s return should not be viewed negatively",
+      "summary": "By Omar Bah The Gambia Action Party [GAP] has rejected attempts to dictate The Gambia’s political future from abroad, declaring that any return of former President Yahya Jammeh “should not be viewed negatively” and must be handled by Gambians through the country’s own laws. In...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gap-says-jammehs-return-should-not-be-viewed-negatively/",
+      "publishedAt": "2026-09-02T10:32:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b38a7014eb3fdae2",
+      "title": "Assembly to consider bill to regulate Gambia’s markets",
+      "summary": "By Omar Bah After years of chaos, and reported poor sanitation and unclear authority in The Gambia’s markets, Serekunda National Assembly Member Hon Musa Cham has tabled a Bill to create the country’s first comprehensive law to regulate, manage and operate all markets. The Bil...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/assembly-to-consider-bill-to-regulate-gambias-markets/",
+      "publishedAt": "2026-09-02T10:31:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5dd10e5ddf9418a4",
+      "title": "NPP regional chairman condemns tribal politics",
+      "summary": "By Tabora Bojang Sarjo Ceesay, the regional chairman of the governing National People’s Party NPP in Central River Region South has condemned the ongoing spate of tribal politics and personality attacks in the national political discourse warning that tribalism has no space in...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/npp-regional-chairman-condemns-tribal-politics/",
+      "publishedAt": "2026-09-02T10:29:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "central-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d75bf88a953dff2c",
+      "title": "Coalition 2026 to stage grand rally at Brikama Sunday",
+      "summary": "By Olimatou Coker Coalition 2026 will on Sunday stage a grand unity really in Brikama, to mark the official launching of the NUP/Unite Alliance. The rally is scheduled to take place at the Brikama SSP Grounds and is expected to bring together members, supporters and sympathise...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/coalition-2026-to-stage-grand-rally-at-brikama-sunday/",
+      "publishedAt": "2026-09-02T10:28:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d7110295bf3f389d",
       "title": "Barrow Promises End to Power Outages as Government Orders New Generators, Plans 50-Megawatt Solar Plant",
       "summary": "By Makutu Manneh President Adama Barrow said Tuesday that persistent electricity outages in The Gambia would soon be a thing of the past, citing the purchase of three new power generators and plans for a 50-megawatt solar plant as part of his government’s efforts to expand and...",
@@ -987,33 +1108,10 @@
       "isOfficialSource": true,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "pod-001",
-      "title": "The Gambia Podcast: 2026 Election Outlook with Political Analysts",
-      "summary": "Kerr Fatou's weekly podcast hosts three political analysts discussing coalition dynamics and voter sentiment ahead of the 2026 elections.",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com",
-      "originalUrl": "https://kerrfatou.com",
-      "publishedAt": "2025-07-27T15:00:00Z",
-      "collectedAt": "2025-07-27T15:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "podcast",
-      "thumbnailUrl": null,
-      "author": "Mustapha Njie",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 43
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 47
   }
 }

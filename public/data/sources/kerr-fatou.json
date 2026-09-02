@@ -560,33 +560,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "pod-001",
-      "title": "The Gambia Podcast: 2026 Election Outlook with Political Analysts",
-      "summary": "Kerr Fatou's weekly podcast hosts three political analysts discussing coalition dynamics and voter sentiment ahead of the 2026 elections.",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com",
-      "originalUrl": "https://kerrfatou.com",
-      "publishedAt": "2025-07-27T15:00:00Z",
-      "collectedAt": "2025-07-27T15:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "podcast",
-      "thumbnailUrl": null,
-      "author": "Mustapha Njie",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 25
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 24
   }
 }

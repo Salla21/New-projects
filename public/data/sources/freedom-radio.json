@@ -22,33 +22,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "rad-002",
-      "title": "Sports Hour: Scorpions AFCON 2025 Campaign Review",
-      "summary": "A comprehensive analysis of The Gambia's AFCON 2025 campaign with expert commentary on tactical improvements and standout performers.",
-      "sourceId": "freedom-radio",
-      "sourceName": "Freedom Radio",
-      "sourceUrl": "https://freedomnewspaper.com",
-      "originalUrl": "https://freedomnewspaper.com",
-      "publishedAt": "2025-07-27T08:00:00Z",
-      "collectedAt": "2025-07-27T08:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "radio",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 2
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 1
   }
 }

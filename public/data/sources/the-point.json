@@ -22,33 +22,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-007",
-      "title": "Tourism Arrivals Surge 30% as 2024-2025 Season Breaks Records",
-      "summary": "The Gambia Tourism Board reports a record 320,000 tourist arrivals for the 2024-2025 season, a 30% increase driven by new charter routes from Europe.",
-      "sourceId": "the-point",
-      "sourceName": "The Point",
-      "sourceUrl": "https://thepoint.gm",
-      "originalUrl": "https://thepoint.gm",
-      "publishedAt": "2025-07-27T07:00:00Z",
-      "collectedAt": "2025-07-27T07:30:00Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ousman Darboe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 2
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 1
   }
 }

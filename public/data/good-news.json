@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "870f386d0246ae50",
+      "title": "GAMBIAN ‘KILLS’ 2, DIES OF INJURIES AT U.S. GAY BAR",
+      "summary": "By Omar Bah A deadly shooting that killed three people early Monday morning, including the shooter, a Gambian, is being investigated as a hate crime, according to the Tucson Police Department. Police say that the suspect, 44-year-old Ousman Ceesay, confronted the two victims, ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-kills-2-dies-of-injuries-at-u-s-gay-bar/",
+      "publishedAt": "2026-09-02T10:35:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d75bf88a953dff2c",
+      "title": "Coalition 2026 to stage grand rally at Brikama Sunday",
+      "summary": "By Olimatou Coker Coalition 2026 will on Sunday stage a grand unity really in Brikama, to mark the official launching of the NUP/Unite Alliance. The rally is scheduled to take place at the Brikama SSP Grounds and is expected to bring together members, supporters and sympathise...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/coalition-2026-to-stage-grand-rally-at-brikama-sunday/",
+      "publishedAt": "2026-09-02T10:28:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1af354a4887e6c36",
       "title": "GALA Blames State Negligence for Ebrima Gassama’s Death, Calls for Independent Investigation",
       "summary": "By Makutu Manneh Gambians Against Looted Assets, or GALA, has accused the government of negligence in the death of Ebrima Gassama at Brikama General Hospital, calling for an independent investigation into the circumstances surrounding his death and the conditions at the facili...",
@@ -583,102 +630,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-009",
-      "title": "North Bank Farmers Adopt New Irrigation Techniques for Rice Cultivation",
-      "summary": "Over 200 rice farmers in the North Bank Region have completed training on drip irrigation methods expected to double yields in the upcoming harvest.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-27T14:00:00Z",
-      "collectedAt": "2025-07-27T14:30:00Z",
-      "region": "north-bank",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Baboucarr Gaye",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-010",
-      "title": "Scorpions Striker Adama Bojang Joins Turkish Super Lig Club",
-      "summary": "Rising star Adama Bojang has completed a move to a Turkish Super Lig side on a three-year deal worth an estimated €2 million.",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com",
-      "originalUrl": "https://thefatunetwork.com",
-      "publishedAt": "2025-07-27T12:30:00Z",
-      "collectedAt": "2025-07-27T13:00:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Kebba Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-012",
-      "title": "Gambian Diaspora Association US Pledges D20 Million for School Construction",
-      "summary": "The Gambian community in the United States has committed D20 million towards building five new primary schools in underserved rural areas.",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com",
-      "originalUrl": "https://thefatunetwork.com",
-      "publishedAt": "2025-07-27T10:00:00Z",
-      "collectedAt": "2025-07-27T10:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sarjo Camara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-007",
-      "title": "Tourism Arrivals Surge 30% as 2024-2025 Season Breaks Records",
-      "summary": "The Gambia Tourism Board reports a record 320,000 tourist arrivals for the 2024-2025 season, a 30% increase driven by new charter routes from Europe.",
-      "sourceId": "the-point",
-      "sourceName": "The Point",
-      "sourceUrl": "https://thepoint.gm",
-      "originalUrl": "https://thepoint.gm",
-      "publishedAt": "2025-07-27T07:00:00Z",
-      "collectedAt": "2025-07-27T07:30:00Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ousman Darboe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 30
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 28
   }
 }

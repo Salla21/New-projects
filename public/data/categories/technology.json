@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "870f386d0246ae50",
+      "title": "GAMBIAN ‘KILLS’ 2, DIES OF INJURIES AT U.S. GAY BAR",
+      "summary": "By Omar Bah A deadly shooting that killed three people early Monday morning, including the shooter, a Gambian, is being investigated as a hate crime, according to the Tucson Police Department. Police say that the suspect, 44-year-old Ousman Ceesay, confronted the two victims, ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-kills-2-dies-of-injuries-at-u-s-gay-bar/",
+      "publishedAt": "2026-09-02T10:35:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e154b7b75b4e10f8",
+      "title": "GAP says Jammeh’s return should not be viewed negatively",
+      "summary": "By Omar Bah The Gambia Action Party [GAP] has rejected attempts to dictate The Gambia’s political future from abroad, declaring that any return of former President Yahya Jammeh “should not be viewed negatively” and must be handled by Gambians through the country’s own laws. In...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gap-says-jammehs-return-should-not-be-viewed-negatively/",
+      "publishedAt": "2026-09-02T10:32:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bd37df961dfa6cf0",
+      "title": "Fuel prices go up again",
+      "summary": "By Olimatou Coker Government yesterday announced a slight increase in the retail pump prices of petrol, diesel and kerosene for the month of September, citing rising international crude oil and refined petroleum product prices amid continued conflict and instability in the Mid...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/fuel-prices-go-up-again/",
+      "publishedAt": "2026-09-02T10:30:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ab34c6e81e9dc752",
       "title": "Chief Jatta Tells Residents to Stand by Barrow ‘Even If I Die,’ Issues Warning to Alkalos",
       "summary": "By Fatou Sillah Lamin Mondo Jatta, the chief of Brikama North, has urged residents of the district to continue supporting President Adama Barrow even after the chief’s death, as he rallied voters behind the president ahead of the December presidential election. Jatta said his ...",
@@ -214,7 +285,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 9
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 12
   }
 }

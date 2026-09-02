@@ -1,6 +1,194 @@
 {
   "items": [
     {
+      "id": "870f386d0246ae50",
+      "title": "GAMBIAN ‘KILLS’ 2, DIES OF INJURIES AT U.S. GAY BAR",
+      "summary": "By Omar Bah A deadly shooting that killed three people early Monday morning, including the shooter, a Gambian, is being investigated as a hate crime, according to the Tucson Police Department. Police say that the suspect, 44-year-old Ousman Ceesay, confronted the two victims, ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-kills-2-dies-of-injuries-at-u-s-gay-bar/",
+      "publishedAt": "2026-09-02T10:35:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "68227636b446f9a7",
+      "title": "Imam Fatty calls on Islamic groups to stop challenging Supreme Islamic Council",
+      "summary": "By Olimatou Coker Prominent Gambian Islamic scholar, Imam Abdoulie Fatty has urged  Rawdal Majalis and other Islamic groups to stop challenging the authority of the Supreme Islamic Council, and instead work together to promote unity among Muslims in The Gambia. Imam Fatty made...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/imam-fatty-calls-on-islamic-groups-to-stop-challenging-supreme-islamic-council/",
+      "publishedAt": "2026-09-02T10:34:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9cf30e061c49abb3",
+      "title": "15 Gambians named on updated US deportation list of West Africans",
+      "summary": "By Omar Bah The United States government has published an updated deportation list naming 427 people from West Africa, including 15 Gambians, with full names, photographs and criminal charges attached. The list, released by US immigration authorities, targets individuals with ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/15-gambians-named-on-updated-us-deportation-list-of-west-africans/",
+      "publishedAt": "2026-09-02T10:33:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e154b7b75b4e10f8",
+      "title": "GAP says Jammeh’s return should not be viewed negatively",
+      "summary": "By Omar Bah The Gambia Action Party [GAP] has rejected attempts to dictate The Gambia’s political future from abroad, declaring that any return of former President Yahya Jammeh “should not be viewed negatively” and must be handled by Gambians through the country’s own laws. In...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gap-says-jammehs-return-should-not-be-viewed-negatively/",
+      "publishedAt": "2026-09-02T10:32:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b38a7014eb3fdae2",
+      "title": "Assembly to consider bill to regulate Gambia’s markets",
+      "summary": "By Omar Bah After years of chaos, and reported poor sanitation and unclear authority in The Gambia’s markets, Serekunda National Assembly Member Hon Musa Cham has tabled a Bill to create the country’s first comprehensive law to regulate, manage and operate all markets. The Bil...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/assembly-to-consider-bill-to-regulate-gambias-markets/",
+      "publishedAt": "2026-09-02T10:31:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bd37df961dfa6cf0",
+      "title": "Fuel prices go up again",
+      "summary": "By Olimatou Coker Government yesterday announced a slight increase in the retail pump prices of petrol, diesel and kerosene for the month of September, citing rising international crude oil and refined petroleum product prices amid continued conflict and instability in the Mid...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/fuel-prices-go-up-again/",
+      "publishedAt": "2026-09-02T10:30:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5dd10e5ddf9418a4",
+      "title": "NPP regional chairman condemns tribal politics",
+      "summary": "By Tabora Bojang Sarjo Ceesay, the regional chairman of the governing National People’s Party NPP in Central River Region South has condemned the ongoing spate of tribal politics and personality attacks in the national political discourse warning that tribalism has no space in...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/npp-regional-chairman-condemns-tribal-politics/",
+      "publishedAt": "2026-09-02T10:29:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "central-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d75bf88a953dff2c",
+      "title": "Coalition 2026 to stage grand rally at Brikama Sunday",
+      "summary": "By Olimatou Coker Coalition 2026 will on Sunday stage a grand unity really in Brikama, to mark the official launching of the NUP/Unite Alliance. The rally is scheduled to take place at the Brikama SSP Grounds and is expected to bring together members, supporters and sympathise...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/coalition-2026-to-stage-grand-rally-at-brikama-sunday/",
+      "publishedAt": "2026-09-02T10:28:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c15b56926f1d860c",
       "title": "GAMBIA SET FOR CAF U-17 QUALIFIERS",
       "summary": "The West African Football Union (WAFU) Zone A has released the official fixtures for its forthcoming Caf U-17 Africa Cup of Nations qualifier tournament in Senegal. The Gambia will open her account against Sierra Leone on 7th September in the late game, at 7pm. The Baby Scorpi...",
@@ -503,7 +691,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 22
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 30
   }
 }

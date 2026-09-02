@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "d75bf88a953dff2c",
+      "title": "Coalition 2026 to stage grand rally at Brikama Sunday",
+      "summary": "By Olimatou Coker Coalition 2026 will on Sunday stage a grand unity really in Brikama, to mark the official launching of the NUP/Unite Alliance. The rally is scheduled to take place at the Brikama SSP Grounds and is expected to bring together members, supporters and sympathise...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/coalition-2026-to-stage-grand-rally-at-brikama-sunday/",
+      "publishedAt": "2026-09-02T10:28:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9f7f1f9d403af519",
       "title": "Barrow Urges Gambians to Reject Tribalism, Says Unity Is Essential for Development",
       "summary": "By Makutu Manneh President Adama Barrow on Tuesday urged Gambians to reject tribalism and embrace national unity, saying ethnic divisions offer no benefit to the country and could undermine efforts to advance its development. Speaking at the inauguration of the Sanyang Beachsi...",
@@ -136,33 +160,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-007",
-      "title": "Tourism Arrivals Surge 30% as 2024-2025 Season Breaks Records",
-      "summary": "The Gambia Tourism Board reports a record 320,000 tourist arrivals for the 2024-2025 season, a 30% increase driven by new charter routes from Europe.",
-      "sourceId": "the-point",
-      "sourceName": "The Point",
-      "sourceUrl": "https://thepoint.gm",
-      "originalUrl": "https://thepoint.gm",
-      "publishedAt": "2025-07-27T07:00:00Z",
-      "collectedAt": "2025-07-27T07:30:00Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ousman Darboe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
+    "generatedAt": "2026-09-02T11:05:05.054Z",
     "count": 7
   }
 }

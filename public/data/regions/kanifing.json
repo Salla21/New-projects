@@ -161,79 +161,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "pod-001",
-      "title": "The Gambia Podcast: 2026 Election Outlook with Political Analysts",
-      "summary": "Kerr Fatou's weekly podcast hosts three political analysts discussing coalition dynamics and voter sentiment ahead of the 2026 elections.",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com",
-      "originalUrl": "https://kerrfatou.com",
-      "publishedAt": "2025-07-27T15:00:00Z",
-      "collectedAt": "2025-07-27T15:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "podcast",
-      "thumbnailUrl": null,
-      "author": "Mustapha Njie",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-010",
-      "title": "Scorpions Striker Adama Bojang Joins Turkish Super Lig Club",
-      "summary": "Rising star Adama Bojang has completed a move to a Turkish Super Lig side on a three-year deal worth an estimated €2 million.",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com",
-      "originalUrl": "https://thefatunetwork.com",
-      "publishedAt": "2025-07-27T12:30:00Z",
-      "collectedAt": "2025-07-27T13:00:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Kebba Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "rad-002",
-      "title": "Sports Hour: Scorpions AFCON 2025 Campaign Review",
-      "summary": "A comprehensive analysis of The Gambia's AFCON 2025 campaign with expert commentary on tactical improvements and standout performers.",
-      "sourceId": "freedom-radio",
-      "sourceName": "Freedom Radio",
-      "sourceUrl": "https://freedomnewspaper.com",
-      "originalUrl": "https://freedomnewspaper.com",
-      "publishedAt": "2025-07-27T08:00:00Z",
-      "collectedAt": "2025-07-27T08:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "radio",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 10
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 7
   }
 }

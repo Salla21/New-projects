@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "d16187764ee38249",
+      "title": "Senegal, IMF Agree on $2.2 Billion Loan Programme",
+      "summary": "Published by: The Fatu Network The International Monetary Fund (IMF) and Senegal have reached an agreement on a new three-year, $2.2 billion loan programme aimed at supporting economic reforms and restoring the country’s debt sustainability. The deal comes after the IMF froze ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/senegal-imf-agree-on-2-2-billion-loan-programme/",
+      "publishedAt": "2026-09-02T10:32:38.000Z",
+      "collectedAt": "2026-09-02T11:04:59.947Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "abc5f644f8502ed9",
+      "title": "15 Gambians Named on U.S. “Worst of the Worst” List",
+      "summary": "Published by: The Fatu Network 15 Gambians have been named on the United States government’s updated “Worst of the Worst” list, which now includes 427 West Africans. The list, published by the U.S. Department of Homeland Security, contains names, photographs and offences of pe...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/15-gambians-named-on-u-s-worst-of-the-worst-list/",
+      "publishedAt": "2026-09-02T10:28:14.000Z",
+      "collectedAt": "2026-09-02T11:04:59.947Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5d0fd3316e840eb4",
+      "title": "Gambian Man Dies After Allegedly Killing Two Men Outside Gay Bar in Arizona",
+      "summary": "Published by: The Fatu Network A 44-year-old man reported to be originally from The Gambia has died after police say he shot and killed two men outside Venture-N, a gay bar in Arizona, United States, early Monday. Ousman Ceesay, who had reportedly moved to Arizona from Oklahom...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambian-man-dies-after-allegedly-killing-two-men-outside-gay-bar-in-arizona/",
+      "publishedAt": "2026-09-02T10:12:13.000Z",
+      "collectedAt": "2026-09-02T11:04:59.947Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6215c08275f01cac",
       "title": "Barrow Says Government Supports 35,000 Vulnerable Families Monthly",
       "summary": "Written by: Mama A. Touray President Adama Barrow has said his government provides monthly financial support to 35,000 vulnerable families across The Gambia to help them meet their basic needs. The president made the remarks over the weekend while addressing a gathering of far...",
@@ -476,56 +544,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-010",
-      "title": "Scorpions Striker Adama Bojang Joins Turkish Super Lig Club",
-      "summary": "Rising star Adama Bojang has completed a move to a Turkish Super Lig side on a three-year deal worth an estimated €2 million.",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com",
-      "originalUrl": "https://thefatunetwork.com",
-      "publishedAt": "2025-07-27T12:30:00Z",
-      "collectedAt": "2025-07-27T13:00:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Kebba Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-012",
-      "title": "Gambian Diaspora Association US Pledges D20 Million for School Construction",
-      "summary": "The Gambian community in the United States has committed D20 million towards building five new primary schools in underserved rural areas.",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com",
-      "originalUrl": "https://thefatunetwork.com",
-      "publishedAt": "2025-07-27T10:00:00Z",
-      "collectedAt": "2025-07-27T10:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sarjo Camara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 23
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 24
   }
 }

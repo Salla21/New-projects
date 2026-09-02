@@ -248,33 +248,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-009",
-      "title": "North Bank Farmers Adopt New Irrigation Techniques for Rice Cultivation",
-      "summary": "Over 200 rice farmers in the North Bank Region have completed training on drip irrigation methods expected to double yields in the upcoming harvest.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-27T14:00:00Z",
-      "collectedAt": "2025-07-27T14:30:00Z",
-      "region": "north-bank",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Baboucarr Gaye",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 12
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 11
   }
 }

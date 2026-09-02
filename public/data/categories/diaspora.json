@@ -1,6 +1,80 @@
 {
   "items": [
     {
+      "id": "9cf30e061c49abb3",
+      "title": "15 Gambians named on updated US deportation list of West Africans",
+      "summary": "By Omar Bah The United States government has published an updated deportation list naming 427 people from West Africa, including 15 Gambians, with full names, photographs and criminal charges attached. The list, released by US immigration authorities, targets individuals with ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/15-gambians-named-on-updated-us-deportation-list-of-west-africans/",
+      "publishedAt": "2026-09-02T10:33:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e154b7b75b4e10f8",
+      "title": "GAP says Jammeh’s return should not be viewed negatively",
+      "summary": "By Omar Bah The Gambia Action Party [GAP] has rejected attempts to dictate The Gambia’s political future from abroad, declaring that any return of former President Yahya Jammeh “should not be viewed negatively” and must be handled by Gambians through the country’s own laws. In...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gap-says-jammehs-return-should-not-be-viewed-negatively/",
+      "publishedAt": "2026-09-02T10:32:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b38a7014eb3fdae2",
+      "title": "Assembly to consider bill to regulate Gambia’s markets",
+      "summary": "By Omar Bah After years of chaos, and reported poor sanitation and unclear authority in The Gambia’s markets, Serekunda National Assembly Member Hon Musa Cham has tabled a Bill to create the country’s first comprehensive law to regulate, manage and operate all markets. The Bil...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/assembly-to-consider-bill-to-regulate-gambias-markets/",
+      "publishedAt": "2026-09-02T10:31:00.000Z",
+      "collectedAt": "2026-09-02T11:04:54.697Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a418f04468dab129",
       "title": "America first, Africa when? The visa wall that should wake up The Gambia",
       "summary": "By Mohammed Jallow There is a certain irony in watching a nation whose history is inseparable from immigration increasingly build political walls against the very phenomenon that helped construct its economic, cultural and demographic strength. America has every sovereign righ...",
@@ -188,33 +262,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-012",
-      "title": "Gambian Diaspora Association US Pledges D20 Million for School Construction",
-      "summary": "The Gambian community in the United States has committed D20 million towards building five new primary schools in underserved rural areas.",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com",
-      "originalUrl": "https://thefatunetwork.com",
-      "publishedAt": "2025-07-27T10:00:00Z",
-      "collectedAt": "2025-07-27T10:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sarjo Camara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 9
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 11
   }
 }

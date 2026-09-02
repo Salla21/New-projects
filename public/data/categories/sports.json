@@ -189,56 +189,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-010",
-      "title": "Scorpions Striker Adama Bojang Joins Turkish Super Lig Club",
-      "summary": "Rising star Adama Bojang has completed a move to a Turkish Super Lig side on a three-year deal worth an estimated €2 million.",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com",
-      "originalUrl": "https://thefatunetwork.com",
-      "publishedAt": "2025-07-27T12:30:00Z",
-      "collectedAt": "2025-07-27T13:00:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Kebba Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "rad-002",
-      "title": "Sports Hour: Scorpions AFCON 2025 Campaign Review",
-      "summary": "A comprehensive analysis of The Gambia's AFCON 2025 campaign with expert commentary on tactical improvements and standout performers.",
-      "sourceId": "freedom-radio",
-      "sourceName": "Freedom Radio",
-      "sourceUrl": "https://freedomnewspaper.com",
-      "originalUrl": "https://freedomnewspaper.com",
-      "publishedAt": "2025-07-27T08:00:00Z",
-      "collectedAt": "2025-07-27T08:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "radio",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
-    "count": 10
+    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "count": 8
   }
 }
