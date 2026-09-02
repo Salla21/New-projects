@@ -66,79 +66,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "08ccc366a843624f",
-      "title": "Injured Gambians Stranded in Guinea After Being Denied Entry Into Senegal Following Fatal Crash",
-      "summary": "By Dawda Baldeh Two Gambians seriously injured in a deadly road accident in Guinea are reportedly stranded there after Senegalese border authorities refused to allow them to enter Senegal and continue their journey home to The Gambia. Muhammad Badjie, a Gambian truck apprentic...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/injured-gambians-stranded-in-guinea-after-being-denied-entry-into-senegal-following-fatal-crash/",
-      "publishedAt": "2026-08-18T12:00:02.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "83781e15c4f927ad",
-      "title": "Senegal Parliament Passes Asset Declaration Reform in Major Win for Sonko",
-      "summary": "Published by: The Fatu Network Senegal’s parliament has passed a new constitutional amendment requiring the President, Prime Minister and Speaker of the National Assembly to publicly declare their assets when they take office and when they leave. The measure was approved on Mo...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/senegal-parliament-passes-asset-declaration-reform-in-major-win-for-sonko/",
-      "publishedAt": "2026-08-18T11:47:11.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "23b581446d1a0296",
-      "title": "Bensouda Takes Nationwide Tour to Upper River Region",
-      "summary": "UNITE Party UNITE Party Leader and Coalition 2026 Flagbearer Talib Ahmed Bensouda has taken his nationwide tour into the heart of President Adama Barrow’s political stronghold, the Upper River Region. Bensouda and his delegation have been touring communities across URR since F...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/press-release-bensouda-takes-nationwide-tour-to-upper-river-region/",
-      "publishedAt": "2026-08-18T09:44:09.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T20:55:00.826Z",
-    "count": 6
+    "generatedAt": "2026-09-02T23:59:34.566Z",
+    "count": 3
   }
 }

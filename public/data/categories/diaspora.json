@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "39c12e80f707e00b",
+      "title": "Darboe Promises Better Support for Teachers, Nurses, and Security Personnel",
+      "summary": "By Fatou Sillah Ousainou Darboe, the leader and presidential candidate of the United Democratic Party, has pledged to improve working conditions and expand financial support for teachers, nurses, and security personnel if elected president in December. Speaking during a courte...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-promises-better-support-for-teachers-nurses-and-security-personnel/",
+      "publishedAt": "2026-09-02T22:31:29.000Z",
+      "collectedAt": "2026-09-02T23:59:30.518Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9cf30e061c49abb3",
       "title": "15 Gambians named on updated US deportation list of West Africans",
       "summary": "By Omar Bah The United States government has published an updated deportation list naming 427 people from West Africa, including 15 Gambians, with full names, photographs and criminal charges attached. The list, released by US immigration authorities, targets individuals with ...",
@@ -225,7 +250,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-02T20:54:54.795Z",
+      "collectedAt": "2026-09-02T23:59:28.825Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -242,7 +267,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T20:55:00.826Z",
-    "count": 10
+    "generatedAt": "2026-09-02T23:59:34.566Z",
+    "count": 11
   }
 }

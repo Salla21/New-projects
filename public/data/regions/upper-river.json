@@ -45,33 +45,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "23b581446d1a0296",
-      "title": "Bensouda Takes Nationwide Tour to Upper River Region",
-      "summary": "UNITE Party UNITE Party Leader and Coalition 2026 Flagbearer Talib Ahmed Bensouda has taken his nationwide tour into the heart of President Adama Barrow’s political stronghold, the Upper River Region. Bensouda and his delegation have been touring communities across URR since F...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/press-release-bensouda-takes-nationwide-tour-to-upper-river-region/",
-      "publishedAt": "2026-08-18T09:44:09.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T20:55:00.826Z",
-    "count": 3
+    "generatedAt": "2026-09-02T23:59:34.566Z",
+    "count": 2
   }
 }

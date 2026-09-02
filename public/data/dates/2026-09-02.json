@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "39c12e80f707e00b",
+      "title": "Darboe Promises Better Support for Teachers, Nurses, and Security Personnel",
+      "summary": "By Fatou Sillah Ousainou Darboe, the leader and presidential candidate of the United Democratic Party, has pledged to improve working conditions and expand financial support for teachers, nurses, and security personnel if elected president in December. Speaking during a courte...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-promises-better-support-for-teachers-nurses-and-security-personnel/",
+      "publishedAt": "2026-09-02T22:31:29.000Z",
+      "collectedAt": "2026-09-02T23:59:30.518Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2a0c9bbaf343b417",
+      "title": "‘Are We Truly Being Represented?’ Upper Fulladu Youth Leader Demands Accountability",
+      "summary": "Written by: Dawda Baldeh Ebrima K. Baldeh, a resident of Sare Soffie, has called for greater accountability and better political representation in Upper Fulladu West, urging voters, particularly young people, to reject empty promises and demand results from their elected repre...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/are-we-truly-being-represented-upper-fulladu-youth-leader-demands-accountability/",
+      "publishedAt": "2026-09-02T21:57:06.000Z",
+      "collectedAt": "2026-09-02T23:59:29.211Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3a34f453ec30c739",
       "title": "Information Minister Dismisses Darboe’s Proposal to Cut President’s Salary, Says UDP Is ‘Not Ready for Government’",
       "summary": "By Fatou Sillah The Minister of Information, Media, and Broadcasting Services, Dr. Ismaila Ceesay, has dismissed proposals to reduce the president’s salary as an inadequate response to The Gambia’s economic challenges, arguing that meaningful fiscal reform would require a broa...",
@@ -781,7 +829,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T20:55:00.826Z",
-    "count": 34
+    "generatedAt": "2026-09-02T23:59:34.566Z",
+    "count": 36
   }
 }

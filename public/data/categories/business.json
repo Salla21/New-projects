@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "39c12e80f707e00b",
+      "title": "Darboe Promises Better Support for Teachers, Nurses, and Security Personnel",
+      "summary": "By Fatou Sillah Ousainou Darboe, the leader and presidential candidate of the United Democratic Party, has pledged to improve working conditions and expand financial support for teachers, nurses, and security personnel if elected president in December. Speaking during a courte...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-promises-better-support-for-teachers-nurses-and-security-personnel/",
+      "publishedAt": "2026-09-02T22:31:29.000Z",
+      "collectedAt": "2026-09-02T23:59:30.518Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3a34f453ec30c739",
       "title": "Information Minister Dismisses Darboe’s Proposal to Cut President’s Salary, Says UDP Is ‘Not Ready for Government’",
       "summary": "By Fatou Sillah The Minister of Information, Media, and Broadcasting Services, Dr. Ismaila Ceesay, has dismissed proposals to reduce the president’s salary as an inadequate response to The Gambia’s economic challenges, arguing that meaningful fiscal reform would require a broa...",
@@ -741,29 +766,6 @@
       "status": "published"
     },
     {
-      "id": "08ccc366a843624f",
-      "title": "Injured Gambians Stranded in Guinea After Being Denied Entry Into Senegal Following Fatal Crash",
-      "summary": "By Dawda Baldeh Two Gambians seriously injured in a deadly road accident in Guinea are reportedly stranded there after Senegalese border authorities refused to allow them to enter Senegal and continue their journey home to The Gambia. Muhammad Badjie, a Gambian truck apprentic...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/injured-gambians-stranded-in-guinea-after-being-denied-entry-into-senegal-following-fatal-crash/",
-      "publishedAt": "2026-08-18T12:00:02.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -772,7 +774,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-02T20:54:54.795Z",
+      "collectedAt": "2026-09-02T23:59:28.825Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -796,7 +798,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-02T20:54:54.795Z",
+      "collectedAt": "2026-09-02T23:59:28.825Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -819,7 +821,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-02T20:54:54.795Z",
+      "collectedAt": "2026-09-02T23:59:28.825Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -836,7 +838,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T20:55:00.826Z",
+    "generatedAt": "2026-09-02T23:59:34.566Z",
     "count": 35
   }
 }

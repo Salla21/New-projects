@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "39c12e80f707e00b",
+      "title": "Darboe Promises Better Support for Teachers, Nurses, and Security Personnel",
+      "summary": "By Fatou Sillah Ousainou Darboe, the leader and presidential candidate of the United Democratic Party, has pledged to improve working conditions and expand financial support for teachers, nurses, and security personnel if elected president in December. Speaking during a courte...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-promises-better-support-for-teachers-nurses-and-security-personnel/",
+      "publishedAt": "2026-09-02T22:31:29.000Z",
+      "collectedAt": "2026-09-02T23:59:30.518Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2a0c9bbaf343b417",
+      "title": "‘Are We Truly Being Represented?’ Upper Fulladu Youth Leader Demands Accountability",
+      "summary": "Written by: Dawda Baldeh Ebrima K. Baldeh, a resident of Sare Soffie, has called for greater accountability and better political representation in Upper Fulladu West, urging voters, particularly young people, to reject empty promises and demand results from their elected repre...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/are-we-truly-being-represented-upper-fulladu-youth-leader-demands-accountability/",
+      "publishedAt": "2026-09-02T21:57:06.000Z",
+      "collectedAt": "2026-09-02T23:59:29.211Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3a34f453ec30c739",
       "title": "Information Minister Dismisses Darboe’s Proposal to Cut President’s Salary, Says UDP Is ‘Not Ready for Government’",
       "summary": "By Fatou Sillah The Minister of Information, Media, and Broadcasting Services, Dr. Ismaila Ceesay, has dismissed proposals to reduce the president’s salary as an inadequate response to The Gambia’s economic challenges, arguing that meaningful fiscal reform would require a broa...",
@@ -1209,52 +1257,6 @@
       "status": "published"
     },
     {
-      "id": "83781e15c4f927ad",
-      "title": "Senegal Parliament Passes Asset Declaration Reform in Major Win for Sonko",
-      "summary": "Published by: The Fatu Network Senegal’s parliament has passed a new constitutional amendment requiring the President, Prime Minister and Speaker of the National Assembly to publicly declare their assets when they take office and when they leave. The measure was approved on Mo...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/senegal-parliament-passes-asset-declaration-reform-in-major-win-for-sonko/",
-      "publishedAt": "2026-08-18T11:47:11.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "23b581446d1a0296",
-      "title": "Bensouda Takes Nationwide Tour to Upper River Region",
-      "summary": "UNITE Party UNITE Party Leader and Coalition 2026 Flagbearer Talib Ahmed Bensouda has taken his nationwide tour into the heart of President Adama Barrow’s political stronghold, the Upper River Region. Bensouda and his delegation have been touring communities across URR since F...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/press-release-bensouda-takes-nationwide-tour-to-upper-river-region/",
-      "publishedAt": "2026-08-18T09:44:09.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1263,7 +1265,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-08-21T05:29:06.532Z",
+      "collectedAt": "2026-09-02T23:59:28.825Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1286,7 +1288,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-02T20:54:54.795Z",
+      "collectedAt": "2026-09-02T23:59:28.825Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1309,7 +1311,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-02T20:54:54.795Z",
+      "collectedAt": "2026-09-02T23:59:28.825Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1326,7 +1328,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T20:55:00.826Z",
+    "generatedAt": "2026-09-02T23:59:34.566Z",
     "count": 56
   }
 }
