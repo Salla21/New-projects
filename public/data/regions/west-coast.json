@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "9f7f1f9d403af519",
+      "title": "Barrow Urges Gambians to Reject Tribalism, Says Unity Is Essential for Development",
+      "summary": "By Makutu Manneh President Adama Barrow on Tuesday urged Gambians to reject tribalism and embrace national unity, saying ethnic divisions offer no benefit to the country and could undermine efforts to advance its development. Speaking at the inauguration of the Sanyang Beachsi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-urges-gambians-to-reject-tribalism-says-unity-is-essential-for-development/",
+      "publishedAt": "2026-09-02T00:20:16.000Z",
+      "collectedAt": "2026-09-02T04:16:04.797Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ab34c6e81e9dc752",
       "title": "Chief Jatta Tells Residents to Stand by Barrow ‘Even If I Die,’ Issues Warning to Alkalos",
       "summary": "By Fatou Sillah Lamin Mondo Jatta, the chief of Brikama North, has urged residents of the district to continue supporting President Adama Barrow even after the chief’s death, as he rallied voters behind the president ahead of the December presidential election. Jatta said his ...",
@@ -139,7 +162,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-01T23:57:15.041Z",
-    "count": 6
+    "generatedAt": "2026-09-02T04:16:10.507Z",
+    "count": 7
   }
 }

@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d7110295bf3f389d",
+      "title": "Barrow Promises End to Power Outages as Government Orders New Generators, Plans 50-Megawatt Solar Plant",
+      "summary": "By Makutu Manneh President Adama Barrow said Tuesday that persistent electricity outages in The Gambia would soon be a thing of the past, citing the purchase of three new power generators and plans for a 50-megawatt solar plant as part of his government’s efforts to expand and...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-promises-end-to-power-outages-as-government-orders-new-generators-plans-50-megawatt-solar-plant/",
+      "publishedAt": "2026-09-02T00:26:01.000Z",
+      "collectedAt": "2026-09-02T04:16:04.797Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9f7f1f9d403af519",
+      "title": "Barrow Urges Gambians to Reject Tribalism, Says Unity Is Essential for Development",
+      "summary": "By Makutu Manneh President Adama Barrow on Tuesday urged Gambians to reject tribalism and embrace national unity, saying ethnic divisions offer no benefit to the country and could undermine efforts to advance its development. Speaking at the inauguration of the Sanyang Beachsi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-urges-gambians-to-reject-tribalism-says-unity-is-essential-for-development/",
+      "publishedAt": "2026-09-02T00:20:16.000Z",
+      "collectedAt": "2026-09-02T04:16:04.797Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6215c08275f01cac",
       "title": "Barrow Says Government Supports 35,000 Vulnerable Families Monthly",
       "summary": "Written by: Mama A. Touray President Adama Barrow has said his government provides monthly financial support to 35,000 vulnerable families across The Gambia to help them meet their basic needs. The president made the remarks over the weekend while addressing a gathering of far...",
@@ -964,34 +1010,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-008",
-      "title": "National Biometric ID Rollout Reaches 80% Coverage",
-      "summary": "The Ministry of Information reports that 80% of eligible citizens have now received their national biometric identity cards under the Digital Gambia initiative.",
-      "sourceId": "grts",
-      "sourceName": "GRTS",
-      "sourceUrl": "https://grts.gm",
-      "originalUrl": "https://grts.gm",
-      "publishedAt": "2025-07-26T16:00:00Z",
-      "collectedAt": "2025-07-26T16:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "technology",
-        "politics"
-      ],
-      "contentType": "official-update",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": true,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-01T23:57:15.041Z",
-    "count": 42
+    "generatedAt": "2026-09-02T04:16:10.507Z",
+    "count": 43
   }
 }
