@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "0d2727a05478af74",
+      "title": "Information Minister Says Opinion Polls Could Require Approval Under Proposed Research Council",
+      "summary": "By Fatou Sillah The Gambia’s information minister said researchers and organizations conducting public opinion polls could be required to obtain clearance from a proposed national research council under legislation recently approved by the cabinet. Dr. Ismaila Ceesay, the Mini...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/information-minister-says-opinion-polls-could-require-approval-under-proposed-research-council/",
+      "publishedAt": "2026-09-02T16:22:38.000Z",
+      "collectedAt": "2026-09-02T16:25:44.035Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7a58c209c73ddbbd",
+      "title": "IEC Says Revising Courts Have Begun Hearing 2026 Voter Registration Objections",
+      "summary": "By Makutu Manneh The Independent Electoral Commission has announced the commencement of Revising Court hearings across The Gambia to consider objections arising from the 2026 supplementary voter registration exercise. In a statement issued on Aug. 31, the commission said magis...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-says-revising-courts-have-begun-hearing-2026-voter-registration-objections/",
+      "publishedAt": "2026-09-02T16:07:08.000Z",
+      "collectedAt": "2026-09-02T16:25:44.035Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d7110295bf3f389d",
       "title": "Barrow Promises End to Power Outages as Government Orders New Generators, Plans 50-Megawatt Solar Plant",
       "summary": "By Makutu Manneh President Adama Barrow said Tuesday that persistent electricity outages in The Gambia would soon be a thing of the past, citing the purchase of three new power generators and plans for a 50-megawatt solar plant as part of his government’s efforts to expand and...",
@@ -537,33 +583,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-006",
-      "title": "Diaspora Investment Fund Reaches D50 Million Milestone",
-      "summary": "The Gambian Diaspora Investment Fund has crossed the D50 million mark with contributions from over 2,000 Gambians living abroad.",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com",
-      "originalUrl": "https://kerrfatou.com",
-      "publishedAt": "2025-07-28T07:45:00Z",
-      "collectedAt": "2025-07-28T08:15:00Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Isatou Drammeh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
-    "count": 24
+    "generatedAt": "2026-09-02T16:25:48.206Z",
+    "count": 25
   }
 }

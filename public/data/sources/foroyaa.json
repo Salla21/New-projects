@@ -225,33 +225,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-004",
-      "title": "UTG Graduates Record 1,200 Students at 2025 Convocation",
-      "summary": "The University of The Gambia has conferred degrees on 1,200 graduates at its 2025 convocation ceremony, the largest cohort since the institution's founding.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-28T10:15:00Z",
-      "collectedAt": "2025-07-28T10:45:00Z",
-      "region": "kanifing",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ebrima Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
-    "count": 11
+    "generatedAt": "2026-09-02T16:25:48.206Z",
+    "count": 10
   }
 }

@@ -316,54 +316,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6f9fce029729b353",
-      "title": "Young Singer Celebrates Milestone as Career Continues Rapid Rise",
-      "summary": "Young Singer, one of The Gambia’s emerging music talents, is preparing to headline the Emang Keh Foroti…\nThe post Young Singer Celebrates Milestone as Career Continues Rapid Rise appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/young-singer-celebrates-milestone-as-career-continues-rapid-rise/",
-      "publishedAt": "2026-08-05T01:37:54.000Z",
-      "collectedAt": "2026-08-21T05:29:06.650Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Saidy",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9afb616b2194fb9a",
-      "title": "TikTok Fame, Expensive Gifts and a Police Case: BB Rema’s Scandal Shakes Senegal",
-      "summary": "Senegalese TikTok sensation BB Rema, who boasts more than one million followers, has reportedly been ordered…\nThe post TikTok Fame, Expensive Gifts and a Police Case: BB Rema’s Scandal Shakes Senegal appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/tiktok-fame-expensive-gifts-and-a-police-case-bb-remas-scandal-shakes-senegal/",
-      "publishedAt": "2026-08-05T01:25:50.000Z",
-      "collectedAt": "2026-08-21T05:29:06.650Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
-    "count": 17
+    "generatedAt": "2026-09-02T16:25:48.206Z",
+    "count": 15
   }
 }

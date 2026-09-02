@@ -239,33 +239,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-006",
-      "title": "Diaspora Investment Fund Reaches D50 Million Milestone",
-      "summary": "The Gambian Diaspora Investment Fund has crossed the D50 million mark with contributions from over 2,000 Gambians living abroad.",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com",
-      "originalUrl": "https://kerrfatou.com",
-      "publishedAt": "2025-07-28T07:45:00Z",
-      "collectedAt": "2025-07-28T08:15:00Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Isatou Drammeh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
-    "count": 11
+    "generatedAt": "2026-09-02T16:25:48.206Z",
+    "count": 10
   }
 }

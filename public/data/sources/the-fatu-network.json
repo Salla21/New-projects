@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "3f892742f50f52e9",
+      "title": "Sonko Warns Senegal Against “Mistakes of the Past” in $2.2 Billion IMF Deal",
+      "summary": "Published by: The Fatu Network Ousmane Sonko has warned that Senegal risks repeating “the mistakes of the past” under its new $2.2 billion agreement with the International Monetary Fund (IMF), demanding “absolute transparency” over the country’s commitments. The National Assem...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sonko-warns-senegal-against-mistakes-of-the-past-in-2-2-billion-imf-deal/",
+      "publishedAt": "2026-09-02T12:27:47.000Z",
+      "collectedAt": "2026-09-02T16:25:42.534Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3a90a77d75b8e5bc",
+      "title": "Gambia Moves to 9-Digit Mobile Numbers From Friday",
+      "summary": "Published by: The Fatu Network The Gambia will begin switching to a new 9-digit mobile phone numbering system from Friday, September 4th, under a new directive from the Public Utilities Regulatory Authority (PURA). Africell users will add 87 before their existing 7-digit numbe...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-moves-to-9-digit-mobile-numbers-from-friday/",
+      "publishedAt": "2026-09-02T11:33:49.000Z",
+      "collectedAt": "2026-09-02T16:25:42.534Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "606fefa499b0f1f8",
+      "title": "“The Roads We Construct Today Must Anticipate the Demands of Tomorrow” – Barrow",
+      "summary": "Published by: The Fatu Network President Adama Barrow on Tuesday inaugurated the new 4.5-kilometre Sanyang Beach Side Road in Kombo South, saying the project will improve access to the coast and support fishing, farming, tourism, trade and other businesses in the area. The con...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-roads-we-construct-today-must-anticipate-the-demands-of-tomorrow-barrow/",
+      "publishedAt": "2026-09-02T11:16:45.000Z",
+      "collectedAt": "2026-09-02T16:25:42.534Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d16187764ee38249",
       "title": "Senegal, IMF Agree on $2.2 Billion Loan Programme",
       "summary": "Published by: The Fatu Network The International Monetary Fund (IMF) and Senegal have reached an agreement on a new three-year, $2.2 billion loan programme aimed at supporting economic reforms and restoring the country’s debt sustainability. The deal comes after the IMF froze ...",
@@ -547,7 +617,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
-    "count": 24
+    "generatedAt": "2026-09-02T16:25:48.206Z",
+    "count": 27
   }
 }

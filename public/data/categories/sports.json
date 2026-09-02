@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8b5d10e8266f3f1b",
+      "title": "IN APPRECIATION OF A BROTHER AND COLLEAGUE",
+      "summary": "Ex-GFF president Bajo’s glowing tribute to VP Bakary K Jammeh Former Gambia Football Federation president Lamin Kaba Bajo has paid a glowing tribute to his first vice president Bakary Jammeh alias Baks. Both football officials left office last weekend after 12 years, in respec...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/in-appreciation-of-a-brother-and-colleague/",
+      "publishedAt": "2026-09-02T11:53:40.000Z",
+      "collectedAt": "2026-09-02T16:25:32.970Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c15b56926f1d860c",
       "title": "GAMBIA SET FOR CAF U-17 QUALIFIERS",
       "summary": "The West African Football Union (WAFU) Zone A has released the official fixtures for its forthcoming Caf U-17 Africa Cup of Nations qualifier tournament in Senegal. The Gambia will open her account against Sierra Leone on 7th September in the late game, at 7pm. The Baby Scorpi...",
@@ -166,33 +190,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-002",
-      "title": "Scorpions Captain Named in CAF Team of the Year Shortlist",
-      "summary": "National team captain Musa Barrow has been nominated for the CAF Team of the Year following an outstanding club season in Europe.",
-      "sourceId": "the-point",
-      "sourceName": "The Point",
-      "sourceUrl": "https://thepoint.gm",
-      "originalUrl": "https://thepoint.gm",
-      "publishedAt": "2025-07-28T13:45:00Z",
-      "collectedAt": "2025-07-28T14:00:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Ceesay",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
+    "generatedAt": "2026-09-02T16:25:48.206Z",
     "count": 8
   }
 }

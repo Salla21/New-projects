@@ -69,102 +69,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-002",
-      "title": "Scorpions Captain Named in CAF Team of the Year Shortlist",
-      "summary": "National team captain Musa Barrow has been nominated for the CAF Team of the Year following an outstanding club season in Europe.",
-      "sourceId": "the-point",
-      "sourceName": "The Point",
-      "sourceUrl": "https://thepoint.gm",
-      "originalUrl": "https://thepoint.gm",
-      "publishedAt": "2025-07-28T13:45:00Z",
-      "collectedAt": "2025-07-28T14:00:00Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Ceesay",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-004",
-      "title": "UTG Graduates Record 1,200 Students at 2025 Convocation",
-      "summary": "The University of The Gambia has conferred degrees on 1,200 graduates at its 2025 convocation ceremony, the largest cohort since the institution's founding.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-28T10:15:00Z",
-      "collectedAt": "2025-07-28T10:45:00Z",
-      "region": "kanifing",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ebrima Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "rad-001",
-      "title": "Morning Debate: Should The Gambia Adopt a New Constitution Before 2026?",
-      "summary": "Freedom Radio's flagship programme hosts a heated panel discussion on whether the draft constitution should be enacted before the 2026 elections.",
-      "sourceId": "freedom-radio",
-      "sourceName": "Freedom Radio",
-      "sourceUrl": "https://freedomnewspaper.com",
-      "originalUrl": "https://freedomnewspaper.com",
-      "publishedAt": "2025-07-28T09:00:00Z",
-      "collectedAt": "2025-07-28T09:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "radio",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-005",
-      "title": "Kanifing Industrial Estate Attracts D500 Million in New Investments",
-      "summary": "Three new manufacturing firms have committed D500 million in investments to the Kanifing Industrial Estate, expected to create over 400 permanent jobs.",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm",
-      "originalUrl": "https://standard.gm",
-      "publishedAt": "2025-07-28T08:30:00Z",
-      "collectedAt": "2025-07-28T09:00:00Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Amadou Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
-    "count": 7
+    "generatedAt": "2026-09-02T16:25:48.206Z",
+    "count": 3
   }
 }

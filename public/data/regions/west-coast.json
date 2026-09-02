@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "8b5d10e8266f3f1b",
+      "title": "IN APPRECIATION OF A BROTHER AND COLLEAGUE",
+      "summary": "Ex-GFF president Bajo’s glowing tribute to VP Bakary K Jammeh Former Gambia Football Federation president Lamin Kaba Bajo has paid a glowing tribute to his first vice president Bakary Jammeh alias Baks. Both football officials left office last weekend after 12 years, in respec...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/in-appreciation-of-a-brother-and-colleague/",
+      "publishedAt": "2026-09-02T11:53:40.000Z",
+      "collectedAt": "2026-09-02T16:25:32.970Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "606fefa499b0f1f8",
+      "title": "“The Roads We Construct Today Must Anticipate the Demands of Tomorrow” – Barrow",
+      "summary": "Published by: The Fatu Network President Adama Barrow on Tuesday inaugurated the new 4.5-kilometre Sanyang Beach Side Road in Kombo South, saying the project will improve access to the coast and support fishing, farming, tourism, trade and other businesses in the area. The con...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-roads-we-construct-today-must-anticipate-the-demands-of-tomorrow-barrow/",
+      "publishedAt": "2026-09-02T11:16:45.000Z",
+      "collectedAt": "2026-09-02T16:25:42.534Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d75bf88a953dff2c",
       "title": "Coalition 2026 to stage grand rally at Brikama Sunday",
       "summary": "By Olimatou Coker Coalition 2026 will on Sunday stage a grand unity really in Brikama, to mark the official launching of the NUP/Unite Alliance. The rally is scheduled to take place at the Brikama SSP Grounds and is expected to bring together members, supporters and sympathise...",
@@ -163,7 +211,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
-    "count": 7
+    "generatedAt": "2026-09-02T16:25:48.206Z",
+    "count": 9
   }
 }

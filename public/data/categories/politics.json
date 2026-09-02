@@ -1,6 +1,171 @@
 {
   "items": [
     {
+      "id": "0d2727a05478af74",
+      "title": "Information Minister Says Opinion Polls Could Require Approval Under Proposed Research Council",
+      "summary": "By Fatou Sillah The Gambia’s information minister said researchers and organizations conducting public opinion polls could be required to obtain clearance from a proposed national research council under legislation recently approved by the cabinet. Dr. Ismaila Ceesay, the Mini...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/information-minister-says-opinion-polls-could-require-approval-under-proposed-research-council/",
+      "publishedAt": "2026-09-02T16:22:38.000Z",
+      "collectedAt": "2026-09-02T16:25:44.035Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7a58c209c73ddbbd",
+      "title": "IEC Says Revising Courts Have Begun Hearing 2026 Voter Registration Objections",
+      "summary": "By Makutu Manneh The Independent Electoral Commission has announced the commencement of Revising Court hearings across The Gambia to consider objections arising from the 2026 supplementary voter registration exercise. In a statement issued on Aug. 31, the commission said magis...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-says-revising-courts-have-begun-hearing-2026-voter-registration-objections/",
+      "publishedAt": "2026-09-02T16:07:08.000Z",
+      "collectedAt": "2026-09-02T16:25:44.035Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3f892742f50f52e9",
+      "title": "Sonko Warns Senegal Against “Mistakes of the Past” in $2.2 Billion IMF Deal",
+      "summary": "Published by: The Fatu Network Ousmane Sonko has warned that Senegal risks repeating “the mistakes of the past” under its new $2.2 billion agreement with the International Monetary Fund (IMF), demanding “absolute transparency” over the country’s commitments. The National Assem...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sonko-warns-senegal-against-mistakes-of-the-past-in-2-2-billion-imf-deal/",
+      "publishedAt": "2026-09-02T12:27:47.000Z",
+      "collectedAt": "2026-09-02T16:25:42.534Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8b5d10e8266f3f1b",
+      "title": "IN APPRECIATION OF A BROTHER AND COLLEAGUE",
+      "summary": "Ex-GFF president Bajo’s glowing tribute to VP Bakary K Jammeh Former Gambia Football Federation president Lamin Kaba Bajo has paid a glowing tribute to his first vice president Bakary Jammeh alias Baks. Both football officials left office last weekend after 12 years, in respec...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/in-appreciation-of-a-brother-and-colleague/",
+      "publishedAt": "2026-09-02T11:53:40.000Z",
+      "collectedAt": "2026-09-02T16:25:32.970Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3ac781f95e7c11f7",
+      "title": "African nations can use the current crisis to build food systems that can take a hit. Kigali is where it comes together",
+      "summary": "By Juan Lucas Restrepo Heads of state, agriculture and finance ministers and investors meet in Kigali from 31 August for the Africa Food Systems Forum, the continent’s largest agricultural gathering. They arrive with an opportunity: to build a food system that holds up against...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/african-nations-can-use-the-current-crisis-to-build-food-systems-that-can-take-a-hit-kigali-is-where-it-comes-together/",
+      "publishedAt": "2026-09-02T11:51:00.000Z",
+      "collectedAt": "2026-09-02T16:25:32.970Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "af4b34d4e462d227",
+      "title": "Gambia Participates perception survey and the 2026 presidential election: Why methodology matters",
+      "summary": "Dear Editor,As The Gambia moves towards the 2026 presidential election, public opinion surveys are becoming an increasingly important part of our political conversation. Recently, the Gambia Participates perception survey generated considerable public discussion about the rela...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambia-participates-perception-survey-and-the-2026-presidential-election-why-methodology-matters/",
+      "publishedAt": "2026-09-02T11:22:44.000Z",
+      "collectedAt": "2026-09-02T16:25:32.970Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "606fefa499b0f1f8",
+      "title": "“The Roads We Construct Today Must Anticipate the Demands of Tomorrow” – Barrow",
+      "summary": "Published by: The Fatu Network President Adama Barrow on Tuesday inaugurated the new 4.5-kilometre Sanyang Beach Side Road in Kombo South, saying the project will improve access to the coast and support fishing, farming, tourism, trade and other businesses in the area. The con...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-roads-we-construct-today-must-anticipate-the-demands-of-tomorrow-barrow/",
+      "publishedAt": "2026-09-02T11:16:45.000Z",
+      "collectedAt": "2026-09-02T16:25:42.534Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d16187764ee38249",
       "title": "Senegal, IMF Agree on $2.2 Billion Loan Programme",
       "summary": "Published by: The Fatu Network The International Monetary Fund (IMF) and Senegal have reached an agreement on a new three-year, $2.2 billion loan programme aimed at supporting economic reforms and restoring the country’s debt sustainability. The deal comes after the IMF froze ...",
@@ -1039,79 +1204,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-001",
-      "title": "National Assembly Passes 2025-2026 Appropriation Bill After Marathon Debate",
-      "summary": "The National Assembly has approved the D38.2 billion appropriation bill for fiscal year 2025-2026 following three days of intense debate on allocations for education and health.",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm",
-      "originalUrl": "https://standard.gm",
-      "publishedAt": "2025-07-28T14:30:00Z",
-      "collectedAt": "2025-07-28T15:00:00Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "rad-001",
-      "title": "Morning Debate: Should The Gambia Adopt a New Constitution Before 2026?",
-      "summary": "Freedom Radio's flagship programme hosts a heated panel discussion on whether the draft constitution should be enacted before the 2026 elections.",
-      "sourceId": "freedom-radio",
-      "sourceName": "Freedom Radio",
-      "sourceUrl": "https://freedomnewspaper.com",
-      "originalUrl": "https://freedomnewspaper.com",
-      "publishedAt": "2025-07-28T09:00:00Z",
-      "collectedAt": "2025-07-28T09:30:00Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "radio",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "vid-002",
-      "title": "State House: President Barrow Outlines 2026 Election Readiness",
-      "summary": "GRTS broadcasts President Barrow's address confirming the government's commitment to free, fair, and transparent elections in 2026.",
-      "sourceId": "grts",
-      "sourceName": "GRTS",
-      "sourceUrl": "https://grts.gm",
-      "originalUrl": "https://grts.gm",
-      "publishedAt": "2025-07-27T18:00:00Z",
-      "collectedAt": "2025-07-27T18:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "video",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": true,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
-    "count": 47
+    "generatedAt": "2026-09-02T16:25:48.206Z",
+    "count": 51
   }
 }

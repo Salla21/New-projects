@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "3a90a77d75b8e5bc",
+      "title": "Gambia Moves to 9-Digit Mobile Numbers From Friday",
+      "summary": "Published by: The Fatu Network The Gambia will begin switching to a new 9-digit mobile phone numbering system from Friday, September 4th, under a new directive from the Public Utilities Regulatory Authority (PURA). Africell users will add 87 before their existing 7-digit numbe...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-moves-to-9-digit-mobile-numbers-from-friday/",
+      "publishedAt": "2026-09-02T11:33:49.000Z",
+      "collectedAt": "2026-09-02T16:25:42.534Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "870f386d0246ae50",
       "title": "GAMBIAN ‘KILLS’ 2, DIES OF INJURIES AT U.S. GAY BAR",
       "summary": "By Omar Bah A deadly shooting that killed three people early Monday morning, including the shooter, a Gambian, is being investigated as a hate crime, according to the Tucson Police Department. Police say that the suspect, 44-year-old Ousman Ceesay, confronted the two victims, ...",
@@ -236,56 +259,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "art-003",
-      "title": "President Barrow Launches National Digital Transformation Strategy 2025-2030",
-      "summary": "President Barrow has officially launched a five-year digital transformation strategy aimed at digitising all government services and expanding broadband to rural areas.",
-      "sourceId": "grts",
-      "sourceName": "GRTS",
-      "sourceUrl": "https://grts.gm",
-      "originalUrl": "https://grts.gm",
-      "publishedAt": "2025-07-28T12:00:00Z",
-      "collectedAt": "2025-07-28T12:30:00Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "official-update",
-      "thumbnailUrl": null,
-      "author": null,
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": true,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "art-004",
-      "title": "UTG Graduates Record 1,200 Students at 2025 Convocation",
-      "summary": "The University of The Gambia has conferred degrees on 1,200 graduates at its 2025 convocation ceremony, the largest cohort since the institution's founding.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-28T10:15:00Z",
-      "collectedAt": "2025-07-28T10:45:00Z",
-      "region": "kanifing",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Ebrima Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T11:05:05.054Z",
-    "count": 12
+    "generatedAt": "2026-09-02T16:25:48.206Z",
+    "count": 11
   }
 }
