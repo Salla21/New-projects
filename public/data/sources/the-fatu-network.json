@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b96320f5e9b48489",
+      "title": "Sanyang in Darkness: NPP Youth Chairman Laments Frequent Power Cuts Amid 4.5km Road Inauguration",
+      "summary": "Written by Mama A. Touray As residents of Sanyang in the Kombo South constituency gathered for the inauguration of a newly constructed 4.5-kilometre seaside road, the community was without electricity for several hours. The road project was welcomed by residents, who believe i...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sanyang-in-darkness-npp-youth-chairman-laments-frequent-power-cuts-amid-4-5km-road-inauguration/",
+      "publishedAt": "2026-09-02T16:42:24.000Z",
+      "collectedAt": "2026-09-02T20:54:55.585Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3f892742f50f52e9",
       "title": "Sonko Warns Senegal Against “Mistakes of the Past” in $2.2 Billion IMF Deal",
       "summary": "Published by: The Fatu Network Ousmane Sonko has warned that Senegal risks repeating “the mistakes of the past” under its new $2.2 billion agreement with the International Monetary Fund (IMF), demanding “absolute transparency” over the country’s commitments. The National Assem...",
@@ -617,7 +640,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T16:25:48.206Z",
-    "count": 27
+    "generatedAt": "2026-09-02T20:55:00.826Z",
+    "count": 28
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f39ca0fa1395627a",
+      "title": "Minister Bah Says 62% of Court Cases Are Land-Related, Announces Digital Records and Titling Push",
+      "summary": "By Makutu Manneh Land disputes account for nearly two-thirds of all court cases in The Gambia, according to Lands Minister Hamat N.K. Bah, who said the government is introducing a new land policy and digital registration system aimed at curbing conflicts over ownership and eas...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/minister-bah-says-62-of-court-cases-are-land-related-announces-digital-records-and-titling-push/",
+      "publishedAt": "2026-09-02T18:47:27.000Z",
+      "collectedAt": "2026-09-02T20:54:56.622Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3a90a77d75b8e5bc",
       "title": "Gambia Moves to 9-Digit Mobile Numbers From Friday",
       "summary": "Published by: The Fatu Network The Gambia will begin switching to a new 9-digit mobile phone numbering system from Friday, September 4th, under a new directive from the Public Utilities Regulatory Authority (PURA). Africell users will add 87 before their existing 7-digit numbe...",
@@ -262,7 +286,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T16:25:48.206Z",
-    "count": 11
+    "generatedAt": "2026-09-02T20:55:00.826Z",
+    "count": 12
   }
 }

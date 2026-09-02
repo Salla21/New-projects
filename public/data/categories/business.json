@@ -1,6 +1,101 @@
 {
   "items": [
     {
+      "id": "3a34f453ec30c739",
+      "title": "Information Minister Dismisses Darboe’s Proposal to Cut President’s Salary, Says UDP Is ‘Not Ready for Government’",
+      "summary": "By Fatou Sillah The Minister of Information, Media, and Broadcasting Services, Dr. Ismaila Ceesay, has dismissed proposals to reduce the president’s salary as an inadequate response to The Gambia’s economic challenges, arguing that meaningful fiscal reform would require a broa...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/information-minister-dismisses-darboes-proposal-to-cut-presidents-salary-says-udp-is-not-ready-for-government/",
+      "publishedAt": "2026-09-02T19:25:22.000Z",
+      "collectedAt": "2026-09-02T20:54:56.622Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "89ee7493c44203f1",
+      "title": "KMC, BAC Councillors Clash Over First-Term Development Records",
+      "summary": "By Makutu Manneh Councillors from the Kanifing Municipal Council and the Brikama Area Council traded claims over their respective development records on Tuesday, each arguing that their council had delivered more during its early years in office. The exchange, during a panel d...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kmc-bac-councillors-clash-over-first-term-development-records/",
+      "publishedAt": "2026-09-02T17:26:31.000Z",
+      "collectedAt": "2026-09-02T20:54:56.622Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3678fc882065b3f0",
+      "title": "Revisiting The Senegambia Bridge Asset Recycling Disaster",
+      "summary": "Opinion By Dr. Ousman Gajigo Two years ago, Adama Barrow’s government signed the so-called Senegambia Asset Recycling deal with Africa50. It was presented as an opportunity when, in reality, it was a massive financial and strategic loss to the country. Let me refresh the memor...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/revisiting-the-senegambia-bridge-asset-recycling-disaster/",
+      "publishedAt": "2026-09-02T17:08:04.000Z",
+      "collectedAt": "2026-09-02T20:54:56.622Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9d687670edbc0c62",
+      "title": "WCR Governor Urges Kombo Residents to Back Barrow, Citing Development Projects",
+      "summary": "By Makutu Manneh Ousman Bojang, the governor of the West Coast Region, has urged residents of Kombo to support President Adama Barrow in the Dec. 5 presidential election, pointing to development projects in the area as evidence that the president deserves another mandate. Mr. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/wcr-governor-urges-kombo-residents-to-back-barrow-citing-development-projects/",
+      "publishedAt": "2026-09-02T16:35:28.000Z",
+      "collectedAt": "2026-09-02T20:54:56.622Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3ac781f95e7c11f7",
       "title": "African nations can use the current crisis to build food systems that can take a hit. Kigali is where it comes together",
       "summary": "By Juan Lucas Restrepo Heads of state, agriculture and finance ministers and investors meet in Kigali from 31 August for the Africa Food Systems Forum, the continent’s largest agricultural gathering. They arrive with an opportunity: to build a food system that holds up against...",
@@ -677,7 +772,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-08-21T05:29:06.532Z",
+      "collectedAt": "2026-09-02T20:54:54.795Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -701,7 +796,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-08-21T05:29:06.532Z",
+      "collectedAt": "2026-09-02T20:54:54.795Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -724,7 +819,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-08-21T05:29:06.532Z",
+      "collectedAt": "2026-09-02T20:54:54.795Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -738,33 +833,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "836f4a8d94897973",
-      "title": "Teacher Allegedly Gives Wife D200 and Tells Her to Leave His House",
-      "summary": "A teacher in Brikama has allegedly given his wife D200 as transport fare and told her…\nThe post Teacher Allegedly Gives Wife D200 and Tells Her to Leave His House appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/teacher-allegedly-gives-wife-d200-and-tells-her-to-leave-his-house/",
-      "publishedAt": "2026-08-12T04:31:17.000Z",
-      "collectedAt": "2026-08-21T05:29:06.650Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T16:25:48.206Z",
-    "count": 32
+    "generatedAt": "2026-09-02T20:55:00.826Z",
+    "count": 35
   }
 }

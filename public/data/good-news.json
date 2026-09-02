@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "f39ca0fa1395627a",
+      "title": "Minister Bah Says 62% of Court Cases Are Land-Related, Announces Digital Records and Titling Push",
+      "summary": "By Makutu Manneh Land disputes account for nearly two-thirds of all court cases in The Gambia, according to Lands Minister Hamat N.K. Bah, who said the government is introducing a new land policy and digital registration system aimed at curbing conflicts over ownership and eas...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/minister-bah-says-62-of-court-cases-are-land-related-announces-digital-records-and-titling-push/",
+      "publishedAt": "2026-09-02T18:47:27.000Z",
+      "collectedAt": "2026-09-02T20:54:56.622Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "89ee7493c44203f1",
+      "title": "KMC, BAC Councillors Clash Over First-Term Development Records",
+      "summary": "By Makutu Manneh Councillors from the Kanifing Municipal Council and the Brikama Area Council traded claims over their respective development records on Tuesday, each arguing that their council had delivered more during its early years in office. The exchange, during a panel d...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kmc-bac-councillors-clash-over-first-term-development-records/",
+      "publishedAt": "2026-09-02T17:26:31.000Z",
+      "collectedAt": "2026-09-02T20:54:56.622Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3ac781f95e7c11f7",
       "title": "African nations can use the current crisis to build food systems that can take a hit. Kigali is where it comes together",
       "summary": "By Juan Lucas Restrepo Heads of state, agriculture and finance ministers and investors meet in Kigali from 31 August for the Africa Food Systems Forum, the continent’s largest agricultural gathering. They arrive with an opportunity: to build a food system that holds up against...",
@@ -482,7 +529,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-08-21T05:29:06.532Z",
+      "collectedAt": "2026-09-02T20:54:54.795Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -506,7 +553,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-08-21T05:29:06.532Z",
+      "collectedAt": "2026-09-02T20:54:54.795Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -522,7 +569,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T16:25:48.206Z",
-    "count": 23
+    "generatedAt": "2026-09-02T20:55:00.826Z",
+    "count": 25
   }
 }
