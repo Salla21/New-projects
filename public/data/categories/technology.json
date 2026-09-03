@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "29f7b1cfec38233f",
+      "title": "Student revolving loan scheme opens September 15",
+      "summary": "By Aminata Kuyateh The Students Revolving Loan Scheme (SRLS), under the Ministry of Higher Education Research Science and Technology, will start receiving applications on September 15, with eligible students given until September 30 to apply for interest-free tuition financing...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/student-revolving-loan-scheme-opens-september-15/",
+      "publishedAt": "2026-09-03T10:04:00.000Z",
+      "collectedAt": "2026-09-03T11:02:09.700Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "129672e61fdffc72",
+      "title": "MOHERST moves to strengthen science, technology and innovation",
+      "summary": "By Aminata Kuyateh The Ministry of Higher Education, Research, Science and Technology on Monday held a national validation workshop on the draft National Science, Technology and Innovation Policy [NSTIP] 2027–2035 and the STI Bill 2026, as The Gambia seeks to build a stronger ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/moherst-moves-to-strengthen-science-technology-and-innovation/",
+      "publishedAt": "2026-09-03T10:02:00.000Z",
+      "collectedAt": "2026-09-03T11:02:09.700Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f39ca0fa1395627a",
       "title": "Minister Bah Says 62% of Court Cases Are Land-Related, Announces Digital Records and Titling Push",
       "summary": "By Makutu Manneh Land disputes account for nearly two-thirds of all court cases in The Gambia, according to Lands Minister Hamat N.K. Bah, who said the government is introducing a new land policy and digital registration system aimed at curbing conflicts over ownership and eas...",
@@ -247,7 +294,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-03T04:14:50.859Z",
+      "collectedAt": "2026-09-03T11:02:15.047Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -270,7 +317,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-03T04:14:50.859Z",
+      "collectedAt": "2026-09-03T11:02:15.047Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -286,7 +333,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T04:14:56.205Z",
-    "count": 12
+    "generatedAt": "2026-09-03T11:02:23.261Z",
+    "count": 14
   }
 }

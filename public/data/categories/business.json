@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "648834f7edb6166a",
+      "title": "LG COMMISSION REPORT, WHITE PAPER IMMINENT",
+      "summary": "By Lamin Cham A highly placed government source has told The Standard that government is about to publish the report of the Local Government Commission of Enquiry, and its White Paper on it. Government has initially targeted last month, August, for the publication of the docum...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/lg-commission-report-white-paper-imminent/",
+      "publishedAt": "2026-09-03T10:10:00.000Z",
+      "collectedAt": "2026-09-03T11:02:09.700Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "39c12e80f707e00b",
       "title": "Darboe Promises Better Support for Teachers, Nurses, and Security Personnel",
       "summary": "By Fatou Sillah Ousainou Darboe, the leader and presidential candidate of the United Democratic Party, has pledged to improve working conditions and expand financial support for teachers, nurses, and security personnel if elected president in December. Speaking during a courte...",
@@ -774,7 +797,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-03T04:14:50.859Z",
+      "collectedAt": "2026-09-03T11:02:15.047Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -798,7 +821,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-03T04:14:50.859Z",
+      "collectedAt": "2026-09-03T11:02:15.047Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -821,7 +844,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-03T04:14:50.859Z",
+      "collectedAt": "2026-09-03T11:02:15.047Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -838,7 +861,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T04:14:56.205Z",
-    "count": 35
+    "generatedAt": "2026-09-03T11:02:23.261Z",
+    "count": 36
   }
 }

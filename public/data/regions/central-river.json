@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "7b3335d6fcb185b9",
+      "title": "NCCE concludes 2-day training on lobbying and advocacy in CRR North",
+      "summary": "By Olimatou Coker The National Council for Civic Education [NCCE] has concluded a 2-day capacity-building training on lobbying and advocacy in Central River Region North. The training was organised in collaboration with the Association of Non-Governmental Organisations [TANGO]...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/ncce-concludes-2-day-training-on-lobbying-and-advocacy-in-crr-north/",
+      "publishedAt": "2026-09-03T10:01:00.000Z",
+      "collectedAt": "2026-09-03T11:02:09.700Z",
+      "region": "central-river",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5dd10e5ddf9418a4",
       "title": "NPP regional chairman condemns tribal politics",
       "summary": "By Tabora Bojang Sarjo Ceesay, the regional chairman of the governing National People’s Party NPP in Central River Region South has condemned the ongoing spate of tribal politics and personality attacks in the national political discourse warning that tribalism has no space in...",
@@ -25,7 +46,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T04:14:56.205Z",
-    "count": 1
+    "generatedAt": "2026-09-03T11:02:23.261Z",
+    "count": 2
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "a76623493fcb52b5",
+      "title": "Meet Mariame Cisse: Helping Mothers Find Themselves Again and Make Space for Their Dreams",
+      "summary": "Mariame Cisse is a Gambian woman born in France, brought up in The Gambia, and now based in the United Kingdom. She is a mother of six, an Emotional Leadership Coach, NLP Master Practitioner, storyteller, and founder of M Power Moms, meaning “Mothers on a Mission.” She also co...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/meet-mariame-cisse-helping-mothers-find-themselves-again-and-make-space-for-their-dreams/",
+      "publishedAt": "2026-09-03T11:00:49.000Z",
+      "collectedAt": "2026-09-03T11:02:15.847Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2a0c9bbaf343b417",
       "title": "‘Are We Truly Being Represented?’ Upper Fulladu Youth Leader Demands Accountability",
       "summary": "Written by: Dawda Baldeh Ebrima K. Baldeh, a resident of Sare Soffie, has called for greater accountability and better political representation in Upper Fulladu West, urging voters, particularly young people, to reject empty promises and demand results from their elected repre...",
@@ -550,7 +571,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T04:14:56.205Z",
-    "count": 24
+    "generatedAt": "2026-09-03T11:02:23.261Z",
+    "count": 25
   }
 }

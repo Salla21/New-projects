@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b18a11a07fde9dec",
+      "title": "Bensouda says NPP’s dominance in URR is exaggerated",
+      "summary": "By Tabora Bojang As the political fever boils towards the presidential election in December, Unite party leader and KM Mayor Talib Bensounda is hopeful of ending the ruling NPP’s dominance in the Upper River Region. Speaking to The Standard about a recent tour of the region wh...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/bensouda-says-npps-dominance-in-urr-is-exaggerated/",
+      "publishedAt": "2026-09-03T10:05:00.000Z",
+      "collectedAt": "2026-09-03T11:02:09.700Z",
+      "region": "upper-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1b258a9cd9f08cdb",
       "title": "Basse Area Council Gives D400,000 Boost to Complete Sutukonding Clinic",
       "summary": "By Dawda Baldeh The Basse Area Council has handed over a D400,000 (£4,500; $6,000) cheque to complete the construction of the Sutukonding Community Clinic, in a move set to transform basic healthcare access for more than 10 surrounding villages. The Council’s Chairperson, Maha...",
@@ -48,7 +71,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T04:14:56.205Z",
-    "count": 2
+    "generatedAt": "2026-09-03T11:02:23.261Z",
+    "count": 3
   }
 }
