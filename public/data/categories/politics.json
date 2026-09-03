@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "ae6b633c596e72e2",
+      "title": "Barrow: “Gambia Yesterday and Today Are Different”",
+      "summary": "Written by: Mama A. Touray As Gambians continue to face frequent power cuts, with some areas going without electricity for more than 24 hours, President Adama Barrow has defended his government’s development record, saying The Gambia has changed significantly during his ten ye...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-gambia-yesterday-and-today-are-different/",
+      "publishedAt": "2026-09-03T11:16:52.000Z",
+      "collectedAt": "2026-09-03T16:16:06.511Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a0fb4b3b2dc9f1d2",
+      "title": "Banjul North NAM Says Women Hold the Key to Africa’s Food Future",
+      "summary": "Written by: Dawda Baldeh African governments must place women at the centre of food systems if the continent is to achieve sustainable food security, create jobs and drive economic growth, National Assembly Member for Banjul North, Modou Lamin B. Bah, has said. Speaking during...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/banjul-north-nam-says-women-hold-the-key-to-africas-food-future/",
+      "publishedAt": "2026-09-03T11:12:48.000Z",
+      "collectedAt": "2026-09-03T16:16:06.511Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "79c8e98a2d53f1c5",
       "title": "Barrow assures adequate power supply as country grapples with black out",
       "summary": "By Arret Jatta President Adama Barrow has once again assured that the country will one day attain his objective of generating adequate electricity supply, and even supply other countries. Speaking at a road inauguration in Sanyang on Monday, the president used the occasion to ...",
@@ -1328,29 +1374,6 @@
       "status": "published"
     },
     {
-      "id": "990cadf7bbf54b15",
-      "title": "Why The Gambia needs a new generation of leadership: Talib Ahmed Bensouda and the case for a new political direction",
-      "summary": "Dear Editor,There are moments in the history of every nation when voters are confronted with a question that goes beyond personalities, political parties and election slogans. The question is: What kind of leadership does our country need for the next generation? For The Gambi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/why-the-gambia-needs-a-new-generation-of-leadership-talib-ahmed-bensouda-and-the-case-for-a-new-political-direction/",
-      "publishedAt": "2026-08-20T10:11:32.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1359,7 +1382,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-03T11:02:15.047Z",
+      "collectedAt": "2026-09-03T16:16:05.471Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1382,7 +1405,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-03T11:02:15.047Z",
+      "collectedAt": "2026-09-03T16:16:05.471Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1405,7 +1428,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-03T11:02:15.047Z",
+      "collectedAt": "2026-09-03T16:16:05.471Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1422,7 +1445,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T11:02:23.261Z",
-    "count": 60
+    "generatedAt": "2026-09-03T16:16:12.697Z",
+    "count": 61
   }
 }

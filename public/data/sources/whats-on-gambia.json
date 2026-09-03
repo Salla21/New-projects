@@ -177,7 +177,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/man-allegedly-klls-bartender-in-banjul/",
       "publishedAt": "2026-08-19T08:21:07.000Z",
-      "collectedAt": "2026-08-21T05:29:06.650Z",
+      "collectedAt": "2026-09-03T16:16:06.332Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -198,7 +198,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/man-allegedly-claims-he-may-be-father-of-best-friends-child-at-naming-ceremony/",
       "publishedAt": "2026-08-19T08:19:29.000Z",
-      "collectedAt": "2026-08-21T05:29:06.650Z",
+      "collectedAt": "2026-09-03T16:16:06.332Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -209,31 +209,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3f801fb9034eb438",
-      "title": "Mystery Surrounds Death of Ebrima Camara in Kiang Karantaba",
-      "summary": "The death of Ebrima Camara has left many villagers in Kiang Karantaba searching for answers about…\nThe post Mystery Surrounds Death of Ebrima Camara in Kiang Karantaba appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/mystery-surrounds-death-of-ebrima-camara-in-kiang-karantaba/",
-      "publishedAt": "2026-08-19T08:17:44.000Z",
-      "collectedAt": "2026-08-21T05:29:06.650Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T11:02:23.261Z",
-    "count": 11
+    "generatedAt": "2026-09-03T16:16:12.697Z",
+    "count": 10
   }
 }

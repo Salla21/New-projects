@@ -743,52 +743,6 @@
       "status": "published"
     },
     {
-      "id": "45ccc594c1a7f3d6",
-      "title": "Humanitarianism is not collapsing. It is being traded and compromised",
-      "summary": "Today, as we mark World Humanitarian Day, we must reflect on the state of humanitarianism. Humanitarian work has always been framed upon the collective assumption that there are lines that should never be crossed, even in wars. For a generation, we had binding international ag...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised/",
-      "publishedAt": "2026-08-20T10:11:28.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "235a9c8a49fd33f6",
-      "title": "Campaign launched to halt deportation of Gambian DJ in Malta",
-      "summary": "A campaign has been launched to halt the deportation of a Gambian DJ who has lived in Malta for 18 years, with organisations and prominent figures calling on the government to allow him to regularise his status. Yusupha Dibassey, better known as DJ Dollarino, was detained on 1...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/campaign-launched-to-halt-deportation-of-gambian-dj-in-malta/",
-      "publishedAt": "2026-08-20T10:11:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "upper-river",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -797,7 +751,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-03T11:02:15.047Z",
+      "collectedAt": "2026-09-03T16:16:05.471Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -821,7 +775,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-03T11:02:15.047Z",
+      "collectedAt": "2026-09-03T16:16:05.471Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -844,7 +798,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-03T11:02:15.047Z",
+      "collectedAt": "2026-09-03T16:16:05.471Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -861,7 +815,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T11:02:23.261Z",
-    "count": 36
+    "generatedAt": "2026-09-03T16:16:12.697Z",
+    "count": 34
   }
 }

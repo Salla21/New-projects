@@ -144,56 +144,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f4bcc68e3250b9b4",
-      "title": "COACH MCKINSTRY EXCITED ABOUT RETURN TO STADIUM",
-      "summary": "Gambia coach Jonathon McKinstry has sent a special message to his players informing them and expressing delight about news that the scorpions first match in the Afcon 2027 qualifiers, against Somalia, will be played at the Independence Stadium next month. Since taking over as ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/coach-mckinstry-excited-about-return-to-stadium/",
-      "publishedAt": "2026-08-20T10:10:38.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "lower-river",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "023d21c8cdea899b",
-      "title": "Senegal Appoints Patrick Vieira as New Teranga Lions Head Coach",
-      "summary": "Published by: The Fatu Network Senegal has officially named former France and Arsenal legend Patrick Vieira as the new head coach of the national team, ending weeks of speculation over who will take charge of the Teranga Lions. The Senegalese Football Federation said its Emerg...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/senegal-appoints-patrick-vieira-as-new-teranga-lions-head-coach/",
-      "publishedAt": "2026-08-18T15:23:56.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T11:02:23.261Z",
-    "count": 8
+    "generatedAt": "2026-09-03T16:16:12.697Z",
+    "count": 6
   }
 }

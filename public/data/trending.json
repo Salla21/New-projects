@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "ae6b633c596e72e2",
+      "title": "Barrow: “Gambia Yesterday and Today Are Different”",
+      "summary": "Written by: Mama A. Touray As Gambians continue to face frequent power cuts, with some areas going without electricity for more than 24 hours, President Adama Barrow has defended his government’s development record, saying The Gambia has changed significantly during his ten ye...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-gambia-yesterday-and-today-are-different/",
+      "publishedAt": "2026-09-03T11:16:52.000Z",
+      "collectedAt": "2026-09-03T16:16:06.511Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a0fb4b3b2dc9f1d2",
+      "title": "Banjul North NAM Says Women Hold the Key to Africa’s Food Future",
+      "summary": "Written by: Dawda Baldeh African governments must place women at the centre of food systems if the continent is to achieve sustainable food security, create jobs and drive economic growth, National Assembly Member for Banjul North, Modou Lamin B. Bah, has said. Speaking during...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/banjul-north-nam-says-women-hold-the-key-to-africas-food-future/",
+      "publishedAt": "2026-09-03T11:12:48.000Z",
+      "collectedAt": "2026-09-03T16:16:06.511Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a76623493fcb52b5",
       "title": "Meet Mariame Cisse: Helping Mothers Find Themselves Again and Make Space for Their Dreams",
       "summary": "Mariame Cisse is a Gambian woman born in France, brought up in The Gambia, and now based in the United Kingdom. She is a mother of six, an Emotional Leadership Coach, NLP Master Practitioner, storyteller, and founder of M Power Moms, meaning “Mothers on a Mission.” She also co...",
@@ -410,57 +456,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b96320f5e9b48489",
-      "title": "Sanyang in Darkness: NPP Youth Chairman Laments Frequent Power Cuts Amid 4.5km Road Inauguration",
-      "summary": "Written by Mama A. Touray As residents of Sanyang in the Kombo South constituency gathered for the inauguration of a newly constructed 4.5-kilometre seaside road, the community was without electricity for several hours. The road project was welcomed by residents, who believe i...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/sanyang-in-darkness-npp-youth-chairman-laments-frequent-power-cuts-amid-4-5km-road-inauguration/",
-      "publishedAt": "2026-09-02T16:42:24.000Z",
-      "collectedAt": "2026-09-02T20:54:55.585Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9d687670edbc0c62",
-      "title": "WCR Governor Urges Kombo Residents to Back Barrow, Citing Development Projects",
-      "summary": "By Makutu Manneh Ousman Bojang, the governor of the West Coast Region, has urged residents of Kombo to support President Adama Barrow in the Dec. 5 presidential election, pointing to development projects in the area as evidence that the president deserves another mandate. Mr. ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/wcr-governor-urges-kombo-residents-to-back-barrow-citing-development-projects/",
-      "publishedAt": "2026-09-02T16:35:28.000Z",
-      "collectedAt": "2026-09-02T20:54:56.622Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T11:02:23.261Z",
+    "generatedAt": "2026-09-03T16:16:12.697Z",
     "count": 20
   }
 }

@@ -45,33 +45,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "235a9c8a49fd33f6",
-      "title": "Campaign launched to halt deportation of Gambian DJ in Malta",
-      "summary": "A campaign has been launched to halt the deportation of a Gambian DJ who has lived in Malta for 18 years, with organisations and prominent figures calling on the government to allow him to regularise his status. Yusupha Dibassey, better known as DJ Dollarino, was detained on 1...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/campaign-launched-to-halt-deportation-of-gambian-dj-in-malta/",
-      "publishedAt": "2026-08-20T10:11:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "upper-river",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T11:02:23.261Z",
-    "count": 3
+    "generatedAt": "2026-09-03T16:16:12.697Z",
+    "count": 2
   }
 }
