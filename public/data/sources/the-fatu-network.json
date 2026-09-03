@@ -547,54 +547,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7df264cbb488fd67",
-      "title": "Kartong Celebrates Outstanding Nine Credit WASSCE Performance",
-      "summary": "Published by: The Fatu Network Aminata Touray has given Kartong another reason to celebrate after an outstanding performance in the 2026 WASSCE, earning credits in all nine subjects, including four A1s in Civic Education, English Language, Commerce and Agricultural Science. A ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/kartong-celebrates-outstanding-nine-credit-wassce-performance/",
-      "publishedAt": "2026-08-18T15:22:44.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a96a504fe57fdf10",
-      "title": "Investigation Underway After Senegalese TikTok Star Dies in Fall From Apartment During DLEAG Drug Raid in Kerr Sering",
-      "summary": "By Dawda Baldeh The Drug Law Enforcement Agency The Gambia (DLEAG) says an investigation is underway into the death of popular Senegalese TikTok personality Kalidou Diallo, widely known as “Lom De Ziguinchor,” following a drug enforcement operation at an apartment building in ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/investigation-underway-after-senegalese-tiktok-star-dies-in-fall-from-apartment-during-dleag-drug-raid-in-kerr-sering/",
-      "publishedAt": "2026-08-18T12:10:16.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T23:59:34.566Z",
-    "count": 26
+    "generatedAt": "2026-09-03T04:14:56.205Z",
+    "count": 24
   }
 }
