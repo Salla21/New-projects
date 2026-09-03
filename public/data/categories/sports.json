@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "56841b6ae9e61199",
+      "title": "Kemo Ceesay Takes Over GFF Presidency as Lamin Kabba Bajo Ends Eight-Year Tenure",
+      "summary": "By Fatou Sillah Kemo Ceesay formally assumed the presidency of the Gambia Football Federation on Thursday, taking over from Lamin Kabba Bajo and beginning a new four-year administration after Bajo’s eight years at the helm of the country’s football governing body. The transfer...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kemo-ceesay-takes-over-gff-presidency-as-lamin-kabba-bajo-ends-eight-year-tenure/",
+      "publishedAt": "2026-09-03T18:23:00.000Z",
+      "collectedAt": "2026-09-03T20:53:47.831Z",
+      "region": "west-coast",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8b5d10e8266f3f1b",
       "title": "IN APPRECIATION OF A BROTHER AND COLLEAGUE",
       "summary": "Ex-GFF president Bajo’s glowing tribute to VP Bakary K Jammeh Former Gambia Football Federation president Lamin Kaba Bajo has paid a glowing tribute to his first vice president Bakary Jammeh alias Baks. Both football officials left office last weekend after 12 years, in respec...",
@@ -147,7 +170,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T16:16:12.697Z",
-    "count": 6
+    "generatedAt": "2026-09-03T20:53:51.879Z",
+    "count": 7
   }
 }

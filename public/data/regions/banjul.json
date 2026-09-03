@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "3ee315c21f08b570",
+      "title": "Speaker Jatta Says Assembly Merged Sessions to Accommodate Campaign Period",
+      "summary": "By Fatou Sillah The Speaker of the National Assembly, Fabakary Tombong Jatta, said the legislature merged its third and fourth ordinary sessions of the 2026 legislative year to allow lawmakers to fulfill their parliamentary duties while participating in political activities ah...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/speaker-jatta-says-assembly-merged-sessions-to-accommodate-campaign-period/",
+      "publishedAt": "2026-09-03T18:34:53.000Z",
+      "collectedAt": "2026-09-03T20:53:47.831Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "31f137183f394c4c",
+      "title": "Speaker Jatta Says Consumers Must Play a Role in Curbing High Prices",
+      "summary": "By Fatou Sillah The Speaker of the National Assembly, Fabakary Tombong Jatta, said consumers must take greater responsibility for pushing back against high prices, arguing that the government alone cannot determine the cost of goods in The Gambia’s free-market economy. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/speaker-jatta-says-consumers-must-play-a-role-in-curbing-high-prices/",
+      "publishedAt": "2026-09-03T18:07:09.000Z",
+      "collectedAt": "2026-09-03T20:53:47.831Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ae6b633c596e72e2",
       "title": "Barrow: “Gambia Yesterday and Today Are Different”",
       "summary": "Written by: Mama A. Touray As Gambians continue to face frequent power cuts, with some areas going without electricity for more than 24 hours, President Adama Barrow has defended his government’s development record, saying The Gambia has changed significantly during his ten ye...",
@@ -1944,53 +1991,6 @@
       "status": "published"
     },
     {
-      "id": "182a8888c97b343a",
-      "title": "Dou Sanno explains how he obtained one of Jammeh’s tractors",
-      "summary": "By Tabora Bojang For the first time since a witness at the parliamentary enquiry on the sale and handling of former president Jammeh’s assets mentioned that one of the tractors was taken away by Presidential Adviser Dou Sanno,   the influential ruling party bigwig has come out...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/dou-sanno-explains-how-he-obtained-one-of-jammehs-tractors/",
-      "publishedAt": "2026-08-20T10:13:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "127f1042654333da",
-      "title": "Mansally says councillors deserve diplomatic passports to ease overseas networking",
-      "summary": "By Arret Jatta The Area Councillor for Talinding North, Babucarr Mansally, has called on the government to provide diplomatic passports to elected councillors, saying the document would be useful for them to pursue opportunities abroad. Speaking on Star TV’s Wake Up Gambia sho...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/mansally-says-councillors-deserve-diplomatic-passports-to-ease-overseas-networking/",
-      "publishedAt": "2026-08-20T10:12:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7a0c0865ed827585",
       "title": "Man Allegedly K!lls Bartender in Banjul",
       "summary": "Police are investigating the death of Isatou Mendy, a bartender at a bar on Louvell Street…\nThe post Man Allegedly K!lls Bartender in Banjul appeared first on What's On Gambia.",
@@ -1999,7 +1999,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/man-allegedly-klls-bartender-in-banjul/",
       "publishedAt": "2026-08-19T08:21:07.000Z",
-      "collectedAt": "2026-09-03T16:16:06.332Z",
+      "collectedAt": "2026-09-03T20:53:46.231Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2020,7 +2020,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/man-allegedly-claims-he-may-be-father-of-best-friends-child-at-naming-ceremony/",
       "publishedAt": "2026-08-19T08:19:29.000Z",
-      "collectedAt": "2026-09-03T16:16:06.332Z",
+      "collectedAt": "2026-09-03T20:53:46.231Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2041,7 +2041,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2064,7 +2064,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2087,7 +2087,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2108,7 +2108,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2131,7 +2131,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/why-dont-boats-in-the-gambia-have-number-plates/",
       "publishedAt": "2026-08-14T12:05:36.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2152,7 +2152,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2176,7 +2176,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/warning-warning-warning/",
       "publishedAt": "2026-08-14T11:51:15.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2190,7 +2190,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T16:16:12.697Z",
+    "generatedAt": "2026-09-03T20:53:51.879Z",
     "count": 96
   }
 }

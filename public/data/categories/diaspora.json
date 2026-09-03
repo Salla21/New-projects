@@ -242,30 +242,6 @@
       "status": "published"
     },
     {
-      "id": "127f1042654333da",
-      "title": "Mansally says councillors deserve diplomatic passports to ease overseas networking",
-      "summary": "By Arret Jatta The Area Councillor for Talinding North, Babucarr Mansally, has called on the government to provide diplomatic passports to elected councillors, saying the document would be useful for them to pursue opportunities abroad. Speaking on Star TV’s Wake Up Gambia sho...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/mansally-says-councillors-deserve-diplomatic-passports-to-ease-overseas-networking/",
-      "publishedAt": "2026-08-20T10:12:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -274,7 +250,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -291,7 +267,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T16:16:12.697Z",
-    "count": 12
+    "generatedAt": "2026-09-03T20:53:51.879Z",
+    "count": 11
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "56841b6ae9e61199",
+      "title": "Kemo Ceesay Takes Over GFF Presidency as Lamin Kabba Bajo Ends Eight-Year Tenure",
+      "summary": "By Fatou Sillah Kemo Ceesay formally assumed the presidency of the Gambia Football Federation on Thursday, taking over from Lamin Kabba Bajo and beginning a new four-year administration after Bajo’s eight years at the helm of the country’s football governing body. The transfer...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kemo-ceesay-takes-over-gff-presidency-as-lamin-kabba-bajo-ends-eight-year-tenure/",
+      "publishedAt": "2026-09-03T18:23:00.000Z",
+      "collectedAt": "2026-09-03T20:53:47.831Z",
+      "region": "west-coast",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "648834f7edb6166a",
       "title": "LG COMMISSION REPORT, WHITE PAPER IMMINENT",
       "summary": "By Lamin Cham A highly placed government source has told The Standard that government is about to publish the report of the Local Government Commission of Enquiry, and its White Paper on it. Government has initially targeted last month, August, for the publication of the docum...",
@@ -236,7 +259,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T16:16:12.697Z",
-    "count": 10
+    "generatedAt": "2026-09-03T20:53:51.879Z",
+    "count": 11
   }
 }

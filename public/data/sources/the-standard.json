@@ -822,57 +822,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "182a8888c97b343a",
-      "title": "Dou Sanno explains how he obtained one of Jammeh’s tractors",
-      "summary": "By Tabora Bojang For the first time since a witness at the parliamentary enquiry on the sale and handling of former president Jammeh’s assets mentioned that one of the tractors was taken away by Presidential Adviser Dou Sanno,   the influential ruling party bigwig has come out...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/dou-sanno-explains-how-he-obtained-one-of-jammehs-tractors/",
-      "publishedAt": "2026-08-20T10:13:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "127f1042654333da",
-      "title": "Mansally says councillors deserve diplomatic passports to ease overseas networking",
-      "summary": "By Arret Jatta The Area Councillor for Talinding North, Babucarr Mansally, has called on the government to provide diplomatic passports to elected councillors, saying the document would be useful for them to pursue opportunities abroad. Speaking on Star TV’s Wake Up Gambia sho...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/mansally-says-councillors-deserve-diplomatic-passports-to-ease-overseas-networking/",
-      "publishedAt": "2026-08-20T10:12:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T16:16:12.697Z",
-    "count": 38
+    "generatedAt": "2026-09-03T20:53:51.879Z",
+    "count": 36
   }
 }

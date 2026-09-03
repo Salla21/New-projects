@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "3ee315c21f08b570",
+      "title": "Speaker Jatta Says Assembly Merged Sessions to Accommodate Campaign Period",
+      "summary": "By Fatou Sillah The Speaker of the National Assembly, Fabakary Tombong Jatta, said the legislature merged its third and fourth ordinary sessions of the 2026 legislative year to allow lawmakers to fulfill their parliamentary duties while participating in political activities ah...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/speaker-jatta-says-assembly-merged-sessions-to-accommodate-campaign-period/",
+      "publishedAt": "2026-09-03T18:34:53.000Z",
+      "collectedAt": "2026-09-03T20:53:47.831Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "31f137183f394c4c",
+      "title": "Speaker Jatta Says Consumers Must Play a Role in Curbing High Prices",
+      "summary": "By Fatou Sillah The Speaker of the National Assembly, Fabakary Tombong Jatta, said consumers must take greater responsibility for pushing back against high prices, arguing that the government alone cannot determine the cost of goods in The Gambia’s free-market economy. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/speaker-jatta-says-consumers-must-play-a-role-in-curbing-high-prices/",
+      "publishedAt": "2026-09-03T18:07:09.000Z",
+      "collectedAt": "2026-09-03T20:53:47.831Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ae6b633c596e72e2",
       "title": "Barrow: “Gambia Yesterday and Today Are Different”",
       "summary": "Written by: Mama A. Touray As Gambians continue to face frequent power cuts, with some areas going without electricity for more than 24 hours, President Adama Barrow has defended his government’s development record, saying The Gambia has changed significantly during his ten ye...",
@@ -1351,29 +1398,6 @@
       "status": "published"
     },
     {
-      "id": "182a8888c97b343a",
-      "title": "Dou Sanno explains how he obtained one of Jammeh’s tractors",
-      "summary": "By Tabora Bojang For the first time since a witness at the parliamentary enquiry on the sale and handling of former president Jammeh’s assets mentioned that one of the tractors was taken away by Presidential Adviser Dou Sanno,   the influential ruling party bigwig has come out...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/dou-sanno-explains-how-he-obtained-one-of-jammehs-tractors/",
-      "publishedAt": "2026-08-20T10:13:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1382,7 +1406,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1405,7 +1429,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1428,7 +1452,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-03T16:16:05.471Z",
+      "collectedAt": "2026-09-03T20:53:45.931Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1445,7 +1469,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T16:16:12.697Z",
-    "count": 61
+    "generatedAt": "2026-09-03T20:53:51.879Z",
+    "count": 62
   }
 }

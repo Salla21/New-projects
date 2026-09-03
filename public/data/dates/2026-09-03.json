@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "3ee315c21f08b570",
+      "title": "Speaker Jatta Says Assembly Merged Sessions to Accommodate Campaign Period",
+      "summary": "By Fatou Sillah The Speaker of the National Assembly, Fabakary Tombong Jatta, said the legislature merged its third and fourth ordinary sessions of the 2026 legislative year to allow lawmakers to fulfill their parliamentary duties while participating in political activities ah...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/speaker-jatta-says-assembly-merged-sessions-to-accommodate-campaign-period/",
+      "publishedAt": "2026-09-03T18:34:53.000Z",
+      "collectedAt": "2026-09-03T20:53:47.831Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "56841b6ae9e61199",
+      "title": "Kemo Ceesay Takes Over GFF Presidency as Lamin Kabba Bajo Ends Eight-Year Tenure",
+      "summary": "By Fatou Sillah Kemo Ceesay formally assumed the presidency of the Gambia Football Federation on Thursday, taking over from Lamin Kabba Bajo and beginning a new four-year administration after Bajo’s eight years at the helm of the country’s football governing body. The transfer...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kemo-ceesay-takes-over-gff-presidency-as-lamin-kabba-bajo-ends-eight-year-tenure/",
+      "publishedAt": "2026-09-03T18:23:00.000Z",
+      "collectedAt": "2026-09-03T20:53:47.831Z",
+      "region": "west-coast",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "31f137183f394c4c",
+      "title": "Speaker Jatta Says Consumers Must Play a Role in Curbing High Prices",
+      "summary": "By Fatou Sillah The Speaker of the National Assembly, Fabakary Tombong Jatta, said consumers must take greater responsibility for pushing back against high prices, arguing that the government alone cannot determine the cost of goods in The Gambia’s free-market economy. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/speaker-jatta-says-consumers-must-play-a-role-in-curbing-high-prices/",
+      "publishedAt": "2026-09-03T18:07:09.000Z",
+      "collectedAt": "2026-09-03T20:53:47.831Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ae6b633c596e72e2",
       "title": "Barrow: “Gambia Yesterday and Today Are Different”",
       "summary": "Written by: Mama A. Touray As Gambians continue to face frequent power cuts, with some areas going without electricity for more than 24 hours, President Adama Barrow has defended his government’s development record, saying The Gambia has changed significantly during his ten ye...",
@@ -295,7 +365,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T16:16:12.697Z",
-    "count": 13
+    "generatedAt": "2026-09-03T20:53:51.879Z",
+    "count": 16
   }
 }
