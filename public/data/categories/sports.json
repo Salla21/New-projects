@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "a14bb794c07a1572",
+      "title": "Africell Presents Jerseys to Nawettan Teams, Renews Support for Grassroots Football",
+      "summary": "By Makutu Manneh Africell Gambia on Thursday presented jerseys to Nawettan teams from across the country, renewing the telecommunications company’s longstanding support for grassroots football and youth development. The jerseys were handed over during a ceremony at Africell’s ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/africell-presents-jerseys-to-nawettan-teams-renews-support-for-grassroots-football/",
+      "publishedAt": "2026-09-03T23:51:45.000Z",
+      "collectedAt": "2026-09-03T23:56:32.842Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "56841b6ae9e61199",
       "title": "Kemo Ceesay Takes Over GFF Presidency as Lamin Kabba Bajo Ends Eight-Year Tenure",
       "summary": "By Fatou Sillah Kemo Ceesay formally assumed the presidency of the Gambia Football Federation on Thursday, taking over from Lamin Kabba Bajo and beginning a new four-year administration after Bajo’s eight years at the helm of the country’s football governing body. The transfer...",
@@ -170,7 +195,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T20:53:51.879Z",
-    "count": 7
+    "generatedAt": "2026-09-03T23:56:36.877Z",
+    "count": 8
   }
 }

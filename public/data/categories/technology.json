@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "a14bb794c07a1572",
+      "title": "Africell Presents Jerseys to Nawettan Teams, Renews Support for Grassroots Football",
+      "summary": "By Makutu Manneh Africell Gambia on Thursday presented jerseys to Nawettan teams from across the country, renewing the telecommunications company’s longstanding support for grassroots football and youth development. The jerseys were handed over during a ceremony at Africell’s ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/africell-presents-jerseys-to-nawettan-teams-renews-support-for-grassroots-football/",
+      "publishedAt": "2026-09-03T23:51:45.000Z",
+      "collectedAt": "2026-09-03T23:56:32.842Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f7e14ae9f04ab720",
+      "title": "Africell Updates Customers as The Gambia Switches to 9-Digit Mobile Numbers",
+      "summary": "By Makutu Manneh Africell Gambia has announced that the prefix 87 will be added to its customers’ existing phone numbers as The Gambia begins its transition from a seven-digit to a nine-digit national numbering system at midnight on Sept. 4, 2026. The nationwide change, overse...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/africell-updates-customers-as-the-gambia-switches-to-9-digit-mobile-numbers/",
+      "publishedAt": "2026-09-03T23:23:51.000Z",
+      "collectedAt": "2026-09-03T23:56:32.842Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "29f7b1cfec38233f",
       "title": "Student revolving loan scheme opens September 15",
       "summary": "By Aminata Kuyateh The Students Revolving Loan Scheme (SRLS), under the Ministry of Higher Education Research Science and Technology, will start receiving applications on September 15, with eligible students given until September 30 to apply for interest-free tuition financing...",
@@ -294,7 +342,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-03T20:53:45.931Z",
+      "collectedAt": "2026-09-03T23:56:29.201Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -317,7 +365,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-03T20:53:45.931Z",
+      "collectedAt": "2026-09-03T23:56:29.201Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -333,7 +381,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T20:53:51.879Z",
-    "count": 14
+    "generatedAt": "2026-09-03T23:56:36.877Z",
+    "count": 16
   }
 }

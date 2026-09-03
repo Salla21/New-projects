@@ -776,56 +776,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6639405232643b11",
-      "title": "GAJIGO’S PPA QUITS MERGER WITH GFA",
-      "summary": "The Patriotic Progressive Alliance (PPA) movement, headed by Dr Ousman Gajigo, has dissolved its merger with Gambia For All, GFA, saying, it will be joining the Unite/NUP alliance for the 2026 election. A statement from PPA shared with The Standard explained that one of the ma...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gajigos-ppa-quits-merger-with-gfa/",
-      "publishedAt": "2026-08-20T10:15:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c9f80920fd5b4e0e",
-      "title": "Coalition 2026 to sign political alliance today",
-      "summary": "By Arret Jatta Coalition 2026 is set to sign a political alliance among eight political parties and movements ahead the December 5 presidential election. The agreement will be signed at Pencha Mi Hall, according to a statement issued by the coalition. The alliance brings toget...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/coalition-2026-to-sign-political-alliance-today/",
-      "publishedAt": "2026-08-20T10:14:00.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T20:53:51.879Z",
-    "count": 36
+    "generatedAt": "2026-09-03T23:56:36.877Z",
+    "count": 34
   }
 }

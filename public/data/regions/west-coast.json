@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "99498bca808633a9",
+      "title": "Brikama Area Council Disburses D6 Million in Scholarships to More Than 200 Students",
+      "summary": "By Fatou Sillah The Brikama Area Council on Thursday announced the disbursement of D6 million in scholarship support to more than 200 students attending eight higher education institutions, marking the third consecutive year the council has provided financial assistance to stu...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/brikama-area-council-disburses-d6-million-in-scholarships-to-more-than-200-students/",
+      "publishedAt": "2026-09-03T22:43:49.000Z",
+      "collectedAt": "2026-09-03T23:56:32.842Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "56841b6ae9e61199",
       "title": "Kemo Ceesay Takes Over GFF Presidency as Lamin Kabba Bajo Ends Eight-Year Tenure",
       "summary": "By Fatou Sillah Kemo Ceesay formally assumed the presidency of the Gambia Football Federation on Thursday, taking over from Lamin Kabba Bajo and beginning a new four-year administration after Bajo’s eight years at the helm of the country’s football governing body. The transfer...",
@@ -259,7 +282,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T20:53:51.879Z",
-    "count": 11
+    "generatedAt": "2026-09-03T23:56:36.877Z",
+    "count": 12
   }
 }
