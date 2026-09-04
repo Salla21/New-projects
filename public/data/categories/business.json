@@ -694,55 +694,6 @@
       "status": "published"
     },
     {
-      "id": "c38bdfe4bd96728c",
-      "title": "Bensouda Says ‘Growth Alone Is Not Enough,’ Pledges Jobs, Reliable Energy, and Accountability",
-      "summary": "By Seedy Jobe Coalition 2026 flagbearer Talib Ahmed Bensouda said The Gambia’s economic growth must translate into better living conditions, jobs, and opportunities for ordinary citizens, as he outlined his coalition’s priorities ahead of the 2026 presidential election. Speaki...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-says-growth-alone-is-not-enough-pledges-jobs-reliable-energy-and-accountability/",
-      "publishedAt": "2026-08-20T23:08:24.000Z",
-      "collectedAt": "2026-08-21T05:29:08.751Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e7a9eec92f301018",
-      "title": "Sports Minister Says Independence Stadium Will Be Reserved Primarily for Sports",
-      "summary": "By Makutu Manneh Bakary Badjie, the Minister of Youth and Sports, has said the newly renovated Independence Stadium will be used primarily for sporting events, with musical concerts and wrestling no longer permitted at the facility.The minister also said the stadium would host...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sports-minister-says-independence-stadium-will-be-reserved-primarily-for-sports/",
-      "publishedAt": "2026-08-20T15:48:05.000Z",
-      "collectedAt": "2026-08-21T05:29:08.751Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -751,7 +702,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-04T11:09:54.416Z",
+      "collectedAt": "2026-09-04T16:11:15.284Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -775,7 +726,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-04T11:09:54.416Z",
+      "collectedAt": "2026-09-04T16:11:15.284Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -798,7 +749,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-04T11:09:54.416Z",
+      "collectedAt": "2026-09-04T16:11:15.284Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -815,7 +766,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T11:10:00.033Z",
-    "count": 34
+    "generatedAt": "2026-09-04T16:11:20.961Z",
+    "count": 32
   }
 }

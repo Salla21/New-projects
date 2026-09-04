@@ -214,35 +214,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e7a9eec92f301018",
-      "title": "Sports Minister Says Independence Stadium Will Be Reserved Primarily for Sports",
-      "summary": "By Makutu Manneh Bakary Badjie, the Minister of Youth and Sports, has said the newly renovated Independence Stadium will be used primarily for sporting events, with musical concerts and wrestling no longer permitted at the facility.The minister also said the stadium would host...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sports-minister-says-independence-stadium-will-be-reserved-primarily-for-sports/",
-      "publishedAt": "2026-08-20T15:48:05.000Z",
-      "collectedAt": "2026-08-21T05:29:08.751Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T11:10:00.033Z",
-    "count": 10
+    "generatedAt": "2026-09-04T16:11:20.961Z",
+    "count": 9
   }
 }

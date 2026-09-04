@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "fe89e39f3cbd5eb8",
+      "title": "Health Ministry Launches Investigation Into Activist Ebrima Gassama’s Death at Brikama Hospital",
+      "summary": "Written by: Seringe S.T. Touray The Ministry of Health has launched an investigation into the death of activist Ebrima Gassama at Brikama District Hospital following allegations of inadequate medical response and power supply problems at the facility. Gassama, an activist asso...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/health-ministry-launches-investigation-into-activist-ebrima-gassamas-death-at-brikama-hospital/",
+      "publishedAt": "2026-09-04T13:06:46.000Z",
+      "collectedAt": "2026-09-04T16:11:15.722Z",
+      "region": "west-coast",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a14bb794c07a1572",
       "title": "Africell Presents Jerseys to Nawettan Teams, Renews Support for Grassroots Football",
       "summary": "By Makutu Manneh Africell Gambia on Thursday presented jerseys to Nawettan teams from across the country, renewing the telecommunications company’s longstanding support for grassroots football and youth development. The jerseys were handed over during a ceremony at Africell’s ...",
@@ -310,30 +333,6 @@
       "status": "published"
     },
     {
-      "id": "9f5f9ab47d78b12b",
-      "title": "Coalition 2026 Spokesman Predicts Victory, Casts Bensouda as Leader to ‘Rescue’ Gambia",
-      "summary": "By Seedy Jobe Assan Martin, the spokesperson for Coalition 2026, has declared that the opposition alliance is poised to form the next government, casting its leader, Talib Ahmed Bensouda, as the candidate capable of delivering the political change Gambians are seeking. Speakin...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/coalition-2026-spokesman-predicts-victory-casts-bensouda-as-leader-to-rescue-gambia/",
-      "publishedAt": "2026-08-20T23:15:21.000Z",
-      "collectedAt": "2026-08-21T05:29:08.751Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "e90449effae42a02",
       "title": "COULD METERS ALOCATED TO A COMPOUND HEAD BE TAKEN AND GIVEN TO ANOTHER COMPOUND HEAD?",
       "summary": "Foroyaa received a complaint from a compound head in CRR North that a meter allocated to him is to be taken away through the order of a district authority. Foroyaa has contacted the PRO for investigation. The PRO emphasised that once a meter is allocated to a person and instal...",
@@ -342,7 +341,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-04T11:09:54.416Z",
+      "collectedAt": "2026-09-04T16:11:15.284Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -365,7 +364,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-04T11:09:54.416Z",
+      "collectedAt": "2026-09-04T16:11:15.284Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -381,7 +380,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T11:10:00.033Z",
+    "generatedAt": "2026-09-04T16:11:20.961Z",
     "count": 16
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "fe89e39f3cbd5eb8",
+      "title": "Health Ministry Launches Investigation Into Activist Ebrima Gassama’s Death at Brikama Hospital",
+      "summary": "Written by: Seringe S.T. Touray The Ministry of Health has launched an investigation into the death of activist Ebrima Gassama at Brikama District Hospital following allegations of inadequate medical response and power supply problems at the facility. Gassama, an activist asso...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/health-ministry-launches-investigation-into-activist-ebrima-gassamas-death-at-brikama-hospital/",
+      "publishedAt": "2026-09-04T13:06:46.000Z",
+      "collectedAt": "2026-09-04T16:11:15.722Z",
+      "region": "west-coast",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3e296a7c1f4368c5",
       "title": "IMF agrees $2.2 billion three-year loan package for Senegal",
       "summary": "Senegal reached a staff-level agreement with the International Monetary Fund for a US$2.2 billion, three-year lending programme as the government seeks to restore debt sustainability after uncovering more than US$11 billion of previously misreported borrowing. The agreement st...",
@@ -226,7 +249,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T11:10:00.033Z",
-    "count": 10
+    "generatedAt": "2026-09-04T16:11:20.961Z",
+    "count": 11
   }
 }

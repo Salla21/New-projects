@@ -219,29 +219,6 @@
       "status": "published"
     },
     {
-      "id": "80bd8587f28f2a51",
-      "title": "Gambia Immigration Department Intercepts 36 Suspected Would-Be Migrants in Tujereng",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 36 suspected would-be migrants in Tujereng, a village in the West Coast Region, as authorities continue efforts to curb irregular migration. The operation was carried out by the department’s Border Patrol...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-36-suspected-would-be-migrants-in-tujereng/",
-      "publishedAt": "2026-08-20T16:00:12.000Z",
-      "collectedAt": "2026-08-21T05:29:08.751Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -250,7 +227,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-04T11:09:54.416Z",
+      "collectedAt": "2026-09-04T16:11:15.284Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -267,7 +244,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T11:10:00.033Z",
-    "count": 11
+    "generatedAt": "2026-09-04T16:11:20.961Z",
+    "count": 10
   }
 }

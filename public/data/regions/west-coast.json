@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "fe89e39f3cbd5eb8",
+      "title": "Health Ministry Launches Investigation Into Activist Ebrima Gassama’s Death at Brikama Hospital",
+      "summary": "Written by: Seringe S.T. Touray The Ministry of Health has launched an investigation into the death of activist Ebrima Gassama at Brikama District Hospital following allegations of inadequate medical response and power supply problems at the facility. Gassama, an activist asso...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/health-ministry-launches-investigation-into-activist-ebrima-gassamas-death-at-brikama-hospital/",
+      "publishedAt": "2026-09-04T13:06:46.000Z",
+      "collectedAt": "2026-09-04T16:11:15.722Z",
+      "region": "west-coast",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "99498bca808633a9",
       "title": "Brikama Area Council Disburses D6 Million in Scholarships to More Than 200 Students",
       "summary": "By Fatou Sillah The Brikama Area Council on Thursday announced the disbursement of D6 million in scholarship support to more than 200 students attending eight higher education institutions, marking the third consecutive year the council has provided financial assistance to stu...",
@@ -282,7 +305,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T11:10:00.033Z",
-    "count": 12
+    "generatedAt": "2026-09-04T16:11:20.961Z",
+    "count": 13
   }
 }
