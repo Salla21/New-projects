@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "8e49ee652acc0e02",
+      "title": "Tallinding South Councillor Says Residents, Private Businesses Are Straining KMC Market Waste Collection",
+      "summary": "By Makutu Manneh Karamo Ceesay, the Tallinding South councillor at the Kanifing Municipal Council, has pushed back against suggestions that persistent waste collection problems at markets are caused by a shortage of garbage trucks, saying the larger problem is that bins intend...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/tallinding-south-councillor-says-residents-private-businesses-are-straining-kmc-market-waste-collection/",
+      "publishedAt": "2026-09-04T22:37:33.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4223faa93fa50289",
+      "title": "BAC Transport Councillor Blames Public Attitudes for Persistent Waste Problems at Markets",
+      "summary": "By Makutu Manneh Sheriffo Bayo Sonko, the transport councillor for the Brikama Area Council, has blamed persistent waste problems at Brikama Market and other public spaces partly on the dumping habits of traders and residents, saying the council continues to struggle with peop...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bac-transport-councillor-blames-public-attitudes-for-persistent-waste-problems-at-markets/",
+      "publishedAt": "2026-09-04T22:27:23.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bcb60c3493f39301",
+      "title": "“How Do You Know? You Are Always Sleeping”: Jammeh Questions Barrow’s Claims About His Activities, Denies Plans to Destabilize Gambia",
+      "summary": "By Staff Writer An audio recording reportedly featuring former Gambian President Yahya Jammeh has surfaced in which the exiled former leader rejects suggestions that he intends to destabilize the Gambia, while warning that he retains the right to defend himself, his integrity,...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/how-do-you-know-you-are-always-sleeping-jammeh-questions-barrows-claims-about-his-activities-denies-plans-to-destabilize-gambia/",
+      "publishedAt": "2026-09-04T21:13:18.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bc6cdfa82e385e8f",
       "title": "Gajigo Says Barrow’s Political Survival Is at Stake Over Electricity Crisis",
       "summary": "By Fatou Sillah Economist and politician Dr. Ousman Gajigo has said President Adama Barrow’s political fortunes could be threatened by The Gambia’s persistent electricity crisis, accusing his administration of failing to make adequate investments in domestic power generation. ...",
@@ -718,30 +788,6 @@
       "status": "published"
     },
     {
-      "id": "628e0245156d8c8c",
-      "title": "China Seminar Gives Fatu Network Reporter Fresh Vision for Gambia’s Ecotourism",
-      "summary": "Written by: Dawda Baldeh The Fatu Network Senior Reporter Alieu Jallow has completed a two-week international seminar on Ecological Governance and Ecotourism Development for Belt and Road Countries in Chengdu, Sichuan Province, China, returning to The Gambia with new ideas on ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/china-seminar-gives-fatu-network-reporter-fresh-vision-for-gambias-ecotourism/",
-      "publishedAt": "2026-08-27T11:22:51.000Z",
-      "collectedAt": "2026-09-01T17:46:34.017Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -750,7 +796,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-04T20:39:46.899Z",
+      "collectedAt": "2026-09-04T23:53:33.578Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -774,7 +820,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-04T20:39:46.899Z",
+      "collectedAt": "2026-09-04T23:53:33.578Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -797,7 +843,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-04T20:39:46.899Z",
+      "collectedAt": "2026-09-04T23:53:33.578Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -814,7 +860,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T20:39:54.792Z",
-    "count": 34
+    "generatedAt": "2026-09-04T23:53:41.498Z",
+    "count": 36
   }
 }

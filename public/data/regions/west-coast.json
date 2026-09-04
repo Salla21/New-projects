@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "4223faa93fa50289",
+      "title": "BAC Transport Councillor Blames Public Attitudes for Persistent Waste Problems at Markets",
+      "summary": "By Makutu Manneh Sheriffo Bayo Sonko, the transport councillor for the Brikama Area Council, has blamed persistent waste problems at Brikama Market and other public spaces partly on the dumping habits of traders and residents, saying the council continues to struggle with peop...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bac-transport-councillor-blames-public-attitudes-for-persistent-waste-problems-at-markets/",
+      "publishedAt": "2026-09-04T22:27:23.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4f0aef4a99b3f036",
       "title": "Gambian player makes it to Bodø/Glimt’s champion’s league squad",
       "summary": "An important milestone in Gambian football has been recorded with Norwegian football giant Bodø/Glimt announcing that it has signed the first professional contract with a Gambian player, Assan Sanyang, from its Gambian partner club, the Tijan Jaiteh Football Academy. A stateme...",
@@ -329,7 +352,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T20:39:54.792Z",
-    "count": 14
+    "generatedAt": "2026-09-04T23:53:41.498Z",
+    "count": 15
   }
 }

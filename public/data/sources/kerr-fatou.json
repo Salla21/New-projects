@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "id": "8e49ee652acc0e02",
+      "title": "Tallinding South Councillor Says Residents, Private Businesses Are Straining KMC Market Waste Collection",
+      "summary": "By Makutu Manneh Karamo Ceesay, the Tallinding South councillor at the Kanifing Municipal Council, has pushed back against suggestions that persistent waste collection problems at markets are caused by a shortage of garbage trucks, saying the larger problem is that bins intend...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/tallinding-south-councillor-says-residents-private-businesses-are-straining-kmc-market-waste-collection/",
+      "publishedAt": "2026-09-04T22:37:33.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c4f8931b6088982d",
+      "title": "KMC Councillor Says Government Politicization Is Hampering Waste Management",
+      "summary": "By Makutu Manneh Karamo Ceesay, the councillor for Tallinding South at the Kanifing Municipal Council, has accused the central government of politicizing waste management, saying political interference has hindered efforts to address a problem affecting communities across The ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kmc-councillor-says-government-politicization-is-hampering-waste-management/",
+      "publishedAt": "2026-09-04T22:32:12.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4223faa93fa50289",
+      "title": "BAC Transport Councillor Blames Public Attitudes for Persistent Waste Problems at Markets",
+      "summary": "By Makutu Manneh Sheriffo Bayo Sonko, the transport councillor for the Brikama Area Council, has blamed persistent waste problems at Brikama Market and other public spaces partly on the dumping habits of traders and residents, saying the council continues to struggle with peop...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bac-transport-councillor-blames-public-attitudes-for-persistent-waste-problems-at-markets/",
+      "publishedAt": "2026-09-04T22:27:23.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bcb60c3493f39301",
+      "title": "“How Do You Know? You Are Always Sleeping”: Jammeh Questions Barrow’s Claims About His Activities, Denies Plans to Destabilize Gambia",
+      "summary": "By Staff Writer An audio recording reportedly featuring former Gambian President Yahya Jammeh has surfaced in which the exiled former leader rejects suggestions that he intends to destabilize the Gambia, while warning that he retains the right to defend himself, his integrity,...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/how-do-you-know-you-are-always-sleeping-jammeh-questions-barrows-claims-about-his-activities-denies-plans-to-destabilize-gambia/",
+      "publishedAt": "2026-09-04T21:13:18.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8aeb3ec7d08359bf",
       "title": "Political Analyst Juwara Urges BAC, KMC to Collaborate on Waste Management",
       "summary": "By Makutu Manneh Lamin Juwara, a political analyst, has urged the Brikama Area Council (BAC) and Kanifing Municipal Council (KMC) to put aside their rivalry and develop a joint strategy to address persistent waste management problems in their jurisdictions. Speaking on Kerr Fa...",
@@ -816,7 +907,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T20:39:54.792Z",
-    "count": 35
+    "generatedAt": "2026-09-04T23:53:41.498Z",
+    "count": 39
   }
 }

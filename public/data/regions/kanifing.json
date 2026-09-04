@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "8e49ee652acc0e02",
+      "title": "Tallinding South Councillor Says Residents, Private Businesses Are Straining KMC Market Waste Collection",
+      "summary": "By Makutu Manneh Karamo Ceesay, the Tallinding South councillor at the Kanifing Municipal Council, has pushed back against suggestions that persistent waste collection problems at markets are caused by a shortage of garbage trucks, saying the larger problem is that bins intend...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/tallinding-south-councillor-says-residents-private-businesses-are-straining-kmc-market-waste-collection/",
+      "publishedAt": "2026-09-04T22:37:33.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c4f8931b6088982d",
+      "title": "KMC Councillor Says Government Politicization Is Hampering Waste Management",
+      "summary": "By Makutu Manneh Karamo Ceesay, the councillor for Tallinding South at the Kanifing Municipal Council, has accused the central government of politicizing waste management, saying political interference has hindered efforts to address a problem affecting communities across The ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kmc-councillor-says-government-politicization-is-hampering-waste-management/",
+      "publishedAt": "2026-09-04T22:32:12.000Z",
+      "collectedAt": "2026-09-04T23:53:37.393Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8aeb3ec7d08359bf",
       "title": "Political Analyst Juwara Urges BAC, KMC to Collaborate on Waste Management",
       "summary": "By Makutu Manneh Lamin Juwara, a political analyst, has urged the Brikama Area Council (BAC) and Kanifing Municipal Council (KMC) to put aside their rivalry and develop a joint strategy to address persistent waste management problems in their jurisdictions. Speaking on Kerr Fa...",
@@ -55,7 +99,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-04T20:39:46.899Z",
+      "collectedAt": "2026-09-04T23:53:33.578Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -78,7 +122,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-04T20:39:46.899Z",
+      "collectedAt": "2026-09-04T23:53:33.578Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -102,7 +146,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-04T20:39:46.899Z",
+      "collectedAt": "2026-09-04T23:53:33.578Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -118,7 +162,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T20:39:54.792Z",
-    "count": 5
+    "generatedAt": "2026-09-04T23:53:41.498Z",
+    "count": 7
   }
 }
