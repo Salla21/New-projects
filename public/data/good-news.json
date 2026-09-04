@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "bc6cdfa82e385e8f",
+      "title": "Gajigo Says Barrow’s Political Survival Is at Stake Over Electricity Crisis",
+      "summary": "By Fatou Sillah Economist and politician Dr. Ousman Gajigo has said President Adama Barrow’s political fortunes could be threatened by The Gambia’s persistent electricity crisis, accusing his administration of failing to make adequate investments in domestic power generation. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-says-barrows-political-survival-is-at-stake-over-electricity-crisis/",
+      "publishedAt": "2026-09-04T18:49:54.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f8d2acecf64d997c",
+      "title": "Russian Language Course Opens New Doors for Gambian Learners",
+      "summary": "By Dawda Baldeh The inaugural Volga Summer Russian Language Beginner’s Course has successfully concluded in The Gambia, with organisers describing the two-week programme as a major step toward strengthening educational and cultural ties between The Gambia and Russia. Held from...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/russian-language-course-opens-new-doors-for-gambian-learners/",
+      "publishedAt": "2026-09-04T18:04:14.000Z",
+      "collectedAt": "2026-09-04T20:39:49.325Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4f0aef4a99b3f036",
+      "title": "Gambian player makes it to Bodø/Glimt’s champion’s league squad",
+      "summary": "An important milestone in Gambian football has been recorded with Norwegian football giant Bodø/Glimt announcing that it has signed the first professional contract with a Gambian player, Assan Sanyang, from its Gambian partner club, the Tijan Jaiteh Football Academy. A stateme...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-player-makes-it-to-bodo-glimts-champions-league-squad/",
+      "publishedAt": "2026-09-04T15:30:00.000Z",
+      "collectedAt": "2026-09-04T20:39:41.747Z",
+      "region": "west-coast",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fe89e39f3cbd5eb8",
       "title": "Health Ministry Launches Investigation Into Activist Ebrima Gassama’s Death at Brikama Hospital",
       "summary": "Written by: Seringe S.T. Touray The Ministry of Health has launched an investigation into the death of activist Ebrima Gassama at Brikama District Hospital following allegations of inadequate medical response and power supply problems at the facility. Gassama, an activist asso...",
@@ -424,7 +493,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/team-kitabu-invites-yankuba-minteh-fatou-touray-ziggi-rinnas-skincare-and-others-to-award-night/",
       "publishedAt": "2026-08-26T04:58:50.000Z",
-      "collectedAt": "2026-09-04T16:11:15.552Z",
+      "collectedAt": "2026-09-04T20:39:47.189Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -445,7 +514,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/hadiga-college-international-honours-whats-on-gambia-with-outstanding-media-award-2025/",
       "publishedAt": "2026-08-20T11:35:10.000Z",
-      "collectedAt": "2026-09-04T16:11:15.552Z",
+      "collectedAt": "2026-09-04T20:39:47.189Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -466,7 +535,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/man-allegedly-klls-bartender-in-banjul/",
       "publishedAt": "2026-08-19T08:21:07.000Z",
-      "collectedAt": "2026-09-04T16:11:15.552Z",
+      "collectedAt": "2026-09-04T20:39:47.189Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -487,7 +556,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -510,7 +579,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -531,7 +600,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -555,7 +624,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -571,7 +640,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T16:11:20.961Z",
-    "count": 25
+    "generatedAt": "2026-09-04T20:39:54.792Z",
+    "count": 28
   }
 }

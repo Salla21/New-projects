@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "8aeb3ec7d08359bf",
+      "title": "Political Analyst Juwara Urges BAC, KMC to Collaborate on Waste Management",
+      "summary": "By Makutu Manneh Lamin Juwara, a political analyst, has urged the Brikama Area Council (BAC) and Kanifing Municipal Council (KMC) to put aside their rivalry and develop a joint strategy to address persistent waste management problems in their jurisdictions. Speaking on Kerr Fa...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-urges-bac-kmc-to-collaborate-on-waste-management/",
+      "publishedAt": "2026-09-04T19:04:40.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "kanifing",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "89ee7493c44203f1",
       "title": "KMC, BAC Councillors Clash Over First-Term Development Records",
       "summary": "By Makutu Manneh Councillors from the Kanifing Municipal Council and the Brikama Area Council traded claims over their respective development records on Tuesday, each arguing that their council had delivered more during its early years in office. The exchange, during a panel d...",
@@ -32,7 +55,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -55,7 +78,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -79,7 +102,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -95,7 +118,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T16:11:20.961Z",
-    "count": 4
+    "generatedAt": "2026-09-04T20:39:54.792Z",
+    "count": 5
   }
 }

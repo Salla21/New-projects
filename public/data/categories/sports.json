@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4f0aef4a99b3f036",
+      "title": "Gambian player makes it to Bodø/Glimt’s champion’s league squad",
+      "summary": "An important milestone in Gambian football has been recorded with Norwegian football giant Bodø/Glimt announcing that it has signed the first professional contract with a Gambian player, Assan Sanyang, from its Gambian partner club, the Tijan Jaiteh Football Academy. A stateme...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-player-makes-it-to-bodo-glimts-champions-league-squad/",
+      "publishedAt": "2026-09-04T15:30:00.000Z",
+      "collectedAt": "2026-09-04T20:39:41.747Z",
+      "region": "west-coast",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1a31794450f9feab",
       "title": "CEESAY VOWS TO STEP UPFOOTBALL DEV’T",
       "summary": "As he takes over GFF The newly-elected president of the Gambia Football Federation (GFF), Kemo Ceesay, formally assumed duties yesterday at a colourful handing over ceremony at Football House. Witnessed by his executive committee, President Ceesay took over the reins from Lami...",
@@ -189,35 +213,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c27042adfdedf848",
-      "title": "Col. Musa Jammeh’s GFF Presidential Bid: Campaign Sets Out Its Position as Election Race Intensifies",
-      "summary": "Written by: Dawda Baldeh As the Gambia Football Federation (GFF) elective congress approaches, campaigning for the leadership of Football House is intensifying, with competing camps presenting their plans and making their case to delegates. A recent post published by Gamfoot a...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/col-musa-jammehs-gff-presidential-bid-campaign-sets-out-its-position-as-election-race-intensifies/",
-      "publishedAt": "2026-08-26T12:23:12.000Z",
-      "collectedAt": "2026-09-01T17:46:34.017Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "sports",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T16:11:20.961Z",
+    "generatedAt": "2026-09-04T20:39:54.792Z",
     "count": 9
   }
 }

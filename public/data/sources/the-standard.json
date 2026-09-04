@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4f0aef4a99b3f036",
+      "title": "Gambian player makes it to Bodø/Glimt’s champion’s league squad",
+      "summary": "An important milestone in Gambian football has been recorded with Norwegian football giant Bodø/Glimt announcing that it has signed the first professional contract with a Gambian player, Assan Sanyang, from its Gambian partner club, the Tijan Jaiteh Football Academy. A stateme...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-player-makes-it-to-bodo-glimts-champions-league-squad/",
+      "publishedAt": "2026-09-04T15:30:00.000Z",
+      "collectedAt": "2026-09-04T20:39:41.747Z",
+      "region": "west-coast",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3e296a7c1f4368c5",
       "title": "IMF agrees $2.2 billion three-year loan package for Senegal",
       "summary": "Senegal reached a staff-level agreement with the International Monetary Fund for a US$2.2 billion, three-year lending programme as the government seeks to restore debt sustainability after uncovering more than US$11 billion of previously misreported borrowing. The agreement st...",
@@ -980,7 +1004,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T16:11:20.961Z",
-    "count": 43
+    "generatedAt": "2026-09-04T20:39:54.792Z",
+    "count": 44
   }
 }

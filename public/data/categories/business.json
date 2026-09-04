@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "bc6cdfa82e385e8f",
+      "title": "Gajigo Says Barrow’s Political Survival Is at Stake Over Electricity Crisis",
+      "summary": "By Fatou Sillah Economist and politician Dr. Ousman Gajigo has said President Adama Barrow’s political fortunes could be threatened by The Gambia’s persistent electricity crisis, accusing his administration of failing to make adequate investments in domestic power generation. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-says-barrows-political-survival-is-at-stake-over-electricity-crisis/",
+      "publishedAt": "2026-09-04T18:49:54.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4f0aef4a99b3f036",
+      "title": "Gambian player makes it to Bodø/Glimt’s champion’s league squad",
+      "summary": "An important milestone in Gambian football has been recorded with Norwegian football giant Bodø/Glimt announcing that it has signed the first professional contract with a Gambian player, Assan Sanyang, from its Gambian partner club, the Tijan Jaiteh Football Academy. A stateme...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-player-makes-it-to-bodo-glimts-champions-league-squad/",
+      "publishedAt": "2026-09-04T15:30:00.000Z",
+      "collectedAt": "2026-09-04T20:39:41.747Z",
+      "region": "west-coast",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3e296a7c1f4368c5",
       "title": "IMF agrees $2.2 billion three-year loan package for Senegal",
       "summary": "Senegal reached a staff-level agreement with the International Monetary Fund for a US$2.2 billion, three-year lending programme as the government seeks to restore debt sustainability after uncovering more than US$11 billion of previously misreported borrowing. The agreement st...",
@@ -702,7 +750,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -726,7 +774,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -749,7 +797,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -766,7 +814,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T16:11:20.961Z",
-    "count": 32
+    "generatedAt": "2026-09-04T20:39:54.792Z",
+    "count": 34
   }
 }

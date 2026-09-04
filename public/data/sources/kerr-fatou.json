@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "id": "8aeb3ec7d08359bf",
+      "title": "Political Analyst Juwara Urges BAC, KMC to Collaborate on Waste Management",
+      "summary": "By Makutu Manneh Lamin Juwara, a political analyst, has urged the Brikama Area Council (BAC) and Kanifing Municipal Council (KMC) to put aside their rivalry and develop a joint strategy to address persistent waste management problems in their jurisdictions. Speaking on Kerr Fa...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-urges-bac-kmc-to-collaborate-on-waste-management/",
+      "publishedAt": "2026-09-04T19:04:40.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "kanifing",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bc6cdfa82e385e8f",
+      "title": "Gajigo Says Barrow’s Political Survival Is at Stake Over Electricity Crisis",
+      "summary": "By Fatou Sillah Economist and politician Dr. Ousman Gajigo has said President Adama Barrow’s political fortunes could be threatened by The Gambia’s persistent electricity crisis, accusing his administration of failing to make adequate investments in domestic power generation. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-says-barrows-political-survival-is-at-stake-over-electricity-crisis/",
+      "publishedAt": "2026-09-04T18:49:54.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ea2151d5e8af12c3",
+      "title": "Dr. Gajigo Says Talib Bensouda Represents the Change Gambia Needs",
+      "summary": "By Fatou Sillah Economist and politician Dr. Ousman Gajigo has explained his decision to back UNITE presidential candidate Talib Bensouda, saying he believes Bensouda represents the kind of political change The Gambia needs ahead of the December 2026 presidential election. Spe...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-says-talib-bensouda-represents-the-change-gambia-needs/",
+      "publishedAt": "2026-09-04T18:10:35.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "39bcc0d3c9a564aa",
+      "title": "PURA Extends 7-Digit Number Use Through February 2027, Citing Electoral Period",
+      "summary": "By Fatou Sillah The Public Utilities Regulatory Authority has extended the deadline for phasing out The Gambia’s seven-digit mobile numbers to Feb. 28, 2027, citing the country’s electoral period and the end-of-year holiday season. The announcement means the existing seven-dig...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/pura-extends-7-digit-number-use-through-february-2027-citing-electoral-period/",
+      "publishedAt": "2026-09-04T17:59:25.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a14bb794c07a1572",
       "title": "Africell Presents Jerseys to Nawettan Teams, Renews Support for Grassroots Football",
       "summary": "By Makutu Manneh Africell Gambia on Thursday presented jerseys to Nawettan teams from across the country, renewing the telecommunications company’s longstanding support for grassroots football and youth development. The jerseys were handed over during a ceremony at Africell’s ...",
@@ -725,7 +816,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T16:11:20.961Z",
-    "count": 31
+    "generatedAt": "2026-09-04T20:39:54.792Z",
+    "count": 35
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "8aeb3ec7d08359bf",
+      "title": "Political Analyst Juwara Urges BAC, KMC to Collaborate on Waste Management",
+      "summary": "By Makutu Manneh Lamin Juwara, a political analyst, has urged the Brikama Area Council (BAC) and Kanifing Municipal Council (KMC) to put aside their rivalry and develop a joint strategy to address persistent waste management problems in their jurisdictions. Speaking on Kerr Fa...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-urges-bac-kmc-to-collaborate-on-waste-management/",
+      "publishedAt": "2026-09-04T19:04:40.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "kanifing",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fe89e39f3cbd5eb8",
       "title": "Health Ministry Launches Investigation Into Activist Ebrima Gassama’s Death at Brikama Hospital",
       "summary": "Written by: Seringe S.T. Touray The Ministry of Health has launched an investigation into the death of activist Ebrima Gassama at Brikama District Hospital following allegations of inadequate medical response and power supply problems at the facility. Gassama, an activist asso...",
@@ -341,7 +364,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -364,7 +387,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -380,7 +403,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T16:11:20.961Z",
-    "count": 16
+    "generatedAt": "2026-09-04T20:39:54.792Z",
+    "count": 17
   }
 }

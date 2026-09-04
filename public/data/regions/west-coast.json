@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4f0aef4a99b3f036",
+      "title": "Gambian player makes it to Bodø/Glimt’s champion’s league squad",
+      "summary": "An important milestone in Gambian football has been recorded with Norwegian football giant Bodø/Glimt announcing that it has signed the first professional contract with a Gambian player, Assan Sanyang, from its Gambian partner club, the Tijan Jaiteh Football Academy. A stateme...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-player-makes-it-to-bodo-glimts-champions-league-squad/",
+      "publishedAt": "2026-09-04T15:30:00.000Z",
+      "collectedAt": "2026-09-04T20:39:41.747Z",
+      "region": "west-coast",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fe89e39f3cbd5eb8",
       "title": "Health Ministry Launches Investigation Into Activist Ebrima Gassama’s Death at Brikama Hospital",
       "summary": "Written by: Seringe S.T. Touray The Ministry of Health has launched an investigation into the death of activist Ebrima Gassama at Brikama District Hospital following allegations of inadequate medical response and power supply problems at the facility. Gassama, an activist asso...",
@@ -305,7 +329,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T16:11:20.961Z",
-    "count": 13
+    "generatedAt": "2026-09-04T20:39:54.792Z",
+    "count": 14
   }
 }

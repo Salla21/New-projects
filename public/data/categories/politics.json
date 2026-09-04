@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "bc6cdfa82e385e8f",
+      "title": "Gajigo Says Barrow’s Political Survival Is at Stake Over Electricity Crisis",
+      "summary": "By Fatou Sillah Economist and politician Dr. Ousman Gajigo has said President Adama Barrow’s political fortunes could be threatened by The Gambia’s persistent electricity crisis, accusing his administration of failing to make adequate investments in domestic power generation. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-says-barrows-political-survival-is-at-stake-over-electricity-crisis/",
+      "publishedAt": "2026-09-04T18:49:54.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ea2151d5e8af12c3",
+      "title": "Dr. Gajigo Says Talib Bensouda Represents the Change Gambia Needs",
+      "summary": "By Fatou Sillah Economist and politician Dr. Ousman Gajigo has explained his decision to back UNITE presidential candidate Talib Bensouda, saying he believes Bensouda represents the kind of political change The Gambia needs ahead of the December 2026 presidential election. Spe...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-says-talib-bensouda-represents-the-change-gambia-needs/",
+      "publishedAt": "2026-09-04T18:10:35.000Z",
+      "collectedAt": "2026-09-04T20:39:50.690Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3e296a7c1f4368c5",
       "title": "IMF agrees $2.2 billion three-year loan package for Senegal",
       "summary": "Senegal reached a staff-level agreement with the International Monetary Fund for a US$2.2 billion, three-year lending programme as the government seeks to restore debt sustainability after uncovering more than US$11 billion of previously misreported borrowing. The agreement st...",
@@ -1230,31 +1277,6 @@
       "status": "published"
     },
     {
-      "id": "c27042adfdedf848",
-      "title": "Col. Musa Jammeh’s GFF Presidential Bid: Campaign Sets Out Its Position as Election Race Intensifies",
-      "summary": "Written by: Dawda Baldeh As the Gambia Football Federation (GFF) elective congress approaches, campaigning for the leadership of Football House is intensifying, with competing camps presenting their plans and making their case to delegates. A recent post published by Gamfoot a...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/col-musa-jammehs-gff-presidential-bid-campaign-sets-out-its-position-as-election-race-intensifies/",
-      "publishedAt": "2026-08-26T12:23:12.000Z",
-      "collectedAt": "2026-09-01T17:46:34.017Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "sports",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1263,7 +1285,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1286,7 +1308,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1309,7 +1331,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-04T16:11:15.284Z",
+      "collectedAt": "2026-09-04T20:39:46.899Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1326,7 +1348,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T16:11:20.961Z",
-    "count": 56
+    "generatedAt": "2026-09-04T20:39:54.792Z",
+    "count": 57
   }
 }
