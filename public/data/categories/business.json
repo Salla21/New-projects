@@ -696,77 +696,6 @@
       "status": "published"
     },
     {
-      "id": "6d4f67e5265164ef",
-      "title": "Sports Minister Says Remaining Stadium Work Shifts From Renovation to Match-Day Operations",
-      "summary": "By Makutu Manneh Bakary Badjie, the minister of youth and sports, said the remaining work at Independence Stadium is no longer focused on renovations but on how the facility will operate during international matches, following provisional approval from the Confederation of Afr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sports-minister-says-remaining-stadium-work-shifts-from-renovation-to-match-day-operations/",
-      "publishedAt": "2026-08-20T15:31:42.000Z",
-      "collectedAt": "2026-08-21T05:29:08.751Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "03fa984105b7c293",
-      "title": "Sports Minister Says He Faced Calls for His Removal During Stadium Renovation",
-      "summary": "By Seedy Jobe The Minister of Youth and Sports, Bakary Y. Badjie, said he faced calls for his dismissal at one point during the renovation of the Independence Stadium, as delays and setbacks fueled public frustration over the prolonged closure of the country’s main sporting ve...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sports-minister-says-he-faced-calls-for-his-removal-during-stadium-renovation/",
-      "publishedAt": "2026-08-20T15:14:40.000Z",
-      "collectedAt": "2026-08-21T05:29:08.751Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bbaac0b6328b9360",
-      "title": "ActionAid Distributes 1,000 Organic Fertilizer Bags to Central Gambia Farmers",
-      "summary": "​By Dawda Baldeh An international non-governmental organisation has distributed more than 1,000 bags of organic fertilizer to farmers in central Gambia as part of an initiative to promote sustainable agriculture and cut reliance on expensive chemical inputs. ActionAid Internat...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/actionaid-distributes-1000-organic-fertilizer-bags-to-central-gambia-farmers/",
-      "publishedAt": "2026-08-20T14:12:01.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -775,7 +704,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-03T23:56:29.201Z",
+      "collectedAt": "2026-09-04T04:09:45.861Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -799,7 +728,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-03T23:56:29.201Z",
+      "collectedAt": "2026-09-04T04:09:45.861Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -822,7 +751,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-03T23:56:29.201Z",
+      "collectedAt": "2026-09-04T04:09:45.861Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -839,7 +768,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T23:56:36.877Z",
-    "count": 35
+    "generatedAt": "2026-09-04T04:09:51.763Z",
+    "count": 32
   }
 }

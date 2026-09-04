@@ -753,33 +753,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2aa7ae6b4ee9b618",
-      "title": "ART",
-      "summary": "Twice Through the Fire: A Reckoning with Umar Abdulrasheed ‘s Two Ceramic Vessels By Athi Mongezeleli Joja Ceramics has mostly embraced the tradition of firing a piece twice; the first is to harden it, then the second locks the colour permanently. Umar Abdulrasheed’s two vesse...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/art/",
-      "publishedAt": "2026-08-20T13:23:58.000Z",
-      "collectedAt": "2026-08-21T05:29:00.681Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T23:56:36.877Z",
-    "count": 34
+    "generatedAt": "2026-09-04T04:09:51.763Z",
+    "count": 33
   }
 }

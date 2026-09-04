@@ -502,33 +502,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "bbaac0b6328b9360",
-      "title": "ActionAid Distributes 1,000 Organic Fertilizer Bags to Central Gambia Farmers",
-      "summary": "​By Dawda Baldeh An international non-governmental organisation has distributed more than 1,000 bags of organic fertilizer to farmers in central Gambia as part of an initiative to promote sustainable agriculture and cut reliance on expensive chemical inputs. ActionAid Internat...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/actionaid-distributes-1000-organic-fertilizer-bags-to-central-gambia-farmers/",
-      "publishedAt": "2026-08-20T14:12:01.000Z",
-      "collectedAt": "2026-08-21T05:29:06.770Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-03T23:56:36.877Z",
-    "count": 23
+    "generatedAt": "2026-09-04T04:09:51.763Z",
+    "count": 22
   }
 }
