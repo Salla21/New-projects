@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "3e296a7c1f4368c5",
+      "title": "IMF agrees $2.2 billion three-year loan package for Senegal",
+      "summary": "Senegal reached a staff-level agreement with the International Monetary Fund for a US$2.2 billion, three-year lending programme as the government seeks to restore debt sustainability after uncovering more than US$11 billion of previously misreported borrowing. The agreement st...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/imf-agrees-2-2-billion-three-year-loan-package-for-senegal/",
+      "publishedAt": "2026-09-04T09:58:30.000Z",
+      "collectedAt": "2026-09-04T11:09:46.762Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "97cd75f80c414bd7",
+      "title": "Birame Diop takes over from Dr Touray as head of Ecowas Commission",
+      "summary": "Former Senegalese Minister of the Armed Forces, Lieutenant General Birame Diop was officially installed as President of the Ecowas Commission this Monday in Abuja. Succeeding Gambian Omar Alieu Touray, the new head of the regional executive inherits major strategic issues, ran...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/birame-diop-takes-over-from-dr-touray-as-head-of-ecowas-commission/",
+      "publishedAt": "2026-09-04T09:58:26.000Z",
+      "collectedAt": "2026-09-04T11:09:46.762Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "23d997992b9cfad9",
+      "title": "President Faye gives ultimatum to 4 ministers",
+      "summary": "Since the complete break between Bassirou Diomaye Faye and Ousmane Sonko — materialised by the latter’s dismissal from the prime minister’s office at the end of May 2026 and his replacement by economist Ahmadou Al Aminou Lô — every gesture, every absence, every statement by fi...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/president-faye-gives-ultimatum-to-4-ministers/",
+      "publishedAt": "2026-09-04T09:58:24.000Z",
+      "collectedAt": "2026-09-04T11:09:46.762Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1a31794450f9feab",
+      "title": "CEESAY VOWS TO STEP UPFOOTBALL DEV’T",
+      "summary": "As he takes over GFF The newly-elected president of the Gambia Football Federation (GFF), Kemo Ceesay, formally assumed duties yesterday at a colourful handing over ceremony at Football House. Witnessed by his executive committee, President Ceesay took over the reins from Lami...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/ceesay-vows-to-step-upfootball-devt/",
+      "publishedAt": "2026-09-04T09:57:21.000Z",
+      "collectedAt": "2026-09-04T11:09:46.762Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cce9cb8048f08c0f",
       "title": "National Youth Parliament Urges Young Gambians to Reject Violence Ahead of 2026 Election",
       "summary": "By Fatou Sillah The National Youth Parliament opened its first ordinary session of the 2026 legislative year with an appeal to young Gambians to reject political violence, misinformation, and divisive rhetoric as the country prepares for the December presidential election. Jab...",
@@ -1311,7 +1405,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-04T04:09:45.861Z",
+      "collectedAt": "2026-09-04T11:09:54.416Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1334,7 +1428,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-04T04:09:45.861Z",
+      "collectedAt": "2026-09-04T11:09:54.416Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1357,7 +1451,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-04T04:09:45.861Z",
+      "collectedAt": "2026-09-04T11:09:54.416Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1374,7 +1468,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T04:09:51.763Z",
-    "count": 58
+    "generatedAt": "2026-09-04T11:10:00.033Z",
+    "count": 62
   }
 }

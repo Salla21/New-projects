@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "3e296a7c1f4368c5",
+      "title": "IMF agrees $2.2 billion three-year loan package for Senegal",
+      "summary": "Senegal reached a staff-level agreement with the International Monetary Fund for a US$2.2 billion, three-year lending programme as the government seeks to restore debt sustainability after uncovering more than US$11 billion of previously misreported borrowing. The agreement st...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/imf-agrees-2-2-billion-three-year-loan-package-for-senegal/",
+      "publishedAt": "2026-09-04T09:58:30.000Z",
+      "collectedAt": "2026-09-04T11:09:46.762Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a27a7cc0bf4b895d",
+      "title": "In the company of nations: Dr EM Samba and The Gambia’s legacy in global health",
+      "summary": "By Abdoulie Mam Njie In September 1999, I travelled to Windhoek, Namibia, as part of a Gambian delegation attending the 49th Session of the World Health Organisation (WHO) Regional Committee for Africa. I remember that trip with particular pride. We had gone to support the re-...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/in-the-company-of-nations-dr-em-samba-and-the-gambias-legacy-in-global-health/",
+      "publishedAt": "2026-09-04T09:57:53.000Z",
+      "collectedAt": "2026-09-04T11:09:46.762Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a14bb794c07a1572",
       "title": "Africell Presents Jerseys to Nawettan Teams, Renews Support for Grassroots Football",
       "summary": "By Makutu Manneh Africell Gambia on Thursday presented jerseys to Nawettan teams from across the country, renewing the telecommunications company’s longstanding support for grassroots football and youth development. The jerseys were handed over during a ceremony at Africell’s ...",
@@ -704,7 +751,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-04T04:09:45.861Z",
+      "collectedAt": "2026-09-04T11:09:54.416Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -728,7 +775,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-04T04:09:45.861Z",
+      "collectedAt": "2026-09-04T11:09:54.416Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -751,7 +798,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-04T04:09:45.861Z",
+      "collectedAt": "2026-09-04T11:09:54.416Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -768,7 +815,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T04:09:51.763Z",
-    "count": 32
+    "generatedAt": "2026-09-04T11:10:00.033Z",
+    "count": 34
   }
 }

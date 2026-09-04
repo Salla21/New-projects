@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "1a31794450f9feab",
+      "title": "CEESAY VOWS TO STEP UPFOOTBALL DEV’T",
+      "summary": "As he takes over GFF The newly-elected president of the Gambia Football Federation (GFF), Kemo Ceesay, formally assumed duties yesterday at a colourful handing over ceremony at Football House. Witnessed by his executive committee, President Ceesay took over the reins from Lami...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/ceesay-vows-to-step-upfootball-devt/",
+      "publishedAt": "2026-09-04T09:57:21.000Z",
+      "collectedAt": "2026-09-04T11:09:46.762Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5e7699a860f82b9a",
+      "title": "Caf Champions League kicks off this weekend with the first preliminary round",
+      "summary": "The Caf Champions League 2026/27 season gets underway this coming weekend, 4th to 6th September, with clubs from across the continent beginning their quest for glory in the first preliminary round. The return matches for the first legs scheduled will be played from 11th to 13t...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/caf-champions-league-kicks-off-this-weekend-with-the-first-preliminary-round/",
+      "publishedAt": "2026-09-04T09:57:08.000Z",
+      "collectedAt": "2026-09-04T11:09:46.762Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a14bb794c07a1572",
       "title": "Africell Presents Jerseys to Nawettan Teams, Renews Support for Grassroots Football",
       "summary": "By Makutu Manneh Africell Gambia on Thursday presented jerseys to Nawettan teams from across the country, renewing the telecommunications company’s longstanding support for grassroots football and youth development. The jerseys were handed over during a ceremony at Africell’s ...",
@@ -195,7 +242,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T04:09:51.763Z",
-    "count": 8
+    "generatedAt": "2026-09-04T11:10:00.033Z",
+    "count": 10
   }
 }
