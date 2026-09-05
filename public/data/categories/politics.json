@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "98e0c1170aa9cd48",
+      "title": "We have taught women how to become independent. But have we taught them how to thrive in real relationships?",
+      "summary": "By RamaTulai I am deeply grateful to the women who fought before us. Women fought for our education.Our right to work.Our financial independence.Our right to vote.Our right to make choices about our own lives. And that fight mattered. It changed the world. In 1995, women held ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-have-taught-women-how-to-become-independent-but-have-we-taught-them-how-to-thrive-in-real-relationships/",
+      "publishedAt": "2026-09-05T11:44:38.000Z",
+      "collectedAt": "2026-09-05T14:59:29.579Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bcb60c3493f39301",
       "title": "“How Do You Know? You Are Always Sleeping”: Jammeh Questions Barrow’s Claims About His Activities, Denies Plans to Destabilize Gambia",
       "summary": "By Staff Writer An audio recording reportedly featuring former Gambian President Yahya Jammeh has surfaced in which the exiled former leader rejects suggestions that he intends to destabilize the Gambia, while warning that he retains the right to defend himself, his integrity,...",
@@ -1168,7 +1191,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-05T10:25:12.001Z",
+      "collectedAt": "2026-09-05T14:59:28.989Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1191,7 +1214,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-05T10:25:12.001Z",
+      "collectedAt": "2026-09-05T14:59:28.989Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1214,7 +1237,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-05T10:25:12.001Z",
+      "collectedAt": "2026-09-05T14:59:28.989Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1231,7 +1254,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T10:25:18.268Z",
-    "count": 52
+    "generatedAt": "2026-09-05T14:59:34.680Z",
+    "count": 53
   }
 }

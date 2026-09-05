@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "98e0c1170aa9cd48",
+      "title": "We have taught women how to become independent. But have we taught them how to thrive in real relationships?",
+      "summary": "By RamaTulai I am deeply grateful to the women who fought before us. Women fought for our education.Our right to work.Our financial independence.Our right to vote.Our right to make choices about our own lives. And that fight mattered. It changed the world. In 1995, women held ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-have-taught-women-how-to-become-independent-but-have-we-taught-them-how-to-thrive-in-real-relationships/",
+      "publishedAt": "2026-09-05T11:44:38.000Z",
+      "collectedAt": "2026-09-05T14:59:29.579Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8e49ee652acc0e02",
       "title": "Tallinding South Councillor Says Residents, Private Businesses Are Straining KMC Market Waste Collection",
       "summary": "By Makutu Manneh Karamo Ceesay, the Tallinding South councillor at the Kanifing Municipal Council, has pushed back against suggestions that persistent waste collection problems at markets are caused by a shortage of garbage trucks, saying the larger problem is that bins intend...",
@@ -226,33 +249,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fe89e39f3cbd5eb8",
-      "title": "Health Ministry Launches Investigation Into Activist Ebrima Gassama’s Death at Brikama Hospital",
-      "summary": "Written by: Seringe S.T. Touray The Ministry of Health has launched an investigation into the death of activist Ebrima Gassama at Brikama District Hospital following allegations of inadequate medical response and power supply problems at the facility. Gassama, an activist asso...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/health-ministry-launches-investigation-into-activist-ebrima-gassamas-death-at-brikama-hospital/",
-      "publishedAt": "2026-09-04T13:06:46.000Z",
-      "collectedAt": "2026-09-04T16:11:15.722Z",
-      "region": "west-coast",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T10:25:18.268Z",
+    "generatedAt": "2026-09-05T14:59:34.680Z",
     "count": 11
   }
 }

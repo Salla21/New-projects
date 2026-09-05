@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "98e0c1170aa9cd48",
+      "title": "We have taught women how to become independent. But have we taught them how to thrive in real relationships?",
+      "summary": "By RamaTulai I am deeply grateful to the women who fought before us. Women fought for our education.Our right to work.Our financial independence.Our right to vote.Our right to make choices about our own lives. And that fight mattered. It changed the world. In 1995, women held ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-have-taught-women-how-to-become-independent-but-have-we-taught-them-how-to-thrive-in-real-relationships/",
+      "publishedAt": "2026-09-05T11:44:38.000Z",
+      "collectedAt": "2026-09-05T14:59:29.579Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f8d2acecf64d997c",
       "title": "Russian Language Course Opens New Doors for Gambian Learners",
       "summary": "By Dawda Baldeh The inaugural Volga Summer Russian Language Beginner’s Course has successfully concluded in The Gambia, with organisers describing the two-week programme as a major step toward strengthening educational and cultural ties between The Gambia and Russia. Held from...",
@@ -386,7 +409,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T10:25:18.268Z",
-    "count": 17
+    "generatedAt": "2026-09-05T14:59:34.680Z",
+    "count": 18
   }
 }

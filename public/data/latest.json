@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "98e0c1170aa9cd48",
+      "title": "We have taught women how to become independent. But have we taught them how to thrive in real relationships?",
+      "summary": "By RamaTulai I am deeply grateful to the women who fought before us. Women fought for our education.Our right to work.Our financial independence.Our right to vote.Our right to make choices about our own lives. And that fight mattered. It changed the world. In 1995, women held ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-have-taught-women-how-to-become-independent-but-have-we-taught-them-how-to-thrive-in-real-relationships/",
+      "publishedAt": "2026-09-05T11:44:38.000Z",
+      "collectedAt": "2026-09-05T14:59:29.579Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8e49ee652acc0e02",
       "title": "Tallinding South Councillor Says Residents, Private Businesses Are Straining KMC Market Waste Collection",
       "summary": "By Makutu Manneh Karamo Ceesay, the Tallinding South councillor at the Kanifing Municipal Council, has pushed back against suggestions that persistent waste collection problems at markets are caused by a shortage of garbage trucks, saying the larger problem is that bins intend...",
@@ -2258,35 +2281,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "280131c67dda6c4b",
-      "title": "Kemo Ceesay Says GFF Must Look Beyond FIFA, CAF Funding to Boost Revenue",
-      "summary": "By Fatou Sillah The newly elected president of the Gambia Football Federation, Kemo Ceesay, says the organization must develop new sources of revenue and reduce its dependence on funding from international and continental football bodies. Mr. Ceesay said strengthening the fede...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/kemo-ceesay-says-gff-must-look-beyond-fifa-caf-funding-to-boost-revenue/",
-      "publishedAt": "2026-08-31T23:19:29.000Z",
-      "collectedAt": "2026-09-01T17:48:27.291Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T10:25:18.268Z",
+    "generatedAt": "2026-09-05T14:59:34.680Z",
     "count": 100
   }
 }
