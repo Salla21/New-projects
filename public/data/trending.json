@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "39973f0205be2443",
+      "title": "New agribusiness launches in Brikamaba to tackle Gambia’s food insecurity",
+      "summary": "By Dawda Baldeh A newly established private enterprise, Fandayma Agriculture & Food Security Industries Ltd (FAFSI), has officially launched operations in Central River Region South, launching an ambitious campaign to boost domestic food production, create youth jobs, and redu...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/new-agribusiness-launches-in-brikamaba-to-tackle-gambias-food-insecurity/",
+      "publishedAt": "2026-09-05T15:13:11.000Z",
+      "collectedAt": "2026-09-05T18:05:06.549Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "98e0c1170aa9cd48",
       "title": "We have taught women how to become independent. But have we taught them how to thrive in real relationships?",
       "summary": "By RamaTulai I am deeply grateful to the women who fought before us. Women fought for our education.Our right to work.Our financial independence.Our right to vote.Our right to make choices about our own lives. And that fight mattered. It changed the world. In 1995, women held ...",
@@ -183,76 +206,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f8d2acecf64d997c",
-      "title": "Russian Language Course Opens New Doors for Gambian Learners",
-      "summary": "By Dawda Baldeh The inaugural Volga Summer Russian Language Beginner’s Course has successfully concluded in The Gambia, with organisers describing the two-week programme as a major step toward strengthening educational and cultural ties between The Gambia and Russia. Held from...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/russian-language-course-opens-new-doors-for-gambian-learners/",
-      "publishedAt": "2026-09-04T18:04:14.000Z",
-      "collectedAt": "2026-09-04T20:39:49.325Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "39bcc0d3c9a564aa",
-      "title": "PURA Extends 7-Digit Number Use Through February 2027, Citing Electoral Period",
-      "summary": "By Fatou Sillah The Public Utilities Regulatory Authority has extended the deadline for phasing out The Gambia’s seven-digit mobile numbers to Feb. 28, 2027, citing the country’s electoral period and the end-of-year holiday season. The announcement means the existing seven-dig...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/pura-extends-7-digit-number-use-through-february-2027-citing-electoral-period/",
-      "publishedAt": "2026-09-04T17:59:25.000Z",
-      "collectedAt": "2026-09-04T20:39:50.690Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4f0aef4a99b3f036",
-      "title": "Gambian player makes it to Bodø/Glimt’s champion’s league squad",
-      "summary": "An important milestone in Gambian football has been recorded with Norwegian football giant Bodø/Glimt announcing that it has signed the first professional contract with a Gambian player, Assan Sanyang, from its Gambian partner club, the Tijan Jaiteh Football Academy. A stateme...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambian-player-makes-it-to-bodo-glimts-champions-league-squad/",
-      "publishedAt": "2026-09-04T15:30:00.000Z",
-      "collectedAt": "2026-09-04T20:39:41.747Z",
-      "region": "west-coast",
-      "categories": [
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T14:59:34.680Z",
-    "count": 11
+    "generatedAt": "2026-09-05T18:05:12.006Z",
+    "count": 9
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "39973f0205be2443",
+      "title": "New agribusiness launches in Brikamaba to tackle Gambia’s food insecurity",
+      "summary": "By Dawda Baldeh A newly established private enterprise, Fandayma Agriculture & Food Security Industries Ltd (FAFSI), has officially launched operations in Central River Region South, launching an ambitious campaign to boost domestic food production, create youth jobs, and redu...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/new-agribusiness-launches-in-brikamaba-to-tackle-gambias-food-insecurity/",
+      "publishedAt": "2026-09-05T15:13:11.000Z",
+      "collectedAt": "2026-09-05T18:05:06.549Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4223faa93fa50289",
       "title": "BAC Transport Councillor Blames Public Attitudes for Persistent Waste Problems at Markets",
       "summary": "By Makutu Manneh Sheriffo Bayo Sonko, the transport councillor for the Brikama Area Council, has blamed persistent waste problems at Brikama Market and other public spaces partly on the dumping habits of traders and residents, saying the council continues to struggle with peop...",
@@ -352,7 +375,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T14:59:34.680Z",
-    "count": 15
+    "generatedAt": "2026-09-05T18:05:12.006Z",
+    "count": 16
   }
 }
