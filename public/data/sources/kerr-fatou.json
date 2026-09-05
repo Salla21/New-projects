@@ -813,101 +813,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "32ed35cf11722a90",
-      "title": "CDS Gomez Warns Soldiers Against Tribalism, Says Military’s ‘Only Tribe’ Is GAF",
-      "summary": "By Makutu Manneh The chief of defence staff of the Gambia Armed Forces, Maj. Gen. Ousman Gomez, has warned soldiers against tribalism and ethnic divisions, describing such sentiments as a threat to military cohesion and professionalism. General Gomez issued the warning while t...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/cds-gomez-warns-soldiers-against-tribalism-says-militarys-only-tribe-is-gaf/",
-      "publishedAt": "2026-08-31T23:12:30.000Z",
-      "collectedAt": "2026-09-01T17:48:27.291Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5e037328ec65c840",
-      "title": "CDS Gomez Warns Soldiers Against Partisan Politics Ahead of Presidential Election",
-      "summary": "By Makutu Manneh Major General Ousman Gomez, the chief of defence staff of the Gambia Armed Forces, has warned military personnel against becoming involved in partisan politics as the country prepares for its presidential election. General Gomez issued the warning on Monday as...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/cds-gomez-warns-soldiers-against-partisan-politics-ahead-of-presidential-election/",
-      "publishedAt": "2026-08-31T23:05:29.000Z",
-      "collectedAt": "2026-09-01T17:48:27.291Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2ff512a7829083e7",
-      "title": "Dr. Satang Nabaneh Says Laws Alone Cannot End FGM, Calls for Community Action",
-      "summary": "By Fatou Sillah Dr. Satang Nabaneh, a Gambian legal scholar and human rights practitioner, has said that criminalizing female genital mutilation is an important tool in combating the practice, but warned that legislation alone cannot change the deeply rooted attitudes that sus...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-satang-nabaneh-says-laws-alone-cannot-end-fgm-calls-for-community-action/",
-      "publishedAt": "2026-08-31T21:03:18.000Z",
-      "collectedAt": "2026-09-01T17:48:27.291Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ced255d04c912a33",
-      "title": "UNDP: The Gambia’s Youthful Population Offers Promise, but Jobs and Human Development Lag",
-      "summary": "By Makutu Manneh About two million of The Gambia’s 2.4 million people are under the age of 36, giving the country a potentially powerful demographic advantage. But low levels of human development, widespread informal employment, and limited access to decent jobs are preventing...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/undp-the-gambias-youthful-population-offers-promise-but-jobs-and-human-development-lag/",
-      "publishedAt": "2026-08-31T20:52:46.000Z",
-      "collectedAt": "2026-09-01T17:48:27.291Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-04T23:53:41.498Z",
-    "count": 39
+    "generatedAt": "2026-09-05T04:04:32.971Z",
+    "count": 35
   }
 }
