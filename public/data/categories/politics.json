@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "25fc83ce17566422",
+      "title": "National Youth Parliament Ends First Session With Focus on 2026 Manifesto",
+      "summary": "By Makutu Manneh The 10th National Youth Parliament concluded its first ordinary session on Saturday, adopting a series of resolutions and moving forward with plans for a National Youth Manifesto that will outline the priorities of young Gambians ahead of the 2026 presidential...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/national-youth-parliament-ends-first-session-with-focus-on-2026-manifesto/",
+      "publishedAt": "2026-09-05T19:01:21.000Z",
+      "collectedAt": "2026-09-05T22:00:49.110Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "61c1d83b4db3f8b3",
+      "title": "NDP Leader Kebba Madi Bojang Says Ruling NPP Is Seeking His Return",
+      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party, says the ruling National People’s Party is trying to persuade him to return to its ranks, even as other opposition parties have approached him about possible political cooperation. Bojang, a former NP...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-leader-kebba-madi-bojang-says-ruling-npp-is-seeking-his-return/",
+      "publishedAt": "2026-09-05T18:18:50.000Z",
+      "collectedAt": "2026-09-05T22:00:49.110Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0f1156183230e744",
+      "title": "UDP’s Lamin Manneh Accuses Government of Hiding Gambia’s Oil and Gas Potential",
+      "summary": "By Fatou Sillah Lamin Manneh, the United Democratic Party’s deputy secretary for foreign affairs and the diaspora, has accused President Adama Barrow’s government of withholding information about The Gambia’s offshore oil and gas potential, questioning official accounts of the...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-accuses-government-of-hiding-gambias-oil-and-gas-potential/",
+      "publishedAt": "2026-09-05T18:10:58.000Z",
+      "collectedAt": "2026-09-05T22:00:49.110Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "98e0c1170aa9cd48",
       "title": "We have taught women how to become independent. But have we taught them how to thrive in real relationships?",
       "summary": "By RamaTulai I am deeply grateful to the women who fought before us. Women fought for our education.Our right to work.Our financial independence.Our right to vote.Our right to make choices about our own lives. And that fight mattered. It changed the world. In 1995, women held ...",
@@ -1135,29 +1205,6 @@
       "status": "published"
     },
     {
-      "id": "ae4448746cf71fb3",
-      "title": "Assembly resumes sessions on Monday",
-      "summary": "‎By Tabora Bojang The National Assembly is scheduled to resume its third and fourth ordinary sessions on Monday, 7 September. ‎‎During this period, lawmakers will consider and deliberate on government businesses, question ministers and the vice president on various issues, rev...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/assembly-resumes-sessions-on-monday/",
-      "publishedAt": "2026-09-01T10:22:00.000Z",
-      "collectedAt": "2026-09-01T17:46:28.067Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1166,7 +1213,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-05T18:05:01.640Z",
+      "collectedAt": "2026-09-05T22:00:46.739Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1189,7 +1236,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-05T18:05:01.640Z",
+      "collectedAt": "2026-09-05T22:00:46.739Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1212,7 +1259,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-05T18:05:01.640Z",
+      "collectedAt": "2026-09-05T22:00:46.739Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1229,7 +1276,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T18:05:12.006Z",
-    "count": 52
+    "generatedAt": "2026-09-05T22:00:53.161Z",
+    "count": 54
   }
 }

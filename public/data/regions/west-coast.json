@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0f1156183230e744",
+      "title": "UDP’s Lamin Manneh Accuses Government of Hiding Gambia’s Oil and Gas Potential",
+      "summary": "By Fatou Sillah Lamin Manneh, the United Democratic Party’s deputy secretary for foreign affairs and the diaspora, has accused President Adama Barrow’s government of withholding information about The Gambia’s offshore oil and gas potential, questioning official accounts of the...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-accuses-government-of-hiding-gambias-oil-and-gas-potential/",
+      "publishedAt": "2026-09-05T18:10:58.000Z",
+      "collectedAt": "2026-09-05T22:00:49.110Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "39973f0205be2443",
       "title": "New agribusiness launches in Brikamaba to tackle Gambia’s food insecurity",
       "summary": "By Dawda Baldeh A newly established private enterprise, Fandayma Agriculture & Food Security Industries Ltd (FAFSI), has officially launched operations in Central River Region South, launching an ambitious campaign to boost domestic food production, create youth jobs, and redu...",
@@ -375,7 +399,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T18:05:12.006Z",
-    "count": 16
+    "generatedAt": "2026-09-05T22:00:53.161Z",
+    "count": 17
   }
 }
