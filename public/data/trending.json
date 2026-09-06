@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "10b03a62cca22b35",
+      "title": "Gambia Immigration Department Intercepts 76 Suspected ‘Backway’ Migrants",
+      "summary": "By Makutu Manneh The Gambia Immigration Department has intercepted 76 people suspected of attempting to migrate irregularly by sea, the department said. The operation was carried out by the department’s Border Patrol Unit, stationed at the Migration Management Unit in Tanji, w...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-76-suspected-backway-migrants/",
+      "publishedAt": "2026-09-06T21:55:40.000Z",
+      "collectedAt": "2026-09-06T22:04:07.410Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b7bc4358c015d010",
+      "title": "APeX Says APP Sobeyaa Withdrew 12 Hours Before Final Coalition Negotiations",
+      "summary": "By Staff Writer APeX, the body brokering coalition negotiations among Gambian opposition parties, has confirmed that the APP Sobeyaa party withdrew from the talks roughly 12 hours before a final session, disputing the party’s stated reasons for leaving. In a statement issued S...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/apex-says-app-sobeyaa-withdrew-12-hours-before-final-coalition-negotiations/",
+      "publishedAt": "2026-09-06T21:50:27.000Z",
+      "collectedAt": "2026-09-06T22:04:07.410Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a0e83439fbe60547",
       "title": "Sources: Essa Faal in Talks With NPP Over Possible 2026 Alliance",
       "summary": "By Fatou Touray Essa Mbye Faal, the APP-Sobeyaa presidential candidate, is in talks with President Adama Barrow’s National People’s Party over a possible political alliance ahead of the Dec. 5 presidential election, according to multiple sources familiar with the discussions. ...",
@@ -22,100 +68,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "25fc83ce17566422",
-      "title": "National Youth Parliament Ends First Session With Focus on 2026 Manifesto",
-      "summary": "By Makutu Manneh The 10th National Youth Parliament concluded its first ordinary session on Saturday, adopting a series of resolutions and moving forward with plans for a National Youth Manifesto that will outline the priorities of young Gambians ahead of the 2026 presidential...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/national-youth-parliament-ends-first-session-with-focus-on-2026-manifesto/",
-      "publishedAt": "2026-09-05T19:01:21.000Z",
-      "collectedAt": "2026-09-05T22:00:49.110Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b5913917ccaf9bc7",
-      "title": "Dr. Gajigo Blames Central Government for Challenges Facing Municipalities",
-      "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and politician, has defended Kanifing Municipal Council Mayor Talib Ahmed Bensouda against criticism over the condition of markets and other problems in the municipality, arguing that many of the challenges facing local councils ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-blames-central-government-for-challenges-facing-municipalities/",
-      "publishedAt": "2026-09-05T18:45:26.000Z",
-      "collectedAt": "2026-09-05T22:00:49.110Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "61c1d83b4db3f8b3",
-      "title": "NDP Leader Kebba Madi Bojang Says Ruling NPP Is Seeking His Return",
-      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party, says the ruling National People’s Party is trying to persuade him to return to its ranks, even as other opposition parties have approached him about possible political cooperation. Bojang, a former NP...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndp-leader-kebba-madi-bojang-says-ruling-npp-is-seeking-his-return/",
-      "publishedAt": "2026-09-05T18:18:50.000Z",
-      "collectedAt": "2026-09-05T22:00:49.110Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b0e8d47b6725f4c8",
-      "title": "NCCE Calls on Political Leaders to Condemn Hate Speech and Ethnic Rhetoric",
-      "summary": "By Fatou Sillah The National Council for Civic Education has urged political leaders and parties to publicly denounce hate speech, ethnic rhetoric, and inflammatory remarks, warning that increasingly divisive public discourse could threaten The Gambia’s peace and social cohesi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ncce-calls-on-political-leaders-to-condemn-hate-speech-and-ethnic-rhetoric/",
-      "publishedAt": "2026-09-05T18:13:11.000Z",
-      "collectedAt": "2026-09-05T22:00:49.110Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-06T18:11:53.753Z",
-    "count": 5
+    "generatedAt": "2026-09-06T22:04:11.526Z",
+    "count": 3
   }
 }

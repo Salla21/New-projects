@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "10b03a62cca22b35",
+      "title": "Gambia Immigration Department Intercepts 76 Suspected ‘Backway’ Migrants",
+      "summary": "By Makutu Manneh The Gambia Immigration Department has intercepted 76 people suspected of attempting to migrate irregularly by sea, the department said. The operation was carried out by the department’s Border Patrol Unit, stationed at the Migration Management Unit in Tanji, w...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-76-suspected-backway-migrants/",
+      "publishedAt": "2026-09-06T21:55:40.000Z",
+      "collectedAt": "2026-09-06T22:04:07.410Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b7bc4358c015d010",
+      "title": "APeX Says APP Sobeyaa Withdrew 12 Hours Before Final Coalition Negotiations",
+      "summary": "By Staff Writer APeX, the body brokering coalition negotiations among Gambian opposition parties, has confirmed that the APP Sobeyaa party withdrew from the talks roughly 12 hours before a final session, disputing the party’s stated reasons for leaving. In a statement issued S...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/apex-says-app-sobeyaa-withdrew-12-hours-before-final-coalition-negotiations/",
+      "publishedAt": "2026-09-06T21:50:27.000Z",
+      "collectedAt": "2026-09-06T22:04:07.410Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a0e83439fbe60547",
       "title": "Sources: Essa Faal in Talks With NPP Over Possible 2026 Alliance",
       "summary": "By Fatou Touray Essa Mbye Faal, the APP-Sobeyaa presidential candidate, is in talks with President Adama Barrow’s National People’s Party over a possible political alliance ahead of the Dec. 5 presidential election, according to multiple sources familiar with the discussions. ...",
@@ -951,7 +997,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-06T18:11:53.753Z",
-    "count": 41
+    "generatedAt": "2026-09-06T22:04:11.526Z",
+    "count": 43
   }
 }

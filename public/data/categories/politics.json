@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b7bc4358c015d010",
+      "title": "APeX Says APP Sobeyaa Withdrew 12 Hours Before Final Coalition Negotiations",
+      "summary": "By Staff Writer APeX, the body brokering coalition negotiations among Gambian opposition parties, has confirmed that the APP Sobeyaa party withdrew from the talks roughly 12 hours before a final session, disputing the party’s stated reasons for leaving. In a statement issued S...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/apex-says-app-sobeyaa-withdrew-12-hours-before-final-coalition-negotiations/",
+      "publishedAt": "2026-09-06T21:50:27.000Z",
+      "collectedAt": "2026-09-06T22:04:07.410Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a0e83439fbe60547",
       "title": "Sources: Essa Faal in Talks With NPP Over Possible 2026 Alliance",
       "summary": "By Fatou Touray Essa Mbye Faal, the APP-Sobeyaa presidential candidate, is in talks with President Adama Barrow’s National People’s Party over a possible political alliance ahead of the Dec. 5 presidential election, according to multiple sources familiar with the discussions. ...",
@@ -1188,7 +1211,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-06T18:11:43.368Z",
+      "collectedAt": "2026-09-06T22:04:05.259Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1211,7 +1234,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-06T18:11:43.368Z",
+      "collectedAt": "2026-09-06T22:04:05.259Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1234,7 +1257,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-06T18:11:43.368Z",
+      "collectedAt": "2026-09-06T22:04:05.259Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1251,7 +1274,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-06T18:11:53.753Z",
-    "count": 53
+    "generatedAt": "2026-09-06T22:04:11.526Z",
+    "count": 54
   }
 }
