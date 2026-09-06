@@ -182,77 +182,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "8e49ee652acc0e02",
-      "title": "Tallinding South Councillor Says Residents, Private Businesses Are Straining KMC Market Waste Collection",
-      "summary": "By Makutu Manneh Karamo Ceesay, the Tallinding South councillor at the Kanifing Municipal Council, has pushed back against suggestions that persistent waste collection problems at markets are caused by a shortage of garbage trucks, saying the larger problem is that bins intend...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/tallinding-south-councillor-says-residents-private-businesses-are-straining-kmc-market-waste-collection/",
-      "publishedAt": "2026-09-04T22:37:33.000Z",
-      "collectedAt": "2026-09-04T23:53:37.393Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c4f8931b6088982d",
-      "title": "KMC Councillor Says Government Politicization Is Hampering Waste Management",
-      "summary": "By Makutu Manneh Karamo Ceesay, the councillor for Tallinding South at the Kanifing Municipal Council, has accused the central government of politicizing waste management, saying political interference has hindered efforts to address a problem affecting communities across The ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/kmc-councillor-says-government-politicization-is-hampering-waste-management/",
-      "publishedAt": "2026-09-04T22:32:12.000Z",
-      "collectedAt": "2026-09-04T23:53:37.393Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4223faa93fa50289",
-      "title": "BAC Transport Councillor Blames Public Attitudes for Persistent Waste Problems at Markets",
-      "summary": "By Makutu Manneh Sheriffo Bayo Sonko, the transport councillor for the Brikama Area Council, has blamed persistent waste problems at Brikama Market and other public spaces partly on the dumping habits of traders and residents, saying the council continues to struggle with peop...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bac-transport-councillor-blames-public-attitudes-for-persistent-waste-problems-at-markets/",
-      "publishedAt": "2026-09-04T22:27:23.000Z",
-      "collectedAt": "2026-09-04T23:53:37.393Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T22:00:53.161Z",
-    "count": 11
+    "generatedAt": "2026-09-06T04:12:20.998Z",
+    "count": 8
   }
 }

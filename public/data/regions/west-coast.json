@@ -372,34 +372,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b988c57fa01dd922",
-      "title": "What are we buying with time? Part 1",
-      "summary": "BAC public debt and the institutional inheritance question in The Gambia Chairman Yankuba Darboe’s clarification of Brikama Area Council’s proposed D50 million Ecobank facility has improved the factual basis of an important public-finance debate. More importantly, it exposes a...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/what-are-we-buying-with-time-part-1/",
-      "publishedAt": "2026-09-01T11:14:06.000Z",
-      "collectedAt": "2026-09-01T17:46:28.067Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T22:00:53.161Z",
-    "count": 17
+    "generatedAt": "2026-09-06T04:12:20.998Z",
+    "count": 16
   }
 }

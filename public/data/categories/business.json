@@ -761,30 +761,6 @@
       "status": "published"
     },
     {
-      "id": "b988c57fa01dd922",
-      "title": "What are we buying with time? Part 1",
-      "summary": "BAC public debt and the institutional inheritance question in The Gambia Chairman Yankuba Darboe’s clarification of Brikama Area Council’s proposed D50 million Ecobank facility has improved the factual basis of an important public-finance debate. More importantly, it exposes a...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/what-are-we-buying-with-time-part-1/",
-      "publishedAt": "2026-09-01T11:14:06.000Z",
-      "collectedAt": "2026-09-01T17:46:28.067Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -793,7 +769,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-05T22:00:46.739Z",
+      "collectedAt": "2026-09-06T04:12:14.945Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -817,7 +793,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-05T22:00:46.739Z",
+      "collectedAt": "2026-09-06T04:12:14.945Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -840,7 +816,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-05T22:00:46.739Z",
+      "collectedAt": "2026-09-06T04:12:14.945Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -857,7 +833,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T22:00:53.161Z",
-    "count": 36
+    "generatedAt": "2026-09-06T04:12:20.998Z",
+    "count": 35
   }
 }

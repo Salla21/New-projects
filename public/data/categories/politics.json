@@ -1157,54 +1157,6 @@
       "status": "published"
     },
     {
-      "id": "b988c57fa01dd922",
-      "title": "What are we buying with time? Part 1",
-      "summary": "BAC public debt and the institutional inheritance question in The Gambia Chairman Yankuba Darboe’s clarification of Brikama Area Council’s proposed D50 million Ecobank facility has improved the factual basis of an important public-finance debate. More importantly, it exposes a...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/what-are-we-buying-with-time-part-1/",
-      "publishedAt": "2026-09-01T11:14:06.000Z",
-      "collectedAt": "2026-09-01T17:46:28.067Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0d41a8de1a053c6c",
-      "title": "Brody warns any alliance based on Jammeh’s return would test Gambia’s justice process",
-      "summary": "By Omar Bah Reed Brody, a Hungarian-American human rights lawyer and prosecutor known as the “Dictator Hunter” has issued a stark warning that any political alliance that paves the way for former dictator Yahya Jammeh’s return would put The Gambia’s new accountability infrastr...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/brody-warns-any-alliance-based-on-jammehs-return-would-test-gambias-justice-process/",
-      "publishedAt": "2026-09-01T10:24:00.000Z",
-      "collectedAt": "2026-09-01T17:46:28.067Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1213,7 +1165,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-05T22:00:46.739Z",
+      "collectedAt": "2026-09-06T04:12:14.945Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1236,7 +1188,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-05T22:00:46.739Z",
+      "collectedAt": "2026-09-06T04:12:14.945Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1259,7 +1211,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-05T22:00:46.739Z",
+      "collectedAt": "2026-09-06T04:12:14.945Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1276,7 +1228,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-05T22:00:53.161Z",
-    "count": 54
+    "generatedAt": "2026-09-06T04:12:20.998Z",
+    "count": 52
   }
 }
