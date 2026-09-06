@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "a0e83439fbe60547",
+      "title": "Sources: Essa Faal in Talks With NPP Over Possible 2026 Alliance",
+      "summary": "By Fatou Touray Essa Mbye Faal, the APP-Sobeyaa presidential candidate, is in talks with President Adama Barrow’s National People’s Party over a possible political alliance ahead of the Dec. 5 presidential election, according to multiple sources familiar with the discussions. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sources-essa-faal-in-talks-with-npp-over-possible-2026-alliance/",
+      "publishedAt": "2026-09-06T17:27:27.000Z",
+      "collectedAt": "2026-09-06T18:11:49.720Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "25fc83ce17566422",
       "title": "National Youth Parliament Ends First Session With Focus on 2026 Manifesto",
       "summary": "By Makutu Manneh The 10th National Youth Parliament concluded its first ordinary session on Saturday, adopting a series of resolutions and moving forward with plans for a National Youth Manifesto that will outline the priorities of young Gambians ahead of the 2026 presidential...",
@@ -928,7 +951,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-06T15:20:28.263Z",
-    "count": 40
+    "generatedAt": "2026-09-06T18:11:53.753Z",
+    "count": 41
   }
 }
