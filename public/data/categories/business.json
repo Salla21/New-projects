@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "4b35a355b4eb3b96",
+      "title": "Bensouda: ‘Nothing Can Stop My Candidacy in This World’",
+      "summary": "By Staff Writer Mayor Talib Ahmed Bensouda said Sunday that nothing would prevent him from contesting the 2026 presidential election, telling supporters that political pressure and scrutiny had only strengthened his resolve. Speaking at the Coalition 2026 NUP/UNITE alliance un...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-nothing-can-stop-my-candidacy-in-this-world/",
+      "publishedAt": "2026-09-07T02:13:03.000Z",
+      "collectedAt": "2026-09-07T04:11:24.909Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "47e01aa5d89e5b4d",
+      "title": "Barrow: BAC Fixates on Arguments, Won’t Build Brufut Market—But I Will",
+      "summary": "By Makutu Manneh President Adama Barrow has criticized the Brikama Area Council, accusing it of focusing on arguments rather than development, and told residents of Brufut that his government would take responsibility for building their proposed market. Speaking in Brufut on S...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-bac-fixates-on-arguments-wont-build-brufut-market-but-i-will/",
+      "publishedAt": "2026-09-06T22:53:58.000Z",
+      "collectedAt": "2026-09-07T04:11:24.909Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b5913917ccaf9bc7",
       "title": "Dr. Gajigo Blames Central Government for Challenges Facing Municipalities",
       "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and politician, has defended Kanifing Municipal Council Mayor Talib Ahmed Bensouda against criticism over the condition of markets and other problems in the municipality, arguing that many of the challenges facing local councils ...",
@@ -769,7 +817,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -793,7 +841,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -816,7 +864,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -833,7 +881,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-06T22:04:11.526Z",
-    "count": 35
+    "generatedAt": "2026-09-07T04:11:29.002Z",
+    "count": 37
   }
 }

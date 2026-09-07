@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4b35a355b4eb3b96",
+      "title": "Bensouda: ‘Nothing Can Stop My Candidacy in This World’",
+      "summary": "By Staff Writer Mayor Talib Ahmed Bensouda said Sunday that nothing would prevent him from contesting the 2026 presidential election, telling supporters that political pressure and scrutiny had only strengthened his resolve. Speaking at the Coalition 2026 NUP/UNITE alliance un...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-nothing-can-stop-my-candidacy-in-this-world/",
+      "publishedAt": "2026-09-07T02:13:03.000Z",
+      "collectedAt": "2026-09-07T04:11:24.909Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b7bc4358c015d010",
       "title": "APeX Says APP Sobeyaa Withdrew 12 Hours Before Final Coalition Negotiations",
       "summary": "By Staff Writer APeX, the body brokering coalition negotiations among Gambian opposition parties, has confirmed that the APP Sobeyaa party withdrew from the talks roughly 12 hours before a final session, disputing the party’s stated reasons for leaving. In a statement issued S...",
@@ -1710,52 +1734,6 @@
       "status": "published"
     },
     {
-      "id": "c15b56926f1d860c",
-      "title": "GAMBIA SET FOR CAF U-17 QUALIFIERS",
-      "summary": "The West African Football Union (WAFU) Zone A has released the official fixtures for its forthcoming Caf U-17 Africa Cup of Nations qualifier tournament in Senegal. The Gambia will open her account against Sierra Leone on 7th September in the late game, at 7pm. The Baby Scorpi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambia-set-for-caf-u-17-qualifiers/",
-      "publishedAt": "2026-09-01T11:18:24.000Z",
-      "collectedAt": "2026-09-01T17:46:28.067Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f73dd36683bf9681",
-      "title": "Messi retires from Argentina duty with ‘nothing left to give’",
-      "summary": "Argentina great Lionel Messi has announced his retirement from international football, saying it was a decision that “hurt” but “the time has come”. The 39-year-old, who captained Argentina to World Cup glory in Qatar in 2022, has scored 125 goals in 207 appearances, making hi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/messi-retires-from-argentina-duty-with-nothing-left-to-give/",
-      "publishedAt": "2026-09-01T11:18:19.000Z",
-      "collectedAt": "2026-09-01T17:46:28.067Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "5f93f38750789305",
       "title": "Jally Naya to Perform in Birmingham on September 12",
       "summary": "One of The Gambia’s leading musicians, Jally Naya, is currently in the United Kingdom and is…\nThe post Jally Naya to Perform in Birmingham on September 12 appeared first on What's On Gambia.",
@@ -1764,7 +1742,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jally-naya-to-perform-in-birmingham-on-september-12/",
       "publishedAt": "2026-08-26T05:04:15.000Z",
-      "collectedAt": "2026-09-06T22:04:05.555Z",
+      "collectedAt": "2026-09-07T04:11:23.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1785,7 +1763,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/team-kitabu-invites-yankuba-minteh-fatou-touray-ziggi-rinnas-skincare-and-others-to-award-night/",
       "publishedAt": "2026-08-26T04:58:50.000Z",
-      "collectedAt": "2026-09-06T22:04:05.555Z",
+      "collectedAt": "2026-09-07T04:11:23.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1806,7 +1784,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/high-court-horror-dutchman-76-accused-of-using-doctor-identity-to-target-young-gambian-women/",
       "publishedAt": "2026-08-26T04:57:03.000Z",
-      "collectedAt": "2026-09-06T22:04:05.555Z",
+      "collectedAt": "2026-09-07T04:11:23.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1827,7 +1805,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/hadiga-college-international-honours-whats-on-gambia-with-outstanding-media-award-2025/",
       "publishedAt": "2026-08-20T11:35:10.000Z",
-      "collectedAt": "2026-09-06T22:04:05.555Z",
+      "collectedAt": "2026-09-07T04:11:23.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1848,7 +1826,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/man-allegedly-klls-bartender-in-banjul/",
       "publishedAt": "2026-08-19T08:21:07.000Z",
-      "collectedAt": "2026-09-06T22:04:05.555Z",
+      "collectedAt": "2026-09-07T04:11:23.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1869,7 +1847,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/man-allegedly-claims-he-may-be-father-of-best-friends-child-at-naming-ceremony/",
       "publishedAt": "2026-08-19T08:19:29.000Z",
-      "collectedAt": "2026-09-06T22:04:05.555Z",
+      "collectedAt": "2026-09-07T04:11:23.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1890,7 +1868,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -1913,7 +1891,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1936,7 +1914,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1957,7 +1935,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -1980,7 +1958,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/why-dont-boats-in-the-gambia-have-number-plates/",
       "publishedAt": "2026-08-14T12:05:36.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2001,7 +1979,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2025,7 +2003,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/warning-warning-warning/",
       "publishedAt": "2026-08-14T11:51:15.000Z",
-      "collectedAt": "2026-09-06T22:04:05.259Z",
+      "collectedAt": "2026-09-07T04:11:23.226Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2039,7 +2017,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-06T22:04:11.526Z",
-    "count": 90
+    "generatedAt": "2026-09-07T04:11:29.002Z",
+    "count": 89
   }
 }

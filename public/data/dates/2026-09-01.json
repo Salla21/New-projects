@@ -228,56 +228,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c15b56926f1d860c",
-      "title": "GAMBIA SET FOR CAF U-17 QUALIFIERS",
-      "summary": "The West African Football Union (WAFU) Zone A has released the official fixtures for its forthcoming Caf U-17 Africa Cup of Nations qualifier tournament in Senegal. The Gambia will open her account against Sierra Leone on 7th September in the late game, at 7pm. The Baby Scorpi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambia-set-for-caf-u-17-qualifiers/",
-      "publishedAt": "2026-09-01T11:18:24.000Z",
-      "collectedAt": "2026-09-01T17:46:28.067Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f73dd36683bf9681",
-      "title": "Messi retires from Argentina duty with ‘nothing left to give’",
-      "summary": "Argentina great Lionel Messi has announced his retirement from international football, saying it was a decision that “hurt” but “the time has come”. The 39-year-old, who captained Argentina to World Cup glory in Qatar in 2022, has scored 125 goals in 207 appearances, making hi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/messi-retires-from-argentina-duty-with-nothing-left-to-give/",
-      "publishedAt": "2026-09-01T11:18:19.000Z",
-      "collectedAt": "2026-09-01T17:46:28.067Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-06T22:04:11.526Z",
-    "count": 12
+    "generatedAt": "2026-09-07T04:11:29.002Z",
+    "count": 10
   }
 }
