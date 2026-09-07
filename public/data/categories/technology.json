@@ -282,105 +282,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ab34c6e81e9dc752",
-      "title": "Chief Jatta Tells Residents to Stand by Barrow ‘Even If I Die,’ Issues Warning to Alkalos",
-      "summary": "By Fatou Sillah Lamin Mondo Jatta, the chief of Brikama North, has urged residents of the district to continue supporting President Adama Barrow even after the chief’s death, as he rallied voters behind the president ahead of the December presidential election. Jatta said his ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/chief-jatta-tells-residents-to-stand-by-barrow-even-if-i-die-issues-warning-to-alkalos/",
-      "publishedAt": "2026-09-01T19:57:59.000Z",
-      "collectedAt": "2026-09-01T20:55:29.470Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "02b62aae454b9019",
-      "title": "Lamin Ceesay Says 90% of Civil Servants Will Vote Against Barrow in December Election",
-      "summary": "By Fatou Sillah Lamin Ceesay, the United Democratic Party National Assembly member for Kiang West, has predicted that an overwhelming majority of Gambian civil servants will vote against President Adama Barrow in the Dec. 5 presidential election, citing what he described as wi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lamin-ceesay-says-90-of-civil-servants-will-vote-against-barrow-in-december-election/",
-      "publishedAt": "2026-09-01T16:15:50.000Z",
-      "collectedAt": "2026-09-01T17:48:27.291Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e90449effae42a02",
-      "title": "COULD METERS ALOCATED TO A COMPOUND HEAD BE TAKEN AND GIVEN TO ANOTHER COMPOUND HEAD?",
-      "summary": "Foroyaa received a complaint from a compound head in CRR North that a meter allocated to him is to be taken away through the order of a district authority. Foroyaa has contacted the PRO for investigation. The PRO emphasised that once a meter is allocated to a person and instal...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
-      "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-07T12:13:19.253Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "292d4e25e4afad29",
-      "title": "Farmers of Niorro Jarrol Allege Harassment by Residents of Jarrol Village",
-      "summary": "By Louise Jobe Residents of Niorro Jarrol Village in Foni Jarrol District have alleged that they were harassed by a group of people from Jarrol Village on Saturday, August 8, 2026, at their village ground. According to information received, a group of people allegedly delegate...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
-      "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-07T12:13:19.253Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T12:13:25.404Z",
-    "count": 16
+    "generatedAt": "2026-09-07T18:43:04.375Z",
+    "count": 12
   }
 }

@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "6f2d3963c053c39e",
+      "title": "Lamin J. Darboe Calls for Opposition Unity to Defeat Barrow in December Election",
+      "summary": "By Fatou Sillah Lamin J. Darboe, leader of the National Unity Party, has called on Gambians to rally behind Coalition 2026, saying opposition unity is essential to defeating President Adama Barrow in the December presidential election. Speaking at the Coalition 2026 Unity Rall...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-j-darboe-calls-for-opposition-unity-to-defeat-barrow-in-december-election/",
+      "publishedAt": "2026-09-07T17:56:47.000Z",
+      "collectedAt": "2026-09-07T18:43:00.254Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "04f33bcb00e49016",
+      "title": "COMMENTARY: STILL A “LIGHTWEIGHT”? BRIKAMA HAS GIVEN TALIB’S CRITICS SOMETHING TO THINK ABOUT",
+      "summary": "Written by: Seringe S.T. Touray For much of his march towards December, Talib Bensouda has had to contend with an argument almost as persistent as the attacks on his candidacy: that he simply is not big enough yet. Too young for some, too rooted in KM for others and, in the me...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/commentary-still-a-lightweight-brikama-has-given-talibs-critics-something-to-think-about/",
+      "publishedAt": "2026-09-07T13:46:37.000Z",
+      "collectedAt": "2026-09-07T18:42:58.622Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8afa4032e76e6165",
       "title": "Barrow reveals ‘special liking’ for Brufut as he presents new roads",
       "summary": "By Lamin Cham President Adama Barrow on Saturday told the people of Brufut that he has a special passion and liking for the town and if he continues in power, many of the needs and aspirations highlighted by the residents would become reality. He said this after inaugurating a...",
@@ -397,79 +441,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9f7f1f9d403af519",
-      "title": "Barrow Urges Gambians to Reject Tribalism, Says Unity Is Essential for Development",
-      "summary": "By Makutu Manneh President Adama Barrow on Tuesday urged Gambians to reject tribalism and embrace national unity, saying ethnic divisions offer no benefit to the country and could undermine efforts to advance its development. Speaking at the inauguration of the Sanyang Beachsi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-urges-gambians-to-reject-tribalism-says-unity-is-essential-for-development/",
-      "publishedAt": "2026-09-02T00:20:16.000Z",
-      "collectedAt": "2026-09-02T04:16:04.797Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ab34c6e81e9dc752",
-      "title": "Chief Jatta Tells Residents to Stand by Barrow ‘Even If I Die,’ Issues Warning to Alkalos",
-      "summary": "By Fatou Sillah Lamin Mondo Jatta, the chief of Brikama North, has urged residents of the district to continue supporting President Adama Barrow even after the chief’s death, as he rallied voters behind the president ahead of the December presidential election. Jatta said his ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/chief-jatta-tells-residents-to-stand-by-barrow-even-if-i-die-issues-warning-to-alkalos/",
-      "publishedAt": "2026-09-01T19:57:59.000Z",
-      "collectedAt": "2026-09-01T20:55:29.470Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1af354a4887e6c36",
-      "title": "GALA Blames State Negligence for Ebrima Gassama’s Death, Calls for Independent Investigation",
-      "summary": "By Makutu Manneh Gambians Against Looted Assets, or GALA, has accused the government of negligence in the death of Ebrima Gassama at Brikama General Hospital, calling for an independent investigation into the circumstances surrounding his death and the conditions at the facili...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gala-blames-state-negligence-for-ebrima-gassamas-death-calls-for-independent-investigation/",
-      "publishedAt": "2026-09-01T16:34:04.000Z",
-      "collectedAt": "2026-09-01T17:48:27.291Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T12:13:25.404Z",
-    "count": 20
+    "generatedAt": "2026-09-07T18:43:04.375Z",
+    "count": 19
   }
 }

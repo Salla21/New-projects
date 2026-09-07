@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1b4374c558e59c18",
+      "title": "Badjie Says Many Gambians Abroad Would Return if Jobs Were Available at Home",
+      "summary": "By Seedy Jobe Bakary K. Badjie, leader of the United Gambia Front and National Assembly member for Foni Bintang Karanai, said many Gambians living abroad would prefer to return home if the country could provide decent jobs and a more favorable working environment. Mr. Badjie m...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/badjie-says-many-gambians-abroad-would-return-if-jobs-were-available-at-home/",
+      "publishedAt": "2026-09-07T17:48:50.000Z",
+      "collectedAt": "2026-09-07T18:43:00.254Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "83eaa5ab2839660f",
       "title": "Darboe claims crime worse under Barrow than Jawara, Jammeh",
       "summary": "By Arret Jatta United Democratic Party (UDP) leader Ousainu Darboe has claimed that the level of crime recorded under President Adama Barrow’s government surpasses the Jawara and Jammeh administrations. Darboe made the remarks while welcoming youths of Sukuta Quarry who recent...",
@@ -217,34 +241,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fb5241bc6278fef3",
-      "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
-      "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
-      "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-07T12:13:19.253Z",
-      "region": "kanifing",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T12:13:25.404Z",
+    "generatedAt": "2026-09-07T18:43:04.375Z",
     "count": 10
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "04f33bcb00e49016",
+      "title": "COMMENTARY: STILL A “LIGHTWEIGHT”? BRIKAMA HAS GIVEN TALIB’S CRITICS SOMETHING TO THINK ABOUT",
+      "summary": "Written by: Seringe S.T. Touray For much of his march towards December, Talib Bensouda has had to contend with an argument almost as persistent as the attacks on his candidacy: that he simply is not big enough yet. Too young for some, too rooted in KM for others and, in the me...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/commentary-still-a-lightweight-brikama-has-given-talibs-critics-something-to-think-about/",
+      "publishedAt": "2026-09-07T13:46:37.000Z",
+      "collectedAt": "2026-09-07T18:42:58.622Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "39973f0205be2443",
       "title": "New agribusiness launches in Brikamaba to tackle Gambia’s food insecurity",
       "summary": "By Dawda Baldeh A newly established private enterprise, Fandayma Agriculture & Food Security Industries Ltd (FAFSI), has officially launched operations in Central River Region South, launching an ambitious campaign to boost domestic food production, create youth jobs, and redu...",
@@ -340,55 +361,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6215c08275f01cac",
-      "title": "Barrow Says Government Supports 35,000 Vulnerable Families Monthly",
-      "summary": "Written by: Mama A. Touray President Adama Barrow has said his government provides monthly financial support to 35,000 vulnerable families across The Gambia to help them meet their basic needs. The president made the remarks over the weekend while addressing a gathering of far...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/barrow-says-government-supports-35000-vulnerable-families-monthly/",
-      "publishedAt": "2026-09-01T22:06:32.000Z",
-      "collectedAt": "2026-09-01T23:56:42.182Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d61d94d044fc91c6",
-      "title": "New CDS Ousman Gomez Begins First Nationwide Tour of Military Installations",
-      "summary": "Written by: Seringe S.T. Touray The Gambia’s new Chief of Defence Staff, Major General Ousman Gomez, has begun his first nationwide tour of military installations since taking over the leadership of the Armed Forces, meeting troops, community leaders and regional officials whi...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/new-cds-ousman-gomez-begins-first-nationwide-tour-of-military-installations/",
-      "publishedAt": "2026-09-01T13:17:44.000Z",
-      "collectedAt": "2026-09-01T17:46:34.017Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T12:13:25.404Z",
-    "count": 17
+    "generatedAt": "2026-09-07T18:43:04.375Z",
+    "count": 16
   }
 }
