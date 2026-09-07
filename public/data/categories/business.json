@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "0a987c449ce15b13",
+      "title": "Open letter to President Barrow on FSQA",
+      "summary": "Dear Editor,I write to you with due respect to bring to your attention an issue of grave importance. I hope this message is received in the spirit in which it is written. It is a well-known fact that perception is extremely important in politics, particularly during an electio...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/open-letter-to-president-barrow-on-fsqa/",
+      "publishedAt": "2026-09-07T10:40:45.000Z",
+      "collectedAt": "2026-09-07T12:13:12.846Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "461dc4927d51e11d",
+      "title": "APP-Sobeyaa withdraws from APeX coalition, rumoured to be in alliance with NPP",
+      "summary": "By Omar Bah APP-Sobeyaa Presidential candidate Essa Faal has declined to comment on reports of alliance talks with the National People’s Party (NPP), even as multiple sources claim negotiations are underway ahead of the 5th December presidential election. According to Kerr Fat...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/app-sobeyaa-withdraws-from-apex-coalition-rumoured-to-be-in-alliance-with-npp/",
+      "publishedAt": "2026-09-07T10:38:00.000Z",
+      "collectedAt": "2026-09-07T12:13:12.846Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4b35a355b4eb3b96",
       "title": "Bensouda: ‘Nothing Can Stop My Candidacy in This World’",
       "summary": "By Staff Writer Mayor Talib Ahmed Bensouda said Sunday that nothing would prevent him from contesting the 2026 presidential election, telling supporters that political pressure and scrutiny had only strengthened his resolve. Speaking at the Coalition 2026 NUP/UNITE alliance un...",
@@ -786,29 +834,6 @@
       "status": "published"
     },
     {
-      "id": "0efd5d9be0674ab5",
-      "title": "OPINION | If “The Youths Are Happy”, Why Do They Keep Risking Their Lives on the Backway?",
-      "summary": "Written by: Seringe ST Touray The Backway is killing people, swallowing boats and leaving Gambian families waiting for loved ones who may never return. Just recently, 22 young people from Niamina Jarreng were reported missing after leaving The Gambia by boat on August 7th. Mor...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/opinion-if-the-youths-are-happy-why-do-they-keep-risking-their-lives-on-the-backway/",
-      "publishedAt": "2026-09-01T11:39:25.000Z",
-      "collectedAt": "2026-09-01T17:46:34.017Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -817,7 +842,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-07T04:11:23.226Z",
+      "collectedAt": "2026-09-07T12:13:19.253Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -841,7 +866,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-07T04:11:23.226Z",
+      "collectedAt": "2026-09-07T12:13:19.253Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -864,7 +889,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-07T04:11:23.226Z",
+      "collectedAt": "2026-09-07T12:13:19.253Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -881,7 +906,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T04:11:29.002Z",
-    "count": 37
+    "generatedAt": "2026-09-07T12:13:25.404Z",
+    "count": 38
   }
 }

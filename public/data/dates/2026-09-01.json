@@ -184,54 +184,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d4a239f5c6f9295d",
-      "title": "GAMBIA & SENEGAL HIT BY FUEL PRICE HIKES",
-      "summary": "Written by: Seringe ST Touray Fuel prices have shot up again in The Gambia, with diesel hitting D120 per litre, petrol D109.80 and kerosene D112.64 under new pump rates taking effect today, September 1st. The government attributes the increase primarily to the “continued rise ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-senegal-hit-by-fuel-price-hikes/",
-      "publishedAt": "2026-09-01T12:29:23.000Z",
-      "collectedAt": "2026-09-01T17:46:34.017Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0efd5d9be0674ab5",
-      "title": "OPINION | If “The Youths Are Happy”, Why Do They Keep Risking Their Lives on the Backway?",
-      "summary": "Written by: Seringe ST Touray The Backway is killing people, swallowing boats and leaving Gambian families waiting for loved ones who may never return. Just recently, 22 young people from Niamina Jarreng were reported missing after leaving The Gambia by boat on August 7th. Mor...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/opinion-if-the-youths-are-happy-why-do-they-keep-risking-their-lives-on-the-backway/",
-      "publishedAt": "2026-09-01T11:39:25.000Z",
-      "collectedAt": "2026-09-01T17:46:34.017Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T04:11:29.002Z",
-    "count": 10
+    "generatedAt": "2026-09-07T12:13:25.404Z",
+    "count": 8
   }
 }
