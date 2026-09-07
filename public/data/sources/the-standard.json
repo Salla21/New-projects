@@ -958,57 +958,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5dd10e5ddf9418a4",
-      "title": "NPP regional chairman condemns tribal politics",
-      "summary": "By Tabora Bojang Sarjo Ceesay, the regional chairman of the governing National People’s Party NPP in Central River Region South has condemned the ongoing spate of tribal politics and personality attacks in the national political discourse warning that tribalism has no space in...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/npp-regional-chairman-condemns-tribal-politics/",
-      "publishedAt": "2026-09-02T10:29:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "central-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d75bf88a953dff2c",
-      "title": "Coalition 2026 to stage grand rally at Brikama Sunday",
-      "summary": "By Olimatou Coker Coalition 2026 will on Sunday stage a grand unity really in Brikama, to mark the official launching of the NUP/Unite Alliance. The rally is scheduled to take place at the Brikama SSP Grounds and is expected to bring together members, supporters and sympathise...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/coalition-2026-to-stage-grand-rally-at-brikama-sunday/",
-      "publishedAt": "2026-09-02T10:28:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T18:43:04.375Z",
-    "count": 44
+    "generatedAt": "2026-09-07T22:45:55.590Z",
+    "count": 42
   }
 }

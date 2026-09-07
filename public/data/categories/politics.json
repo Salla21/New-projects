@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "db4b107357aa8e19",
+      "title": "Bensouda Says KMC Has Set the Standard for Waste Management in The Gambia",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of the Kanifing Municipal Council, has defended his administration’s record on waste management, saying KMC has transformed garbage collection and established a model that other councils ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-kmc-has-set-the-standard-for-waste-management-in-the-gambia/",
+      "publishedAt": "2026-09-07T20:06:21.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "eac5d6a3692e7b75",
+      "title": "National Assembly Ratifies WIPO Copyright Treaty to Strengthen Digital Copyright Protection",
+      "summary": "By Fatou Sillah The National Assembly on Monday ratified the World Intellectual Property Organization Copyright Treaty, a move aimed at strengthening protections for authors and other creators as their works increasingly move into the digital sphere. The treaty, commonly known...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/national-assembly-ratifies-wipo-copyright-treaty-to-strengthen-digital-copyright-protection/",
+      "publishedAt": "2026-09-07T19:35:56.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "01661df523f89661",
+      "title": "Gajigo Says Barrow Government Has Failed to Make Gambia Self-Sufficient in Rice",
+      "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and politician, criticized President Adama Barrow’s government on Sunday over The Gambia’s continued reliance on imported rice, arguing that the country has the land, water and farming capacity to produce far more of the staple l...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-says-barrow-government-has-failed-to-make-gambia-self-sufficient-in-rice/",
+      "publishedAt": "2026-09-07T18:44:07.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1306eed368259e1b",
       "title": "The Gambia Elected to Lead African Union Sports Council Region 2",
       "summary": "By Makutu Manneh The Gambia has been elected to lead the African Union Sports Council Region 2 Conference of Ministers for a two-year term, placing Youth and Sports Minister Bakary Y. Badjie at the helm of the regional sports body. Mr. Badjie will serve as chairperson for the ...",
@@ -1341,57 +1412,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5dd10e5ddf9418a4",
-      "title": "NPP regional chairman condemns tribal politics",
-      "summary": "By Tabora Bojang Sarjo Ceesay, the regional chairman of the governing National People’s Party NPP in Central River Region South has condemned the ongoing spate of tribal politics and personality attacks in the national political discourse warning that tribalism has no space in...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/npp-regional-chairman-condemns-tribal-politics/",
-      "publishedAt": "2026-09-02T10:29:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "central-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d75bf88a953dff2c",
-      "title": "Coalition 2026 to stage grand rally at Brikama Sunday",
-      "summary": "By Olimatou Coker Coalition 2026 will on Sunday stage a grand unity really in Brikama, to mark the official launching of the NUP/Unite Alliance. The rally is scheduled to take place at the Brikama SSP Grounds and is expected to bring together members, supporters and sympathise...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/coalition-2026-to-stage-grand-rally-at-brikama-sunday/",
-      "publishedAt": "2026-09-02T10:28:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T18:43:04.375Z",
-    "count": 59
+    "generatedAt": "2026-09-07T22:45:55.590Z",
+    "count": 60
   }
 }

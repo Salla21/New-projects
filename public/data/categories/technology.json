@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "eac5d6a3692e7b75",
+      "title": "National Assembly Ratifies WIPO Copyright Treaty to Strengthen Digital Copyright Protection",
+      "summary": "By Fatou Sillah The National Assembly on Monday ratified the World Intellectual Property Organization Copyright Treaty, a move aimed at strengthening protections for authors and other creators as their works increasingly move into the digital sphere. The treaty, commonly known...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/national-assembly-ratifies-wipo-copyright-treaty-to-strengthen-digital-copyright-protection/",
+      "publishedAt": "2026-09-07T19:35:56.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fffa6baafe6e16c8",
       "title": "Gamcel to join the 9-digits migration in second phase",
       "summary": "By Sirrah Touray The Gambia has successfully migrated to 9-digits mobile numbers, but Gamcel will join the new system in the second phase with 89 prefix reserved for them, the Public Utilities Regulatory Authority (Pura) confirmed during a press briefing. Pura head Njogu Bah s...",
@@ -285,7 +309,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T18:43:04.375Z",
-    "count": 12
+    "generatedAt": "2026-09-07T22:45:55.590Z",
+    "count": 13
   }
 }

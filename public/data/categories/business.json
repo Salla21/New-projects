@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "01661df523f89661",
+      "title": "Gajigo Says Barrow Government Has Failed to Make Gambia Self-Sufficient in Rice",
+      "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and politician, criticized President Adama Barrow’s government on Sunday over The Gambia’s continued reliance on imported rice, arguing that the country has the land, water and farming capacity to produce far more of the staple l...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-says-barrow-government-has-failed-to-make-gambia-self-sufficient-in-rice/",
+      "publishedAt": "2026-09-07T18:44:07.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1306eed368259e1b",
       "title": "The Gambia Elected to Lead African Union Sports Council Region 2",
       "summary": "By Makutu Manneh The Gambia has been elected to lead the African Union Sports Council Region 2 Conference of Ministers for a two-year term, placing Youth and Sports Minister Bakary Y. Badjie at the helm of the regional sports body. Mr. Badjie will serve as chairperson for the ...",
@@ -760,57 +784,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d75bf88a953dff2c",
-      "title": "Coalition 2026 to stage grand rally at Brikama Sunday",
-      "summary": "By Olimatou Coker Coalition 2026 will on Sunday stage a grand unity really in Brikama, to mark the official launching of the NUP/Unite Alliance. The rally is scheduled to take place at the Brikama SSP Grounds and is expected to bring together members, supporters and sympathise...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/coalition-2026-to-stage-grand-rally-at-brikama-sunday/",
-      "publishedAt": "2026-09-02T10:28:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5d0fd3316e840eb4",
-      "title": "Gambian Man Dies After Allegedly Killing Two Men Outside Gay Bar in Arizona",
-      "summary": "Published by: The Fatu Network A 44-year-old man reported to be originally from The Gambia has died after police say he shot and killed two men outside Venture-N, a gay bar in Arizona, United States, early Monday. Ousman Ceesay, who had reportedly moved to Arizona from Oklahom...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambian-man-dies-after-allegedly-killing-two-men-outside-gay-bar-in-arizona/",
-      "publishedAt": "2026-09-02T10:12:13.000Z",
-      "collectedAt": "2026-09-02T11:04:59.947Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T18:43:04.375Z",
-    "count": 34
+    "generatedAt": "2026-09-07T22:45:55.590Z",
+    "count": 33
   }
 }

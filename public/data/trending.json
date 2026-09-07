@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "db4b107357aa8e19",
+      "title": "Bensouda Says KMC Has Set the Standard for Waste Management in The Gambia",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of the Kanifing Municipal Council, has defended his administration’s record on waste management, saying KMC has transformed garbage collection and established a model that other councils ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-kmc-has-set-the-standard-for-waste-management-in-the-gambia/",
+      "publishedAt": "2026-09-07T20:06:21.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "eac5d6a3692e7b75",
+      "title": "National Assembly Ratifies WIPO Copyright Treaty to Strengthen Digital Copyright Protection",
+      "summary": "By Fatou Sillah The National Assembly on Monday ratified the World Intellectual Property Organization Copyright Treaty, a move aimed at strengthening protections for authors and other creators as their works increasingly move into the digital sphere. The treaty, commonly known...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/national-assembly-ratifies-wipo-copyright-treaty-to-strengthen-digital-copyright-protection/",
+      "publishedAt": "2026-09-07T19:35:56.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "01661df523f89661",
+      "title": "Gajigo Says Barrow Government Has Failed to Make Gambia Self-Sufficient in Rice",
+      "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and politician, criticized President Adama Barrow’s government on Sunday over The Gambia’s continued reliance on imported rice, arguing that the country has the land, water and farming capacity to produce far more of the staple l...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-says-barrow-government-has-failed-to-make-gambia-self-sufficient-in-rice/",
+      "publishedAt": "2026-09-07T18:44:07.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1306eed368259e1b",
       "title": "The Gambia Elected to Lead African Union Sports Council Region 2",
       "summary": "By Makutu Manneh The Gambia has been elected to lead the African Union Sports Council Region 2 Conference of Ministers for a two-year term, placing Youth and Sports Minister Bakary Y. Badjie at the helm of the regional sports body. Mr. Badjie will serve as chairperson for the ...",
@@ -390,82 +461,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "461dc4927d51e11d",
-      "title": "APP-Sobeyaa withdraws from APeX coalition, rumoured to be in alliance with NPP",
-      "summary": "By Omar Bah APP-Sobeyaa Presidential candidate Essa Faal has declined to comment on reports of alliance talks with the National People’s Party (NPP), even as multiple sources claim negotiations are underway ahead of the 5th December presidential election. According to Kerr Fat...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/app-sobeyaa-withdraws-from-apex-coalition-rumoured-to-be-in-alliance-with-npp/",
-      "publishedAt": "2026-09-07T10:38:00.000Z",
-      "collectedAt": "2026-09-07T12:13:12.846Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4b35a355b4eb3b96",
-      "title": "Bensouda: ‘Nothing Can Stop My Candidacy in This World’",
-      "summary": "By Staff Writer Mayor Talib Ahmed Bensouda said Sunday that nothing would prevent him from contesting the 2026 presidential election, telling supporters that political pressure and scrutiny had only strengthened his resolve. Speaking at the Coalition 2026 NUP/UNITE alliance un...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-nothing-can-stop-my-candidacy-in-this-world/",
-      "publishedAt": "2026-09-07T02:13:03.000Z",
-      "collectedAt": "2026-09-07T04:11:24.909Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "47e01aa5d89e5b4d",
-      "title": "Barrow: BAC Fixates on Arguments, Won’t Build Brufut Market—But I Will",
-      "summary": "By Makutu Manneh President Adama Barrow has criticized the Brikama Area Council, accusing it of focusing on arguments rather than development, and told residents of Brufut that his government would take responsibility for building their proposed market. Speaking in Brufut on S...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-bac-fixates-on-arguments-wont-build-brufut-market-but-i-will/",
-      "publishedAt": "2026-09-06T22:53:58.000Z",
-      "collectedAt": "2026-09-07T04:11:24.909Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T18:43:04.375Z",
+    "generatedAt": "2026-09-07T22:45:55.590Z",
     "count": 20
   }
 }

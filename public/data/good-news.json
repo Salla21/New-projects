@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "db4b107357aa8e19",
+      "title": "Bensouda Says KMC Has Set the Standard for Waste Management in The Gambia",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of the Kanifing Municipal Council, has defended his administration’s record on waste management, saying KMC has transformed garbage collection and established a model that other councils ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-kmc-has-set-the-standard-for-waste-management-in-the-gambia/",
+      "publishedAt": "2026-09-07T20:06:21.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d5bfa02e89e81331",
       "title": "UDP Youth President Says Government Has Fallen Short on Jobs, Skills Training and Youth Financing",
       "summary": "By Seedy Jobe Hagi Suwaneh, the national youth president of the opposition United Democratic Party, has criticized the government’s record on youth employment and skills development, arguing that it has largely maintained existing programs without addressing the obstacles that...",
@@ -493,30 +516,6 @@
       "status": "published"
     },
     {
-      "id": "d75bf88a953dff2c",
-      "title": "Coalition 2026 to stage grand rally at Brikama Sunday",
-      "summary": "By Olimatou Coker Coalition 2026 will on Sunday stage a grand unity really in Brikama, to mark the official launching of the NUP/Unite Alliance. The rally is scheduled to take place at the Brikama SSP Grounds and is expected to bring together members, supporters and sympathise...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/coalition-2026-to-stage-grand-rally-at-brikama-sunday/",
-      "publishedAt": "2026-09-02T10:28:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "809c369525eefdd0",
       "title": "Team Kitabu Invites Yankuba Minteh, Fatou Touray, Ziggi, Rinna’s Skincare and Others to Award Night",
       "summary": "The Gambia’s leading comedy group, Team Kitabu D Comedian, is set to celebrate its 15th anniversary…\nThe post Team Kitabu Invites Yankuba Minteh, Fatou Touray, Ziggi, Rinna’s Skincare and Others to Award Night appeared first on What's On Gambia.",
@@ -525,7 +524,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/team-kitabu-invites-yankuba-minteh-fatou-touray-ziggi-rinnas-skincare-and-others-to-award-night/",
       "publishedAt": "2026-08-26T04:58:50.000Z",
-      "collectedAt": "2026-09-07T18:42:58.332Z",
+      "collectedAt": "2026-09-07T22:45:46.410Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -546,7 +545,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/hadiga-college-international-honours-whats-on-gambia-with-outstanding-media-award-2025/",
       "publishedAt": "2026-08-20T11:35:10.000Z",
-      "collectedAt": "2026-09-07T18:42:58.332Z",
+      "collectedAt": "2026-09-07T22:45:46.410Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -567,7 +566,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/man-allegedly-klls-bartender-in-banjul/",
       "publishedAt": "2026-08-19T08:21:07.000Z",
-      "collectedAt": "2026-09-07T18:42:58.332Z",
+      "collectedAt": "2026-09-07T22:45:46.410Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -581,7 +580,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T18:43:04.375Z",
+    "generatedAt": "2026-09-07T22:45:55.590Z",
     "count": 25
   }
 }

@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "db4b107357aa8e19",
+      "title": "Bensouda Says KMC Has Set the Standard for Waste Management in The Gambia",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of the Kanifing Municipal Council, has defended his administration’s record on waste management, saying KMC has transformed garbage collection and established a model that other councils ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-kmc-has-set-the-standard-for-waste-management-in-the-gambia/",
+      "publishedAt": "2026-09-07T20:06:21.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "eac5d6a3692e7b75",
+      "title": "National Assembly Ratifies WIPO Copyright Treaty to Strengthen Digital Copyright Protection",
+      "summary": "By Fatou Sillah The National Assembly on Monday ratified the World Intellectual Property Organization Copyright Treaty, a move aimed at strengthening protections for authors and other creators as their works increasingly move into the digital sphere. The treaty, commonly known...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/national-assembly-ratifies-wipo-copyright-treaty-to-strengthen-digital-copyright-protection/",
+      "publishedAt": "2026-09-07T19:35:56.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "01661df523f89661",
+      "title": "Gajigo Says Barrow Government Has Failed to Make Gambia Self-Sufficient in Rice",
+      "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and politician, criticized President Adama Barrow’s government on Sunday over The Gambia’s continued reliance on imported rice, arguing that the country has the land, water and farming capacity to produce far more of the staple l...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-says-barrow-government-has-failed-to-make-gambia-self-sufficient-in-rice/",
+      "publishedAt": "2026-09-07T18:44:07.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1306eed368259e1b",
       "title": "The Gambia Elected to Lead African Union Sports Council Region 2",
       "summary": "By Makutu Manneh The Gambia has been elected to lead the African Union Sports Council Region 2 Conference of Ministers for a two-year term, placing Youth and Sports Minister Bakary Y. Badjie at the helm of the regional sports body. Mr. Badjie will serve as chairperson for the ...",
@@ -2224,83 +2295,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e154b7b75b4e10f8",
-      "title": "GAP says Jammeh’s return should not be viewed negatively",
-      "summary": "By Omar Bah The Gambia Action Party [GAP] has rejected attempts to dictate The Gambia’s political future from abroad, declaring that any return of former President Yahya Jammeh “should not be viewed negatively” and must be handled by Gambians through the country’s own laws. In...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gap-says-jammehs-return-should-not-be-viewed-negatively/",
-      "publishedAt": "2026-09-02T10:32:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b38a7014eb3fdae2",
-      "title": "Assembly to consider bill to regulate Gambia’s markets",
-      "summary": "By Omar Bah After years of chaos, and reported poor sanitation and unclear authority in The Gambia’s markets, Serekunda National Assembly Member Hon Musa Cham has tabled a Bill to create the country’s first comprehensive law to regulate, manage and operate all markets. The Bil...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/assembly-to-consider-bill-to-regulate-gambias-markets/",
-      "publishedAt": "2026-09-02T10:31:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bd37df961dfa6cf0",
-      "title": "Fuel prices go up again",
-      "summary": "By Olimatou Coker Government yesterday announced a slight increase in the retail pump prices of petrol, diesel and kerosene for the month of September, citing rising international crude oil and refined petroleum product prices amid continued conflict and instability in the Mid...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/fuel-prices-go-up-again/",
-      "publishedAt": "2026-09-02T10:30:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T18:43:04.375Z",
+    "generatedAt": "2026-09-07T22:45:55.590Z",
     "count": 100
   }
 }

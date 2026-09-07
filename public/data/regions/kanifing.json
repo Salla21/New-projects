@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "db4b107357aa8e19",
+      "title": "Bensouda Says KMC Has Set the Standard for Waste Management in The Gambia",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of the Kanifing Municipal Council, has defended his administration’s record on waste management, saying KMC has transformed garbage collection and established a model that other councils ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-kmc-has-set-the-standard-for-waste-management-in-the-gambia/",
+      "publishedAt": "2026-09-07T20:06:21.000Z",
+      "collectedAt": "2026-09-07T22:45:51.543Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b5913917ccaf9bc7",
       "title": "Dr. Gajigo Blames Central Government for Challenges Facing Municipalities",
       "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and politician, has defended Kanifing Municipal Council Mayor Talib Ahmed Bensouda against criticism over the condition of markets and other problems in the municipality, arguing that many of the challenges facing local councils ...",
@@ -115,7 +138,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T18:43:04.375Z",
-    "count": 5
+    "generatedAt": "2026-09-07T22:45:55.590Z",
+    "count": 6
   }
 }
