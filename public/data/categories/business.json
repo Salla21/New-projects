@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "e4783239c4bf9092",
+      "title": "Darboe Says UDP’s ‘Quest for a Better Gambia Is Still On’ at 30th Anniversary Awards",
+      "summary": "By Seedy Jobe The United Democratic Party on Monday held an awards ceremony at its bureau in Manjai as part of its 30th anniversary celebrations, honoring longtime members, diaspora supporters and others who have contributed to the party over the past three decades. The ceremo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-udps-quest-for-a-better-gambia-is-still-on-at-30th-anniversary-awards/",
+      "publishedAt": "2026-09-08T01:44:18.000Z",
+      "collectedAt": "2026-09-08T04:14:11.122Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "01661df523f89661",
       "title": "Gajigo Says Barrow Government Has Failed to Make Gambia Self-Sufficient in Rice",
       "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and politician, criticized President Adama Barrow’s government on Sunday over The Gambia’s continued reliance on imported rice, arguing that the country has the land, water and farming capacity to produce far more of the staple l...",
@@ -759,35 +784,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b38a7014eb3fdae2",
-      "title": "Assembly to consider bill to regulate Gambia’s markets",
-      "summary": "By Omar Bah After years of chaos, and reported poor sanitation and unclear authority in The Gambia’s markets, Serekunda National Assembly Member Hon Musa Cham has tabled a Bill to create the country’s first comprehensive law to regulate, manage and operate all markets. The Bil...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/assembly-to-consider-bill-to-regulate-gambias-markets/",
-      "publishedAt": "2026-09-02T10:31:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T22:45:55.590Z",
+    "generatedAt": "2026-09-08T04:14:15.158Z",
     "count": 33
   }
 }

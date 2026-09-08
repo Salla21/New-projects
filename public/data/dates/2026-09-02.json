@@ -534,79 +534,6 @@
       "status": "published"
     },
     {
-      "id": "e154b7b75b4e10f8",
-      "title": "GAP says Jammeh’s return should not be viewed negatively",
-      "summary": "By Omar Bah The Gambia Action Party [GAP] has rejected attempts to dictate The Gambia’s political future from abroad, declaring that any return of former President Yahya Jammeh “should not be viewed negatively” and must be handled by Gambians through the country’s own laws. In...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gap-says-jammehs-return-should-not-be-viewed-negatively/",
-      "publishedAt": "2026-09-02T10:32:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b38a7014eb3fdae2",
-      "title": "Assembly to consider bill to regulate Gambia’s markets",
-      "summary": "By Omar Bah After years of chaos, and reported poor sanitation and unclear authority in The Gambia’s markets, Serekunda National Assembly Member Hon Musa Cham has tabled a Bill to create the country’s first comprehensive law to regulate, manage and operate all markets. The Bil...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/assembly-to-consider-bill-to-regulate-gambias-markets/",
-      "publishedAt": "2026-09-02T10:31:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bd37df961dfa6cf0",
-      "title": "Fuel prices go up again",
-      "summary": "By Olimatou Coker Government yesterday announced a slight increase in the retail pump prices of petrol, diesel and kerosene for the month of September, citing rising international crude oil and refined petroleum product prices amid continued conflict and instability in the Mid...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/fuel-prices-go-up-again/",
-      "publishedAt": "2026-09-02T10:30:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "49c0b34b909894a7",
       "title": "Officer Malick Signs Deal with Comium as New Brand Ambassador",
       "summary": "One of the country’s fastest-rising comedians, Officer Malick, has signed a contract with mobile telecommunications company…\nThe post Officer Malick Signs Deal with Comium as New Brand Ambassador appeared first on What's On Gambia.",
@@ -615,7 +542,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/officer-malick-signs-deal-with-comium-as-new-brand-ambassador/",
       "publishedAt": "2026-09-02T04:09:25.000Z",
-      "collectedAt": "2026-09-07T22:45:46.410Z",
+      "collectedAt": "2026-09-08T04:14:09.983Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -636,7 +563,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/keke-drivers-accused-of-drinking-alcohol-before-work-on-sundays/",
       "publishedAt": "2026-09-02T04:07:33.000Z",
-      "collectedAt": "2026-09-07T22:45:46.410Z",
+      "collectedAt": "2026-09-08T04:14:09.983Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -657,7 +584,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-my-family-stop-us-young-woman-fears-parents-may-block-her-marriage-to-nyamalo-boyfriend/",
       "publishedAt": "2026-09-02T04:05:30.000Z",
-      "collectedAt": "2026-09-07T22:45:46.410Z",
+      "collectedAt": "2026-09-08T04:14:09.983Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -678,7 +605,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/senegalese-soldier-allegedly-tells-fonianka-husband-never-stop-your-wife-from-seeing-me/",
       "publishedAt": "2026-09-02T04:01:40.000Z",
-      "collectedAt": "2026-09-07T22:45:46.410Z",
+      "collectedAt": "2026-09-08T04:14:09.983Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -692,7 +619,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T22:45:55.590Z",
-    "count": 30
+    "generatedAt": "2026-09-08T04:14:15.158Z",
+    "count": 27
   }
 }

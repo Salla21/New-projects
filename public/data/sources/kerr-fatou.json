@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "e4783239c4bf9092",
+      "title": "Darboe Says UDP’s ‘Quest for a Better Gambia Is Still On’ at 30th Anniversary Awards",
+      "summary": "By Seedy Jobe The United Democratic Party on Monday held an awards ceremony at its bureau in Manjai as part of its 30th anniversary celebrations, honoring longtime members, diaspora supporters and others who have contributed to the party over the past three decades. The ceremo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-udps-quest-for-a-better-gambia-is-still-on-at-30th-anniversary-awards/",
+      "publishedAt": "2026-09-08T01:44:18.000Z",
+      "collectedAt": "2026-09-08T04:14:11.122Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0147d1b5d20ac43a",
+      "title": "Darboe Urges UDP, Coalition Partners to Ignore Distractions and Focus on 2026 Election",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has urged members of his party and its coalition partners to avoid distractions and focus their efforts on winning the December 2026 presidential election. Speaking at the UDP’s 30th anniversary awards ceremony in Man...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-urges-udp-coalition-partners-to-ignore-distractions-and-focus-on-2026-election/",
+      "publishedAt": "2026-09-08T01:39:25.000Z",
+      "collectedAt": "2026-09-08T04:14:11.122Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "db4b107357aa8e19",
       "title": "Bensouda Says KMC Has Set the Standard for Waste Management in The Gambia",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of the Kanifing Municipal Council, has defended his administration’s record on waste management, saying KMC has transformed garbage collection and established a model that other councils ...",
@@ -1094,7 +1143,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-07T22:45:55.590Z",
-    "count": 47
+    "generatedAt": "2026-09-08T04:14:15.158Z",
+    "count": 49
   }
 }
