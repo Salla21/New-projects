@@ -74,6 +74,29 @@
       "status": "published"
     },
     {
+      "id": "bb3647b396631365",
+      "title": "3,618 police officers promoted",
+      "summary": "By Olimatou Coker The Gambia Police Force (GPF) yesterday announced the promotion of 3,618 police officers across various ranks, ‘in a significant step towards strengthening personnel development and improving service delivery.’ Police spokesman Modou Musa Sisawo said the prom...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/3618-police-officers-promoted/",
+      "publishedAt": "2026-09-07T13:32:00.000Z",
+      "collectedAt": "2026-09-08T16:28:38.020Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "83eaa5ab2839660f",
       "title": "Darboe claims crime worse under Barrow than Jawara, Jammeh",
       "summary": "By Arret Jatta United Democratic Party (UDP) leader Ousainu Darboe has claimed that the level of crime recorded under President Adama Barrow’s government surpasses the Jawara and Jammeh administrations. Darboe made the remarks while welcoming youths of Sukuta Quarry who recent...",
@@ -216,10 +239,34 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
+    },
+    {
+      "id": "fb5241bc6278fef3",
+      "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
+      "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
+      "publishedAt": "2026-08-14T12:14:17.000Z",
+      "collectedAt": "2026-09-08T16:28:52.243Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T11:05:16.033Z",
-    "count": 9
+    "generatedAt": "2026-09-08T16:29:01.205Z",
+    "count": 11
   }
 }

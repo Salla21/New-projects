@@ -45,6 +45,53 @@
       "status": "published"
     },
     {
+      "id": "32abd7837d863b66",
+      "title": "Bensouda says no commission of inquiry can stop his candidacy",
+      "summary": "By Arret Jatta Talib Ahmed Bensouda has declared that no Commission of Inquiry can stop him from contesting the 2026 presidential election. The leader of the opposition Coalition 2026, made the statement on Sunday during a political rally in Brikama, where he addressed support...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/bensouda-says-no-commission-of-inquiry-can-stop-his-candidacy/",
+      "publishedAt": "2026-09-07T13:34:00.000Z",
+      "collectedAt": "2026-09-08T16:28:38.020Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d111b6988ccc012c",
+      "title": "GTBank relocates Brikama branch to Daruhairu",
+      "summary": "By Sirrah Touray Guaranty Trust Bank Gambia Limited on Monday officially relocated its Brikama branch to a new purpose-built facility in Brikama Daruhairu, a move the bank said is aimed at bringing banking services closer to customers and improving service delivery in the West...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gtbank-relocates-brikama-branch-to-daruhairu/",
+      "publishedAt": "2026-09-07T13:31:00.000Z",
+      "collectedAt": "2026-09-08T16:28:38.020Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8afa4032e76e6165",
       "title": "Barrow reveals ‘special liking’ for Brufut as he presents new roads",
       "summary": "By Lamin Cham President Adama Barrow on Saturday told the people of Brufut that he has a special passion and liking for the town and if he continues in power, many of the needs and aspirations highlighted by the residents would become reality. He said this after inaugurating a...",
@@ -420,7 +467,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T11:05:16.033Z",
-    "count": 18
+    "generatedAt": "2026-09-08T16:29:01.205Z",
+    "count": 20
   }
 }

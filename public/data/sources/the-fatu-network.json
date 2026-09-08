@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "a90f00e8bcb10707",
+      "title": "‘We Want Light, Not Excuses’: Power Crisis Sparks Mass Protests as GAP Threatens Peaceful Action",
+      "summary": "Written by: Dawda Baldeh The Gambia’s worsening electricity crisis spilled onto the streets on Monday night, with large demonstrations reported across the Greater Banjul Area and other communities as frustrated residents demanded an end to prolonged power cuts. The protests fo...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-want-light-not-excuses-power-crisis-sparks-mass-protests-as-gap-threatens-peaceful-action/",
+      "publishedAt": "2026-09-08T11:20:59.000Z",
+      "collectedAt": "2026-09-08T16:28:52.650Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "04f33bcb00e49016",
       "title": "COMMENTARY: STILL A “LIGHTWEIGHT”? BRIKAMA HAS GIVEN TALIB’S CRITICS SOMETHING TO THINK ABOUT",
       "summary": "Written by: Seringe S.T. Touray For much of his march towards December, Talib Bensouda has had to contend with an argument almost as persistent as the attacks on his candidacy: that he simply is not big enough yet. Too young for some, too rooted in KM for others and, in the me...",
@@ -296,7 +319,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T11:05:16.033Z",
-    "count": 13
+    "generatedAt": "2026-09-08T16:29:01.205Z",
+    "count": 14
   }
 }

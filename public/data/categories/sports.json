@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "7f6c18d7360dec61",
+      "title": "COACH NAMES 35-MAN SQUAD AGAINST SOMALIA, GHANA IN AFCON QUALIFIERS",
+      "summary": "Coach Johnathan McKinstry has announced a preliminary 35-man squad for Gambia’s upcoming 2027 Africa Cup of Nations qualifiers, against Somalia and Ghana. The Scorpions will first play Somalia at home on September 25 and then play away in Ghana against The Black Stars, on the ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/coach-names-35-man-squad-against-somalia-ghana-in-afcon-qualifiers/",
+      "publishedAt": "2026-09-07T14:45:47.000Z",
+      "collectedAt": "2026-09-08T16:28:38.020Z",
+      "region": "lower-river",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4f0aef4a99b3f036",
       "title": "Gambian player makes it to Bodø/Glimt’s champion’s league squad",
       "summary": "An important milestone in Gambian football has been recorded with Norwegian football giant Bodø/Glimt announcing that it has signed the first professional contract with a Gambian player, Assan Sanyang, from its Gambian partner club, the Tijan Jaiteh Football Academy. A stateme...",
@@ -145,7 +168,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T11:05:16.033Z",
-    "count": 6
+    "generatedAt": "2026-09-08T16:29:01.205Z",
+    "count": 7
   }
 }
