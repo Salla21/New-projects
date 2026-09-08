@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "1060a9969396490e",
+      "title": "EFF Gambia Leader Backs Candlelight Protests, Offers Four-Week Emergency Power Plan",
+      "summary": "By Seedy Jobe Prince Ebrahim Sanyang, leader of Economic Freedom Fighters Gambia, has backed nationwide candlelight protests over persistent electricity outages and offered to help lead an emergency effort he says could stabilize the country’s power supply within four weeks. I...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/eff-gambia-leader-backs-candlelight-protests-offers-four-week-emergency-power-plan/",
+      "publishedAt": "2026-09-08T18:32:57.000Z",
+      "collectedAt": "2026-09-08T21:01:23.011Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6f2d3963c053c39e",
       "title": "Lamin J. Darboe Calls for Opposition Unity to Defeat Barrow in December Election",
       "summary": "By Fatou Sillah Lamin J. Darboe, leader of the National Unity Party, has called on Gambians to rally behind Coalition 2026, saying opposition unity is essential to defeating President Adama Barrow in the December presidential election. Speaking at the Coalition 2026 Unity Rall...",
@@ -416,58 +437,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "8b5d10e8266f3f1b",
-      "title": "IN APPRECIATION OF A BROTHER AND COLLEAGUE",
-      "summary": "Ex-GFF president Bajo’s glowing tribute to VP Bakary K Jammeh Former Gambia Football Federation president Lamin Kaba Bajo has paid a glowing tribute to his first vice president Bakary Jammeh alias Baks. Both football officials left office last weekend after 12 years, in respec...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/in-appreciation-of-a-brother-and-colleague/",
-      "publishedAt": "2026-09-02T11:53:40.000Z",
-      "collectedAt": "2026-09-02T16:25:32.970Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "606fefa499b0f1f8",
-      "title": "“The Roads We Construct Today Must Anticipate the Demands of Tomorrow” – Barrow",
-      "summary": "Published by: The Fatu Network President Adama Barrow on Tuesday inaugurated the new 4.5-kilometre Sanyang Beach Side Road in Kombo South, saying the project will improve access to the coast and support fishing, farming, tourism, trade and other businesses in the area. The con...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/the-roads-we-construct-today-must-anticipate-the-demands-of-tomorrow-barrow/",
-      "publishedAt": "2026-09-02T11:16:45.000Z",
-      "collectedAt": "2026-09-02T16:25:42.534Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T16:29:01.205Z",
-    "count": 20
+    "generatedAt": "2026-09-08T21:01:27.059Z",
+    "count": 19
   }
 }

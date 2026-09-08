@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "85210416c34c84b6",
+      "title": "Barrow Acknowledges Power-Sector Shortcomings, Promises Improved Electricity Supply by End of October",
+      "summary": "By Staff Writer President Adama Barrow on Tuesday acknowledged shortcomings in his government’s planning and electricity generation and maintenance systems as he addressed mounting public frustration over widespread power outages, promising that the country’s electricity suppl...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-acknowledges-power-sector-shortcomings-promises-improved-electricity-supply-by-end-of-october/",
+      "publishedAt": "2026-09-08T20:40:30.000Z",
+      "collectedAt": "2026-09-08T21:01:23.011Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7b950b499bb9359b",
+      "title": "US Launches $930,000 Forensic Project to Advance Post-Jammeh Justice in Gambia",
+      "summary": "By Hadram Hydara The United States government has launched a $930,000 (over D68M) forensic investigation project aimed at bolstering The Gambia’s justice system and helping uncover the truth behind human rights abuses committed under former President Yahya Jammeh, the US Embas...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/us-launches-930000-forensic-project-to-advance-post-jammeh-justice-in-gambia/",
+      "publishedAt": "2026-09-08T18:32:19.000Z",
+      "collectedAt": "2026-09-08T21:01:21.453Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e4783239c4bf9092",
       "title": "Darboe Says UDP’s ‘Quest for a Better Gambia Is Still On’ at 30th Anniversary Awards",
       "summary": "By Seedy Jobe The United Democratic Party on Monday held an awards ceremony at its bureau in Manjai as part of its 30th anniversary celebrations, honoring longtime members, diaspora supporters and others who have contributed to the party over the past three decades. The ceremo...",
@@ -517,77 +563,6 @@
       "status": "published"
     },
     {
-      "id": "3ac781f95e7c11f7",
-      "title": "African nations can use the current crisis to build food systems that can take a hit. Kigali is where it comes together",
-      "summary": "By Juan Lucas Restrepo Heads of state, agriculture and finance ministers and investors meet in Kigali from 31 August for the Africa Food Systems Forum, the continent’s largest agricultural gathering. They arrive with an opportunity: to build a food system that holds up against...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/african-nations-can-use-the-current-crisis-to-build-food-systems-that-can-take-a-hit-kigali-is-where-it-comes-together/",
-      "publishedAt": "2026-09-02T11:51:00.000Z",
-      "collectedAt": "2026-09-02T16:25:32.970Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "606fefa499b0f1f8",
-      "title": "“The Roads We Construct Today Must Anticipate the Demands of Tomorrow” – Barrow",
-      "summary": "Published by: The Fatu Network President Adama Barrow on Tuesday inaugurated the new 4.5-kilometre Sanyang Beach Side Road in Kombo South, saying the project will improve access to the coast and support fishing, farming, tourism, trade and other businesses in the area. The con...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/the-roads-we-construct-today-must-anticipate-the-demands-of-tomorrow-barrow/",
-      "publishedAt": "2026-09-02T11:16:45.000Z",
-      "collectedAt": "2026-09-02T16:25:42.534Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "870f386d0246ae50",
-      "title": "GAMBIAN ‘KILLS’ 2, DIES OF INJURIES AT U.S. GAY BAR",
-      "summary": "By Omar Bah A deadly shooting that killed three people early Monday morning, including the shooter, a Gambian, is being investigated as a hate crime, according to the Tucson Police Department. Police say that the suspect, 44-year-old Ousman Ceesay, confronted the two victims, ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambian-kills-2-dies-of-injuries-at-u-s-gay-bar/",
-      "publishedAt": "2026-09-02T10:35:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "809c369525eefdd0",
       "title": "Team Kitabu Invites Yankuba Minteh, Fatou Touray, Ziggi, Rinna’s Skincare and Others to Award Night",
       "summary": "The Gambia’s leading comedy group, Team Kitabu D Comedian, is set to celebrate its 15th anniversary…\nThe post Team Kitabu Invites Yankuba Minteh, Fatou Touray, Ziggi, Rinna’s Skincare and Others to Award Night appeared first on What's On Gambia.",
@@ -596,7 +571,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/team-kitabu-invites-yankuba-minteh-fatou-touray-ziggi-rinnas-skincare-and-others-to-award-night/",
       "publishedAt": "2026-08-26T04:58:50.000Z",
-      "collectedAt": "2026-09-08T16:28:52.497Z",
+      "collectedAt": "2026-09-08T21:01:21.317Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -617,7 +592,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/hadiga-college-international-honours-whats-on-gambia-with-outstanding-media-award-2025/",
       "publishedAt": "2026-08-20T11:35:10.000Z",
-      "collectedAt": "2026-09-08T16:28:52.497Z",
+      "collectedAt": "2026-09-08T21:01:21.317Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -638,7 +613,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/man-allegedly-klls-bartender-in-banjul/",
       "publishedAt": "2026-08-19T08:21:07.000Z",
-      "collectedAt": "2026-09-08T16:28:52.497Z",
+      "collectedAt": "2026-09-08T21:01:21.317Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -659,7 +634,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-08T16:28:52.243Z",
+      "collectedAt": "2026-09-08T21:01:21.178Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -682,7 +657,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-08T16:28:52.243Z",
+      "collectedAt": "2026-09-08T21:01:21.178Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -703,7 +678,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-08T16:28:52.243Z",
+      "collectedAt": "2026-09-08T21:01:21.178Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -727,7 +702,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-08T16:28:52.243Z",
+      "collectedAt": "2026-09-08T21:01:21.178Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -743,7 +718,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T16:29:01.205Z",
-    "count": 32
+    "generatedAt": "2026-09-08T21:01:27.059Z",
+    "count": 31
   }
 }

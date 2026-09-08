@@ -141,34 +141,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "8b5d10e8266f3f1b",
-      "title": "IN APPRECIATION OF A BROTHER AND COLLEAGUE",
-      "summary": "Ex-GFF president Bajo’s glowing tribute to VP Bakary K Jammeh Former Gambia Football Federation president Lamin Kaba Bajo has paid a glowing tribute to his first vice president Bakary Jammeh alias Baks. Both football officials left office last weekend after 12 years, in respec...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/in-appreciation-of-a-brother-and-colleague/",
-      "publishedAt": "2026-09-02T11:53:40.000Z",
-      "collectedAt": "2026-09-02T16:25:32.970Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T16:29:01.205Z",
-    "count": 7
+    "generatedAt": "2026-09-08T21:01:27.059Z",
+    "count": 6
   }
 }
