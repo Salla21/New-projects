@@ -216,34 +216,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9cf30e061c49abb3",
-      "title": "15 Gambians named on updated US deportation list of West Africans",
-      "summary": "By Omar Bah The United States government has published an updated deportation list naming 427 people from West Africa, including 15 Gambians, with full names, photographs and criminal charges attached. The list, released by US immigration authorities, targets individuals with ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/15-gambians-named-on-updated-us-deportation-list-of-west-africans/",
-      "publishedAt": "2026-09-02T10:33:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T04:14:15.158Z",
-    "count": 10
+    "generatedAt": "2026-09-08T11:05:16.033Z",
+    "count": 9
   }
 }

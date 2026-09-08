@@ -1387,34 +1387,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d16187764ee38249",
-      "title": "Senegal, IMF Agree on $2.2 Billion Loan Programme",
-      "summary": "Published by: The Fatu Network The International Monetary Fund (IMF) and Senegal have reached an agreement on a new three-year, $2.2 billion loan programme aimed at supporting economic reforms and restoring the country’s debt sustainability. The deal comes after the IMF froze ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/senegal-imf-agree-on-2-2-billion-loan-programme/",
-      "publishedAt": "2026-09-02T10:32:38.000Z",
-      "collectedAt": "2026-09-02T11:04:59.947Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T04:14:15.158Z",
-    "count": 60
+    "generatedAt": "2026-09-08T11:05:16.033Z",
+    "count": 59
   }
 }

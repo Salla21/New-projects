@@ -486,54 +486,6 @@
       "status": "published"
     },
     {
-      "id": "9cf30e061c49abb3",
-      "title": "15 Gambians named on updated US deportation list of West Africans",
-      "summary": "By Omar Bah The United States government has published an updated deportation list naming 427 people from West Africa, including 15 Gambians, with full names, photographs and criminal charges attached. The list, released by US immigration authorities, targets individuals with ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/15-gambians-named-on-updated-us-deportation-list-of-west-africans/",
-      "publishedAt": "2026-09-02T10:33:00.000Z",
-      "collectedAt": "2026-09-02T11:04:54.697Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d16187764ee38249",
-      "title": "Senegal, IMF Agree on $2.2 Billion Loan Programme",
-      "summary": "Published by: The Fatu Network The International Monetary Fund (IMF) and Senegal have reached an agreement on a new three-year, $2.2 billion loan programme aimed at supporting economic reforms and restoring the country’s debt sustainability. The deal comes after the IMF froze ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/senegal-imf-agree-on-2-2-billion-loan-programme/",
-      "publishedAt": "2026-09-02T10:32:38.000Z",
-      "collectedAt": "2026-09-02T11:04:59.947Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "49c0b34b909894a7",
       "title": "Officer Malick Signs Deal with Comium as New Brand Ambassador",
       "summary": "One of the country’s fastest-rising comedians, Officer Malick, has signed a contract with mobile telecommunications company…\nThe post Officer Malick Signs Deal with Comium as New Brand Ambassador appeared first on What's On Gambia.",
@@ -542,7 +494,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/officer-malick-signs-deal-with-comium-as-new-brand-ambassador/",
       "publishedAt": "2026-09-02T04:09:25.000Z",
-      "collectedAt": "2026-09-08T04:14:09.983Z",
+      "collectedAt": "2026-09-08T11:05:09.985Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -563,7 +515,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/keke-drivers-accused-of-drinking-alcohol-before-work-on-sundays/",
       "publishedAt": "2026-09-02T04:07:33.000Z",
-      "collectedAt": "2026-09-08T04:14:09.983Z",
+      "collectedAt": "2026-09-08T11:05:09.985Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -584,7 +536,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-my-family-stop-us-young-woman-fears-parents-may-block-her-marriage-to-nyamalo-boyfriend/",
       "publishedAt": "2026-09-02T04:05:30.000Z",
-      "collectedAt": "2026-09-08T04:14:09.983Z",
+      "collectedAt": "2026-09-08T11:05:09.985Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -605,7 +557,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/senegalese-soldier-allegedly-tells-fonianka-husband-never-stop-your-wife-from-seeing-me/",
       "publishedAt": "2026-09-02T04:01:40.000Z",
-      "collectedAt": "2026-09-08T04:14:09.983Z",
+      "collectedAt": "2026-09-08T11:05:09.985Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -619,7 +571,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T04:14:15.158Z",
-    "count": 27
+    "generatedAt": "2026-09-08T11:05:16.033Z",
+    "count": 25
   }
 }
