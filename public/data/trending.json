@@ -431,35 +431,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e4783239c4bf9092",
-      "title": "Darboe Says UDP’s ‘Quest for a Better Gambia Is Still On’ at 30th Anniversary Awards",
-      "summary": "By Seedy Jobe The United Democratic Party on Monday held an awards ceremony at its bureau in Manjai as part of its 30th anniversary celebrations, honoring longtime members, diaspora supporters and others who have contributed to the party over the past three decades. The ceremo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-udps-quest-for-a-better-gambia-is-still-on-at-30th-anniversary-awards/",
-      "publishedAt": "2026-09-08T01:44:18.000Z",
-      "collectedAt": "2026-09-08T04:14:11.122Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-09T00:00:24.268Z",
-    "count": 20
+    "generatedAt": "2026-09-09T04:32:00.740Z",
+    "count": 19
   }
 }

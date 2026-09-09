@@ -775,101 +775,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f9d5811c0ec2cc94",
-      "title": "CDS Gomez calls for stronger Gambia-Senegal security ties",
-      "summary": "By Amadou Jadama on tour The Chief of Defence Staff Major General Ousman Gomez, has called for deeper peace and security cooperation between The Gambia and Senegal, saying the two sister nations share more than just borders. Speaking during an interface with security officers ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/cds-gomez-calls-for-stronger-gambia-senegal-security-ties/",
-      "publishedAt": "2026-09-03T10:07:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5d589d5ec88045e8",
-      "title": "Forum convenes stakeholders for peaceful Gambian election",
-      "summary": "By Olimatou Coker The Voices for Peace Forum, yesterday convened key stakeholders to a meeting to analyse concerns about democracy and upcoming elections in The Gambia. The three-day forum is being held under the European Union-funded Electoral Violence Monitoring, Analysis an...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/forum-convenes-stakeholders-for-peaceful-gambian-election/",
-      "publishedAt": "2026-09-03T10:06:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b18a11a07fde9dec",
-      "title": "Bensouda says NPP’s dominance in URR is exaggerated",
-      "summary": "By Tabora Bojang As the political fever boils towards the presidential election in December, Unite party leader and KM Mayor Talib Bensounda is hopeful of ending the ruling NPP’s dominance in the Upper River Region. Speaking to The Standard about a recent tour of the region wh...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/bensouda-says-npps-dominance-in-urr-is-exaggerated/",
-      "publishedAt": "2026-09-03T10:05:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "29f7b1cfec38233f",
-      "title": "Student revolving loan scheme opens September 15",
-      "summary": "By Aminata Kuyateh The Students Revolving Loan Scheme (SRLS), under the Ministry of Higher Education Research Science and Technology, will start receiving applications on September 15, with eligible students given until September 30 to apply for interest-free tuition financing...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/student-revolving-loan-scheme-opens-september-15/",
-      "publishedAt": "2026-09-03T10:04:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-09T00:00:24.268Z",
-    "count": 38
+    "generatedAt": "2026-09-09T04:32:00.740Z",
+    "count": 34
   }
 }
