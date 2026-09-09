@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "21c9e03242000a48",
+      "title": "Dr. Ceesay Targets The Press, Comparing Protest Reporting To Incitement",
+      "summary": "There is an old and dangerous temptation in government: when the message becomes uncomfortable, turn on the messenger. Dr. Ismaila Ceesay’s remarks on GRTS about journalists covering protests over The Gambia’s electricity crisis raise precisely that concern. Rather than treati...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-targets-the-press-comparing-protest-reporting-to-incitement/",
+      "publishedAt": "2026-09-09T20:00:58.000Z",
+      "collectedAt": "2026-09-09T20:49:49.215Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e9b668d54226c6f8",
       "title": "APP-Sobeyaa Confirms Talks With Ruling NPP Over Possible 2026 Alliance",
       "summary": "By Staff Writer APP-Sobeyaa has confirmed that it is holding talks with the ruling National People’s Party over a possible political alliance ahead of The Gambia’s 2026 presidential election, validating reports published last week by Kerr Fatou and other news outlets. The repo...",
@@ -2270,33 +2293,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a0fb4b3b2dc9f1d2",
-      "title": "Banjul North NAM Says Women Hold the Key to Africa’s Food Future",
-      "summary": "Written by: Dawda Baldeh African governments must place women at the centre of food systems if the continent is to achieve sustainable food security, create jobs and drive economic growth, National Assembly Member for Banjul North, Modou Lamin B. Bah, has said. Speaking during...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/banjul-north-nam-says-women-hold-the-key-to-africas-food-future/",
-      "publishedAt": "2026-09-03T11:12:48.000Z",
-      "collectedAt": "2026-09-03T16:16:06.511Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-09T16:25:42.432Z",
+    "generatedAt": "2026-09-09T20:49:53.283Z",
     "count": 100
   }
 }
