@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "b3e4f92f23387ad2",
+      "title": "President Barrow Promises Relief by October as Protests Over Power Crisis Mount",
+      "summary": "By Dawda Baldeh President Adama Barrow has addressed the nation following widespread public protests over severe power cuts across the Greater Banjul Area, promising that The Gambia’s electricity supply will improve by the end of October 2026. Addressing citizens in a national...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-promises-relief-by-october-as-protests-over-power-crisis-mount/",
+      "publishedAt": "2026-09-08T21:30:42.000Z",
+      "collectedAt": "2026-09-09T00:00:18.667Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d4696d0587e4bed3",
+      "title": "Madi Jobarteh Criticizes Barrow’s Response to Electricity Crisis",
+      "summary": "By Makutu Manneh Madi Jobarteh, a human rights activist, has criticized President Adama Barrow’s response to The Gambia’s electricity crisis, saying the president’s remarks during visits to NAWEC power stations in Kotu and Brikama offered no clear plan for addressing persisten...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/madi-jobarteh-criticizes-barrows-response-to-electricity-crisis/",
+      "publishedAt": "2026-09-08T21:19:19.000Z",
+      "collectedAt": "2026-09-09T00:00:20.202Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b6f8f51962afa782",
+      "title": "Analyst Juwara Criticizes Police Response to Nighttime Protests Over Power Outages",
+      "summary": "By Makutu Manneh Lamin Juwara, a political analyst, has criticized the Police Intervention Unit’s response to protests over prolonged power outages on Monday night, saying officers should have sought to engage demonstrators before resorting to force. Speaking on Kerr Fatou’s P...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/analyst-juwara-criticizes-police-response-to-nighttime-protests-over-power-outages/",
+      "publishedAt": "2026-09-08T21:13:04.000Z",
+      "collectedAt": "2026-09-09T00:00:20.202Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9c90d78e076222ac",
+      "title": "Dr. Gajigo Accuses Barrow Administration of Failing to Address Electricity Crisis",
+      "summary": "By Makutu Manneh Dr. Ousman Gajigo, an economist and politician, has criticized President Adama Barrow’s administration for failing to resolve The Gambia’s persistent electricity problems, arguing that the government had both the time and resources to expand domestic power gen...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-accuses-barrow-administration-of-failing-to-address-electricity-crisis/",
+      "publishedAt": "2026-09-08T21:06:33.000Z",
+      "collectedAt": "2026-09-09T00:00:20.202Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "85210416c34c84b6",
       "title": "Barrow Acknowledges Power-Sector Shortcomings, Promises Improved Electricity Supply by End of October",
       "summary": "By Staff Writer President Adama Barrow on Tuesday acknowledged shortcomings in his government’s planning and electricity generation and maintenance systems as he addressed mounting public frustration over widespread power outages, promising that the country’s electricity suppl...",
@@ -393,7 +483,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T21:01:27.059Z",
-    "count": 17
+    "generatedAt": "2026-09-09T00:00:24.268Z",
+    "count": 21
   }
 }

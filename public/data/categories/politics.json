@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "b3e4f92f23387ad2",
+      "title": "President Barrow Promises Relief by October as Protests Over Power Crisis Mount",
+      "summary": "By Dawda Baldeh President Adama Barrow has addressed the nation following widespread public protests over severe power cuts across the Greater Banjul Area, promising that The Gambia’s electricity supply will improve by the end of October 2026. Addressing citizens in a national...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-promises-relief-by-october-as-protests-over-power-crisis-mount/",
+      "publishedAt": "2026-09-08T21:30:42.000Z",
+      "collectedAt": "2026-09-09T00:00:18.667Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d4696d0587e4bed3",
+      "title": "Madi Jobarteh Criticizes Barrow’s Response to Electricity Crisis",
+      "summary": "By Makutu Manneh Madi Jobarteh, a human rights activist, has criticized President Adama Barrow’s response to The Gambia’s electricity crisis, saying the president’s remarks during visits to NAWEC power stations in Kotu and Brikama offered no clear plan for addressing persisten...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/madi-jobarteh-criticizes-barrows-response-to-electricity-crisis/",
+      "publishedAt": "2026-09-08T21:19:19.000Z",
+      "collectedAt": "2026-09-09T00:00:20.202Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9c90d78e076222ac",
+      "title": "Dr. Gajigo Accuses Barrow Administration of Failing to Address Electricity Crisis",
+      "summary": "By Makutu Manneh Dr. Ousman Gajigo, an economist and politician, has criticized President Adama Barrow’s administration for failing to resolve The Gambia’s persistent electricity problems, arguing that the government had both the time and resources to expand domestic power gen...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-accuses-barrow-administration-of-failing-to-address-electricity-crisis/",
+      "publishedAt": "2026-09-08T21:06:33.000Z",
+      "collectedAt": "2026-09-09T00:00:20.202Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "85210416c34c84b6",
       "title": "Barrow Acknowledges Power-Sector Shortcomings, Promises Improved Electricity Supply by End of October",
       "summary": "By Staff Writer President Adama Barrow on Tuesday acknowledged shortcomings in his government’s planning and electricity generation and maintenance systems as he addressed mounting public frustration over widespread power outages, promising that the country’s electricity suppl...",
@@ -1359,173 +1428,6 @@
       "status": "published"
     },
     {
-      "id": "129672e61fdffc72",
-      "title": "MOHERST moves to strengthen science, technology and innovation",
-      "summary": "By Aminata Kuyateh The Ministry of Higher Education, Research, Science and Technology on Monday held a national validation workshop on the draft National Science, Technology and Innovation Policy [NSTIP] 2027–2035 and the STI Bill 2026, as The Gambia seeks to build a stronger ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/moherst-moves-to-strengthen-science-technology-and-innovation/",
-      "publishedAt": "2026-09-03T10:02:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "39c12e80f707e00b",
-      "title": "Darboe Promises Better Support for Teachers, Nurses, and Security Personnel",
-      "summary": "By Fatou Sillah Ousainou Darboe, the leader and presidential candidate of the United Democratic Party, has pledged to improve working conditions and expand financial support for teachers, nurses, and security personnel if elected president in December. Speaking during a courte...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-promises-better-support-for-teachers-nurses-and-security-personnel/",
-      "publishedAt": "2026-09-02T22:31:29.000Z",
-      "collectedAt": "2026-09-02T23:59:30.518Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2a0c9bbaf343b417",
-      "title": "‘Are We Truly Being Represented?’ Upper Fulladu Youth Leader Demands Accountability",
-      "summary": "Written by: Dawda Baldeh Ebrima K. Baldeh, a resident of Sare Soffie, has called for greater accountability and better political representation in Upper Fulladu West, urging voters, particularly young people, to reject empty promises and demand results from their elected repre...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/are-we-truly-being-represented-upper-fulladu-youth-leader-demands-accountability/",
-      "publishedAt": "2026-09-02T21:57:06.000Z",
-      "collectedAt": "2026-09-02T23:59:29.211Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3a34f453ec30c739",
-      "title": "Information Minister Dismisses Darboe’s Proposal to Cut President’s Salary, Says UDP Is ‘Not Ready for Government’",
-      "summary": "By Fatou Sillah The Minister of Information, Media, and Broadcasting Services, Dr. Ismaila Ceesay, has dismissed proposals to reduce the president’s salary as an inadequate response to The Gambia’s economic challenges, arguing that meaningful fiscal reform would require a broa...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/information-minister-dismisses-darboes-proposal-to-cut-presidents-salary-says-udp-is-not-ready-for-government/",
-      "publishedAt": "2026-09-02T19:25:22.000Z",
-      "collectedAt": "2026-09-02T20:54:56.622Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f39ca0fa1395627a",
-      "title": "Minister Bah Says 62% of Court Cases Are Land-Related, Announces Digital Records and Titling Push",
-      "summary": "By Makutu Manneh Land disputes account for nearly two-thirds of all court cases in The Gambia, according to Lands Minister Hamat N.K. Bah, who said the government is introducing a new land policy and digital registration system aimed at curbing conflicts over ownership and eas...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/minister-bah-says-62-of-court-cases-are-land-related-announces-digital-records-and-titling-push/",
-      "publishedAt": "2026-09-02T18:47:27.000Z",
-      "collectedAt": "2026-09-02T20:54:56.622Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3678fc882065b3f0",
-      "title": "Revisiting The Senegambia Bridge Asset Recycling Disaster",
-      "summary": "Opinion By Dr. Ousman Gajigo Two years ago, Adama Barrow’s government signed the so-called Senegambia Asset Recycling deal with Africa50. It was presented as an opportunity when, in reality, it was a massive financial and strategic loss to the country. Let me refresh the memor...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/revisiting-the-senegambia-bridge-asset-recycling-disaster/",
-      "publishedAt": "2026-09-02T17:08:04.000Z",
-      "collectedAt": "2026-09-02T20:54:56.622Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b96320f5e9b48489",
-      "title": "Sanyang in Darkness: NPP Youth Chairman Laments Frequent Power Cuts Amid 4.5km Road Inauguration",
-      "summary": "Written by Mama A. Touray As residents of Sanyang in the Kombo South constituency gathered for the inauguration of a newly constructed 4.5-kilometre seaside road, the community was without electricity for several hours. The road project was welcomed by residents, who believe i...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/sanyang-in-darkness-npp-youth-chairman-laments-frequent-power-cuts-amid-4-5km-road-inauguration/",
-      "publishedAt": "2026-09-02T16:42:24.000Z",
-      "collectedAt": "2026-09-02T20:54:55.585Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1534,7 +1436,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-08T21:01:21.178Z",
+      "collectedAt": "2026-09-09T00:00:18.179Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1557,7 +1459,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-08T21:01:21.178Z",
+      "collectedAt": "2026-09-09T00:00:18.179Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1580,7 +1482,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-08T21:01:21.178Z",
+      "collectedAt": "2026-09-09T00:00:18.179Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1597,7 +1499,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T21:01:27.059Z",
-    "count": 68
+    "generatedAt": "2026-09-09T00:00:24.268Z",
+    "count": 64
   }
 }

@@ -216,31 +216,6 @@
       "status": "published"
     },
     {
-      "id": "39c12e80f707e00b",
-      "title": "Darboe Promises Better Support for Teachers, Nurses, and Security Personnel",
-      "summary": "By Fatou Sillah Ousainou Darboe, the leader and presidential candidate of the United Democratic Party, has pledged to improve working conditions and expand financial support for teachers, nurses, and security personnel if elected president in December. Speaking during a courte...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-promises-better-support-for-teachers-nurses-and-security-personnel/",
-      "publishedAt": "2026-09-02T22:31:29.000Z",
-      "collectedAt": "2026-09-02T23:59:30.518Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -249,7 +224,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-08T21:01:21.178Z",
+      "collectedAt": "2026-09-09T00:00:18.179Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -266,7 +241,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T21:01:27.059Z",
-    "count": 11
+    "generatedAt": "2026-09-09T00:00:24.268Z",
+    "count": 10
   }
 }

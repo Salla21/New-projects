@@ -866,76 +866,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "1c798c27c7f6021d",
-      "title": "Businessman tells court his stepfather collapsed upon learning hajj trip failed",
-      "summary": "By Arret Jatta A businessman has told the Banjul Magistrates’ Court that his stepfather collapsed after learning that his planned Hajj trip had failed. Mohammed Drammeh, the first prosecution witness in the alleged fraud trial involving Kanimang Bajo and Ejabah Travel and Tour...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/businessman-tells-court-his-stepfather-collapsed-upon-learning-hajj-trip-failed/",
-      "publishedAt": "2026-09-03T10:03:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "129672e61fdffc72",
-      "title": "MOHERST moves to strengthen science, technology and innovation",
-      "summary": "By Aminata Kuyateh The Ministry of Higher Education, Research, Science and Technology on Monday held a national validation workshop on the draft National Science, Technology and Innovation Policy [NSTIP] 2027–2035 and the STI Bill 2026, as The Gambia seeks to build a stronger ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/moherst-moves-to-strengthen-science-technology-and-innovation/",
-      "publishedAt": "2026-09-03T10:02:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7b3335d6fcb185b9",
-      "title": "NCCE concludes 2-day training on lobbying and advocacy in CRR North",
-      "summary": "By Olimatou Coker The National Council for Civic Education [NCCE] has concluded a 2-day capacity-building training on lobbying and advocacy in Central River Region North. The training was organised in collaboration with the Association of Non-Governmental Organisations [TANGO]...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/ncce-concludes-2-day-training-on-lobbying-and-advocacy-in-crr-north/",
-      "publishedAt": "2026-09-03T10:01:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "central-river",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T21:01:27.059Z",
-    "count": 41
+    "generatedAt": "2026-09-09T00:00:24.268Z",
+    "count": 38
   }
 }
