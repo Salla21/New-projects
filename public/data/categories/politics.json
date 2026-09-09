@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e9b668d54226c6f8",
+      "title": "APP-Sobeyaa Confirms Talks With Ruling NPP Over Possible 2026 Alliance",
+      "summary": "By Staff Writer APP-Sobeyaa has confirmed that it is holding talks with the ruling National People’s Party over a possible political alliance ahead of The Gambia’s 2026 presidential election, validating reports published last week by Kerr Fatou and other news outlets. The repo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/app-sobeyaa-confirms-talks-with-ruling-npp-over-possible-2026-alliance/",
+      "publishedAt": "2026-09-09T15:36:13.000Z",
+      "collectedAt": "2026-09-09T16:25:38.381Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b3e4f92f23387ad2",
       "title": "President Barrow Promises Relief by October as Protests Over Power Crisis Mount",
       "summary": "By Dawda Baldeh President Adama Barrow has addressed the nation following widespread public protests over severe power cuts across the Greater Banjul Area, promising that The Gambia’s electricity supply will improve by the end of October 2026. Addressing citizens in a national...",
@@ -1335,52 +1359,6 @@
       "status": "published"
     },
     {
-      "id": "79c8e98a2d53f1c5",
-      "title": "Barrow assures adequate power supply as country grapples with black out",
-      "summary": "By Arret Jatta President Adama Barrow has once again assured that the country will one day attain his objective of generating adequate electricity supply, and even supply other countries. Speaking at a road inauguration in Sanyang on Monday, the president used the occasion to ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/barrow-assures-adequate-power-supply-as-country-grapples-with-black-out/",
-      "publishedAt": "2026-09-03T10:09:47.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "396a6643113ce812",
-      "title": "Revising courts start hearing voter registration objections",
-      "summary": "By Arret Jatta The Independent Electoral Commission (IEC) has announced that revising courts have begun hearing objections arising from the 2026 supplementary voter registration exercise. In a statement yesterday, the IEC said magistrates have been appointed by the Chief Justi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/revising-courts-start-hearing-voter-registration-objections/",
-      "publishedAt": "2026-09-03T10:08:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1389,7 +1367,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-09T11:07:59.664Z",
+      "collectedAt": "2026-09-09T16:25:22.265Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1412,7 +1390,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-09T11:07:59.664Z",
+      "collectedAt": "2026-09-09T16:25:22.265Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1435,7 +1413,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-09T11:07:59.664Z",
+      "collectedAt": "2026-09-09T16:25:22.265Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1452,7 +1430,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-09T11:08:18.512Z",
-    "count": 62
+    "generatedAt": "2026-09-09T16:25:42.432Z",
+    "count": 61
   }
 }

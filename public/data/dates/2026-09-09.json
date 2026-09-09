@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e9b668d54226c6f8",
+      "title": "APP-Sobeyaa Confirms Talks With Ruling NPP Over Possible 2026 Alliance",
+      "summary": "By Staff Writer APP-Sobeyaa has confirmed that it is holding talks with the ruling National People’s Party over a possible political alliance ahead of The Gambia’s 2026 presidential election, validating reports published last week by Kerr Fatou and other news outlets. The repo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/app-sobeyaa-confirms-talks-with-ruling-npp-over-possible-2026-alliance/",
+      "publishedAt": "2026-09-09T15:36:13.000Z",
+      "collectedAt": "2026-09-09T16:25:38.381Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -67,7 +91,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-09T11:08:18.512Z",
-    "count": 3
+    "generatedAt": "2026-09-09T16:25:42.432Z",
+    "count": 4
   }
 }

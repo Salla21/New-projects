@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e9b668d54226c6f8",
+      "title": "APP-Sobeyaa Confirms Talks With Ruling NPP Over Possible 2026 Alliance",
+      "summary": "By Staff Writer APP-Sobeyaa has confirmed that it is holding talks with the ruling National People’s Party over a possible political alliance ahead of The Gambia’s 2026 presidential election, validating reports published last week by Kerr Fatou and other news outlets. The repo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/app-sobeyaa-confirms-talks-with-ruling-npp-over-possible-2026-alliance/",
+      "publishedAt": "2026-09-09T15:36:13.000Z",
+      "collectedAt": "2026-09-09T16:25:38.381Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d4696d0587e4bed3",
       "title": "Madi Jobarteh Criticizes Barrow’s Response to Electricity Crisis",
       "summary": "By Makutu Manneh Madi Jobarteh, a human rights activist, has criticized President Adama Barrow’s response to The Gambia’s electricity crisis, saying the president’s remarks during visits to NAWEC power stations in Kotu and Brikama offered no clear plan for addressing persisten...",
@@ -1251,7 +1275,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-09T11:08:18.512Z",
-    "count": 54
+    "generatedAt": "2026-09-09T16:25:42.432Z",
+    "count": 55
   }
 }

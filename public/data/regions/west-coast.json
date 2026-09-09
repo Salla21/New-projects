@@ -389,56 +389,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "648834f7edb6166a",
-      "title": "LG COMMISSION REPORT, WHITE PAPER IMMINENT",
-      "summary": "By Lamin Cham A highly placed government source has told The Standard that government is about to publish the report of the Local Government Commission of Enquiry, and its White Paper on it. Government has initially targeted last month, August, for the publication of the docum...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/lg-commission-report-white-paper-imminent/",
-      "publishedAt": "2026-09-03T10:10:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "79c8e98a2d53f1c5",
-      "title": "Barrow assures adequate power supply as country grapples with black out",
-      "summary": "By Arret Jatta President Adama Barrow has once again assured that the country will one day attain his objective of generating adequate electricity supply, and even supply other countries. Speaking at a road inauguration in Sanyang on Monday, the president used the occasion to ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/barrow-assures-adequate-power-supply-as-country-grapples-with-black-out/",
-      "publishedAt": "2026-09-03T10:09:47.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-09T11:08:18.512Z",
-    "count": 19
+    "generatedAt": "2026-09-09T16:25:42.432Z",
+    "count": 17
   }
 }

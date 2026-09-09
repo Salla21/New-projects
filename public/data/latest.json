@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e9b668d54226c6f8",
+      "title": "APP-Sobeyaa Confirms Talks With Ruling NPP Over Possible 2026 Alliance",
+      "summary": "By Staff Writer APP-Sobeyaa has confirmed that it is holding talks with the ruling National People’s Party over a possible political alliance ahead of The Gambia’s 2026 presidential election, validating reports published last week by Kerr Fatou and other news outlets. The repo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/app-sobeyaa-confirms-talks-with-ruling-npp-over-possible-2026-alliance/",
+      "publishedAt": "2026-09-09T15:36:13.000Z",
+      "collectedAt": "2026-09-09T16:25:38.381Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -2269,31 +2293,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a76623493fcb52b5",
-      "title": "Meet Mariame Cisse: Helping Mothers Find Themselves Again and Make Space for Their Dreams",
-      "summary": "Mariame Cisse is a Gambian woman born in France, brought up in The Gambia, and now based in the United Kingdom. She is a mother of six, an Emotional Leadership Coach, NLP Master Practitioner, storyteller, and founder of M Power Moms, meaning “Mothers on a Mission.” She also co...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/meet-mariame-cisse-helping-mothers-find-themselves-again-and-make-space-for-their-dreams/",
-      "publishedAt": "2026-09-03T11:00:49.000Z",
-      "collectedAt": "2026-09-03T11:02:15.847Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-09T11:08:18.512Z",
+    "generatedAt": "2026-09-09T16:25:42.432Z",
     "count": 100
   }
 }
