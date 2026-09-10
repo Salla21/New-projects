@@ -1,6 +1,145 @@
 {
   "items": [
     {
+      "id": "019f4f9be5961fed",
+      "title": "Gambia Moves Toward Ending Death Penalty, Justice Minister Says",
+      "summary": "By Fatou Sillah Attorney General and Minister of Justice Dawda A. Jallow has said the Gambia government is taking steps to abolish the death penalty, pointing to recent legislative reforms and a moratorium on executions that has been in place since 2017. Speaking during a ques...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-moves-toward-ending-death-penalty-justice-minister-says/",
+      "publishedAt": "2026-09-10T17:06:54.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ce31b3b19b85a141",
+      "title": "Bensouda: Gambia’s Democracy Depends on Institutions, Not Individuals",
+      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the mayor of Kanifing Municipal Council and leader of the opposition UNITE party, has called for sweeping legal reforms to insulate The Gambia’s key accountability institutions from political interference, arguing that durable democratic sys...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-gambias-democracy-depends-on-institutions-not-individuals/",
+      "publishedAt": "2026-09-10T16:45:01.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "027ab81401a2f500",
+      "title": "Team Gambia 2026 Organizers Call for National Conference to Establish New Coalition",
+      "summary": "By Makutu Manneh The coordinators of Team Gambia 2026 have called for a national conference on Saturday, Sept. 12, to formally establish the initiative as a political coalition ahead of The Gambia’s 2026 presidential election. Halifa Sallah and Sidia Jatta, the coordinators of...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/team-gambia-2026-organizers-call-for-national-conference-to-establish-new-coalition/",
+      "publishedAt": "2026-09-10T16:14:45.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8d1e0ff980a81273",
+      "title": "IEC Outlines Nomination Requirements for Gambia’s December Presidential Election",
+      "summary": "By Makutu Manneh The Independent Electoral Commission moved this week to spell out the legal requirements for candidates seeking to contest Gambia’s presidential election in December, warning that stricter verification measures would be used to weed out irregularities that hav...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-outlines-nomination-requirements-for-gambias-december-presidential-election/",
+      "publishedAt": "2026-09-10T16:01:12.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "08529efeafef5b87",
+      "title": "President Barrow Promotes Top GAF Commanders, Elevates CDS Gomez to Lieutenant General",
+      "summary": "By Makutu Manneh President Adama Barrow has promoted three senior officers of the Gambia Armed Forces, including Chief of Defence Staff Ousman Gomez, who has been elevated to the rank of lieutenant general. The promotions, announced on Aug. 4, also elevate Deputy Chief of Defe...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-promotes-top-gaf-commanders-elevates-cds-gomez-to-lieutenant-general/",
+      "publishedAt": "2026-09-10T15:45:41.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "879a9dc865070663",
+      "title": "IEC Sets Nov. 3-14 for Presidential Nominations, Forms Available Sept. 21",
+      "summary": "By Makutu Manneh The Independent Electoral Commission has set Nov. 3 through Nov. 14 for the nomination of candidates seeking to contest The Gambia’s Dec. 5, 2026, presidential election. Joseph Colley, chairman of the IEC, announced the dates Tuesday during the commission’s mo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-sets-nov-3-14-for-presidential-nominations-forms-available-sept-21/",
+      "publishedAt": "2026-09-10T13:15:32.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "330a9ad94976f932",
       "title": "Darkness on the street, danger at the polls: How the electricity crisis could cost Barrow the December election",
       "summary": "By Dr Malang Faye Last night, the darkness did what no opposition party has managed to do in years. It brought ordinary Gambians onto the streets (middle of the night), in their own numbers, under no party’s flag, chanting that President Barrow must go. There were no UDP buses...",
@@ -1356,100 +1495,6 @@
       "status": "published"
     },
     {
-      "id": "3e296a7c1f4368c5",
-      "title": "IMF agrees $2.2 billion three-year loan package for Senegal",
-      "summary": "Senegal reached a staff-level agreement with the International Monetary Fund for a US$2.2 billion, three-year lending programme as the government seeks to restore debt sustainability after uncovering more than US$11 billion of previously misreported borrowing. The agreement st...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/imf-agrees-2-2-billion-three-year-loan-package-for-senegal/",
-      "publishedAt": "2026-09-04T09:58:30.000Z",
-      "collectedAt": "2026-09-04T11:09:46.762Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "97cd75f80c414bd7",
-      "title": "Birame Diop takes over from Dr Touray as head of Ecowas Commission",
-      "summary": "Former Senegalese Minister of the Armed Forces, Lieutenant General Birame Diop was officially installed as President of the Ecowas Commission this Monday in Abuja. Succeeding Gambian Omar Alieu Touray, the new head of the regional executive inherits major strategic issues, ran...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/birame-diop-takes-over-from-dr-touray-as-head-of-ecowas-commission/",
-      "publishedAt": "2026-09-04T09:58:26.000Z",
-      "collectedAt": "2026-09-04T11:09:46.762Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "23d997992b9cfad9",
-      "title": "President Faye gives ultimatum to 4 ministers",
-      "summary": "Since the complete break between Bassirou Diomaye Faye and Ousmane Sonko — materialised by the latter’s dismissal from the prime minister’s office at the end of May 2026 and his replacement by economist Ahmadou Al Aminou Lô — every gesture, every absence, every statement by fi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/president-faye-gives-ultimatum-to-4-ministers/",
-      "publishedAt": "2026-09-04T09:58:24.000Z",
-      "collectedAt": "2026-09-04T11:09:46.762Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1a31794450f9feab",
-      "title": "CEESAY VOWS TO STEP UPFOOTBALL DEV’T",
-      "summary": "As he takes over GFF The newly-elected president of the Gambia Football Federation (GFF), Kemo Ceesay, formally assumed duties yesterday at a colourful handing over ceremony at Football House. Witnessed by his executive committee, President Ceesay took over the reins from Lami...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/ceesay-vows-to-step-upfootball-devt/",
-      "publishedAt": "2026-09-04T09:57:21.000Z",
-      "collectedAt": "2026-09-04T11:09:46.762Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1458,7 +1503,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-10T12:52:00.804Z",
+      "collectedAt": "2026-09-10T17:37:40.415Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1481,7 +1526,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-10T12:52:00.804Z",
+      "collectedAt": "2026-09-10T17:37:40.415Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1504,7 +1549,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-10T12:52:00.804Z",
+      "collectedAt": "2026-09-10T17:37:40.415Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1521,7 +1566,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T12:52:07.939Z",
-    "count": 65
+    "generatedAt": "2026-09-10T17:37:45.990Z",
+    "count": 67
   }
 }

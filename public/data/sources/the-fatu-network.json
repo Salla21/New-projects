@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "fb75dac6304d17ac",
+      "title": "GIABA Warns Religious Institutions: “Transparency Protects Trust”",
+      "summary": "Written by: Dawda Baldeh The Intergovernmental Action Group Against Money Laundering in West Africa (GIABA) has called on religious leaders and institutions in The Gambia to strengthen financial transparency and accountability to prevent their organisations from being exploite...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/giaba-warns-religious-institutions-transparency-protects-trust/",
+      "publishedAt": "2026-09-10T13:55:08.000Z",
+      "collectedAt": "2026-09-10T17:37:40.633Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "beb5091142016d32",
       "title": "GAP Urges Calm as NAWEC Protests Escalate: “Let the Ballot Box Speak”",
       "summary": "Written by: Dawda Baldeh The Gambia Action Party (GAP) has called for calm and restraint as protests over the country’s electricity crisis continue, warning demonstrators against destroying public and private property. In a statement, GAP Secretary General and Party Leader Ser...",
@@ -242,33 +263,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fe89e39f3cbd5eb8",
-      "title": "Health Ministry Launches Investigation Into Activist Ebrima Gassama’s Death at Brikama Hospital",
-      "summary": "Written by: Seringe S.T. Touray The Ministry of Health has launched an investigation into the death of activist Ebrima Gassama at Brikama District Hospital following allegations of inadequate medical response and power supply problems at the facility. Gassama, an activist asso...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/health-ministry-launches-investigation-into-activist-ebrima-gassamas-death-at-brikama-hospital/",
-      "publishedAt": "2026-09-04T13:06:46.000Z",
-      "collectedAt": "2026-09-04T16:11:15.722Z",
-      "region": "west-coast",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T12:52:07.939Z",
+    "generatedAt": "2026-09-10T17:37:45.990Z",
     "count": 12
   }
 }

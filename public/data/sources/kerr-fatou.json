@@ -1,6 +1,145 @@
 {
   "items": [
     {
+      "id": "019f4f9be5961fed",
+      "title": "Gambia Moves Toward Ending Death Penalty, Justice Minister Says",
+      "summary": "By Fatou Sillah Attorney General and Minister of Justice Dawda A. Jallow has said the Gambia government is taking steps to abolish the death penalty, pointing to recent legislative reforms and a moratorium on executions that has been in place since 2017. Speaking during a ques...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-moves-toward-ending-death-penalty-justice-minister-says/",
+      "publishedAt": "2026-09-10T17:06:54.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ce31b3b19b85a141",
+      "title": "Bensouda: Gambia’s Democracy Depends on Institutions, Not Individuals",
+      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the mayor of Kanifing Municipal Council and leader of the opposition UNITE party, has called for sweeping legal reforms to insulate The Gambia’s key accountability institutions from political interference, arguing that durable democratic sys...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-gambias-democracy-depends-on-institutions-not-individuals/",
+      "publishedAt": "2026-09-10T16:45:01.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "027ab81401a2f500",
+      "title": "Team Gambia 2026 Organizers Call for National Conference to Establish New Coalition",
+      "summary": "By Makutu Manneh The coordinators of Team Gambia 2026 have called for a national conference on Saturday, Sept. 12, to formally establish the initiative as a political coalition ahead of The Gambia’s 2026 presidential election. Halifa Sallah and Sidia Jatta, the coordinators of...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/team-gambia-2026-organizers-call-for-national-conference-to-establish-new-coalition/",
+      "publishedAt": "2026-09-10T16:14:45.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8d1e0ff980a81273",
+      "title": "IEC Outlines Nomination Requirements for Gambia’s December Presidential Election",
+      "summary": "By Makutu Manneh The Independent Electoral Commission moved this week to spell out the legal requirements for candidates seeking to contest Gambia’s presidential election in December, warning that stricter verification measures would be used to weed out irregularities that hav...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-outlines-nomination-requirements-for-gambias-december-presidential-election/",
+      "publishedAt": "2026-09-10T16:01:12.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "08529efeafef5b87",
+      "title": "President Barrow Promotes Top GAF Commanders, Elevates CDS Gomez to Lieutenant General",
+      "summary": "By Makutu Manneh President Adama Barrow has promoted three senior officers of the Gambia Armed Forces, including Chief of Defence Staff Ousman Gomez, who has been elevated to the rank of lieutenant general. The promotions, announced on Aug. 4, also elevate Deputy Chief of Defe...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-promotes-top-gaf-commanders-elevates-cds-gomez-to-lieutenant-general/",
+      "publishedAt": "2026-09-10T15:45:41.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "879a9dc865070663",
+      "title": "IEC Sets Nov. 3-14 for Presidential Nominations, Forms Available Sept. 21",
+      "summary": "By Makutu Manneh The Independent Electoral Commission has set Nov. 3 through Nov. 14 for the nomination of candidates seeking to contest The Gambia’s Dec. 5, 2026, presidential election. Joseph Colley, chairman of the IEC, announced the dates Tuesday during the commission’s mo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-sets-nov-3-14-for-presidential-nominations-forms-available-sept-21/",
+      "publishedAt": "2026-09-10T13:15:32.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fc402212e245113e",
       "title": "VP Jallow Says ECOMIG Will Remain in Gambia as Long as Its Presence Is Needed",
       "summary": "By Fatou Sillah Vice President Muhammed B.S. Jallow told the National Assembly that ECOMIG forces would remain in The Gambia for as long as their presence was considered necessary, saying there was no fixed date for the withdrawal of the regional security mission. Responding t...",
@@ -1269,58 +1408,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a14bb794c07a1572",
-      "title": "Africell Presents Jerseys to Nawettan Teams, Renews Support for Grassroots Football",
-      "summary": "By Makutu Manneh Africell Gambia on Thursday presented jerseys to Nawettan teams from across the country, renewing the telecommunications company’s longstanding support for grassroots football and youth development. The jerseys were handed over during a ceremony at Africell’s ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/africell-presents-jerseys-to-nawettan-teams-renews-support-for-grassroots-football/",
-      "publishedAt": "2026-09-03T23:51:45.000Z",
-      "collectedAt": "2026-09-03T23:56:32.842Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f7e14ae9f04ab720",
-      "title": "Africell Updates Customers as The Gambia Switches to 9-Digit Mobile Numbers",
-      "summary": "By Makutu Manneh Africell Gambia has announced that the prefix 87 will be added to its customers’ existing phone numbers as The Gambia begins its transition from a seven-digit to a nine-digit national numbering system at midnight on Sept. 4, 2026. The nationwide change, overse...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/africell-updates-customers-as-the-gambia-switches-to-9-digit-mobile-numbers/",
-      "publishedAt": "2026-09-03T23:23:51.000Z",
-      "collectedAt": "2026-09-03T23:56:32.842Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T12:52:07.939Z",
-    "count": 57
+    "generatedAt": "2026-09-10T17:37:45.990Z",
+    "count": 61
   }
 }

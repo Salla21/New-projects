@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "ce31b3b19b85a141",
+      "title": "Bensouda: Gambia’s Democracy Depends on Institutions, Not Individuals",
+      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the mayor of Kanifing Municipal Council and leader of the opposition UNITE party, has called for sweeping legal reforms to insulate The Gambia’s key accountability institutions from political interference, arguing that durable democratic sys...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-gambias-democracy-depends-on-institutions-not-individuals/",
+      "publishedAt": "2026-09-10T16:45:01.000Z",
+      "collectedAt": "2026-09-10T17:37:41.944Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d4696d0587e4bed3",
       "title": "Madi Jobarteh Criticizes Barrow’s Response to Electricity Crisis",
       "summary": "By Makutu Manneh Madi Jobarteh, a human rights activist, has criticized President Adama Barrow’s response to The Gambia’s electricity crisis, saying the president’s remarks during visits to NAWEC power stations in Kotu and Brikama offered no clear plan for addressing persisten...",
@@ -169,7 +192,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-10T12:52:00.804Z",
+      "collectedAt": "2026-09-10T17:37:40.415Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -192,7 +215,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-10T12:52:00.804Z",
+      "collectedAt": "2026-09-10T17:37:40.415Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -216,7 +239,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-10T12:52:00.804Z",
+      "collectedAt": "2026-09-10T17:37:40.415Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -232,7 +255,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T12:52:07.939Z",
-    "count": 10
+    "generatedAt": "2026-09-10T17:37:45.990Z",
+    "count": 11
   }
 }
