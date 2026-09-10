@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "7b362bbe6c839383",
+      "title": "Police Chief Warns Unauthorized Protests Will Face Firm Response",
+      "summary": "By Seedy Jobe The Inspector General of Police, Seedy Muktarr Touray, warned on Thursday that demonstrations held without proper authorization would face a firm response from security forces as authorities move to contain unrest linked to persistent electricity outages. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/police-chief-warns-unauthorized-protests-will-face-firm-response/",
+      "publishedAt": "2026-09-10T23:08:52.000Z",
+      "collectedAt": "2026-09-10T23:56:49.137Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a2d847a841beae23",
+      "title": "IGP Touray Announces Joint Security Operation Amid Electricity Protests",
+      "summary": "By Seedy Jobe The inspector general of police, Seedy Muktarr Touray, on Thursday defended the police response to recent demonstrations over persistent electricity outages and announced a joint security operation aimed at protecting lives, property, and critical national infras...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/igp-touray-announces-joint-security-operation-amid-electricity-protests/",
+      "publishedAt": "2026-09-10T22:58:52.000Z",
+      "collectedAt": "2026-09-10T23:56:49.137Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "300a5d49db05724d",
       "title": "Badibou Central NAM Says Poor Roads Are Disrupting Travel and Business in North Bank",
       "summary": "By Fatou Sillah Sulayman Saho, the National Assembly member for Central Badibou, has called for urgent improvements to roads across the North Bank Region, saying deteriorating conditions are disrupting travel, raising transportation costs, and hurting businesses and communitie...",
@@ -1296,77 +1342,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "8e49ee652acc0e02",
-      "title": "Tallinding South Councillor Says Residents, Private Businesses Are Straining KMC Market Waste Collection",
-      "summary": "By Makutu Manneh Karamo Ceesay, the Tallinding South councillor at the Kanifing Municipal Council, has pushed back against suggestions that persistent waste collection problems at markets are caused by a shortage of garbage trucks, saying the larger problem is that bins intend...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/tallinding-south-councillor-says-residents-private-businesses-are-straining-kmc-market-waste-collection/",
-      "publishedAt": "2026-09-04T22:37:33.000Z",
-      "collectedAt": "2026-09-04T23:53:37.393Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c4f8931b6088982d",
-      "title": "KMC Councillor Says Government Politicization Is Hampering Waste Management",
-      "summary": "By Makutu Manneh Karamo Ceesay, the councillor for Tallinding South at the Kanifing Municipal Council, has accused the central government of politicizing waste management, saying political interference has hindered efforts to address a problem affecting communities across The ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/kmc-councillor-says-government-politicization-is-hampering-waste-management/",
-      "publishedAt": "2026-09-04T22:32:12.000Z",
-      "collectedAt": "2026-09-04T23:53:37.393Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4223faa93fa50289",
-      "title": "BAC Transport Councillor Blames Public Attitudes for Persistent Waste Problems at Markets",
-      "summary": "By Makutu Manneh Sheriffo Bayo Sonko, the transport councillor for the Brikama Area Council, has blamed persistent waste problems at Brikama Market and other public spaces partly on the dumping habits of traders and residents, saying the council continues to struggle with peop...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bac-transport-councillor-blames-public-attitudes-for-persistent-waste-problems-at-markets/",
-      "publishedAt": "2026-09-04T22:27:23.000Z",
-      "collectedAt": "2026-09-04T23:53:37.393Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T20:44:30.235Z",
-    "count": 59
+    "generatedAt": "2026-09-10T23:56:53.180Z",
+    "count": 58
   }
 }

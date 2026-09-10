@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "7b362bbe6c839383",
+      "title": "Police Chief Warns Unauthorized Protests Will Face Firm Response",
+      "summary": "By Seedy Jobe The Inspector General of Police, Seedy Muktarr Touray, warned on Thursday that demonstrations held without proper authorization would face a firm response from security forces as authorities move to contain unrest linked to persistent electricity outages. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/police-chief-warns-unauthorized-protests-will-face-firm-response/",
+      "publishedAt": "2026-09-10T23:08:52.000Z",
+      "collectedAt": "2026-09-10T23:56:49.137Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a2d847a841beae23",
+      "title": "IGP Touray Announces Joint Security Operation Amid Electricity Protests",
+      "summary": "By Seedy Jobe The inspector general of police, Seedy Muktarr Touray, on Thursday defended the police response to recent demonstrations over persistent electricity outages and announced a joint security operation aimed at protecting lives, property, and critical national infras...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/igp-touray-announces-joint-security-operation-amid-electricity-protests/",
+      "publishedAt": "2026-09-10T22:58:52.000Z",
+      "collectedAt": "2026-09-10T23:56:49.137Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "62e317d5a8aa93dc",
       "title": "Smart ways to play online casinos on mobile devices",
       "summary": "Mobile casino gamers are practicing smarter ways to play. Setting time limits and managing bankroll reduces stress for a quality gaming experience. You can explore secure and exciting casino games online. Whether spinning slot reels while waiting for food, placing a few blackj...",
@@ -407,54 +453,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "78ee706ec29a3656",
-      "title": "How US consumers spent an additional $100bn on fuel",
-      "summary": "US consumers have paid an additional $100bn for petrol and diesel in the six months since the US-Israel war on Iran began on February 28, according to a tracker from Brown University’s Watson Institute for International and Public Affairs. Across the country, the added cost wo...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/how-us-consumers-spent-an-additional-100bn-on-fuel/",
-      "publishedAt": "2026-09-10T12:24:24.000Z",
-      "collectedAt": "2026-09-10T12:51:52.315Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "79788a7647912318",
-      "title": "President Barrow misses the point",
-      "summary": "Promises without solutions will not fix the Gambia’s crisis. Gambians have heard it before: another pledge, another deadline, another assurance that relief is just around the corner. When President Adama Barrow stated recently that the electricity crisis would be resolved by t...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/president-barrow-misses-the-point/",
-      "publishedAt": "2026-09-10T12:19:48.000Z",
-      "collectedAt": "2026-09-10T12:51:52.315Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T20:44:30.235Z",
+    "generatedAt": "2026-09-10T23:56:53.180Z",
     "count": 20
   }
 }
