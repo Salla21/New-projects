@@ -232,6 +232,48 @@
       "status": "published"
     },
     {
+      "id": "0221ace8488e44f8",
+      "title": "COURT ORDER, NO RETURN: Police Still Hold €5.6m Bitcoin Tower Security Nearly Three Months After Acquittal",
+      "summary": "Written by: Seringe S.T. Touray Nearly three months after a Banjul court acquitted Austrian Bitcoin Tower developers Manuel Di Stofleth Mitterer and Angelika Mitterer and ordered the return of property and security connected to their criminal case, title deeds lodged by two Ga...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/court-order-no-return-police-still-hold-e5-6m-bitcoin-tower-security-nearly-three-months-after-acquittal/",
+      "publishedAt": "2026-09-09T12:37:57.000Z",
+      "collectedAt": "2026-09-10T12:52:01.471Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ba66303e4d5a3b81",
+      "title": "Study reveals over half of Gambian farmers suffer pesticide poisoning annually",
+      "summary": "By Hadram Hydara Over 50% of farmers and agricultural workers in The Gambia suffer from unintentional acute pesticide poisoning each year, placing the nation third-highest in West Africa, a landmark study has revealed. Published in the journal Frontiers in Public Health and co...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/study-reveals-over-half-of-gambian-farmers-suffer-pesticide-poisoning-annually/",
+      "publishedAt": "2026-09-09T12:10:59.000Z",
+      "collectedAt": "2026-09-10T12:52:01.471Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -298,7 +340,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T07:13:33.297Z",
-    "count": 13
+    "generatedAt": "2026-09-10T12:52:07.939Z",
+    "count": 15
   }
 }

@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "330a9ad94976f932",
+      "title": "Darkness on the street, danger at the polls: How the electricity crisis could cost Barrow the December election",
+      "summary": "By Dr Malang Faye Last night, the darkness did what no opposition party has managed to do in years. It brought ordinary Gambians onto the streets (middle of the night), in their own numbers, under no party’s flag, chanting that President Barrow must go. There were no UDP buses...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/darkness-on-the-street-danger-at-the-polls-how-the-electricity-crisis-could-cost-barrow-the-december-election/",
+      "publishedAt": "2026-09-10T12:34:26.000Z",
+      "collectedAt": "2026-09-10T12:51:52.315Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "79788a7647912318",
+      "title": "President Barrow misses the point",
+      "summary": "Promises without solutions will not fix the Gambia’s crisis. Gambians have heard it before: another pledge, another deadline, another assurance that relief is just around the corner. When President Adama Barrow stated recently that the electricity crisis would be resolved by t...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/president-barrow-misses-the-point/",
+      "publishedAt": "2026-09-10T12:19:48.000Z",
+      "collectedAt": "2026-09-10T12:51:52.315Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "138c5147daa51253",
+      "title": "GOV’T CONSIDERS ABOLISHING DEATH PENALTY",
+      "summary": "By Tabora Bojang The Minister of Justice yesterday informed the National Assembly that the current policy position of The Gambia Government is to abolish the death penalty in the law books. Minister Jallow was responding to a question from the Member for Old Yundum Abdoulie Ce...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/govt-considers-abolishing-death-penalty/",
+      "publishedAt": "2026-09-10T11:16:59.000Z",
+      "collectedAt": "2026-09-10T12:51:52.315Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fc402212e245113e",
       "title": "VP Jallow Says ECOMIG Will Remain in Gambia as Long as Its Presence Is Needed",
       "summary": "By Fatou Sillah Vice President Muhammed B.S. Jallow told the National Assembly that ECOMIG forces would remain in The Gambia for as long as their presence was considered necessary, saying there was no fixed date for the withdrawal of the regional security mission. Responding t...",
@@ -1389,7 +1458,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-10T07:13:23.206Z",
+      "collectedAt": "2026-09-10T12:52:00.804Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1412,7 +1481,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-10T07:13:23.206Z",
+      "collectedAt": "2026-09-10T12:52:00.804Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1435,7 +1504,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-10T07:13:23.206Z",
+      "collectedAt": "2026-09-10T12:52:00.804Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1452,7 +1521,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T07:13:33.297Z",
-    "count": 62
+    "generatedAt": "2026-09-10T12:52:07.939Z",
+    "count": 65
   }
 }

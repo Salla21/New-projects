@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "beb5091142016d32",
+      "title": "GAP Urges Calm as NAWEC Protests Escalate: “Let the Ballot Box Speak”",
+      "summary": "Written by: Dawda Baldeh The Gambia Action Party (GAP) has called for calm and restraint as protests over the country’s electricity crisis continue, warning demonstrators against destroying public and private property. In a statement, GAP Secretary General and Party Leader Ser...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gap-urges-calm-as-nawec-protests-escalate-let-the-ballot-box-speak/",
+      "publishedAt": "2026-09-10T12:43:56.000Z",
+      "collectedAt": "2026-09-10T12:52:01.471Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0221ace8488e44f8",
+      "title": "COURT ORDER, NO RETURN: Police Still Hold €5.6m Bitcoin Tower Security Nearly Three Months After Acquittal",
+      "summary": "Written by: Seringe S.T. Touray Nearly three months after a Banjul court acquitted Austrian Bitcoin Tower developers Manuel Di Stofleth Mitterer and Angelika Mitterer and ordered the return of property and security connected to their criminal case, title deeds lodged by two Ga...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/court-order-no-return-police-still-hold-e5-6m-bitcoin-tower-security-nearly-three-months-after-acquittal/",
+      "publishedAt": "2026-09-09T12:37:57.000Z",
+      "collectedAt": "2026-09-10T12:52:01.471Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ba66303e4d5a3b81",
+      "title": "Study reveals over half of Gambian farmers suffer pesticide poisoning annually",
+      "summary": "By Hadram Hydara Over 50% of farmers and agricultural workers in The Gambia suffer from unintentional acute pesticide poisoning each year, placing the nation third-highest in West Africa, a landmark study has revealed. Published in the journal Frontiers in Public Health and co...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/study-reveals-over-half-of-gambian-farmers-suffer-pesticide-poisoning-annually/",
+      "publishedAt": "2026-09-09T12:10:59.000Z",
+      "collectedAt": "2026-09-10T12:52:01.471Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b3e4f92f23387ad2",
       "title": "President Barrow Promises Relief by October as Protests Over Power Crisis Mount",
       "summary": "By Dawda Baldeh President Adama Barrow has addressed the nation following widespread public protests over severe power cuts across the Greater Banjul Area, promising that The Gambia’s electricity supply will improve by the end of October 2026. Addressing citizens in a national...",
@@ -205,7 +268,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T07:13:33.297Z",
-    "count": 9
+    "generatedAt": "2026-09-10T12:52:07.939Z",
+    "count": 12
   }
 }

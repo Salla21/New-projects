@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "a4edc524eb6a0ccb",
+      "title": "The quicksand of political mandates",
+      "summary": "By Lamino Lang Comma Africa’s political landscape has long been marked by deception and the betrayal of its citizens, with hollow, unfulfilled promises. The rhetoric during the campaign period has been characterised by a competition to rule between the incumbent and the opposi...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/the-quicksand-of-political-mandates/",
+      "publishedAt": "2026-09-10T12:13:05.000Z",
+      "collectedAt": "2026-09-10T12:51:52.315Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b6f8f51962afa782",
       "title": "Analyst Juwara Criticizes Police Response to Nighttime Protests Over Power Outages",
       "summary": "By Makutu Manneh Lamin Juwara, a political analyst, has criticized the Police Intervention Unit’s response to protests over prolonged power outages on Monday night, saying officers should have sought to engage demonstrators before resorting to force. Speaking on Kerr Fatou’s P...",
@@ -346,7 +367,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T07:13:33.297Z",
-    "count": 15
+    "generatedAt": "2026-09-10T12:52:07.939Z",
+    "count": 16
   }
 }
