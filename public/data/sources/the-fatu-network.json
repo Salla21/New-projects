@@ -202,33 +202,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ae6b633c596e72e2",
-      "title": "Barrow: “Gambia Yesterday and Today Are Different”",
-      "summary": "Written by: Mama A. Touray As Gambians continue to face frequent power cuts, with some areas going without electricity for more than 24 hours, President Adama Barrow has defended his government’s development record, saying The Gambia has changed significantly during his ten ye...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/barrow-gambia-yesterday-and-today-are-different/",
-      "publishedAt": "2026-09-03T11:16:52.000Z",
-      "collectedAt": "2026-09-03T16:16:06.511Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T00:01:33.353Z",
-    "count": 10
+    "generatedAt": "2026-09-10T07:13:33.297Z",
+    "count": 9
   }
 }

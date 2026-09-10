@@ -734,53 +734,6 @@
       "status": "published"
     },
     {
-      "id": "99498bca808633a9",
-      "title": "Brikama Area Council Disburses D6 Million in Scholarships to More Than 200 Students",
-      "summary": "By Fatou Sillah The Brikama Area Council on Thursday announced the disbursement of D6 million in scholarship support to more than 200 students attending eight higher education institutions, marking the third consecutive year the council has provided financial assistance to stu...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/brikama-area-council-disburses-d6-million-in-scholarships-to-more-than-200-students/",
-      "publishedAt": "2026-09-03T22:43:49.000Z",
-      "collectedAt": "2026-09-03T23:56:32.842Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "31f137183f394c4c",
-      "title": "Speaker Jatta Says Consumers Must Play a Role in Curbing High Prices",
-      "summary": "By Fatou Sillah The Speaker of the National Assembly, Fabakary Tombong Jatta, said consumers must take greater responsibility for pushing back against high prices, arguing that the government alone cannot determine the cost of goods in The Gambia’s free-market economy. Speakin...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/speaker-jatta-says-consumers-must-play-a-role-in-curbing-high-prices/",
-      "publishedAt": "2026-09-03T18:07:09.000Z",
-      "collectedAt": "2026-09-03T20:53:47.831Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -789,7 +742,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-10T00:01:23.712Z",
+      "collectedAt": "2026-09-10T07:13:23.206Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -813,7 +766,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-10T00:01:23.712Z",
+      "collectedAt": "2026-09-10T07:13:23.206Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -836,7 +789,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-10T00:01:23.712Z",
+      "collectedAt": "2026-09-10T07:13:23.206Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -853,7 +806,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T00:01:33.353Z",
-    "count": 36
+    "generatedAt": "2026-09-10T07:13:33.297Z",
+    "count": 34
   }
 }
