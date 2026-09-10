@@ -242,31 +242,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f8d2acecf64d997c",
-      "title": "Russian Language Course Opens New Doors for Gambian Learners",
-      "summary": "By Dawda Baldeh The inaugural Volga Summer Russian Language Beginner’s Course has successfully concluded in The Gambia, with organisers describing the two-week programme as a major step toward strengthening educational and cultural ties between The Gambia and Russia. Held from...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/russian-language-course-opens-new-doors-for-gambian-learners/",
-      "publishedAt": "2026-09-04T18:04:14.000Z",
-      "collectedAt": "2026-09-04T20:39:49.325Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T17:37:45.990Z",
-    "count": 12
+    "generatedAt": "2026-09-10T20:44:30.235Z",
+    "count": 11
   }
 }

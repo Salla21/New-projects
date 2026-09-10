@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "62e317d5a8aa93dc",
+      "title": "Smart ways to play online casinos on mobile devices",
+      "summary": "Mobile casino gamers are practicing smarter ways to play. Setting time limits and managing bankroll reduces stress for a quality gaming experience. You can explore secure and exciting casino games online. Whether spinning slot reels while waiting for food, placing a few blackj...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/smart-ways-to-play-online-casinos-on-mobile-devices/",
+      "publishedAt": "2026-09-10T20:09:12.000Z",
+      "collectedAt": "2026-09-10T20:44:19.388Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f27f2960ca132935",
       "title": "MEDINA UTD SEEKS TO ELIMINATE VISITORS IN CAF CHAMPIONS LEAGUE SATURDAY",
       "summary": "Gambian champions Medina United returns to action in the Caf champion’s league preliminaries on Saturday at the newly refurbished Independence stadium. They are up against Star FC of Sierra Leone in the second leg of their tie which started in Bo –Town, last weekend with the t...",
@@ -680,34 +703,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4f0aef4a99b3f036",
-      "title": "Gambian player makes it to Bodø/Glimt’s champion’s league squad",
-      "summary": "An important milestone in Gambian football has been recorded with Norwegian football giant Bodø/Glimt announcing that it has signed the first professional contract with a Gambian player, Assan Sanyang, from its Gambian partner club, the Tijan Jaiteh Football Academy. A stateme...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambian-player-makes-it-to-bodo-glimts-champions-league-squad/",
-      "publishedAt": "2026-09-04T15:30:00.000Z",
-      "collectedAt": "2026-09-04T20:39:41.747Z",
-      "region": "west-coast",
-      "categories": [
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T17:37:45.990Z",
+    "generatedAt": "2026-09-10T20:44:30.235Z",
     "count": 31
   }
 }
