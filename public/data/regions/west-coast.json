@@ -202,77 +202,6 @@
       "status": "published"
     },
     {
-      "id": "47e01aa5d89e5b4d",
-      "title": "Barrow: BAC Fixates on Arguments, Won’t Build Brufut Market—But I Will",
-      "summary": "By Makutu Manneh President Adama Barrow has criticized the Brikama Area Council, accusing it of focusing on arguments rather than development, and told residents of Brufut that his government would take responsibility for building their proposed market. Speaking in Brufut on S...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-bac-fixates-on-arguments-wont-build-brufut-market-but-i-will/",
-      "publishedAt": "2026-09-06T22:53:58.000Z",
-      "collectedAt": "2026-09-07T04:11:24.909Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "10b03a62cca22b35",
-      "title": "Gambia Immigration Department Intercepts 76 Suspected ‘Backway’ Migrants",
-      "summary": "By Makutu Manneh The Gambia Immigration Department has intercepted 76 people suspected of attempting to migrate irregularly by sea, the department said. The operation was carried out by the department’s Border Patrol Unit, stationed at the Migration Management Unit in Tanji, w...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-76-suspected-backway-migrants/",
-      "publishedAt": "2026-09-06T21:55:40.000Z",
-      "collectedAt": "2026-09-06T22:04:07.410Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0f1156183230e744",
-      "title": "UDP’s Lamin Manneh Accuses Government of Hiding Gambia’s Oil and Gas Potential",
-      "summary": "By Fatou Sillah Lamin Manneh, the United Democratic Party’s deputy secretary for foreign affairs and the diaspora, has accused President Adama Barrow’s government of withholding information about The Gambia’s offshore oil and gas potential, questioning official accounts of the...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-accuses-government-of-hiding-gambias-oil-and-gas-potential/",
-      "publishedAt": "2026-09-05T18:10:58.000Z",
-      "collectedAt": "2026-09-05T22:00:49.110Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "39973f0205be2443",
       "title": "New agribusiness launches in Brikamaba to tackle Gambia’s food insecurity",
       "summary": "By Dawda Baldeh A newly established private enterprise, Fandayma Agriculture & Food Security Industries Ltd (FAFSI), has officially launched operations in Central River Region South, launching an ambitious campaign to boost domestic food production, create youth jobs, and redu...",
@@ -281,7 +210,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/new-agribusiness-launches-in-brikamaba-to-tackle-gambias-food-insecurity/",
       "publishedAt": "2026-09-05T15:13:11.000Z",
-      "collectedAt": "2026-09-11T11:02:55.418Z",
+      "collectedAt": "2026-09-11T16:18:34.611Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -297,7 +226,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T11:03:01.107Z",
-    "count": 13
+    "generatedAt": "2026-09-11T16:18:41.658Z",
+    "count": 10
   }
 }

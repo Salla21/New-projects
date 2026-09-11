@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "167d23652da74c84",
+      "title": "Dr. Gajigo Blames Leadership Failure and Lack of Domestic Generation for Power Crisis",
+      "summary": "By Seedy Jobe Dr. Ousman Gajigo, an economist and politician, has blamed The Gambia’s worsening electricity crisis on years of inadequate investment in domestic power generation, describing the failure as a consequence of poor government leadership. Speaking on QTV’s Decision ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-blames-leadership-failure-and-lack-of-domestic-generation-for-power-crisis/",
+      "publishedAt": "2026-09-11T14:57:51.000Z",
+      "collectedAt": "2026-09-11T16:18:37.607Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "704d8ae81c5c0f0c",
       "title": "IEC SETS CONDITIONS FOR PRESIDENTIAL CANDIDATES",
       "summary": "By Arret Jatta The Independent Electoral Commission (IEC) has outlined a range of requirements that presidential aspirants must meet to contest elections in The Gambia. According to IEC Chief Executive Officer Sambujang Njie, a candidate must be a Gambian citizen and must have...",
@@ -233,7 +256,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T11:03:01.107Z",
-    "count": 10
+    "generatedAt": "2026-09-11T16:18:41.658Z",
+    "count": 11
   }
 }

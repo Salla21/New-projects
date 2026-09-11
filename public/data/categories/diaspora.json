@@ -238,53 +238,6 @@
       "status": "published"
     },
     {
-      "id": "10b03a62cca22b35",
-      "title": "Gambia Immigration Department Intercepts 76 Suspected ‘Backway’ Migrants",
-      "summary": "By Makutu Manneh The Gambia Immigration Department has intercepted 76 people suspected of attempting to migrate irregularly by sea, the department said. The operation was carried out by the department’s Border Patrol Unit, stationed at the Migration Management Unit in Tanji, w...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-76-suspected-backway-migrants/",
-      "publishedAt": "2026-09-06T21:55:40.000Z",
-      "collectedAt": "2026-09-06T22:04:07.410Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0f1156183230e744",
-      "title": "UDP’s Lamin Manneh Accuses Government of Hiding Gambia’s Oil and Gas Potential",
-      "summary": "By Fatou Sillah Lamin Manneh, the United Democratic Party’s deputy secretary for foreign affairs and the diaspora, has accused President Adama Barrow’s government of withholding information about The Gambia’s offshore oil and gas potential, questioning official accounts of the...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-accuses-government-of-hiding-gambias-oil-and-gas-potential/",
-      "publishedAt": "2026-09-05T18:10:58.000Z",
-      "collectedAt": "2026-09-05T22:00:49.110Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -293,7 +246,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-11T11:02:55.001Z",
+      "collectedAt": "2026-09-11T16:18:34.311Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -310,7 +263,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T11:03:01.107Z",
-    "count": 13
+    "generatedAt": "2026-09-11T16:18:41.658Z",
+    "count": 11
   }
 }
