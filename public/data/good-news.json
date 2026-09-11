@@ -1,6 +1,94 @@
 {
   "items": [
     {
+      "id": "35780a97a79fec2c",
+      "title": "Dr. Gajigo Says ECOMIG’s 10-Year Presence Raises Questions Over Security Sector Reform",
+      "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and leader of the Patriotic Progressive Alliance (PPA) movement, has questioned why ECOMIG forces remain in The Gambia nearly a decade after their deployment, saying their prolonged presence raises questions about the progress of...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-says-ecomigs-10-year-presence-raises-questions-over-security-sector-reform/",
+      "publishedAt": "2026-09-11T18:16:27.000Z",
+      "collectedAt": "2026-09-11T20:50:46.956Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ab6235a323b2ae01",
+      "title": "Ebrima Dibba Says Barrow Will Be Humiliated If He Contests 2026 Presidential Election",
+      "summary": "By Fatou Sillah Ebrima Dibba, the national president of UNITE Party, has urged President Adama Barrow not to seek another term in the 2026 presidential election, warning that he risks a humiliating defeat if he does. In an audio recording, Mr. Dibba accused the president of de...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ebrima-dibba-says-barrow-will-be-humiliated-if-he-contests-2026-presidential-election/",
+      "publishedAt": "2026-09-11T18:05:02.000Z",
+      "collectedAt": "2026-09-11T20:50:46.956Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "93f029fb6ba954e1",
+      "title": "NAWEC Corporate Services Manager Explains How $164 Million World Bank Investment Was Spent",
+      "summary": "By Makutu Manneh Sanna Touray, Group Corporate Services Director at the National Water and Electricity Company, has sought to clarify public concerns over millions of dollars in funding provided to NAWEC by the World Bank and other development partners. Speaking on Kerr Fatou ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-corporate-services-manager-explains-how-164-million-world-bank-investment-was-spent/",
+      "publishedAt": "2026-09-11T17:01:32.000Z",
+      "collectedAt": "2026-09-11T20:50:46.956Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "044e84b8afab3721",
+      "title": "Dr. Gajigo Calls Seven-Year Reliance on Karpowership a Costly Policy Failure",
+      "summary": "By Seedy Jobe Dr. Ousman Gajigo, an economist and leader of the Patriotic Progressive Alliance movement, has criticized the government’s seven-year reliance on Karpowership, calling it a costly policy mistake and arguing that the arrangement should have served only as a tempor...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-calls-seven-year-reliance-on-karpowership-a-costly-policy-failure/",
+      "publishedAt": "2026-09-11T16:42:38.000Z",
+      "collectedAt": "2026-09-11T20:50:46.956Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "167d23652da74c84",
       "title": "Dr. Gajigo Blames Leadership Failure and Lack of Domestic Generation for Power Crisis",
       "summary": "By Seedy Jobe Dr. Ousman Gajigo, an economist and politician, has blamed The Gambia’s worsening electricity crisis on years of inadequate investment in domestic power generation, describing the failure as a consequence of poor government leadership. Speaking on QTV’s Decision ...",
@@ -403,7 +491,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/new-agribusiness-launches-in-brikamaba-to-tackle-gambias-food-insecurity/",
       "publishedAt": "2026-09-05T15:13:11.000Z",
-      "collectedAt": "2026-09-11T16:18:34.611Z",
+      "collectedAt": "2026-09-11T20:50:45.145Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -426,7 +514,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/team-kitabu-invites-yankuba-minteh-fatou-touray-ziggi-rinnas-skincare-and-others-to-award-night/",
       "publishedAt": "2026-08-26T04:58:50.000Z",
-      "collectedAt": "2026-09-11T16:18:34.534Z",
+      "collectedAt": "2026-09-11T20:50:45.002Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -447,7 +535,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -470,7 +558,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -491,7 +579,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -515,7 +603,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -531,7 +619,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T16:18:41.658Z",
-    "count": 23
+    "generatedAt": "2026-09-11T20:50:51.022Z",
+    "count": 27
   }
 }

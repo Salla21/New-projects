@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "0fb2c68193a4b5e3",
+      "title": "Several Gambian Army Recruits Hospitalized After Collapsing; At Least One Death Reported",
+      "summary": "By Staff Writer Several recruits with the Gambia Armed Forces were rushed to Kanifing General Hospital on Friday after collapsing, according to unconfirmed reports, with at least one recruit possibly having died. The news was first reported by What’s On – Gambia, which cited a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/several-gambian-army-recruits-hospitalized-after-collapsing-at-least-one-death-reported/",
+      "publishedAt": "2026-09-11T19:50:05.000Z",
+      "collectedAt": "2026-09-11T20:50:46.956Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2189d6a70e16222d",
       "title": "Bensouda Pledges Cabinet Representation, Accessibility Laws for Persons With Disabilities",
       "summary": "By Seedy Jobe Talib Ahmed Bensouda, the mayor of Kanifing and leader of UNITE Party, has pledged to make disability inclusion a matter of law under a UNITE-led government, proposing representation for persons with disabilities in government and mandatory accessibility standard...",
@@ -125,7 +148,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -148,7 +171,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -172,7 +195,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -188,7 +211,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T16:18:41.658Z",
-    "count": 8
+    "generatedAt": "2026-09-11T20:50:51.022Z",
+    "count": 9
   }
 }

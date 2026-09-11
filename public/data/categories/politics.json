@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "ab6235a323b2ae01",
+      "title": "Ebrima Dibba Says Barrow Will Be Humiliated If He Contests 2026 Presidential Election",
+      "summary": "By Fatou Sillah Ebrima Dibba, the national president of UNITE Party, has urged President Adama Barrow not to seek another term in the 2026 presidential election, warning that he risks a humiliating defeat if he does. In an audio recording, Mr. Dibba accused the president of de...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ebrima-dibba-says-barrow-will-be-humiliated-if-he-contests-2026-presidential-election/",
+      "publishedAt": "2026-09-11T18:05:02.000Z",
+      "collectedAt": "2026-09-11T20:50:46.956Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "62f9b27275c76223",
+      "title": "NAWEC Finance Director Says Technical Problems, Not Arrears, Behind Drop in Power Imports",
+      "summary": "By Makutu Manneh Abdoulie Tambedou, the group finance director of the National Water and Electricity Company, has said that a decline in electricity imports from Senegal and Guinea is the result of technical problems, not unpaid bills owed by NAWEC. Speaking on Kerr Fatou, Mr....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-finance-director-says-technical-problems-not-arrears-behind-drop-in-power-imports/",
+      "publishedAt": "2026-09-11T17:58:10.000Z",
+      "collectedAt": "2026-09-11T20:50:46.956Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "704d8ae81c5c0f0c",
       "title": "IEC SETS CONDITIONS FOR PRESIDENTIAL CANDIDATES",
       "summary": "By Arret Jatta The Independent Electoral Commission (IEC) has outlined a range of requirements that presidential aspirants must meet to contest elections in The Gambia. According to IEC Chief Executive Officer Sambujang Njie, a candidate must be a Gambian citizen and must have...",
@@ -1424,30 +1472,6 @@
       "status": "published"
     },
     {
-      "id": "461dc4927d51e11d",
-      "title": "APP-Sobeyaa withdraws from APeX coalition, rumoured to be in alliance with NPP",
-      "summary": "By Omar Bah APP-Sobeyaa Presidential candidate Essa Faal has declined to comment on reports of alliance talks with the National People’s Party (NPP), even as multiple sources claim negotiations are underway ahead of the 5th December presidential election. According to Kerr Fat...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/app-sobeyaa-withdraws-from-apex-coalition-rumoured-to-be-in-alliance-with-npp/",
-      "publishedAt": "2026-09-07T10:38:00.000Z",
-      "collectedAt": "2026-09-07T12:13:12.846Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1456,7 +1480,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1479,7 +1503,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1502,7 +1526,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1519,7 +1543,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T16:18:41.658Z",
-    "count": 65
+    "generatedAt": "2026-09-11T20:50:51.022Z",
+    "count": 66
   }
 }

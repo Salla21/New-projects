@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "62f9b27275c76223",
+      "title": "NAWEC Finance Director Says Technical Problems, Not Arrears, Behind Drop in Power Imports",
+      "summary": "By Makutu Manneh Abdoulie Tambedou, the group finance director of the National Water and Electricity Company, has said that a decline in electricity imports from Senegal and Guinea is the result of technical problems, not unpaid bills owed by NAWEC. Speaking on Kerr Fatou, Mr....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-finance-director-says-technical-problems-not-arrears-behind-drop-in-power-imports/",
+      "publishedAt": "2026-09-11T17:58:10.000Z",
+      "collectedAt": "2026-09-11T20:50:46.956Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "42553ec5a6d171c2",
       "title": "NCCE warns against interpreting revising court objections as criminal indictments",
       "summary": "By Olimatou Coker The chairman of the National Council for Civic Education (NCCE), Momodou Sise addressed the 1,694 objections reportedly received by the IEC for determination by the revising court, stressing that such objections should not be interpreted as criminal indictmen...",
@@ -106,7 +131,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -129,7 +154,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-11T16:18:34.311Z",
+      "collectedAt": "2026-09-11T20:50:44.665Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -145,7 +170,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T16:18:41.658Z",
-    "count": 6
+    "generatedAt": "2026-09-11T20:50:51.022Z",
+    "count": 7
   }
 }

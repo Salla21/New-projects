@@ -910,34 +910,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "461dc4927d51e11d",
-      "title": "APP-Sobeyaa withdraws from APeX coalition, rumoured to be in alliance with NPP",
-      "summary": "By Omar Bah APP-Sobeyaa Presidential candidate Essa Faal has declined to comment on reports of alliance talks with the National People’s Party (NPP), even as multiple sources claim negotiations are underway ahead of the 5th December presidential election. According to Kerr Fat...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/app-sobeyaa-withdraws-from-apex-coalition-rumoured-to-be-in-alliance-with-npp/",
-      "publishedAt": "2026-09-07T10:38:00.000Z",
-      "collectedAt": "2026-09-07T12:13:12.846Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T16:18:41.658Z",
-    "count": 41
+    "generatedAt": "2026-09-11T20:50:51.022Z",
+    "count": 40
   }
 }
