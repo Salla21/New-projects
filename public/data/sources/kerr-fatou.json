@@ -1319,33 +1319,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "354481c8b0fdd655",
-      "title": "NDP Leader Says Police Questioning Over Fertilizer Distribution Was Politically Motivated",
-      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party, has described his questioning by the police and the Ministry of Agriculture over his distribution of fertilizer to farmers as politically motivated, saying he purchased the product locally and did not...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndp-leader-says-police-questioning-over-fertilizer-distribution-was-politically-motivated/",
-      "publishedAt": "2026-09-05T18:08:23.000Z",
-      "collectedAt": "2026-09-05T22:00:49.110Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-10T23:56:53.180Z",
-    "count": 58
+    "generatedAt": "2026-09-11T04:24:50.853Z",
+    "count": 57
   }
 }
