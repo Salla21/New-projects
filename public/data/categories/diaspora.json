@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4c1a46f15611c14d",
+      "title": "US moves to transfer funds from sale of Jammeh’s $3.5M mansion in US",
+      "summary": "By Tabora Bojang The minister of justice has informed lawmakers that the United States government is preparing to transfer to The Gambia government funds generated from the sale of former president Yahya Jammeh’s US$3.5 million mansion located in Maryland, USA. “We are signing...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/us-moves-to-transfer-funds-from-sale-of-jammehs-3-5m-mansion-in-us/",
+      "publishedAt": "2026-09-11T10:28:00.000Z",
+      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7b362bbe6c839383",
       "title": "Police Chief Warns Unauthorized Protests Will Face Firm Response",
       "summary": "By Seedy Jobe The Inspector General of Police, Seedy Muktarr Touray, warned on Thursday that demonstrations held without proper authorization would face a firm response from security forces as authorities move to contain unrest linked to persistent electricity outages. Speakin...",
@@ -269,7 +293,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-11T04:24:44.770Z",
+      "collectedAt": "2026-09-11T11:02:55.001Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -286,7 +310,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T04:24:50.853Z",
-    "count": 12
+    "generatedAt": "2026-09-11T11:03:01.107Z",
+    "count": 13
   }
 }

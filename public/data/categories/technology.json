@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "42553ec5a6d171c2",
+      "title": "NCCE warns against interpreting revising court objections as criminal indictments",
+      "summary": "By Olimatou Coker The chairman of the National Council for Civic Education (NCCE), Momodou Sise addressed the 1,694 objections reportedly received by the IEC for determination by the revising court, stressing that such objections should not be interpreted as criminal indictmen...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/ncce-warns-against-interpreting-revising-court-objections-as-criminal-indictments/",
+      "publishedAt": "2026-09-11T10:26:00.000Z",
+      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8d1e0ff980a81273",
       "title": "IEC Outlines Nomination Requirements for Gambia’s December Presidential Election",
       "summary": "By Makutu Manneh The Independent Electoral Commission moved this week to spell out the legal requirements for candidates seeking to contest Gambia’s presidential election in December, warning that stricter verification measures would be used to weed out irregularities that hav...",
@@ -81,7 +106,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-11T04:24:44.770Z",
+      "collectedAt": "2026-09-11T11:02:55.001Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -104,7 +129,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-11T04:24:44.770Z",
+      "collectedAt": "2026-09-11T11:02:55.001Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -120,7 +145,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T04:24:50.853Z",
-    "count": 5
+    "generatedAt": "2026-09-11T11:03:01.107Z",
+    "count": 6
   }
 }

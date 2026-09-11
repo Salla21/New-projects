@@ -1,31 +1,31 @@
 {
   "items": [
     {
-      "id": "art-009",
-      "title": "North Bank Farmers Adopt New Irrigation Techniques for Rice Cultivation",
-      "summary": "Over 200 rice farmers in the North Bank Region have completed training on drip irrigation methods expected to double yields in the upcoming harvest.",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net",
-      "originalUrl": "https://foroyaa.net",
-      "publishedAt": "2025-07-27T14:00:00Z",
-      "collectedAt": "2025-07-27T14:30:00Z",
+      "id": "381708a6404250cb",
+      "title": "Bulock youth leader rejects minister’s claim that demolished barracks fence was in Senegal",
+      "summary": "By Omar Bah The chairman of the Bulock Youth Development Association, Sarjo Jarju, has strongly rejected claims by the Minister of Local Government and Lands, Hamat Bah, that the land where the Bulock military barracks fence was erected belongs to Senegal, insisting the territ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/bulock-youth-leader-rejects-ministers-claim-that-demolished-barracks-fence-was-in-senegal/",
+      "publishedAt": "2026-09-11T10:27:00.000Z",
+      "collectedAt": "2026-09-11T11:02:49.903Z",
       "region": "north-bank",
       "categories": [
-        "business"
+        "politics"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Baboucarr Gaye",
+      "author": "Abubacarr",
       "language": "en",
-      "isGoodNews": true,
+      "isGoodNews": false,
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-02T04:16:10.507Z",
+    "generatedAt": "2026-09-11T11:03:01.107Z",
     "count": 1
   }
 }
