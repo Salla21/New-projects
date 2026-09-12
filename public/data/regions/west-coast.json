@@ -85,55 +85,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "04f33bcb00e49016",
-      "title": "COMMENTARY: STILL A “LIGHTWEIGHT”? BRIKAMA HAS GIVEN TALIB’S CRITICS SOMETHING TO THINK ABOUT",
-      "summary": "Written by: Seringe S.T. Touray For much of his march towards December, Talib Bensouda has had to contend with an argument almost as persistent as the attacks on his candidacy: that he simply is not big enough yet. Too young for some, too rooted in KM for others and, in the me...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/commentary-still-a-lightweight-brikama-has-given-talibs-critics-something-to-think-about/",
-      "publishedAt": "2026-09-07T13:46:37.000Z",
-      "collectedAt": "2026-09-07T18:42:58.622Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "32abd7837d863b66",
-      "title": "Bensouda says no commission of inquiry can stop his candidacy",
-      "summary": "By Arret Jatta Talib Ahmed Bensouda has declared that no Commission of Inquiry can stop him from contesting the 2026 presidential election. The leader of the opposition Coalition 2026, made the statement on Sunday during a political rally in Brikama, where he addressed support...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/bensouda-says-no-commission-of-inquiry-can-stop-his-candidacy/",
-      "publishedAt": "2026-09-07T13:34:00.000Z",
-      "collectedAt": "2026-09-08T16:28:38.020Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T20:27:00.584Z",
-    "count": 6
+    "generatedAt": "2026-09-12T23:54:15.706Z",
+    "count": 4
   }
 }
