@@ -486,33 +486,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0fce585d830dc5f8",
-      "title": "Jammeh debunks claims he’s recruiting mercenaries to invade Gambia",
-      "summary": "Former president Yahya Jammeh has issued a statement disassociating himself from one “Angel Sillah” who has been making seditious threats online to bring down the government of President Adama Barrow. In the audio statement released on Friday from his exile home in Equatorial ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/jammeh-debunks-claims-hes-recruiting-mercenaries-to-invade-gambia/",
-      "publishedAt": "2026-09-07T10:44:00.000Z",
-      "collectedAt": "2026-09-07T12:13:12.846Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T12:06:00.556Z",
-    "count": 22
+    "generatedAt": "2026-09-12T16:54:51.605Z",
+    "count": 21
   }
 }

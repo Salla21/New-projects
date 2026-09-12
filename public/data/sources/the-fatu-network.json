@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "95722e5c1416e454",
+      "title": "Gambian children forced to beg for cash or face beatings",
+      "summary": "By Dawda Baldeh Young children enrolled in local Quranic memorisation centres are being forced onto the streets of The Gambia to meet strict daily financial targets or face violent beatings from their teachers. At the bustling Jarra Soma bus garage along the Trans-Gambia corri...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambian-children-forced-to-beg-for-cash-or-face-beatings/",
+      "publishedAt": "2026-09-12T12:57:15.000Z",
+      "collectedAt": "2026-09-12T16:54:46.139Z",
+      "region": "lower-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "91068bfafbe87723",
       "title": "So… I think it’s probably time I properly introduce myself",
       "summary": "By RamaTulai So… I think it’s probably time I properly introduce myself.  For more than a month now, some of my writings have been featured here on @Fatu Network, and I realised something slightly embarrassing: I’ve been showing up, writing my thoughts, sharing my opinions, oc...",
@@ -220,7 +243,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T12:06:00.556Z",
-    "count": 10
+    "generatedAt": "2026-09-12T16:54:51.605Z",
+    "count": 11
   }
 }

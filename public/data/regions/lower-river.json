@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "95722e5c1416e454",
+      "title": "Gambian children forced to beg for cash or face beatings",
+      "summary": "By Dawda Baldeh Young children enrolled in local Quranic memorisation centres are being forced onto the streets of The Gambia to meet strict daily financial targets or face violent beatings from their teachers. At the bustling Jarra Soma bus garage along the Trans-Gambia corri...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambian-children-forced-to-beg-for-cash-or-face-beatings/",
+      "publishedAt": "2026-09-12T12:57:15.000Z",
+      "collectedAt": "2026-09-12T16:54:46.139Z",
+      "region": "lower-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7f6c18d7360dec61",
       "title": "COACH NAMES 35-MAN SQUAD AGAINST SOMALIA, GHANA IN AFCON QUALIFIERS",
       "summary": "Coach Johnathan McKinstry has announced a preliminary 35-man squad for Gambia’s upcoming 2027 Africa Cup of Nations qualifiers, against Somalia and Ghana. The Scorpions will first play Somalia at home on September 25 and then play away in Ghana against The Black Stars, on the ...",
@@ -25,7 +48,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T12:06:00.556Z",
-    "count": 1
+    "generatedAt": "2026-09-12T16:54:51.605Z",
+    "count": 2
   }
 }
