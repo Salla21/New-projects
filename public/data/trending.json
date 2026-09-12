@@ -410,56 +410,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7b362bbe6c839383",
-      "title": "Police Chief Warns Unauthorized Protests Will Face Firm Response",
-      "summary": "By Seedy Jobe The Inspector General of Police, Seedy Muktarr Touray, warned on Thursday that demonstrations held without proper authorization would face a firm response from security forces as authorities move to contain unrest linked to persistent electricity outages. Speakin...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/police-chief-warns-unauthorized-protests-will-face-firm-response/",
-      "publishedAt": "2026-09-10T23:08:52.000Z",
-      "collectedAt": "2026-09-10T23:56:49.137Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a2d847a841beae23",
-      "title": "IGP Touray Announces Joint Security Operation Amid Electricity Protests",
-      "summary": "By Seedy Jobe The inspector general of police, Seedy Muktarr Touray, on Thursday defended the police response to recent demonstrations over persistent electricity outages and announced a joint security operation aimed at protecting lives, property, and critical national infras...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/igp-touray-announces-joint-security-operation-amid-electricity-protests/",
-      "publishedAt": "2026-09-10T22:58:52.000Z",
-      "collectedAt": "2026-09-10T23:56:49.137Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T20:50:51.022Z",
-    "count": 20
+    "generatedAt": "2026-09-12T00:03:59.088Z",
+    "count": 18
   }
 }

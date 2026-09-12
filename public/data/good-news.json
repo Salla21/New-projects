@@ -435,54 +435,6 @@
       "status": "published"
     },
     {
-      "id": "83eaa5ab2839660f",
-      "title": "Darboe claims crime worse under Barrow than Jawara, Jammeh",
-      "summary": "By Arret Jatta United Democratic Party (UDP) leader Ousainu Darboe has claimed that the level of crime recorded under President Adama Barrow’s government surpasses the Jawara and Jammeh administrations. Darboe made the remarks while welcoming youths of Sukuta Quarry who recent...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/darboe-claims-crime-worse-under-barrow-than-jawara-jammeh/",
-      "publishedAt": "2026-09-07T10:42:00.000Z",
-      "collectedAt": "2026-09-07T12:13:12.846Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "fffa6baafe6e16c8",
-      "title": "Gamcel to join the 9-digits migration in second phase",
-      "summary": "By Sirrah Touray The Gambia has successfully migrated to 9-digits mobile numbers, but Gamcel will join the new system in the second phase with 89 prefix reserved for them, the Public Utilities Regulatory Authority (Pura) confirmed during a press briefing. Pura head Njogu Bah s...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gamcel-to-join-the-9-digits-migration-in-second-phase/",
-      "publishedAt": "2026-09-07T10:41:00.000Z",
-      "collectedAt": "2026-09-07T12:13:12.846Z",
-      "region": "banjul",
-      "categories": [
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "39973f0205be2443",
       "title": "New agribusiness launches in Brikamaba to tackle Gambia’s food insecurity",
       "summary": "By Dawda Baldeh A newly established private enterprise, Fandayma Agriculture & Food Security Industries Ltd (FAFSI), has officially launched operations in Central River Region South, launching an ambitious campaign to boost domestic food production, create youth jobs, and redu...",
@@ -491,7 +443,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/new-agribusiness-launches-in-brikamaba-to-tackle-gambias-food-insecurity/",
       "publishedAt": "2026-09-05T15:13:11.000Z",
-      "collectedAt": "2026-09-11T20:50:45.145Z",
+      "collectedAt": "2026-09-12T00:03:51.052Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -514,7 +466,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/team-kitabu-invites-yankuba-minteh-fatou-touray-ziggi-rinnas-skincare-and-others-to-award-night/",
       "publishedAt": "2026-08-26T04:58:50.000Z",
-      "collectedAt": "2026-09-11T20:50:45.002Z",
+      "collectedAt": "2026-09-12T00:03:50.926Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -535,7 +487,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-11T20:50:44.665Z",
+      "collectedAt": "2026-09-12T00:03:50.699Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -558,7 +510,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-11T20:50:44.665Z",
+      "collectedAt": "2026-09-12T00:03:50.699Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -579,7 +531,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-11T20:50:44.665Z",
+      "collectedAt": "2026-09-12T00:03:50.699Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -603,7 +555,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-11T20:50:44.665Z",
+      "collectedAt": "2026-09-12T00:03:50.699Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -619,7 +571,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-11T20:50:51.022Z",
-    "count": 27
+    "generatedAt": "2026-09-12T00:03:59.088Z",
+    "count": 25
   }
 }
