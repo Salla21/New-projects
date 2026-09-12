@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "a5d8dc77a2bafadc",
+      "title": "NAWEC Electricity Chief Links Banjul Power Shortages to Post-2017 Investment Surge",
+      "summary": "By Makutu Manneh Pateh Sowe, the chief operating officer for electricity at the National Water and Electricity Company, has attributed growing pressure on the power supply in the Greater Banjul Area to a surge in investment and electricity demand since the country’s political ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-official-ties-banjul-power-shortages-to-post-2017-investment-surge/",
+      "publishedAt": "2026-09-12T17:27:08.000Z",
+      "collectedAt": "2026-09-12T20:26:56.429Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "35780a97a79fec2c",
       "title": "Dr. Gajigo Says ECOMIG’s 10-Year Presence Raises Questions Over Security Sector Reform",
       "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and leader of the Patriotic Progressive Alliance (PPA) movement, has questioned why ECOMIG forces remain in The Gambia nearly a decade after their deployment, saying their prolonged presence raises questions about the progress of...",
@@ -435,6 +458,27 @@
       "status": "published"
     },
     {
+      "id": "809c369525eefdd0",
+      "title": "Team Kitabu Invites Yankuba Minteh, Fatou Touray, Ziggi, Rinna’s Skincare and Others to Award Night",
+      "summary": "The Gambia’s leading comedy group, Team Kitabu D Comedian, is set to celebrate its 15th anniversary…\nThe post Team Kitabu Invites Yankuba Minteh, Fatou Touray, Ziggi, Rinna’s Skincare and Others to Award Night appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/team-kitabu-invites-yankuba-minteh-fatou-touray-ziggi-rinnas-skincare-and-others-to-award-night/",
+      "publishedAt": "2026-08-26T04:58:50.000Z",
+      "collectedAt": "2026-09-12T20:26:54.133Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Lamin Saidy",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e90449effae42a02",
       "title": "COULD METERS ALOCATED TO A COMPOUND HEAD BE TAKEN AND GIVEN TO ANOTHER COMPOUND HEAD?",
       "summary": "Foroyaa received a complaint from a compound head in CRR North that a meter allocated to him is to be taken away through the order of a district authority. Foroyaa has contacted the PRO for investigation. The PRO emphasised that once a meter is allocated to a person and instal...",
@@ -443,7 +487,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-12T16:54:41.982Z",
+      "collectedAt": "2026-09-12T20:26:53.802Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -466,7 +510,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-12T16:54:41.982Z",
+      "collectedAt": "2026-09-12T20:26:53.802Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -487,7 +531,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-12T16:54:41.982Z",
+      "collectedAt": "2026-09-12T20:26:53.802Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -511,7 +555,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-12T16:54:41.982Z",
+      "collectedAt": "2026-09-12T20:26:53.802Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -527,7 +571,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T16:54:51.605Z",
-    "count": 23
+    "generatedAt": "2026-09-12T20:27:00.584Z",
+    "count": 25
   }
 }

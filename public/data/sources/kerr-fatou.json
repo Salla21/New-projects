@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "508f488a4088a3e4",
+      "title": "NAWEC MD Links Lower Electricity Tariffs to Curbing Illegal Connections, Reaffirms October Deadline",
+      "summary": "By Makutu Manneh Gallo Saidy, the managing director of the National Water and Electricity Company, said curbing illegal electricity connections could help pave the way for lower tariffs, as he reaffirmed the government’s goal of achieving a more stable power supply by the end ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-md-links-lower-electricity-tariffs-to-curbing-illegal-connections-reaffirms-october-deadline/",
+      "publishedAt": "2026-09-12T17:42:11.000Z",
+      "collectedAt": "2026-09-12T20:26:56.429Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6bcbe244db46154d",
+      "title": "Mayor Bensouda Says UNITE and NUP Plan to Merge Into One Political Party",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential candidate of Coalition 2026, said UNITE and the National Unity Party are working toward merging into a single political party, building on an alliance the two groups formed ahead of the December preside...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mayor-bensouda-says-unite-and-nup-plan-to-merge-into-one-political-party/",
+      "publishedAt": "2026-09-12T17:36:02.000Z",
+      "collectedAt": "2026-09-12T20:26:56.429Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a5d8dc77a2bafadc",
+      "title": "NAWEC Electricity Chief Links Banjul Power Shortages to Post-2017 Investment Surge",
+      "summary": "By Makutu Manneh Pateh Sowe, the chief operating officer for electricity at the National Water and Electricity Company, has attributed growing pressure on the power supply in the Greater Banjul Area to a surge in investment and electricity demand since the country’s political ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-official-ties-banjul-power-shortages-to-post-2017-investment-surge/",
+      "publishedAt": "2026-09-12T17:27:08.000Z",
+      "collectedAt": "2026-09-12T20:26:56.429Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "88485cd7d6648f06",
+      "title": "NPP’s Essa Dampha Acknowledges Electricity Crisis but Says Protests Will Not Cost Barrow Election",
+      "summary": "By Seedy Jobe Essa Dampha, a member of the governing National People’s Party, has acknowledged public frustration over electricity shortages but insisted that President Adama Barrow remains popular enough to win the December presidential election despite recent protests. Appea...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/npps-essa-dampha-acknowledges-electricity-crisis-but-says-protests-will-not-cost-barrow-election/",
+      "publishedAt": "2026-09-12T16:57:20.000Z",
+      "collectedAt": "2026-09-12T20:26:56.429Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c8dc2a9b49ae1864",
       "title": "NAWEC MD Defends Barrow’s Remarks on Power Capacity, Says Statement Reflected Demand at the Time",
       "summary": "By Makutu Manneh Gallo Saidy, the managing director of the National Water and Electricity Company, has defended President Adama Barrow’s earlier assertion that The Gambia had sufficient electricity generation capacity, saying the statement accurately reflected the country’s po...",
@@ -1340,7 +1430,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T16:54:51.605Z",
-    "count": 58
+    "generatedAt": "2026-09-12T20:27:00.584Z",
+    "count": 62
   }
 }

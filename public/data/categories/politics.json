@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "a7a89e898abaf905",
+      "title": "EFSCRJ Warns Against Criminalising Electricity Protests",
+      "summary": "By Dawda Baldeh The Edward Francis Small Centre for Rights and Justice (EFSCRJ) has called on the government and security authorities to respect citizens’ constitutional right to peaceful protest amid continuing demonstrations over The Gambia’s electricity crisis. In a stateme...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/efscrj-warns-against-criminalising-electricity-protests/",
+      "publishedAt": "2026-09-12T17:53:58.000Z",
+      "collectedAt": "2026-09-12T20:26:54.299Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6bcbe244db46154d",
+      "title": "Mayor Bensouda Says UNITE and NUP Plan to Merge Into One Political Party",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential candidate of Coalition 2026, said UNITE and the National Unity Party are working toward merging into a single political party, building on an alliance the two groups formed ahead of the December preside...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mayor-bensouda-says-unite-and-nup-plan-to-merge-into-one-political-party/",
+      "publishedAt": "2026-09-12T17:36:02.000Z",
+      "collectedAt": "2026-09-12T20:26:56.429Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "88485cd7d6648f06",
+      "title": "NPP’s Essa Dampha Acknowledges Electricity Crisis but Says Protests Will Not Cost Barrow Election",
+      "summary": "By Seedy Jobe Essa Dampha, a member of the governing National People’s Party, has acknowledged public frustration over electricity shortages but insisted that President Adama Barrow remains popular enough to win the December presidential election despite recent protests. Appea...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/npps-essa-dampha-acknowledges-electricity-crisis-but-says-protests-will-not-cost-barrow-election/",
+      "publishedAt": "2026-09-12T16:57:20.000Z",
+      "collectedAt": "2026-09-12T20:26:56.429Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c8dc2a9b49ae1864",
       "title": "NAWEC MD Defends Barrow’s Remarks on Power Capacity, Says Statement Reflected Demand at the Time",
       "summary": "By Makutu Manneh Gallo Saidy, the managing director of the National Water and Electricity Company, has defended President Adama Barrow’s earlier assertion that The Gambia had sufficient electricity generation capacity, saying the statement accurately reflected the country’s po...",
@@ -1378,52 +1447,6 @@
       "status": "published"
     },
     {
-      "id": "d3427b23553b8c9e",
-      "title": "Former presidents to get huge pensions in amendment bill",
-      "summary": "By Tabora Bojang The government intends to amend the Former President’s Bill 2023 by inserting a new clause which states that government “shall pay a former president for the rest of his or her life a monthly pension of an amount equal to eighty percent of the gross monthly sa...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/former-presidents-to-get-huge-pensions-in-amendment-bill/",
-      "publishedAt": "2026-09-07T13:33:00.000Z",
-      "collectedAt": "2026-09-08T16:28:38.020Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "083ce1623d398f0b",
-      "title": "EX-KANILAI FARMS MANAGER TO CONTEST PRESIDENTIAL ELECTION UNDER ‘MBEH KILING MOVEMENT’",
-      "summary": "By Omar Bah Retired Major Alieu Sowe, a former manager of the former president Yahya  Jammeh’s Kanilai Family Farms (KFF) has officially declared his intention to contest the December 2026 presidential election, vowing to lead with integrity and put “ordinary Gambians first”. ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/ex-kanilai-farms-manager-to-contest-presidential-election-under-mbeh-kiling-movement/",
-      "publishedAt": "2026-09-07T10:45:00.000Z",
-      "collectedAt": "2026-09-07T12:13:12.846Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1432,7 +1455,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-12T16:54:41.982Z",
+      "collectedAt": "2026-09-12T20:26:53.802Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1455,7 +1478,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-12T16:54:41.982Z",
+      "collectedAt": "2026-09-12T20:26:53.802Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1478,7 +1501,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-12T16:54:41.982Z",
+      "collectedAt": "2026-09-12T20:26:53.802Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1495,7 +1518,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T16:54:51.605Z",
-    "count": 64
+    "generatedAt": "2026-09-12T20:27:00.584Z",
+    "count": 65
   }
 }

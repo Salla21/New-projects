@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "a7a89e898abaf905",
+      "title": "EFSCRJ Warns Against Criminalising Electricity Protests",
+      "summary": "By Dawda Baldeh The Edward Francis Small Centre for Rights and Justice (EFSCRJ) has called on the government and security authorities to respect citizens’ constitutional right to peaceful protest amid continuing demonstrations over The Gambia’s electricity crisis. In a stateme...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/efscrj-warns-against-criminalising-electricity-protests/",
+      "publishedAt": "2026-09-12T17:53:58.000Z",
+      "collectedAt": "2026-09-12T20:26:54.299Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "95722e5c1416e454",
       "title": "Gambian children forced to beg for cash or face beatings",
       "summary": "By Dawda Baldeh Young children enrolled in local Quranic memorisation centres are being forced onto the streets of The Gambia to meet strict daily financial targets or face violent beatings from their teachers. At the bustling Jarra Soma bus garage along the Trans-Gambia corri...",
@@ -243,7 +266,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T16:54:51.605Z",
-    "count": 11
+    "generatedAt": "2026-09-12T20:27:00.584Z",
+    "count": 12
   }
 }
