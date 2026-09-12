@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "91068bfafbe87723",
+      "title": "So… I think it’s probably time I properly introduce myself",
+      "summary": "By RamaTulai So… I think it’s probably time I properly introduce myself.  For more than a month now, some of my writings have been featured here on @Fatu Network, and I realised something slightly embarrassing: I’ve been showing up, writing my thoughts, sharing my opinions, oc...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/so-i-think-its-probably-time-i-properly-introduce-myself/",
+      "publishedAt": "2026-09-12T11:05:43.000Z",
+      "collectedAt": "2026-09-12T12:05:54.825Z",
+      "region": "north-bank",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fb75dac6304d17ac",
       "title": "GIABA Warns Religious Institutions: “Transparency Protects Trust”",
       "summary": "Written by: Dawda Baldeh The Intergovernmental Action Group Against Money Laundering in West Africa (GIABA) has called on religious leaders and institutions in The Gambia to strengthen financial transparency and accountability to prevent their organisations from being exploite...",
@@ -196,33 +217,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "39973f0205be2443",
-      "title": "New agribusiness launches in Brikamaba to tackle Gambia’s food insecurity",
-      "summary": "By Dawda Baldeh A newly established private enterprise, Fandayma Agriculture & Food Security Industries Ltd (FAFSI), has officially launched operations in Central River Region South, launching an ambitious campaign to boost domestic food production, create youth jobs, and redu...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/new-agribusiness-launches-in-brikamaba-to-tackle-gambias-food-insecurity/",
-      "publishedAt": "2026-09-05T15:13:11.000Z",
-      "collectedAt": "2026-09-12T07:04:33.273Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T07:04:38.539Z",
+    "generatedAt": "2026-09-12T12:06:00.556Z",
     "count": 10
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "91068bfafbe87723",
+      "title": "So… I think it’s probably time I properly introduce myself",
+      "summary": "By RamaTulai So… I think it’s probably time I properly introduce myself.  For more than a month now, some of my writings have been featured here on @Fatu Network, and I realised something slightly embarrassing: I’ve been showing up, writing my thoughts, sharing my opinions, oc...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/so-i-think-its-probably-time-i-properly-introduce-myself/",
+      "publishedAt": "2026-09-12T11:05:43.000Z",
+      "collectedAt": "2026-09-12T12:05:54.825Z",
+      "region": "north-bank",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0fb2c68193a4b5e3",
       "title": "Several Gambian Army Recruits Hospitalized After Collapsing; At Least One Death Reported",
       "summary": "By Staff Writer Several recruits with the Gambia Armed Forces were rushed to Kanifing General Hospital on Friday after collapsing, according to unconfirmed reports, with at least one recruit possibly having died. The news was first reported by What’s On – Gambia, which cited a...",
@@ -2258,33 +2279,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0fce585d830dc5f8",
-      "title": "Jammeh debunks claims he’s recruiting mercenaries to invade Gambia",
-      "summary": "Former president Yahya Jammeh has issued a statement disassociating himself from one “Angel Sillah” who has been making seditious threats online to bring down the government of President Adama Barrow. In the audio statement released on Friday from his exile home in Equatorial ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/jammeh-debunks-claims-hes-recruiting-mercenaries-to-invade-gambia/",
-      "publishedAt": "2026-09-07T10:44:00.000Z",
-      "collectedAt": "2026-09-07T12:13:12.846Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T07:04:38.539Z",
+    "generatedAt": "2026-09-12T12:06:00.556Z",
     "count": 100
   }
 }

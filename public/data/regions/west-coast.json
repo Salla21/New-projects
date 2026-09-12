@@ -153,33 +153,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "39973f0205be2443",
-      "title": "New agribusiness launches in Brikamaba to tackle Gambia’s food insecurity",
-      "summary": "By Dawda Baldeh A newly established private enterprise, Fandayma Agriculture & Food Security Industries Ltd (FAFSI), has officially launched operations in Central River Region South, launching an ambitious campaign to boost domestic food production, create youth jobs, and redu...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/new-agribusiness-launches-in-brikamaba-to-tackle-gambias-food-insecurity/",
-      "publishedAt": "2026-09-05T15:13:11.000Z",
-      "collectedAt": "2026-09-12T07:04:33.273Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T07:04:38.539Z",
-    "count": 8
+    "generatedAt": "2026-09-12T12:06:00.556Z",
+    "count": 7
   }
 }
