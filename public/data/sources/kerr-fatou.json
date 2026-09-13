@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "cda21a77b7a82988",
+      "title": "Darboe Rallies Support in Allunhari, URR; Urges Unity Ahead of December Presidential Election",
+      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party, thanked supporters in the Upper River Region on Saturday after thousands gathered in Allunhari for a rally organized by the UDP-led alliance and its partners in the Gambia First Coalition ahead of the Dec. 5 ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-rallies-support-in-allunhari-urr-urges-unity-ahead-of-december-presidential-election/",
+      "publishedAt": "2026-09-13T15:56:52.000Z",
+      "collectedAt": "2026-09-13T16:03:24.277Z",
+      "region": "upper-river",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "664e056d0bb79150",
       "title": "Mayor Bensouda Says Gambians Should Take Their Anger Over Electricity to the Ballot Box",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential candidate of Coalition 2026, has urged Gambians frustrated by the country’s persistent electricity shortages to channel their anger into the ballot box rather than resort to violence or destruction. Mr....",
@@ -1453,7 +1478,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T11:35:13.541Z",
-    "count": 63
+    "generatedAt": "2026-09-13T16:03:28.314Z",
+    "count": 64
   }
 }

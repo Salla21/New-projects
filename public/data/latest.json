@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "cda21a77b7a82988",
+      "title": "Darboe Rallies Support in Allunhari, URR; Urges Unity Ahead of December Presidential Election",
+      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party, thanked supporters in the Upper River Region on Saturday after thousands gathered in Allunhari for a rally organized by the UDP-led alliance and its partners in the Gambia First Coalition ahead of the Dec. 5 ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-rallies-support-in-allunhari-urr-urges-unity-ahead-of-december-presidential-election/",
+      "publishedAt": "2026-09-13T15:56:52.000Z",
+      "collectedAt": "2026-09-13T16:03:24.277Z",
+      "region": "upper-river",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ba1aaea116f04d1f",
       "title": "From Twelve Relocations to a Mission for Mothers: Mariame Cisse’s Journey of Resilience and Self-Leadership",
       "summary": "Behind Mariame Cisse’s work with mothers is a deeply personal story of separation, motherhood, resilience, and rebuilding. During childhood, Mariame was separated from her mother at the age of six until she was nearly 19. That experience profoundly influenced how she later app...",
@@ -2253,33 +2278,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b7be47120ef687e4",
-      "title": "Interpol Gambia Commissioner Explains How Cross-Border Crimes Are Reported and Investigated",
-      "summary": "By Seedy Jobe Pa Alieu Jawara, Commissioner of Interpol, The Gambia, said complaints involving possible international crimes must first be reported to local police before they can be referred to Interpol for further action. Speaking Monday, Sept. 7, on QTV’s This Morning progr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/interpol-gambia-commissioner-explains-how-cross-border-crimes-are-reported-and-investigated/",
-      "publishedAt": "2026-09-07T16:54:55.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T11:35:13.541Z",
+    "generatedAt": "2026-09-13T16:03:28.314Z",
     "count": 100
   }
 }

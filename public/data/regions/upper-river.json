@@ -1,22 +1,24 @@
 {
   "items": [
     {
-      "id": "b18a11a07fde9dec",
-      "title": "Bensouda says NPP’s dominance in URR is exaggerated",
-      "summary": "By Tabora Bojang As the political fever boils towards the presidential election in December, Unite party leader and KM Mayor Talib Bensounda is hopeful of ending the ruling NPP’s dominance in the Upper River Region. Speaking to The Standard about a recent tour of the region wh...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/bensouda-says-npps-dominance-in-urr-is-exaggerated/",
-      "publishedAt": "2026-09-03T10:05:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
+      "id": "cda21a77b7a82988",
+      "title": "Darboe Rallies Support in Allunhari, URR; Urges Unity Ahead of December Presidential Election",
+      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party, thanked supporters in the Upper River Region on Saturday after thousands gathered in Allunhari for a rally organized by the UDP-led alliance and its partners in the Gambia First Coalition ahead of the Dec. 5 ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-rallies-support-in-allunhari-urr-urges-unity-ahead-of-december-presidential-election/",
+      "publishedAt": "2026-09-13T15:56:52.000Z",
+      "collectedAt": "2026-09-13T16:03:24.277Z",
       "region": "upper-river",
       "categories": [
-        "politics"
+        "politics",
+        "business",
+        "diaspora"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Abubacarr",
+      "author": "Seedy Jobe",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -25,7 +27,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-09T00:00:24.268Z",
+    "generatedAt": "2026-09-13T16:03:28.314Z",
     "count": 1
   }
 }

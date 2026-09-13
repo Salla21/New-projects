@@ -496,33 +496,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "044109df3312215b",
-      "title": "Farmers welcome gov’t support, seek earlier, more affordable fertilizer",
-      "summary": "Across The Gambia’s rural communities, farmers are over the moon anticipating another successful farming season attributed to the quality and affordable fertiliser supplied by government. While challenges remain, farmers in Medina Daru and Njaba Siyan say government support fo...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/farmers-welcome-govt-support-seek-earlier-more-affordable-fertilizer/",
-      "publishedAt": "2026-09-07T16:36:29.000Z",
-      "collectedAt": "2026-09-08T16:28:38.020Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T11:35:13.541Z",
-    "count": 23
+    "generatedAt": "2026-09-13T16:03:28.314Z",
+    "count": 22
   }
 }
