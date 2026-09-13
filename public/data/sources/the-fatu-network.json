@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "ba1aaea116f04d1f",
+      "title": "From Twelve Relocations to a Mission for Mothers: Mariame Cisse’s Journey of Resilience and Self-Leadership",
+      "summary": "Behind Mariame Cisse’s work with mothers is a deeply personal story of separation, motherhood, resilience, and rebuilding. During childhood, Mariame was separated from her mother at the age of six until she was nearly 19. That experience profoundly influenced how she later app...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/from-twelve-relocations-to-a-mission-for-mothers-mariame-cisses-journey-of-resilience-and-self-leadership/",
+      "publishedAt": "2026-09-13T10:30:43.000Z",
+      "collectedAt": "2026-09-13T11:35:08.230Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a7a89e898abaf905",
       "title": "EFSCRJ Warns Against Criminalising Electricity Protests",
       "summary": "By Dawda Baldeh The Edward Francis Small Centre for Rights and Justice (EFSCRJ) has called on the government and security authorities to respect citizens’ constitutional right to peaceful protest amid continuing demonstrations over The Gambia’s electricity crisis. In a stateme...",
@@ -245,7 +266,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T04:27:03.345Z",
-    "count": 11
+    "generatedAt": "2026-09-13T11:35:13.541Z",
+    "count": 12
   }
 }

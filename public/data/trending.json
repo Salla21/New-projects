@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "ba1aaea116f04d1f",
+      "title": "From Twelve Relocations to a Mission for Mothers: Mariame Cisse’s Journey of Resilience and Self-Leadership",
+      "summary": "Behind Mariame Cisse’s work with mothers is a deeply personal story of separation, motherhood, resilience, and rebuilding. During childhood, Mariame was separated from her mother at the age of six until she was nearly 19. That experience profoundly influenced how she later app...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/from-twelve-relocations-to-a-mission-for-mothers-mariame-cisses-journey-of-resilience-and-self-leadership/",
+      "publishedAt": "2026-09-13T10:30:43.000Z",
+      "collectedAt": "2026-09-13T11:35:08.230Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "664e056d0bb79150",
       "title": "Mayor Bensouda Says Gambians Should Take Their Anger Over Electricity to the Ballot Box",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential candidate of Coalition 2026, has urged Gambians frustrated by the country’s persistent electricity shortages to channel their anger into the ballot box rather than resort to violence or destruction. Mr....",
@@ -227,31 +248,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "91068bfafbe87723",
-      "title": "So… I think it’s probably time I properly introduce myself",
-      "summary": "By RamaTulai So… I think it’s probably time I properly introduce myself.  For more than a month now, some of my writings have been featured here on @Fatu Network, and I realised something slightly embarrassing: I’ve been showing up, writing my thoughts, sharing my opinions, oc...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/so-i-think-its-probably-time-i-properly-introduce-myself/",
-      "publishedAt": "2026-09-12T11:05:43.000Z",
-      "collectedAt": "2026-09-12T12:05:54.825Z",
-      "region": "north-bank",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T04:27:03.345Z",
+    "generatedAt": "2026-09-13T11:35:13.541Z",
     "count": 11
   }
 }
