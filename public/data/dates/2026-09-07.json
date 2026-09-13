@@ -211,33 +211,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b7be47120ef687e4",
-      "title": "Interpol Gambia Commissioner Explains How Cross-Border Crimes Are Reported and Investigated",
-      "summary": "By Seedy Jobe Pa Alieu Jawara, Commissioner of Interpol, The Gambia, said complaints involving possible international crimes must first be reported to local police before they can be referred to Interpol for further action. Speaking Monday, Sept. 7, on QTV’s This Morning progr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/interpol-gambia-commissioner-explains-how-cross-border-crimes-are-reported-and-investigated/",
-      "publishedAt": "2026-09-07T16:54:55.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T16:03:28.314Z",
-    "count": 10
+    "generatedAt": "2026-09-13T20:38:05.800Z",
+    "count": 9
   }
 }

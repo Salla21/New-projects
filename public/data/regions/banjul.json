@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b42f0cdb1728a138",
+      "title": "Before the First Hallucinated Citation: Why The Gambia’s courts and lawyers need an AI rulebook now",
+      "summary": "Before the First Hallucinated CitationWhy The Gambia’s courts and lawyers need an AI rulebook nowBy Sarjo Barrow, Esq. OPINION – Legal Commentary Two recent events in the United States should get the attention of people in Banjul. In United States v. Heppner, a federal judge i...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/before-the-first-hallucinated-citation-why-the-gambias-courts-and-lawyers-need-an-ai-rulebook-now/",
+      "publishedAt": "2026-09-13T17:32:19.000Z",
+      "collectedAt": "2026-09-13T20:38:00.333Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ba1aaea116f04d1f",
       "title": "From Twelve Relocations to a Mission for Mothers: Mariame Cisse’s Journey of Resilience and Self-Leadership",
       "summary": "Behind Mariame Cisse’s work with mothers is a deeply personal story of separation, motherhood, resilience, and rebuilding. During childhood, Mariame was separated from her mother at the age of six until she was nearly 19. That experience profoundly influenced how she later app...",
@@ -1963,29 +1986,6 @@
       "status": "published"
     },
     {
-      "id": "b7be47120ef687e4",
-      "title": "Interpol Gambia Commissioner Explains How Cross-Border Crimes Are Reported and Investigated",
-      "summary": "By Seedy Jobe Pa Alieu Jawara, Commissioner of Interpol, The Gambia, said complaints involving possible international crimes must first be reported to local police before they can be referred to Interpol for further action. Speaking Monday, Sept. 7, on QTV’s This Morning progr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/interpol-gambia-commissioner-explains-how-cross-border-crimes-are-reported-and-investigated/",
-      "publishedAt": "2026-09-07T16:54:55.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "49c0b34b909894a7",
       "title": "Officer Malick Signs Deal with Comium as New Brand Ambassador",
       "summary": "One of the country’s fastest-rising comedians, Officer Malick, has signed a contract with mobile telecommunications company…\nThe post Officer Malick Signs Deal with Comium as New Brand Ambassador appeared first on What's On Gambia.",
@@ -1994,7 +1994,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/officer-malick-signs-deal-with-comium-as-new-brand-ambassador/",
       "publishedAt": "2026-09-02T04:09:25.000Z",
-      "collectedAt": "2026-09-13T16:03:21.824Z",
+      "collectedAt": "2026-09-13T20:38:00.112Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2015,7 +2015,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/keke-drivers-accused-of-drinking-alcohol-before-work-on-sundays/",
       "publishedAt": "2026-09-02T04:07:33.000Z",
-      "collectedAt": "2026-09-13T16:03:21.824Z",
+      "collectedAt": "2026-09-13T20:38:00.112Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2036,7 +2036,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-my-family-stop-us-young-woman-fears-parents-may-block-her-marriage-to-nyamalo-boyfriend/",
       "publishedAt": "2026-09-02T04:05:30.000Z",
-      "collectedAt": "2026-09-13T16:03:21.824Z",
+      "collectedAt": "2026-09-13T20:38:00.112Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2057,7 +2057,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/senegalese-soldier-allegedly-tells-fonianka-husband-never-stop-your-wife-from-seeing-me/",
       "publishedAt": "2026-09-02T04:01:40.000Z",
-      "collectedAt": "2026-09-13T16:03:21.824Z",
+      "collectedAt": "2026-09-13T20:38:00.112Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2078,7 +2078,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jally-naya-to-perform-in-birmingham-on-september-12/",
       "publishedAt": "2026-08-26T05:04:15.000Z",
-      "collectedAt": "2026-09-13T16:03:21.824Z",
+      "collectedAt": "2026-09-13T20:38:00.112Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2099,7 +2099,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/team-kitabu-invites-yankuba-minteh-fatou-touray-ziggi-rinnas-skincare-and-others-to-award-night/",
       "publishedAt": "2026-08-26T04:58:50.000Z",
-      "collectedAt": "2026-09-13T16:03:21.824Z",
+      "collectedAt": "2026-09-13T20:38:00.112Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2120,7 +2120,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/high-court-horror-dutchman-76-accused-of-using-doctor-identity-to-target-young-gambian-women/",
       "publishedAt": "2026-08-26T04:57:03.000Z",
-      "collectedAt": "2026-09-13T16:03:21.824Z",
+      "collectedAt": "2026-09-13T20:38:00.112Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2141,7 +2141,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2164,7 +2164,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2187,7 +2187,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2208,7 +2208,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2231,7 +2231,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/why-dont-boats-in-the-gambia-have-number-plates/",
       "publishedAt": "2026-08-14T12:05:36.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2252,7 +2252,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2276,7 +2276,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/warning-warning-warning/",
       "publishedAt": "2026-08-14T11:51:15.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2290,7 +2290,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T16:03:28.314Z",
+    "generatedAt": "2026-09-13T20:38:05.800Z",
     "count": 101
   }
 }

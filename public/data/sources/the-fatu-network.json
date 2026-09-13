@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b42f0cdb1728a138",
+      "title": "Before the First Hallucinated Citation: Why The Gambia’s courts and lawyers need an AI rulebook now",
+      "summary": "Before the First Hallucinated CitationWhy The Gambia’s courts and lawyers need an AI rulebook nowBy Sarjo Barrow, Esq. OPINION – Legal Commentary Two recent events in the United States should get the attention of people in Banjul. In United States v. Heppner, a federal judge i...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/before-the-first-hallucinated-citation-why-the-gambias-courts-and-lawyers-need-an-ai-rulebook-now/",
+      "publishedAt": "2026-09-13T17:32:19.000Z",
+      "collectedAt": "2026-09-13T20:38:00.333Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ba1aaea116f04d1f",
       "title": "From Twelve Relocations to a Mission for Mothers: Mariame Cisse’s Journey of Resilience and Self-Leadership",
       "summary": "Behind Mariame Cisse’s work with mothers is a deeply personal story of separation, motherhood, resilience, and rebuilding. During childhood, Mariame was separated from her mother at the age of six until she was nearly 19. That experience profoundly influenced how she later app...",
@@ -266,7 +289,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T16:03:28.314Z",
-    "count": 12
+    "generatedAt": "2026-09-13T20:38:05.800Z",
+    "count": 13
   }
 }

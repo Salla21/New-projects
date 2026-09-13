@@ -592,29 +592,6 @@
       "status": "published"
     },
     {
-      "id": "b7be47120ef687e4",
-      "title": "Interpol Gambia Commissioner Explains How Cross-Border Crimes Are Reported and Investigated",
-      "summary": "By Seedy Jobe Pa Alieu Jawara, Commissioner of Interpol, The Gambia, said complaints involving possible international crimes must first be reported to local police before they can be referred to Interpol for further action. Speaking Monday, Sept. 7, on QTV’s This Morning progr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/interpol-gambia-commissioner-explains-how-cross-border-crimes-are-reported-and-investigated/",
-      "publishedAt": "2026-09-07T16:54:55.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -623,7 +600,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -647,7 +624,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -670,7 +647,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-13T16:03:21.674Z",
+      "collectedAt": "2026-09-13T20:37:59.928Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -687,7 +664,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T16:03:28.314Z",
-    "count": 29
+    "generatedAt": "2026-09-13T20:38:05.800Z",
+    "count": 28
   }
 }
