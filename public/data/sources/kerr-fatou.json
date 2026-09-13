@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "664e056d0bb79150",
+      "title": "Mayor Bensouda Says Gambians Should Take Their Anger Over Electricity to the Ballot Box",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential candidate of Coalition 2026, has urged Gambians frustrated by the country’s persistent electricity shortages to channel their anger into the ballot box rather than resort to violence or destruction. Mr....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mayor-bensouda-says-gambians-should-take-their-anger-over-electricity-to-the-ballot-box/",
+      "publishedAt": "2026-09-12T23:55:13.000Z",
+      "collectedAt": "2026-09-13T04:26:59.307Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "508f488a4088a3e4",
       "title": "NAWEC MD Links Lower Electricity Tariffs to Curbing Illegal Connections, Reaffirms October Deadline",
       "summary": "By Makutu Manneh Gallo Saidy, the managing director of the National Water and Electricity Company, said curbing illegal electricity connections could help pave the way for lower tariffs, as he reaffirmed the government’s goal of achieving a more stable power supply by the end ...",
@@ -1430,7 +1453,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-12T23:54:15.706Z",
-    "count": 62
+    "generatedAt": "2026-09-13T04:27:03.345Z",
+    "count": 63
   }
 }
