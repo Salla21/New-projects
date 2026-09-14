@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ed34c4380b0f044b",
+      "title": "Ebrima Sorrie Bah Resigns From UDP, Returns to NPP to Support President Barrow",
+      "summary": "By Seedy Jobe Ebrima Sorrie Bah, founder and commander of Operation UDP Laffah, has resigned from the United Democratic Party with immediate effect and announced his return to the National People’s Party, saying he feels an obligation to support President Adama Barrow during w...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ebrima-sorrie-bah-resigns-from-udp-returns-to-npp-to-support-president-barrow/",
+      "publishedAt": "2026-09-14T01:58:11.000Z",
+      "collectedAt": "2026-09-14T07:48:51.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b42f0cdb1728a138",
       "title": "Before the First Hallucinated Citation: Why The Gambia’s courts and lawyers need an AI rulebook now",
       "summary": "Before the First Hallucinated CitationWhy The Gambia’s courts and lawyers need an AI rulebook nowBy Sarjo Barrow, Esq. OPINION – Legal Commentary Two recent events in the United States should get the attention of people in Banjul. In United States v. Heppner, a federal judge i...",
@@ -1411,7 +1435,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-14T00:02:34.174Z",
+      "collectedAt": "2026-09-14T07:48:49.278Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1434,7 +1458,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-14T00:02:34.174Z",
+      "collectedAt": "2026-09-14T07:48:49.278Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1457,7 +1481,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-14T00:02:34.174Z",
+      "collectedAt": "2026-09-14T07:48:49.278Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1474,7 +1498,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-14T00:02:41.049Z",
-    "count": 63
+    "generatedAt": "2026-09-14T07:48:55.829Z",
+    "count": 64
   }
 }

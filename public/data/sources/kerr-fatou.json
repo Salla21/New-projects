@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ed34c4380b0f044b",
+      "title": "Ebrima Sorrie Bah Resigns From UDP, Returns to NPP to Support President Barrow",
+      "summary": "By Seedy Jobe Ebrima Sorrie Bah, founder and commander of Operation UDP Laffah, has resigned from the United Democratic Party with immediate effect and announced his return to the National People’s Party, saying he feels an obligation to support President Adama Barrow during w...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ebrima-sorrie-bah-resigns-from-udp-returns-to-npp-to-support-president-barrow/",
+      "publishedAt": "2026-09-14T01:58:11.000Z",
+      "collectedAt": "2026-09-14T07:48:51.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "76a7dd481607d3a3",
       "title": "Darboe Challenges Government to Prove Who Initiated URR Roads and Bridges",
       "summary": "By Seedy Jobe Ousainu Darboe, the leader of the United Democratic Party, has challenged the government to provide evidence of who initiated major road and bridge projects in the Upper River Region, accusing President Adama Barrow’s administration of taking credit for infrastru...",
@@ -1433,7 +1457,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-14T00:02:41.049Z",
-    "count": 62
+    "generatedAt": "2026-09-14T07:48:55.829Z",
+    "count": 63
   }
 }
