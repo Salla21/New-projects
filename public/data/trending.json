@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "315f311a083764c7",
+      "title": "Youth Festival Draws 10,000 Leaders From 191 Countries to Russia",
+      "summary": "By Dawda Baldeh Thousands of young people from across the globe are converging on the Russian city of Yekaterinburg for the International Youth Festival, with participants from 47 countries already arriving ahead of the event’s official programme. Grigory Gurov, head of Russia...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/youth-festival-draws-10000-leaders-from-191-countries-to-russia/",
+      "publishedAt": "2026-09-14T12:14:29.000Z",
+      "collectedAt": "2026-09-14T14:57:04.636Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ed34c4380b0f044b",
       "title": "Ebrima Sorrie Bah Resigns From UDP, Returns to NPP to Support President Barrow",
       "summary": "By Seedy Jobe Ebrima Sorrie Bah, founder and commander of Operation UDP Laffah, has resigned from the United Democratic Party with immediate effect and announced his return to the National People’s Party, saying he feels an obligation to support President Adama Barrow during w...",
@@ -119,31 +142,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ba1aaea116f04d1f",
-      "title": "From Twelve Relocations to a Mission for Mothers: Mariame Cisse’s Journey of Resilience and Self-Leadership",
-      "summary": "Behind Mariame Cisse’s work with mothers is a deeply personal story of separation, motherhood, resilience, and rebuilding. During childhood, Mariame was separated from her mother at the age of six until she was nearly 19. That experience profoundly influenced how she later app...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/from-twelve-relocations-to-a-mission-for-mothers-mariame-cisses-journey-of-resilience-and-self-leadership/",
-      "publishedAt": "2026-09-13T10:30:43.000Z",
-      "collectedAt": "2026-09-13T11:35:08.230Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-14T07:48:55.829Z",
+    "generatedAt": "2026-09-14T14:57:09.697Z",
     "count": 6
   }
 }

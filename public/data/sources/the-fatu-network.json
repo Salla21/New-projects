@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "315f311a083764c7",
+      "title": "Youth Festival Draws 10,000 Leaders From 191 Countries to Russia",
+      "summary": "By Dawda Baldeh Thousands of young people from across the globe are converging on the Russian city of Yekaterinburg for the International Youth Festival, with participants from 47 countries already arriving ahead of the event’s official programme. Grigory Gurov, head of Russia...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/youth-festival-draws-10000-leaders-from-191-countries-to-russia/",
+      "publishedAt": "2026-09-14T12:14:29.000Z",
+      "collectedAt": "2026-09-14T14:57:04.636Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b42f0cdb1728a138",
       "title": "Before the First Hallucinated Citation: Why The Gambia’s courts and lawyers need an AI rulebook now",
       "summary": "Before the First Hallucinated CitationWhy The Gambia’s courts and lawyers need an AI rulebook nowBy Sarjo Barrow, Esq. OPINION – Legal Commentary Two recent events in the United States should get the attention of people in Banjul. In United States v. Heppner, a federal judge i...",
@@ -289,7 +312,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-14T07:48:55.829Z",
-    "count": 13
+    "generatedAt": "2026-09-14T14:57:09.697Z",
+    "count": 14
   }
 }

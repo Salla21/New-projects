@@ -1430,34 +1430,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "1b4374c558e59c18",
-      "title": "Badjie Says Many Gambians Abroad Would Return if Jobs Were Available at Home",
-      "summary": "By Seedy Jobe Bakary K. Badjie, leader of the United Gambia Front and National Assembly member for Foni Bintang Karanai, said many Gambians living abroad would prefer to return home if the country could provide decent jobs and a more favorable working environment. Mr. Badjie m...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/badjie-says-many-gambians-abroad-would-return-if-jobs-were-available-at-home/",
-      "publishedAt": "2026-09-07T17:48:50.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-14T07:48:55.829Z",
-    "count": 63
+    "generatedAt": "2026-09-14T14:57:09.697Z",
+    "count": 62
   }
 }

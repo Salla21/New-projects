@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "315f311a083764c7",
+      "title": "Youth Festival Draws 10,000 Leaders From 191 Countries to Russia",
+      "summary": "By Dawda Baldeh Thousands of young people from across the globe are converging on the Russian city of Yekaterinburg for the International Youth Festival, with participants from 47 countries already arriving ahead of the event’s official programme. Grigory Gurov, head of Russia...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/youth-festival-draws-10000-leaders-from-191-countries-to-russia/",
+      "publishedAt": "2026-09-14T12:14:29.000Z",
+      "collectedAt": "2026-09-14T14:57:04.636Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ed34c4380b0f044b",
       "title": "Ebrima Sorrie Bah Resigns From UDP, Returns to NPP to Support President Barrow",
       "summary": "By Seedy Jobe Ebrima Sorrie Bah, founder and commander of Operation UDP Laffah, has resigned from the United Democratic Party with immediate effect and announced his return to the National People’s Party, saying he feels an obligation to support President Adama Barrow during w...",
@@ -2256,33 +2279,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6f2d3963c053c39e",
-      "title": "Lamin J. Darboe Calls for Opposition Unity to Defeat Barrow in December Election",
-      "summary": "By Fatou Sillah Lamin J. Darboe, leader of the National Unity Party, has called on Gambians to rally behind Coalition 2026, saying opposition unity is essential to defeating President Adama Barrow in the December presidential election. Speaking at the Coalition 2026 Unity Rall...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lamin-j-darboe-calls-for-opposition-unity-to-defeat-barrow-in-december-election/",
-      "publishedAt": "2026-09-07T17:56:47.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-14T07:48:55.829Z",
+    "generatedAt": "2026-09-14T14:57:09.697Z",
     "count": 100
   }
 }

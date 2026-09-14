@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "315f311a083764c7",
+      "title": "Youth Festival Draws 10,000 Leaders From 191 Countries to Russia",
+      "summary": "By Dawda Baldeh Thousands of young people from across the globe are converging on the Russian city of Yekaterinburg for the International Youth Festival, with participants from 47 countries already arriving ahead of the event’s official programme. Grigory Gurov, head of Russia...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/youth-festival-draws-10000-leaders-from-191-countries-to-russia/",
+      "publishedAt": "2026-09-14T12:14:29.000Z",
+      "collectedAt": "2026-09-14T14:57:04.636Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "76a7dd481607d3a3",
       "title": "Darboe Challenges Government to Prove Who Initiated URR Roads and Bridges",
       "summary": "By Seedy Jobe Ousainu Darboe, the leader of the United Democratic Party, has challenged the government to provide evidence of who initiated major road and bridge projects in the Upper River Region, accusing President Adama Barrow’s administration of taking credit for infrastru...",
@@ -216,30 +239,6 @@
       "status": "published"
     },
     {
-      "id": "1b4374c558e59c18",
-      "title": "Badjie Says Many Gambians Abroad Would Return if Jobs Were Available at Home",
-      "summary": "By Seedy Jobe Bakary K. Badjie, leader of the United Gambia Front and National Assembly member for Foni Bintang Karanai, said many Gambians living abroad would prefer to return home if the country could provide decent jobs and a more favorable working environment. Mr. Badjie m...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/badjie-says-many-gambians-abroad-would-return-if-jobs-were-available-at-home/",
-      "publishedAt": "2026-09-07T17:48:50.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -248,7 +247,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-14T07:48:49.278Z",
+      "collectedAt": "2026-09-14T14:57:04.344Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -265,7 +264,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-14T07:48:55.829Z",
+    "generatedAt": "2026-09-14T14:57:09.697Z",
     "count": 11
   }
 }
