@@ -141,80 +141,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d5bfa02e89e81331",
-      "title": "UDP Youth President Says Government Has Fallen Short on Jobs, Skills Training and Youth Financing",
-      "summary": "By Seedy Jobe Hagi Suwaneh, the national youth president of the opposition United Democratic Party, has criticized the government’s record on youth employment and skills development, arguing that it has largely maintained existing programs without addressing the obstacles that...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-youth-president-says-government-has-fallen-short-on-jobs-skills-training-and-youth-financing/",
-      "publishedAt": "2026-09-07T17:34:05.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d8ded4d75a76d544",
-      "title": "Bensouda Pledges Two-Term Presidential Limit Under Coalition 2026",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the presidential candidate of Coalition 2026, has pledged to introduce a two-term limit for presidents if elected in December, placing constitutional and governance reforms among the central promises of his campaign. Speaking at the Coalit...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-two-term-presidential-limit-under-coalition-2026/",
-      "publishedAt": "2026-09-07T17:25:10.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c2460fa52fa4743a",
-      "title": "Talib Bensouda Says Coalition 2026 Would Privatize NAWEC",
-      "summary": "By Fatou Sillah Coalition 2026 presidential candidate Talib Ahmed Bensouda said Sunday that his administration would liberalize The Gambia’s electricity sector and sell the National Water and Electricity Company, NAWEC, to private investors if he wins the December presidential...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/talib-bensouda-says-coalition-2026-would-privatize-nawec/",
-      "publishedAt": "2026-09-07T17:14:20.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T20:38:05.800Z",
-    "count": 9
+    "generatedAt": "2026-09-14T00:02:41.049Z",
+    "count": 6
   }
 }

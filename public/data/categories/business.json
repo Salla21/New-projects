@@ -568,30 +568,6 @@
       "status": "published"
     },
     {
-      "id": "d5bfa02e89e81331",
-      "title": "UDP Youth President Says Government Has Fallen Short on Jobs, Skills Training and Youth Financing",
-      "summary": "By Seedy Jobe Hagi Suwaneh, the national youth president of the opposition United Democratic Party, has criticized the government’s record on youth employment and skills development, arguing that it has largely maintained existing programs without addressing the obstacles that...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-youth-president-says-government-has-fallen-short-on-jobs-skills-training-and-youth-financing/",
-      "publishedAt": "2026-09-07T17:34:05.000Z",
-      "collectedAt": "2026-09-07T18:43:00.254Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -600,7 +576,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-13T20:37:59.928Z",
+      "collectedAt": "2026-09-14T00:02:34.174Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -624,7 +600,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-13T20:37:59.928Z",
+      "collectedAt": "2026-09-14T00:02:34.174Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -647,7 +623,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-13T20:37:59.928Z",
+      "collectedAt": "2026-09-14T00:02:34.174Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -664,7 +640,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-13T20:38:05.800Z",
-    "count": 28
+    "generatedAt": "2026-09-14T00:02:41.049Z",
+    "count": 27
   }
 }
