@@ -363,34 +363,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "553caefd31e69e3d",
-      "title": "President Barrow to Deliver Statement on Electricity Crisis After Visits to Kotu, Brikama Power Stations",
-      "summary": "By Makutu Manneh President Adama Barrow said Tuesday that he would address the nation later in the day on The Gambia’s worsening electricity crisis, promising to restore reliable power after visiting NAWEC facilities in Kotu and Brikama. Mr. Barrow spoke to reporters after ins...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/president-barrow-to-deliver-statement-on-electricity-crisis-after-visits-to-kotu-brikama-power-stations/",
-      "publishedAt": "2026-09-08T15:14:48.000Z",
-      "collectedAt": "2026-09-08T16:28:57.163Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T13:24:21.944Z",
-    "count": 17
+    "generatedAt": "2026-09-15T18:05:53.663Z",
+    "count": 16
   }
 }

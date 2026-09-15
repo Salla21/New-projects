@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "59be0ae517bf706f",
+      "title": "UDP Youth President Questions Barrow’s Ivory Coast Electricity Pledge, Warns of Gambia’s Growing Debt Burden",
+      "summary": "By Seedy Jobe The national youth president of the United Democratic Party, Hagi Suwaneh, has questioned President Adama Barrow’s pledge to secure electricity from Ivory Coast next month, arguing that the plan points to a deeper problem: The Gambia’s growing debt burden. “Our c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-youth-president-questions-barrows-ivory-coast-electricity-pledge-warns-of-gambias-growing-debt-burden/",
+      "publishedAt": "2026-09-15T16:15:59.000Z",
+      "collectedAt": "2026-09-15T18:05:49.552Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f78e862fe114d3ec",
       "title": "Before Bitcoin Tower: Another Alleged Victim Emerges as Decades-Old Records Put Tamba and GTBoard Under Scrutiny",
       "summary": "Investigation by: Seringe S.T. TourayEditor-in-Chief of The Fatu Network The Fatu Network’s investigation into the unfinished Bitcoin Tower and The Edge apartment developments in Bijilo has led to another alleged victim, a Gambian businessman whose complaints against Ebrima So...",
@@ -25,7 +48,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T13:24:21.944Z",
-    "count": 1
+    "generatedAt": "2026-09-15T18:05:53.663Z",
+    "count": 2
   }
 }

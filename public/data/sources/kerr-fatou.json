@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "59be0ae517bf706f",
+      "title": "UDP Youth President Questions Barrow’s Ivory Coast Electricity Pledge, Warns of Gambia’s Growing Debt Burden",
+      "summary": "By Seedy Jobe The national youth president of the United Democratic Party, Hagi Suwaneh, has questioned President Adama Barrow’s pledge to secure electricity from Ivory Coast next month, arguing that the plan points to a deeper problem: The Gambia’s growing debt burden. “Our c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-youth-president-questions-barrows-ivory-coast-electricity-pledge-warns-of-gambias-growing-debt-burden/",
+      "publishedAt": "2026-09-15T16:15:59.000Z",
+      "collectedAt": "2026-09-15T18:05:49.552Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "37c5a2f8f68b5b8e",
       "title": "National Assembly Ratifies Marrakesh Treaty to Expand Access to Published Works for Persons With Disabilities",
       "summary": "By Fatou Sillah The National Assembly on Monday ratified the Marrakesh Treaty, an international agreement intended to expand access to books and other published materials for people who are blind, visually impaired, or otherwise unable to read standard print. Attorney General ...",
@@ -1398,34 +1421,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "553caefd31e69e3d",
-      "title": "President Barrow to Deliver Statement on Electricity Crisis After Visits to Kotu, Brikama Power Stations",
-      "summary": "By Makutu Manneh President Adama Barrow said Tuesday that he would address the nation later in the day on The Gambia’s worsening electricity crisis, promising to restore reliable power after visiting NAWEC facilities in Kotu and Brikama. Mr. Barrow spoke to reporters after ins...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/president-barrow-to-deliver-statement-on-electricity-crisis-after-visits-to-kotu-brikama-power-stations/",
-      "publishedAt": "2026-09-08T15:14:48.000Z",
-      "collectedAt": "2026-09-08T16:28:57.163Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T13:24:21.944Z",
+    "generatedAt": "2026-09-15T18:05:53.663Z",
     "count": 62
   }
 }

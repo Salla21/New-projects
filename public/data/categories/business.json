@@ -472,30 +472,6 @@
       "status": "published"
     },
     {
-      "id": "553caefd31e69e3d",
-      "title": "President Barrow to Deliver Statement on Electricity Crisis After Visits to Kotu, Brikama Power Stations",
-      "summary": "By Makutu Manneh President Adama Barrow said Tuesday that he would address the nation later in the day on The Gambia’s worsening electricity crisis, promising to restore reliable power after visiting NAWEC facilities in Kotu and Brikama. Mr. Barrow spoke to reporters after ins...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/president-barrow-to-deliver-statement-on-electricity-crisis-after-visits-to-kotu-brikama-power-stations/",
-      "publishedAt": "2026-09-08T15:14:48.000Z",
-      "collectedAt": "2026-09-08T16:28:57.163Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -504,7 +480,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-15T13:24:15.478Z",
+      "collectedAt": "2026-09-15T18:05:41.239Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -528,7 +504,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-15T13:24:15.478Z",
+      "collectedAt": "2026-09-15T18:05:41.239Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -551,7 +527,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-15T13:24:15.478Z",
+      "collectedAt": "2026-09-15T18:05:41.239Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -568,7 +544,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T13:24:21.944Z",
-    "count": 24
+    "generatedAt": "2026-09-15T18:05:53.663Z",
+    "count": 23
   }
 }

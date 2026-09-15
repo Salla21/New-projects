@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "59be0ae517bf706f",
+      "title": "UDP Youth President Questions Barrow’s Ivory Coast Electricity Pledge, Warns of Gambia’s Growing Debt Burden",
+      "summary": "By Seedy Jobe The national youth president of the United Democratic Party, Hagi Suwaneh, has questioned President Adama Barrow’s pledge to secure electricity from Ivory Coast next month, arguing that the plan points to a deeper problem: The Gambia’s growing debt burden. “Our c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-youth-president-questions-barrows-ivory-coast-electricity-pledge-warns-of-gambias-growing-debt-burden/",
+      "publishedAt": "2026-09-15T16:15:59.000Z",
+      "collectedAt": "2026-09-15T18:05:49.552Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f78e862fe114d3ec",
       "title": "Before Bitcoin Tower: Another Alleged Victim Emerges as Decades-Old Records Put Tamba and GTBoard Under Scrutiny",
       "summary": "Investigation by: Seringe S.T. TourayEditor-in-Chief of The Fatu Network The Fatu Network’s investigation into the unfinished Bitcoin Tower and The Edge apartment developments in Bijilo has led to another alleged victim, a Gambian businessman whose complaints against Ebrima So...",
@@ -181,31 +204,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "50b4d806e66e7cec",
-      "title": "From Investor to Defendant: How a Business Dispute Became a Matter for the Police and the Authorities",
-      "summary": "Written by: Seringe S.T. Touray There are commercial disputes that end up in court. And there are disputes that go far beyond that. In the previous parts of this series, The Fatu Network reconstructed the story of Bitcoin Tower, from the vision of two Austrian architects and i...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/from-investor-to-defendant-how-a-business-dispute-became-a-matter-for-the-police-and-the-authorities/",
-      "publishedAt": "2026-09-14T17:08:56.000Z",
-      "collectedAt": "2026-09-14T20:15:25.967Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T13:24:21.944Z",
+    "generatedAt": "2026-09-15T18:05:53.663Z",
     "count": 9
   }
 }
