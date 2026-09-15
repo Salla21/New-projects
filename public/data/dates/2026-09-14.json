@@ -1,6 +1,165 @@
 {
   "items": [
     {
+      "id": "37c5a2f8f68b5b8e",
+      "title": "National Assembly Ratifies Marrakesh Treaty to Expand Access to Published Works for Persons With Disabilities",
+      "summary": "By Fatou Sillah The National Assembly on Monday ratified the Marrakesh Treaty, an international agreement intended to expand access to books and other published materials for people who are blind, visually impaired, or otherwise unable to read standard print. Attorney General ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/national-assembly-ratifies-marrakesh-treaty-to-expand-access-to-published-works-for-persons-with-disabilities/",
+      "publishedAt": "2026-09-14T23:28:50.000Z",
+      "collectedAt": "2026-09-15T00:27:10.877Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ac9aeb21971c9d01",
+      "title": "GCCPC Says Consumer Protection Law Limits Its Enforcement Powers",
+      "summary": "By Seedy Jobe The Gambia Competition and Consumer Protection Commission says its authority under the country’s existing consumer protection law is largely administrative, limiting its ability to directly enforce decisions against schools and other institutions accused of viola...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gccpc-says-consumer-protection-law-limits-its-enforcement-powers/",
+      "publishedAt": "2026-09-14T23:21:21.000Z",
+      "collectedAt": "2026-09-15T00:27:10.877Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "77771b9e03f5d727",
+      "title": "Bensouda Defends Record as KMC Mayor, Says He Would Be in Prison if He Were Corrupt",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential candidate of Coalition 2026, has defended his record as mayor of the Kanifing Municipal Council, arguing that authorities would have prosecuted him by now if there were evidence that he had engaged in c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-says-he-would-be-in-prison-if-he-were-corrupt/",
+      "publishedAt": "2026-09-14T23:03:09.000Z",
+      "collectedAt": "2026-09-15T00:27:10.877Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8a38412dc7d5383a",
+      "title": "National Assembly Ratifies Beijing Treaty to Strengthen Protections for Performers",
+      "summary": "By Fatou Sillah The National Assembly on Monday ratified the Beijing Treaty on Audiovisual Performances, an international agreement aimed at strengthening intellectual property protections for actors, musicians, and other performers whose work appears in audiovisual production...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/national-assembly-ratifies-beijing-treaty-to-strengthen-protections-for-performers/",
+      "publishedAt": "2026-09-14T22:21:34.000Z",
+      "collectedAt": "2026-09-15T00:27:10.877Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "cca6851bef1ed0ae",
+      "title": "NPP’s Kebba Lang Fofana Accuses Opposition of Seeking to Derail December Election",
+      "summary": "By Seedy Jobe Nominated National Assembly Member Kebba Lang Fofana has accused opposition parties of seeking to derail The Gambia’s presidential election, claiming they believe they cannot defeat President Adama Barrow at the polls. Speaking at a National People’s Party rally ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/npps-kebba-lang-fofana-accuses-opposition-of-seeking-to-derail-december-election/",
+      "publishedAt": "2026-09-14T22:11:26.000Z",
+      "collectedAt": "2026-09-15T00:27:10.877Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8445efc8d47e53aa",
+      "title": "Education Minister Drammeh Urges Gambians to Scrutinize Leadership Records Ahead of 2026 Election",
+      "summary": "By Fatou Sillah The Minister of Basic and Secondary Education, Dr. Habibatou Drammeh, has urged Gambians to carefully assess political messages and candidates as the country approaches the 2026 presidential election, warning voters against what she described as political decep...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/education-minister-drammeh-urges-gambians-to-scrutinize-leadership-records-ahead-of-2026-election/",
+      "publishedAt": "2026-09-14T22:02:50.000Z",
+      "collectedAt": "2026-09-15T00:27:10.877Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6f52ca772cf1824b",
+      "title": "GCCPC Trains School Monitors to Tackle High Fees and Forced Sales",
+      "summary": "By Seedy Jobe The Gambia Competition and Consumer Protection Commission (GCCPC) is training school cluster monitors across the country to identify and curb practices that it says unfairly burden parents, including excessive fees, undisclosed charges, and requirements to purcha...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gccpc-trains-school-monitors-to-tackle-high-fees-and-forced-sales/",
+      "publishedAt": "2026-09-14T21:51:01.000Z",
+      "collectedAt": "2026-09-15T00:27:10.877Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "50b4d806e66e7cec",
       "title": "From Investor to Defendant: How a Business Dispute Became a Matter for the Police and the Authorities",
       "summary": "Written by: Seringe S.T. Touray There are commercial disputes that end up in court. And there are disputes that go far beyond that. In the previous parts of this series, The Fatu Network reconstructed the story of Bitcoin Tower, from the vision of two Austrian architects and i...",
@@ -70,7 +229,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-14T20:15:31.866Z",
-    "count": 3
+    "generatedAt": "2026-09-15T00:27:14.972Z",
+    "count": 10
   }
 }

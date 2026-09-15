@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "77771b9e03f5d727",
+      "title": "Bensouda Defends Record as KMC Mayor, Says He Would Be in Prison if He Were Corrupt",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential candidate of Coalition 2026, has defended his record as mayor of the Kanifing Municipal Council, arguing that authorities would have prosecuted him by now if there were evidence that he had engaged in c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-says-he-would-be-in-prison-if-he-were-corrupt/",
+      "publishedAt": "2026-09-14T23:03:09.000Z",
+      "collectedAt": "2026-09-15T00:27:10.877Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0fb2c68193a4b5e3",
       "title": "Several Gambian Army Recruits Hospitalized After Collapsing; At Least One Death Reported",
       "summary": "By Staff Writer Several recruits with the Gambia Armed Forces were rushed to Kanifing General Hospital on Friday after collapsing, according to unconfirmed reports, with at least one recruit possibly having died. The news was first reported by What’s On – Gambia, which cited a...",
@@ -148,7 +171,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-14T20:15:25.304Z",
+      "collectedAt": "2026-09-15T00:26:44.351Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -171,7 +194,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-14T20:15:25.304Z",
+      "collectedAt": "2026-09-15T00:26:44.351Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -195,7 +218,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-14T20:15:25.304Z",
+      "collectedAt": "2026-09-15T00:26:44.351Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -211,7 +234,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-14T20:15:31.866Z",
-    "count": 9
+    "generatedAt": "2026-09-15T00:27:14.972Z",
+    "count": 10
   }
 }
