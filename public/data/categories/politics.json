@@ -1,6 +1,148 @@
 {
   "items": [
     {
+      "id": "5166c805b6c96012",
+      "title": "State Seeks Recusal of Four Supreme Court Justices in Challenge to Chief Justice Faal’s Appointment",
+      "summary": "The Attorney General’s Chambers has asked the Supreme Court to recuse four justices, including Chief Justice Edrissa M.O. Faal, from hearing a constitutional challenge to Mr. Faal’s appointment as Chief Justice. The application was filed in the case brought by the Gambia Bar A...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/state-seeks-recusal-of-four-supreme-court-justices-in-challenge-to-chief-justice-faals-appointment/",
+      "publishedAt": "2026-09-15T21:36:29.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2b8cc277b004a820",
+      "title": "Dr. Ceesay Says Domestic Violence Allegations Against Diplomats Should Not Define Professional Competence",
+      "summary": "By Fatou Sillah The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, has argued that allegations of domestic violence involving Gambian diplomats should be treated separately from assessments of their professional competence, saying misconduct in a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-says-domestic-violence-allegations-against-diplomats-should-not-define-professional-competence/",
+      "publishedAt": "2026-09-15T20:54:08.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "44e9442bcd246c51",
+      "title": "Dr. Ceesay: Barrow Has Fulfilled Electricity Pledge, Citing Significant Improvement in Power Supply",
+      "summary": "By Fatou Sillah The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, said President Adama Barrow had fulfilled his promise to improve The Gambia’s electricity supply, pointing to what he described as a significant stabilization of power in recent d...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-barrow-has-fulfilled-electricity-pledge-citing-significant-improvement-in-power-supply/",
+      "publishedAt": "2026-09-15T20:39:50.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1bb6b2796a81276f",
+      "title": "Gambia, Gabon Ease Visa Rules for Diplomats and Government Officials",
+      "summary": "By Fatou Sillah The National Assembly on Tuesday ratified a visa exemption agreement between The Gambia and Gabon, allowing holders of diplomatic and service passports to travel between the two countries without obtaining an entry visa. The agreement, presented to lawmakers by...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-gabon-ease-visa-rules-for-diplomats-and-government-officials/",
+      "publishedAt": "2026-09-15T20:30:43.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9d155063c5e277e5",
+      "title": "New ECOWAS Commission President Says Bloc at ‘Crossroads’ After Three Member States’ Exit",
+      "summary": "By Makutu Manneh General Birame Diop, the new president of the ECOWAS Commission, praised President Adama Barrow for his support of regional integration and warned that the West African bloc was at a critical juncture following the withdrawal of Burkina Faso, Mali, and Niger. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/new-ecowas-commission-president-says-bloc-at-crossroads-after-three-member-states-exit/",
+      "publishedAt": "2026-09-15T20:23:43.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9b62ad27f5a47b0e",
+      "title": "CDS Gomez Warns Military to Stay Out of Politics as Elections Approach",
+      "summary": "By Makutu Manneh Lieutenant General Ousman Gomez, the chief of defence staff, has warned members of the Gambia Armed Forces against engaging in political activities as the country approaches the campaign and election period, saying military personnel must remain strictly apoli...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/cds-gomez-warns-military-to-stay-out-of-politics-as-elections-approach/",
+      "publishedAt": "2026-09-15T20:08:32.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "59be0ae517bf706f",
       "title": "UDP Youth President Questions Barrow’s Ivory Coast Electricity Pledge, Warns of Gambia’s Growing Debt Burden",
       "summary": "By Seedy Jobe The national youth president of the United Democratic Party, Hagi Suwaneh, has questioned President Adama Barrow’s pledge to secure electricity from Ivory Coast next month, arguing that the plan points to a deeper problem: The Gambia’s growing debt burden. “Our c...",
@@ -1381,7 +1523,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-15T18:05:41.239Z",
+      "collectedAt": "2026-09-15T22:49:55.611Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1404,7 +1546,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-15T18:05:41.239Z",
+      "collectedAt": "2026-09-15T22:49:55.611Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1427,7 +1569,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-15T18:05:41.239Z",
+      "collectedAt": "2026-09-15T22:49:55.611Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1444,7 +1586,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T18:05:53.663Z",
-    "count": 62
+    "generatedAt": "2026-09-15T22:50:02.308Z",
+    "count": 68
   }
 }

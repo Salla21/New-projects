@@ -340,33 +340,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "36c43170889c37fe",
-      "title": "NAWEC MD Urges Patience Amid Power Outages, Cites Regional Supply Shortfalls",
-      "summary": "By Makutu Manneh Gallo Saidy, managing director of the National Water and Electricity Company, has appealed for patience from Gambians frustrated by persistent power outages, saying reduced electricity imports from the regional grid have contributed to the country’s worsening ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nawec-md-urges-patience-amid-power-outages-cites-regional-supply-shortfalls/",
-      "publishedAt": "2026-09-08T15:23:31.000Z",
-      "collectedAt": "2026-09-08T16:28:57.163Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T18:05:53.663Z",
-    "count": 16
+    "generatedAt": "2026-09-15T22:50:02.308Z",
+    "count": 15
   }
 }

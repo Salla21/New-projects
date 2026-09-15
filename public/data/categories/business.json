@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "208cfe3e6d172899",
+      "title": "Gambia Hosts ECOWAS Competition Summit as West Africa Pushes for Fairer, More Integrated Markets",
+      "summary": "By Seedy Jobe The Gambia on Tuesday opened the inaugural annual conference of the ECOWAS Regional Competition Authority, bringing policymakers and regulators from across West Africa together for three days of talks on how stronger competition rules could help create a more int...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-hosts-ecowas-competition-summit-as-west-africa-pushes-for-fairer-more-integrated-markets/",
+      "publishedAt": "2026-09-15T21:08:47.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1bb6b2796a81276f",
+      "title": "Gambia, Gabon Ease Visa Rules for Diplomats and Government Officials",
+      "summary": "By Fatou Sillah The National Assembly on Tuesday ratified a visa exemption agreement between The Gambia and Gabon, allowing holders of diplomatic and service passports to travel between the two countries without obtaining an entry visa. The agreement, presented to lawmakers by...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-gabon-ease-visa-rules-for-diplomats-and-government-officials/",
+      "publishedAt": "2026-09-15T20:30:43.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9d155063c5e277e5",
+      "title": "New ECOWAS Commission President Says Bloc at ‘Crossroads’ After Three Member States’ Exit",
+      "summary": "By Makutu Manneh General Birame Diop, the new president of the ECOWAS Commission, praised President Adama Barrow for his support of regional integration and warned that the West African bloc was at a critical juncture following the withdrawal of Burkina Faso, Mali, and Niger. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/new-ecowas-commission-president-says-bloc-at-crossroads-after-three-member-states-exit/",
+      "publishedAt": "2026-09-15T20:23:43.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ed34c4380b0f044b",
       "title": "Ebrima Sorrie Bah Resigns From UDP, Returns to NPP to Support President Barrow",
       "summary": "By Seedy Jobe Ebrima Sorrie Bah, founder and commander of Operation UDP Laffah, has resigned from the United Democratic Party with immediate effect and announced his return to the National People’s Party, saying he feels an obligation to support President Adama Barrow during w...",
@@ -449,29 +520,6 @@
       "status": "published"
     },
     {
-      "id": "36c43170889c37fe",
-      "title": "NAWEC MD Urges Patience Amid Power Outages, Cites Regional Supply Shortfalls",
-      "summary": "By Makutu Manneh Gallo Saidy, managing director of the National Water and Electricity Company, has appealed for patience from Gambians frustrated by persistent power outages, saying reduced electricity imports from the regional grid have contributed to the country’s worsening ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nawec-md-urges-patience-amid-power-outages-cites-regional-supply-shortfalls/",
-      "publishedAt": "2026-09-08T15:23:31.000Z",
-      "collectedAt": "2026-09-08T16:28:57.163Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -480,7 +528,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-15T18:05:41.239Z",
+      "collectedAt": "2026-09-15T22:49:55.611Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -504,7 +552,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-15T18:05:41.239Z",
+      "collectedAt": "2026-09-15T22:49:55.611Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -527,7 +575,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-15T18:05:41.239Z",
+      "collectedAt": "2026-09-15T22:49:55.611Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -544,7 +592,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T18:05:53.663Z",
-    "count": 23
+    "generatedAt": "2026-09-15T22:50:02.308Z",
+    "count": 25
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "5166c805b6c96012",
+      "title": "State Seeks Recusal of Four Supreme Court Justices in Challenge to Chief Justice Faal’s Appointment",
+      "summary": "The Attorney General’s Chambers has asked the Supreme Court to recuse four justices, including Chief Justice Edrissa M.O. Faal, from hearing a constitutional challenge to Mr. Faal’s appointment as Chief Justice. The application was filed in the case brought by the Gambia Bar A...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/state-seeks-recusal-of-four-supreme-court-justices-in-challenge-to-chief-justice-faals-appointment/",
+      "publishedAt": "2026-09-15T21:36:29.000Z",
+      "collectedAt": "2026-09-15T22:49:58.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "315f311a083764c7",
       "title": "Youth Festival Draws 10,000 Leaders From 191 Countries to Russia",
       "summary": "By Dawda Baldeh Thousands of young people from across the globe are converging on the Russian city of Yekaterinburg for the International Youth Festival, with participants from 47 countries already arriving ahead of the event’s official programme. Grigory Gurov, head of Russia...",
@@ -198,7 +222,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-15T18:05:41.239Z",
+      "collectedAt": "2026-09-15T22:49:55.611Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -215,7 +239,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T18:05:53.663Z",
-    "count": 9
+    "generatedAt": "2026-09-15T22:50:02.308Z",
+    "count": 10
   }
 }
