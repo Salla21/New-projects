@@ -496,78 +496,6 @@
       "status": "published"
     },
     {
-      "id": "a90f00e8bcb10707",
-      "title": "‘We Want Light, Not Excuses’: Power Crisis Sparks Mass Protests as GAP Threatens Peaceful Action",
-      "summary": "Written by: Dawda Baldeh The Gambia’s worsening electricity crisis spilled onto the streets on Monday night, with large demonstrations reported across the Greater Banjul Area and other communities as frustrated residents demanded an end to prolonged power cuts. The protests fo...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/we-want-light-not-excuses-power-crisis-sparks-mass-protests-as-gap-threatens-peaceful-action/",
-      "publishedAt": "2026-09-08T11:20:59.000Z",
-      "collectedAt": "2026-09-08T16:28:52.650Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e4783239c4bf9092",
-      "title": "Darboe Says UDP’s ‘Quest for a Better Gambia Is Still On’ at 30th Anniversary Awards",
-      "summary": "By Seedy Jobe The United Democratic Party on Monday held an awards ceremony at its bureau in Manjai as part of its 30th anniversary celebrations, honoring longtime members, diaspora supporters and others who have contributed to the party over the past three decades. The ceremo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-udps-quest-for-a-better-gambia-is-still-on-at-30th-anniversary-awards/",
-      "publishedAt": "2026-09-08T01:44:18.000Z",
-      "collectedAt": "2026-09-08T04:14:11.122Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "01661df523f89661",
-      "title": "Gajigo Says Barrow Government Has Failed to Make Gambia Self-Sufficient in Rice",
-      "summary": "By Fatou Sillah Dr. Ousman Gajigo, an economist and politician, criticized President Adama Barrow’s government on Sunday over The Gambia’s continued reliance on imported rice, arguing that the country has the land, water and farming capacity to produce far more of the staple l...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gajigo-says-barrow-government-has-failed-to-make-gambia-self-sufficient-in-rice/",
-      "publishedAt": "2026-09-07T18:44:07.000Z",
-      "collectedAt": "2026-09-07T22:45:51.543Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -576,7 +504,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-15T00:26:44.351Z",
+      "collectedAt": "2026-09-15T07:34:28.717Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -600,7 +528,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-15T00:26:44.351Z",
+      "collectedAt": "2026-09-15T07:34:28.717Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -623,7 +551,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-15T00:26:44.351Z",
+      "collectedAt": "2026-09-15T07:34:28.717Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -640,7 +568,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T00:27:14.972Z",
-    "count": 27
+    "generatedAt": "2026-09-15T07:34:50.854Z",
+    "count": 24
   }
 }
