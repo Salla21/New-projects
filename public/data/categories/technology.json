@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "f78e862fe114d3ec",
+      "title": "Before Bitcoin Tower: Another Alleged Victim Emerges as Decades-Old Records Put Tamba and GTBoard Under Scrutiny",
+      "summary": "Investigation by: Seringe S.T. TourayEditor-in-Chief of The Fatu Network The Fatu Network’s investigation into the unfinished Bitcoin Tower and The Edge apartment developments in Bijilo has led to another alleged victim, a Gambian businessman whose complaints against Ebrima So...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/before-bitcoin-tower-another-alleged-victim-emerges-as-decades-old-records-put-tamba-and-gtboard-under-scrutiny/",
+      "publishedAt": "2026-09-15T12:40:55.000Z",
+      "collectedAt": "2026-09-15T13:24:16.062Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "95722e5c1416e454",
       "title": "Gambian children forced to beg for cash or face beatings",
       "summary": "By Dawda Baldeh Young children enrolled in local Quranic memorisation centres are being forced onto the streets of The Gambia to meet strict daily financial targets or face violent beatings from their teachers. At the bustling Jarra Soma bus garage along the Trans-Gambia corri...",
@@ -106,7 +129,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-15T07:34:28.717Z",
+      "collectedAt": "2026-09-15T13:24:15.478Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -129,7 +152,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-15T07:34:28.717Z",
+      "collectedAt": "2026-09-15T13:24:15.478Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -145,7 +168,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T07:34:50.854Z",
-    "count": 6
+    "generatedAt": "2026-09-15T13:24:21.944Z",
+    "count": 7
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "f78e862fe114d3ec",
+      "title": "Before Bitcoin Tower: Another Alleged Victim Emerges as Decades-Old Records Put Tamba and GTBoard Under Scrutiny",
+      "summary": "Investigation by: Seringe S.T. TourayEditor-in-Chief of The Fatu Network The Fatu Network’s investigation into the unfinished Bitcoin Tower and The Edge apartment developments in Bijilo has led to another alleged victim, a Gambian businessman whose complaints against Ebrima So...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/before-bitcoin-tower-another-alleged-victim-emerges-as-decades-old-records-put-tamba-and-gtboard-under-scrutiny/",
+      "publishedAt": "2026-09-15T12:40:55.000Z",
+      "collectedAt": "2026-09-15T13:24:16.062Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "37c5a2f8f68b5b8e",
       "title": "National Assembly Ratifies Marrakesh Treaty to Expand Access to Published Works for Persons With Disabilities",
       "summary": "By Fatou Sillah The National Assembly on Monday ratified the Marrakesh Treaty, an international agreement intended to expand access to books and other published materials for people who are blind, visually impaired, or otherwise unable to read standard print. Attorney General ...",
@@ -179,33 +202,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "315f311a083764c7",
-      "title": "Youth Festival Draws 10,000 Leaders From 191 Countries to Russia",
-      "summary": "By Dawda Baldeh Thousands of young people from across the globe are converging on the Russian city of Yekaterinburg for the International Youth Festival, with participants from 47 countries already arriving ahead of the event’s official programme. Grigory Gurov, head of Russia...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/youth-festival-draws-10000-leaders-from-191-countries-to-russia/",
-      "publishedAt": "2026-09-14T12:14:29.000Z",
-      "collectedAt": "2026-09-14T14:57:04.636Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T07:34:50.854Z",
+    "generatedAt": "2026-09-15T13:24:21.944Z",
     "count": 9
   }
 }
