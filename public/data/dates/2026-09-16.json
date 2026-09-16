@@ -1,6 +1,189 @@
 {
   "items": [
     {
+      "id": "d305d55aeb299db2",
+      "title": "Government Plans Tougher Measures to Enforce Rehabilitation of Mining Sites",
+      "summary": "By Fatou Sillah The Gambia government is preparing tougher environmental safeguards aimed at holding mining operators accountable for rehabilitating degraded sites, as authorities grapple with illegal extraction and abandoned pits that pose environmental and public safety risk...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/government-plans-tougher-measures-to-enforce-rehabilitation-of-mining-sites/",
+      "publishedAt": "2026-09-16T20:24:32.000Z",
+      "collectedAt": "2026-09-16T21:11:06.106Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "167bf3795e88ee4d",
+      "title": "Islamic Education Secretariat Received More Than D701 Million in Government Subventions Since 2021, Minister Says",
+      "summary": "By Fatou Sillah The Gambia government provided more than D701 million in subventions to the secretariat responsible for Islamic and Arabic education between 2021 and 2025, according to the Minister of Basic and Secondary Education, Dr. Habibatou Drammeh. Speaking before the Na...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/islamic-education-secretariat-received-more-than-d701-million-in-government-subventions-since-2021-minister-says/",
+      "publishedAt": "2026-09-16T20:07:07.000Z",
+      "collectedAt": "2026-09-16T21:11:06.106Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ff115a3c94a831f0",
+      "title": "Youth and Sports Ministry Touts Stadium Upgrades, Expands Youth and National Team Support",
+      "summary": "By Seedy Jobe The Ministry of Youth and Sports on Wednesday outlined a series of investments in sports infrastructure and youth development, announcing the completion of renovations at Independence Stadium, the expansion of community sports facilities, and increased government...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/youth-and-sports-ministry-touts-stadium-upgrades-expands-youth-and-national-team-support/",
+      "publishedAt": "2026-09-16T19:59:15.000Z",
+      "collectedAt": "2026-09-16T21:11:06.106Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bc152c109efce5a9",
+      "title": "Women’s Enterprise Fund Has D23.8 Million in Outstanding Loans, Minister Says",
+      "summary": "By Fatou Sillah The Women’s Enterprise Fund has D23.84 million in outstanding loans from financing provided to beneficiaries since 2021, according to Fatou Kinteh, the Minister of Gender, Children, and Social Welfare. Responding to questions before the National Assembly, Ms. K...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/womens-enterprise-fund-has-d23-8-million-in-outstanding-loans-minister-says/",
+      "publishedAt": "2026-09-16T19:37:51.000Z",
+      "collectedAt": "2026-09-16T21:11:06.106Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "54b8d83e136daec3",
+      "title": "Minister Badjie Says NYSS Training Instills Discipline and Direction in Gambian Youth",
+      "summary": "By Seedy Jobe The Minister of Youth and Sports, Bakary Y. Badjie, has said the National Youth Service Scheme is helping young Gambians develop discipline, practical skills, and a clearer sense of direction as they prepare to enter the workforce. Mr. Badjie spoke in an intervie...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/minister-badjie-says-nyss-training-instills-discipline-and-direction-in-gambian-youth/",
+      "publishedAt": "2026-09-16T18:00:11.000Z",
+      "collectedAt": "2026-09-16T21:11:06.106Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5ae1e39f93c777eb",
+      "title": "Write It, and Sign Your Name",
+      "summary": "OPINION By Sarjo Barrow, Esq. Why Gambian lawyers should write for the public—and why the Bar owes us somewhere to do it. Justice Ruth Bader Ginsburg once said that law should be a literary profession. I keep that line close because it runs opposite to how most of us were trai...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/write-it-and-sign-your-name/",
+      "publishedAt": "2026-09-16T17:41:22.000Z",
+      "collectedAt": "2026-09-16T21:11:04.192Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f1155bade53c3c45",
+      "title": "Dr. Ceesay Dismisses Claims Electricity Crisis Could Cost NPP December Election",
+      "summary": "By Makutu Manneh Dr. Ismaila Ceesay, the Minister of Information, Media and Broadcasting Services, has rejected suggestions that The Gambia’s electricity crisis could cost President Adama Barrow and the ruling National People’s Party alliance the Dec. 5 presidential election, ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-dismisses-claims-electricity-crisis-could-cost-npp-december-election/",
+      "publishedAt": "2026-09-16T16:55:59.000Z",
+      "collectedAt": "2026-09-16T21:11:06.106Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "29cca6869da396e5",
+      "title": "Information Minister Ceesay Calls Recent Electricity Protests ‘Criminal’",
+      "summary": "By Makutu Manneh Dr. Ismaila Ceesay, the minister of information, media, and broadcasting services, has described recent protests over prolonged electricity and water outages as “criminal,” while saying he had no evidence to conclude that the demonstrations were politically mo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/information-minister-ceesay-calls-recent-electricity-protests-criminal/",
+      "publishedAt": "2026-09-16T16:47:39.000Z",
+      "collectedAt": "2026-09-16T21:11:06.106Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "62921da2edde6210",
       "title": "“Adama, Answer the Call of the citizens. Even Allah Answered Jahannam” — Imam Ba Kawsu Urges Barrow to Heed Citizens’ Cries Over Power Outages",
       "summary": "By Seedy Jobe Prominent Islamic cleric Imam Ba Kawsu Fofana has appealed directly to President Adama Barrow to address The Gambia’s persistent electricity shortages, invoking Islamic teachings to describe the hardship prolonged power outages have imposed on households, busines...",
@@ -132,7 +315,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-16T16:39:14.868Z",
-    "count": 6
+    "generatedAt": "2026-09-16T21:11:10.237Z",
+    "count": 14
   }
 }

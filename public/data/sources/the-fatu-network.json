@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "5ae1e39f93c777eb",
+      "title": "Write It, and Sign Your Name",
+      "summary": "OPINION By Sarjo Barrow, Esq. Why Gambian lawyers should write for the public—and why the Bar owes us somewhere to do it. Justice Ruth Bader Ginsburg once said that law should be a literary profession. I keep that line close because it runs opposite to how most of us were trai...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/write-it-and-sign-your-name/",
+      "publishedAt": "2026-09-16T17:41:22.000Z",
+      "collectedAt": "2026-09-16T21:11:04.192Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "472d2f056ecfc8f8",
       "title": "Extreme heat linked to higher risk of stillbirth in Gambia, major study finds",
       "summary": "By Hadram Hydara High temperatures around the time of delivery are associated with an increased risk of fresh stillbirth in The Gambia, according to a major medical study highlighting the growing threat extreme climate conditions pose to maternal and newborn survival across We...",
@@ -303,33 +326,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b3e4f92f23387ad2",
-      "title": "President Barrow Promises Relief by October as Protests Over Power Crisis Mount",
-      "summary": "By Dawda Baldeh President Adama Barrow has addressed the nation following widespread public protests over severe power cuts across the Greater Banjul Area, promising that The Gambia’s electricity supply will improve by the end of October 2026. Addressing citizens in a national...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-promises-relief-by-october-as-protests-over-power-crisis-mount/",
-      "publishedAt": "2026-09-08T21:30:42.000Z",
-      "collectedAt": "2026-09-09T00:00:18.667Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-16T16:39:14.868Z",
+    "generatedAt": "2026-09-16T21:11:10.237Z",
     "count": 15
   }
 }
