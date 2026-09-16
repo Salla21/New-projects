@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "62921da2edde6210",
+      "title": "“Adama, Answer the Call of the citizens. Even Allah Answered Jahannam” — Imam Ba Kawsu Urges Barrow to Heed Citizens’ Cries Over Power Outages",
+      "summary": "By Seedy Jobe Prominent Islamic cleric Imam Ba Kawsu Fofana has appealed directly to President Adama Barrow to address The Gambia’s persistent electricity shortages, invoking Islamic teachings to describe the hardship prolonged power outages have imposed on households, busines...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/adama-answer-the-call-of-the-citizens-even-allah-answered-jahannam-imam-ba-kawsu-urges-barrow-to-heed-citizens-cries-over-power-outages/",
+      "publishedAt": "2026-09-16T16:37:23.000Z",
+      "collectedAt": "2026-09-16T16:39:10.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "472d2f056ecfc8f8",
+      "title": "Extreme heat linked to higher risk of stillbirth in Gambia, major study finds",
+      "summary": "By Hadram Hydara High temperatures around the time of delivery are associated with an increased risk of fresh stillbirth in The Gambia, according to a major medical study highlighting the growing threat extreme climate conditions pose to maternal and newborn survival across We...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/extreme-heat-linked-to-higher-risk-of-stillbirth-in-gambia-major-study-finds/",
+      "publishedAt": "2026-09-16T13:21:51.000Z",
+      "collectedAt": "2026-09-16T16:39:09.171Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b4a1fadcedb9b8de",
       "title": "GAMBIA’S SARJO JAWO HEADS TO THAILAND FOR MISS GLOBAL 2026",
       "summary": "Published by: The Fatu Network Gambian beauty queen Sarjo Ms Jawo will represent The Gambia at the Miss Global 2026 competition in Thailand, where she will compete alongside contestants from 78 countries. The competition will run from September 29th to October 11th, with Jawo ...",
@@ -313,56 +357,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "59be0ae517bf706f",
-      "title": "UDP Youth President Questions Barrow’s Ivory Coast Electricity Pledge, Warns of Gambia’s Growing Debt Burden",
-      "summary": "By Seedy Jobe The national youth president of the United Democratic Party, Hagi Suwaneh, has questioned President Adama Barrow’s pledge to secure electricity from Ivory Coast next month, arguing that the plan points to a deeper problem: The Gambia’s growing debt burden. “Our c...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-youth-president-questions-barrows-ivory-coast-electricity-pledge-warns-of-gambias-growing-debt-burden/",
-      "publishedAt": "2026-09-15T16:15:59.000Z",
-      "collectedAt": "2026-09-15T18:05:49.552Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f78e862fe114d3ec",
-      "title": "Before Bitcoin Tower: Another Alleged Victim Emerges as Decades-Old Records Put Tamba and GTBoard Under Scrutiny",
-      "summary": "Investigation by: Seringe S.T. TourayEditor-in-Chief of The Fatu Network The Fatu Network’s investigation into the unfinished Bitcoin Tower and The Edge apartment developments in Bijilo has led to another alleged victim, a Gambian businessman whose complaints against Ebrima So...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/before-bitcoin-tower-another-alleged-victim-emerges-as-decades-old-records-put-tamba-and-gtboard-under-scrutiny/",
-      "publishedAt": "2026-09-15T12:40:55.000Z",
-      "collectedAt": "2026-09-15T13:24:16.062Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-16T11:19:41.785Z",
+    "generatedAt": "2026-09-16T16:39:14.868Z",
     "count": 16
   }
 }

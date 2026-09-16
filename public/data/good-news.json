@@ -381,29 +381,6 @@
       "status": "published"
     },
     {
-      "id": "85210416c34c84b6",
-      "title": "Barrow Acknowledges Power-Sector Shortcomings, Promises Improved Electricity Supply by End of October",
-      "summary": "By Staff Writer President Adama Barrow on Tuesday acknowledged shortcomings in his government’s planning and electricity generation and maintenance systems as he addressed mounting public frustration over widespread power outages, promising that the country’s electricity suppl...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-acknowledges-power-sector-shortcomings-promises-improved-electricity-supply-by-end-of-october/",
-      "publishedAt": "2026-09-08T20:40:30.000Z",
-      "collectedAt": "2026-09-08T21:01:23.011Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "e90449effae42a02",
       "title": "COULD METERS ALOCATED TO A COMPOUND HEAD BE TAKEN AND GIVEN TO ANOTHER COMPOUND HEAD?",
       "summary": "Foroyaa received a complaint from a compound head in CRR North that a meter allocated to him is to be taken away through the order of a district authority. Foroyaa has contacted the PRO for investigation. The PRO emphasised that once a meter is allocated to a person and instal...",
@@ -412,7 +389,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-16T11:19:32.425Z",
+      "collectedAt": "2026-09-16T16:39:08.879Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -435,7 +412,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-16T11:19:32.425Z",
+      "collectedAt": "2026-09-16T16:39:08.879Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -456,7 +433,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-16T11:19:32.425Z",
+      "collectedAt": "2026-09-16T16:39:08.879Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -480,7 +457,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-16T11:19:32.425Z",
+      "collectedAt": "2026-09-16T16:39:08.879Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -496,7 +473,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-16T11:19:41.785Z",
-    "count": 22
+    "generatedAt": "2026-09-16T16:39:14.868Z",
+    "count": 21
   }
 }

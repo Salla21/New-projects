@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "62921da2edde6210",
+      "title": "“Adama, Answer the Call of the citizens. Even Allah Answered Jahannam” — Imam Ba Kawsu Urges Barrow to Heed Citizens’ Cries Over Power Outages",
+      "summary": "By Seedy Jobe Prominent Islamic cleric Imam Ba Kawsu Fofana has appealed directly to President Adama Barrow to address The Gambia’s persistent electricity shortages, invoking Islamic teachings to describe the hardship prolonged power outages have imposed on households, busines...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/adama-answer-the-call-of-the-citizens-even-allah-answered-jahannam-imam-ba-kawsu-urges-barrow-to-heed-citizens-cries-over-power-outages/",
+      "publishedAt": "2026-09-16T16:37:23.000Z",
+      "collectedAt": "2026-09-16T16:39:10.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "472d2f056ecfc8f8",
+      "title": "Extreme heat linked to higher risk of stillbirth in Gambia, major study finds",
+      "summary": "By Hadram Hydara High temperatures around the time of delivery are associated with an increased risk of fresh stillbirth in The Gambia, according to a major medical study highlighting the growing threat extreme climate conditions pose to maternal and newborn survival across We...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/extreme-heat-linked-to-higher-risk-of-stillbirth-in-gambia-major-study-finds/",
+      "publishedAt": "2026-09-16T13:21:51.000Z",
+      "collectedAt": "2026-09-16T16:39:09.171Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b4a1fadcedb9b8de",
       "title": "GAMBIA’S SARJO JAWO HEADS TO THAILAND FOR MISS GLOBAL 2026",
       "summary": "Published by: The Fatu Network Gambian beauty queen Sarjo Ms Jawo will represent The Gambia at the Miss Global 2026 competition in Thailand, where she will compete alongside contestants from 78 countries. The competition will run from September 29th to October 11th, with Jawo ...",
@@ -2222,54 +2266,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2c2672ea66d9e0b8",
-      "title": "Single Mothers Empowerment Association Celebrates First Anniversary",
-      "summary": "The Single Mothers Empowerment Association (SMEA-G) celebrated its first anniversary on Sunday, September 6, at the…\nThe post Single Mothers Empowerment Association Celebrates First Anniversary appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
-      "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-09T11:07:59.856Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b3e4f92f23387ad2",
-      "title": "President Barrow Promises Relief by October as Protests Over Power Crisis Mount",
-      "summary": "By Dawda Baldeh President Adama Barrow has addressed the nation following widespread public protests over severe power cuts across the Greater Banjul Area, promising that The Gambia’s electricity supply will improve by the end of October 2026. Addressing citizens in a national...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-promises-relief-by-october-as-protests-over-power-crisis-mount/",
-      "publishedAt": "2026-09-08T21:30:42.000Z",
-      "collectedAt": "2026-09-09T00:00:18.667Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-16T11:19:41.785Z",
+    "generatedAt": "2026-09-16T16:39:14.868Z",
     "count": 100
   }
 }
