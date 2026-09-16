@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "94699c563aec97ca",
+      "title": "Will TikTok Endorsements Sway the Presidential Election?",
+      "summary": "As The Gambia prepares to go to the polls on December 5 to elect a president,…\nThe post Will TikTok Endorsements Sway the Presidential Election? appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
+      "publishedAt": "2026-09-16T06:25:35.000Z",
+      "collectedAt": "2026-09-16T11:19:32.577Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Gainde",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5166c805b6c96012",
       "title": "State Seeks Recusal of Four Supreme Court Justices in Challenge to Chief Justice Faal’s Appointment",
       "summary": "The Attorney General’s Chambers has asked the Supreme Court to recuse four justices, including Chief Justice Edrissa M.O. Faal, from hearing a constitutional challenge to Mr. Faal’s appointment as Chief Justice. The application was filed in the case brought by the Gambia Bar A...",
@@ -1360,7 +1383,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-16T04:29:17.957Z",
+      "collectedAt": "2026-09-16T11:19:32.425Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1383,7 +1406,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-16T04:29:17.957Z",
+      "collectedAt": "2026-09-16T11:19:32.425Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1406,7 +1429,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-16T04:29:17.957Z",
+      "collectedAt": "2026-09-16T11:19:32.425Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1423,7 +1446,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-16T04:29:24.436Z",
-    "count": 61
+    "generatedAt": "2026-09-16T11:19:41.785Z",
+    "count": 62
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "b4a1fadcedb9b8de",
+      "title": "GAMBIA’S SARJO JAWO HEADS TO THAILAND FOR MISS GLOBAL 2026",
+      "summary": "Published by: The Fatu Network Gambian beauty queen Sarjo Ms Jawo will represent The Gambia at the Miss Global 2026 competition in Thailand, where she will compete alongside contestants from 78 countries. The competition will run from September 29th to October 11th, with Jawo ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambias-sarjo-jawo-heads-to-thailand-for-miss-global-2026/",
+      "publishedAt": "2026-09-16T09:19:49.000Z",
+      "collectedAt": "2026-09-16T11:19:32.988Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f78e862fe114d3ec",
       "title": "Before Bitcoin Tower: Another Alleged Victim Emerges as Decades-Old Records Put Tamba and GTBoard Under Scrutiny",
       "summary": "Investigation by: Seringe S.T. TourayEditor-in-Chief of The Fatu Network The Fatu Network’s investigation into the unfinished Bitcoin Tower and The Edge apartment developments in Bijilo has led to another alleged victim, a Gambian businessman whose complaints against Ebrima So...",
@@ -287,7 +308,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-16T04:29:24.436Z",
-    "count": 13
+    "generatedAt": "2026-09-16T11:19:41.785Z",
+    "count": 14
   }
 }
