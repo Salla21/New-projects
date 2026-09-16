@@ -284,56 +284,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7b950b499bb9359b",
-      "title": "US Launches $930,000 Forensic Project to Advance Post-Jammeh Justice in Gambia",
-      "summary": "By Hadram Hydara The United States government has launched a $930,000 (over D68M) forensic investigation project aimed at bolstering The Gambia’s justice system and helping uncover the truth behind human rights abuses committed under former President Yahya Jammeh, the US Embas...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/us-launches-930000-forensic-project-to-advance-post-jammeh-justice-in-gambia/",
-      "publishedAt": "2026-09-08T18:32:19.000Z",
-      "collectedAt": "2026-09-08T21:01:21.453Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f80f5197220c0e5a",
-      "title": "President Barrow Inspects NAWEC Facilities, Assures Swift Resolution",
-      "summary": "Note: The following statement was published by the State House of The Gambia and is reproduced verbatim. It has not been written or edited by The Fatu Network. His Excellency President Adama Barrow emphasised that access to electricity is a right and not a privilege. He made t...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-inspects-nawec-facilities-assures-swift-resolution/",
-      "publishedAt": "2026-09-08T17:31:23.000Z",
-      "collectedAt": "2026-09-08T21:01:21.453Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T22:50:02.308Z",
-    "count": 15
+    "generatedAt": "2026-09-16T04:29:24.436Z",
+    "count": 13
   }
 }

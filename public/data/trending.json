@@ -273,79 +273,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "37c5a2f8f68b5b8e",
-      "title": "National Assembly Ratifies Marrakesh Treaty to Expand Access to Published Works for Persons With Disabilities",
-      "summary": "By Fatou Sillah The National Assembly on Monday ratified the Marrakesh Treaty, an international agreement intended to expand access to books and other published materials for people who are blind, visually impaired, or otherwise unable to read standard print. Attorney General ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/national-assembly-ratifies-marrakesh-treaty-to-expand-access-to-published-works-for-persons-with-disabilities/",
-      "publishedAt": "2026-09-14T23:28:50.000Z",
-      "collectedAt": "2026-09-15T00:27:10.877Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ac9aeb21971c9d01",
-      "title": "GCCPC Says Consumer Protection Law Limits Its Enforcement Powers",
-      "summary": "By Seedy Jobe The Gambia Competition and Consumer Protection Commission says its authority under the country’s existing consumer protection law is largely administrative, limiting its ability to directly enforce decisions against schools and other institutions accused of viola...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gccpc-says-consumer-protection-law-limits-its-enforcement-powers/",
-      "publishedAt": "2026-09-14T23:21:21.000Z",
-      "collectedAt": "2026-09-15T00:27:10.877Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "77771b9e03f5d727",
-      "title": "Bensouda Defends Record as KMC Mayor, Says He Would Be in Prison if He Were Corrupt",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential candidate of Coalition 2026, has defended his record as mayor of the Kanifing Municipal Council, arguing that authorities would have prosecuted him by now if there were evidence that he had engaged in c...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-says-he-would-be-in-prison-if-he-were-corrupt/",
-      "publishedAt": "2026-09-14T23:03:09.000Z",
-      "collectedAt": "2026-09-15T00:27:10.877Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-15T22:50:02.308Z",
-    "count": 15
+    "generatedAt": "2026-09-16T04:29:24.436Z",
+    "count": 12
   }
 }
