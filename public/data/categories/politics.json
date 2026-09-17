@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "1efcad719803369f",
+      "title": "NDP, NAFAA Form Alliance Ahead of 2026 Presidential Election",
+      "summary": "By Fatou Sillah The National Democratic Party and the National Alliance for Accelerated Advancement have formed a political alliance ahead of The Gambia’s 2026 presidential election, with leaders of both groups saying they intend to work together on a shared political agenda. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-nafaa-form-alliance-ahead-of-2026-presidential-election/",
+      "publishedAt": "2026-09-16T21:57:16.000Z",
+      "collectedAt": "2026-09-17T00:17:15.011Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b6c0c8285bdf3cd5",
+      "title": "GRA Chief Calls for Stronger Regional Cooperation to Protect Africa’s Tax Base",
+      "summary": "By Makutu Manneh Yankuba Darboe, commissioner general of the Gambia Revenue Authority, has called for deeper cooperation among African tax administrations, warning that illicit financial flows, profit shifting, and increasingly borderless business activities are eroding the co...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gra-chief-calls-for-stronger-regional-cooperation-to-protect-africas-tax-base/",
+      "publishedAt": "2026-09-16T21:45:29.000Z",
+      "collectedAt": "2026-09-17T00:17:15.011Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "167bf3795e88ee4d",
       "title": "Islamic Education Secretariat Received More Than D701 Million in Government Subventions Since 2021, Minister Says",
       "summary": "By Fatou Sillah The Gambia government provided more than D701 million in subventions to the secretariat responsible for Islamic and Arabic education between 2021 and 2025, according to the Minister of Basic and Secondary Education, Dr. Habibatou Drammeh. Speaking before the Na...",
@@ -1375,76 +1422,6 @@
       "status": "published"
     },
     {
-      "id": "991e17beba15d420",
-      "title": "Barrow Approves New Roads for Kombo East, Cites Regional Challenges Behind Power Problems",
-      "summary": "By Makutu Manneh President Adama Barrow has approved the construction of a new road network linking Faraba with neighboring communities in Kombo East, according to a statement issued Wednesday by State House. The announcement followed a meeting between the president and a dele...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-approves-new-roads-for-kombo-east-cites-regional-challenges-behind-power-problems/",
-      "publishedAt": "2026-09-09T23:34:14.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a6e45d98d69d40c2",
-      "title": "Human Rights Activist Jobarteh Accuses NAWEC of Systemic Corruption, Says Barrow Lacks Capacity to Govern",
-      "summary": "By Makutu Manneh Madi Jobarteh, a human rights activist, has accused the National Water and Electricity Company of widespread corruption and mismanagement, alleging that senior officials have used their positions for personal benefit while the state-owned utility struggles to ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/human-rights-activist-jobarteh-accuses-nawec-of-systemic-corruption-says-barrow-lacks-capacity-to-govern/",
-      "publishedAt": "2026-09-09T23:32:18.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e9b668d54226c6f8",
-      "title": "APP-Sobeyaa Confirms Talks With Ruling NPP Over Possible 2026 Alliance",
-      "summary": "By Staff Writer APP-Sobeyaa has confirmed that it is holding talks with the ruling National People’s Party over a possible political alliance ahead of The Gambia’s 2026 presidential election, validating reports published last week by Kerr Fatou and other news outlets. The repo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/app-sobeyaa-confirms-talks-with-ruling-npp-over-possible-2026-alliance/",
-      "publishedAt": "2026-09-09T15:36:13.000Z",
-      "collectedAt": "2026-09-09T16:25:38.381Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1453,7 +1430,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-16T21:11:03.698Z",
+      "collectedAt": "2026-09-17T00:17:12.184Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1476,7 +1453,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-16T21:11:03.698Z",
+      "collectedAt": "2026-09-17T00:17:12.184Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1499,7 +1476,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-16T21:11:03.698Z",
+      "collectedAt": "2026-09-17T00:17:12.184Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1516,7 +1493,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-16T21:11:10.237Z",
-    "count": 65
+    "generatedAt": "2026-09-17T00:17:19.046Z",
+    "count": 64
   }
 }

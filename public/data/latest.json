@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "1efcad719803369f",
+      "title": "NDP, NAFAA Form Alliance Ahead of 2026 Presidential Election",
+      "summary": "By Fatou Sillah The National Democratic Party and the National Alliance for Accelerated Advancement have formed a political alliance ahead of The Gambia’s 2026 presidential election, with leaders of both groups saying they intend to work together on a shared political agenda. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-nafaa-form-alliance-ahead-of-2026-presidential-election/",
+      "publishedAt": "2026-09-16T21:57:16.000Z",
+      "collectedAt": "2026-09-17T00:17:15.011Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b6c0c8285bdf3cd5",
+      "title": "GRA Chief Calls for Stronger Regional Cooperation to Protect Africa’s Tax Base",
+      "summary": "By Makutu Manneh Yankuba Darboe, commissioner general of the Gambia Revenue Authority, has called for deeper cooperation among African tax administrations, warning that illicit financial flows, profit shifting, and increasingly borderless business activities are eroding the co...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gra-chief-calls-for-stronger-regional-cooperation-to-protect-africas-tax-base/",
+      "publishedAt": "2026-09-16T21:45:29.000Z",
+      "collectedAt": "2026-09-17T00:17:15.011Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d305d55aeb299db2",
       "title": "Government Plans Tougher Measures to Enforce Rehabilitation of Mining Sites",
       "summary": "By Fatou Sillah The Gambia government is preparing tougher environmental safeguards aimed at holding mining operators accountable for rehabilitating degraded sites, as authorities grapple with illegal extraction and abandoned pits that pose environmental and public safety risk...",
@@ -2224,56 +2271,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5e1f8490e9279b13",
-      "title": "Hon. Njai Says Gambians Have a Right to Protest, but Not to Destroy Public Property",
-      "summary": "By Fatou Sillah The National Assembly member for Banjul Central, Abdoulie Njai, has defended the right of Gambians to protest over the country’s electricity crisis, while urging demonstrators to remain peaceful and refrain from damaging public property. Speaking before the Nat...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/hon-njai-says-gambians-have-a-right-to-protest-but-not-to-destroy-public-property/",
-      "publishedAt": "2026-09-09T23:47:48.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "be88a87b016d35d7",
-      "title": "National Assembly Members Debate Gambia’s Electricity Crisis",
-      "summary": "By Fatou Sillah National Assembly members on Wednesday called for greater scrutiny of NAWEC and a coordinated response to The Gambia’s electricity crisis, as lawmakers debated persistent power outages that have fueled public frustration and recent protests. The debate followed...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/national-assembly-members-debate-gambias-electricity-crisis/",
-      "publishedAt": "2026-09-09T23:44:18.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-16T21:11:10.237Z",
+    "generatedAt": "2026-09-17T00:17:19.046Z",
     "count": 100
   }
 }
