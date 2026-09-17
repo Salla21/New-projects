@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "e917b641b836d2ea",
+      "title": "Cany Jobe: The engineer determined to unlock Gambia’s oil potential",
+      "summary": "By Hadram Hydara From navigating high school subject dilemmas to leading high-stakes national energy negotiations across four continents, Cany Jobe’s path to becoming Director General of The Gambia Petroleum Commission has been defined by an appetite for new frontiers. Speakin...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/cany-jobe-the-engineer-determined-to-unlock-gambias-oil-potential/",
+      "publishedAt": "2026-09-17T13:37:51.000Z",
+      "collectedAt": "2026-09-17T18:06:16.277Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "15a4317977586262",
+      "title": "Gambia Turns to Organic Fertiliser as Farmers Struggle With Costs",
+      "summary": "By: Dawda Baldeh The Gambia is stepping up efforts to promote organic fertiliser and agroecological farming as farmers struggle with the rising cost and limited availability of agricultural inputs. The push for greater investment in organic fertiliser took centre stage at the ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-turns-to-organic-fertiliser-as-farmers-struggle-with-costs/",
+      "publishedAt": "2026-09-17T13:20:13.000Z",
+      "collectedAt": "2026-09-17T18:06:16.277Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1efcad719803369f",
       "title": "NDP, NAFAA Form Alliance Ahead of 2026 Presidential Election",
       "summary": "By Fatou Sillah The National Democratic Party and the National Alliance for Accelerated Advancement have formed a political alliance ahead of The Gambia’s 2026 presidential election, with leaders of both groups saying they intend to work together on a shared political agenda. ...",
@@ -2225,56 +2269,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4e539b353c785fab",
-      "title": "VP Jallow Says More Than 262,000 Gambians Are at Risk of Food Insecurity",
-      "summary": "By Fatou Sillah More than 262,000 people in The Gambia are at risk of food insecurity, Vice President Muhammed B.S. Jallow told the National Assembly on Wednesday, citing a national assessment conducted earlier this year. Mr. Jallow said an estimated 262,432 people were identi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/vp-jallow-says-more-than-262000-gambians-are-at-risk-of-food-insecurity/",
-      "publishedAt": "2026-09-09T23:52:35.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "99d76eae5b800e59",
-      "title": "NAM Badjie Accuses Government of Prioritizing Politics as NAWEC Crisis Persists",
-      "summary": "By Fatou Sillah Bakary K. Badjie, the National Assembly member for Foni Bintang Karanai, has accused the government of prioritizing political spending while failing to find a lasting solution to The Gambia’s persistent electricity crisis. Speaking during a National Assembly de...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nam-badjie-accuses-government-of-prioritizing-politics-as-nawec-crisis-persists/",
-      "publishedAt": "2026-09-09T23:50:21.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-17T13:18:44.966Z",
+    "generatedAt": "2026-09-17T18:06:22.773Z",
     "count": 100
   }
 }

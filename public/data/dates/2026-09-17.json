@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "e917b641b836d2ea",
+      "title": "Cany Jobe: The engineer determined to unlock Gambia’s oil potential",
+      "summary": "By Hadram Hydara From navigating high school subject dilemmas to leading high-stakes national energy negotiations across four continents, Cany Jobe’s path to becoming Director General of The Gambia Petroleum Commission has been defined by an appetite for new frontiers. Speakin...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/cany-jobe-the-engineer-determined-to-unlock-gambias-oil-potential/",
+      "publishedAt": "2026-09-17T13:37:51.000Z",
+      "collectedAt": "2026-09-17T18:06:16.277Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "15a4317977586262",
+      "title": "Gambia Turns to Organic Fertiliser as Farmers Struggle With Costs",
+      "summary": "By: Dawda Baldeh The Gambia is stepping up efforts to promote organic fertiliser and agroecological farming as farmers struggle with the rising cost and limited availability of agricultural inputs. The push for greater investment in organic fertiliser took centre stage at the ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-turns-to-organic-fertiliser-as-farmers-struggle-with-costs/",
+      "publishedAt": "2026-09-17T13:20:13.000Z",
+      "collectedAt": "2026-09-17T18:06:16.277Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-09-17T18:06:22.773Z",
+    "count": 2
+  }
+}
