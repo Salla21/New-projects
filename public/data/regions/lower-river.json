@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "0ae0b5fbecb17fd2",
+      "title": "‘We Have to Overcome Big Challenges,’ McKinstry Says as He Names Scorpions Squad for AFCON Qualifiers",
+      "summary": "By Seedy Jobe Scorpions head coach Johnathan McKinstry has named a 25-man squad for The Gambia’s opening Africa Cup of Nations qualifiers against Somalia and Ghana, saying the team must be prepared to overcome significant challenges if it is to secure a place at next year’s to...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/we-have-to-overcome-big-challenges-mckinstry-says-as-he-names-scorpions-squad-for-afcon-qualifiers/",
+      "publishedAt": "2026-09-17T18:33:45.000Z",
+      "collectedAt": "2026-09-17T22:47:29.606Z",
+      "region": "lower-river",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "95722e5c1416e454",
       "title": "Gambian children forced to beg for cash or face beatings",
       "summary": "By Dawda Baldeh Young children enrolled in local Quranic memorisation centres are being forced onto the streets of The Gambia to meet strict daily financial targets or face violent beatings from their teachers. At the bustling Jarra Soma bus garage along the Trans-Gambia corri...",
@@ -25,7 +48,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-17T18:06:22.773Z",
-    "count": 1
+    "generatedAt": "2026-09-17T22:47:33.642Z",
+    "count": 2
   }
 }

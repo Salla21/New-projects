@@ -47,52 +47,6 @@
       "status": "published"
     },
     {
-      "id": "4e539b353c785fab",
-      "title": "VP Jallow Says More Than 262,000 Gambians Are at Risk of Food Insecurity",
-      "summary": "By Fatou Sillah More than 262,000 people in The Gambia are at risk of food insecurity, Vice President Muhammed B.S. Jallow told the National Assembly on Wednesday, citing a national assessment conducted earlier this year. Mr. Jallow said an estimated 262,432 people were identi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/vp-jallow-says-more-than-262000-gambians-are-at-risk-of-food-insecurity/",
-      "publishedAt": "2026-09-09T23:52:35.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "99d76eae5b800e59",
-      "title": "NAM Badjie Accuses Government of Prioritizing Politics as NAWEC Crisis Persists",
-      "summary": "By Fatou Sillah Bakary K. Badjie, the National Assembly member for Foni Bintang Karanai, has accused the government of prioritizing political spending while failing to find a lasting solution to The Gambia’s persistent electricity crisis. Speaking during a National Assembly de...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nam-badjie-accuses-government-of-prioritizing-politics-as-nawec-crisis-persists/",
-      "publishedAt": "2026-09-09T23:50:21.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -101,7 +55,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-17T18:06:16.192Z",
+      "collectedAt": "2026-09-17T22:47:28.504Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -124,7 +78,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/secret-lovers-busted-married-man-and-woman-allegedly-flee-leave-blanket-behind/",
       "publishedAt": "2026-09-09T04:53:37.000Z",
-      "collectedAt": "2026-09-17T18:06:16.192Z",
+      "collectedAt": "2026-09-17T22:47:28.504Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -145,7 +99,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-17T18:06:16.192Z",
+      "collectedAt": "2026-09-17T22:47:28.504Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -159,7 +113,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-17T18:06:22.773Z",
-    "count": 7
+    "generatedAt": "2026-09-17T22:47:33.642Z",
+    "count": 5
   }
 }

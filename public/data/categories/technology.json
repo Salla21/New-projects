@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "15f5bfa8bdfffd68",
+      "title": "“They Don’t Tell Barrow the Right Thing”: NAM Faults Technocrats, Government Priorities",
+      "summary": "By Seedy Jobe The National Assembly member for Foni Jarrol, Hon. Kebba Tumanding Sanneh, has criticized the Barrow administration over what he described as misplaced priorities and poor implementation of government policies, arguing that technocrats are failing to provide Pres...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/they-dont-tell-barrow-the-right-thing-nam-faults-technocrats-government-priorities/",
+      "publishedAt": "2026-09-17T18:22:25.000Z",
+      "collectedAt": "2026-09-17T22:47:29.606Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9b62ad27f5a47b0e",
       "title": "CDS Gomez Warns Military to Stay Out of Politics as Elections Approach",
       "summary": "By Makutu Manneh Lieutenant General Ousman Gomez, the chief of defence staff, has warned members of the Gambia Armed Forces against engaging in political activities as the country approaches the campaign and election period, saying military personnel must remain strictly apoli...",
@@ -153,7 +177,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-17T18:06:15.970Z",
+      "collectedAt": "2026-09-17T22:47:28.357Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -176,7 +200,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-17T18:06:15.970Z",
+      "collectedAt": "2026-09-17T22:47:28.357Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -192,7 +216,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-17T18:06:22.773Z",
-    "count": 8
+    "generatedAt": "2026-09-17T22:47:33.642Z",
+    "count": 9
   }
 }

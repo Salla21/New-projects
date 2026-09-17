@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "67577f9b97ba8eff",
+      "title": "Gambia to Host ‘Tabital Pulaaku’ International Assembly as 33 Countries Prepare to Converge",
+      "summary": "By Dawda Baldeh The Gambia is set to host the Tabital Pulaaku International (TPI) General Assembly from September 26 to 27, bringing together representatives from more than 33 countries across Africa, Europe and the Americas for a major gathering focused on unity, dialogue, cu...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-to-host-tabital-pulaaku-international-assembly-as-33-countries-prepare-to-converge/",
+      "publishedAt": "2026-09-17T19:11:56.000Z",
+      "collectedAt": "2026-09-17T22:47:28.556Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e917b641b836d2ea",
       "title": "Cany Jobe: The engineer determined to unlock Gambia’s oil potential",
       "summary": "By Hadram Hydara From navigating high school subject dilemmas to leading high-stakes national energy negotiations across four continents, Cany Jobe’s path to becoming Director General of The Gambia Petroleum Commission has been defined by an appetite for new frontiers. Speakin...",
@@ -331,7 +355,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-17T18:06:22.773Z",
-    "count": 15
+    "generatedAt": "2026-09-17T22:47:33.642Z",
+    "count": 16
   }
 }

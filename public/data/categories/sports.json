@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "0ae0b5fbecb17fd2",
+      "title": "‘We Have to Overcome Big Challenges,’ McKinstry Says as He Names Scorpions Squad for AFCON Qualifiers",
+      "summary": "By Seedy Jobe Scorpions head coach Johnathan McKinstry has named a 25-man squad for The Gambia’s opening Africa Cup of Nations qualifiers against Somalia and Ghana, saying the team must be prepared to overcome significant challenges if it is to secure a place at next year’s to...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/we-have-to-overcome-big-challenges-mckinstry-says-as-he-names-scorpions-squad-for-afcon-qualifiers/",
+      "publishedAt": "2026-09-17T18:33:45.000Z",
+      "collectedAt": "2026-09-17T22:47:29.606Z",
+      "region": "lower-river",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f27f2960ca132935",
       "title": "MEDINA UTD SEEKS TO ELIMINATE VISITORS IN CAF CHAMPIONS LEAGUE SATURDAY",
       "summary": "Gambian champions Medina United returns to action in the Caf champion’s league preliminaries on Saturday at the newly refurbished Independence stadium. They are up against Star FC of Sierra Leone in the second leg of their tie which started in Bo –Town, last weekend with the t...",
@@ -48,7 +71,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-17T18:06:22.773Z",
-    "count": 2
+    "generatedAt": "2026-09-17T22:47:33.642Z",
+    "count": 3
   }
 }
