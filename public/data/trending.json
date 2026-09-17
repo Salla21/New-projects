@@ -294,75 +294,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a61a27496e597932",
-      "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
-      "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
-      "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-16T11:19:32.577Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "235b1ab0932371cf",
-      "title": "“MY NIGHT WAS RUINED!” Young Man Fumes After Discovering Expired Cond0m",
-      "summary": "A young Gambian man, who requested anonymity, has raised concerns over the alleged sale of expired…\nThe post “MY NIGHT WAS RUINED!” Young Man Fumes After Discovering Expired Cond0m appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/my-night-was-ruined-young-man-fumes-after-discovering-expired-cond0m/",
-      "publishedAt": "2026-09-16T06:26:50.000Z",
-      "collectedAt": "2026-09-16T11:19:32.577Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Saidy",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "94699c563aec97ca",
-      "title": "Will TikTok Endorsements Sway the Presidential Election?",
-      "summary": "As The Gambia prepares to go to the polls on December 5 to elect a president,…\nThe post Will TikTok Endorsements Sway the Presidential Election? appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
-      "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-16T11:19:32.577Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Gainde",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-17T00:17:19.046Z",
-    "count": 16
+    "generatedAt": "2026-09-17T07:29:45.074Z",
+    "count": 13
   }
 }

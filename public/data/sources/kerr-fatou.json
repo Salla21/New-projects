@@ -1445,56 +1445,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5e1f8490e9279b13",
-      "title": "Hon. Njai Says Gambians Have a Right to Protest, but Not to Destroy Public Property",
-      "summary": "By Fatou Sillah The National Assembly member for Banjul Central, Abdoulie Njai, has defended the right of Gambians to protest over the country’s electricity crisis, while urging demonstrators to remain peaceful and refrain from damaging public property. Speaking before the Nat...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/hon-njai-says-gambians-have-a-right-to-protest-but-not-to-destroy-public-property/",
-      "publishedAt": "2026-09-09T23:47:48.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "be88a87b016d35d7",
-      "title": "National Assembly Members Debate Gambia’s Electricity Crisis",
-      "summary": "By Fatou Sillah National Assembly members on Wednesday called for greater scrutiny of NAWEC and a coordinated response to The Gambia’s electricity crisis, as lawmakers debated persistent power outages that have fueled public frustration and recent protests. The debate followed...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/national-assembly-members-debate-gambias-electricity-crisis/",
-      "publishedAt": "2026-09-09T23:44:18.000Z",
-      "collectedAt": "2026-09-10T00:01:29.297Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-17T00:17:19.046Z",
-    "count": 65
+    "generatedAt": "2026-09-17T07:29:45.074Z",
+    "count": 63
   }
 }
