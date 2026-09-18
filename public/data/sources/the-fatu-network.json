@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "cc089aeba1ae7cbd",
+      "title": "Bensouda Denies NPP Talks, Declares Himself ‘Unstoppable and Unbreakable’",
+      "summary": "Written by: Mama A. Touray Coalition 2026 flagbearer and UNITE leader Talib Ahmed Bensouda has dismissed claims that he is in talks to join President Adama Barrow’s ruling National People’s Party (NPP), declaring that “that will never happen.” Bensouda made the remarks while a...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-denies-npp-talks-declares-himself-unstoppable-and-unbreakable/",
+      "publishedAt": "2026-09-18T10:39:53.000Z",
+      "collectedAt": "2026-09-18T11:00:40.236Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "798a690153b610f9",
+      "title": "Bensouda Vows to Fight Poverty, Create Opportunities for Youths and Empower Women",
+      "summary": "Written by: Mama A. Touray Coalition 2026 flagbearer and UNITE leader Talib Ahmed Bensouda has pledged to make fighting poverty, creating opportunities for young people and empowering women key priorities of his government if elected in the December 5th presidential election. ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-vows-to-fight-poverty-create-opportunities-for-youths-and-empower-women/",
+      "publishedAt": "2026-09-18T09:57:45.000Z",
+      "collectedAt": "2026-09-18T11:00:40.236Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "67577f9b97ba8eff",
       "title": "Gambia to Host ‘Tabital Pulaaku’ International Assembly as 33 Countries Prepare to Converge",
       "summary": "By Dawda Baldeh The Gambia is set to host the Tabital Pulaaku International (TPI) General Assembly from September 26 to 27, bringing together representatives from more than 33 countries across Africa, Europe and the Americas for a major gathering focused on unity, dialogue, cu...",
@@ -355,7 +402,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T04:20:31.871Z",
-    "count": 16
+    "generatedAt": "2026-09-18T11:01:29.867Z",
+    "count": 18
   }
 }

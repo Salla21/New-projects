@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "cc089aeba1ae7cbd",
+      "title": "Bensouda Denies NPP Talks, Declares Himself ‘Unstoppable and Unbreakable’",
+      "summary": "Written by: Mama A. Touray Coalition 2026 flagbearer and UNITE leader Talib Ahmed Bensouda has dismissed claims that he is in talks to join President Adama Barrow’s ruling National People’s Party (NPP), declaring that “that will never happen.” Bensouda made the remarks while a...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-denies-npp-talks-declares-himself-unstoppable-and-unbreakable/",
+      "publishedAt": "2026-09-18T10:39:53.000Z",
+      "collectedAt": "2026-09-18T11:00:40.236Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "798a690153b610f9",
+      "title": "Bensouda Vows to Fight Poverty, Create Opportunities for Youths and Empower Women",
+      "summary": "Written by: Mama A. Touray Coalition 2026 flagbearer and UNITE leader Talib Ahmed Bensouda has pledged to make fighting poverty, creating opportunities for young people and empowering women key priorities of his government if elected in the December 5th presidential election. ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-vows-to-fight-poverty-create-opportunities-for-youths-and-empower-women/",
+      "publishedAt": "2026-09-18T09:57:45.000Z",
+      "collectedAt": "2026-09-18T11:00:40.236Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "49f03e1a419ad87d",
       "title": "Mayor Bensouda Says He Will Fight Poverty and Backway Migration Under Coalition 2026",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, the flagbearer of Coalition 2026, has pledged to tackle poverty and address the economic conditions he says are driving young Gambians to undertake dangerous irregular migration journeys if his coalition wins the December presidential elec...",
@@ -2232,56 +2279,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f27f2960ca132935",
-      "title": "MEDINA UTD SEEKS TO ELIMINATE VISITORS IN CAF CHAMPIONS LEAGUE SATURDAY",
-      "summary": "Gambian champions Medina United returns to action in the Caf champion’s league preliminaries on Saturday at the newly refurbished Independence stadium. They are up against Star FC of Sierra Leone in the second leg of their tie which started in Bo –Town, last weekend with the t...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/medina-utd-seeks-to-eliminate-visitors-in-caf-champions-league-saturday/",
-      "publishedAt": "2026-09-10T12:39:14.000Z",
-      "collectedAt": "2026-09-10T12:51:52.315Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "97c3195941eede45",
-      "title": "Wafu A U-17 tournament relocated to Thies",
-      "summary": "The Gambia Under -17 team, The Baby Scorpions, alongside other teams in the ongoing Caf qualifying tournament in Senegal, have been relocated to Thies. The tournament first started in Dakar at the Aboulaye Wade stadium where Gambia won her first match 4-1 against Sierra Leone ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/wafu-a-u-17-tournament-relocated-to-thies/",
-      "publishedAt": "2026-09-10T12:38:39.000Z",
-      "collectedAt": "2026-09-10T12:51:52.315Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T04:20:31.871Z",
+    "generatedAt": "2026-09-18T11:01:29.867Z",
     "count": 100
   }
 }
