@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "60c67b7275e7dcff",
+      "title": "Darboe Says UDP Seeks Elders’ Trust and Prayers Ahead of December Election",
+      "summary": "By Seedy Jobe United Democratic Party leader A.N.M. Ousainu Darboe says his party’s visit to community elders in Katamina was not a campaign event but an effort to seek their trust and prayers ahead of the December presidential election. Speaking during the meeting, Darboe sai...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-udp-seeks-elders-trust-and-prayers-ahead-of-december-election/",
+      "publishedAt": "2026-09-18T17:24:10.000Z",
+      "collectedAt": "2026-09-18T20:46:27.123Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f0bc3a8a7ae37e75",
+      "title": "Darboe Says Voting for NPP Means Choosing Continued Hardship",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has told voters in Madina Angalleh that supporting the National People’s Party in the December 5 presidential election would amount to choosing another five years of hardship. Darboe made the remarks on Thursday durin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-voting-for-npp-means-choosing-continued-hardship/",
+      "publishedAt": "2026-09-18T17:08:01.000Z",
+      "collectedAt": "2026-09-18T20:46:27.123Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "efb2ed82aa54ada6",
       "title": "Darboe Says Upcoming Election Is for All Gambians, Not Any One Tribe",
       "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has urged Gambians to look beyond ethnic identity in the upcoming presidential election, saying the vote should be about the country’s collective future rather than any particular tribe. Speaking in Jababa in the Lowe...",
@@ -271,7 +320,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-18T16:14:55.967Z",
+      "collectedAt": "2026-09-18T20:46:20.091Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -294,7 +343,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-18T16:14:55.813Z",
+      "collectedAt": "2026-09-18T20:46:19.773Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -311,7 +360,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T16:15:01.405Z",
-    "count": 13
+    "generatedAt": "2026-09-18T20:46:31.237Z",
+    "count": 15
   }
 }

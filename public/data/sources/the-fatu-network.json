@@ -445,52 +445,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fb75dac6304d17ac",
-      "title": "GIABA Warns Religious Institutions: “Transparency Protects Trust”",
-      "summary": "Written by: Dawda Baldeh The Intergovernmental Action Group Against Money Laundering in West Africa (GIABA) has called on religious leaders and institutions in The Gambia to strengthen financial transparency and accountability to prevent their organisations from being exploite...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/giaba-warns-religious-institutions-transparency-protects-trust/",
-      "publishedAt": "2026-09-10T13:55:08.000Z",
-      "collectedAt": "2026-09-10T17:37:40.633Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "beb5091142016d32",
-      "title": "GAP Urges Calm as NAWEC Protests Escalate: “Let the Ballot Box Speak”",
-      "summary": "Written by: Dawda Baldeh The Gambia Action Party (GAP) has called for calm and restraint as protests over the country’s electricity crisis continue, warning demonstrators against destroying public and private property. In a statement, GAP Secretary General and Party Leader Ser...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gap-urges-calm-as-nawec-protests-escalate-let-the-ballot-box-speak/",
-      "publishedAt": "2026-09-10T12:43:56.000Z",
-      "collectedAt": "2026-09-10T12:52:01.471Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T16:15:01.405Z",
-    "count": 22
+    "generatedAt": "2026-09-18T20:46:31.237Z",
+    "count": 20
   }
 }

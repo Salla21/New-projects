@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "df08562cea68afdc",
+      "title": "MoBSE Reports Highest GABECE Pass Rate Since 2021",
+      "summary": "By Seedy Jobe The Ministry of Basic and Secondary Education has announced the results of the 2026 Gambia Basic Education Certificate Examination, reporting improved student performance and the highest transition rate to senior secondary school since 2021. The results were pres...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mobse-reports-highest-gabece-pass-rate-since-2021/",
+      "publishedAt": "2026-09-18T19:50:11.000Z",
+      "collectedAt": "2026-09-18T20:46:27.123Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0d20e32c8022e763",
+      "title": "Lamin Manneh Urges Gambians to Back UDP-Led Coalition in December Election",
+      "summary": "By Makutu Manneh Lamin Manneh, the United Democratic Party’s deputy administrative secretary for external affairs, has urged Gambians to support a UDP-led coalition in the Dec. 5 presidential election, arguing that a change in government is needed to address economic hardship,...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-manneh-urges-gambians-to-back-udp-led-coalition-in-december-election/",
+      "publishedAt": "2026-09-18T17:30:14.000Z",
+      "collectedAt": "2026-09-18T20:46:27.123Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f0bc3a8a7ae37e75",
+      "title": "Darboe Says Voting for NPP Means Choosing Continued Hardship",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has told voters in Madina Angalleh that supporting the National People’s Party in the December 5 presidential election would amount to choosing another five years of hardship. Darboe made the remarks on Thursday durin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-voting-for-npp-means-choosing-continued-hardship/",
+      "publishedAt": "2026-09-18T17:08:01.000Z",
+      "collectedAt": "2026-09-18T20:46:27.123Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "798a690153b610f9",
       "title": "Bensouda Vows to Fight Poverty, Create Opportunities for Youths and Empower Women",
       "summary": "Written by: Mama A. Touray Coalition 2026 flagbearer and UNITE leader Talib Ahmed Bensouda has pledged to make fighting poverty, creating opportunities for young people and empowering women key priorities of his government if elected in the December 5th presidential election. ...",
@@ -505,7 +577,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-18T16:14:55.813Z",
+      "collectedAt": "2026-09-18T20:46:19.773Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -529,7 +601,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-18T16:14:55.813Z",
+      "collectedAt": "2026-09-18T20:46:19.773Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -552,7 +624,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-18T16:14:55.813Z",
+      "collectedAt": "2026-09-18T20:46:19.773Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -569,7 +641,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T16:15:01.405Z",
-    "count": 24
+    "generatedAt": "2026-09-18T20:46:31.237Z",
+    "count": 27
   }
 }
