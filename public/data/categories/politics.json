@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "efb2ed82aa54ada6",
+      "title": "Darboe Says Upcoming Election Is for All Gambians, Not Any One Tribe",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has urged Gambians to look beyond ethnic identity in the upcoming presidential election, saying the vote should be about the country’s collective future rather than any particular tribe. Speaking in Jababa in the Lowe...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-upcoming-election-is-for-all-gambians-not-any-one-tribe/",
+      "publishedAt": "2026-09-18T15:53:55.000Z",
+      "collectedAt": "2026-09-18T16:14:57.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "25724d1b5aa41e03",
+      "title": "Who Picks the Bench That Judges the Chief Justice?",
+      "summary": "OPINION The Gambia’s quorum trap can lead to a bench he picks himself. By Sarjo Barrow, Esq. The Gambia Bar Association says Hon. Edrissa Faal was never qualified to be Chief Justice. Before the Supreme Court can decide if that is true, it must do something that sounds simple ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/who-picks-the-bench-that-judges-the-chief-justice/",
+      "publishedAt": "2026-09-18T12:09:58.000Z",
+      "collectedAt": "2026-09-18T16:14:56.148Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8a628b67fa3eb5ad",
+      "title": "‘We Can Do It’: Traoré Ends Foreign Armoured Vehicle Orders as Burkina Faso Pushes Self-Reliance",
+      "summary": "Published by: The Fatu Network Burkina Faso’s President Ibrahim Traoré is pushing deeper into economic and military self-reliance, with locally produced armoured vehicles now joining the armed forces as the country cuts its dependence on foreign suppliers. Traoré says Burkina ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-can-do-it-traore-ends-foreign-armoured-vehicle-orders-as-burkina-faso-pushes-self-reliance/",
+      "publishedAt": "2026-09-18T12:03:18.000Z",
+      "collectedAt": "2026-09-18T16:14:56.148Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cc089aeba1ae7cbd",
       "title": "Bensouda Denies NPP Talks, Declares Himself ‘Unstoppable and Unbreakable’",
       "summary": "Written by: Mama A. Touray Coalition 2026 flagbearer and UNITE leader Talib Ahmed Bensouda has dismissed claims that he is in talks to join President Adama Barrow’s ruling National People’s Party (NPP), declaring that “that will never happen.” Bensouda made the remarks while a...",
@@ -1457,7 +1527,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1480,7 +1550,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1503,7 +1573,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1520,7 +1590,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T11:01:29.867Z",
-    "count": 65
+    "generatedAt": "2026-09-18T16:15:01.405Z",
+    "count": 68
   }
 }

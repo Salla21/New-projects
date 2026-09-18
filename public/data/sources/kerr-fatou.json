@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "efb2ed82aa54ada6",
+      "title": "Darboe Says Upcoming Election Is for All Gambians, Not Any One Tribe",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has urged Gambians to look beyond ethnic identity in the upcoming presidential election, saying the vote should be about the country’s collective future rather than any particular tribe. Speaking in Jababa in the Lowe...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-upcoming-election-is-for-all-gambians-not-any-one-tribe/",
+      "publishedAt": "2026-09-18T15:53:55.000Z",
+      "collectedAt": "2026-09-18T16:14:57.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "49f03e1a419ad87d",
       "title": "Mayor Bensouda Says He Will Fight Poverty and Backway Migration Under Coalition 2026",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, the flagbearer of Coalition 2026, has pledged to tackle poverty and address the economic conditions he says are driving young Gambians to undertake dangerous irregular migration journeys if his coalition wins the December presidential elec...",
@@ -1563,7 +1587,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T11:01:29.867Z",
-    "count": 68
+    "generatedAt": "2026-09-18T16:15:01.405Z",
+    "count": 69
   }
 }

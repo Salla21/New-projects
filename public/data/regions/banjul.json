@@ -1,6 +1,118 @@
 {
   "items": [
     {
+      "id": "efb2ed82aa54ada6",
+      "title": "Darboe Says Upcoming Election Is for All Gambians, Not Any One Tribe",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has urged Gambians to look beyond ethnic identity in the upcoming presidential election, saying the vote should be about the country’s collective future rather than any particular tribe. Speaking in Jababa in the Lowe...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-upcoming-election-is-for-all-gambians-not-any-one-tribe/",
+      "publishedAt": "2026-09-18T15:53:55.000Z",
+      "collectedAt": "2026-09-18T16:14:57.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "368d237f4baece9c",
+      "title": "GAP Demands Answers Over ECOMIG’s Continued Presence in The Gambia",
+      "summary": "Written by: Dawda Baldeh The Gambia Action Party (GAP) has called on the Economic Community of West African States (ECOWAS) and the Gambian government to provide greater clarity over the continued presence of the ECOWAS Mission in The Gambia (ECOMIG), nearly a decade after reg...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gap-demands-answers-over-ecomigs-continued-presence-in-the-gambia/",
+      "publishedAt": "2026-09-18T15:19:18.000Z",
+      "collectedAt": "2026-09-18T16:14:56.148Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "25724d1b5aa41e03",
+      "title": "Who Picks the Bench That Judges the Chief Justice?",
+      "summary": "OPINION The Gambia’s quorum trap can lead to a bench he picks himself. By Sarjo Barrow, Esq. The Gambia Bar Association says Hon. Edrissa Faal was never qualified to be Chief Justice. Before the Supreme Court can decide if that is true, it must do something that sounds simple ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/who-picks-the-bench-that-judges-the-chief-justice/",
+      "publishedAt": "2026-09-18T12:09:58.000Z",
+      "collectedAt": "2026-09-18T16:14:56.148Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8a628b67fa3eb5ad",
+      "title": "‘We Can Do It’: Traoré Ends Foreign Armoured Vehicle Orders as Burkina Faso Pushes Self-Reliance",
+      "summary": "Published by: The Fatu Network Burkina Faso’s President Ibrahim Traoré is pushing deeper into economic and military self-reliance, with locally produced armoured vehicles now joining the armed forces as the country cuts its dependence on foreign suppliers. Traoré says Burkina ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-can-do-it-traore-ends-foreign-armoured-vehicle-orders-as-burkina-faso-pushes-self-reliance/",
+      "publishedAt": "2026-09-18T12:03:18.000Z",
+      "collectedAt": "2026-09-18T16:14:56.148Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "08c394421e40baf2",
+      "title": "Gambia, China Sign $16m JEEP Contract to Address Persistent Power Crisis",
+      "summary": "Written by: Dawda Baldeh The Gambia has signed a $16 million electricity enhancement contract aimed at strengthening the country’s power infrastructure as persistent power cuts continue to affect households and businesses. The Gambia Electricity Enhancement Project, known as J...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-china-sign-16m-jeep-contract-to-address-persistent-power-crisis/",
+      "publishedAt": "2026-09-18T11:46:54.000Z",
+      "collectedAt": "2026-09-18T16:14:56.148Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cc089aeba1ae7cbd",
       "title": "Bensouda Denies NPP Talks, Declares Himself ‘Unstoppable and Unbreakable’",
       "summary": "Written by: Mama A. Touray Coalition 2026 flagbearer and UNITE leader Talib Ahmed Bensouda has dismissed claims that he is in talks to join President Adama Barrow’s ruling National People’s Party (NPP), declaring that “that will never happen.” Bensouda made the remarks while a...",
@@ -2026,52 +2138,6 @@
       "status": "published"
     },
     {
-      "id": "f27f2960ca132935",
-      "title": "MEDINA UTD SEEKS TO ELIMINATE VISITORS IN CAF CHAMPIONS LEAGUE SATURDAY",
-      "summary": "Gambian champions Medina United returns to action in the Caf champion’s league preliminaries on Saturday at the newly refurbished Independence stadium. They are up against Star FC of Sierra Leone in the second leg of their tie which started in Bo –Town, last weekend with the t...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/medina-utd-seeks-to-eliminate-visitors-in-caf-champions-league-saturday/",
-      "publishedAt": "2026-09-10T12:39:14.000Z",
-      "collectedAt": "2026-09-10T12:51:52.315Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "97c3195941eede45",
-      "title": "Wafu A U-17 tournament relocated to Thies",
-      "summary": "The Gambia Under -17 team, The Baby Scorpions, alongside other teams in the ongoing Caf qualifying tournament in Senegal, have been relocated to Thies. The tournament first started in Dakar at the Aboulaye Wade stadium where Gambia won her first match 4-1 against Sierra Leone ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/wafu-a-u-17-tournament-relocated-to-thies/",
-      "publishedAt": "2026-09-10T12:38:39.000Z",
-      "collectedAt": "2026-09-10T12:51:52.315Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -2080,7 +2146,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-18T11:00:39.735Z",
+      "collectedAt": "2026-09-18T16:14:55.967Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -2103,7 +2169,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/secret-lovers-busted-married-man-and-woman-allegedly-flee-leave-blanket-behind/",
       "publishedAt": "2026-09-09T04:53:37.000Z",
-      "collectedAt": "2026-09-18T11:00:39.735Z",
+      "collectedAt": "2026-09-18T16:14:55.967Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2124,7 +2190,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-18T11:00:39.735Z",
+      "collectedAt": "2026-09-18T16:14:55.967Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2145,7 +2211,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/officer-malick-signs-deal-with-comium-as-new-brand-ambassador/",
       "publishedAt": "2026-09-02T04:09:25.000Z",
-      "collectedAt": "2026-09-18T11:00:39.735Z",
+      "collectedAt": "2026-09-18T16:14:55.967Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2166,7 +2232,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/keke-drivers-accused-of-drinking-alcohol-before-work-on-sundays/",
       "publishedAt": "2026-09-02T04:07:33.000Z",
-      "collectedAt": "2026-09-18T11:00:39.735Z",
+      "collectedAt": "2026-09-18T16:14:55.967Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2187,7 +2253,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-my-family-stop-us-young-woman-fears-parents-may-block-her-marriage-to-nyamalo-boyfriend/",
       "publishedAt": "2026-09-02T04:05:30.000Z",
-      "collectedAt": "2026-09-18T11:00:39.735Z",
+      "collectedAt": "2026-09-18T16:14:55.967Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2208,7 +2274,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/senegalese-soldier-allegedly-tells-fonianka-husband-never-stop-your-wife-from-seeing-me/",
       "publishedAt": "2026-09-02T04:01:40.000Z",
-      "collectedAt": "2026-09-18T11:00:39.735Z",
+      "collectedAt": "2026-09-18T16:14:55.967Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2229,7 +2295,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2252,7 +2318,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2275,7 +2341,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2296,7 +2362,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2319,7 +2385,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/why-dont-boats-in-the-gambia-have-number-plates/",
       "publishedAt": "2026-08-14T12:05:36.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2340,7 +2406,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2364,7 +2430,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/warning-warning-warning/",
       "publishedAt": "2026-08-14T11:51:15.000Z",
-      "collectedAt": "2026-09-18T11:00:39.498Z",
+      "collectedAt": "2026-09-18T16:14:55.813Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2378,7 +2444,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T11:01:29.867Z",
-    "count": 105
+    "generatedAt": "2026-09-18T16:15:01.405Z",
+    "count": 108
   }
 }

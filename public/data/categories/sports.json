@@ -22,56 +22,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f27f2960ca132935",
-      "title": "MEDINA UTD SEEKS TO ELIMINATE VISITORS IN CAF CHAMPIONS LEAGUE SATURDAY",
-      "summary": "Gambian champions Medina United returns to action in the Caf champion’s league preliminaries on Saturday at the newly refurbished Independence stadium. They are up against Star FC of Sierra Leone in the second leg of their tie which started in Bo –Town, last weekend with the t...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/medina-utd-seeks-to-eliminate-visitors-in-caf-champions-league-saturday/",
-      "publishedAt": "2026-09-10T12:39:14.000Z",
-      "collectedAt": "2026-09-10T12:51:52.315Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "97c3195941eede45",
-      "title": "Wafu A U-17 tournament relocated to Thies",
-      "summary": "The Gambia Under -17 team, The Baby Scorpions, alongside other teams in the ongoing Caf qualifying tournament in Senegal, have been relocated to Thies. The tournament first started in Dakar at the Aboulaye Wade stadium where Gambia won her first match 4-1 against Sierra Leone ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/wafu-a-u-17-tournament-relocated-to-thies/",
-      "publishedAt": "2026-09-10T12:38:39.000Z",
-      "collectedAt": "2026-09-10T12:51:52.315Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T11:01:29.867Z",
-    "count": 3
+    "generatedAt": "2026-09-18T16:15:01.405Z",
+    "count": 1
   }
 }
