@@ -366,54 +366,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a62e1fac6b0b57f3",
-      "title": "Senegal deploys 618 Ecomig soldiers to Gambia",
-      "summary": "On Wednesday, Senegal deployed a new contingent for The Gambia as part of the Ecowas mission. Comprising 618 personnel, including 14 women, the contingent is under the command of Colonel Balla Moussa Mané. It is primarily composed of a headquarters staff, a command, support, a...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/senegal-deploys-618-ecomig-soldiers-to-gambia/",
-      "publishedAt": "2026-09-11T10:22:57.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "80d951e62ac12b78",
-      "title": "Prosecutor orders investigation into Speaker Ousmane Sonko",
-      "summary": "The public prosecutor at the Dakar High Court has ordered an investigation following statements attributed to Speaker Ousmane Sonko concerning Touba. The investigation has been entrusted to the Urban Security Unit of the Dakar Central Police Station. According to information r...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/prosecutor-orders-investigation-into-speaker-ousmane-sonko/",
-      "publishedAt": "2026-09-11T10:22:14.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T07:15:16.286Z",
-    "count": 18
+    "generatedAt": "2026-09-19T12:32:13.712Z",
+    "count": 16
   }
 }

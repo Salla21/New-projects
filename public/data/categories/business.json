@@ -499,29 +499,6 @@
       "status": "published"
     },
     {
-      "id": "a62e1fac6b0b57f3",
-      "title": "Senegal deploys 618 Ecomig soldiers to Gambia",
-      "summary": "On Wednesday, Senegal deployed a new contingent for The Gambia as part of the Ecowas mission. Comprising 618 personnel, including 14 women, the contingent is under the command of Colonel Balla Moussa Mané. It is primarily composed of a headquarters staff, a command, support, a...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/senegal-deploys-618-ecomig-soldiers-to-gambia/",
-      "publishedAt": "2026-09-11T10:22:57.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -530,7 +507,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-19T07:15:06.633Z",
+      "collectedAt": "2026-09-19T12:32:08.194Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -554,7 +531,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-19T07:15:06.633Z",
+      "collectedAt": "2026-09-19T12:32:08.194Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -577,7 +554,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-19T07:15:06.633Z",
+      "collectedAt": "2026-09-19T12:32:08.194Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -594,7 +571,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T07:15:16.286Z",
-    "count": 25
+    "generatedAt": "2026-09-19T12:32:13.712Z",
+    "count": 24
   }
 }
