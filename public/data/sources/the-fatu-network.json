@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "e85c0c24f8abbdd8",
+      "title": "‘I Was the First and Only’: How a Gambian Woman Architect Is Helping Women Enter a Male-Dominated Industry",
+      "summary": "SPOTLIGHT By Yero S. Bah When Sainabou Jack learned that, according to the records of the UK’s architectural regulator, she was the first and only Gambian woman registered as an architect in the UK, she felt two emotions at once. There was pride.  And there was concern. Jack h...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/i-was-the-first-and-only-how-a-gambian-woman-architect-is-helping-women-enter-a-male-dominated-industry/",
+      "publishedAt": "2026-09-19T14:51:19.000Z",
+      "collectedAt": "2026-09-19T17:14:29.679Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "98de8b2fbed313e2",
+      "title": "Haile Selassie (Ras Tafari) Taught Me Something Interesting About Femininity",
+      "summary": "By Ramatulai Let me take you back to Ethiopia in 1928. Haile Selassie was still known as Ras Tafari and was trying to bring more control to Ethiopia. But there was an older and very powerful man called Dejazmach Balcha Safo. Balcha was a famous warrior and governor of Sidamo. ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/haile-selassie-ras-tafari-taught-me-something-interesting-about-femininity/",
+      "publishedAt": "2026-09-19T12:50:51.000Z",
+      "collectedAt": "2026-09-19T17:14:29.679Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "368d237f4baece9c",
       "title": "GAP Demands Answers Over ECOMIG’s Continued Presence in The Gambia",
       "summary": "Written by: Dawda Baldeh The Gambia Action Party (GAP) has called on the Economic Community of West African States (ECOWAS) and the Gambian government to provide greater clarity over the continued presence of the ECOWAS Mission in The Gambia (ECOMIG), nearly a decade after reg...",
@@ -448,7 +492,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T12:32:13.712Z",
-    "count": 20
+    "generatedAt": "2026-09-19T17:14:50.697Z",
+    "count": 22
   }
 }

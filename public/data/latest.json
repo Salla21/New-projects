@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "e85c0c24f8abbdd8",
+      "title": "‘I Was the First and Only’: How a Gambian Woman Architect Is Helping Women Enter a Male-Dominated Industry",
+      "summary": "SPOTLIGHT By Yero S. Bah When Sainabou Jack learned that, according to the records of the UK’s architectural regulator, she was the first and only Gambian woman registered as an architect in the UK, she felt two emotions at once. There was pride.  And there was concern. Jack h...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/i-was-the-first-and-only-how-a-gambian-woman-architect-is-helping-women-enter-a-male-dominated-industry/",
+      "publishedAt": "2026-09-19T14:51:19.000Z",
+      "collectedAt": "2026-09-19T17:14:29.679Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "98de8b2fbed313e2",
+      "title": "Haile Selassie (Ras Tafari) Taught Me Something Interesting About Femininity",
+      "summary": "By Ramatulai Let me take you back to Ethiopia in 1928. Haile Selassie was still known as Ras Tafari and was trying to bring more control to Ethiopia. But there was an older and very powerful man called Dejazmach Balcha Safo. Balcha was a famous warrior and governor of Sidamo. ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/haile-selassie-ras-tafari-taught-me-something-interesting-about-femininity/",
+      "publishedAt": "2026-09-19T12:50:51.000Z",
+      "collectedAt": "2026-09-19T17:14:29.679Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eefa4f05f63abbd9",
       "title": "Hello world!",
       "summary": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
@@ -2237,56 +2281,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "dcbd926571b2eae1",
-      "title": "NPP Student Wing president urges youths to protect Gambia’s peace amid electricity crisis",
-      "summary": "The National People’s Party (NPP) Student Wing President Yusuf Tunkara has urged Gambian youths to safeguard the country’s peace and stability amid growing protests over the electricity crisis, warning that violence will only deepen the hardship families are already facing. Tu...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/npp-student-wing-president-urges-youths-to-protect-gambias-peace-amid-electricity-crisis/",
-      "publishedAt": "2026-09-11T10:24:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e47f9c4d31c7388e",
-      "title": "Report of the coordinators on the Team Gambia 2026 consultative process delivered on Saturday, 29th August, 2026",
-      "summary": "By Coordinators Halifa Sallah and Sidia Jatta Press release – Approved for dissemination by signatories of consent form 8th September, 2026. On Saturday 29th August, 2026, representatives of political parties, political movements, civil society organisations and prominent conc...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/report-of-the-coordinators-on-the-team-gambia-2026-consultative-process-delivered-on-saturday-29th-august-2026/",
-      "publishedAt": "2026-09-11T10:23:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T12:32:13.712Z",
+    "generatedAt": "2026-09-19T17:14:50.697Z",
     "count": 100
   }
 }
