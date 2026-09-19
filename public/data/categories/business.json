@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "id": "fd0aa8ffba2db6db",
+      "title": "Lamin K. Saidy Accuses BAC of Using Council Taxes to Support UDP Activities",
+      "summary": "By Makutu Manneh Lamin K. Saidy, the presidential adviser on youth affairs, has accused the Brikama Area Council (BAC) of using revenue collected from market vendors and residents to support activities of the opposition United Democratic Party (UDP). Saidy made the allegations...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-k-saidy-accuses-bac-of-using-council-taxes-to-support-udp-activities/",
+      "publishedAt": "2026-09-19T18:28:17.000Z",
+      "collectedAt": "2026-09-19T20:26:53.505Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "974337d03b245b78",
+      "title": "Presidential Youth Adviser Warns Security Officers Against Open Opposition Support",
+      "summary": "By Makutu Manneh Lamin K. Saidy, Youth Affairs Adviser to President Adama Barrow, has warned members of The Gambia’s security services against openly supporting opposition political parties, saying officers should not abuse the operational independence they enjoy under the cur...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/presidential-youth-adviser-warns-security-officers-against-open-opposition-support/",
+      "publishedAt": "2026-09-19T18:19:03.000Z",
+      "collectedAt": "2026-09-19T20:26:53.505Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6e26d712599923a6",
+      "title": "Darboe Tells Foni Voters: ‘If We Could Secure $1.7 Billion as Ministers, We Will Do More as President’",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe told supporters in Foni that his record in government demonstrated what his party could accomplish if elected to the presidency, pointing to the $1.7 billion in international pledges secured for The Gambia’s National ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-tells-foni-voters-if-we-could-secure-1-7-billion-as-ministers-we-will-do-more-as-president/",
+      "publishedAt": "2026-09-19T17:20:46.000Z",
+      "collectedAt": "2026-09-19T20:26:53.505Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "df08562cea68afdc",
       "title": "MoBSE Reports Highest GABECE Pass Rate Since 2021",
       "summary": "By Seedy Jobe The Ministry of Basic and Secondary Education has announced the results of the 2026 Gambia Basic Education Certificate Examination, reporting improved student performance and the highest transition rate to senior secondary school since 2021. The results were pres...",
@@ -476,29 +549,6 @@
       "status": "published"
     },
     {
-      "id": "e47f9c4d31c7388e",
-      "title": "Report of the coordinators on the Team Gambia 2026 consultative process delivered on Saturday, 29th August, 2026",
-      "summary": "By Coordinators Halifa Sallah and Sidia Jatta Press release – Approved for dissemination by signatories of consent form 8th September, 2026. On Saturday 29th August, 2026, representatives of political parties, political movements, civil society organisations and prominent conc...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/report-of-the-coordinators-on-the-team-gambia-2026-consultative-process-delivered-on-saturday-29th-august-2026/",
-      "publishedAt": "2026-09-11T10:23:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -507,7 +557,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-19T17:14:29.280Z",
+      "collectedAt": "2026-09-19T20:26:51.847Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -531,7 +581,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-19T17:14:29.280Z",
+      "collectedAt": "2026-09-19T20:26:51.847Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -554,7 +604,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-19T17:14:29.280Z",
+      "collectedAt": "2026-09-19T20:26:51.847Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -571,7 +621,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T17:14:50.697Z",
-    "count": 24
+    "generatedAt": "2026-09-19T20:26:57.580Z",
+    "count": 26
   }
 }

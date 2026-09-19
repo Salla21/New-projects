@@ -320,56 +320,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "dcbd926571b2eae1",
-      "title": "NPP Student Wing president urges youths to protect Gambia’s peace amid electricity crisis",
-      "summary": "The National People’s Party (NPP) Student Wing President Yusuf Tunkara has urged Gambian youths to safeguard the country’s peace and stability amid growing protests over the electricity crisis, warning that violence will only deepen the hardship families are already facing. Tu...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/npp-student-wing-president-urges-youths-to-protect-gambias-peace-amid-electricity-crisis/",
-      "publishedAt": "2026-09-11T10:24:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e47f9c4d31c7388e",
-      "title": "Report of the coordinators on the Team Gambia 2026 consultative process delivered on Saturday, 29th August, 2026",
-      "summary": "By Coordinators Halifa Sallah and Sidia Jatta Press release – Approved for dissemination by signatories of consent form 8th September, 2026. On Saturday 29th August, 2026, representatives of political parties, political movements, civil society organisations and prominent conc...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/report-of-the-coordinators-on-the-team-gambia-2026-consultative-process-delivered-on-saturday-29th-august-2026/",
-      "publishedAt": "2026-09-11T10:23:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T17:14:50.697Z",
-    "count": 16
+    "generatedAt": "2026-09-19T20:26:57.580Z",
+    "count": 14
   }
 }

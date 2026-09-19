@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "id": "841af94e26be9530",
+      "title": "Darboe Says West Coast Voters “Did Not Make a Mistake” Electing Yankuba Darboe",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has praised Brikama Area Council Chairman Yankuba Darboe, saying voters in the West Coast Region “did not make a mistake” when they elected him to lead the council. Darboe made the remarks at a UDP-led alliance rally ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-west-coast-voters-did-not-make-a-mistake-electing-yankuba-darboe/",
+      "publishedAt": "2026-09-19T18:30:12.000Z",
+      "collectedAt": "2026-09-19T20:26:53.505Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f3608bc8e7eaf1fe",
+      "title": "Gambia Immigration Department Intercepts 18 Suspected Irregular Migrants",
+      "summary": "By Makutu Makutu The Gambia Immigration Department (GID) has intercepted 18 suspected irregular migrants during an overnight patrol of coastal communities in the West Coast Region. The operation was carried out by the department’s Border Patrol Unit, stationed at the Migration...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-18-suspected-irregular-migrants/",
+      "publishedAt": "2026-09-19T18:24:42.000Z",
+      "collectedAt": "2026-09-19T20:26:53.505Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9979f3aaa8ef5b57",
+      "title": "Darboe Criticizes Barrow’s Record, Urges Youths to Vote Wisely at Foni Rally",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, leader and secretary general of the United Democratic Party, criticized President Adama Barrow’s record in office and urged young Gambians to carefully consider their future when they vote in the December presidential election.Speaking at a UD...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-criticizes-barrows-record-urges-youths-to-vote-wisely-at-foni-rally/",
+      "publishedAt": "2026-09-19T18:15:47.000Z",
+      "collectedAt": "2026-09-19T20:26:53.505Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6e26d712599923a6",
+      "title": "Darboe Tells Foni Voters: ‘If We Could Secure $1.7 Billion as Ministers, We Will Do More as President’",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe told supporters in Foni that his record in government demonstrated what his party could accomplish if elected to the presidency, pointing to the $1.7 billion in international pledges secured for The Gambia’s National ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-tells-foni-voters-if-we-could-secure-1-7-billion-as-ministers-we-will-do-more-as-president/",
+      "publishedAt": "2026-09-19T17:20:46.000Z",
+      "collectedAt": "2026-09-19T20:26:53.505Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e85c0c24f8abbdd8",
       "title": "‘I Was the First and Only’: How a Gambian Woman Architect Is Helping Women Enter a Male-Dominated Industry",
       "summary": "SPOTLIGHT By Yero S. Bah When Sainabou Jack learned that, according to the records of the UK’s architectural regulator, she was the first and only Gambian woman registered as an architect in the UK, she felt two emotions at once. There was pride.  And there was concern. Jack h...",
@@ -297,7 +393,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-19T17:14:29.475Z",
+      "collectedAt": "2026-09-19T20:26:51.970Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -320,7 +416,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-19T17:14:29.280Z",
+      "collectedAt": "2026-09-19T20:26:51.847Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -337,7 +433,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T17:14:50.697Z",
-    "count": 14
+    "generatedAt": "2026-09-19T20:26:57.580Z",
+    "count": 18
   }
 }
