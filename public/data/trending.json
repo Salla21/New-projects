@@ -369,55 +369,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "49f03e1a419ad87d",
-      "title": "Mayor Bensouda Says He Will Fight Poverty and Backway Migration Under Coalition 2026",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the flagbearer of Coalition 2026, has pledged to tackle poverty and address the economic conditions he says are driving young Gambians to undertake dangerous irregular migration journeys if his coalition wins the December presidential elec...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mayor-bensouda-says-he-will-fight-poverty-and-backway-migration-under-coalition-2026/",
-      "publishedAt": "2026-09-17T21:22:26.000Z",
-      "collectedAt": "2026-09-17T22:47:29.606Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "09355d5dd148b2d0",
-      "title": "WANETAM-4 Launches Five-Year Initiative to Boost Infectious Disease Research Across West Africa",
-      "summary": "By Makutu Manneh The West African Network of Excellence for TB, AIDS, and Malaria, known as WANETAM-4, has launched a five-year programme aimed at strengthening scientific research, training, and health systems across West Africa. The initiative was unveiled at a kick-off meet...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/wanetam-4-launches-five-year-initiative-to-boost-infectious-disease-research-across-west-africa/",
-      "publishedAt": "2026-09-17T21:08:34.000Z",
-      "collectedAt": "2026-09-17T22:47:29.606Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T20:46:31.237Z",
-    "count": 18
+    "generatedAt": "2026-09-19T00:06:28.303Z",
+    "count": 16
   }
 }

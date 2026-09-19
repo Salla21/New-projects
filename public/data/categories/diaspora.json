@@ -266,52 +266,6 @@
       "status": "published"
     },
     {
-      "id": "7b362bbe6c839383",
-      "title": "Police Chief Warns Unauthorized Protests Will Face Firm Response",
-      "summary": "By Seedy Jobe The Inspector General of Police, Seedy Muktarr Touray, warned on Thursday that demonstrations held without proper authorization would face a firm response from security forces as authorities move to contain unrest linked to persistent electricity outages. Speakin...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/police-chief-warns-unauthorized-protests-will-face-firm-response/",
-      "publishedAt": "2026-09-10T23:08:52.000Z",
-      "collectedAt": "2026-09-10T23:56:49.137Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a2d847a841beae23",
-      "title": "IGP Touray Announces Joint Security Operation Amid Electricity Protests",
-      "summary": "By Seedy Jobe The inspector general of police, Seedy Muktarr Touray, on Thursday defended the police response to recent demonstrations over persistent electricity outages and announced a joint security operation aimed at protecting lives, property, and critical national infras...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/igp-touray-announces-joint-security-operation-amid-electricity-protests/",
-      "publishedAt": "2026-09-10T22:58:52.000Z",
-      "collectedAt": "2026-09-10T23:56:49.137Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -320,7 +274,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-18T20:46:20.091Z",
+      "collectedAt": "2026-09-19T00:06:23.027Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -343,7 +297,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-18T20:46:19.773Z",
+      "collectedAt": "2026-09-19T00:06:22.849Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -360,7 +314,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T20:46:31.237Z",
-    "count": 15
+    "generatedAt": "2026-09-19T00:06:28.303Z",
+    "count": 13
   }
 }

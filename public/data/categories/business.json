@@ -522,53 +522,6 @@
       "status": "published"
     },
     {
-      "id": "62e317d5a8aa93dc",
-      "title": "Smart ways to play online casinos on mobile devices",
-      "summary": "Mobile casino gamers are practicing smarter ways to play. Setting time limits and managing bankroll reduces stress for a quality gaming experience. You can explore secure and exciting casino games online. Whether spinning slot reels while waiting for food, placing a few blackj...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/smart-ways-to-play-online-casinos-on-mobile-devices/",
-      "publishedAt": "2026-09-10T20:09:12.000Z",
-      "collectedAt": "2026-09-10T20:44:19.388Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "300a5d49db05724d",
-      "title": "Badibou Central NAM Says Poor Roads Are Disrupting Travel and Business in North Bank",
-      "summary": "By Fatou Sillah Sulayman Saho, the National Assembly member for Central Badibou, has called for urgent improvements to roads across the North Bank Region, saying deteriorating conditions are disrupting travel, raising transportation costs, and hurting businesses and communitie...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/badibou-central-nam-says-poor-roads-are-disrupting-travel-and-business-in-north-bank/",
-      "publishedAt": "2026-09-10T19:55:13.000Z",
-      "collectedAt": "2026-09-10T20:44:26.157Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -577,7 +530,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-18T20:46:19.773Z",
+      "collectedAt": "2026-09-19T00:06:22.849Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -601,7 +554,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-18T20:46:19.773Z",
+      "collectedAt": "2026-09-19T00:06:22.849Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -624,7 +577,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-18T20:46:19.773Z",
+      "collectedAt": "2026-09-19T00:06:22.849Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -641,7 +594,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-18T20:46:31.237Z",
-    "count": 27
+    "generatedAt": "2026-09-19T00:06:28.303Z",
+    "count": 25
   }
 }
