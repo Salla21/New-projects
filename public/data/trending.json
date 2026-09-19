@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "eefa4f05f63abbd9",
+      "title": "Hello world!",
+      "summary": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/2026/09/19/hello-world/",
+      "publishedAt": "2026-09-19T05:44:54.000Z",
+      "collectedAt": "2026-09-19T07:15:01.454Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "ojanneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ea6dc3eaf793b8df",
+      "title": "Sadio Mané to Lay Foundation Stone for 11 Billion CFA Franc Agro-Industrial Park in Bambali",
+      "summary": "By Staff Writer Senegalese football star Sadio Mané will, on Saturday, Sept. 19, lay the foundation stone for an 11 billion CFA franc agro-industrial park in his hometown of Bambali, in Senegal’s southern Sédhiou region. The project, known as SM10 Agro, is expected to create a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sadio-mane-to-lay-foundation-stone-for-11-billion-cfa-franc-agro-industrial-park-in-bambali/",
+      "publishedAt": "2026-09-19T01:25:07.000Z",
+      "collectedAt": "2026-09-19T07:15:12.230Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7b04720e92d6b53a",
       "title": "NPP Councillor Maimuna Jallow Accuses Energy Sector Leaders of Sabotaging Electricity Ahead of Election",
       "summary": "By Fatou Sillah Maimuna Jallow, an NPP councillor for Niamina West, has accused officials in The Gambia’s energy sector of deliberately undermining the country’s electricity supply as the 2026 presidential election approaches. Speaking about the recent power disruptions, Jallo...",
@@ -372,7 +417,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T00:06:28.303Z",
-    "count": 16
+    "generatedAt": "2026-09-19T07:15:16.286Z",
+    "count": 18
   }
 }

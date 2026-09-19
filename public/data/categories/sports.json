@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ea6dc3eaf793b8df",
+      "title": "Sadio Mané to Lay Foundation Stone for 11 Billion CFA Franc Agro-Industrial Park in Bambali",
+      "summary": "By Staff Writer Senegalese football star Sadio Mané will, on Saturday, Sept. 19, lay the foundation stone for an 11 billion CFA franc agro-industrial park in his hometown of Bambali, in Senegal’s southern Sédhiou region. The project, known as SM10 Agro, is expected to create a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sadio-mane-to-lay-foundation-stone-for-11-billion-cfa-franc-agro-industrial-park-in-bambali/",
+      "publishedAt": "2026-09-19T01:25:07.000Z",
+      "collectedAt": "2026-09-19T07:15:12.230Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0ae0b5fbecb17fd2",
       "title": "‘We Have to Overcome Big Challenges,’ McKinstry Says as He Names Scorpions Squad for AFCON Qualifiers",
       "summary": "By Seedy Jobe Scorpions head coach Johnathan McKinstry has named a 25-man squad for The Gambia’s opening Africa Cup of Nations qualifiers against Somalia and Ghana, saying the team must be prepared to overcome significant challenges if it is to secure a place at next year’s to...",
@@ -25,7 +49,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T00:06:28.303Z",
-    "count": 1
+    "generatedAt": "2026-09-19T07:15:16.286Z",
+    "count": 2
   }
 }
