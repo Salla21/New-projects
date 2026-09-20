@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "cd4c7bcd5231e20a",
+      "title": "Darboe warns Gambia will ‘sink’ if President Barrow is re-elected",
+      "summary": "By Dawda Baldeh Opposition United Democratic Party leader Ousainou Darboe has warned that re-electing President Adama Barrow in December would be disastrous for The Gambia, claiming the situation could become so dire he might consider taking the irregular migration route to Eu...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-warns-gambia-will-sink-if-president-barrow-is-re-elected/",
+      "publishedAt": "2026-09-20T12:23:53.000Z",
+      "collectedAt": "2026-09-20T13:00:06.946Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "943c97d6278baf22",
       "title": "UDP Intensifies Election Campaign with Joint Rally at Kotu Quarry",
       "summary": "By Dawda Baldeh United Democratic Party leader Ousainou Darboe has joined Banjul Mayor Rohey Malick Lowe at a major political rally in Kotu Quarry as the main opposition party steps up preparations ahead of the December presidential election. The gathering, organized by Mayor ...",
@@ -1536,7 +1560,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/iec-sets-conditions-for-presidential-candidates/",
       "publishedAt": "2026-09-11T10:30:00.000Z",
-      "collectedAt": "2026-09-20T07:39:56.835Z",
+      "collectedAt": "2026-09-20T13:00:01.115Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1559,7 +1583,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/iec-sets-november-3-14-for-presidential-nominations/",
       "publishedAt": "2026-09-11T10:29:40.000Z",
-      "collectedAt": "2026-09-20T07:39:56.835Z",
+      "collectedAt": "2026-09-20T13:00:01.115Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1582,7 +1606,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/us-moves-to-transfer-funds-from-sale-of-jammehs-3-5m-mansion-in-us/",
       "publishedAt": "2026-09-11T10:28:00.000Z",
-      "collectedAt": "2026-09-20T07:39:56.835Z",
+      "collectedAt": "2026-09-20T13:00:01.115Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1606,7 +1630,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/bulock-youth-leader-rejects-ministers-claim-that-demolished-barracks-fence-was-in-senegal/",
       "publishedAt": "2026-09-11T10:27:00.000Z",
-      "collectedAt": "2026-09-20T07:39:56.835Z",
+      "collectedAt": "2026-09-20T13:00:01.115Z",
       "region": "north-bank",
       "categories": [
         "politics"
@@ -1629,7 +1653,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/ncce-warns-against-interpreting-revising-court-objections-as-criminal-indictments/",
       "publishedAt": "2026-09-11T10:26:00.000Z",
-      "collectedAt": "2026-09-20T07:39:56.835Z",
+      "collectedAt": "2026-09-20T13:00:01.115Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1654,7 +1678,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/npp-student-wing-president-urges-youths-to-protect-gambias-peace-amid-electricity-crisis/",
       "publishedAt": "2026-09-11T10:24:00.000Z",
-      "collectedAt": "2026-09-20T07:39:56.835Z",
+      "collectedAt": "2026-09-20T13:00:01.115Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1677,7 +1701,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-20T07:40:02.600Z",
+      "collectedAt": "2026-09-20T13:00:06.399Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1700,7 +1724,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-20T07:40:02.600Z",
+      "collectedAt": "2026-09-20T13:00:06.399Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1723,7 +1747,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-20T07:40:02.600Z",
+      "collectedAt": "2026-09-20T13:00:06.399Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1740,7 +1764,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-20T07:40:08.828Z",
-    "count": 74
+    "generatedAt": "2026-09-20T13:01:06.833Z",
+    "count": 75
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "cd4c7bcd5231e20a",
+      "title": "Darboe warns Gambia will ‘sink’ if President Barrow is re-elected",
+      "summary": "By Dawda Baldeh Opposition United Democratic Party leader Ousainou Darboe has warned that re-electing President Adama Barrow in December would be disastrous for The Gambia, claiming the situation could become so dire he might consider taking the irregular migration route to Eu...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-warns-gambia-will-sink-if-president-barrow-is-re-elected/",
+      "publishedAt": "2026-09-20T12:23:53.000Z",
+      "collectedAt": "2026-09-20T13:00:06.946Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "943c97d6278baf22",
       "title": "UDP Intensifies Election Campaign with Joint Rally at Kotu Quarry",
       "summary": "By Dawda Baldeh United Democratic Party leader Ousainou Darboe has joined Banjul Mayor Rohey Malick Lowe at a major political rally in Kotu Quarry as the main opposition party steps up preparations ahead of the December presidential election. The gathering, organized by Mayor ...",
@@ -393,7 +417,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/us-moves-to-transfer-funds-from-sale-of-jammehs-3-5m-mansion-in-us/",
       "publishedAt": "2026-09-11T10:28:00.000Z",
-      "collectedAt": "2026-09-20T07:39:56.835Z",
+      "collectedAt": "2026-09-20T13:00:01.115Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -417,7 +441,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-20T07:40:03.058Z",
+      "collectedAt": "2026-09-20T13:00:06.814Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -440,7 +464,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-20T07:40:02.600Z",
+      "collectedAt": "2026-09-20T13:00:06.399Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -457,7 +481,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-20T07:40:08.828Z",
-    "count": 19
+    "generatedAt": "2026-09-20T13:01:06.833Z",
+    "count": 20
   }
 }
