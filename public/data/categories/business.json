@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "d4c4ae646ca9db79",
+      "title": "Mayor Lowe Urges KM Voters to Back Darboe, Citing Economic Hardship",
+      "summary": "By Seedy Jobe Mayor Rohey Malick Lowe of Banjul urged voters in the Kanifing Municipality to support opposition leader Ousainu Darboe in the Dec. 5 presidential election, arguing that rising living costs and persistent electricity problems have made daily life increasingly dif...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mayor-lowe-urges-km-voters-to-back-darboe-citing-economic-hardship/",
+      "publishedAt": "2026-09-20T20:28:05.000Z",
+      "collectedAt": "2026-09-20T20:39:41.773Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fd0aa8ffba2db6db",
       "title": "Lamin K. Saidy Accuses BAC of Using Council Taxes to Support UDP Activities",
       "summary": "By Makutu Manneh Lamin K. Saidy, the presidential adviser on youth affairs, has accused the Brikama Area Council (BAC) of using revenue collected from market vendors and residents to support activities of the opposition United Democratic Party (UDP). Saidy made the allegations...",
@@ -463,7 +488,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/ncce-warns-against-interpreting-revising-court-objections-as-criminal-indictments/",
       "publishedAt": "2026-09-11T10:26:00.000Z",
-      "collectedAt": "2026-09-20T17:23:21.493Z",
+      "collectedAt": "2026-09-20T20:39:33.541Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -488,7 +513,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/hungarian-honorary-consulate-hands-over-passports-to-gambian-stipendium-hungaricum-scholarship-recipients/",
       "publishedAt": "2026-09-11T10:25:00.000Z",
-      "collectedAt": "2026-09-20T17:23:21.493Z",
+      "collectedAt": "2026-09-20T20:39:33.541Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -511,7 +536,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/report-of-the-coordinators-on-the-team-gambia-2026-consultative-process-delivered-on-saturday-29th-august-2026/",
       "publishedAt": "2026-09-11T10:23:00.000Z",
-      "collectedAt": "2026-09-20T17:23:21.493Z",
+      "collectedAt": "2026-09-20T20:39:33.541Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -534,7 +559,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/senegal-deploys-618-ecomig-soldiers-to-gambia/",
       "publishedAt": "2026-09-11T10:22:57.000Z",
-      "collectedAt": "2026-09-20T17:23:21.493Z",
+      "collectedAt": "2026-09-20T20:39:33.541Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -557,7 +582,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-20T17:23:26.814Z",
+      "collectedAt": "2026-09-20T20:39:39.090Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -581,7 +606,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-20T17:23:26.814Z",
+      "collectedAt": "2026-09-20T20:39:39.090Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -604,7 +629,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-20T17:23:26.814Z",
+      "collectedAt": "2026-09-20T20:39:39.090Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -621,7 +646,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-20T17:26:32.400Z",
-    "count": 26
+    "generatedAt": "2026-09-20T20:39:45.810Z",
+    "count": 27
   }
 }

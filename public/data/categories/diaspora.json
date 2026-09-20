@@ -1,6 +1,103 @@
 {
   "items": [
     {
+      "id": "d4c4ae646ca9db79",
+      "title": "Mayor Lowe Urges KM Voters to Back Darboe, Citing Economic Hardship",
+      "summary": "By Seedy Jobe Mayor Rohey Malick Lowe of Banjul urged voters in the Kanifing Municipality to support opposition leader Ousainu Darboe in the Dec. 5 presidential election, arguing that rising living costs and persistent electricity problems have made daily life increasingly dif...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mayor-lowe-urges-km-voters-to-back-darboe-citing-economic-hardship/",
+      "publishedAt": "2026-09-20T20:28:05.000Z",
+      "collectedAt": "2026-09-20T20:39:41.773Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ab38ec66ffb459ab",
+      "title": "Darboe Welcomes NDP as Full-Fledged Party, Calls UDP Best Partner for People’s Cause",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, the secretary general and party leader of the United Democratic Party, has congratulated Kebba Madi Bojang’s National Democratic Party on attaining full political party status and expressed hope that the two parties could work together to adva...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-welcomes-ndp-as-full-fledged-party-calls-udp-best-partner-for-peoples-cause/",
+      "publishedAt": "2026-09-20T20:25:05.000Z",
+      "collectedAt": "2026-09-20T20:39:41.773Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9838deb4f922ae9f",
+      "title": "Darboe Says Gambia Needs ‘Rescue’ as UDP Signs Agreement With Anda Jubbanti Rewmi",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, the secretary general and leader of the United Democratic Party, said Saturday that The Gambia is in urgent need of political change, warning that future generations would bear the consequences if voters failed to act in the December president...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-gambia-needs-rescue-as-udp-signs-agreement-with-anda-jubbanti-rewmi/",
+      "publishedAt": "2026-09-20T20:17:41.000Z",
+      "collectedAt": "2026-09-20T20:39:41.773Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3eb6ebb9ab7d44f7",
+      "title": "President Barrow Urges Opposition Rivals to Join Ruling Party Ahead of Elections",
+      "summary": "By Mama A. Touray President Adama Barrow has publicly called on opposition figures—including APP-Sobeyaa leader Essa Mbaye Faal and United Democratic Party (UDP) leader Ousainou Darboe—to abandon political rivalries and join his ruling National People’s Party (NPP) to focus on...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-urges-opposition-rivals-to-join-ruling-party-ahead-of-elections/",
+      "publishedAt": "2026-09-20T17:51:23.000Z",
+      "collectedAt": "2026-09-20T20:39:39.651Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cd4c7bcd5231e20a",
       "title": "Darboe warns Gambia will ‘sink’ if President Barrow is re-elected",
       "summary": "By Dawda Baldeh Opposition United Democratic Party leader Ousainou Darboe has warned that re-electing President Adama Barrow in December would be disastrous for The Gambia, claiming the situation could become so dire he might consider taking the irregular migration route to Eu...",
@@ -417,7 +514,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/us-moves-to-transfer-funds-from-sale-of-jammehs-3-5m-mansion-in-us/",
       "publishedAt": "2026-09-11T10:28:00.000Z",
-      "collectedAt": "2026-09-20T17:23:21.493Z",
+      "collectedAt": "2026-09-20T20:39:33.541Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -441,7 +538,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-20T17:23:27.036Z",
+      "collectedAt": "2026-09-20T20:39:39.344Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -464,7 +561,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-20T17:23:26.814Z",
+      "collectedAt": "2026-09-20T20:39:39.090Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -481,7 +578,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-20T17:26:32.400Z",
-    "count": 20
+    "generatedAt": "2026-09-20T20:39:45.810Z",
+    "count": 24
   }
 }

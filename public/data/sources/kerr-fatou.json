@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "id": "d4c4ae646ca9db79",
+      "title": "Mayor Lowe Urges KM Voters to Back Darboe, Citing Economic Hardship",
+      "summary": "By Seedy Jobe Mayor Rohey Malick Lowe of Banjul urged voters in the Kanifing Municipality to support opposition leader Ousainu Darboe in the Dec. 5 presidential election, arguing that rising living costs and persistent electricity problems have made daily life increasingly dif...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mayor-lowe-urges-km-voters-to-back-darboe-citing-economic-hardship/",
+      "publishedAt": "2026-09-20T20:28:05.000Z",
+      "collectedAt": "2026-09-20T20:39:41.773Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ab38ec66ffb459ab",
+      "title": "Darboe Welcomes NDP as Full-Fledged Party, Calls UDP Best Partner for People’s Cause",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, the secretary general and party leader of the United Democratic Party, has congratulated Kebba Madi Bojang’s National Democratic Party on attaining full political party status and expressed hope that the two parties could work together to adva...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-welcomes-ndp-as-full-fledged-party-calls-udp-best-partner-for-peoples-cause/",
+      "publishedAt": "2026-09-20T20:25:05.000Z",
+      "collectedAt": "2026-09-20T20:39:41.773Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9838deb4f922ae9f",
+      "title": "Darboe Says Gambia Needs ‘Rescue’ as UDP Signs Agreement With Anda Jubbanti Rewmi",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, the secretary general and leader of the United Democratic Party, said Saturday that The Gambia is in urgent need of political change, warning that future generations would bear the consequences if voters failed to act in the December president...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-gambia-needs-rescue-as-udp-signs-agreement-with-anda-jubbanti-rewmi/",
+      "publishedAt": "2026-09-20T20:17:41.000Z",
+      "collectedAt": "2026-09-20T20:39:41.773Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8ca746e4a3b7fb0b",
       "title": "Touray Says ‘Winner-Takes-All’ System Drives Alliances of Convenience, Not National Interest",
       "summary": "By Seedy Jobe PDOIS Secretary General and Party Leader Hon. Suwaibou Touray says The Gambia’s history of political alliances has been heavily influenced by a winner-takes-all electoral system that gives incumbents significant advantages and encourages coalitions formed for pol...",
@@ -1667,7 +1740,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-20T17:26:32.400Z",
-    "count": 72
+    "generatedAt": "2026-09-20T20:39:45.810Z",
+    "count": 75
   }
 }
