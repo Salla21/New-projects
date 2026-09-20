@@ -1708,33 +1708,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "167d23652da74c84",
-      "title": "Dr. Gajigo Blames Leadership Failure and Lack of Domestic Generation for Power Crisis",
-      "summary": "By Seedy Jobe Dr. Ousman Gajigo, an economist and politician, has blamed The Gambia’s worsening electricity crisis on years of inadequate investment in domestic power generation, describing the failure as a consequence of poor government leadership. Speaking on QTV’s Decision ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-blames-leadership-failure-and-lack-of-domestic-generation-for-power-crisis/",
-      "publishedAt": "2026-09-11T14:57:51.000Z",
-      "collectedAt": "2026-09-11T16:18:37.607Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T20:26:57.580Z",
-    "count": 75
+    "generatedAt": "2026-09-20T00:01:51.059Z",
+    "count": 74
   }
 }

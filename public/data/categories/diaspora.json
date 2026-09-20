@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "943c97d6278baf22",
+      "title": "UDP Intensifies Election Campaign with Joint Rally at Kotu Quarry",
+      "summary": "By Dawda Baldeh United Democratic Party leader Ousainou Darboe has joined Banjul Mayor Rohey Malick Lowe at a major political rally in Kotu Quarry as the main opposition party steps up preparations ahead of the December presidential election. The gathering, organized by Mayor ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/udp-intensifies-election-campaign-with-joint-rally-at-kotu-quarry/",
+      "publishedAt": "2026-09-19T20:55:41.000Z",
+      "collectedAt": "2026-09-20T00:01:45.991Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "841af94e26be9530",
       "title": "Darboe Says West Coast Voters “Did Not Make a Mistake” Electing Yankuba Darboe",
       "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has praised Brikama Area Council Chairman Yankuba Darboe, saying voters in the West Coast Region “did not make a mistake” when they elected him to lead the council. Darboe made the remarks at a UDP-led alliance rally ...",
@@ -369,7 +393,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/us-moves-to-transfer-funds-from-sale-of-jammehs-3-5m-mansion-in-us/",
       "publishedAt": "2026-09-11T10:28:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -393,7 +417,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-19T20:26:51.970Z",
+      "collectedAt": "2026-09-20T00:01:45.865Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -416,7 +440,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -433,7 +457,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T20:26:57.580Z",
-    "count": 18
+    "generatedAt": "2026-09-20T00:01:51.059Z",
+    "count": 19
   }
 }

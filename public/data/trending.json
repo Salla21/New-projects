@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "943c97d6278baf22",
+      "title": "UDP Intensifies Election Campaign with Joint Rally at Kotu Quarry",
+      "summary": "By Dawda Baldeh United Democratic Party leader Ousainou Darboe has joined Banjul Mayor Rohey Malick Lowe at a major political rally in Kotu Quarry as the main opposition party steps up preparations ahead of the December presidential election. The gathering, organized by Mayor ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/udp-intensifies-election-campaign-with-joint-rally-at-kotu-quarry/",
+      "publishedAt": "2026-09-19T20:55:41.000Z",
+      "collectedAt": "2026-09-20T00:01:45.991Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8ca746e4a3b7fb0b",
       "title": "Touray Says ‘Winner-Takes-All’ System Drives Alliances of Convenience, Not National Interest",
       "summary": "By Seedy Jobe PDOIS Secretary General and Party Leader Hon. Suwaibou Touray says The Gambia’s history of political alliances has been heavily influenced by a winner-takes-all electoral system that gives incumbents significant advantages and encourages coalitions formed for pol...",
@@ -258,7 +282,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T20:26:57.580Z",
-    "count": 11
+    "generatedAt": "2026-09-20T00:01:51.059Z",
+    "count": 12
   }
 }

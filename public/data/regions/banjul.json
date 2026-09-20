@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "943c97d6278baf22",
+      "title": "UDP Intensifies Election Campaign with Joint Rally at Kotu Quarry",
+      "summary": "By Dawda Baldeh United Democratic Party leader Ousainou Darboe has joined Banjul Mayor Rohey Malick Lowe at a major political rally in Kotu Quarry as the main opposition party steps up preparations ahead of the December presidential election. The gathering, organized by Mayor ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/udp-intensifies-election-campaign-with-joint-rally-at-kotu-quarry/",
+      "publishedAt": "2026-09-19T20:55:41.000Z",
+      "collectedAt": "2026-09-20T00:01:45.991Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8ca746e4a3b7fb0b",
       "title": "Touray Says ‘Winner-Takes-All’ System Drives Alliances of Convenience, Not National Interest",
       "summary": "By Seedy Jobe PDOIS Secretary General and Party Leader Hon. Suwaibou Touray says The Gambia’s history of political alliances has been heavily influenced by a winner-takes-all electoral system that gives incumbents significant advantages and encourages coalitions formed for pol...",
@@ -1957,29 +1981,6 @@
       "status": "published"
     },
     {
-      "id": "167d23652da74c84",
-      "title": "Dr. Gajigo Blames Leadership Failure and Lack of Domestic Generation for Power Crisis",
-      "summary": "By Seedy Jobe Dr. Ousman Gajigo, an economist and politician, has blamed The Gambia’s worsening electricity crisis on years of inadequate investment in domestic power generation, describing the failure as a consequence of poor government leadership. Speaking on QTV’s Decision ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-gajigo-blames-leadership-failure-and-lack-of-domestic-generation-for-power-crisis/",
-      "publishedAt": "2026-09-11T14:57:51.000Z",
-      "collectedAt": "2026-09-11T16:18:37.607Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "704d8ae81c5c0f0c",
       "title": "IEC SETS CONDITIONS FOR PRESIDENTIAL CANDIDATES",
       "summary": "By Arret Jatta The Independent Electoral Commission (IEC) has outlined a range of requirements that presidential aspirants must meet to contest elections in The Gambia. According to IEC Chief Executive Officer Sambujang Njie, a candidate must be a Gambian citizen and must have...",
@@ -1988,7 +1989,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/iec-sets-conditions-for-presidential-candidates/",
       "publishedAt": "2026-09-11T10:30:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2011,7 +2012,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/iec-sets-november-3-14-for-presidential-nominations/",
       "publishedAt": "2026-09-11T10:29:40.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2034,7 +2035,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/us-moves-to-transfer-funds-from-sale-of-jammehs-3-5m-mansion-in-us/",
       "publishedAt": "2026-09-11T10:28:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2058,7 +2059,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/ncce-warns-against-interpreting-revising-court-objections-as-criminal-indictments/",
       "publishedAt": "2026-09-11T10:26:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2083,11 +2084,101 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/hungarian-honorary-consulate-hands-over-passports-to-gambian-stipendium-hungaricum-scholarship-recipients/",
       "publishedAt": "2026-09-11T10:25:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "business"
       ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "dcbd926571b2eae1",
+      "title": "NPP Student Wing president urges youths to protect Gambia’s peace amid electricity crisis",
+      "summary": "The National People’s Party (NPP) Student Wing President Yusuf Tunkara has urged Gambian youths to safeguard the country’s peace and stability amid growing protests over the electricity crisis, warning that violence will only deepen the hardship families are already facing. Tu...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/npp-student-wing-president-urges-youths-to-protect-gambias-peace-amid-electricity-crisis/",
+      "publishedAt": "2026-09-11T10:24:00.000Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e47f9c4d31c7388e",
+      "title": "Report of the coordinators on the Team Gambia 2026 consultative process delivered on Saturday, 29th August, 2026",
+      "summary": "By Coordinators Halifa Sallah and Sidia Jatta Press release – Approved for dissemination by signatories of consent form 8th September, 2026. On Saturday 29th August, 2026, representatives of political parties, political movements, civil society organisations and prominent conc...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/report-of-the-coordinators-on-the-team-gambia-2026-consultative-process-delivered-on-saturday-29th-august-2026/",
+      "publishedAt": "2026-09-11T10:23:00.000Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a62e1fac6b0b57f3",
+      "title": "Senegal deploys 618 Ecomig soldiers to Gambia",
+      "summary": "On Wednesday, Senegal deployed a new contingent for The Gambia as part of the Ecowas mission. Comprising 618 personnel, including 14 women, the contingent is under the command of Colonel Balla Moussa Mané. It is primarily composed of a headquarters staff, a command, support, a...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/senegal-deploys-618-ecomig-soldiers-to-gambia/",
+      "publishedAt": "2026-09-11T10:22:57.000Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "80d951e62ac12b78",
+      "title": "Prosecutor orders investigation into Speaker Ousmane Sonko",
+      "summary": "The public prosecutor at the Dakar High Court has ordered an investigation following statements attributed to Speaker Ousmane Sonko concerning Touba. The investigation has been entrusted to the Urban Security Unit of the Dakar Central Police Station. According to information r...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/prosecutor-orders-investigation-into-speaker-ousmane-sonko/",
+      "publishedAt": "2026-09-11T10:22:14.000Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
+      "region": "banjul",
+      "categories": [],
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Abubacarr",
@@ -2106,7 +2197,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-19T20:26:51.970Z",
+      "collectedAt": "2026-09-20T00:01:45.865Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -2129,7 +2220,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/secret-lovers-busted-married-man-and-woman-allegedly-flee-leave-blanket-behind/",
       "publishedAt": "2026-09-09T04:53:37.000Z",
-      "collectedAt": "2026-09-19T20:26:51.970Z",
+      "collectedAt": "2026-09-20T00:01:45.865Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2150,7 +2241,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-19T20:26:51.970Z",
+      "collectedAt": "2026-09-20T00:01:45.865Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2171,7 +2262,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/officer-malick-signs-deal-with-comium-as-new-brand-ambassador/",
       "publishedAt": "2026-09-02T04:09:25.000Z",
-      "collectedAt": "2026-09-19T20:26:51.970Z",
+      "collectedAt": "2026-09-20T00:01:45.865Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2192,7 +2283,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/keke-drivers-accused-of-drinking-alcohol-before-work-on-sundays/",
       "publishedAt": "2026-09-02T04:07:33.000Z",
-      "collectedAt": "2026-09-19T20:26:51.970Z",
+      "collectedAt": "2026-09-20T00:01:45.865Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2213,7 +2304,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-my-family-stop-us-young-woman-fears-parents-may-block-her-marriage-to-nyamalo-boyfriend/",
       "publishedAt": "2026-09-02T04:05:30.000Z",
-      "collectedAt": "2026-09-19T20:26:51.970Z",
+      "collectedAt": "2026-09-20T00:01:45.865Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2234,7 +2325,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/senegalese-soldier-allegedly-tells-fonianka-husband-never-stop-your-wife-from-seeing-me/",
       "publishedAt": "2026-09-02T04:01:40.000Z",
-      "collectedAt": "2026-09-19T20:26:51.970Z",
+      "collectedAt": "2026-09-20T00:01:45.865Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2255,7 +2346,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2278,7 +2369,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2301,7 +2392,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2322,7 +2413,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2345,7 +2436,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/why-dont-boats-in-the-gambia-have-number-plates/",
       "publishedAt": "2026-08-14T12:05:36.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2366,7 +2457,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2390,7 +2481,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/warning-warning-warning/",
       "publishedAt": "2026-08-14T11:51:15.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2404,7 +2495,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T20:26:57.580Z",
-    "count": 106
+    "generatedAt": "2026-09-20T00:01:51.059Z",
+    "count": 110
   }
 }

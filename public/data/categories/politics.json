@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "943c97d6278baf22",
+      "title": "UDP Intensifies Election Campaign with Joint Rally at Kotu Quarry",
+      "summary": "By Dawda Baldeh United Democratic Party leader Ousainou Darboe has joined Banjul Mayor Rohey Malick Lowe at a major political rally in Kotu Quarry as the main opposition party steps up preparations ahead of the December presidential election. The gathering, organized by Mayor ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/udp-intensifies-election-campaign-with-joint-rally-at-kotu-quarry/",
+      "publishedAt": "2026-09-19T20:55:41.000Z",
+      "collectedAt": "2026-09-20T00:01:45.991Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8ca746e4a3b7fb0b",
       "title": "Touray Says ‘Winner-Takes-All’ System Drives Alliances of Convenience, Not National Interest",
       "summary": "By Seedy Jobe PDOIS Secretary General and Party Leader Hon. Suwaibou Touray says The Gambia’s history of political alliances has been heavily influenced by a winner-takes-all electoral system that gives incumbents significant advantages and encourages coalitions formed for pol...",
@@ -1512,7 +1536,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/iec-sets-conditions-for-presidential-candidates/",
       "publishedAt": "2026-09-11T10:30:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1535,7 +1559,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/iec-sets-november-3-14-for-presidential-nominations/",
       "publishedAt": "2026-09-11T10:29:40.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1558,7 +1582,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/us-moves-to-transfer-funds-from-sale-of-jammehs-3-5m-mansion-in-us/",
       "publishedAt": "2026-09-11T10:28:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1582,7 +1606,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/bulock-youth-leader-rejects-ministers-claim-that-demolished-barracks-fence-was-in-senegal/",
       "publishedAt": "2026-09-11T10:27:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "north-bank",
       "categories": [
         "politics"
@@ -1605,12 +1629,35 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/ncce-warns-against-interpreting-revising-court-objections-as-criminal-indictments/",
       "publishedAt": "2026-09-11T10:26:00.000Z",
-      "collectedAt": "2026-09-11T11:02:49.903Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
       "region": "banjul",
       "categories": [
         "politics",
         "business",
         "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "dcbd926571b2eae1",
+      "title": "NPP Student Wing president urges youths to protect Gambia’s peace amid electricity crisis",
+      "summary": "The National People’s Party (NPP) Student Wing President Yusuf Tunkara has urged Gambian youths to safeguard the country’s peace and stability amid growing protests over the electricity crisis, warning that violence will only deepen the hardship families are already facing. Tu...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/npp-student-wing-president-urges-youths-to-protect-gambias-peace-amid-electricity-crisis/",
+      "publishedAt": "2026-09-11T10:24:00.000Z",
+      "collectedAt": "2026-09-20T00:01:40.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
@@ -1630,7 +1677,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1653,7 +1700,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1676,7 +1723,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-19T20:26:51.847Z",
+      "collectedAt": "2026-09-20T00:01:45.741Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1693,7 +1740,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-19T20:26:57.580Z",
-    "count": 72
+    "generatedAt": "2026-09-20T00:01:51.059Z",
+    "count": 74
   }
 }
