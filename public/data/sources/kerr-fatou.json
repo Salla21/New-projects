@@ -1664,33 +1664,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "93f029fb6ba954e1",
-      "title": "NAWEC Corporate Services Manager Explains How $164 Million World Bank Investment Was Spent",
-      "summary": "By Makutu Manneh Sanna Touray, Group Corporate Services Director at the National Water and Electricity Company, has sought to clarify public concerns over millions of dollars in funding provided to NAWEC by the World Bank and other development partners. Speaking on Kerr Fatou ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nawec-corporate-services-manager-explains-how-164-million-world-bank-investment-was-spent/",
-      "publishedAt": "2026-09-11T17:01:32.000Z",
-      "collectedAt": "2026-09-11T20:50:46.956Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-20T13:01:06.833Z",
-    "count": 73
+    "generatedAt": "2026-09-20T17:26:32.400Z",
+    "count": 72
   }
 }
