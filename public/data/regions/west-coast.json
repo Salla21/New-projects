@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "26557ba6e959e201",
+      "title": "Barrow Warns Gunjur Residents Against Politicians Seeking Power and Money",
+      "summary": "By Makutu Manneh President Adama Barrow warned residents of Gunjur against politicians he accused of seeking the presidency for power and financial gain, saying such leaders could ultimately “enslave” Gambians. Speaking at the inauguration of a beachside road in Gunjur, Barrow...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-warns-gunjur-residents-against-politicians-seeking-power-and-money/",
+      "publishedAt": "2026-09-20T22:40:46.000Z",
+      "collectedAt": "2026-09-21T00:06:20.072Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "841af94e26be9530",
       "title": "Darboe Says West Coast Voters “Did Not Make a Mistake” Electing Yankuba Darboe",
       "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has praised Brikama Area Council Chairman Yankuba Darboe, saying voters in the West Coast Region “did not make a mistake” when they elected him to lead the council. Darboe made the remarks at a UDP-led alliance rally ...",
@@ -145,7 +168,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-20T20:39:45.810Z",
-    "count": 6
+    "generatedAt": "2026-09-21T00:06:24.192Z",
+    "count": 7
   }
 }

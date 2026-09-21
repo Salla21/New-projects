@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "fcdb2e44a16f9891",
+      "title": "Pres. Barrow Says Presidential Election Is ‘Already Over,’ Urges Opposition Leaders to Join Him",
+      "summary": "By Makutu Manneh President Adama Barrow has declared that The Gambia’s upcoming presidential election is “already over,” expressing confidence in his re-election prospects and calling on opposition leaders to join his government in pursuing the country’s development. Barrow ma...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-says-presidential-election-is-already-over-urges-opposition-leaders-to-join-him/",
+      "publishedAt": "2026-09-20T22:49:52.000Z",
+      "collectedAt": "2026-09-21T00:06:20.072Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "26557ba6e959e201",
+      "title": "Barrow Warns Gunjur Residents Against Politicians Seeking Power and Money",
+      "summary": "By Makutu Manneh President Adama Barrow warned residents of Gunjur against politicians he accused of seeking the presidency for power and financial gain, saying such leaders could ultimately “enslave” Gambians. Speaking at the inauguration of a beachside road in Gunjur, Barrow...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-warns-gunjur-residents-against-politicians-seeking-power-and-money/",
+      "publishedAt": "2026-09-20T22:40:46.000Z",
+      "collectedAt": "2026-09-21T00:06:20.072Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d4c4ae646ca9db79",
       "title": "Mayor Lowe Urges KM Voters to Back Darboe, Citing Economic Hardship",
       "summary": "By Seedy Jobe Mayor Rohey Malick Lowe of Banjul urged voters in the Kanifing Municipality to support opposition leader Ousainu Darboe in the Dec. 5 presidential election, arguing that rising living costs and persistent electricity problems have made daily life increasingly dif...",
@@ -1601,54 +1647,6 @@
       "status": "published"
     },
     {
-      "id": "ab6235a323b2ae01",
-      "title": "Ebrima Dibba Says Barrow Will Be Humiliated If He Contests 2026 Presidential Election",
-      "summary": "By Fatou Sillah Ebrima Dibba, the national president of UNITE Party, has urged President Adama Barrow not to seek another term in the 2026 presidential election, warning that he risks a humiliating defeat if he does. In an audio recording, Mr. Dibba accused the president of de...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ebrima-dibba-says-barrow-will-be-humiliated-if-he-contests-2026-presidential-election/",
-      "publishedAt": "2026-09-11T18:05:02.000Z",
-      "collectedAt": "2026-09-11T20:50:46.956Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "62f9b27275c76223",
-      "title": "NAWEC Finance Director Says Technical Problems, Not Arrears, Behind Drop in Power Imports",
-      "summary": "By Makutu Manneh Abdoulie Tambedou, the group finance director of the National Water and Electricity Company, has said that a decline in electricity imports from Senegal and Guinea is the result of technical problems, not unpaid bills owed by NAWEC. Speaking on Kerr Fatou, Mr....",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nawec-finance-director-says-technical-problems-not-arrears-behind-drop-in-power-imports/",
-      "publishedAt": "2026-09-11T17:58:10.000Z",
-      "collectedAt": "2026-09-11T20:50:46.956Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "704d8ae81c5c0f0c",
       "title": "IEC SETS CONDITIONS FOR PRESIDENTIAL CANDIDATES",
       "summary": "By Arret Jatta The Independent Electoral Commission (IEC) has outlined a range of requirements that presidential aspirants must meet to contest elections in The Gambia. According to IEC Chief Executive Officer Sambujang Njie, a candidate must be a Gambian citizen and must have...",
@@ -1657,7 +1655,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/iec-sets-conditions-for-presidential-candidates/",
       "publishedAt": "2026-09-11T10:30:00.000Z",
-      "collectedAt": "2026-09-20T20:39:33.541Z",
+      "collectedAt": "2026-09-21T00:06:11.416Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1680,7 +1678,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/iec-sets-november-3-14-for-presidential-nominations/",
       "publishedAt": "2026-09-11T10:29:40.000Z",
-      "collectedAt": "2026-09-20T20:39:33.541Z",
+      "collectedAt": "2026-09-21T00:06:11.416Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1703,7 +1701,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/us-moves-to-transfer-funds-from-sale-of-jammehs-3-5m-mansion-in-us/",
       "publishedAt": "2026-09-11T10:28:00.000Z",
-      "collectedAt": "2026-09-20T20:39:33.541Z",
+      "collectedAt": "2026-09-21T00:06:11.416Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1727,7 +1725,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/bulock-youth-leader-rejects-ministers-claim-that-demolished-barracks-fence-was-in-senegal/",
       "publishedAt": "2026-09-11T10:27:00.000Z",
-      "collectedAt": "2026-09-20T20:39:33.541Z",
+      "collectedAt": "2026-09-21T00:06:11.416Z",
       "region": "north-bank",
       "categories": [
         "politics"
@@ -1750,7 +1748,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/ncce-warns-against-interpreting-revising-court-objections-as-criminal-indictments/",
       "publishedAt": "2026-09-11T10:26:00.000Z",
-      "collectedAt": "2026-09-20T20:39:33.541Z",
+      "collectedAt": "2026-09-21T00:06:11.416Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1775,7 +1773,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/npp-student-wing-president-urges-youths-to-protect-gambias-peace-amid-electricity-crisis/",
       "publishedAt": "2026-09-11T10:24:00.000Z",
-      "collectedAt": "2026-09-20T20:39:33.541Z",
+      "collectedAt": "2026-09-21T00:06:11.416Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1798,7 +1796,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-20T20:39:39.090Z",
+      "collectedAt": "2026-09-21T00:06:17.354Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1821,7 +1819,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-20T20:39:39.090Z",
+      "collectedAt": "2026-09-21T00:06:17.354Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1844,7 +1842,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-20T20:39:39.090Z",
+      "collectedAt": "2026-09-21T00:06:17.354Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1861,7 +1859,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-20T20:39:45.810Z",
+    "generatedAt": "2026-09-21T00:06:24.192Z",
     "count": 79
   }
 }

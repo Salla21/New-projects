@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "fcdb2e44a16f9891",
+      "title": "Pres. Barrow Says Presidential Election Is ‘Already Over,’ Urges Opposition Leaders to Join Him",
+      "summary": "By Makutu Manneh President Adama Barrow has declared that The Gambia’s upcoming presidential election is “already over,” expressing confidence in his re-election prospects and calling on opposition leaders to join his government in pursuing the country’s development. Barrow ma...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-says-presidential-election-is-already-over-urges-opposition-leaders-to-join-him/",
+      "publishedAt": "2026-09-20T22:49:52.000Z",
+      "collectedAt": "2026-09-21T00:06:20.072Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "26557ba6e959e201",
+      "title": "Barrow Warns Gunjur Residents Against Politicians Seeking Power and Money",
+      "summary": "By Makutu Manneh President Adama Barrow warned residents of Gunjur against politicians he accused of seeking the presidency for power and financial gain, saying such leaders could ultimately “enslave” Gambians. Speaking at the inauguration of a beachside road in Gunjur, Barrow...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-warns-gunjur-residents-against-politicians-seeking-power-and-money/",
+      "publishedAt": "2026-09-20T22:40:46.000Z",
+      "collectedAt": "2026-09-21T00:06:20.072Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d4c4ae646ca9db79",
       "title": "Mayor Lowe Urges KM Voters to Back Darboe, Citing Economic Hardship",
       "summary": "By Seedy Jobe Mayor Rohey Malick Lowe of Banjul urged voters in the Kanifing Municipality to support opposition leader Ousainu Darboe in the Dec. 5 presidential election, arguing that rising living costs and persistent electricity problems have made daily life increasingly dif...",
@@ -123,7 +169,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-20T20:39:45.810Z",
-    "count": 5
+    "generatedAt": "2026-09-21T00:06:24.192Z",
+    "count": 7
   }
 }
