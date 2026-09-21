@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4b452d56d5fd98b8",
+      "title": "Barrow says his victory is certain, urges Faal to join NPP coalition",
+      "summary": "By Tabora Bojang President Adama Barrow has called on APP-Sobeyaa leader Essa Faal to join the NPP led-alliance ahead of the December election, which he triumphally claimed to have bagged, insisting that Gambians “are not crazy” to change him for any other among the current cr...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/barrow-says-his-victory-is-certain-urges-faal-to-join-npp-coalition/",
+      "publishedAt": "2026-09-21T08:54:27.000Z",
+      "collectedAt": "2026-09-21T15:01:30.427Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b50f8a06f8b1c9f2",
       "title": "Gambia, U.S. Sign Agreement to Use Proceeds From Sale of Jammeh’s $3.5M Mansion to Compensate Victims",
       "summary": "By Makutu Manneh The governments of The Gambia and the United States have signed an agreement to repatriate funds recovered from the sale of a $3.5 million mansion in Potomac, Maryland, linked to former President Yahya Jammeh, with the money to be used to compensate victims of...",
@@ -120,31 +144,6 @@
       "status": "published"
     },
     {
-      "id": "42553ec5a6d171c2",
-      "title": "NCCE warns against interpreting revising court objections as criminal indictments",
-      "summary": "By Olimatou Coker The chairman of the National Council for Civic Education (NCCE), Momodou Sise addressed the 1,694 objections reportedly received by the IEC for determination by the revising court, stressing that such objections should not be interpreted as criminal indictmen...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/ncce-warns-against-interpreting-revising-court-objections-as-criminal-indictments/",
-      "publishedAt": "2026-09-11T10:26:00.000Z",
-      "collectedAt": "2026-09-21T07:52:35.980Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "e90449effae42a02",
       "title": "COULD METERS ALOCATED TO A COMPOUND HEAD BE TAKEN AND GIVEN TO ANOTHER COMPOUND HEAD?",
       "summary": "Foroyaa received a complaint from a compound head in CRR North that a meter allocated to him is to be taken away through the order of a district authority. Foroyaa has contacted the PRO for investigation. The PRO emphasised that once a meter is allocated to a person and instal...",
@@ -153,7 +152,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-21T07:52:41.590Z",
+      "collectedAt": "2026-09-21T15:01:36.428Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -176,7 +175,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-21T07:52:41.590Z",
+      "collectedAt": "2026-09-21T15:01:36.428Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -192,7 +191,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T07:52:47.439Z",
+    "generatedAt": "2026-09-21T15:01:44.011Z",
     "count": 8
   }
 }

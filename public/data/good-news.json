@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "acf2e62c5a3923b2",
+      "title": "‘The More Barrow Stays in Power, the More Gambia Will Benefit’ — Imam Touray",
+      "summary": "Written by: Mama A. Touray The Imam of Gunjur, Imam Muhammed Lamin Touray, has praised President Adama Barrow’s development record, saying the longer he remains in power, the more The Gambia will benefit. Imam Touray made the remarks during the inauguration of the newly comple...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-more-barrow-stays-in-power-the-more-gambia-will-benefit-imam-touray/",
+      "publishedAt": "2026-09-21T10:49:51.000Z",
+      "collectedAt": "2026-09-21T15:01:37.026Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7e94b69da0396a66",
+      "title": "Senegal inks deal with Italian energy giant Eni to study 5 offshore blocks",
+      "summary": "Senegal has signed a memorandum of understanding with Italian energy giant ENI to evaluate five offshore blocks, the country’s energy minister announced on Tuesday. Last week, Dakar said it would offer 109 oil and gas blocks to foreign and local investors as it looks to boost ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/senegal-inks-deal-with-italian-energy-giant-eni-to-study-5-offshore-blocks/",
+      "publishedAt": "2026-09-21T09:00:14.000Z",
+      "collectedAt": "2026-09-21T15:01:30.427Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d58b087cdeb2cd04",
+      "title": "From inquiry to action: A whitepaper that must rebuild our councils",
+      "summary": "By Mam Sait Ceesay Following three years of public hearings, the Commission of Inquiry into Local Government Councils and Related Matters has concluded its work and has since submitted its report and recommendations to the President of the republic. As government prepares its ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/from-inquiry-to-action-a-whitepaper-that-must-rebuild-our-councils/",
+      "publishedAt": "2026-09-21T08:59:00.000Z",
+      "collectedAt": "2026-09-21T15:01:30.427Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9979f3aaa8ef5b57",
       "title": "Darboe Criticizes Barrow’s Record, Urges Youths to Vote Wisely at Foni Rally",
       "summary": "By Seedy Jobe ANM Ousainu Darboe, leader and secretary general of the United Democratic Party, criticized President Adama Barrow’s record in office and urged young Gambians to carefully consider their future when they vote in the December presidential election.Speaking at a UD...",
@@ -320,50 +390,6 @@
       "status": "published"
     },
     {
-      "id": "50f77fb40cd4f14a",
-      "title": "Hungarian honorary consulate hands over passports to Gambian Stipendium Hungaricum scholarship recipients",
-      "summary": "The Honorary Consulate of Hungary in The Gambia headed by Farimang Saho, has successfully concluded the handing-over of passports to Gambian recipients of the Stipendium Hungaricum Scholarship Programme, following the processing and approval of their visas to pursue higher edu...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/hungarian-honorary-consulate-hands-over-passports-to-gambian-stipendium-hungaricum-scholarship-recipients/",
-      "publishedAt": "2026-09-11T10:25:00.000Z",
-      "collectedAt": "2026-09-21T07:52:35.980Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "80d951e62ac12b78",
-      "title": "Prosecutor orders investigation into Speaker Ousmane Sonko",
-      "summary": "The public prosecutor at the Dakar High Court has ordered an investigation following statements attributed to Speaker Ousmane Sonko concerning Touba. The investigation has been entrusted to the Urban Security Unit of the Dakar Central Police Station. According to information r...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/prosecutor-orders-investigation-into-speaker-ousmane-sonko/",
-      "publishedAt": "2026-09-11T10:22:14.000Z",
-      "collectedAt": "2026-09-21T07:52:35.980Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "2c2672ea66d9e0b8",
       "title": "Single Mothers Empowerment Association Celebrates First Anniversary",
       "summary": "The Single Mothers Empowerment Association (SMEA-G) celebrated its first anniversary on Sunday, September 6, at the…\nThe post Single Mothers Empowerment Association Celebrates First Anniversary appeared first on What's On Gambia.",
@@ -372,7 +398,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-21T07:52:41.840Z",
+      "collectedAt": "2026-09-21T15:01:36.861Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -393,7 +419,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-21T07:52:41.590Z",
+      "collectedAt": "2026-09-21T15:01:36.428Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -416,7 +442,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-21T07:52:41.590Z",
+      "collectedAt": "2026-09-21T15:01:36.428Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -437,7 +463,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-21T07:52:41.590Z",
+      "collectedAt": "2026-09-21T15:01:36.428Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -461,7 +487,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-21T07:52:41.590Z",
+      "collectedAt": "2026-09-21T15:01:36.428Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -477,7 +503,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T07:52:47.439Z",
-    "count": 21
+    "generatedAt": "2026-09-21T15:01:44.011Z",
+    "count": 22
   }
 }
