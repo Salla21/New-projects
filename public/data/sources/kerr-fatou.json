@@ -1691,33 +1691,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0fb2c68193a4b5e3",
-      "title": "Several Gambian Army Recruits Hospitalized After Collapsing; At Least One Death Reported",
-      "summary": "By Staff Writer Several recruits with the Gambia Armed Forces were rushed to Kanifing General Hospital on Friday after collapsing, according to unconfirmed reports, with at least one recruit possibly having died. The news was first reported by What’s On – Gambia, which cited a...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/several-gambian-army-recruits-hospitalized-after-collapsing-at-least-one-death-reported/",
-      "publishedAt": "2026-09-11T19:50:05.000Z",
-      "collectedAt": "2026-09-11T20:50:46.956Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T00:06:24.192Z",
-    "count": 74
+    "generatedAt": "2026-09-21T07:52:47.439Z",
+    "count": 73
   }
 }

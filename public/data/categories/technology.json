@@ -120,29 +120,6 @@
       "status": "published"
     },
     {
-      "id": "95722e5c1416e454",
-      "title": "Gambian children forced to beg for cash or face beatings",
-      "summary": "By Dawda Baldeh Young children enrolled in local Quranic memorisation centres are being forced onto the streets of The Gambia to meet strict daily financial targets or face violent beatings from their teachers. At the bustling Jarra Soma bus garage along the Trans-Gambia corri...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambian-children-forced-to-beg-for-cash-or-face-beatings/",
-      "publishedAt": "2026-09-12T12:57:15.000Z",
-      "collectedAt": "2026-09-12T16:54:46.139Z",
-      "region": "lower-river",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "42553ec5a6d171c2",
       "title": "NCCE warns against interpreting revising court objections as criminal indictments",
       "summary": "By Olimatou Coker The chairman of the National Council for Civic Education (NCCE), Momodou Sise addressed the 1,694 objections reportedly received by the IEC for determination by the revising court, stressing that such objections should not be interpreted as criminal indictmen...",
@@ -151,7 +128,7 @@
       "sourceUrl": "https://standard.gm/feed/",
       "originalUrl": "https://standard.gm/ncce-warns-against-interpreting-revising-court-objections-as-criminal-indictments/",
       "publishedAt": "2026-09-11T10:26:00.000Z",
-      "collectedAt": "2026-09-21T00:06:11.416Z",
+      "collectedAt": "2026-09-21T07:52:35.980Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -176,7 +153,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-21T00:06:17.354Z",
+      "collectedAt": "2026-09-21T07:52:41.590Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -199,7 +176,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-21T00:06:17.354Z",
+      "collectedAt": "2026-09-21T07:52:41.590Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -215,7 +192,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T00:06:24.192Z",
-    "count": 9
+    "generatedAt": "2026-09-21T07:52:47.439Z",
+    "count": 8
   }
 }
