@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "c1b323e1d16d70bc",
+      "title": "Sanyang Says Chances of UDP-UNITE Alliance Are ‘Very Slim’",
+      "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of the UNITE Party, said the prospects of an alliance between his party and the United Democratic Party ahead of the 2026 presidential election were “very slim,” citing disagreements over the U...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sanyang-says-chances-of-udp-unite-alliance-are-very-slim/",
+      "publishedAt": "2026-09-21T19:38:30.000Z",
+      "collectedAt": "2026-09-21T20:22:26.529Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0b554090bb0ed9a8",
+      "title": "Yaya Menteng Sanyang Says UNITE Has Outgrown Rivals, Emerged as Gambia’s Biggest Political Force",
+      "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of the UNITE Party, has described the party as the largest political formation in The Gambia, claiming it has surpassed its rivals ahead of the December presidential election. Speaking on Kerr ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/yaya-menteng-sanyang-says-unite-has-outgrown-rivals-emerged-as-gambias-biggest-political-force/",
+      "publishedAt": "2026-09-21T19:29:57.000Z",
+      "collectedAt": "2026-09-21T20:22:26.529Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "acf2e62c5a3923b2",
       "title": "‘The More Barrow Stays in Power, the More Gambia Will Benefit’ — Imam Touray",
       "summary": "Written by: Mama A. Touray The Imam of Gunjur, Imam Muhammed Lamin Touray, has praised President Adama Barrow’s development record, saying the longer he remains in power, the more The Gambia will benefit. Imam Touray made the remarks during the inauguration of the newly comple...",
@@ -238,7 +284,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T15:01:44.011Z",
-    "count": 10
+    "generatedAt": "2026-09-21T20:22:30.672Z",
+    "count": 12
   }
 }

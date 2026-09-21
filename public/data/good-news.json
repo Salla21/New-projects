@@ -367,29 +367,6 @@
       "status": "published"
     },
     {
-      "id": "a5d8dc77a2bafadc",
-      "title": "NAWEC Electricity Chief Links Banjul Power Shortages to Post-2017 Investment Surge",
-      "summary": "By Makutu Manneh Pateh Sowe, the chief operating officer for electricity at the National Water and Electricity Company, has attributed growing pressure on the power supply in the Greater Banjul Area to a surge in investment and electricity demand since the country’s political ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nawec-official-ties-banjul-power-shortages-to-post-2017-investment-surge/",
-      "publishedAt": "2026-09-12T17:27:08.000Z",
-      "collectedAt": "2026-09-12T20:26:56.429Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "2c2672ea66d9e0b8",
       "title": "Single Mothers Empowerment Association Celebrates First Anniversary",
       "summary": "The Single Mothers Empowerment Association (SMEA-G) celebrated its first anniversary on Sunday, September 6, at the…\nThe post Single Mothers Empowerment Association Celebrates First Anniversary appeared first on What's On Gambia.",
@@ -398,7 +375,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-21T15:01:36.861Z",
+      "collectedAt": "2026-09-21T20:22:23.874Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -419,7 +396,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-21T15:01:36.428Z",
+      "collectedAt": "2026-09-21T20:22:23.593Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -442,7 +419,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-21T15:01:36.428Z",
+      "collectedAt": "2026-09-21T20:22:23.593Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -463,7 +440,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-21T15:01:36.428Z",
+      "collectedAt": "2026-09-21T20:22:23.593Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -487,7 +464,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-21T15:01:36.428Z",
+      "collectedAt": "2026-09-21T20:22:23.593Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -503,7 +480,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T15:01:44.011Z",
-    "count": 22
+    "generatedAt": "2026-09-21T20:22:30.672Z",
+    "count": 21
   }
 }

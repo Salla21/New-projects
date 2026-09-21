@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "de5feb48d7fe7fea",
+      "title": "UNITE’s Yaya Menteng Sanyang Dismisses UDP’s Showing in Foni and URR as ‘Performance’",
+      "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of the UNITE Party and National Assembly member for Latrikunda Sabiji, has dismissed the United Democratic Party’s recent show of support in Foni and the Upper River Region as a “performance,” ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/unites-yaya-menteng-sanyang-dismisses-udps-showing-in-foni-and-urr-as-performance/",
+      "publishedAt": "2026-09-21T19:46:03.000Z",
+      "collectedAt": "2026-09-21T20:22:26.529Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d58b087cdeb2cd04",
       "title": "From inquiry to action: A whitepaper that must rebuild our councils",
       "summary": "By Mam Sait Ceesay Following three years of public hearings, the Commission of Inquiry into Local Government Councils and Related Matters has concluded its work and has since submitted its report and recommendations to the President of the republic. As government prepares its ...",
@@ -456,54 +480,6 @@
       "status": "published"
     },
     {
-      "id": "cda21a77b7a82988",
-      "title": "Darboe Rallies Support in Allunhari, URR; Urges Unity Ahead of December Presidential Election",
-      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party, thanked supporters in the Upper River Region on Saturday after thousands gathered in Allunhari for a rally organized by the UDP-led alliance and its partners in the Gambia First Coalition ahead of the Dec. 5 ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-rallies-support-in-allunhari-urr-urges-unity-ahead-of-december-presidential-election/",
-      "publishedAt": "2026-09-13T15:56:52.000Z",
-      "collectedAt": "2026-09-13T16:03:24.277Z",
-      "region": "upper-river",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a5d8dc77a2bafadc",
-      "title": "NAWEC Electricity Chief Links Banjul Power Shortages to Post-2017 Investment Surge",
-      "summary": "By Makutu Manneh Pateh Sowe, the chief operating officer for electricity at the National Water and Electricity Company, has attributed growing pressure on the power supply in the Greater Banjul Area to a surge in investment and electricity demand since the country’s political ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nawec-official-ties-banjul-power-shortages-to-post-2017-investment-surge/",
-      "publishedAt": "2026-09-12T17:27:08.000Z",
-      "collectedAt": "2026-09-12T20:26:56.429Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -512,7 +488,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-21T15:01:36.428Z",
+      "collectedAt": "2026-09-21T20:22:23.593Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -536,7 +512,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-21T15:01:36.428Z",
+      "collectedAt": "2026-09-21T20:22:23.593Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -559,7 +535,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-21T15:01:36.428Z",
+      "collectedAt": "2026-09-21T20:22:23.593Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -576,7 +552,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T15:01:44.011Z",
-    "count": 24
+    "generatedAt": "2026-09-21T20:22:30.672Z",
+    "count": 23
   }
 }
