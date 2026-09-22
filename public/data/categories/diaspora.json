@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "45a5276734977c53",
+      "title": "Darboe Warns Gambia Could Be ‘Gone Forever’ if Barrow Wins December Election",
+      "summary": "By Makutu Manneh Ousainu Darboe, leader of the United Democratic Party, warned on Tuesday that The Gambia’s political future would be at grave risk if President Adama Barrow wins a third term in the December presidential election. Darboe made the remarks on Sept. 22, 2026, dur...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-warns-gambia-could-be-gone-forever-if-barrow-wins-december-election/",
+      "publishedAt": "2026-09-22T21:12:05.000Z",
+      "collectedAt": "2026-09-22T22:52:00.425Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ab4f5aeca00c9ad3",
+      "title": "Darboe Says Gambia First Coalition Has Only Itself to Blame if It Loses December Election",
+      "summary": "By Makutu Manneh Ousainu Darboe, the presidential candidate of the Gambia First Coalition and leader of the United Democratic Party, has told members of the alliance that they will have only themselves to blame if they fail to win the December 5 presidential election. Darboe m...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-gambia-first-coalition-has-only-itself-to-blame-if-it-loses-december-election/",
+      "publishedAt": "2026-09-22T19:25:40.000Z",
+      "collectedAt": "2026-09-22T22:52:00.425Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f501a7ee78ba8a0b",
       "title": "US initiates 2-year home residency rule for Gambian visitors",
       "summary": "By Omar Bah The United States State Department has released its Exchange Visitor Skills List by Country, identifying 44 nations including The Gambia whose citizens could be required to spend two years in their home country before accessing certain US immigration benefits after...",
@@ -513,7 +561,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-22T18:02:02.576Z",
+      "collectedAt": "2026-09-22T22:51:58.161Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -536,7 +584,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-22T18:02:02.220Z",
+      "collectedAt": "2026-09-22T22:51:57.890Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -553,7 +601,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T18:02:09.167Z",
-    "count": 23
+    "generatedAt": "2026-09-22T22:52:04.527Z",
+    "count": 25
   }
 }
