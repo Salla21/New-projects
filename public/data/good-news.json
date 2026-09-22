@@ -345,52 +345,6 @@
       "status": "published"
     },
     {
-      "id": "f78e862fe114d3ec",
-      "title": "Before Bitcoin Tower: Another Alleged Victim Emerges as Decades-Old Records Put Tamba and GTBoard Under Scrutiny",
-      "summary": "Investigation by: Seringe S.T. TourayEditor-in-Chief of The Fatu Network The Fatu Network’s investigation into the unfinished Bitcoin Tower and The Edge apartment developments in Bijilo has led to another alleged victim, a Gambian businessman whose complaints against Ebrima So...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/before-bitcoin-tower-another-alleged-victim-emerges-as-decades-old-records-put-tamba-and-gtboard-under-scrutiny/",
-      "publishedAt": "2026-09-15T12:40:55.000Z",
-      "collectedAt": "2026-09-15T13:24:16.062Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "77771b9e03f5d727",
-      "title": "Bensouda Defends Record as KMC Mayor, Says He Would Be in Prison if He Were Corrupt",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential candidate of Coalition 2026, has defended his record as mayor of the Kanifing Municipal Council, arguing that authorities would have prosecuted him by now if there were evidence that he had engaged in c...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-says-he-would-be-in-prison-if-he-were-corrupt/",
-      "publishedAt": "2026-09-14T23:03:09.000Z",
-      "collectedAt": "2026-09-15T00:27:10.877Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "2c2672ea66d9e0b8",
       "title": "Single Mothers Empowerment Association Celebrates First Anniversary",
       "summary": "The Single Mothers Empowerment Association (SMEA-G) celebrated its first anniversary on Sunday, September 6, at the…\nThe post Single Mothers Empowerment Association Celebrates First Anniversary appeared first on What's On Gambia.",
@@ -399,7 +353,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-22T13:19:15.996Z",
+      "collectedAt": "2026-09-22T18:02:02.576Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -420,7 +374,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-22T13:19:15.682Z",
+      "collectedAt": "2026-09-22T18:02:02.220Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -443,7 +397,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-22T13:19:15.682Z",
+      "collectedAt": "2026-09-22T18:02:02.220Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -464,7 +418,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-22T13:19:15.682Z",
+      "collectedAt": "2026-09-22T18:02:02.220Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -488,7 +442,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-22T13:19:15.682Z",
+      "collectedAt": "2026-09-22T18:02:02.220Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -504,7 +458,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T13:19:21.502Z",
-    "count": 22
+    "generatedAt": "2026-09-22T18:02:09.167Z",
+    "count": 20
   }
 }
