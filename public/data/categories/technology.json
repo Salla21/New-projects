@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9ff14bd9111a8915",
+      "title": "FirstBank launches ‘Ndimbal’ digital salary advance",
+      "summary": "By Olimatou Coker FirstBank Gambia on Monday officially launched a ‘Ndimbal’ digital salary advance initiative at its Head Office on Kairaba Avenue. According to the bank, the initiative serves as a milestone in its digital transformation drive to deliver fast, innovative fina...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/firstbank-launches-ndimbal-digital-salary-advance/",
+      "publishedAt": "2026-09-22T09:11:00.000Z",
+      "collectedAt": "2026-09-22T13:19:10.130Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4b452d56d5fd98b8",
       "title": "Barrow says his victory is certain, urges Faal to join NPP coalition",
       "summary": "By Tabora Bojang President Adama Barrow has called on APP-Sobeyaa leader Essa Faal to join the NPP led-alliance ahead of the December election, which he triumphally claimed to have bagged, insisting that Gambians “are not crazy” to change him for any other among the current cr...",
@@ -152,7 +176,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-22T07:36:41.754Z",
+      "collectedAt": "2026-09-22T13:19:15.682Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -175,7 +199,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-22T07:36:41.754Z",
+      "collectedAt": "2026-09-22T13:19:15.682Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -191,7 +215,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T07:36:47.612Z",
-    "count": 8
+    "generatedAt": "2026-09-22T13:19:21.502Z",
+    "count": 9
   }
 }

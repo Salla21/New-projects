@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "f501a7ee78ba8a0b",
+      "title": "US initiates 2-year home residency rule for Gambian visitors",
+      "summary": "By Omar Bah The United States State Department has released its Exchange Visitor Skills List by Country, identifying 44 nations including The Gambia whose citizens could be required to spend two years in their home country before accessing certain US immigration benefits after...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/us-initiates-2-year-home-residency-rule-for-gambian-visitors/",
+      "publishedAt": "2026-09-22T09:16:00.000Z",
+      "collectedAt": "2026-09-22T13:19:10.130Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "437367fe4e232c27",
       "title": "Talib Bensouda’s political divorce with Lamin J Darboe is imminent",
       "summary": "By Musa Bassadi Jawara Coalition 2026 was unveiled with fanfare in Brikama on 6th September, 2026. What the public saw was unity. What a trained political observer saw was a marriage without chemistry — a marriage already headed for divorce. Let us examine the facts. The Brika...",
@@ -490,7 +513,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-22T07:36:41.891Z",
+      "collectedAt": "2026-09-22T13:19:15.996Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -513,7 +536,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-22T07:36:41.754Z",
+      "collectedAt": "2026-09-22T13:19:15.682Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -530,7 +553,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T07:36:47.612Z",
-    "count": 22
+    "generatedAt": "2026-09-22T13:19:21.502Z",
+    "count": 23
   }
 }

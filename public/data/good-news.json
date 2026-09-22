@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "0010fdd9791f7074",
+      "title": "Team Gambia to adopt Coalition 2016 model",
+      "summary": "By Tabora Bojang Veteran politician Halifa Sallah, one of the coordinators of the Team Gambia coalition, yesterday revealed that the group is going to adopt the successful 2016 coalition model whereby the flagbearer of the coalition will resign from his or her party to contest...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/team-gambia-to-adopt-coalition-2016-model/",
+      "publishedAt": "2026-09-22T09:13:00.000Z",
+      "collectedAt": "2026-09-22T13:19:10.130Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "eacb90361c83b97d",
+      "title": "WANETAM-4 launches 5-year health programme to strengthen TB, HIV and malaria research",
+      "summary": "By Olimatou Coker The West African Network of Excellence for TB, AIDS and Malaria (WANETAM-4) has launched a five-year programme to strengthen research, training and health systems across West Africa. The launch, held at the African Princess Hotel, brought together researchers...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/wanetam-4-launches-5-year-health-programme-to-strengthen-tb-hiv-and-malaria-research/",
+      "publishedAt": "2026-09-22T09:12:00.000Z",
+      "collectedAt": "2026-09-22T13:19:10.130Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9ff14bd9111a8915",
+      "title": "FirstBank launches ‘Ndimbal’ digital salary advance",
+      "summary": "By Olimatou Coker FirstBank Gambia on Monday officially launched a ‘Ndimbal’ digital salary advance initiative at its Head Office on Kairaba Avenue. According to the bank, the initiative serves as a milestone in its digital transformation drive to deliver fast, innovative fina...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/firstbank-launches-ndimbal-digital-salary-advance/",
+      "publishedAt": "2026-09-22T09:11:00.000Z",
+      "collectedAt": "2026-09-22T13:19:10.130Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "acf2e62c5a3923b2",
       "title": "‘The More Barrow Stays in Power, the More Gambia Will Benefit’ — Imam Touray",
       "summary": "Written by: Mama A. Touray The Imam of Gunjur, Imam Muhammed Lamin Touray, has praised President Adama Barrow’s development record, saying the longer he remains in power, the more The Gambia will benefit. Imam Touray made the remarks during the inauguration of the newly comple...",
@@ -331,7 +399,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-22T07:36:41.891Z",
+      "collectedAt": "2026-09-22T13:19:15.996Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -352,7 +420,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-22T07:36:41.754Z",
+      "collectedAt": "2026-09-22T13:19:15.682Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -375,7 +443,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-22T07:36:41.754Z",
+      "collectedAt": "2026-09-22T13:19:15.682Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -396,7 +464,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-22T07:36:41.754Z",
+      "collectedAt": "2026-09-22T13:19:15.682Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -420,7 +488,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-22T07:36:41.754Z",
+      "collectedAt": "2026-09-22T13:19:15.682Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -436,7 +504,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T07:36:47.612Z",
-    "count": 19
+    "generatedAt": "2026-09-22T13:19:21.502Z",
+    "count": 22
   }
 }
