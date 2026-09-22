@@ -1694,52 +1694,6 @@
       "status": "published"
     },
     {
-      "id": "cca6851bef1ed0ae",
-      "title": "NPP’s Kebba Lang Fofana Accuses Opposition of Seeking to Derail December Election",
-      "summary": "By Seedy Jobe Nominated National Assembly Member Kebba Lang Fofana has accused opposition parties of seeking to derail The Gambia’s presidential election, claiming they believe they cannot defeat President Adama Barrow at the polls. Speaking at a National People’s Party rally ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/npps-kebba-lang-fofana-accuses-opposition-of-seeking-to-derail-december-election/",
-      "publishedAt": "2026-09-14T22:11:26.000Z",
-      "collectedAt": "2026-09-15T00:27:10.877Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8445efc8d47e53aa",
-      "title": "Education Minister Drammeh Urges Gambians to Scrutinize Leadership Records Ahead of 2026 Election",
-      "summary": "By Fatou Sillah The Minister of Basic and Secondary Education, Dr. Habibatou Drammeh, has urged Gambians to carefully assess political messages and candidates as the country approaches the 2026 presidential election, warning voters against what she described as political decep...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/education-minister-drammeh-urges-gambians-to-scrutinize-leadership-records-ahead-of-2026-election/",
-      "publishedAt": "2026-09-14T22:02:50.000Z",
-      "collectedAt": "2026-09-15T00:27:10.877Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1748,7 +1702,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-22T00:41:33.863Z",
+      "collectedAt": "2026-09-22T07:36:41.754Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1771,7 +1725,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-22T00:41:33.863Z",
+      "collectedAt": "2026-09-22T07:36:41.754Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1794,7 +1748,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-22T00:41:33.863Z",
+      "collectedAt": "2026-09-22T07:36:41.754Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1811,7 +1765,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T00:41:39.714Z",
-    "count": 77
+    "generatedAt": "2026-09-22T07:36:47.612Z",
+    "count": 75
   }
 }
