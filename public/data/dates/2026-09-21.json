@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "b3a7fe6cfb89f0b0",
+      "title": "Team Gambia Coalition Pledges New Constitution Within 18 Months if Elected",
+      "summary": "By Seedy Jobe Team Gambia Grand Coalition 2026 has outlined an ambitious political and governance agenda ahead of the 2026-27 election cycle, pledging to introduce a new constitution within 18 months if elected and to select its presidential candidate through nationwide consul...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/team-gambia-coalition-pledges-new-constitution-within-18-months-if-elected/",
+      "publishedAt": "2026-09-21T22:54:15.000Z",
+      "collectedAt": "2026-09-22T00:41:35.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "04109403f80ae2fb",
+      "title": "UDP Youth Leader Warns Voter Registration Concerns Could Undermine Dec. 5 Election",
+      "summary": "By Seedy Jobe Hagi Suwaneh, the national youth president of the United Democratic Party, has warned that unresolved questions surrounding voter registration could undermine confidence in The Gambia’s Dec. 5 presidential election and increase the risk of unrest. Speaking in an ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-warns-voter-registration-concerns-could-undermine-dec-5-election/",
+      "publishedAt": "2026-09-21T22:51:15.000Z",
+      "collectedAt": "2026-09-22T00:41:35.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "de5feb48d7fe7fea",
       "title": "UNITE’s Yaya Menteng Sanyang Dismisses UDP’s Showing in Foni and URR as ‘Performance’",
       "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of the UNITE Party and National Assembly member for Latrikunda Sabiji, has dismissed the United Democratic Party’s recent show of support in Foni and the Upper River Region as a “performance,” ...",
@@ -439,7 +485,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T20:22:30.672Z",
-    "count": 19
+    "generatedAt": "2026-09-22T00:41:39.714Z",
+    "count": 21
   }
 }

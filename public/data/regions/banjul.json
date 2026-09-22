@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "b3a7fe6cfb89f0b0",
+      "title": "Team Gambia Coalition Pledges New Constitution Within 18 Months if Elected",
+      "summary": "By Seedy Jobe Team Gambia Grand Coalition 2026 has outlined an ambitious political and governance agenda ahead of the 2026-27 election cycle, pledging to introduce a new constitution within 18 months if elected and to select its presidential candidate through nationwide consul...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/team-gambia-coalition-pledges-new-constitution-within-18-months-if-elected/",
+      "publishedAt": "2026-09-21T22:54:15.000Z",
+      "collectedAt": "2026-09-22T00:41:35.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "04109403f80ae2fb",
+      "title": "UDP Youth Leader Warns Voter Registration Concerns Could Undermine Dec. 5 Election",
+      "summary": "By Seedy Jobe Hagi Suwaneh, the national youth president of the United Democratic Party, has warned that unresolved questions surrounding voter registration could undermine confidence in The Gambia’s Dec. 5 presidential election and increase the risk of unrest. Speaking in an ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-warns-voter-registration-concerns-could-undermine-dec-5-election/",
+      "publishedAt": "2026-09-21T22:51:15.000Z",
+      "collectedAt": "2026-09-22T00:41:35.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "de5feb48d7fe7fea",
       "title": "UNITE’s Yaya Menteng Sanyang Dismisses UDP’s Showing in Foni and URR as ‘Performance’",
       "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of the UNITE Party and National Assembly member for Latrikunda Sabiji, has dismissed the United Democratic Party’s recent show of support in Foni and the Upper River Region as a “performance,” ...",
@@ -1928,118 +1974,6 @@
       "status": "published"
     },
     {
-      "id": "6f52ca772cf1824b",
-      "title": "GCCPC Trains School Monitors to Tackle High Fees and Forced Sales",
-      "summary": "By Seedy Jobe The Gambia Competition and Consumer Protection Commission (GCCPC) is training school cluster monitors across the country to identify and curb practices that it says unfairly burden parents, including excessive fees, undisclosed charges, and requirements to purcha...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gccpc-trains-school-monitors-to-tackle-high-fees-and-forced-sales/",
-      "publishedAt": "2026-09-14T21:51:01.000Z",
-      "collectedAt": "2026-09-15T00:27:10.877Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "50b4d806e66e7cec",
-      "title": "From Investor to Defendant: How a Business Dispute Became a Matter for the Police and the Authorities",
-      "summary": "Written by: Seringe S.T. Touray There are commercial disputes that end up in court. And there are disputes that go far beyond that. In the previous parts of this series, The Fatu Network reconstructed the story of Bitcoin Tower, from the vision of two Austrian architects and i...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/from-investor-to-defendant-how-a-business-dispute-became-a-matter-for-the-police-and-the-authorities/",
-      "publishedAt": "2026-09-14T17:08:56.000Z",
-      "collectedAt": "2026-09-14T20:15:25.967Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "315f311a083764c7",
-      "title": "Youth Festival Draws 10,000 Leaders From 191 Countries to Russia",
-      "summary": "By Dawda Baldeh Thousands of young people from across the globe are converging on the Russian city of Yekaterinburg for the International Youth Festival, with participants from 47 countries already arriving ahead of the event’s official programme. Grigory Gurov, head of Russia...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/youth-festival-draws-10000-leaders-from-191-countries-to-russia/",
-      "publishedAt": "2026-09-14T12:14:29.000Z",
-      "collectedAt": "2026-09-14T14:57:04.636Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ed34c4380b0f044b",
-      "title": "Ebrima Sorrie Bah Resigns From UDP, Returns to NPP to Support President Barrow",
-      "summary": "By Seedy Jobe Ebrima Sorrie Bah, founder and commander of Operation UDP Laffah, has resigned from the United Democratic Party with immediate effect and announced his return to the National People’s Party, saying he feels an obligation to support President Adama Barrow during w...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ebrima-sorrie-bah-resigns-from-udp-returns-to-npp-to-support-president-barrow/",
-      "publishedAt": "2026-09-14T01:58:11.000Z",
-      "collectedAt": "2026-09-14T07:48:51.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b42f0cdb1728a138",
-      "title": "Before the First Hallucinated Citation: Why The Gambia’s courts and lawyers need an AI rulebook now",
-      "summary": "Before the First Hallucinated CitationWhy The Gambia’s courts and lawyers need an AI rulebook nowBy Sarjo Barrow, Esq. OPINION – Legal Commentary Two recent events in the United States should get the attention of people in Banjul. In United States v. Heppner, a federal judge i...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/before-the-first-hallucinated-citation-why-the-gambias-courts-and-lawyers-need-an-ai-rulebook-now/",
-      "publishedAt": "2026-09-13T17:32:19.000Z",
-      "collectedAt": "2026-09-13T20:38:00.333Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -2048,7 +1982,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-21T20:22:23.874Z",
+      "collectedAt": "2026-09-22T00:41:34.201Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -2071,7 +2005,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/secret-lovers-busted-married-man-and-woman-allegedly-flee-leave-blanket-behind/",
       "publishedAt": "2026-09-09T04:53:37.000Z",
-      "collectedAt": "2026-09-21T20:22:23.874Z",
+      "collectedAt": "2026-09-22T00:41:34.201Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2092,7 +2026,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-21T20:22:23.874Z",
+      "collectedAt": "2026-09-22T00:41:34.201Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2113,7 +2047,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/officer-malick-signs-deal-with-comium-as-new-brand-ambassador/",
       "publishedAt": "2026-09-02T04:09:25.000Z",
-      "collectedAt": "2026-09-21T20:22:23.874Z",
+      "collectedAt": "2026-09-22T00:41:34.201Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2134,7 +2068,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/keke-drivers-accused-of-drinking-alcohol-before-work-on-sundays/",
       "publishedAt": "2026-09-02T04:07:33.000Z",
-      "collectedAt": "2026-09-21T20:22:23.874Z",
+      "collectedAt": "2026-09-22T00:41:34.201Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2155,7 +2089,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-my-family-stop-us-young-woman-fears-parents-may-block-her-marriage-to-nyamalo-boyfriend/",
       "publishedAt": "2026-09-02T04:05:30.000Z",
-      "collectedAt": "2026-09-21T20:22:23.874Z",
+      "collectedAt": "2026-09-22T00:41:34.201Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2176,7 +2110,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/senegalese-soldier-allegedly-tells-fonianka-husband-never-stop-your-wife-from-seeing-me/",
       "publishedAt": "2026-09-02T04:01:40.000Z",
-      "collectedAt": "2026-09-21T20:22:23.874Z",
+      "collectedAt": "2026-09-22T00:41:34.201Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2197,7 +2131,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2220,7 +2154,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2243,7 +2177,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/china-gambia-military-cooperation-strengthened-as-new-officers-mess-opens/",
       "publishedAt": "2026-08-14T13:08:19.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2264,7 +2198,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -2287,7 +2221,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/why-dont-boats-in-the-gambia-have-number-plates/",
       "publishedAt": "2026-08-14T12:05:36.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2308,7 +2242,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2332,7 +2266,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/warning-warning-warning/",
       "publishedAt": "2026-08-14T11:51:15.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2346,7 +2280,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T20:22:30.672Z",
-    "count": 103
+    "generatedAt": "2026-09-22T00:41:39.714Z",
+    "count": 100
   }
 }

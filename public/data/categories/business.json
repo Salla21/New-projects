@@ -456,30 +456,6 @@
       "status": "published"
     },
     {
-      "id": "ed34c4380b0f044b",
-      "title": "Ebrima Sorrie Bah Resigns From UDP, Returns to NPP to Support President Barrow",
-      "summary": "By Seedy Jobe Ebrima Sorrie Bah, founder and commander of Operation UDP Laffah, has resigned from the United Democratic Party with immediate effect and announced his return to the National People’s Party, saying he feels an obligation to support President Adama Barrow during w...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ebrima-sorrie-bah-resigns-from-udp-returns-to-npp-to-support-president-barrow/",
-      "publishedAt": "2026-09-14T01:58:11.000Z",
-      "collectedAt": "2026-09-14T07:48:51.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -488,7 +464,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -512,7 +488,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -535,7 +511,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-21T20:22:23.593Z",
+      "collectedAt": "2026-09-22T00:41:33.863Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -552,7 +528,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T20:22:30.672Z",
-    "count": 23
+    "generatedAt": "2026-09-22T00:41:39.714Z",
+    "count": 22
   }
 }

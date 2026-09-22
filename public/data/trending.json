@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "b3a7fe6cfb89f0b0",
+      "title": "Team Gambia Coalition Pledges New Constitution Within 18 Months if Elected",
+      "summary": "By Seedy Jobe Team Gambia Grand Coalition 2026 has outlined an ambitious political and governance agenda ahead of the 2026-27 election cycle, pledging to introduce a new constitution within 18 months if elected and to select its presidential candidate through nationwide consul...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/team-gambia-coalition-pledges-new-constitution-within-18-months-if-elected/",
+      "publishedAt": "2026-09-21T22:54:15.000Z",
+      "collectedAt": "2026-09-22T00:41:35.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "04109403f80ae2fb",
+      "title": "UDP Youth Leader Warns Voter Registration Concerns Could Undermine Dec. 5 Election",
+      "summary": "By Seedy Jobe Hagi Suwaneh, the national youth president of the United Democratic Party, has warned that unresolved questions surrounding voter registration could undermine confidence in The Gambia’s Dec. 5 presidential election and increase the risk of unrest. Speaking in an ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-warns-voter-registration-concerns-could-undermine-dec-5-election/",
+      "publishedAt": "2026-09-21T22:51:15.000Z",
+      "collectedAt": "2026-09-22T00:41:35.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "de5feb48d7fe7fea",
       "title": "UNITE’s Yaya Menteng Sanyang Dismisses UDP’s Showing in Foni and URR as ‘Performance’",
       "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of the UNITE Party and National Assembly member for Latrikunda Sabiji, has dismissed the United Democratic Party’s recent show of support in Foni and the Upper River Region as a “performance,” ...",
@@ -415,54 +461,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e0d817d53b549d43",
-      "title": "Gambia Crowned WAFU Zone A U-17 Champions After Dramatic Shootout Win Over Senegal",
-      "summary": "By Staff Writer The Gambia’s under-17 national team were crowned WAFU Zone A champions on Sunday after defeating hosts Senegal 5-4 in a dramatic penalty shootout, with goalkeeper Vanou Gomez delivering two crucial saves in a tense final in Dakar. The match ended goalless after...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-crowned-wafu-zone-a-u-17-champions-after-dramatic-shootout-win-over-senegal/",
-      "publishedAt": "2026-09-21T00:01:08.000Z",
-      "collectedAt": "2026-09-21T00:06:20.072Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "fcdb2e44a16f9891",
-      "title": "Pres. Barrow Says Presidential Election Is ‘Already Over,’ Urges Opposition Leaders to Join Him",
-      "summary": "By Makutu Manneh President Adama Barrow has declared that The Gambia’s upcoming presidential election is “already over,” expressing confidence in his re-election prospects and calling on opposition leaders to join his government in pursuing the country’s development. Barrow ma...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-says-presidential-election-is-already-over-urges-opposition-leaders-to-join-him/",
-      "publishedAt": "2026-09-20T22:49:52.000Z",
-      "collectedAt": "2026-09-21T00:06:20.072Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T20:22:30.672Z",
+    "generatedAt": "2026-09-22T00:41:39.714Z",
     "count": 20
   }
 }

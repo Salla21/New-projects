@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "b3a7fe6cfb89f0b0",
+      "title": "Team Gambia Coalition Pledges New Constitution Within 18 Months if Elected",
+      "summary": "By Seedy Jobe Team Gambia Grand Coalition 2026 has outlined an ambitious political and governance agenda ahead of the 2026-27 election cycle, pledging to introduce a new constitution within 18 months if elected and to select its presidential candidate through nationwide consul...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/team-gambia-coalition-pledges-new-constitution-within-18-months-if-elected/",
+      "publishedAt": "2026-09-21T22:54:15.000Z",
+      "collectedAt": "2026-09-22T00:41:35.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "04109403f80ae2fb",
+      "title": "UDP Youth Leader Warns Voter Registration Concerns Could Undermine Dec. 5 Election",
+      "summary": "By Seedy Jobe Hagi Suwaneh, the national youth president of the United Democratic Party, has warned that unresolved questions surrounding voter registration could undermine confidence in The Gambia’s Dec. 5 presidential election and increase the risk of unrest. Speaking in an ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-warns-voter-registration-concerns-could-undermine-dec-5-election/",
+      "publishedAt": "2026-09-21T22:51:15.000Z",
+      "collectedAt": "2026-09-22T00:41:35.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "de5feb48d7fe7fea",
       "title": "UNITE’s Yaya Menteng Sanyang Dismisses UDP’s Showing in Foni and URR as ‘Performance’",
       "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of the UNITE Party and National Assembly member for Latrikunda Sabiji, has dismissed the United Democratic Party’s recent show of support in Foni and the Upper River Region as a “performance,” ...",
@@ -2254,56 +2300,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "cca6851bef1ed0ae",
-      "title": "NPP’s Kebba Lang Fofana Accuses Opposition of Seeking to Derail December Election",
-      "summary": "By Seedy Jobe Nominated National Assembly Member Kebba Lang Fofana has accused opposition parties of seeking to derail The Gambia’s presidential election, claiming they believe they cannot defeat President Adama Barrow at the polls. Speaking at a National People’s Party rally ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/npps-kebba-lang-fofana-accuses-opposition-of-seeking-to-derail-december-election/",
-      "publishedAt": "2026-09-14T22:11:26.000Z",
-      "collectedAt": "2026-09-15T00:27:10.877Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8445efc8d47e53aa",
-      "title": "Education Minister Drammeh Urges Gambians to Scrutinize Leadership Records Ahead of 2026 Election",
-      "summary": "By Fatou Sillah The Minister of Basic and Secondary Education, Dr. Habibatou Drammeh, has urged Gambians to carefully assess political messages and candidates as the country approaches the 2026 presidential election, warning voters against what she described as political decep...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/education-minister-drammeh-urges-gambians-to-scrutinize-leadership-records-ahead-of-2026-election/",
-      "publishedAt": "2026-09-14T22:02:50.000Z",
-      "collectedAt": "2026-09-15T00:27:10.877Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T20:22:30.672Z",
+    "generatedAt": "2026-09-22T00:41:39.714Z",
     "count": 100
   }
 }
