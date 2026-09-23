@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "2e85c4a2184e9160",
+      "title": "Saama Kairo distributes exercise books to sponsored children",
+      "summary": "By Olimatou Coker The Saama Kairo Federation on Wednesday distributed 49,000 branded exercise books worth over D1.9 million to sponsored students across its intervention sites. The presentation ceremony was held at the Saama Kairo Federation office in Brikama. The donation is ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/saama-kairo-distributes-exercise-books-to-sponsored-children/",
+      "publishedAt": "2026-09-23T09:38:00.000Z",
+      "collectedAt": "2026-09-23T11:18:20.303Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -307,7 +328,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T04:26:16.647Z",
-    "count": 13
+    "generatedAt": "2026-09-23T11:18:31.337Z",
+    "count": 14
   }
 }

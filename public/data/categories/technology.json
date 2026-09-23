@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "4f7f25c108e290fc",
+      "title": "VICTIMS DEMAND JUDICIOUS USE OF FUNDS FROM U.S.",
+      "summary": "By Tabora Bojang Following the announcement of the transfer of USD 2.5M  by the US from the sale of former president Jammeh’s house, for victims of the former dictator’s brutal regime, members of the victim community have welcomed the development and demanded a judicious use o...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/victims-demand-judicious-use-of-funds-from-u-s/",
+      "publishedAt": "2026-09-23T09:45:00.000Z",
+      "collectedAt": "2026-09-23T11:18:20.303Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d6f4829f47632d94",
+      "title": "Reparations commission trains 300 women victims nationwide",
+      "summary": "By Olimatou Coker The Gambia Reparations Commission, in partnership with the International Centre for Transitional Justice (ICTJ) and the Alliance of Victim-Led Organisations (AVLO), has launched a nationwide capacity-building programme to strengthen women victims’ access to g...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/reparations-commission-trains-300-women-victims-nationwide/",
+      "publishedAt": "2026-09-23T09:40:00.000Z",
+      "collectedAt": "2026-09-23T11:18:20.303Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9ff14bd9111a8915",
       "title": "FirstBank launches ‘Ndimbal’ digital salary advance",
       "summary": "By Olimatou Coker FirstBank Gambia on Monday officially launched a ‘Ndimbal’ digital salary advance initiative at its Head Office on Kairaba Avenue. According to the bank, the initiative serves as a milestone in its digital transformation drive to deliver fast, innovative fina...",
@@ -129,7 +176,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-23T04:26:10.813Z",
+      "collectedAt": "2026-09-23T11:18:25.071Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -152,7 +199,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-23T04:26:10.813Z",
+      "collectedAt": "2026-09-23T11:18:25.071Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -168,7 +215,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T04:26:16.647Z",
-    "count": 7
+    "generatedAt": "2026-09-23T11:18:31.337Z",
+    "count": 9
   }
 }

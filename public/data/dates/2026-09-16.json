@@ -254,48 +254,6 @@
       "status": "published"
     },
     {
-      "id": "472d2f056ecfc8f8",
-      "title": "Extreme heat linked to higher risk of stillbirth in Gambia, major study finds",
-      "summary": "By Hadram Hydara High temperatures around the time of delivery are associated with an increased risk of fresh stillbirth in The Gambia, according to a major medical study highlighting the growing threat extreme climate conditions pose to maternal and newborn survival across We...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/extreme-heat-linked-to-higher-risk-of-stillbirth-in-gambia-major-study-finds/",
-      "publishedAt": "2026-09-16T13:21:51.000Z",
-      "collectedAt": "2026-09-16T16:39:09.171Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b4a1fadcedb9b8de",
-      "title": "GAMBIA’S SARJO JAWO HEADS TO THAILAND FOR MISS GLOBAL 2026",
-      "summary": "Published by: The Fatu Network Gambian beauty queen Sarjo Ms Jawo will represent The Gambia at the Miss Global 2026 competition in Thailand, where she will compete alongside contestants from 78 countries. The competition will run from September 29th to October 11th, with Jawo ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambias-sarjo-jawo-heads-to-thailand-for-miss-global-2026/",
-      "publishedAt": "2026-09-16T09:19:49.000Z",
-      "collectedAt": "2026-09-16T11:19:32.988Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -304,7 +262,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-16T11:19:32.577Z",
+      "collectedAt": "2026-09-23T11:18:25.234Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -325,7 +283,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/my-night-was-ruined-young-man-fumes-after-discovering-expired-cond0m/",
       "publishedAt": "2026-09-16T06:26:50.000Z",
-      "collectedAt": "2026-09-23T04:26:11.201Z",
+      "collectedAt": "2026-09-23T11:18:25.234Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -346,7 +304,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-23T04:26:11.201Z",
+      "collectedAt": "2026-09-23T11:18:25.234Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -362,7 +320,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T04:26:16.647Z",
-    "count": 16
+    "generatedAt": "2026-09-23T11:18:31.337Z",
+    "count": 14
   }
 }

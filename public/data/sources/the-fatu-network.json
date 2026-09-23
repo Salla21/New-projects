@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "17b1b1e91e24bda3",
+      "title": "Disability Symposium: Nothing About Us Without Us: Building an Inclusive Gambia",
+      "summary": "Event Funder: European Union Event Organisers: The Governor’s Office in North Bank Region, STAND: We Walk Together This symposium is part of a 3 year EU funded program being delivered by STAND: We Walk Together (formerly Legs4Africa), The Ladies Empowered for Growth and Succes...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/disability-symposium-nothing-about-us-without-us-building-an-inclusive-gambia/",
+      "publishedAt": "2026-09-23T10:25:54.000Z",
+      "collectedAt": "2026-09-23T11:18:25.418Z",
+      "region": "north-bank",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b5c20bd669d400cb",
+      "title": "‘No Political Office Is Worth Our Peace’ — Religious Leaders Warn Ahead of Elections",
+      "summary": "Written by: Dawda Baldeh Religious leaders in The Gambia have called for political tolerance, national unity and peaceful coexistence ahead of the forthcoming elections, warning politicians and citizens against allowing political, ethnic and religious differences to threaten t...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/no-political-office-is-worth-our-peace-religious-leaders-warn-ahead-of-elections/",
+      "publishedAt": "2026-09-23T10:14:24.000Z",
+      "collectedAt": "2026-09-23T11:18:25.418Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8ffaba9628e68142",
       "title": "Funding, Culture and Backlash Keep Gambian Women Out of Politics",
       "summary": "Written by: Dawda Baldeh Women aspiring to political leadership in The Gambia continue to face major barriers, including financial constraints, cultural expectations, religious beliefs and social backlash, participants at a leadership training session have said. The training, ...",
@@ -429,52 +476,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "472d2f056ecfc8f8",
-      "title": "Extreme heat linked to higher risk of stillbirth in Gambia, major study finds",
-      "summary": "By Hadram Hydara High temperatures around the time of delivery are associated with an increased risk of fresh stillbirth in The Gambia, according to a major medical study highlighting the growing threat extreme climate conditions pose to maternal and newborn survival across We...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/extreme-heat-linked-to-higher-risk-of-stillbirth-in-gambia-major-study-finds/",
-      "publishedAt": "2026-09-16T13:21:51.000Z",
-      "collectedAt": "2026-09-16T16:39:09.171Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b4a1fadcedb9b8de",
-      "title": "GAMBIA’S SARJO JAWO HEADS TO THAILAND FOR MISS GLOBAL 2026",
-      "summary": "Published by: The Fatu Network Gambian beauty queen Sarjo Ms Jawo will represent The Gambia at the Miss Global 2026 competition in Thailand, where she will compete alongside contestants from 78 countries. The competition will run from September 29th to October 11th, with Jawo ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambias-sarjo-jawo-heads-to-thailand-for-miss-global-2026/",
-      "publishedAt": "2026-09-16T09:19:49.000Z",
-      "collectedAt": "2026-09-16T11:19:32.988Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T04:26:16.647Z",
+    "generatedAt": "2026-09-23T11:18:31.337Z",
     "count": 21
   }
 }
