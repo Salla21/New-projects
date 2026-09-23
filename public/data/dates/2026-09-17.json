@@ -206,55 +206,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "15f5bfa8bdfffd68",
-      "title": "“They Don’t Tell Barrow the Right Thing”: NAM Faults Technocrats, Government Priorities",
-      "summary": "By Seedy Jobe The National Assembly member for Foni Jarrol, Hon. Kebba Tumanding Sanneh, has criticized the Barrow administration over what he described as misplaced priorities and poor implementation of government policies, arguing that technocrats are failing to provide Pres...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/they-dont-tell-barrow-the-right-thing-nam-faults-technocrats-government-priorities/",
-      "publishedAt": "2026-09-17T18:22:25.000Z",
-      "collectedAt": "2026-09-17T22:47:29.606Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e917b641b836d2ea",
-      "title": "Cany Jobe: The engineer determined to unlock Gambia’s oil potential",
-      "summary": "By Hadram Hydara From navigating high school subject dilemmas to leading high-stakes national energy negotiations across four continents, Cany Jobe’s path to becoming Director General of The Gambia Petroleum Commission has been defined by an appetite for new frontiers. Speakin...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/cany-jobe-the-engineer-determined-to-unlock-gambias-oil-potential/",
-      "publishedAt": "2026-09-17T13:37:51.000Z",
-      "collectedAt": "2026-09-17T18:06:16.277Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T16:40:39.439Z",
-    "count": 11
+    "generatedAt": "2026-09-23T21:23:59.048Z",
+    "count": 9
   }
 }

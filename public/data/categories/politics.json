@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "id": "26254638bdf487e1",
+      "title": "“Our Economic Power Has A Limit” – Minister Sillah Warns That Despite Progress, Challenges Persist",
+      "summary": "By Seedy Jobe The Gambia continues to face significant development challenges despite recent gains, as limited economic resources and shortages of skilled workers constrain the pace of progress, according to Ebrima Sillah, the Minister of Transport, Works, and Infrastructure. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/our-economic-power-has-a-limit-minister-sillah-warns-that-despite-progress-challenges-persist/",
+      "publishedAt": "2026-09-23T20:36:27.000Z",
+      "collectedAt": "2026-09-23T21:23:54.946Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a4cdc444532ca42d",
+      "title": "UNITE Draws Red Line: No Coalition Talks With Barrow or NPP, Sanyang Says",
+      "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of the UNITE Party and National Assembly member for Latrikunda Sabiji, has ruled out any possibility of his party joining the ruling National People’s Party or entering coalition talks with Pre...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/unite-draws-red-line-no-coalition-talks-with-barrow-or-npp-sanyang-says/",
+      "publishedAt": "2026-09-23T18:56:59.000Z",
+      "collectedAt": "2026-09-23T21:23:54.946Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "34cb66ba49f7c85c",
+      "title": "NPP’s Essa Dampha: December’s Presidential Vote Could Deal Darboe His Worst-Ever Loss",
+      "summary": "By Makutu Manneh Essa Dampha, a member of the ruling National People’s Party, has predicted that United Democratic Party leader Ousainou Darboe will suffer what he described as the biggest electoral defeat of his political career in the December presidential election. Speaking...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/npps-essa-dampha-decembers-presidential-vote-could-deal-darboe-his-worst-ever-loss/",
+      "publishedAt": "2026-09-23T18:53:48.000Z",
+      "collectedAt": "2026-09-23T21:23:54.946Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2fe05ea86cad87b7",
+      "title": "Kebba Jome: $2.5M Transfer from Jammeh’s Seized Assets a ‘Big Boost’ for Victims”",
+      "summary": "By Seedy Jobe Kebba Jome, vice chair of the Alliance of Victim-Led Organisations, has welcomed the transfer of $2.5 million recovered from the sale of former President Yahya Jammeh’s property in Potomac, Maryland, to The Gambia’s victims reparations fund, describing the money ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kebba-jome-2-5m-transfer-from-jammehs-seized-assets-a-big-boost-for-victims/",
+      "publishedAt": "2026-09-23T18:03:47.000Z",
+      "collectedAt": "2026-09-23T21:23:54.946Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ea76d3b2facbe24b",
       "title": "Kudos to Halifa Sallah, Seedia Jatta, and Ousainu Darboe for decades of political consistency, steadfastness, and resilience",
       "summary": "OPINION By Essa Njie In 1977 (I stand to be corrected), Halifa Sallah made what I believe to be a tough decision at the time. While completing his studies in the United States, Sallah had the option to pursue higher education up to doctoral level. However, he decided to return...",
@@ -1577,30 +1673,6 @@
       "status": "published"
     },
     {
-      "id": "15f5bfa8bdfffd68",
-      "title": "“They Don’t Tell Barrow the Right Thing”: NAM Faults Technocrats, Government Priorities",
-      "summary": "By Seedy Jobe The National Assembly member for Foni Jarrol, Hon. Kebba Tumanding Sanneh, has criticized the Barrow administration over what he described as misplaced priorities and poor implementation of government policies, arguing that technocrats are failing to provide Pres...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/they-dont-tell-barrow-the-right-thing-nam-faults-technocrats-government-priorities/",
-      "publishedAt": "2026-09-17T18:22:25.000Z",
-      "collectedAt": "2026-09-17T22:47:29.606Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94699c563aec97ca",
       "title": "Will TikTok Endorsements Sway the Presidential Election?",
       "summary": "As The Gambia prepares to go to the polls on December 5 to elect a president,…\nThe post Will TikTok Endorsements Sway the Presidential Election? appeared first on What's On Gambia.",
@@ -1609,7 +1681,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-23T16:40:33.349Z",
+      "collectedAt": "2026-09-23T21:23:52.822Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1632,7 +1704,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-23T16:40:33.176Z",
+      "collectedAt": "2026-09-23T21:23:52.411Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1655,7 +1727,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-23T16:40:33.176Z",
+      "collectedAt": "2026-09-23T21:23:52.411Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1678,7 +1750,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-23T16:40:33.176Z",
+      "collectedAt": "2026-09-23T21:23:52.411Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1695,7 +1767,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T16:40:39.439Z",
-    "count": 72
+    "generatedAt": "2026-09-23T21:23:59.048Z",
+    "count": 75
   }
 }

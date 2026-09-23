@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "34cb66ba49f7c85c",
+      "title": "NPP’s Essa Dampha: December’s Presidential Vote Could Deal Darboe His Worst-Ever Loss",
+      "summary": "By Makutu Manneh Essa Dampha, a member of the ruling National People’s Party, has predicted that United Democratic Party leader Ousainou Darboe will suffer what he described as the biggest electoral defeat of his political career in the December presidential election. Speaking...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/npps-essa-dampha-decembers-presidential-vote-could-deal-darboe-his-worst-ever-loss/",
+      "publishedAt": "2026-09-23T18:53:48.000Z",
+      "collectedAt": "2026-09-23T21:23:54.946Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2fe05ea86cad87b7",
+      "title": "Kebba Jome: $2.5M Transfer from Jammeh’s Seized Assets a ‘Big Boost’ for Victims”",
+      "summary": "By Seedy Jobe Kebba Jome, vice chair of the Alliance of Victim-Led Organisations, has welcomed the transfer of $2.5 million recovered from the sale of former President Yahya Jammeh’s property in Potomac, Maryland, to The Gambia’s victims reparations fund, describing the money ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kebba-jome-2-5m-transfer-from-jammehs-seized-assets-a-big-boost-for-victims/",
+      "publishedAt": "2026-09-23T18:03:47.000Z",
+      "collectedAt": "2026-09-23T21:23:54.946Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4f7f25c108e290fc",
       "title": "VICTIMS DEMAND JUDICIOUS USE OF FUNDS FROM U.S.",
       "summary": "By Tabora Bojang Following the announcement of the transfer of USD 2.5M  by the US from the sale of former president Jammeh’s house, for victims of the former dictator’s brutal regime, members of the victim community have welcomed the development and demanded a judicious use o...",
@@ -144,30 +193,6 @@
       "status": "published"
     },
     {
-      "id": "15f5bfa8bdfffd68",
-      "title": "“They Don’t Tell Barrow the Right Thing”: NAM Faults Technocrats, Government Priorities",
-      "summary": "By Seedy Jobe The National Assembly member for Foni Jarrol, Hon. Kebba Tumanding Sanneh, has criticized the Barrow administration over what he described as misplaced priorities and poor implementation of government policies, arguing that technocrats are failing to provide Pres...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/they-dont-tell-barrow-the-right-thing-nam-faults-technocrats-government-priorities/",
-      "publishedAt": "2026-09-17T18:22:25.000Z",
-      "collectedAt": "2026-09-17T22:47:29.606Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "e90449effae42a02",
       "title": "COULD METERS ALOCATED TO A COMPOUND HEAD BE TAKEN AND GIVEN TO ANOTHER COMPOUND HEAD?",
       "summary": "Foroyaa received a complaint from a compound head in CRR North that a meter allocated to him is to be taken away through the order of a district authority. Foroyaa has contacted the PRO for investigation. The PRO emphasised that once a meter is allocated to a person and instal...",
@@ -176,7 +201,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/could-meters-alocated-to-a-compound-head-be-taken-and-given-to-another-compoiund-head/",
       "publishedAt": "2026-08-17T13:18:44.000Z",
-      "collectedAt": "2026-09-23T16:40:33.176Z",
+      "collectedAt": "2026-09-23T21:23:52.411Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -199,7 +224,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/farmers-of-niorro-jarrol-allege-harassment-by-residents-of-jarrol-village/",
       "publishedAt": "2026-08-14T12:53:34.000Z",
-      "collectedAt": "2026-09-23T16:40:33.176Z",
+      "collectedAt": "2026-09-23T21:23:52.411Z",
       "region": "banjul",
       "categories": [
         "technology"
@@ -215,7 +240,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T16:40:39.439Z",
-    "count": 9
+    "generatedAt": "2026-09-23T21:23:59.048Z",
+    "count": 10
   }
 }
