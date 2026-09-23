@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "ecef7b890db3fa2a",
+      "title": "Gambia–Türkiye Exports Surge Over 800% as Envoy Pitches Country as West Africa’s Strategic Investment Gateway",
+      "summary": "Exports from The Gambia to Türkiye have surged by more than 800 per cent over a four-year period, jumping from 133,000 dalasis in 2021 to 11 million dalasis in 2025, driven largely by groundnut, fish, and vegetable oil shipments. The dramatic export growth was highlighted by T...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-turkiye-exports-surge-over-800-as-envoy-pitches-country-as-west-africas-strategic-investment-gateway/",
+      "publishedAt": "2026-09-23T12:19:08.000Z",
+      "collectedAt": "2026-09-23T16:40:33.572Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "17b1b1e91e24bda3",
       "title": "Disability Symposium: Nothing About Us Without Us: Building an Inclusive Gambia",
       "summary": "Event Funder: European Union Event Organisers: The Governor’s Office in North Bank Region, STAND: We Walk Together This symposium is part of a 3 year EU funded program being delivered by STAND: We Walk Together (formerly Legs4Africa), The Ladies Empowered for Growth and Succes...",
@@ -409,100 +432,6 @@
       "status": "published"
     },
     {
-      "id": "15a4317977586262",
-      "title": "Gambia Turns to Organic Fertiliser as Farmers Struggle With Costs",
-      "summary": "By: Dawda Baldeh The Gambia is stepping up efforts to promote organic fertiliser and agroecological farming as farmers struggle with the rising cost and limited availability of agricultural inputs. The push for greater investment in organic fertiliser took centre stage at the ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-turns-to-organic-fertiliser-as-farmers-struggle-with-costs/",
-      "publishedAt": "2026-09-17T13:20:13.000Z",
-      "collectedAt": "2026-09-17T18:06:16.277Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b6c0c8285bdf3cd5",
-      "title": "GRA Chief Calls for Stronger Regional Cooperation to Protect Africa’s Tax Base",
-      "summary": "By Makutu Manneh Yankuba Darboe, commissioner general of the Gambia Revenue Authority, has called for deeper cooperation among African tax administrations, warning that illicit financial flows, profit shifting, and increasingly borderless business activities are eroding the co...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gra-chief-calls-for-stronger-regional-cooperation-to-protect-africas-tax-base/",
-      "publishedAt": "2026-09-16T21:45:29.000Z",
-      "collectedAt": "2026-09-17T00:17:15.011Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ff115a3c94a831f0",
-      "title": "Youth and Sports Ministry Touts Stadium Upgrades, Expands Youth and National Team Support",
-      "summary": "By Seedy Jobe The Ministry of Youth and Sports on Wednesday outlined a series of investments in sports infrastructure and youth development, announcing the completion of renovations at Independence Stadium, the expansion of community sports facilities, and increased government...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/youth-and-sports-ministry-touts-stadium-upgrades-expands-youth-and-national-team-support/",
-      "publishedAt": "2026-09-16T19:59:15.000Z",
-      "collectedAt": "2026-09-16T21:11:06.106Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "54b8d83e136daec3",
-      "title": "Minister Badjie Says NYSS Training Instills Discipline and Direction in Gambian Youth",
-      "summary": "By Seedy Jobe The Minister of Youth and Sports, Bakary Y. Badjie, has said the National Youth Service Scheme is helping young Gambians develop discipline, practical skills, and a clearer sense of direction as they prepare to enter the workforce. Mr. Badjie spoke in an intervie...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/minister-badjie-says-nyss-training-instills-discipline-and-direction-in-gambian-youth/",
-      "publishedAt": "2026-09-16T18:00:11.000Z",
-      "collectedAt": "2026-09-16T21:11:06.106Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "fb5241bc6278fef3",
       "title": "Auditors report D7.2 million understatement in KMC bank balances in 2020 & 2021",
       "summary": "By Kebba A.F. Touray The National Audit Office (NAO) has reported a combined understatement of more than seven million two hundred thousand dalasi in bank balances recorded by the Kanifing Municipal Council (KMC) for the 2020 and 2021 financial years. The finding is contained ...",
@@ -511,7 +440,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-23T11:18:25.071Z",
+      "collectedAt": "2026-09-23T16:40:33.176Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -535,7 +464,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-23T11:18:25.071Z",
+      "collectedAt": "2026-09-23T16:40:33.176Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -558,7 +487,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-23T11:18:25.071Z",
+      "collectedAt": "2026-09-23T16:40:33.176Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -575,7 +504,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T11:18:31.337Z",
-    "count": 24
+    "generatedAt": "2026-09-23T16:40:39.439Z",
+    "count": 21
   }
 }

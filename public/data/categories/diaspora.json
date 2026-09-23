@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ea76d3b2facbe24b",
+      "title": "Kudos to Halifa Sallah, Seedia Jatta, and Ousainu Darboe for decades of political consistency, steadfastness, and resilience",
+      "summary": "OPINION By Essa Njie In 1977 (I stand to be corrected), Halifa Sallah made what I believe to be a tough decision at the time. While completing his studies in the United States, Sallah had the option to pursue higher education up to doctoral level. However, he decided to return...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/kudos-to-halifa-sallah-seedia-jatta-and-ousainu-darboe-for-decades-of-political-consistency-steadfastness-and-resilience/",
+      "publishedAt": "2026-09-23T11:20:58.000Z",
+      "collectedAt": "2026-09-23T16:40:33.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "17b1b1e91e24bda3",
       "title": "Disability Symposium: Nothing About Us Without Us: Building an Inclusive Gambia",
       "summary": "Event Funder: European Union Event Organisers: The Governor’s Office in North Bank Region, STAND: We Walk Together This symposium is part of a 3 year EU funded program being delivered by STAND: We Walk Together (formerly Legs4Africa), The Ladies Empowered for Growth and Succes...",
@@ -584,7 +608,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-23T11:18:25.234Z",
+      "collectedAt": "2026-09-23T16:40:33.349Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -607,7 +631,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-23T11:18:25.071Z",
+      "collectedAt": "2026-09-23T16:40:33.176Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -624,7 +648,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T11:18:31.337Z",
-    "count": 26
+    "generatedAt": "2026-09-23T16:40:39.439Z",
+    "count": 27
   }
 }
