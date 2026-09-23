@@ -1321,103 +1321,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5166c805b6c96012",
-      "title": "State Seeks Recusal of Four Supreme Court Justices in Challenge to Chief Justice Faal’s Appointment",
-      "summary": "The Attorney General’s Chambers has asked the Supreme Court to recuse four justices, including Chief Justice Edrissa M.O. Faal, from hearing a constitutional challenge to Mr. Faal’s appointment as Chief Justice. The application was filed in the case brought by the Gambia Bar A...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/state-seeks-recusal-of-four-supreme-court-justices-in-challenge-to-chief-justice-faals-appointment/",
-      "publishedAt": "2026-09-15T21:36:29.000Z",
-      "collectedAt": "2026-09-15T22:49:58.197Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "208cfe3e6d172899",
-      "title": "Gambia Hosts ECOWAS Competition Summit as West Africa Pushes for Fairer, More Integrated Markets",
-      "summary": "By Seedy Jobe The Gambia on Tuesday opened the inaugural annual conference of the ECOWAS Regional Competition Authority, bringing policymakers and regulators from across West Africa together for three days of talks on how stronger competition rules could help create a more int...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-hosts-ecowas-competition-summit-as-west-africa-pushes-for-fairer-more-integrated-markets/",
-      "publishedAt": "2026-09-15T21:08:47.000Z",
-      "collectedAt": "2026-09-15T22:49:58.197Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2b8cc277b004a820",
-      "title": "Dr. Ceesay Says Domestic Violence Allegations Against Diplomats Should Not Define Professional Competence",
-      "summary": "By Fatou Sillah The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, has argued that allegations of domestic violence involving Gambian diplomats should be treated separately from assessments of their professional competence, saying misconduct in a...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-says-domestic-violence-allegations-against-diplomats-should-not-define-professional-competence/",
-      "publishedAt": "2026-09-15T20:54:08.000Z",
-      "collectedAt": "2026-09-15T22:49:58.197Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "44e9442bcd246c51",
-      "title": "Dr. Ceesay: Barrow Has Fulfilled Electricity Pledge, Citing Significant Improvement in Power Supply",
-      "summary": "By Fatou Sillah The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, said President Adama Barrow had fulfilled his promise to improve The Gambia’s electricity supply, pointing to what he described as a significant stabilization of power in recent d...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-barrow-has-fulfilled-electricity-pledge-citing-significant-improvement-in-power-supply/",
-      "publishedAt": "2026-09-15T20:39:50.000Z",
-      "collectedAt": "2026-09-15T22:49:58.197Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T22:52:04.527Z",
-    "count": 61
+    "generatedAt": "2026-09-23T04:26:16.647Z",
+    "count": 57
   }
 }

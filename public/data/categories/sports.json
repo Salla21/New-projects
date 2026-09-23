@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "14f611800f9b214d",
+      "title": "Brufut Father Names Newborn Son Lamine Yamal",
+      "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
+      "publishedAt": "2026-09-23T04:02:32.000Z",
+      "collectedAt": "2026-09-23T04:26:11.201Z",
+      "region": "west-coast",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Lamin Saidy",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ea6dc3eaf793b8df",
       "title": "Sadio Mané to Lay Foundation Stone for 11 Billion CFA Franc Agro-Industrial Park in Bambali",
       "summary": "By Staff Writer Senegalese football star Sadio Mané will, on Saturday, Sept. 19, lay the foundation stone for an 11 billion CFA franc agro-industrial park in his hometown of Bambali, in Senegal’s southern Sédhiou region. The project, known as SM10 Agro, is expected to create a...",
@@ -49,7 +72,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T22:52:04.527Z",
-    "count": 2
+    "generatedAt": "2026-09-23T04:26:16.647Z",
+    "count": 3
   }
 }

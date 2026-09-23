@@ -529,30 +529,6 @@
       "status": "published"
     },
     {
-      "id": "5166c805b6c96012",
-      "title": "State Seeks Recusal of Four Supreme Court Justices in Challenge to Chief Justice Faal’s Appointment",
-      "summary": "The Attorney General’s Chambers has asked the Supreme Court to recuse four justices, including Chief Justice Edrissa M.O. Faal, from hearing a constitutional challenge to Mr. Faal’s appointment as Chief Justice. The application was filed in the case brought by the Gambia Bar A...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/state-seeks-recusal-of-four-supreme-court-justices-in-challenge-to-chief-justice-faals-appointment/",
-      "publishedAt": "2026-09-15T21:36:29.000Z",
-      "collectedAt": "2026-09-15T22:49:58.197Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -561,7 +537,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-22T22:51:58.161Z",
+      "collectedAt": "2026-09-23T04:26:11.201Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -584,7 +560,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-22T22:51:57.890Z",
+      "collectedAt": "2026-09-23T04:26:10.813Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -601,7 +577,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T22:52:04.527Z",
-    "count": 25
+    "generatedAt": "2026-09-23T04:26:16.647Z",
+    "count": 24
   }
 }

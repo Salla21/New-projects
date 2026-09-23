@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "id": "64c6b61254251b51",
+      "title": "Hajia Gambia Has Fans Losing Their Minds Over Her Latest Instagram Photos",
+      "summary": "Social media sensation Hajia Gambia has once again got fans talking after sharing a series of…\nThe post Hajia Gambia Has Fans Losing Their Minds Over Her Latest Instagram Photos appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/hajia-gambia-has-fans-losing-their-minds-over-her-latest-instagram-photos/",
+      "publishedAt": "2026-09-23T04:06:17.000Z",
+      "collectedAt": "2026-09-23T04:26:11.201Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "14f611800f9b214d",
+      "title": "Brufut Father Names Newborn Son Lamine Yamal",
+      "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
+      "publishedAt": "2026-09-23T04:02:32.000Z",
+      "collectedAt": "2026-09-23T04:26:11.201Z",
+      "region": "west-coast",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Lamin Saidy",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "453492590fd125a0",
+      "title": "Meet Gambia’s TikTok Powerhouses: The 10 Creators Dominating the Platform",
+      "summary": "Gambia’s entertainment scene is no longer confined to television, radio and music. TikTok has become a…\nThe post Meet Gambia’s TikTok Powerhouses: The 10 Creators Dominating the Platform appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/meet-gambias-tiktok-powerhouses-the-10-creators-dominating-the-platform/",
+      "publishedAt": "2026-09-23T04:00:57.000Z",
+      "collectedAt": "2026-09-23T04:26:11.201Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b13a5c2fc357d4dd",
       "title": "UNITE’s Sanyang Says Commission Findings Do Not Bar Bensouda From 2026 Presidential Race",
       "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of UNITE Party, has said the adverse findings made against Kanifing Municipal Council Mayor Talib Ahmed Bensouda by the Local Government Commission of Inquiry do not prevent him from contesting...",
@@ -380,57 +445,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9ff14bd9111a8915",
-      "title": "FirstBank launches ‘Ndimbal’ digital salary advance",
-      "summary": "By Olimatou Coker FirstBank Gambia on Monday officially launched a ‘Ndimbal’ digital salary advance initiative at its Head Office on Kairaba Avenue. According to the bank, the initiative serves as a milestone in its digital transformation drive to deliver fast, innovative fina...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/firstbank-launches-ndimbal-digital-salary-advance/",
-      "publishedAt": "2026-09-22T09:11:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b3a7fe6cfb89f0b0",
-      "title": "Team Gambia Coalition Pledges New Constitution Within 18 Months if Elected",
-      "summary": "By Seedy Jobe Team Gambia Grand Coalition 2026 has outlined an ambitious political and governance agenda ahead of the 2026-27 election cycle, pledging to introduce a new constitution within 18 months if elected and to select its presidential candidate through nationwide consul...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/team-gambia-coalition-pledges-new-constitution-within-18-months-if-elected/",
-      "publishedAt": "2026-09-21T22:54:15.000Z",
-      "collectedAt": "2026-09-22T00:41:35.591Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T22:52:04.527Z",
-    "count": 19
+    "generatedAt": "2026-09-23T04:26:16.647Z",
+    "count": 20
   }
 }

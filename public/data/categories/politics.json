@@ -1631,7 +1631,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-16T11:19:32.577Z",
+      "collectedAt": "2026-09-23T04:26:11.201Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1646,76 +1646,6 @@
       "status": "published"
     },
     {
-      "id": "5166c805b6c96012",
-      "title": "State Seeks Recusal of Four Supreme Court Justices in Challenge to Chief Justice Faal’s Appointment",
-      "summary": "The Attorney General’s Chambers has asked the Supreme Court to recuse four justices, including Chief Justice Edrissa M.O. Faal, from hearing a constitutional challenge to Mr. Faal’s appointment as Chief Justice. The application was filed in the case brought by the Gambia Bar A...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/state-seeks-recusal-of-four-supreme-court-justices-in-challenge-to-chief-justice-faals-appointment/",
-      "publishedAt": "2026-09-15T21:36:29.000Z",
-      "collectedAt": "2026-09-15T22:49:58.197Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2b8cc277b004a820",
-      "title": "Dr. Ceesay Says Domestic Violence Allegations Against Diplomats Should Not Define Professional Competence",
-      "summary": "By Fatou Sillah The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, has argued that allegations of domestic violence involving Gambian diplomats should be treated separately from assessments of their professional competence, saying misconduct in a...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-says-domestic-violence-allegations-against-diplomats-should-not-define-professional-competence/",
-      "publishedAt": "2026-09-15T20:54:08.000Z",
-      "collectedAt": "2026-09-15T22:49:58.197Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "44e9442bcd246c51",
-      "title": "Dr. Ceesay: Barrow Has Fulfilled Electricity Pledge, Citing Significant Improvement in Power Supply",
-      "summary": "By Fatou Sillah The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, said President Adama Barrow had fulfilled his promise to improve The Gambia’s electricity supply, pointing to what he described as a significant stabilization of power in recent d...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-barrow-has-fulfilled-electricity-pledge-citing-significant-improvement-in-power-supply/",
-      "publishedAt": "2026-09-15T20:39:50.000Z",
-      "collectedAt": "2026-09-15T22:49:58.197Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6bbd36e6804efe70",
       "title": "Judge rules two-year detention of robbery accused unconstitutional",
       "summary": "By Mariama Marong The High Court in Bundung has ruled that the continued detention of a man for more than two years without trial was unconstitutional, saying the prolonged incarceration violated his rights to personal liberty and to a fair hearing within a reasonable time. Ju...",
@@ -1724,7 +1654,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-22T22:51:57.890Z",
+      "collectedAt": "2026-09-23T04:26:10.813Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1747,7 +1677,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-22T22:51:57.890Z",
+      "collectedAt": "2026-09-23T04:26:10.813Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1770,7 +1700,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-22T22:51:57.890Z",
+      "collectedAt": "2026-09-23T04:26:10.813Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1787,7 +1717,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-22T22:52:04.527Z",
-    "count": 76
+    "generatedAt": "2026-09-23T04:26:16.647Z",
+    "count": 73
   }
 }
