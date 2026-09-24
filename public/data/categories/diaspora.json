@@ -554,103 +554,6 @@
       "status": "published"
     },
     {
-      "id": "60c67b7275e7dcff",
-      "title": "Darboe Says UDP Seeks Elders’ Trust and Prayers Ahead of December Election",
-      "summary": "By Seedy Jobe United Democratic Party leader A.N.M. Ousainu Darboe says his party’s visit to community elders in Katamina was not a campaign event but an effort to seek their trust and prayers ahead of the December presidential election. Speaking during the meeting, Darboe sai...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-udp-seeks-elders-trust-and-prayers-ahead-of-december-election/",
-      "publishedAt": "2026-09-18T17:24:10.000Z",
-      "collectedAt": "2026-09-18T20:46:27.123Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f0bc3a8a7ae37e75",
-      "title": "Darboe Says Voting for NPP Means Choosing Continued Hardship",
-      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has told voters in Madina Angalleh that supporting the National People’s Party in the December 5 presidential election would amount to choosing another five years of hardship. Darboe made the remarks on Thursday durin...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-voting-for-npp-means-choosing-continued-hardship/",
-      "publishedAt": "2026-09-18T17:08:01.000Z",
-      "collectedAt": "2026-09-18T20:46:27.123Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "efb2ed82aa54ada6",
-      "title": "Darboe Says Upcoming Election Is for All Gambians, Not Any One Tribe",
-      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has urged Gambians to look beyond ethnic identity in the upcoming presidential election, saying the vote should be about the country’s collective future rather than any particular tribe. Speaking in Jababa in the Lowe...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-upcoming-election-is-for-all-gambians-not-any-one-tribe/",
-      "publishedAt": "2026-09-18T15:53:55.000Z",
-      "collectedAt": "2026-09-18T16:14:57.282Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "49f03e1a419ad87d",
-      "title": "Mayor Bensouda Says He Will Fight Poverty and Backway Migration Under Coalition 2026",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the flagbearer of Coalition 2026, has pledged to tackle poverty and address the economic conditions he says are driving young Gambians to undertake dangerous irregular migration journeys if his coalition wins the December presidential elec...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mayor-bensouda-says-he-will-fight-poverty-and-backway-migration-under-coalition-2026/",
-      "publishedAt": "2026-09-17T21:22:26.000Z",
-      "collectedAt": "2026-09-17T22:47:29.606Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -659,7 +562,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-24T13:29:25.863Z",
+      "collectedAt": "2026-09-24T18:22:37.034Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -675,7 +578,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T13:29:31.574Z",
-    "count": 28
+    "generatedAt": "2026-09-24T18:22:43.860Z",
+    "count": 24
   }
 }

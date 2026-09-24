@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "c3c938554945ba24",
+      "title": "UNITE’s Ebrima Dibba Details Failed Talks With Essa Faal, Accuses Him of Prioritizing Presidential Ambition",
+      "summary": "By Makutu Manneh Ebrima Dibba, national president of the UNITE Party, has disclosed details of what he described as unsuccessful private talks with APP-Sobeyaa leader Essa Mbye Faal, accusing the former presidential candidate of putting his own political ambitions ahead of eff...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/unites-ebrima-dibba-details-failed-talks-with-essa-faal-accuses-him-of-prioritizing-presidential-ambition/",
+      "publishedAt": "2026-09-24T18:13:35.000Z",
+      "collectedAt": "2026-09-24T18:22:39.764Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c24f94514a272c55",
+      "title": "Gambia Spent D15 Billion in Six Months. Just D1 Billion Went to Capital Investment",
+      "summary": "Written by: Seringe S.T. Touray The Gambia Government spent more than D15 billion in the first six months of 2026, but almost all of it went towards running the government, paying salaries, subsidies and debt, with just D1 billion going into capital investment, which covers lo...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-spent-d15-billion-in-six-months-just-d1-billion-went-to-capital-investment/",
+      "publishedAt": "2026-09-24T13:51:16.000Z",
+      "collectedAt": "2026-09-24T18:22:37.406Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "59dfe05b7546f9cc",
       "title": "Low Voltage Leaves Businesses Struggling Despite Power Supply Improvements",
       "summary": "By Nelson Manneh Businesses and residents in parts of the Greater Banjul Area told Foroyaa that improvements in electricity supply in recent days have been accompanied by another problem, which is low and fluctuating voltage that is affecting their businesses and raising conce...",
@@ -481,50 +528,6 @@
       "status": "published"
     },
     {
-      "id": "df08562cea68afdc",
-      "title": "MoBSE Reports Highest GABECE Pass Rate Since 2021",
-      "summary": "By Seedy Jobe The Ministry of Basic and Secondary Education has announced the results of the 2026 Gambia Basic Education Certificate Examination, reporting improved student performance and the highest transition rate to senior secondary school since 2021. The results were pres...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mobse-reports-highest-gabece-pass-rate-since-2021/",
-      "publishedAt": "2026-09-18T19:50:11.000Z",
-      "collectedAt": "2026-09-18T20:46:27.123Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "09355d5dd148b2d0",
-      "title": "WANETAM-4 Launches Five-Year Initiative to Boost Infectious Disease Research Across West Africa",
-      "summary": "By Makutu Manneh The West African Network of Excellence for TB, AIDS, and Malaria, known as WANETAM-4, has launched a five-year programme aimed at strengthening scientific research, training, and health systems across West Africa. The initiative was unveiled at a kick-off meet...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/wanetam-4-launches-five-year-initiative-to-boost-infectious-disease-research-across-west-africa/",
-      "publishedAt": "2026-09-17T21:08:34.000Z",
-      "collectedAt": "2026-09-17T22:47:29.606Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -533,7 +536,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-24T13:29:25.863Z",
+      "collectedAt": "2026-09-24T18:22:37.034Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -554,7 +557,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-24T13:29:25.863Z",
+      "collectedAt": "2026-09-24T18:22:37.034Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -568,7 +571,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T13:29:31.574Z",
+    "generatedAt": "2026-09-24T18:22:43.860Z",
     "count": 25
   }
 }

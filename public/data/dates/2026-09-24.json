@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "c3c938554945ba24",
+      "title": "UNITE’s Ebrima Dibba Details Failed Talks With Essa Faal, Accuses Him of Prioritizing Presidential Ambition",
+      "summary": "By Makutu Manneh Ebrima Dibba, national president of the UNITE Party, has disclosed details of what he described as unsuccessful private talks with APP-Sobeyaa leader Essa Mbye Faal, accusing the former presidential candidate of putting his own political ambitions ahead of eff...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/unites-ebrima-dibba-details-failed-talks-with-essa-faal-accuses-him-of-prioritizing-presidential-ambition/",
+      "publishedAt": "2026-09-24T18:13:35.000Z",
+      "collectedAt": "2026-09-24T18:22:39.764Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f53e8d57a754ca17",
+      "title": "UNITE’s National President Dibba: ‘Only Death Can Keep Bensouda Off the Ballot’",
+      "summary": "By Makutu Manneh Ebrima Dibba, national president of the UNITE Party, has declared that the party’s leader, Talib Ahmed Bensouda, will contest the upcoming presidential election, saying only death could prevent his name from appearing on the ballot. Speaking in an interview on...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/unites-national-president-dibba-only-death-can-keep-bensouda-off-the-ballot/",
+      "publishedAt": "2026-09-24T18:05:47.000Z",
+      "collectedAt": "2026-09-24T18:22:39.764Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3adca5238ec11eba",
+      "title": "Out of Reach: ECOMIG and the Erosion of Civilian Oversight of the Military in The Gambia",
+      "summary": "ANALYSIS By Sarjo Barrow, Esq. “Without debate, without criticism, no Administration and no country can succeed—and no republic can survive.” President John F. Kennedy In January 2017, ECOMIG entered The Gambia under Operation Restore Democracy, with political support from UN ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/out-of-reach-ecomig-and-the-erosion-of-civilian-oversight-of-the-military-in-the-gambia/",
+      "publishedAt": "2026-09-24T16:27:01.000Z",
+      "collectedAt": "2026-09-24T18:22:37.406Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c24f94514a272c55",
+      "title": "Gambia Spent D15 Billion in Six Months. Just D1 Billion Went to Capital Investment",
+      "summary": "Written by: Seringe S.T. Touray The Gambia Government spent more than D15 billion in the first six months of 2026, but almost all of it went towards running the government, paying salaries, subsidies and debt, with just D1 billion going into capital investment, which covers lo...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-spent-d15-billion-in-six-months-just-d1-billion-went-to-capital-investment/",
+      "publishedAt": "2026-09-24T13:51:16.000Z",
+      "collectedAt": "2026-09-24T18:22:37.406Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "54bea429957dc459",
       "title": "Bulock residents urge government to protect farms as border dispute continues",
       "summary": "By Assan Bah Residents of Bulock have urged the government to protect their farmland and livelihoods as a dispute over the Gambia-Senegal border continues to concern the community. The concerns were raised during a meeting with the Chief of Defence Staff, Lieutenant-General Ou...",
@@ -459,7 +553,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T13:29:31.574Z",
-    "count": 20
+    "generatedAt": "2026-09-24T18:22:43.860Z",
+    "count": 24
   }
 }

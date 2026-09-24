@@ -346,81 +346,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "dca7cf6599a96bbd",
-      "title": "UDP’s Lamin Manneh Alleges NPP’s 2021 Victory Was Aided by Electoral Irregularities",
-      "summary": "By Makutu Manneh Lamin Manneh, the United Democratic Party’s deputy administrative secretary for external affairs, has alleged that the ruling National People’s Party entered the 2021 presidential election confident of victory because of what he described as planned electoral ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-alleges-npps-2021-victory-was-aided-by-electoral-irregularities/",
-      "publishedAt": "2026-09-18T17:44:08.000Z",
-      "collectedAt": "2026-09-18T20:46:27.123Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d41c9e7ff706f8f4",
-      "title": "Lamin Manneh Says UDP Government Would Build Power Generation Capacity Within Two Years",
-      "summary": "By Makutu Manneh Lamin Manneh, the United Democratic Party’s deputy administrative secretary for external affairs, says a UDP government would seek to build enough domestic generation capacity to stabilize The Gambia’s electricity supply within two years of taking office. Spea...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lamin-manneh-says-udp-government-would-build-power-generation-capacity-within-two-years/",
-      "publishedAt": "2026-09-18T17:36:18.000Z",
-      "collectedAt": "2026-09-18T20:46:27.123Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0d20e32c8022e763",
-      "title": "Lamin Manneh Urges Gambians to Back UDP-Led Coalition in December Election",
-      "summary": "By Makutu Manneh Lamin Manneh, the United Democratic Party’s deputy administrative secretary for external affairs, has urged Gambians to support a UDP-led coalition in the Dec. 5 presidential election, arguing that a change in government is needed to address economic hardship,...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lamin-manneh-urges-gambians-to-back-udp-led-coalition-in-december-election/",
-      "publishedAt": "2026-09-18T17:30:14.000Z",
-      "collectedAt": "2026-09-18T20:46:27.123Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T13:29:31.574Z",
-    "count": 18
+    "generatedAt": "2026-09-24T18:22:43.860Z",
+    "count": 15
   }
 }

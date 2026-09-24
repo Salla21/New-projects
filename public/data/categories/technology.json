@@ -193,58 +193,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b50f8a06f8b1c9f2",
-      "title": "Gambia, U.S. Sign Agreement to Use Proceeds From Sale of Jammeh’s $3.5M Mansion to Compensate Victims",
-      "summary": "By Makutu Manneh The governments of The Gambia and the United States have signed an agreement to repatriate funds recovered from the sale of a $3.5 million mansion in Potomac, Maryland, linked to former President Yahya Jammeh, with the money to be used to compensate victims of...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-u-s-sign-agreement-to-use-proceeds-from-sale-of-jammehs-3-5m-mansion-to-compensate-victims/",
-      "publishedAt": "2026-09-18T19:41:31.000Z",
-      "collectedAt": "2026-09-18T20:46:27.123Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "dca7cf6599a96bbd",
-      "title": "UDP’s Lamin Manneh Alleges NPP’s 2021 Victory Was Aided by Electoral Irregularities",
-      "summary": "By Makutu Manneh Lamin Manneh, the United Democratic Party’s deputy administrative secretary for external affairs, has alleged that the ruling National People’s Party entered the 2021 presidential election confident of victory because of what he described as planned electoral ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-alleges-npps-2021-victory-was-aided-by-electoral-irregularities/",
-      "publishedAt": "2026-09-18T17:44:08.000Z",
-      "collectedAt": "2026-09-18T20:46:27.123Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T13:29:31.574Z",
-    "count": 10
+    "generatedAt": "2026-09-24T18:22:43.860Z",
+    "count": 8
   }
 }
