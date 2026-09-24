@@ -1557,30 +1557,6 @@
       "status": "published"
     },
     {
-      "id": "67577f9b97ba8eff",
-      "title": "Gambia to Host ‘Tabital Pulaaku’ International Assembly as 33 Countries Prepare to Converge",
-      "summary": "By Dawda Baldeh The Gambia is set to host the Tabital Pulaaku International (TPI) General Assembly from September 26 to 27, bringing together representatives from more than 33 countries across Africa, Europe and the Americas for a major gathering focused on unity, dialogue, cu...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-to-host-tabital-pulaaku-international-assembly-as-33-countries-prepare-to-converge/",
-      "publishedAt": "2026-09-17T19:11:56.000Z",
-      "collectedAt": "2026-09-17T22:47:28.556Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94699c563aec97ca",
       "title": "Will TikTok Endorsements Sway the Presidential Election?",
       "summary": "As The Gambia prepares to go to the polls on December 5 to elect a president,…\nThe post Will TikTok Endorsements Sway the Presidential Election? appeared first on What's On Gambia.",
@@ -1589,7 +1565,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-24T00:22:09.743Z",
+      "collectedAt": "2026-09-24T07:30:48.236Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1612,7 +1588,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/judge-rules-two-year-detention-of-robbery-accused-unconstitutional/",
       "publishedAt": "2026-08-14T13:10:00.000Z",
-      "collectedAt": "2026-09-24T00:22:09.569Z",
+      "collectedAt": "2026-09-24T07:30:48.084Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1635,7 +1611,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-24T00:22:09.569Z",
+      "collectedAt": "2026-09-24T07:30:48.084Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -1658,7 +1634,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/what-type-of-coalition-is-acceptable-for-2016/",
       "publishedAt": "2026-08-14T11:52:54.000Z",
-      "collectedAt": "2026-09-24T00:22:09.569Z",
+      "collectedAt": "2026-09-24T07:30:48.084Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1675,7 +1651,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T00:22:15.445Z",
-    "count": 71
+    "generatedAt": "2026-09-24T07:30:54.051Z",
+    "count": 70
   }
 }
