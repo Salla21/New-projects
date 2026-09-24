@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "e07fa39388a6df8e",
+      "title": "Kanifing Magistrate Orders Ferreh Lulu Properties to Pay D830,000 in Land Dispute",
+      "summary": "A magistrate in Kanifing has ordered Ferreh Lulu Properties to pay D830,000 to Marabi Salam Camara after finding that the company failed to provide land he had paid for in full. Magistrate B. Sowe delivered the ruling at the Kanifing Magistrates’ Court. Mr. Camara appeared thr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kanifing-magistrate-orders-ferreh-lulu-properties-to-pay-d830000-in-land-dispute/",
+      "publishedAt": "2026-09-23T23:29:41.000Z",
+      "collectedAt": "2026-09-24T00:22:11.406Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "26254638bdf487e1",
       "title": "“Our Economic Power Has A Limit” – Minister Sillah Warns That Despite Progress, Challenges Persist",
       "summary": "By Seedy Jobe The Gambia continues to face significant development challenges despite recent gains, as limited economic resources and shortages of skilled workers constrain the pace of progress, according to Ebrima Sillah, the Minister of Transport, Works, and Infrastructure. ...",
@@ -440,31 +461,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "64c6b61254251b51",
-      "title": "Hajia Gambia Has Fans Losing Their Minds Over Her Latest Instagram Photos",
-      "summary": "Social media sensation Hajia Gambia has once again got fans talking after sharing a series of…\nThe post Hajia Gambia Has Fans Losing Their Minds Over Her Latest Instagram Photos appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/hajia-gambia-has-fans-losing-their-minds-over-her-latest-instagram-photos/",
-      "publishedAt": "2026-09-23T04:06:17.000Z",
-      "collectedAt": "2026-09-23T04:26:11.201Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T21:23:59.048Z",
+    "generatedAt": "2026-09-24T00:22:15.445Z",
     "count": 20
   }
 }

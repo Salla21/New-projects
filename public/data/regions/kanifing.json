@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "e07fa39388a6df8e",
+      "title": "Kanifing Magistrate Orders Ferreh Lulu Properties to Pay D830,000 in Land Dispute",
+      "summary": "A magistrate in Kanifing has ordered Ferreh Lulu Properties to pay D830,000 to Marabi Salam Camara after finding that the company failed to provide land he had paid for in full. Magistrate B. Sowe delivered the ruling at the Kanifing Magistrates’ Court. Mr. Camara appeared thr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kanifing-magistrate-orders-ferreh-lulu-properties-to-pay-d830000-in-land-dispute/",
+      "publishedAt": "2026-09-23T23:29:41.000Z",
+      "collectedAt": "2026-09-24T00:22:11.406Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b13a5c2fc357d4dd",
       "title": "UNITE’s Sanyang Says Commission Findings Do Not Bar Bensouda From 2026 Presidential Race",
       "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of UNITE Party, has said the adverse findings made against Kanifing Municipal Council Mayor Talib Ahmed Bensouda by the Local Government Commission of Inquiry do not prevent him from contesting...",
@@ -99,7 +120,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/former-kanifing-general-hospital-employee-challenges-dismissal-over-two-days-of-sick-leave/",
       "publishedAt": "2026-08-14T12:21:35.000Z",
-      "collectedAt": "2026-09-23T21:23:52.411Z",
+      "collectedAt": "2026-09-24T00:22:09.569Z",
       "region": "kanifing",
       "categories": [
         "politics"
@@ -122,7 +143,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/auditors-report-d7-2-million-understatement-in-kmc-bank-balances-in-2020-2021/",
       "publishedAt": "2026-08-14T12:14:17.000Z",
-      "collectedAt": "2026-09-23T21:23:52.411Z",
+      "collectedAt": "2026-09-24T00:22:09.569Z",
       "region": "kanifing",
       "categories": [
         "business",
@@ -146,7 +167,7 @@
       "sourceUrl": "https://foroyaa.net/feed/",
       "originalUrl": "https://foroyaa.net/tallinding-north-councillor-recognises-top-students-donates-school-and-medical-supplies/",
       "publishedAt": "2026-08-14T12:09:48.000Z",
-      "collectedAt": "2026-09-23T21:23:52.411Z",
+      "collectedAt": "2026-09-24T00:22:09.569Z",
       "region": "kanifing",
       "categories": [
         "business"
@@ -162,7 +183,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T21:23:59.048Z",
-    "count": 7
+    "generatedAt": "2026-09-24T00:22:15.445Z",
+    "count": 8
   }
 }

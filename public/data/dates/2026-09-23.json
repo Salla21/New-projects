@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "e07fa39388a6df8e",
+      "title": "Kanifing Magistrate Orders Ferreh Lulu Properties to Pay D830,000 in Land Dispute",
+      "summary": "A magistrate in Kanifing has ordered Ferreh Lulu Properties to pay D830,000 to Marabi Salam Camara after finding that the company failed to provide land he had paid for in full. Magistrate B. Sowe delivered the ruling at the Kanifing Magistrates’ Court. Mr. Camara appeared thr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kanifing-magistrate-orders-ferreh-lulu-properties-to-pay-d830000-in-land-dispute/",
+      "publishedAt": "2026-09-23T23:29:41.000Z",
+      "collectedAt": "2026-09-24T00:22:11.406Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "26254638bdf487e1",
       "title": "“Our Economic Power Has A Limit” – Minister Sillah Warns That Despite Progress, Challenges Persist",
       "summary": "By Seedy Jobe The Gambia continues to face significant development challenges despite recent gains, as limited economic resources and shortages of skilled workers constrain the pace of progress, according to Ebrima Sillah, the Minister of Transport, Works, and Infrastructure. ...",
@@ -508,7 +529,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-23T21:23:59.048Z",
-    "count": 22
+    "generatedAt": "2026-09-24T00:22:15.445Z",
+    "count": 23
   }
 }
