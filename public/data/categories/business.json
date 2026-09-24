@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "d35753dd6dc073c0",
+      "title": "GIA Workers Stage Sit-Down Strike, Accuse Government of Favoring NIRO",
+      "summary": "By Seedy Jobe Employees of Gambia International Airlines staged a sit-down strike at the company’s headquarters at Banjul International Airport on Thursday, accusing the government of favoring private ground-handling company NIRO at the expense of the state-owned national carr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gia-workers-stage-sit-down-strike-accuse-government-of-favoring-niro/",
+      "publishedAt": "2026-09-24T18:24:47.000Z",
+      "collectedAt": "2026-09-24T23:09:11.451Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3adca5238ec11eba",
       "title": "Out of Reach: ECOMIG and the Erosion of Civilian Oversight of the Military in The Gambia",
       "summary": "ANALYSIS By Sarjo Barrow, Esq. “Without debate, without criticism, no Administration and no country can succeed—and no republic can survive.” President John F. Kennedy In January 2017, ECOMIG entered The Gambia under Operation Restore Democracy, with political support from UN ...",
@@ -548,35 +571,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6e26d712599923a6",
-      "title": "Darboe Tells Foni Voters: ‘If We Could Secure $1.7 Billion as Ministers, We Will Do More as President’",
-      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe told supporters in Foni that his record in government demonstrated what his party could accomplish if elected to the presidency, pointing to the $1.7 billion in international pledges secured for The Gambia’s National ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-tells-foni-voters-if-we-could-secure-1-7-billion-as-ministers-we-will-do-more-as-president/",
-      "publishedAt": "2026-09-19T17:20:46.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T18:22:43.860Z",
+    "generatedAt": "2026-09-24T23:09:15.505Z",
     "count": 24
   }
 }

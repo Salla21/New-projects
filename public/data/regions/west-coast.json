@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "16815be3a4c616b7",
+      "title": "UDP’s Lamin Manneh Says Faal, Kandeh and Ceesay Fell Victim to ‘Popularity Delusion’",
+      "summary": "By Seedy Jobe Lamin Manneh, a prominent member of the United Democratic Party, has argued that the political trajectories of Gambia Democratic Congress leader Mama Kandeh, Citizens’ Alliance leader Dr. Ismaila Ceesay and APP-SOBEYAA leader Essa Faal were shaped by what he desc...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-says-faal-kandeh-and-ceesay-fell-victim-to-popularity-delusion/",
+      "publishedAt": "2026-09-24T18:30:15.000Z",
+      "collectedAt": "2026-09-24T23:09:11.451Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eb579f44713c0091",
       "title": "70-Year-Old Man arraigned over alleged cutting of cashew trees in Sanyang village",
       "summary": "By Louise Jobe A man aged over 70 has appeared before the Brikama Magistrates’ Court over allegations that he unlawfully cut down cashew trees belonging to Louis G. Mendy at Sanyang village in the West Coast Region. The accused, Dembo Bojang, appeared before Magistrate Kanjura...",
@@ -349,7 +373,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T18:22:43.860Z",
-    "count": 15
+    "generatedAt": "2026-09-24T23:09:15.505Z",
+    "count": 16
   }
 }

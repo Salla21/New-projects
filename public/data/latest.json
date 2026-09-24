@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "4913d852f295b4e6",
+      "title": "Ebrima Dibba Defends Young Politicians Against Claims They Abandon Their Principles",
+      "summary": "By Makutu Manneh Ebrima Dibba, the national president of UNITE Party, has pushed back against suggestions that young politicians are prone to abandoning their principles and aligning with the incumbent government when confronted with political or personal difficulties. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ebrima-dibba-defends-young-politicians-against-claims-they-abandon-their-principles/",
+      "publishedAt": "2026-09-24T19:16:21.000Z",
+      "collectedAt": "2026-09-24T23:09:11.451Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "16815be3a4c616b7",
+      "title": "UDP’s Lamin Manneh Says Faal, Kandeh and Ceesay Fell Victim to ‘Popularity Delusion’",
+      "summary": "By Seedy Jobe Lamin Manneh, a prominent member of the United Democratic Party, has argued that the political trajectories of Gambia Democratic Congress leader Mama Kandeh, Citizens’ Alliance leader Dr. Ismaila Ceesay and APP-SOBEYAA leader Essa Faal were shaped by what he desc...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-says-faal-kandeh-and-ceesay-fell-victim-to-popularity-delusion/",
+      "publishedAt": "2026-09-24T18:30:15.000Z",
+      "collectedAt": "2026-09-24T23:09:11.451Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d35753dd6dc073c0",
+      "title": "GIA Workers Stage Sit-Down Strike, Accuse Government of Favoring NIRO",
+      "summary": "By Seedy Jobe Employees of Gambia International Airlines staged a sit-down strike at the company’s headquarters at Banjul International Airport on Thursday, accusing the government of favoring private ground-handling company NIRO at the expense of the state-owned national carr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gia-workers-stage-sit-down-strike-accuse-government-of-favoring-niro/",
+      "publishedAt": "2026-09-24T18:24:47.000Z",
+      "collectedAt": "2026-09-24T23:09:11.451Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c3c938554945ba24",
       "title": "UNITE’s Ebrima Dibba Details Failed Talks With Essa Faal, Accuses Him of Prioritizing Presidential Ambition",
       "summary": "By Makutu Manneh Ebrima Dibba, national president of the UNITE Party, has disclosed details of what he described as unsuccessful private talks with APP-Sobeyaa leader Essa Mbye Faal, accusing the former presidential candidate of putting his own political ambitions ahead of eff...",
@@ -2226,81 +2296,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fd0aa8ffba2db6db",
-      "title": "Lamin K. Saidy Accuses BAC of Using Council Taxes to Support UDP Activities",
-      "summary": "By Makutu Manneh Lamin K. Saidy, the presidential adviser on youth affairs, has accused the Brikama Area Council (BAC) of using revenue collected from market vendors and residents to support activities of the opposition United Democratic Party (UDP). Saidy made the allegations...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lamin-k-saidy-accuses-bac-of-using-council-taxes-to-support-udp-activities/",
-      "publishedAt": "2026-09-19T18:28:17.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f3608bc8e7eaf1fe",
-      "title": "Gambia Immigration Department Intercepts 18 Suspected Irregular Migrants",
-      "summary": "By Makutu Makutu The Gambia Immigration Department (GID) has intercepted 18 suspected irregular migrants during an overnight patrol of coastal communities in the West Coast Region. The operation was carried out by the department’s Border Patrol Unit, stationed at the Migration...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-18-suspected-irregular-migrants/",
-      "publishedAt": "2026-09-19T18:24:42.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "974337d03b245b78",
-      "title": "Presidential Youth Adviser Warns Security Officers Against Open Opposition Support",
-      "summary": "By Makutu Manneh Lamin K. Saidy, Youth Affairs Adviser to President Adama Barrow, has warned members of The Gambia’s security services against openly supporting opposition political parties, saying officers should not abuse the operational independence they enjoy under the cur...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/presidential-youth-adviser-warns-security-officers-against-open-opposition-support/",
-      "publishedAt": "2026-09-19T18:19:03.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T18:22:43.860Z",
+    "generatedAt": "2026-09-24T23:09:15.505Z",
     "count": 100
   }
 }

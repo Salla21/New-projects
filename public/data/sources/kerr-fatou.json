@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "4913d852f295b4e6",
+      "title": "Ebrima Dibba Defends Young Politicians Against Claims They Abandon Their Principles",
+      "summary": "By Makutu Manneh Ebrima Dibba, the national president of UNITE Party, has pushed back against suggestions that young politicians are prone to abandoning their principles and aligning with the incumbent government when confronted with political or personal difficulties. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ebrima-dibba-defends-young-politicians-against-claims-they-abandon-their-principles/",
+      "publishedAt": "2026-09-24T19:16:21.000Z",
+      "collectedAt": "2026-09-24T23:09:11.451Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "16815be3a4c616b7",
+      "title": "UDP’s Lamin Manneh Says Faal, Kandeh and Ceesay Fell Victim to ‘Popularity Delusion’",
+      "summary": "By Seedy Jobe Lamin Manneh, a prominent member of the United Democratic Party, has argued that the political trajectories of Gambia Democratic Congress leader Mama Kandeh, Citizens’ Alliance leader Dr. Ismaila Ceesay and APP-SOBEYAA leader Essa Faal were shaped by what he desc...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-says-faal-kandeh-and-ceesay-fell-victim-to-popularity-delusion/",
+      "publishedAt": "2026-09-24T18:30:15.000Z",
+      "collectedAt": "2026-09-24T23:09:11.451Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d35753dd6dc073c0",
+      "title": "GIA Workers Stage Sit-Down Strike, Accuse Government of Favoring NIRO",
+      "summary": "By Seedy Jobe Employees of Gambia International Airlines staged a sit-down strike at the company’s headquarters at Banjul International Airport on Thursday, accusing the government of favoring private ground-handling company NIRO at the expense of the state-owned national carr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gia-workers-stage-sit-down-strike-accuse-government-of-favoring-niro/",
+      "publishedAt": "2026-09-24T18:24:47.000Z",
+      "collectedAt": "2026-09-24T23:09:11.451Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c3c938554945ba24",
       "title": "UNITE’s Ebrima Dibba Details Failed Talks With Essa Faal, Accuses Him of Prioritizing Presidential Ambition",
       "summary": "By Makutu Manneh Ebrima Dibba, national president of the UNITE Party, has disclosed details of what he described as unsuccessful private talks with APP-Sobeyaa leader Essa Mbye Faal, accusing the former presidential candidate of putting his own political ambitions ahead of eff...",
@@ -784,59 +854,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9979f3aaa8ef5b57",
-      "title": "Darboe Criticizes Barrow’s Record, Urges Youths to Vote Wisely at Foni Rally",
-      "summary": "By Seedy Jobe ANM Ousainu Darboe, leader and secretary general of the United Democratic Party, criticized President Adama Barrow’s record in office and urged young Gambians to carefully consider their future when they vote in the December presidential election.Speaking at a UD...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-criticizes-barrows-record-urges-youths-to-vote-wisely-at-foni-rally/",
-      "publishedAt": "2026-09-19T18:15:47.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6e26d712599923a6",
-      "title": "Darboe Tells Foni Voters: ‘If We Could Secure $1.7 Billion as Ministers, We Will Do More as President’",
-      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe told supporters in Foni that his record in government demonstrated what his party could accomplish if elected to the presidency, pointing to the $1.7 billion in international pledges secured for The Gambia’s National ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-tells-foni-voters-if-we-could-secure-1-7-billion-as-ministers-we-will-do-more-as-president/",
-      "publishedAt": "2026-09-19T17:20:46.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T18:22:43.860Z",
-    "count": 36
+    "generatedAt": "2026-09-24T23:09:15.505Z",
+    "count": 37
   }
 }

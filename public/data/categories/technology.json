@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "16815be3a4c616b7",
+      "title": "UDP’s Lamin Manneh Says Faal, Kandeh and Ceesay Fell Victim to ‘Popularity Delusion’",
+      "summary": "By Seedy Jobe Lamin Manneh, a prominent member of the United Democratic Party, has argued that the political trajectories of Gambia Democratic Congress leader Mama Kandeh, Citizens’ Alliance leader Dr. Ismaila Ceesay and APP-SOBEYAA leader Essa Faal were shaped by what he desc...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-says-faal-kandeh-and-ceesay-fell-victim-to-popularity-delusion/",
+      "publishedAt": "2026-09-24T18:30:15.000Z",
+      "collectedAt": "2026-09-24T23:09:11.451Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4b968b00ab56e71f",
       "title": "WHAT IS THE STATE OF THE DEMAND OF WORKERS UNDER ALPORT?",
       "summary": "Foroyaa has been following both the Gambia Ports Authority and Alport leaderships to get their opinions on the demands of workers currently handed over to Alport by the GPA as management services moved from the GPA into the jurisdiction of Alport. However, we are still unable ...",
@@ -196,7 +220,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T18:22:43.860Z",
-    "count": 8
+    "generatedAt": "2026-09-24T23:09:15.505Z",
+    "count": 9
   }
 }

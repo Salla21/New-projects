@@ -141,103 +141,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9979f3aaa8ef5b57",
-      "title": "Darboe Criticizes Barrow’s Record, Urges Youths to Vote Wisely at Foni Rally",
-      "summary": "By Seedy Jobe ANM Ousainu Darboe, leader and secretary general of the United Democratic Party, criticized President Adama Barrow’s record in office and urged young Gambians to carefully consider their future when they vote in the December presidential election.Speaking at a UD...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-criticizes-barrows-record-urges-youths-to-vote-wisely-at-foni-rally/",
-      "publishedAt": "2026-09-19T18:15:47.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6e26d712599923a6",
-      "title": "Darboe Tells Foni Voters: ‘If We Could Secure $1.7 Billion as Ministers, We Will Do More as President’",
-      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe told supporters in Foni that his record in government demonstrated what his party could accomplish if elected to the presidency, pointing to the $1.7 billion in international pledges secured for The Gambia’s National ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-tells-foni-voters-if-we-could-secure-1-7-billion-as-ministers-we-will-do-more-as-president/",
-      "publishedAt": "2026-09-19T17:20:46.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e85c0c24f8abbdd8",
-      "title": "‘I Was the First and Only’: How a Gambian Woman Architect Is Helping Women Enter a Male-Dominated Industry",
-      "summary": "SPOTLIGHT By Yero S. Bah When Sainabou Jack learned that, according to the records of the UK’s architectural regulator, she was the first and only Gambian woman registered as an architect in the UK, she felt two emotions at once. There was pride.  And there was concern. Jack h...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/i-was-the-first-and-only-how-a-gambian-woman-architect-is-helping-women-enter-a-male-dominated-industry/",
-      "publishedAt": "2026-09-19T14:51:19.000Z",
-      "collectedAt": "2026-09-19T17:14:29.679Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "98de8b2fbed313e2",
-      "title": "Haile Selassie (Ras Tafari) Taught Me Something Interesting About Femininity",
-      "summary": "By Ramatulai Let me take you back to Ethiopia in 1928. Haile Selassie was still known as Ras Tafari and was trying to bring more control to Ethiopia. But there was an older and very powerful man called Dejazmach Balcha Safo. Balcha was a famous warrior and governor of Sidamo. ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/haile-selassie-ras-tafari-taught-me-something-interesting-about-femininity/",
-      "publishedAt": "2026-09-19T12:50:51.000Z",
-      "collectedAt": "2026-09-19T17:14:29.679Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T18:22:43.860Z",
-    "count": 10
+    "generatedAt": "2026-09-24T23:09:15.505Z",
+    "count": 6
   }
 }
