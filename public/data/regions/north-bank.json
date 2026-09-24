@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "562ecb67038d20e6",
+      "title": "THE CDS AND THE BORDER COMMISSIONS",
+      "summary": "The CDS should be able to tell the President of the Republic that the border issue featured prominently during his tour from the North Bank to the South Bank and the West Coast. In these meetings with his staff and the communities he emphasised that there are border commission...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-cds-and-the-border-commissions/",
+      "publishedAt": "2026-09-24T10:59:58.000Z",
+      "collectedAt": "2026-09-24T13:29:25.485Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "17b1b1e91e24bda3",
       "title": "Disability Symposium: Nothing About Us Without Us: Building an Inclusive Gambia",
       "summary": "Event Funder: European Union Event Organisers: The Governor’s Office in North Bank Region, STAND: We Walk Together This symposium is part of a 3 year EU funded program being delivered by STAND: We Walk Together (formerly Legs4Africa), The Ladies Empowered for Growth and Succes...",
@@ -26,7 +50,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T07:30:54.051Z",
-    "count": 1
+    "generatedAt": "2026-09-24T13:29:31.574Z",
+    "count": 2
   }
 }

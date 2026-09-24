@@ -1,6 +1,98 @@
 {
   "items": [
     {
+      "id": "eb579f44713c0091",
+      "title": "70-Year-Old Man arraigned over alleged cutting of cashew trees in Sanyang village",
+      "summary": "By Louise Jobe A man aged over 70 has appeared before the Brikama Magistrates’ Court over allegations that he unlawfully cut down cashew trees belonging to Louis G. Mendy at Sanyang village in the West Coast Region. The accused, Dembo Bojang, appeared before Magistrate Kanjura...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/70-year-old-man-arraigned-over-alleged-cutting-of-cashew-trees-in-sanyang-village/",
+      "publishedAt": "2026-09-24T12:20:53.000Z",
+      "collectedAt": "2026-09-24T13:29:25.485Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "dcbfceda9816a17d",
+      "title": "Magistrate Phatey Dismisses UDP Agent Nyimanding Fofana’s Challenge to Saikou Touray’s Voter Registration",
+      "summary": "By Yankuba Jallow The Brikama Revising Court has dismissed an objection challenging the voter registration of Saikou Touray in the Kombo East Constituency, ruling that the objector failed to prove that Mr Touray was not a Gambian citizen or that he was not born or resident in ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/magistrate-phatey-dismisses-udp-agent-nyimanding-fofanas-challenge-to-saikou-tourays-voter-registration/",
+      "publishedAt": "2026-09-24T12:10:55.000Z",
+      "collectedAt": "2026-09-24T13:29:25.485Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8db0bf401108657c",
+      "title": "Chief Magistrate Phatey Dismisses Nyimanding Fofana’s Voter Registration Case Against Amie Preira",
+      "summary": "Louis Jobe The Brikama Revising Court has dismissed an objection against the registration of Amie Preira as a voter in the Kombo East Constituency, ruling that the objector failed to prove that she was not a Gambian citizen or that she was not born or resident in the constitue...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/chief-magistrate-phatey-dismisses-nyimanding-fofanas-voter-registration-case-against-amie-preira/",
+      "publishedAt": "2026-09-24T12:05:52.000Z",
+      "collectedAt": "2026-09-24T13:29:25.485Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "71a88f65b90dff09",
+      "title": "Gambia Navy seeks surveillance equipment, fuel and communications support at Tanji",
+      "summary": "By Assan Bah The Gambia Navy has asked for more coastal surveillance equipment, boats, reliable fuel supplies and improved communications systems to strengthen maritime security along the country’s southern coastline. The request was made during a visit by the Chief of Defence...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-navy-seeks-surveillance-equipment-fuel-and-communications-support-at-tanji/",
+      "publishedAt": "2026-09-23T12:25:23.000Z",
+      "collectedAt": "2026-09-24T13:29:25.485Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2e85c4a2184e9160",
       "title": "Saama Kairo distributes exercise books to sponsored children",
       "summary": "By Olimatou Coker The Saama Kairo Federation on Wednesday distributed 49,000 branded exercise books worth over D1.9 million to sponsored students across its intervention sites. The presentation ceremony was held at the Saama Kairo Federation office in Brikama. The donation is ...",
@@ -328,7 +420,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T07:30:54.051Z",
-    "count": 14
+    "generatedAt": "2026-09-24T13:29:31.574Z",
+    "count": 18
   }
 }

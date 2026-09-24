@@ -139,6 +139,29 @@
       "status": "published"
     },
     {
+      "id": "71a88f65b90dff09",
+      "title": "Gambia Navy seeks surveillance equipment, fuel and communications support at Tanji",
+      "summary": "By Assan Bah The Gambia Navy has asked for more coastal surveillance equipment, boats, reliable fuel supplies and improved communications systems to strengthen maritime security along the country’s southern coastline. The request was made during a visit by the Chief of Defence...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-navy-seeks-surveillance-equipment-fuel-and-communications-support-at-tanji/",
+      "publishedAt": "2026-09-23T12:25:23.000Z",
+      "collectedAt": "2026-09-24T13:29:25.485Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ecef7b890db3fa2a",
       "title": "Gambia–Türkiye Exports Surge Over 800% as Envoy Pitches Country as West Africa’s Strategic Investment Gateway",
       "summary": "Exports from The Gambia to Türkiye have surged by more than 800 per cent over a four-year period, jumping from 133,000 dalasis in 2021 to 11 million dalasis in 2025, driven largely by groundnut, fish, and vegetable oil shipments. The dramatic export growth was highlighted by T...",
@@ -529,7 +552,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T07:30:54.051Z",
-    "count": 23
+    "generatedAt": "2026-09-24T13:29:31.574Z",
+    "count": 24
   }
 }

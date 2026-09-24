@@ -1,17 +1,22 @@
 {
   "items": [
     {
-      "id": "7b3335d6fcb185b9",
-      "title": "NCCE concludes 2-day training on lobbying and advocacy in CRR North",
-      "summary": "By Olimatou Coker The National Council for Civic Education [NCCE] has concluded a 2-day capacity-building training on lobbying and advocacy in Central River Region North. The training was organised in collaboration with the Association of Non-Governmental Organisations [TANGO]...",
+      "id": "be7b31758cdef1f9",
+      "title": "A letter to UDP leader Ousainu Darboe",
+      "summary": "Dear Editor,I, Ebrima Jaiteh, a Gambian native of Sankulay Kunda, Lower Fulladu West District, Central River Region, currently living in the Netherlands since 2024, wish to take this opportunity to extend my sincere gratitude to Baba Ousainu Darboe and his party militants, esp...",
       "sourceId": "the-standard",
       "sourceName": "The Standard",
       "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/ncce-concludes-2-day-training-on-lobbying-and-advocacy-in-crr-north/",
-      "publishedAt": "2026-09-03T10:01:00.000Z",
-      "collectedAt": "2026-09-03T11:02:09.700Z",
+      "originalUrl": "https://standard.gm/a-letter-to-udp-leader-ousainu-darboe/",
+      "publishedAt": "2026-09-24T09:34:24.000Z",
+      "collectedAt": "2026-09-24T13:28:31.819Z",
       "region": "central-river",
-      "categories": [],
+      "categories": [
+        "politics",
+        "business",
+        "technology",
+        "diaspora"
+      ],
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Abubacarr",
@@ -23,7 +28,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-08T21:01:27.059Z",
+    "generatedAt": "2026-09-24T13:29:31.574Z",
     "count": 1
   }
 }

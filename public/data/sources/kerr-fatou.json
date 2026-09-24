@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0df46447723e9b4c",
+      "title": "Faal to Join Barrow’s Coalition; Talks Reportedly Covered Land Allocation, Diplomatic Posts for Associates",
+      "summary": "By Fatou Touray Essa Mbye Faal, one of President Adama Barrow’s most outspoken critics, will join forces with the president and his National People’s Party ahead of the December presidential election, according to a press release announcing the alliance. The agreement represen...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/faal-to-join-barrows-coalition-talks-reportedly-covered-land-allocation-diplomatic-posts-for-associates/",
+      "publishedAt": "2026-09-24T08:31:40.000Z",
+      "collectedAt": "2026-09-24T13:29:27.508Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e07fa39388a6df8e",
       "title": "Kanifing Magistrate Orders Ferreh Lulu Properties to Pay D830,000 in Land Dispute",
       "summary": "A magistrate in Kanifing has ordered Ferreh Lulu Properties to pay D830,000 to Marabi Salam Camara after finding that the company failed to provide land he had paid for in full. Magistrate B. Sowe delivered the ruling at the Kanifing Magistrates’ Court. Mr. Camara appeared thr...",
@@ -1093,7 +1117,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T07:30:54.051Z",
-    "count": 47
+    "generatedAt": "2026-09-24T13:29:31.574Z",
+    "count": 48
   }
 }
