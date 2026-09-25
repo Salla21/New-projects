@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "a73bb8cdef6bf3c5",
+      "title": "VP Jallow: Africa Should Not Have to Choose Between Basic Energy Needs and a Cleaner Future",
+      "summary": "By Seedy Jobe Vice President Muhammed B.S. Jallow has called for greater international investment to help African households transition from firewood and charcoal to cleaner cooking technologies, warning that cost and limited access continue to put cleaner alternatives beyond ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/vp-jallow-africa-should-not-have-to-choose-between-basic-energy-needs-and-a-cleaner-future/",
+      "publishedAt": "2026-09-25T16:44:03.000Z",
+      "collectedAt": "2026-09-25T17:01:40.069Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fb67ea1a5261a43f",
+      "title": "Joint Service Headquarters Demand Refurbishment to Address Water Leaks",
+      "summary": "By Assan Bah Staff officers at the Joint Services Headquarters have called for the refurbishment of the headquarters’ main building, warning that leaking roofs and flooding during heavy rainfall could damage official records and equipment. The appeal was made on Thursday eveni...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/joint-service-headquarters-demand-refurbishment-to-address-water-leaks/",
+      "publishedAt": "2026-09-25T12:35:50.000Z",
+      "collectedAt": "2026-09-25T17:01:32.640Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "31221301552045d7",
+      "title": "President Mahmoud Abbas warns against ‘another Nakba’ as he demands action on Palestinian statehood",
+      "summary": "By Yankuba Jallow Palestinian President Mahmoud Abbas has warned world leaders against allowing what he called “another Nakba” in the Palestinian territories, saying his people would not accept displacement and would remain on their land. In a pre-recorded address to the Unite...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/president-mahmoud-abbas-warns-against-another-nakba-as-he-demands-action-on-palestinian-statehood/",
+      "publishedAt": "2026-09-25T12:10:49.000Z",
+      "collectedAt": "2026-09-25T17:01:32.640Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "aeb5538d0163bf6d",
       "title": "Reug Reug Arrested With Crates of Alleged Fake Dollar Notes in Dakar",
       "summary": "Written by: Seringe S.T. Touray Senegalese wrestling and MMA star Oumar Kane, popularly known as “Reug Reug,” was arrested in Dakar on Thursday after gendarmes investigating an alleged counterfeit money operation reportedly caught him with crates of so-called “black money” not...",
@@ -479,30 +548,6 @@
       "status": "published"
     },
     {
-      "id": "d58b087cdeb2cd04",
-      "title": "From inquiry to action: A whitepaper that must rebuild our councils",
-      "summary": "By Mam Sait Ceesay Following three years of public hearings, the Commission of Inquiry into Local Government Councils and Related Matters has concluded its work and has since submitted its report and recommendations to the President of the republic. As government prepares its ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/from-inquiry-to-action-a-whitepaper-that-must-rebuild-our-councils/",
-      "publishedAt": "2026-09-21T08:59:00.000Z",
-      "collectedAt": "2026-09-21T15:01:30.427Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -511,7 +556,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-25T11:38:12.770Z",
+      "collectedAt": "2026-09-25T17:01:32.950Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -532,7 +577,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-25T11:38:12.770Z",
+      "collectedAt": "2026-09-25T17:01:32.950Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -546,7 +591,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T11:39:37.668Z",
-    "count": 24
+    "generatedAt": "2026-09-25T17:01:44.212Z",
+    "count": 26
   }
 }

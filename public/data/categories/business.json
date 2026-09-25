@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "a73bb8cdef6bf3c5",
+      "title": "VP Jallow: Africa Should Not Have to Choose Between Basic Energy Needs and a Cleaner Future",
+      "summary": "By Seedy Jobe Vice President Muhammed B.S. Jallow has called for greater international investment to help African households transition from firewood and charcoal to cleaner cooking technologies, warning that cost and limited access continue to put cleaner alternatives beyond ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/vp-jallow-africa-should-not-have-to-choose-between-basic-energy-needs-and-a-cleaner-future/",
+      "publishedAt": "2026-09-25T16:44:03.000Z",
+      "collectedAt": "2026-09-25T17:01:40.069Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "aeb5538d0163bf6d",
       "title": "Reug Reug Arrested With Crates of Alleged Fake Dollar Notes in Dakar",
       "summary": "Written by: Seringe S.T. Touray Senegalese wrestling and MMA star Oumar Kane, popularly known as “Reug Reug,” was arrested in Dakar on Thursday after gendarmes investigating an alleged counterfeit money operation reportedly caught him with crates of so-called “black money” not...",
@@ -594,107 +619,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d58b087cdeb2cd04",
-      "title": "From inquiry to action: A whitepaper that must rebuild our councils",
-      "summary": "By Mam Sait Ceesay Following three years of public hearings, the Commission of Inquiry into Local Government Councils and Related Matters has concluded its work and has since submitted its report and recommendations to the President of the republic. As government prepares its ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/from-inquiry-to-action-a-whitepaper-that-must-rebuild-our-councils/",
-      "publishedAt": "2026-09-21T08:59:00.000Z",
-      "collectedAt": "2026-09-21T15:01:30.427Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8e1f07b08ba78541",
-      "title": "The war the Muslim world cannot afford",
-      "summary": "Something dangerous is unfolding in the Middle East. And all Muslims should be very worried. On 8th September, Yemeni Houthi missiles struck Saudi cities and energy facilities, injuring 73 civilians. On 20th September, smoke rose near Riyadh’s King Khalid Airport after what th...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/the-war-the-muslim-world-cannot-afford/",
-      "publishedAt": "2026-09-21T08:58:27.000Z",
-      "collectedAt": "2026-09-21T15:01:30.427Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "46baaa93a48d2f41",
-      "title": "DARBOE SETS 75% VOTE TARGET FOR UDP IN KM",
-      "summary": "By Fatou Gassama United Democratic Party (UDP) leader Ousainu Darboe has set a target of 75 per cent of the vote for his party in the Kanifing Municipality ahead of the 5th December presidential election. Darboe made the declaration on Saturday while addressing supporters at a...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/darboe-sets-75-vote-target-for-udp-in-km/",
-      "publishedAt": "2026-09-21T08:55:00.000Z",
-      "collectedAt": "2026-09-21T15:01:30.427Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d4c4ae646ca9db79",
-      "title": "Mayor Lowe Urges KM Voters to Back Darboe, Citing Economic Hardship",
-      "summary": "By Seedy Jobe Mayor Rohey Malick Lowe of Banjul urged voters in the Kanifing Municipality to support opposition leader Ousainu Darboe in the Dec. 5 presidential election, arguing that rising living costs and persistent electricity problems have made daily life increasingly dif...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mayor-lowe-urges-km-voters-to-back-darboe-citing-economic-hardship/",
-      "publishedAt": "2026-09-20T20:28:05.000Z",
-      "collectedAt": "2026-09-20T20:39:41.773Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T11:39:37.668Z",
-    "count": 29
+    "generatedAt": "2026-09-25T17:01:44.212Z",
+    "count": 26
   }
 }

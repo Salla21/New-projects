@@ -300,82 +300,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3eb6ebb9ab7d44f7",
-      "title": "President Barrow Urges Opposition Rivals to Join Ruling Party Ahead of Elections",
-      "summary": "By Mama A. Touray President Adama Barrow has publicly called on opposition figures—including APP-Sobeyaa leader Essa Mbaye Faal and United Democratic Party (UDP) leader Ousainou Darboe—to abandon political rivalries and join his ruling National People’s Party (NPP) to focus on...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-urges-opposition-rivals-to-join-ruling-party-ahead-of-elections/",
-      "publishedAt": "2026-09-20T17:51:23.000Z",
-      "collectedAt": "2026-09-20T20:39:39.651Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cd4c7bcd5231e20a",
-      "title": "Darboe warns Gambia will ‘sink’ if President Barrow is re-elected",
-      "summary": "By Dawda Baldeh Opposition United Democratic Party leader Ousainou Darboe has warned that re-electing President Adama Barrow in December would be disastrous for The Gambia, claiming the situation could become so dire he might consider taking the irregular migration route to Eu...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-warns-gambia-will-sink-if-president-barrow-is-re-elected/",
-      "publishedAt": "2026-09-20T12:23:53.000Z",
-      "collectedAt": "2026-09-20T13:00:06.946Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "943c97d6278baf22",
-      "title": "UDP Intensifies Election Campaign with Joint Rally at Kotu Quarry",
-      "summary": "By Dawda Baldeh United Democratic Party leader Ousainou Darboe has joined Banjul Mayor Rohey Malick Lowe at a major political rally in Kotu Quarry as the main opposition party steps up preparations ahead of the December presidential election. The gathering, organized by Mayor ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/udp-intensifies-election-campaign-with-joint-rally-at-kotu-quarry/",
-      "publishedAt": "2026-09-19T20:55:41.000Z",
-      "collectedAt": "2026-09-20T00:01:45.991Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T11:39:37.668Z",
-    "count": 16
+    "generatedAt": "2026-09-25T17:01:44.212Z",
+    "count": 13
   }
 }

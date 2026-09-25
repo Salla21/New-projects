@@ -275,57 +275,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "26557ba6e959e201",
-      "title": "Barrow Warns Gunjur Residents Against Politicians Seeking Power and Money",
-      "summary": "By Makutu Manneh President Adama Barrow warned residents of Gunjur against politicians he accused of seeking the presidency for power and financial gain, saying such leaders could ultimately “enslave” Gambians. Speaking at the inauguration of a beachside road in Gunjur, Barrow...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-warns-gunjur-residents-against-politicians-seeking-power-and-money/",
-      "publishedAt": "2026-09-20T22:40:46.000Z",
-      "collectedAt": "2026-09-21T00:06:20.072Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "841af94e26be9530",
-      "title": "Darboe Says West Coast Voters “Did Not Make a Mistake” Electing Yankuba Darboe",
-      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has praised Brikama Area Council Chairman Yankuba Darboe, saying voters in the West Coast Region “did not make a mistake” when they elected him to lead the council. Darboe made the remarks at a UDP-led alliance rally ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-west-coast-voters-did-not-make-a-mistake-electing-yankuba-darboe/",
-      "publishedAt": "2026-09-19T18:30:12.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T11:39:37.668Z",
-    "count": 14
+    "generatedAt": "2026-09-25T17:01:44.212Z",
+    "count": 12
   }
 }

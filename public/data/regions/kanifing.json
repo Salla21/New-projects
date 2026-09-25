@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "0e9bbf8971d0f6c3",
+      "title": "Overnight Downpour Floods Streets in Tallinding Koloban",
+      "summary": "By Nelson Manneh An overnight downpour has flooded several streets in Tallinding Koloban, leaving residents trapped in their homes and disrupting movement in the area on Thursday morning. A visit to the area found several streets and major walkways submerged in rainwater, leav...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/overnight-downpour-floods-streets-in-tallinding-koloban/",
+      "publishedAt": "2026-09-25T12:30:56.000Z",
+      "collectedAt": "2026-09-25T17:01:32.640Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d4a35c63d7e4370a",
       "title": "Pa Njie ‘Girigara’ advises president to return Fajara property to state",
       "summary": "Elder statesman Pa Njie ‘Girigara’ has advised the head of state to return to the state the property he is developing on Atlantic Boulevard in Fajara. In an audio released over the weekend, Njie, a vocal supporter of President Adama Barrow, stated: “Your sycophantic supporters...",
@@ -156,35 +177,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "46baaa93a48d2f41",
-      "title": "DARBOE SETS 75% VOTE TARGET FOR UDP IN KM",
-      "summary": "By Fatou Gassama United Democratic Party (UDP) leader Ousainu Darboe has set a target of 75 per cent of the vote for his party in the Kanifing Municipality ahead of the 5th December presidential election. Darboe made the declaration on Saturday while addressing supporters at a...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/darboe-sets-75-vote-target-for-udp-in-km/",
-      "publishedAt": "2026-09-21T08:55:00.000Z",
-      "collectedAt": "2026-09-21T15:01:30.427Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T11:39:37.668Z",
+    "generatedAt": "2026-09-25T17:01:44.212Z",
     "count": 8
   }
 }

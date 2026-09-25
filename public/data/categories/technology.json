@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "b50638544243cc8b",
+      "title": "NaLOA President Calls for Dialogue as Pressure on Grazing Lands Fuels Farmer-Herder Conflicts",
+      "summary": "By Seedy Jobe The president of the National Livestock Owners Association (NaLOA), Ebrima Jallow, has called for greater dialogue among farmers, herders, and local communities to address conflicts over grazing land, warning that growing competition for land threatens both lives...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/naloa-president-calls-for-dialogue-as-pressure-on-grazing-lands-fuels-farmer-herder-conflicts/",
+      "publishedAt": "2026-09-25T16:54:27.000Z",
+      "collectedAt": "2026-09-25T17:01:40.069Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a73bb8cdef6bf3c5",
+      "title": "VP Jallow: Africa Should Not Have to Choose Between Basic Energy Needs and a Cleaner Future",
+      "summary": "By Seedy Jobe Vice President Muhammed B.S. Jallow has called for greater international investment to help African households transition from firewood and charcoal to cleaner cooking technologies, warning that cost and limited access continue to put cleaner alternatives beyond ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/vp-jallow-africa-should-not-have-to-choose-between-basic-energy-needs-and-a-cleaner-future/",
+      "publishedAt": "2026-09-25T16:44:03.000Z",
+      "collectedAt": "2026-09-25T17:01:40.069Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "659f2339c093f54f",
       "title": "TOP BRITISH ANALYST FIRM PREDICTS BARROW WILL WIN ELECTION BUT WITH REDUCED MARGIN",
       "summary": "A leading British research and analysis company with over 70 years’ experience which has accurately forecast election results in The Gambia has predicted that President Adama Barrow will win the 5th December presidential election but with a significantly reduced majority. Comm...",
@@ -217,34 +266,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4b452d56d5fd98b8",
-      "title": "Barrow says his victory is certain, urges Faal to join NPP coalition",
-      "summary": "By Tabora Bojang President Adama Barrow has called on APP-Sobeyaa leader Essa Faal to join the NPP led-alliance ahead of the December election, which he triumphally claimed to have bagged, insisting that Gambians “are not crazy” to change him for any other among the current cr...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/barrow-says-his-victory-is-certain-urges-faal-to-join-npp-coalition/",
-      "publishedAt": "2026-09-21T08:54:27.000Z",
-      "collectedAt": "2026-09-21T15:01:30.427Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T11:39:37.668Z",
-    "count": 10
+    "generatedAt": "2026-09-25T17:01:44.212Z",
+    "count": 11
   }
 }
