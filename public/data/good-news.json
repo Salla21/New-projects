@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "aeb5538d0163bf6d",
+      "title": "Reug Reug Arrested With Crates of Alleged Fake Dollar Notes in Dakar",
+      "summary": "Written by: Seringe S.T. Touray Senegalese wrestling and MMA star Oumar Kane, popularly known as “Reug Reug,” was arrested in Dakar on Thursday after gendarmes investigating an alleged counterfeit money operation reportedly caught him with crates of so-called “black money” not...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/reug-reug-arrested-with-crates-of-alleged-fake-dollar-notes-in-dakar/",
+      "publishedAt": "2026-09-25T10:34:02.000Z",
+      "collectedAt": "2026-09-25T11:38:13.016Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e3be71b72758dea7",
+      "title": "THE BORDER COMMISION OF THE GAMBIA SHOULD GIVE PROGRESS REPORTS",
+      "summary": "Throughout his tour, the CDS had to inform the soldiers and communities that the border commissions of the two countries are handling the issue. He advised for patience to allow the joint commission to complete their work. Apart from such counselling the Gambia Government is n...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-border-commision-of-the-gambia-should-give-progress-reports/",
+      "publishedAt": "2026-09-25T09:39:51.000Z",
+      "collectedAt": "2026-09-25T11:38:12.314Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c3c938554945ba24",
       "title": "UNITE’s Ebrima Dibba Details Failed Talks With Essa Faal, Accuses Him of Prioritizing Presidential Ambition",
       "summary": "By Makutu Manneh Ebrima Dibba, national president of the UNITE Party, has disclosed details of what he described as unsuccessful private talks with APP-Sobeyaa leader Essa Mbye Faal, accusing the former presidential candidate of putting his own political ambitions ahead of eff...",
@@ -464,7 +511,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-25T04:37:24.114Z",
+      "collectedAt": "2026-09-25T11:38:12.770Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -485,7 +532,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-25T04:37:24.114Z",
+      "collectedAt": "2026-09-25T11:38:12.770Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -499,7 +546,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T04:37:30.166Z",
-    "count": 22
+    "generatedAt": "2026-09-25T11:39:37.668Z",
+    "count": 24
   }
 }

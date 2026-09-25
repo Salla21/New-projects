@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "8f6dfedf140cf84f",
+      "title": "IS THERE ADVOCACY FOR THE USE OF ORGANIC FERTILISER IN FARMING IN THE GAMBIA?",
+      "summary": "A two-day executive and parliamentary hearing on a model organic fertiliser bill drafted by a consultant under the auspices of CISS, took place at Ocean Bay Hotel on 23rd and 24th September, 2026. The model bill proposes the establishment of a commission and its board to be gi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-there-advocacy-for-the-use-of-organic-fertiliser-in-farming-in-the-gambia/",
+      "publishedAt": "2026-09-25T09:42:18.000Z",
+      "collectedAt": "2026-09-25T11:38:12.314Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e3be71b72758dea7",
+      "title": "THE BORDER COMMISION OF THE GAMBIA SHOULD GIVE PROGRESS REPORTS",
+      "summary": "Throughout his tour, the CDS had to inform the soldiers and communities that the border commissions of the two countries are handling the issue. He advised for patience to allow the joint commission to complete their work. Apart from such counselling the Gambia Government is n...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-border-commision-of-the-gambia-should-give-progress-reports/",
+      "publishedAt": "2026-09-25T09:39:51.000Z",
+      "collectedAt": "2026-09-25T11:38:12.314Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "54bea429957dc459",
       "title": "Bulock residents urge government to protect farms as border dispute continues",
       "summary": "By Assan Bah Residents of Bulock have urged the government to protect their farmland and livelihoods as a dispute over the Gambia-Senegal border continues to concern the community. The concerns were raised during a meeting with the Chief of Defence Staff, Lieutenant-General Ou...",
@@ -228,7 +274,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T04:37:30.166Z",
-    "count": 10
+    "generatedAt": "2026-09-25T11:39:37.668Z",
+    "count": 12
   }
 }

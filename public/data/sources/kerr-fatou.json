@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "7b549e39448f267a",
+      "title": "APP-Sobeyaa Founders Reject NPP Alliance, Call for Essa Faal’s Resignation Ahead of Barrow Meeting",
+      "summary": "By Staff Writer A group of founding members and senior officials of APP-Sobeyaa has rejected the party’s proposed alliance with President Adama Barrow’s National People’s Party and called for the immediate resignation of party leader Essa Mbye Faal, exposing a deepening intern...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/app-sobeyaa-founders-reject-npp-alliance-call-for-essa-faals-resignation-ahead-of-barrow-meeting/",
+      "publishedAt": "2026-09-25T08:35:49.000Z",
+      "collectedAt": "2026-09-25T11:39:33.579Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4913d852f295b4e6",
       "title": "Ebrima Dibba Defends Young Politicians Against Claims They Abandon Their Principles",
       "summary": "By Makutu Manneh Ebrima Dibba, the national president of UNITE Party, has pushed back against suggestions that young politicians are prone to abandoning their principles and aligning with the incumbent government when confronted with political or personal difficulties. Speakin...",
@@ -786,7 +809,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T04:37:30.166Z",
-    "count": 34
+    "generatedAt": "2026-09-25T11:39:37.668Z",
+    "count": 35
   }
 }

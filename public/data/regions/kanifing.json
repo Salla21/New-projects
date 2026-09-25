@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "d4a35c63d7e4370a",
+      "title": "Pa Njie ‘Girigara’ advises president to return Fajara property to state",
+      "summary": "Elder statesman Pa Njie ‘Girigara’ has advised the head of state to return to the state the property he is developing on Atlantic Boulevard in Fajara. In an audio released over the weekend, Njie, a vocal supporter of President Adama Barrow, stated: “Your sycophantic supporters...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/pa-njie-girigara-advises-president-to-return-fajara-property-to-state/",
+      "publishedAt": "2026-09-25T09:19:55.000Z",
+      "collectedAt": "2026-09-25T11:38:02.467Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2fa1f9a7784d85e7",
+      "title": "Bakso Jaiteh says no person, court can take Fajara residence from Barrow",
+      "summary": "Bakary ‘Bakso’ Jaiteh the general cordinator, APRC national mobiliser, has accused Pa Njie ‘Girigara’ of feigning to be an ally of President Barrow. Njie a prominent supporter of the president released an audio last week in which he advised him to give back to the state the la...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/bakso-jaiteh-says-no-person-court-can-take-fajara-residence-from-barrow/",
+      "publishedAt": "2026-09-25T09:19:37.000Z",
+      "collectedAt": "2026-09-25T11:38:02.467Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c299b76b64bf9a07",
       "title": "Kanifing Revising Court hears testimony over alleged fake birth certificates",
       "summary": "By Mariama Marong The Kanifing Revising Court on Wednesday heard testimony in two separate voter-registration cases involving allegations that birth certificates presented during the registration exercise were not genuine. The cases were heard before Magistrate Isatou Jallow. ...",
@@ -136,7 +184,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T04:37:30.166Z",
-    "count": 6
+    "generatedAt": "2026-09-25T11:39:37.668Z",
+    "count": 8
   }
 }

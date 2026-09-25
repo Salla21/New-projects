@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "aeb5538d0163bf6d",
+      "title": "Reug Reug Arrested With Crates of Alleged Fake Dollar Notes in Dakar",
+      "summary": "Written by: Seringe S.T. Touray Senegalese wrestling and MMA star Oumar Kane, popularly known as “Reug Reug,” was arrested in Dakar on Thursday after gendarmes investigating an alleged counterfeit money operation reportedly caught him with crates of so-called “black money” not...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/reug-reug-arrested-with-crates-of-alleged-fake-dollar-notes-in-dakar/",
+      "publishedAt": "2026-09-25T10:34:02.000Z",
+      "collectedAt": "2026-09-25T11:38:13.016Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -25,7 +49,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T04:37:30.166Z",
-    "count": 1
+    "generatedAt": "2026-09-25T11:39:37.668Z",
+    "count": 2
   }
 }

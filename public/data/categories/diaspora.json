@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "0069c7a71d761261",
+      "title": "UDP delegation heads to UK for election fundraising",
+      "summary": "By Arret Jatta As the December presidential election approaches, United Democratic Party leader Ousainu Darboe and a delegation of party officials have travelled to the United Kingdom for a fundraising event. The visit is also expected to provide an opportunity for the UDP lea...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/udp-delegation-heads-to-uk-for-election-fundraising/",
+      "publishedAt": "2026-09-25T09:19:14.000Z",
+      "collectedAt": "2026-09-25T11:38:02.467Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "24156991fe6e6895",
+      "title": "Gambian, others arrested in Spain for allegedly executing 50 migrants over witchcraft allegations",
+      "summary": "By Omar Bah A Gambian is among 19 men arrested in Spain for allegedly torturing and executing at least 50 migrants accused of witchcraft during a horror Atlantic crossing to Europe. Police in Gran Canaria confirmed the arrests after 248 survivors were rescued off the African c...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-others-arrested-in-spain-for-allegedly-executing-50-migrants-over-witchcraft-allegations/",
+      "publishedAt": "2026-09-25T09:14:44.000Z",
+      "collectedAt": "2026-09-25T11:38:02.467Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "be7b31758cdef1f9",
       "title": "A letter to UDP leader Ousainu Darboe",
       "summary": "Dear Editor,I, Ebrima Jaiteh, a Gambian native of Sankulay Kunda, Lower Fulladu West District, Central River Region, currently living in the Netherlands since 2024, wish to take this opportunity to extend my sincere gratitude to Baba Ousainu Darboe and his party militants, esp...",
@@ -467,7 +515,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-25T04:37:24.114Z",
+      "collectedAt": "2026-09-25T11:38:12.770Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -483,7 +531,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T04:37:30.166Z",
-    "count": 20
+    "generatedAt": "2026-09-25T11:39:37.668Z",
+    "count": 22
   }
 }

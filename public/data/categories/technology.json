@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "659f2339c093f54f",
+      "title": "TOP BRITISH ANALYST FIRM PREDICTS BARROW WILL WIN ELECTION BUT WITH REDUCED MARGIN",
+      "summary": "A leading British research and analysis company with over 70 years’ experience which has accurately forecast election results in The Gambia has predicted that President Adama Barrow will win the 5th December presidential election but with a significantly reduced majority. Comm...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/top-british-analyst-firm-predicts-barrow-will-win-election-but-with-reduced-margin/",
+      "publishedAt": "2026-09-25T09:20:26.000Z",
+      "collectedAt": "2026-09-25T11:38:02.467Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "16815be3a4c616b7",
       "title": "UDP’s Lamin Manneh Says Faal, Kandeh and Ceesay Fell Victim to ‘Popularity Delusion’",
       "summary": "By Seedy Jobe Lamin Manneh, a prominent member of the United Democratic Party, has argued that the political trajectories of Gambia Democratic Congress leader Mama Kandeh, Citizens’ Alliance leader Dr. Ismaila Ceesay and APP-SOBEYAA leader Essa Faal were shaped by what he desc...",
@@ -220,7 +244,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T04:37:30.166Z",
-    "count": 9
+    "generatedAt": "2026-09-25T11:39:37.668Z",
+    "count": 10
   }
 }

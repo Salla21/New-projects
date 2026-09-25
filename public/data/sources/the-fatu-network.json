@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "3473221ab1ec317c",
+      "title": "From December Election to Gaza, Sudan and Rohingya: VP Jallow Takes Gambia’s Message to the World",
+      "summary": "Written by: Seringe S.T. Touray Vice President Mohammed B.S. Jallow has told world leaders that The Gambia is committed to holding a peaceful and credible presidential election on December 5th, as he addressed the 81st United Nations General Assembly (UNGA) in New York on Thur...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/from-december-election-to-gaza-sudan-and-rohingya-vp-jallow-takes-gambias-message-to-the-world/",
+      "publishedAt": "2026-09-25T10:43:50.000Z",
+      "collectedAt": "2026-09-25T11:38:13.016Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "aeb5538d0163bf6d",
+      "title": "Reug Reug Arrested With Crates of Alleged Fake Dollar Notes in Dakar",
+      "summary": "Written by: Seringe S.T. Touray Senegalese wrestling and MMA star Oumar Kane, popularly known as “Reug Reug,” was arrested in Dakar on Thursday after gendarmes investigating an alleged counterfeit money operation reportedly caught him with crates of so-called “black money” not...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/reug-reug-arrested-with-crates-of-alleged-fake-dollar-notes-in-dakar/",
+      "publishedAt": "2026-09-25T10:34:02.000Z",
+      "collectedAt": "2026-09-25T11:38:13.016Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4654fb7924a3ca6e",
+      "title": "What does Essa Faal bring to President Barrow if his decision to join the NPP costs him support within his own political base?",
+      "summary": "Written by: Seringe S.T. Touray Barely days after APP-Sobeyaa announced an agreement with President Adama Barrow’s NPP, Faal is facing internal opposition over the decision. Among those challenging the move are Deputy Party Leader Maila Touray, Regional Chairmen Alhagie Babou ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/what-does-essa-faal-bring-to-president-barrow-if-his-decision-to-join-the-npp-costs-him-support-within-his-own-political-base/",
+      "publishedAt": "2026-09-25T09:47:29.000Z",
+      "collectedAt": "2026-09-25T11:38:13.016Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3adca5238ec11eba",
       "title": "Out of Reach: ECOMIG and the Erosion of Civilian Oversight of the Military in The Gambia",
       "summary": "ANALYSIS By Sarjo Barrow, Esq. “Without debate, without criticism, no Administration and no country can succeed—and no republic can survive.” President John F. Kennedy In January 2017, ECOMIG entered The Gambia under Operation Restore Democracy, with political support from UN ...",
@@ -304,7 +375,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T04:37:30.166Z",
-    "count": 13
+    "generatedAt": "2026-09-25T11:39:37.668Z",
+    "count": 16
   }
 }
