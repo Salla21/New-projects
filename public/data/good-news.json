@@ -502,52 +502,6 @@
       "status": "published"
     },
     {
-      "id": "acf2e62c5a3923b2",
-      "title": "‘The More Barrow Stays in Power, the More Gambia Will Benefit’ — Imam Touray",
-      "summary": "Written by: Mama A. Touray The Imam of Gunjur, Imam Muhammed Lamin Touray, has praised President Adama Barrow’s development record, saying the longer he remains in power, the more The Gambia will benefit. Imam Touray made the remarks during the inauguration of the newly comple...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/the-more-barrow-stays-in-power-the-more-gambia-will-benefit-imam-touray/",
-      "publishedAt": "2026-09-21T10:49:51.000Z",
-      "collectedAt": "2026-09-21T15:01:37.026Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7e94b69da0396a66",
-      "title": "Senegal inks deal with Italian energy giant Eni to study 5 offshore blocks",
-      "summary": "Senegal has signed a memorandum of understanding with Italian energy giant ENI to evaluate five offshore blocks, the country’s energy minister announced on Tuesday. Last week, Dakar said it would offer 109 oil and gas blocks to foreign and local investors as it looks to boost ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/senegal-inks-deal-with-italian-energy-giant-eni-to-study-5-offshore-blocks/",
-      "publishedAt": "2026-09-21T09:00:14.000Z",
-      "collectedAt": "2026-09-21T15:01:30.427Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -556,7 +510,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-25T17:01:32.950Z",
+      "collectedAt": "2026-09-25T21:26:34.750Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -577,7 +531,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-25T17:01:32.950Z",
+      "collectedAt": "2026-09-25T21:26:34.750Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -591,7 +545,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T17:01:44.212Z",
-    "count": 26
+    "generatedAt": "2026-09-25T21:26:41.376Z",
+    "count": 24
   }
 }

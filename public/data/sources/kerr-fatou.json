@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "cc5c3e988dcaabc6",
+      "title": "MoHERST Holds Consultative Workshop on Curriculum Design for TVET Centres of Excellence",
+      "summary": "By Seedy Jobe The Ministry of Higher Education, Research, Science, and Technology (MoHERST) on Friday held a one-day consultative workshop to help shape curricula for The Gambia’s Technical and Vocational Education and Training Centres of Excellence in agribusiness, fisheries,...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/moherst-holds-consultative-workshop-on-curriculum-design-for-tvet-centres-of-excellence/",
+      "publishedAt": "2026-09-25T17:03:05.000Z",
+      "collectedAt": "2026-09-25T21:26:37.287Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b50638544243cc8b",
       "title": "NaLOA President Calls for Dialogue as Pressure on Grazing Lands Fuels Farmer-Herder Conflicts",
       "summary": "By Seedy Jobe The president of the National Livestock Owners Association (NaLOA), Ebrima Jallow, has called for greater dialogue among farmers, herders, and local communities to address conflicts over grazing land, warning that growing competition for land threatens both lives...",
@@ -671,7 +694,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T17:01:44.212Z",
-    "count": 29
+    "generatedAt": "2026-09-25T21:26:41.376Z",
+    "count": 30
   }
 }
