@@ -1767,29 +1767,6 @@
       "status": "published"
     },
     {
-      "id": "f3608bc8e7eaf1fe",
-      "title": "Gambia Immigration Department Intercepts 18 Suspected Irregular Migrants",
-      "summary": "By Makutu Makutu The Gambia Immigration Department (GID) has intercepted 18 suspected irregular migrants during an overnight patrol of coastal communities in the West Coast Region. The operation was carried out by the department’s Border Patrol Unit, stationed at the Migration...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-18-suspected-irregular-migrants/",
-      "publishedAt": "2026-09-19T18:24:42.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -1798,7 +1775,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-24T23:09:09.048Z",
+      "collectedAt": "2026-09-25T04:37:24.114Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1819,7 +1796,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/my-night-was-ruined-young-man-fumes-after-discovering-expired-cond0m/",
       "publishedAt": "2026-09-16T06:26:50.000Z",
-      "collectedAt": "2026-09-24T23:09:09.048Z",
+      "collectedAt": "2026-09-25T04:37:24.114Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1840,7 +1817,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-24T23:09:09.048Z",
+      "collectedAt": "2026-09-25T04:37:24.114Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1863,7 +1840,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-24T23:09:09.048Z",
+      "collectedAt": "2026-09-25T04:37:24.114Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -1886,7 +1863,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/secret-lovers-busted-married-man-and-woman-allegedly-flee-leave-blanket-behind/",
       "publishedAt": "2026-09-09T04:53:37.000Z",
-      "collectedAt": "2026-09-24T23:09:09.048Z",
+      "collectedAt": "2026-09-25T04:37:24.114Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1907,7 +1884,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-24T23:09:09.048Z",
+      "collectedAt": "2026-09-25T04:37:24.114Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1928,7 +1905,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/officer-malick-signs-deal-with-comium-as-new-brand-ambassador/",
       "publishedAt": "2026-09-02T04:09:25.000Z",
-      "collectedAt": "2026-09-24T23:09:09.048Z",
+      "collectedAt": "2026-09-25T04:37:24.114Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1942,7 +1919,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T23:09:15.505Z",
-    "count": 85
+    "generatedAt": "2026-09-25T04:37:30.166Z",
+    "count": 84
   }
 }

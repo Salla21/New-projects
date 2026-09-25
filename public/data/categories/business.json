@@ -523,58 +523,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fd0aa8ffba2db6db",
-      "title": "Lamin K. Saidy Accuses BAC of Using Council Taxes to Support UDP Activities",
-      "summary": "By Makutu Manneh Lamin K. Saidy, the presidential adviser on youth affairs, has accused the Brikama Area Council (BAC) of using revenue collected from market vendors and residents to support activities of the opposition United Democratic Party (UDP). Saidy made the allegations...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lamin-k-saidy-accuses-bac-of-using-council-taxes-to-support-udp-activities/",
-      "publishedAt": "2026-09-19T18:28:17.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "974337d03b245b78",
-      "title": "Presidential Youth Adviser Warns Security Officers Against Open Opposition Support",
-      "summary": "By Makutu Manneh Lamin K. Saidy, Youth Affairs Adviser to President Adama Barrow, has warned members of The Gambia’s security services against openly supporting opposition political parties, saying officers should not abuse the operational independence they enjoy under the cur...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/presidential-youth-adviser-warns-security-officers-against-open-opposition-support/",
-      "publishedAt": "2026-09-19T18:19:03.000Z",
-      "collectedAt": "2026-09-19T20:26:53.505Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-24T23:09:15.505Z",
-    "count": 24
+    "generatedAt": "2026-09-25T04:37:30.166Z",
+    "count": 22
   }
 }
