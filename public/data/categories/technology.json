@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "51f85506ddc947be",
+      "title": "Higher Education Minister Defends Four-University Model, Citing Need for Specialization",
+      "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has defended the government’s decision to establish four separate public universities, saying the model is intended to promote specialization, competition, and the deve...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/higher-education-minister-defends-four-university-model-citing-need-for-specialization/",
+      "publishedAt": "2026-09-26T16:47:28.000Z",
+      "collectedAt": "2026-09-26T17:42:43.107Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cc5c3e988dcaabc6",
       "title": "MoHERST Holds Consultative Workshop on Curriculum Design for TVET Centres of Excellence",
       "summary": "By Seedy Jobe The Ministry of Higher Education, Research, Science, and Technology (MoHERST) on Friday held a one-day consultative workshop to help shape curricula for The Gambia’s Technical and Vocational Education and Training Centres of Excellence in agribusiness, fisheries,...",
@@ -292,7 +316,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T12:56:45.501Z",
-    "count": 12
+    "generatedAt": "2026-09-26T17:42:47.164Z",
+    "count": 13
   }
 }

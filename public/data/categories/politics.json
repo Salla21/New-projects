@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "984432210404f234",
+      "title": "“MC Cham Jr. Rejects Independent Candidate Leading Opposition Coalition: ‘Let That Intellectual Get On the Ground and Be Part of Politics'”",
+      "summary": "By Seedy Jobe MC Cham Jr., the national campaign manager of UNITE, has rejected proposals for an independent intellectual to lead a potential opposition coalition, arguing that any prospective flag bearer should first demonstrate a commitment to grassroots politics. Speaking o...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mc-cham-jr-rejects-independent-candidate-leading-opposition-coalition-let-that-intellectual-get-on-the-ground-and-be-part-of-politics/",
+      "publishedAt": "2026-09-26T16:55:16.000Z",
+      "collectedAt": "2026-09-26T17:42:43.107Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "51f85506ddc947be",
+      "title": "Higher Education Minister Defends Four-University Model, Citing Need for Specialization",
+      "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has defended the government’s decision to establish four separate public universities, saying the model is intended to promote specialization, competition, and the deve...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/higher-education-minister-defends-four-university-model-citing-need-for-specialization/",
+      "publishedAt": "2026-09-26T16:47:28.000Z",
+      "collectedAt": "2026-09-26T17:42:43.107Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c6436f86526c4cb3",
+      "title": "Madi Jobarteh Challenges Political Coalitions to Make Agreements Public",
+      "summary": "By Seedy Jobe Human rights activist Madi Jobarteh has called on political parties and coalitions contesting The Gambia’s 2026 presidential election to publish the agreements underpinning their alliances, arguing that voters have a right to know the terms negotiated by politica...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/madi-jobarteh-challenges-political-coalitions-to-make-agreements-public/",
+      "publishedAt": "2026-09-26T16:23:42.000Z",
+      "collectedAt": "2026-09-26T17:42:43.107Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b50638544243cc8b",
       "title": "NaLOA President Calls for Dialogue as Pressure on Grazing Lands Fuels Farmer-Herder Conflicts",
       "summary": "By Seedy Jobe The president of the National Livestock Owners Association (NaLOA), Ebrima Jallow, has called for greater dialogue among farmers, herders, and local communities to address conflicts over grazing land, warning that growing competition for land threatens both lives...",
@@ -1362,33 +1432,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "94699c563aec97ca",
-      "title": "Will TikTok Endorsements Sway the Presidential Election?",
-      "summary": "As The Gambia prepares to go to the polls on December 5 to elect a president,…\nThe post Will TikTok Endorsements Sway the Presidential Election? appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
-      "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-26T12:56:31.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Gainde",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T12:56:45.501Z",
-    "count": 59
+    "generatedAt": "2026-09-26T17:42:47.164Z",
+    "count": 61
   }
 }
