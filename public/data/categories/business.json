@@ -595,34 +595,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "de5feb48d7fe7fea",
-      "title": "UNITE’s Yaya Menteng Sanyang Dismisses UDP’s Showing in Foni and URR as ‘Performance’",
-      "summary": "By Makutu Manneh Yaya Menteng Sanyang, vice chairman for finance and administration of the UNITE Party and National Assembly member for Latrikunda Sabiji, has dismissed the United Democratic Party’s recent show of support in Foni and the Upper River Region as a “performance,” ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/unites-yaya-menteng-sanyang-dismisses-udps-showing-in-foni-and-urr-as-performance/",
-      "publishedAt": "2026-09-21T19:46:03.000Z",
-      "collectedAt": "2026-09-21T20:22:26.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T17:42:47.164Z",
-    "count": 26
+    "generatedAt": "2026-09-26T20:58:08.201Z",
+    "count": 25
   }
 }
