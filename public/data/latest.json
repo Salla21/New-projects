@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "f76c6c89b902931f",
+      "title": "Sis….You didn’t just wake up one day and decide to be “the strong one.”",
+      "summary": "Sis….You didn’t just wake up one day and decide to be “the strong one.” Life trained you. You were probably the firstborn… or the daughter in a family where being a child was a luxury you couldn’t afford. You knew what it meant to stretch a meal, to hear “we’ll manage,” and so...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sis-you-didnt-just-wake-up-one-day-and-decide-to-be-the-strong-one/",
+      "publishedAt": "2026-09-26T10:46:39.000Z",
+      "collectedAt": "2026-09-26T12:56:31.231Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4d24a55cf39c5ca1",
       "title": "NAWEC Signs $14.2 Million Deal to Electrify 241 Communities in URR and CRR",
       "summary": "By Makutu Manneh The Gambian government, through the National Water and Electricity Company, has signed contracts worth about $14.2 million to bring electricity to 241 communities in the Upper River and Central River regions, part of a broader effort to expand power access acr...",
@@ -2263,31 +2284,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2e18888c296b53a2",
-      "title": "‘You Are Just Like the Rest of Them’: Gambian Artist Hussein Dada Criticizes Essa Faal in Open Letter",
-      "summary": "By Seedy Jobe Gambian artist Hussein Dada has publicly criticized Essa Faal, expressing disappointment with the APP-SOBEYAA leader after his party announced that it had reached an agreement in principle to form a political alliance with the ruling National People’s Party. APP-...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/you-are-just-like-the-rest-of-them-gambian-artist-hussein-dada-criticizes-essa-faal-in-open-letter/",
-      "publishedAt": "2026-09-21T18:58:27.000Z",
-      "collectedAt": "2026-09-21T20:22:26.529Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T07:27:11.020Z",
+    "generatedAt": "2026-09-26T12:56:45.501Z",
     "count": 100
   }
 }

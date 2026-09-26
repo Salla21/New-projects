@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "f76c6c89b902931f",
+      "title": "Sis….You didn’t just wake up one day and decide to be “the strong one.”",
+      "summary": "Sis….You didn’t just wake up one day and decide to be “the strong one.” Life trained you. You were probably the firstborn… or the daughter in a family where being a child was a luxury you couldn’t afford. You knew what it meant to stretch a meal, to hear “we’ll manage,” and so...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sis-you-didnt-just-wake-up-one-day-and-decide-to-be-the-strong-one/",
+      "publishedAt": "2026-09-26T10:46:39.000Z",
+      "collectedAt": "2026-09-26T12:56:31.231Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cc5c3e988dcaabc6",
       "title": "MoHERST Holds Consultative Workshop on Curriculum Design for TVET Centres of Excellence",
       "summary": "By Seedy Jobe The Ministry of Higher Education, Research, Science, and Technology (MoHERST) on Friday held a one-day consultative workshop to help shape curricula for The Gambia’s Technical and Vocational Education and Training Centres of Excellence in agribusiness, fisheries,...",
@@ -1836,7 +1857,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-26T07:27:05.306Z",
+      "collectedAt": "2026-09-26T12:56:31.092Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1857,7 +1878,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/my-night-was-ruined-young-man-fumes-after-discovering-expired-cond0m/",
       "publishedAt": "2026-09-16T06:26:50.000Z",
-      "collectedAt": "2026-09-26T07:27:05.306Z",
+      "collectedAt": "2026-09-26T12:56:31.092Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1878,7 +1899,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-26T07:27:05.306Z",
+      "collectedAt": "2026-09-26T12:56:31.092Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1901,7 +1922,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-26T07:27:05.306Z",
+      "collectedAt": "2026-09-26T12:56:31.092Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -1924,7 +1945,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/secret-lovers-busted-married-man-and-woman-allegedly-flee-leave-blanket-behind/",
       "publishedAt": "2026-09-09T04:53:37.000Z",
-      "collectedAt": "2026-09-26T07:27:05.306Z",
+      "collectedAt": "2026-09-26T12:56:31.092Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1945,7 +1966,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-26T07:27:05.306Z",
+      "collectedAt": "2026-09-26T12:56:31.092Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1966,7 +1987,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/officer-malick-signs-deal-with-comium-as-new-brand-ambassador/",
       "publishedAt": "2026-09-02T04:09:25.000Z",
-      "collectedAt": "2026-09-26T07:27:05.306Z",
+      "collectedAt": "2026-09-26T12:56:31.092Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1980,7 +2001,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T07:27:11.020Z",
-    "count": 87
+    "generatedAt": "2026-09-26T12:56:45.501Z",
+    "count": 88
   }
 }
