@@ -156,31 +156,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5aa290d608579f81",
-      "title": "Bensouda Appeals Commission of Inquiry Findings at Court of Appeal",
-      "summary": "Kanifing Municipal Council Mayor Talib Ahmed Bensouda has appealed findings by the Commission of Inquiry into the conduct of local government councils, asking the Court of Appeal to overturn conclusions that he exercised political and executive influence that contributed to fi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-appeals-commission-of-inquiry-findings-at-court-of-appeal/",
-      "publishedAt": "2026-09-21T17:37:38.000Z",
-      "collectedAt": "2026-09-21T20:22:26.529Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T21:26:41.376Z",
-    "count": 8
+    "generatedAt": "2026-09-26T00:29:48.997Z",
+    "count": 7
   }
 }

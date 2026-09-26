@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "4d24a55cf39c5ca1",
+      "title": "NAWEC Signs $14.2 Million Deal to Electrify 241 Communities in URR and CRR",
+      "summary": "By Makutu Manneh The Gambian government, through the National Water and Electricity Company, has signed contracts worth about $14.2 million to bring electricity to 241 communities in the Upper River and Central River regions, part of a broader effort to expand power access acr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-signs-14-2-million-deal-to-electrify-241-communities-in-urr-and-crr/",
+      "publishedAt": "2026-09-25T23:59:19.000Z",
+      "collectedAt": "2026-09-26T00:29:44.887Z",
+      "region": "central-river",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cc5c3e988dcaabc6",
       "title": "MoHERST Holds Consultative Workshop on Curriculum Design for TVET Centres of Excellence",
       "summary": "By Seedy Jobe The Ministry of Higher Education, Research, Science, and Technology (MoHERST) on Friday held a one-day consultative workshop to help shape curricula for The Gambia’s Technical and Vocational Education and Training Centres of Excellence in agribusiness, fisheries,...",
@@ -439,31 +460,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7c19a049ac106d04",
-      "title": "NHIA seeks stronger health insurance plan as stakeholders review 2026–2030 strategy",
-      "summary": "By Aminata Kuyateh The National Health Insurance Authority (NHIA) ended a two-day stakeholder validation of its 2026–2030 Strategic Plan yesterday, with calls for stronger health financing, wider coverage and greater protection for Gambians from the cost of healthcare. The con...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/nhia-seeks-stronger-health-insurance-plan-as-stakeholders-review-2026-2030-strategy/",
-      "publishedAt": "2026-09-25T09:18:52.000Z",
-      "collectedAt": "2026-09-25T11:38:02.467Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T21:26:41.376Z",
+    "generatedAt": "2026-09-26T00:29:48.997Z",
     "count": 20
   }
 }

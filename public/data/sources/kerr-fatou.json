@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "4d24a55cf39c5ca1",
+      "title": "NAWEC Signs $14.2 Million Deal to Electrify 241 Communities in URR and CRR",
+      "summary": "By Makutu Manneh The Gambian government, through the National Water and Electricity Company, has signed contracts worth about $14.2 million to bring electricity to 241 communities in the Upper River and Central River regions, part of a broader effort to expand power access acr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-signs-14-2-million-deal-to-electrify-241-communities-in-urr-and-crr/",
+      "publishedAt": "2026-09-25T23:59:19.000Z",
+      "collectedAt": "2026-09-26T00:29:44.887Z",
+      "region": "central-river",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cc5c3e988dcaabc6",
       "title": "MoHERST Holds Consultative Workshop on Curriculum Design for TVET Centres of Excellence",
       "summary": "By Seedy Jobe The Ministry of Higher Education, Research, Science, and Technology (MoHERST) on Friday held a one-day consultative workshop to help shape curricula for The Gambia’s Technical and Vocational Education and Training Centres of Excellence in agribusiness, fisheries,...",
@@ -670,31 +691,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5aa290d608579f81",
-      "title": "Bensouda Appeals Commission of Inquiry Findings at Court of Appeal",
-      "summary": "Kanifing Municipal Council Mayor Talib Ahmed Bensouda has appealed findings by the Commission of Inquiry into the conduct of local government councils, asking the Court of Appeal to overturn conclusions that he exercised political and executive influence that contributed to fi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-appeals-commission-of-inquiry-findings-at-court-of-appeal/",
-      "publishedAt": "2026-09-21T17:37:38.000Z",
-      "collectedAt": "2026-09-21T20:22:26.529Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T21:26:41.376Z",
+    "generatedAt": "2026-09-26T00:29:48.997Z",
     "count": 30
   }
 }

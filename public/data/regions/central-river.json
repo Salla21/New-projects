@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "4d24a55cf39c5ca1",
+      "title": "NAWEC Signs $14.2 Million Deal to Electrify 241 Communities in URR and CRR",
+      "summary": "By Makutu Manneh The Gambian government, through the National Water and Electricity Company, has signed contracts worth about $14.2 million to bring electricity to 241 communities in the Upper River and Central River regions, part of a broader effort to expand power access acr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-signs-14-2-million-deal-to-electrify-241-communities-in-urr-and-crr/",
+      "publishedAt": "2026-09-25T23:59:19.000Z",
+      "collectedAt": "2026-09-26T00:29:44.887Z",
+      "region": "central-river",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "be7b31758cdef1f9",
       "title": "A letter to UDP leader Ousainu Darboe",
       "summary": "Dear Editor,I, Ebrima Jaiteh, a Gambian native of Sankulay Kunda, Lower Fulladu West District, Central River Region, currently living in the Netherlands since 2024, wish to take this opportunity to extend my sincere gratitude to Baba Ousainu Darboe and his party militants, esp...",
@@ -28,7 +49,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T21:26:41.376Z",
-    "count": 1
+    "generatedAt": "2026-09-26T00:29:48.997Z",
+    "count": 2
   }
 }
