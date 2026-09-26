@@ -668,33 +668,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "bdbabde75973ce68",
-      "title": "UDP Youth Leader Accuses Barrow of Being ‘Power Hungry,’ Rejects President’s Criticism of Opposition",
-      "summary": "By Seedy Jobe Hagi Suwaneh, the national youth president of the United Democratic Party, has sharply criticized President Adama Barrow over his recent remarks about opposition politicians, accusing the president himself of pursuing power and personal wealth. Suwaneh was respon...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-accuses-barrow-of-being-power-hungry-rejects-presidents-criticism-of-opposition/",
-      "publishedAt": "2026-09-21T17:49:06.000Z",
-      "collectedAt": "2026-09-21T20:22:26.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T00:29:48.997Z",
-    "count": 30
+    "generatedAt": "2026-09-26T07:27:11.020Z",
+    "count": 29
   }
 }

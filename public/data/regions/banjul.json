@@ -1828,29 +1828,6 @@
       "status": "published"
     },
     {
-      "id": "bdbabde75973ce68",
-      "title": "UDP Youth Leader Accuses Barrow of Being ‘Power Hungry,’ Rejects President’s Criticism of Opposition",
-      "summary": "By Seedy Jobe Hagi Suwaneh, the national youth president of the United Democratic Party, has sharply criticized President Adama Barrow over his recent remarks about opposition politicians, accusing the president himself of pursuing power and personal wealth. Suwaneh was respon...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-accuses-barrow-of-being-power-hungry-rejects-presidents-criticism-of-opposition/",
-      "publishedAt": "2026-09-21T17:49:06.000Z",
-      "collectedAt": "2026-09-21T20:22:26.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -1859,7 +1836,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-26T00:29:43.064Z",
+      "collectedAt": "2026-09-26T07:27:05.306Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1880,7 +1857,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/my-night-was-ruined-young-man-fumes-after-discovering-expired-cond0m/",
       "publishedAt": "2026-09-16T06:26:50.000Z",
-      "collectedAt": "2026-09-26T00:29:43.064Z",
+      "collectedAt": "2026-09-26T07:27:05.306Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1901,7 +1878,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-26T00:29:43.064Z",
+      "collectedAt": "2026-09-26T07:27:05.306Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1924,7 +1901,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-26T00:29:43.064Z",
+      "collectedAt": "2026-09-26T07:27:05.306Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -1947,7 +1924,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/secret-lovers-busted-married-man-and-woman-allegedly-flee-leave-blanket-behind/",
       "publishedAt": "2026-09-09T04:53:37.000Z",
-      "collectedAt": "2026-09-26T00:29:43.064Z",
+      "collectedAt": "2026-09-26T07:27:05.306Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1968,7 +1945,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-26T00:29:43.064Z",
+      "collectedAt": "2026-09-26T07:27:05.306Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1989,7 +1966,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/officer-malick-signs-deal-with-comium-as-new-brand-ambassador/",
       "publishedAt": "2026-09-02T04:09:25.000Z",
-      "collectedAt": "2026-09-26T00:29:43.064Z",
+      "collectedAt": "2026-09-26T07:27:05.306Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2003,7 +1980,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T00:29:48.997Z",
-    "count": 88
+    "generatedAt": "2026-09-26T07:27:11.020Z",
+    "count": 87
   }
 }
