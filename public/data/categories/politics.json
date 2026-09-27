@@ -1,6 +1,103 @@
 {
   "items": [
     {
+      "id": "53b35cf1b38a2d63",
+      "title": "Darboe Praises UDP Diaspora’s Loyalty, Honors Late Party Pioneers",
+      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, praised the party’s diaspora chapters for three decades of loyalty and financial and organizational support, describing overseas members as an enduring pillar of the UDP since its founding. Speaking on Sa...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-praises-udp-diasporas-loyalty-honors-late-party-pioneers/",
+      "publishedAt": "2026-09-27T17:12:46.000Z",
+      "collectedAt": "2026-09-27T18:17:18.022Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c3084d8eacf1888b",
+      "title": "Darboe Rallies Diaspora Supporters, Says Barrow Is UDP’s Only Opponent",
+      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, has urged supporters to focus their efforts on defeating President Adama Barrow in the December presidential election, saying the governing party, not rival opposition groups, should be their primary poli...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-rallies-diaspora-supporters-says-barrow-is-udps-only-opponent/",
+      "publishedAt": "2026-09-27T16:58:25.000Z",
+      "collectedAt": "2026-09-27T18:17:18.022Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "18a913139dcb4584",
+      "title": "Barrow Rejects Claims of Hunger in Gambia, Pledges Continued Development",
+      "summary": "By Makutu Manneh President Adama Barrow has rejected assertions that hunger remains a significant problem in The Gambia, dismissing remarks by an unnamed political rival who has pledged to eradicate hunger in the country. Speaking at a political rally in Farafenni on Saturday,...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-rejects-claims-of-hunger-in-gambia-pledges-continued-development/",
+      "publishedAt": "2026-09-27T16:38:02.000Z",
+      "collectedAt": "2026-09-27T18:17:18.022Z",
+      "region": "north-bank",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ef6711b325d523b4",
+      "title": "Barrow Ties Completion of North Bank Projects to December Election Outcome",
+      "summary": "By Makutu Manneh President Adama Barrow told supporters in Farafenni on Saturday that the completion of major infrastructure projects planned for the North Bank Region would depend on voters returning him to office in the Dec. 5 presidential election. Speaking at a rally organ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-ties-completion-of-north-bank-projects-to-december-election-outcome/",
+      "publishedAt": "2026-09-27T16:26:28.000Z",
+      "collectedAt": "2026-09-27T18:17:18.022Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b1b94c302a110000",
       "title": "Lowe Warns Against ‘Nasty’ Tribal Politics After Controversial NPP Rally Remarks",
       "summary": "By Dawda Baldeh Rohey Malick Lowe, Mayor of the Banjul City Council, has criticised what she described as the growing use of ethnic rhetoric in Gambian politics following comments made by senior members of the ruling National People’s Party (NPP) during a rally in Farafenni. H...",
@@ -1392,29 +1489,6 @@
       "status": "published"
     },
     {
-      "id": "0010fdd9791f7074",
-      "title": "Team Gambia to adopt Coalition 2016 model",
-      "summary": "By Tabora Bojang Veteran politician Halifa Sallah, one of the coordinators of the Team Gambia coalition, yesterday revealed that the group is going to adopt the successful 2016 coalition model whereby the flagbearer of the coalition will resign from his or her party to contest...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/team-gambia-to-adopt-coalition-2016-model/",
-      "publishedAt": "2026-09-22T09:13:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94699c563aec97ca",
       "title": "Will TikTok Endorsements Sway the Presidential Election?",
       "summary": "As The Gambia prepares to go to the polls on December 5 to elect a president,…\nThe post Will TikTok Endorsements Sway the Presidential Election? appeared first on What's On Gambia.",
@@ -1423,7 +1497,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-27T13:50:51.606Z",
+      "collectedAt": "2026-09-27T18:17:16.474Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1439,7 +1513,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T13:50:57.077Z",
-    "count": 61
+    "generatedAt": "2026-09-27T18:17:22.119Z",
+    "count": 64
   }
 }
