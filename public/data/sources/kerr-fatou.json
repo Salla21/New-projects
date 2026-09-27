@@ -671,33 +671,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b3a7fe6cfb89f0b0",
-      "title": "Team Gambia Coalition Pledges New Constitution Within 18 Months if Elected",
-      "summary": "By Seedy Jobe Team Gambia Grand Coalition 2026 has outlined an ambitious political and governance agenda ahead of the 2026-27 election cycle, pledging to introduce a new constitution within 18 months if elected and to select its presidential candidate through nationwide consul...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/team-gambia-coalition-pledges-new-constitution-within-18-months-if-elected/",
-      "publishedAt": "2026-09-21T22:54:15.000Z",
-      "collectedAt": "2026-09-22T00:41:35.591Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T00:25:04.220Z",
-    "count": 30
+    "generatedAt": "2026-09-27T07:57:39.839Z",
+    "count": 29
   }
 }

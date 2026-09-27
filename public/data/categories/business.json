@@ -596,34 +596,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9ff14bd9111a8915",
-      "title": "FirstBank launches ‘Ndimbal’ digital salary advance",
-      "summary": "By Olimatou Coker FirstBank Gambia on Monday officially launched a ‘Ndimbal’ digital salary advance initiative at its Head Office on Kairaba Avenue. According to the bank, the initiative serves as a milestone in its digital transformation drive to deliver fast, innovative fina...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/firstbank-launches-ndimbal-digital-salary-advance/",
-      "publishedAt": "2026-09-22T09:11:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T00:25:04.220Z",
-    "count": 26
+    "generatedAt": "2026-09-27T07:57:39.839Z",
+    "count": 25
   }
 }
