@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "b1b94c302a110000",
+      "title": "Lowe Warns Against ‘Nasty’ Tribal Politics After Controversial NPP Rally Remarks",
+      "summary": "By Dawda Baldeh Rohey Malick Lowe, Mayor of the Banjul City Council, has criticised what she described as the growing use of ethnic rhetoric in Gambian politics following comments made by senior members of the ruling National People’s Party (NPP) during a rally in Farafenni. H...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/lowe-warns-against-nasty-tribal-politics-after-controversial-npp-rally-remarks/",
+      "publishedAt": "2026-09-27T11:19:04.000Z",
+      "collectedAt": "2026-09-27T13:50:51.741Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "809febe002302b72",
+      "title": "Darboe Rallies Diaspora for 2026 Push, Says ‘We Have Only One Opponent and That Is Adama Barrow’",
+      "summary": "Hadram Hydara Ousainou Darboe, leader and presidential candidate of the United Democratic Party (UDP), has urged Gambians in the diaspora to mobilise resources, influence voters and return home to support his campaign, saying that the party’s sole focus ahead of December’s pre...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-rallies-diaspora-for-2026-push-says-we-have-only-one-opponent-and-that-is-adama-barrow/",
+      "publishedAt": "2026-09-27T10:34:31.000Z",
+      "collectedAt": "2026-09-27T13:50:51.741Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f76c6c89b902931f",
       "title": "Sis….You didn’t just wake up one day and decide to be “the strong one.”",
       "summary": "Sis….You didn’t just wake up one day and decide to be “the strong one.” Life trained you. You were probably the firstborn… or the daughter in a family where being a child was a luxury you couldn’t afford. You knew what it meant to stretch a meal, to hear “we’ll manage,” and so...",
@@ -278,7 +326,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T07:57:39.839Z",
-    "count": 12
+    "generatedAt": "2026-09-27T13:50:57.077Z",
+    "count": 14
   }
 }

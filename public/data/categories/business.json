@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "809febe002302b72",
+      "title": "Darboe Rallies Diaspora for 2026 Push, Says ‘We Have Only One Opponent and That Is Adama Barrow’",
+      "summary": "Hadram Hydara Ousainou Darboe, leader and presidential candidate of the United Democratic Party (UDP), has urged Gambians in the diaspora to mobilise resources, influence voters and return home to support his campaign, saying that the party’s sole focus ahead of December’s pre...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-rallies-diaspora-for-2026-push-says-we-have-only-one-opponent-and-that-is-adama-barrow/",
+      "publishedAt": "2026-09-27T10:34:31.000Z",
+      "collectedAt": "2026-09-27T13:50:51.741Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "187bab8cce3bc6a9",
       "title": "Prof. Gomez Unveils Plan to Expand Professional Career Pathways for Madrassa Graduates",
       "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has outlined a government plan to broaden educational and career opportunities for madrassa graduates by giving them greater access to professional fields traditionally...",
@@ -599,7 +624,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T07:57:39.839Z",
-    "count": 25
+    "generatedAt": "2026-09-27T13:50:57.077Z",
+    "count": 26
   }
 }

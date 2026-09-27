@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "809febe002302b72",
+      "title": "Darboe Rallies Diaspora for 2026 Push, Says ‘We Have Only One Opponent and That Is Adama Barrow’",
+      "summary": "Hadram Hydara Ousainou Darboe, leader and presidential candidate of the United Democratic Party (UDP), has urged Gambians in the diaspora to mobilise resources, influence voters and return home to support his campaign, saying that the party’s sole focus ahead of December’s pre...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-rallies-diaspora-for-2026-push-says-we-have-only-one-opponent-and-that-is-adama-barrow/",
+      "publishedAt": "2026-09-27T10:34:31.000Z",
+      "collectedAt": "2026-09-27T13:50:51.741Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1c5e2e90e35b03ca",
       "title": "Barrow Vows to ‘Retire’ Darboe From Politics, Praises Faal for Joining His Coalition",
       "summary": "By Makutu Manneh President Adama Barrow said Saturday that he intended to force his longtime political rival, Ousainou Darboe, into retirement at the December presidential election, while praising Essa Mbye Faal for what he described as a wise decision to join his governing co...",
@@ -298,7 +323,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-27T07:57:34.327Z",
+      "collectedAt": "2026-09-27T13:50:51.606Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -314,7 +339,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T07:57:39.839Z",
-    "count": 13
+    "generatedAt": "2026-09-27T13:50:57.077Z",
+    "count": 14
   }
 }

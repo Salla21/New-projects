@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "b1b94c302a110000",
+      "title": "Lowe Warns Against ‘Nasty’ Tribal Politics After Controversial NPP Rally Remarks",
+      "summary": "By Dawda Baldeh Rohey Malick Lowe, Mayor of the Banjul City Council, has criticised what she described as the growing use of ethnic rhetoric in Gambian politics following comments made by senior members of the ruling National People’s Party (NPP) during a rally in Farafenni. H...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/lowe-warns-against-nasty-tribal-politics-after-controversial-npp-rally-remarks/",
+      "publishedAt": "2026-09-27T11:19:04.000Z",
+      "collectedAt": "2026-09-27T13:50:51.741Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "809febe002302b72",
+      "title": "Darboe Rallies Diaspora for 2026 Push, Says ‘We Have Only One Opponent and That Is Adama Barrow’",
+      "summary": "Hadram Hydara Ousainou Darboe, leader and presidential candidate of the United Democratic Party (UDP), has urged Gambians in the diaspora to mobilise resources, influence voters and return home to support his campaign, saying that the party’s sole focus ahead of December’s pre...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-rallies-diaspora-for-2026-push-says-we-have-only-one-opponent-and-that-is-adama-barrow/",
+      "publishedAt": "2026-09-27T10:34:31.000Z",
+      "collectedAt": "2026-09-27T13:50:51.741Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1c5e2e90e35b03ca",
       "title": "Barrow Vows to ‘Retire’ Darboe From Politics, Praises Faal for Joining His Coalition",
       "summary": "By Makutu Manneh President Adama Barrow said Saturday that he intended to force his longtime political rival, Ousainou Darboe, into retirement at the December presidential election, while praising Essa Mbye Faal for what he described as a wise decision to join his governing co...",
@@ -2240,54 +2288,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0010fdd9791f7074",
-      "title": "Team Gambia to adopt Coalition 2016 model",
-      "summary": "By Tabora Bojang Veteran politician Halifa Sallah, one of the coordinators of the Team Gambia coalition, yesterday revealed that the group is going to adopt the successful 2016 coalition model whereby the flagbearer of the coalition will resign from his or her party to contest...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/team-gambia-to-adopt-coalition-2016-model/",
-      "publishedAt": "2026-09-22T09:13:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "eacb90361c83b97d",
-      "title": "WANETAM-4 launches 5-year health programme to strengthen TB, HIV and malaria research",
-      "summary": "By Olimatou Coker The West African Network of Excellence for TB, AIDS and Malaria (WANETAM-4) has launched a five-year programme to strengthen research, training and health systems across West Africa. The launch, held at the African Princess Hotel, brought together researchers...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/wanetam-4-launches-5-year-health-programme-to-strengthen-tb-hiv-and-malaria-research/",
-      "publishedAt": "2026-09-22T09:12:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T07:57:39.839Z",
+    "generatedAt": "2026-09-27T13:50:57.077Z",
     "count": 100
   }
 }
