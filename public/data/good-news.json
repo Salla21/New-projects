@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "187bab8cce3bc6a9",
+      "title": "Prof. Gomez Unveils Plan to Expand Professional Career Pathways for Madrassa Graduates",
+      "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has outlined a government plan to broaden educational and career opportunities for madrassa graduates by giving them greater access to professional fields traditionally...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/prof-gomez-unveils-plan-to-expand-professional-career-pathways-for-madrassa-graduates/",
+      "publishedAt": "2026-09-26T21:39:50.000Z",
+      "collectedAt": "2026-09-27T00:25:00.140Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a73bb8cdef6bf3c5",
       "title": "VP Jallow: Africa Should Not Have to Choose Between Basic Energy Needs and a Cleaner Future",
       "summary": "By Seedy Jobe Vice President Muhammed B.S. Jallow has called for greater international investment to help African households transition from firewood and charcoal to cleaner cooking technologies, warning that cost and limited access continue to put cleaner alternatives beyond ...",
@@ -510,7 +535,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-26T20:57:54.995Z",
+      "collectedAt": "2026-09-27T00:24:58.405Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -531,7 +556,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-26T20:57:54.995Z",
+      "collectedAt": "2026-09-27T00:24:58.405Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -545,7 +570,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T20:58:08.201Z",
-    "count": 24
+    "generatedAt": "2026-09-27T00:25:04.220Z",
+    "count": 25
   }
 }

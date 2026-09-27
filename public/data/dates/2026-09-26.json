@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "187bab8cce3bc6a9",
+      "title": "Prof. Gomez Unveils Plan to Expand Professional Career Pathways for Madrassa Graduates",
+      "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has outlined a government plan to broaden educational and career opportunities for madrassa graduates by giving them greater access to professional fields traditionally...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/prof-gomez-unveils-plan-to-expand-professional-career-pathways-for-madrassa-graduates/",
+      "publishedAt": "2026-09-26T21:39:50.000Z",
+      "collectedAt": "2026-09-27T00:25:00.140Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6b7be49a02a46e97",
       "title": "Madi Jobarteh Says Lack of Character Among Political Leaders Is Hindering Gambia’s Development",
       "summary": "By Seedy Jobe Madi Jobarteh, executive director of the Edward Francis Small Center for Rights and Justice, has argued that The Gambia’s development challenges stem not from a shortage of resources, expertise, or education but from what he described as a lack of character among...",
@@ -114,7 +139,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T20:58:08.201Z",
-    "count": 5
+    "generatedAt": "2026-09-27T00:25:04.220Z",
+    "count": 6
   }
 }

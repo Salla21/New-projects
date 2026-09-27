@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "1c5e2e90e35b03ca",
+      "title": "Barrow Vows to ‘Retire’ Darboe From Politics, Praises Faal for Joining His Coalition",
+      "summary": "By Makutu Manneh President Adama Barrow said Saturday that he intended to force his longtime political rival, Ousainou Darboe, into retirement at the December presidential election, while praising Essa Mbye Faal for what he described as a wise decision to join his governing co...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-vows-to-retire-darboe-from-politics-praises-faal-for-joining-his-coalition/",
+      "publishedAt": "2026-09-27T00:11:25.000Z",
+      "collectedAt": "2026-09-27T00:25:00.140Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "187bab8cce3bc6a9",
+      "title": "Prof. Gomez Unveils Plan to Expand Professional Career Pathways for Madrassa Graduates",
+      "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has outlined a government plan to broaden educational and career opportunities for madrassa graduates by giving them greater access to professional fields traditionally...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/prof-gomez-unveils-plan-to-expand-professional-career-pathways-for-madrassa-graduates/",
+      "publishedAt": "2026-09-26T21:39:50.000Z",
+      "collectedAt": "2026-09-27T00:25:00.140Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6b7be49a02a46e97",
       "title": "Madi Jobarteh Says Lack of Character Among Political Leaders Is Hindering Gambia’s Development",
       "summary": "By Seedy Jobe Madi Jobarteh, executive director of the Edward Francis Small Center for Rights and Justice, has argued that The Gambia’s development challenges stem not from a shortage of resources, expertise, or education but from what he described as a lack of character among...",
@@ -111,31 +160,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4d24a55cf39c5ca1",
-      "title": "NAWEC Signs $14.2 Million Deal to Electrify 241 Communities in URR and CRR",
-      "summary": "By Makutu Manneh The Gambian government, through the National Water and Electricity Company, has signed contracts worth about $14.2 million to bring electricity to 241 communities in the Upper River and Central River regions, part of a broader effort to expand power access acr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nawec-signs-14-2-million-deal-to-electrify-241-communities-in-urr-and-crr/",
-      "publishedAt": "2026-09-25T23:59:19.000Z",
-      "collectedAt": "2026-09-26T00:29:44.887Z",
-      "region": "central-river",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T20:58:08.201Z",
-    "count": 6
+    "generatedAt": "2026-09-27T00:25:04.220Z",
+    "count": 7
   }
 }

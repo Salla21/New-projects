@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "187bab8cce3bc6a9",
+      "title": "Prof. Gomez Unveils Plan to Expand Professional Career Pathways for Madrassa Graduates",
+      "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has outlined a government plan to broaden educational and career opportunities for madrassa graduates by giving them greater access to professional fields traditionally...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/prof-gomez-unveils-plan-to-expand-professional-career-pathways-for-madrassa-graduates/",
+      "publishedAt": "2026-09-26T21:39:50.000Z",
+      "collectedAt": "2026-09-27T00:25:00.140Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "51f85506ddc947be",
       "title": "Higher Education Minister Defends Four-University Model, Citing Need for Specialization",
       "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has defended the government’s decision to establish four separate public universities, saying the model is intended to promote specialization, competition, and the deve...",
@@ -316,7 +341,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-26T20:58:08.201Z",
-    "count": 13
+    "generatedAt": "2026-09-27T00:25:04.220Z",
+    "count": 14
   }
 }
