@@ -246,100 +246,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "93f589abbf5d2edd",
-      "title": "APP-Sobeyaa confirmed alliance with NPP",
-      "summary": "By Aminata Kuyateh The All Peoples Party-Sobeyaa (APP-Sobeyaa) of Essa Mbye Faal an ardent critic of the government has announced it has concluded agreement with the governing National People’s Party (NPP), “to contribute its principles and values to national development”. In ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/app-sobeyaa-confirmed-alliance-with-npp/",
-      "publishedAt": "2026-09-22T09:17:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f501a7ee78ba8a0b",
-      "title": "US initiates 2-year home residency rule for Gambian visitors",
-      "summary": "By Omar Bah The United States State Department has released its Exchange Visitor Skills List by Country, identifying 44 nations including The Gambia whose citizens could be required to spend two years in their home country before accessing certain US immigration benefits after...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/us-initiates-2-year-home-residency-rule-for-gambian-visitors/",
-      "publishedAt": "2026-09-22T09:16:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b31264e959a26db4",
-      "title": "Leader of candle light protest hits back at critics",
-      "summary": "By Arret Jatta Two weeks after leading what became known as the candle light protest over acute power outage in the capital which spontaneously spread across the Greater Banjul Area, the National Assembly Member for Banjul North Modou Lamin Bah has hit back at criticisms from ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/leader-of-candle-light-protest-hits-back-at-critics/",
-      "publishedAt": "2026-09-22T09:15:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0ab592f90995ad96",
-      "title": "Army recruits death toll rises to 4",
-      "summary": "By Olimatou Coker The death toll among recruits of Intake- 40 of the Gambia Armed Forces (GAF) has risen to 4, the latest casualty being one Mamudou Nyabally, from Niamina Jareng. In a statement shared with The Standard, the army confirmed Nyabally died on Friday, September 18...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/army-recruits-death-toll-rises-to-4/",
-      "publishedAt": "2026-09-22T09:14:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T18:17:22.119Z",
-    "count": 15
+    "generatedAt": "2026-09-27T22:56:59.926Z",
+    "count": 11
   }
 }

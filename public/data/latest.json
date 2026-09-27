@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "86abfe4c2a63335e",
+      "title": "Essa Faal Denies Seeking Position or Receiving $10 Million to Join NPP Alliance",
+      "summary": "By Makutu Manneh Essa Mbye Faal, the leader of APP-Sobeyaa, on Sunday denied claims that he sought a government position or received $10 million in exchange for joining President Adama Barrow’s National People’s Party-led alliance, saying his decision was motivated by what he ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/essa-faal-denies-seeking-position-or-receiving-10-million-to-join-npp-alliance/",
+      "publishedAt": "2026-09-27T22:49:10.000Z",
+      "collectedAt": "2026-09-27T22:56:55.893Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1d48916ca5d8b57a",
+      "title": "Essa Faal: December Election Is ‘Dead and Buried,’ Barrow Has Already Won",
+      "summary": "By Makutu Manneh Essa Mbye Faal, the leader of APP-Sobeyaa, said Sunday that he considered the December presidential election effectively over and declared President Adama Barrow the winner, as he formally joined the governing National People’s Party-led alliance. Speaking at ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/essa-faal-december-election-is-dead-and-buried-barrow-has-already-won/",
+      "publishedAt": "2026-09-27T22:42:25.000Z",
+      "collectedAt": "2026-09-27T22:56:55.893Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "53b35cf1b38a2d63",
       "title": "Darboe Praises UDP Diaspora’s Loyalty, Honors Late Party Pioneers",
       "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, praised the party’s diaspora chapters for three decades of loyalty and financial and organizational support, describing overseas members as an enduring pillar of the UDP since its founding. Speaking on Sa...",
@@ -2249,56 +2295,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5a5b9c74d63fdbd0",
-      "title": "CBG orders commercial banks to replace foreign workers with Gambians",
-      "summary": "By Omar Bah The Central Bank of The Gambia (CBG) has ordered all commercial banks to immediately replace foreign workers with qualified Gambians. In a hard-hitting circular dated September 16, 2026, signed by Second Deputy Governor Dr Paul Mendy, the regulator gave banks an ul...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/cbg-orders-commercial-banks-to-replace-foreign-workers-with-gambians/",
-      "publishedAt": "2026-09-22T09:19:29.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "804af242a8225dca",
-      "title": "Sanna Manjang faces court martial",
-      "summary": "By Omar Bah Alleged Jungler Sanna Manjang has been hauled before a military court in Banjul to face desertion charges. Manjang, accused of being a leading member of former president Yahya Jammeh’s death squad, appeared yesterday at the Senior Non-Commissioned Officers’ Mess at...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/sanna-manjang-faces-court-martial/",
-      "publishedAt": "2026-09-22T09:18:00.000Z",
-      "collectedAt": "2026-09-22T13:19:10.130Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T18:17:22.119Z",
+    "generatedAt": "2026-09-27T22:56:59.926Z",
     "count": 100
   }
 }
