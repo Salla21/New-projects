@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "5d5744b74ab4f8ab",
+      "title": "Lands Ministry Inaugurates Committees to Advance National Land Policy",
+      "summary": "By Seedy Jobe The Ministry of Lands, Regional Government, and Religious Affairs on Monday inaugurated two committees charged with advancing the implementation of The Gambia’s National Land Policy, a decade-long framework designed to overhaul land administration, strengthen ten...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lands-ministry-inaugurates-committees-to-advance-national-land-policy/",
+      "publishedAt": "2026-09-28T19:30:17.000Z",
+      "collectedAt": "2026-09-28T20:29:58.245Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "191bff8152a9318b",
       "title": "Air Sénégal Cabin Crew Suspended as Interpol Reportedly Investigates Suspected Trafficking Network",
       "summary": "Published by: The Fatu Network Air Sénégal has suspended Senegalese cabin crew assigned to its Dakar–Paris route as reports emerge of an international investigation into suspected trafficking involving some members of the airline’s commercial flight crew. Senegalese newspaper ...",
@@ -17,6 +38,29 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "74a501feae7e5367",
+      "title": "HER AGENDA 2026 & BEYOND: Gambian Women Take Ownership of Their Political Agenda",
+      "summary": "Maa Foundation for Women activates a nationwide, cross-party women’s leadership platform ahead of the 2026 Presidential Election  Banjul, The Gambia — The Maa Foundation for Women, through its Network of Women in Politics and Leadership, has launched a new phase of its women’s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/her-agenda-2026-beyond-gambian-women-take-ownership-of-their-political-agenda/",
+      "publishedAt": "2026-09-28T12:10:13.000Z",
+      "collectedAt": "2026-09-28T20:29:54.156Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
       "language": "en",
       "isGoodNews": true,
       "isOfficialSource": false,
@@ -438,73 +482,6 @@
       "status": "published"
     },
     {
-      "id": "34cad643bf17d8ab",
-      "title": "Army chief ends tour with calls for better accommodation, improved budget",
-      "summary": "By Amadou Jadama On Tour Army Chief Lieutenant General Ousman Gomez has vowed to improve the living condition of soldiers across the country, revealing that lack of accommodation is the single biggest problem facing the force. Gomez was speaking to journalists on Thursday even...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/army-chief-ends-tour-with-calls-for-better-accommodation-improved-budget/",
-      "publishedAt": "2026-09-23T09:42:00.000Z",
-      "collectedAt": "2026-09-23T11:18:20.303Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d6f4829f47632d94",
-      "title": "Reparations commission trains 300 women victims nationwide",
-      "summary": "By Olimatou Coker The Gambia Reparations Commission, in partnership with the International Centre for Transitional Justice (ICTJ) and the Alliance of Victim-Led Organisations (AVLO), has launched a nationwide capacity-building programme to strengthen women victims’ access to g...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/reparations-commission-trains-300-women-victims-nationwide/",
-      "publishedAt": "2026-09-23T09:40:00.000Z",
-      "collectedAt": "2026-09-23T11:18:20.303Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2e85c4a2184e9160",
-      "title": "Saama Kairo distributes exercise books to sponsored children",
-      "summary": "By Olimatou Coker The Saama Kairo Federation on Wednesday distributed 49,000 branded exercise books worth over D1.9 million to sponsored students across its intervention sites. The presentation ceremony was held at the Saama Kairo Federation office in Brikama. The donation is ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/saama-kairo-distributes-exercise-books-to-sponsored-children/",
-      "publishedAt": "2026-09-23T09:38:00.000Z",
-      "collectedAt": "2026-09-23T11:18:20.303Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -513,7 +490,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-28T13:38:08.406Z",
+      "collectedAt": "2026-09-28T20:29:54.305Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -534,7 +511,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-28T13:38:08.406Z",
+      "collectedAt": "2026-09-28T20:29:54.305Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -548,7 +525,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-28T13:38:13.896Z",
-    "count": 24
+    "generatedAt": "2026-09-28T20:30:02.281Z",
+    "count": 23
   }
 }

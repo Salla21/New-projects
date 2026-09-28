@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "f73fc6dc64130263",
+      "title": "Gambia Immigration Arrests Suspected Smuggler, Intercepts 11 ‘Backway’ Migrants in Tanji",
+      "summary": "By Makutu Manneh The Gambia Immigration Department has arrested a man suspected of facilitating irregular migration and intercepted 11 people allegedly preparing to embark on a “backway” journey, the department said. The operation was carried out on Friday, Sept. 26, by office...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-arrests-suspected-smuggler-intercepts-11-backway-migrants-in-tanji/",
+      "publishedAt": "2026-09-28T19:46:09.000Z",
+      "collectedAt": "2026-09-28T20:29:58.245Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b7076e6e8c0769f6",
+      "title": "Man Seeks Court Order to Evict Wife From His Property",
+      "summary": "By Mariama Marong A man from Sukuta, Gibril Coker, has taken his wife to the Brusubi Magistrates’ Court, seeking an order for her eviction from a property he claims to own. Coker is also seeking the costs of the action and any other relief the court may deem appropriate. The c...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/man-seeks-court-order-to-evict-wife-from-his-property/",
+      "publishedAt": "2026-09-28T12:25:39.000Z",
+      "collectedAt": "2026-09-28T20:29:54.156Z",
+      "region": "west-coast",
+      "categories": [
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e0e0329ead33fb7e",
       "title": "Former Guinea-Bissau President Embaló Announces October 4th Return After Nearly a Year Abroad",
       "summary": "Published by: The Fatu Network Former Guinea-Bissau President Umaro Sissoco Embaló has announced he will return home on October 4th, nearly a year after he was ousted in a military takeover and left the country just before the results of a disputed presidential election were d...",
@@ -367,77 +414,6 @@
       "status": "published"
     },
     {
-      "id": "da0e051500af9f31",
-      "title": "ActionAid holds agroecology forum 2026",
-      "summary": "By Olimatou Coker ActionAid International – The Gambia (AAITG), in collaboration with the European Union, SOS Children’s Villages and other stakeholders, Wednesday held Agroecology Forum 2026 at the Sir Dawda Kairaba Jawara International Conference Centre. Held under the theme...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/actionaid-holds-agroecology-forum-2026/",
-      "publishedAt": "2026-09-23T09:39:00.000Z",
-      "collectedAt": "2026-09-23T11:18:20.303Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "45a5276734977c53",
-      "title": "Darboe Warns Gambia Could Be ‘Gone Forever’ if Barrow Wins December Election",
-      "summary": "By Makutu Manneh Ousainu Darboe, leader of the United Democratic Party, warned on Tuesday that The Gambia’s political future would be at grave risk if President Adama Barrow wins a third term in the December presidential election. Darboe made the remarks on Sept. 22, 2026, dur...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-warns-gambia-could-be-gone-forever-if-barrow-wins-december-election/",
-      "publishedAt": "2026-09-22T21:12:05.000Z",
-      "collectedAt": "2026-09-22T22:52:00.425Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ab4f5aeca00c9ad3",
-      "title": "Darboe Says Gambia First Coalition Has Only Itself to Blame if It Loses December Election",
-      "summary": "By Makutu Manneh Ousainu Darboe, the presidential candidate of the Gambia First Coalition and leader of the United Democratic Party, has told members of the alliance that they will have only themselves to blame if they fail to win the December 5 presidential election. Darboe m...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-gambia-first-coalition-has-only-itself-to-blame-if-it-loses-december-election/",
-      "publishedAt": "2026-09-22T19:25:40.000Z",
-      "collectedAt": "2026-09-22T22:52:00.425Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -446,7 +422,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-28T13:38:08.406Z",
+      "collectedAt": "2026-09-28T20:29:54.305Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -462,7 +438,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-28T13:38:13.896Z",
-    "count": 19
+    "generatedAt": "2026-09-28T20:30:02.281Z",
+    "count": 18
   }
 }
