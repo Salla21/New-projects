@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "754d78209bd54e84",
+      "title": "Chairman Darboe indicts Barrow over ‘corruption, crime rate, mass exodus’ of youths in past 5 years",
+      "summary": "By Tabora Bojang Brikama Area Council chairman and UDP executive member Yankuba Darboe has charged that the last five years of the Barrow regime have been marked by “glorified corruption, heightened crime rates, and maternal and infant deaths. Darboe warned that this in additi...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/chairman-darboe-indicts-barrow-over-corruption-crime-rate-mass-exodus-of-youths-in-past-5-years/",
+      "publishedAt": "2026-09-28T09:07:14.000Z",
+      "collectedAt": "2026-09-28T13:35:00.035Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "09db8519b0c0b180",
+      "title": "IEC take note: Hate speech and tribal incitement are electoral offences",
+      "summary": "Election season is upon us in The Gambia, and with it, a familiar, foul smell. Listen to the audios on WhatsApp. Watch the live videos on Facebook and TikTok. Sit in a taxi rank in Brikama or a bantaba in Kuntaur. Or listen to some politicians at rallies like the president and...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/iec-take-note-hate-speech-and-tribal-incitement-are-electoral-offences/",
+      "publishedAt": "2026-09-28T09:04:56.000Z",
+      "collectedAt": "2026-09-28T13:35:00.035Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "16815be3a4c616b7",
       "title": "UDP’s Lamin Manneh Says Faal, Kandeh and Ceesay Fell Victim to ‘Popularity Delusion’",
       "summary": "By Seedy Jobe Lamin Manneh, a prominent member of the United Democratic Party, has argued that the political trajectories of Gambia Democratic Congress leader Mama Kandeh, Citizens’ Alliance leader Dr. Ismaila Ceesay and APP-SOBEYAA leader Essa Faal were shaped by what he desc...",
@@ -162,7 +209,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-28T05:00:06.316Z",
-    "count": 7
+    "generatedAt": "2026-09-28T13:38:13.896Z",
+    "count": 9
   }
 }

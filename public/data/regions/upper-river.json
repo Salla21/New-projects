@@ -1,23 +1,22 @@
 {
   "items": [
     {
-      "id": "76a7dd481607d3a3",
-      "title": "Darboe Challenges Government to Prove Who Initiated URR Roads and Bridges",
-      "summary": "By Seedy Jobe Ousainu Darboe, the leader of the United Democratic Party, has challenged the government to provide evidence of who initiated major road and bridge projects in the Upper River Region, accusing President Adama Barrow’s administration of taking credit for infrastru...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-challenges-government-to-prove-who-initiated-urr-roads-and-bridges/",
-      "publishedAt": "2026-09-13T16:10:37.000Z",
-      "collectedAt": "2026-09-13T20:38:01.708Z",
+      "id": "ec4753600cd60b5c",
+      "title": "Magistrate imposes 10 years, says no mercy for rapist",
+      "summary": "By Amadou Jadama Senior Magistrate Ismaila Dibba of Basse, has asserted that under Gambian law, rape is among the most serious offences, and therefore perpetrators should not expect leniency in sentencing. Magistrate Dibba said this on Wednesday while sentencing one Ebrima Tra...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/magistrate-imposes-10-years-says-no-mercy-for-rapist/",
+      "publishedAt": "2026-09-28T09:10:50.000Z",
+      "collectedAt": "2026-09-28T13:35:00.035Z",
       "region": "upper-river",
       "categories": [
-        "politics",
-        "diaspora"
+        "politics"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Seedy Jobe",
+      "author": "Abubacarr",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -26,7 +25,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-21T20:22:30.672Z",
+    "generatedAt": "2026-09-28T13:38:13.896Z",
     "count": 1
   }
 }

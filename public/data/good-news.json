@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "191bff8152a9318b",
+      "title": "Air Sénégal Cabin Crew Suspended as Interpol Reportedly Investigates Suspected Trafficking Network",
+      "summary": "Published by: The Fatu Network Air Sénégal has suspended Senegalese cabin crew assigned to its Dakar–Paris route as reports emerge of an international investigation into suspected trafficking involving some members of the airline’s commercial flight crew. Senegalese newspaper ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
+      "publishedAt": "2026-09-28T12:36:10.000Z",
+      "collectedAt": "2026-09-28T13:38:08.601Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "98f9a873dc4f008b",
       "title": "Barrow Welcomes Essa Faal Into Ruling Alliance, Declares December Election ‘Already Won’",
       "summary": "By Makutu Manneh President Adama Barrow on Sunday formally welcomed Essa Mbye Faal, the leader of APP-Sobeyaa and one of his former political critics, into the governing National People’s Party-led alliance, declaring that the new partnership had strengthened his confidence ah...",
@@ -490,7 +513,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-28T05:00:01.253Z",
+      "collectedAt": "2026-09-28T13:38:08.406Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -511,7 +534,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-28T05:00:01.253Z",
+      "collectedAt": "2026-09-28T13:38:08.406Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -525,7 +548,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-28T05:00:06.316Z",
-    "count": 23
+    "generatedAt": "2026-09-28T13:38:13.896Z",
+    "count": 24
   }
 }

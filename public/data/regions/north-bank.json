@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "edc121236d31609d",
+      "title": "UDP Hits Back at Hamat Bah Over Farafenni Remarks, Accuses NPP of Using Ethnic Fear",
+      "summary": "Published by: The Fatu Network The United Democratic Party has hit back at Lands and Religious Affairs Minister Hamat Bah over his controversial Farafenni remarks, accusing him and other NPP figures of using ethnic and nationality-based fear as the December election approaches...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/udp-hits-back-at-hamat-bah-over-farafenni-remarks-accuses-npp-of-using-ethnic-fear/",
+      "publishedAt": "2026-09-28T11:04:32.000Z",
+      "collectedAt": "2026-09-28T13:38:08.601Z",
+      "region": "north-bank",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "803b7e5c217f4a27",
+      "title": "No to ethnic politics, Gambia belongs to all",
+      "summary": "Coalition 2026 press statement: The remarks by the Minister of Lands, Hamat Bah, at the NPP rally on Sarturday in Farafenni, held in the presence of President Adama Barrow, represent a dangerous descent into ethnic politics that must not be tolerated in The Gambia. This is bec...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/no-to-ethnic-politics-gambia-belongs-to-all-2/",
+      "publishedAt": "2026-09-28T09:06:19.000Z",
+      "collectedAt": "2026-09-28T13:35:00.035Z",
+      "region": "north-bank",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "18a913139dcb4584",
       "title": "Barrow Rejects Claims of Hunger in Gambia, Pledges Continued Development",
       "summary": "By Makutu Manneh President Adama Barrow has rejected assertions that hunger remains a significant problem in The Gambia, dismissing remarks by an unnamed political rival who has pledged to eradicate hunger in the country. Speaking at a political rally in Farafenni on Saturday,...",
@@ -97,7 +143,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-28T05:00:06.316Z",
-    "count": 4
+    "generatedAt": "2026-09-28T13:38:13.896Z",
+    "count": 6
   }
 }

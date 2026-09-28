@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "e0e0329ead33fb7e",
+      "title": "Former Guinea-Bissau President Embaló Announces October 4th Return After Nearly a Year Abroad",
+      "summary": "Published by: The Fatu Network Former Guinea-Bissau President Umaro Sissoco Embaló has announced he will return home on October 4th, nearly a year after he was ousted in a military takeover and left the country just before the results of a disputed presidential election were d...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/former-guinea-bissau-president-embalo-announces-october-4th-return-after-nearly-a-year-abroad/",
+      "publishedAt": "2026-09-28T11:08:12.000Z",
+      "collectedAt": "2026-09-28T13:38:08.601Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c5aab7c38a007657",
+      "title": "NPP heavyweights unleash fresh attacks on opposition",
+      "summary": "By Arret Jatta President Adama Barrow and senior members of his National People’s Party government have stepped up their attacks on opposition figures, with recent campaign remarks touching on political rivalry, regional identity, ancestry and the Gambian diaspora. Speaking at...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/npp-heavyweights-unleash-fresh-attacks-on-opposition/",
+      "publishedAt": "2026-09-28T09:11:44.000Z",
+      "collectedAt": "2026-09-28T13:35:00.035Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0b1fc3d5c5fca32c",
+      "title": "Nafaa leader says Barrow’s ‘last minute projects’ will not fool Gambians",
+      "summary": "By Sirrah Touray National Alliance for Accelerated Advancement (Nafaa) leader, Ousainou Allen, has said the “last minute” rush of laying foundation stones and inaugurating projects” by President Adama Barrow “will not fool” Gambians in the December 2026 election. Addressing a ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/nafaa-leader-says-barrows-last-minute-projects-will-not-fool-gambians/",
+      "publishedAt": "2026-09-28T09:09:05.000Z",
+      "collectedAt": "2026-09-28T13:35:00.035Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "433420284d93b75e",
       "title": "Barrow Renews Call for Darboe to Join Alliance, Says He Wants Unopposed Election",
       "summary": "By Makutu Manneh President Adama Barrow on Sunday renewed his appeal to United Democratic Party leader Ousainu Darboe to join his political alliance, saying such a move would allow him to run unopposed in The Gambia’s December presidential election and spare the country the co...",
@@ -374,7 +446,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-28T05:00:01.253Z",
+      "collectedAt": "2026-09-28T13:38:08.406Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -390,7 +462,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-28T05:00:06.316Z",
-    "count": 16
+    "generatedAt": "2026-09-28T13:38:13.896Z",
+    "count": 19
   }
 }
