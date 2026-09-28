@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "98f9a873dc4f008b",
+      "title": "Barrow Welcomes Essa Faal Into Ruling Alliance, Declares December Election ‘Already Won’",
+      "summary": "By Makutu Manneh President Adama Barrow on Sunday formally welcomed Essa Mbye Faal, the leader of APP-Sobeyaa and one of his former political critics, into the governing National People’s Party-led alliance, declaring that the new partnership had strengthened his confidence ah...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-welcomes-essa-faal-into-ruling-alliance-declares-december-election-already-won/",
+      "publishedAt": "2026-09-27T23:11:49.000Z",
+      "collectedAt": "2026-09-28T05:00:02.261Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "433420284d93b75e",
+      "title": "Barrow Renews Call for Darboe to Join Alliance, Says He Wants Unopposed Election",
+      "summary": "By Makutu Manneh President Adama Barrow on Sunday renewed his appeal to United Democratic Party leader Ousainu Darboe to join his political alliance, saying such a move would allow him to run unopposed in The Gambia’s December presidential election and spare the country the co...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-renews-call-for-darboe-to-join-alliance-says-he-wants-unopposed-election/",
+      "publishedAt": "2026-09-27T23:06:56.000Z",
+      "collectedAt": "2026-09-28T05:00:02.261Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f6052834726824ec",
+      "title": "Faal Says Criticism of Barrow Was Political, Not Personal, as He Joins NPP Alliance",
+      "summary": "By Makutu Manneh Essa Mbye Faal, the leader of APP-Sobeyaa, said Sunday that his past criticism of President Adama Barrow was rooted in his responsibilities as an opposition politician, not in personal animosity toward the president. Speaking at State House during a ceremony f...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/faal-says-criticism-of-barrow-was-political-not-personal-as-he-joins-npp-alliance/",
+      "publishedAt": "2026-09-27T22:58:57.000Z",
+      "collectedAt": "2026-09-28T05:00:02.261Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "86abfe4c2a63335e",
       "title": "Essa Faal Denies Seeking Position or Receiving $10 Million to Join NPP Alliance",
       "summary": "By Makutu Manneh Essa Mbye Faal, the leader of APP-Sobeyaa, on Sunday denied claims that he sought a government position or received $10 million in exchange for joining President Adama Barrow’s National People’s Party-led alliance, saying his decision was motivated by what he ...",
@@ -217,7 +287,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T22:56:59.926Z",
-    "count": 9
+    "generatedAt": "2026-09-28T05:00:06.316Z",
+    "count": 12
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "98f9a873dc4f008b",
+      "title": "Barrow Welcomes Essa Faal Into Ruling Alliance, Declares December Election ‘Already Won’",
+      "summary": "By Makutu Manneh President Adama Barrow on Sunday formally welcomed Essa Mbye Faal, the leader of APP-Sobeyaa and one of his former political critics, into the governing National People’s Party-led alliance, declaring that the new partnership had strengthened his confidence ah...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-welcomes-essa-faal-into-ruling-alliance-declares-december-election-already-won/",
+      "publishedAt": "2026-09-27T23:11:49.000Z",
+      "collectedAt": "2026-09-28T05:00:02.261Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "187bab8cce3bc6a9",
       "title": "Prof. Gomez Unveils Plan to Expand Professional Career Pathways for Madrassa Graduates",
       "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has outlined a government plan to broaden educational and career opportunities for madrassa graduates by giving them greater access to professional fields traditionally...",
@@ -467,7 +490,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-27T22:56:37.108Z",
+      "collectedAt": "2026-09-28T05:00:01.253Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -488,7 +511,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-27T22:56:37.108Z",
+      "collectedAt": "2026-09-28T05:00:01.253Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -502,7 +525,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-27T22:56:59.926Z",
-    "count": 22
+    "generatedAt": "2026-09-28T05:00:06.316Z",
+    "count": 23
   }
 }
