@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "75fcaf31d4d80788",
+      "title": "Dr. Omar Sambou Says Barrow Will Lose Despite Large Rally Crowds",
+      "summary": "By Seedy Jobe Prominent Gambian environmental scientist, academic, and activist Dr. Omar Malmo Sambou has argued that President Adama Barrow will lose the December presidential election, dismissing large crowds at the president’s rallies and a growing number of opposition figu...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-omar-sambou-says-barrow-will-lose-despite-large-rally-crowds/",
+      "publishedAt": "2026-09-29T00:06:38.000Z",
+      "collectedAt": "2026-09-29T01:44:32.564Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3a0983f47445451e",
+      "title": "GMP Joins NPP Alliance Hours After Withdrawing From Coalition 2026",
+      "summary": "By Seedy Jobe The leader of the Gambia Movement for Progress (GMP), Professor Sidat Yaffa, announced on Monday that his party had joined an alliance with the ruling National People’s Party (NPP), hours after withdrawing from Coalition 2026. Professor Yaffa announced the decisi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gmp-joins-npp-alliance-hours-after-withdrawing-from-coalition-2026/",
+      "publishedAt": "2026-09-29T00:00:29.000Z",
+      "collectedAt": "2026-09-29T01:44:32.564Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f73fc6dc64130263",
       "title": "Gambia Immigration Arrests Suspected Smuggler, Intercepts 11 ‘Backway’ Migrants in Tanji",
       "summary": "By Makutu Manneh The Gambia Immigration Department has arrested a man suspected of facilitating irregular migration and intercepted 11 people allegedly preparing to embark on a “backway” journey, the department said. The operation was carried out on Friday, Sept. 26, by office...",
@@ -413,58 +459,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f9bf39ea082e80c8",
-      "title": "WHAT IS THE PLAN OF THE REPARATIONS COMMISSION TO COMPENSATE THE VICTIMS OF THE YAHYA JAMMEH ERA?",
-      "summary": "According to the Estimates of revenue and expenditure for the year 2027, 13.29 million dalasi has been allocated to the Reparations Commission. The victims of human rights violation during the Yahya Jammeh era have waited for long for compensation and some have even passed awa...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-is-the-plan-of-the-reparations-commission-to-compensate-the-victims-of-the-yahya-jammeh-era/",
-      "publishedAt": "2026-09-28T10:12:43.000Z",
-      "collectedAt": "2026-09-28T20:29:54.156Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cc32ef5cf8e5dad2",
-      "title": "FAAL SAYS BARROW’S VICTORY ASSURED AS PARTIES TIE ALLIANCE",
-      "summary": "By Arret Jatta Essa Faal has declared that President Adama Barrow has already won the December presidential election, as he formally joined the grand coalition with the National People’s Party (NPP). Faal made the declaration during the formalisation of the alliance between hi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/faal-says-barrows-victory-assured-as-parties-tie-alliance/",
-      "publishedAt": "2026-09-28T09:12:26.000Z",
-      "collectedAt": "2026-09-28T13:35:00.035Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-28T20:30:02.281Z",
+    "generatedAt": "2026-09-29T01:44:36.629Z",
     "count": 20
   }
 }

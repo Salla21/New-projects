@@ -116,34 +116,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "17b1b1e91e24bda3",
-      "title": "Disability Symposium: Nothing About Us Without Us: Building an Inclusive Gambia",
-      "summary": "Event Funder: European Union Event Organisers: The Governor’s Office in North Bank Region, STAND: We Walk Together This symposium is part of a 3 year EU funded program being delivered by STAND: We Walk Together (formerly Legs4Africa), The Ladies Empowered for Growth and Succes...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/disability-symposium-nothing-about-us-without-us-building-an-inclusive-gambia/",
-      "publishedAt": "2026-09-23T10:25:54.000Z",
-      "collectedAt": "2026-09-23T11:18:25.418Z",
-      "region": "north-bank",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-28T20:30:02.281Z",
-    "count": 6
+    "generatedAt": "2026-09-29T01:44:36.629Z",
+    "count": 5
   }
 }

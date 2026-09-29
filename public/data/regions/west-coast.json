@@ -188,29 +188,6 @@
       "status": "published"
     },
     {
-      "id": "71a88f65b90dff09",
-      "title": "Gambia Navy seeks surveillance equipment, fuel and communications support at Tanji",
-      "summary": "By Assan Bah The Gambia Navy has asked for more coastal surveillance equipment, boats, reliable fuel supplies and improved communications systems to strengthen maritime security along the country’s southern coastline. The request was made during a visit by the Chief of Defence...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-navy-seeks-surveillance-equipment-fuel-and-communications-support-at-tanji/",
-      "publishedAt": "2026-09-23T12:25:23.000Z",
-      "collectedAt": "2026-09-24T13:29:25.485Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -219,7 +196,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-09-28T20:29:54.305Z",
+      "collectedAt": "2026-09-29T01:44:31.090Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -235,7 +212,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-28T20:30:02.281Z",
-    "count": 10
+    "generatedAt": "2026-09-29T01:44:36.629Z",
+    "count": 9
   }
 }

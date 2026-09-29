@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "75fcaf31d4d80788",
+      "title": "Dr. Omar Sambou Says Barrow Will Lose Despite Large Rally Crowds",
+      "summary": "By Seedy Jobe Prominent Gambian environmental scientist, academic, and activist Dr. Omar Malmo Sambou has argued that President Adama Barrow will lose the December presidential election, dismissing large crowds at the president’s rallies and a growing number of opposition figu...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-omar-sambou-says-barrow-will-lose-despite-large-rally-crowds/",
+      "publishedAt": "2026-09-29T00:06:38.000Z",
+      "collectedAt": "2026-09-29T01:44:32.564Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3a0983f47445451e",
+      "title": "GMP Joins NPP Alliance Hours After Withdrawing From Coalition 2026",
+      "summary": "By Seedy Jobe The leader of the Gambia Movement for Progress (GMP), Professor Sidat Yaffa, announced on Monday that his party had joined an alliance with the ruling National People’s Party (NPP), hours after withdrawing from Coalition 2026. Professor Yaffa announced the decisi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gmp-joins-npp-alliance-hours-after-withdrawing-from-coalition-2026/",
+      "publishedAt": "2026-09-29T00:00:29.000Z",
+      "collectedAt": "2026-09-29T01:44:32.564Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-09-29T01:44:36.629Z",
+    "count": 2
+  }
+}
