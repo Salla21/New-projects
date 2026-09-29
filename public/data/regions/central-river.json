@@ -41,36 +41,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "be7b31758cdef1f9",
-      "title": "A letter to UDP leader Ousainu Darboe",
-      "summary": "Dear Editor,I, Ebrima Jaiteh, a Gambian native of Sankulay Kunda, Lower Fulladu West District, Central River Region, currently living in the Netherlands since 2024, wish to take this opportunity to extend my sincere gratitude to Baba Ousainu Darboe and his party militants, esp...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/a-letter-to-udp-leader-ousainu-darboe/",
-      "publishedAt": "2026-09-24T09:34:24.000Z",
-      "collectedAt": "2026-09-24T13:28:31.819Z",
-      "region": "central-river",
-      "categories": [
-        "politics",
-        "business",
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T16:27:51.986Z",
-    "count": 3
+    "generatedAt": "2026-09-29T22:11:31.417Z",
+    "count": 2
   }
 }

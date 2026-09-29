@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "81179280d94a0f88",
+      "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
+      "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-launches-national-early-warning-and-response-policy-to-strengthen-crisis-prevention/",
+      "publishedAt": "2026-09-29T21:33:35.000Z",
+      "collectedAt": "2026-09-29T22:11:27.384Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c093193f79dec213",
+      "title": "Dr. Sambou Says OIC Projects Predate Barrow, Questions Scale of Government Borrowing",
+      "summary": "By Seedy Jobe Dr. Omar Malmo Sambou, a Gambian environmental scientist, academic, and activist, has challenged President Adama Barrow’s claims about his administration’s infrastructure record, arguing that Gambians will repay loans for years to come. During an interview on Ker...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-sambou-says-oic-projects-predate-barrow-questions-scale-of-government-borrowing/",
+      "publishedAt": "2026-09-29T16:27:53.000Z",
+      "collectedAt": "2026-09-29T22:11:27.384Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6c0fd96bce4cb8ba",
       "title": "Journalist-turned-politician Sulayman Waan to launch Change Front manifesto on October 2",
       "summary": "Written by: Dawda Baldeh Journalist-turned-politician Sulayman Waan is set to officially launch the Change Front political movement’s manifesto, The Salvation, on Friday, October 2, 2026, at the YMCA in Kanifing Municipality. The more than 100-page document, comprising approxi...",
@@ -366,141 +412,6 @@
       "status": "published"
     },
     {
-      "id": "c3c938554945ba24",
-      "title": "UNITE’s Ebrima Dibba Details Failed Talks With Essa Faal, Accuses Him of Prioritizing Presidential Ambition",
-      "summary": "By Makutu Manneh Ebrima Dibba, national president of the UNITE Party, has disclosed details of what he described as unsuccessful private talks with APP-Sobeyaa leader Essa Mbye Faal, accusing the former presidential candidate of putting his own political ambitions ahead of eff...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/unites-ebrima-dibba-details-failed-talks-with-essa-faal-accuses-him-of-prioritizing-presidential-ambition/",
-      "publishedAt": "2026-09-24T18:13:35.000Z",
-      "collectedAt": "2026-09-24T18:22:39.764Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c24f94514a272c55",
-      "title": "Gambia Spent D15 Billion in Six Months. Just D1 Billion Went to Capital Investment",
-      "summary": "Written by: Seringe S.T. Touray The Gambia Government spent more than D15 billion in the first six months of 2026, but almost all of it went towards running the government, paying salaries, subsidies and debt, with just D1 billion going into capital investment, which covers lo...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-spent-d15-billion-in-six-months-just-d1-billion-went-to-capital-investment/",
-      "publishedAt": "2026-09-24T13:51:16.000Z",
-      "collectedAt": "2026-09-24T18:22:37.406Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "59dfe05b7546f9cc",
-      "title": "Low Voltage Leaves Businesses Struggling Despite Power Supply Improvements",
-      "summary": "By Nelson Manneh Businesses and residents in parts of the Greater Banjul Area told Foroyaa that improvements in electricity supply in recent days have been accompanied by another problem, which is low and fluctuating voltage that is affecting their businesses and raising conce...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/low-voltage-leaves-businesses-struggling-despite-power-supply-improvements/",
-      "publishedAt": "2026-09-24T12:15:24.000Z",
-      "collectedAt": "2026-09-24T13:29:25.485Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "16a44467b520e13d",
-      "title": "Gov’t spends D5 billion on personnel emoluments in first half of 2026",
-      "summary": "By Tabora Bojang The government has spent D5,062.052 on salaries and remuneration in the first half of this year, representing an increase of 7 percent compared to what is recorded in the same period last year. This figure also corresponds to 49 percent of the amount approved ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/govt-spends-d5-billion-on-personnel-emoluments-in-first-half-of-2026/",
-      "publishedAt": "2026-09-24T09:34:01.000Z",
-      "collectedAt": "2026-09-24T13:28:31.819Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b9d14e0abc693e44",
-      "title": "Concerned Gambians petition IGP to investigate alleged sexual assaults in Kombo Berending",
-      "summary": "By Omar Bah A group of concerned Gambians has petitioned the Inspector General of Police (IGP) and the Attorney General and Minister of Justice to urgently investigate serious allegations of sexual assault in Kombo Berending. In a formal appeal submitted to the security and ju...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/concerned-gambians-petition-igp-to-investigate-alleged-sexual-assaults-in-kombo-berending/",
-      "publishedAt": "2026-09-24T09:34:00.000Z",
-      "collectedAt": "2026-09-24T13:28:31.819Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5dfb90af463a4600",
-      "title": "Spanish journalist launches book on Gambian minor who survived backway but ended up quadriplegic",
-      "summary": "By Omar Bah Gambian teenager Gibbi Jallow survived a five-day pirogue journey from Senegal to the Canary Islands at 14. The Atlantic spared him. Weeks later, a wave on a beach in Fuerteventura broke his neck against the sand and left him tetraplegic. His story is now told in ‘...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/spanish-journalist-launches-book-on-gambian-minor-who-survived-backway-but-ended-up-quadriplegic/",
-      "publishedAt": "2026-09-24T09:31:00.000Z",
-      "collectedAt": "2026-09-24T13:28:31.819Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -509,7 +420,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-29T16:27:45.651Z",
+      "collectedAt": "2026-09-29T22:11:25.860Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -530,7 +441,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/single-mothers-empowerment-association-celebrates-first-anniversary/",
       "publishedAt": "2026-09-09T04:50:48.000Z",
-      "collectedAt": "2026-09-29T16:27:45.651Z",
+      "collectedAt": "2026-09-29T22:11:25.860Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -544,7 +455,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T16:27:51.986Z",
-    "count": 24
+    "generatedAt": "2026-09-29T22:11:31.417Z",
+    "count": 20
   }
 }

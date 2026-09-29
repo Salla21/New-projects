@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "81179280d94a0f88",
+      "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
+      "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-launches-national-early-warning-and-response-policy-to-strengthen-crisis-prevention/",
+      "publishedAt": "2026-09-29T21:33:35.000Z",
+      "collectedAt": "2026-09-29T22:11:27.384Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "59e1273e58adf8ec",
+      "title": "Gambia Immigration Department Intercepts 46 Suspected Would-Be Irregular Migrants",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 46 suspected would-be irregular migrants in Batokunku, West Coast Region, as authorities continue efforts to curb dangerous sea journeys from the country. The migrants were intercepted by officers of the ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-46-suspected-would-be-irregular-migrants/",
+      "publishedAt": "2026-09-29T17:18:38.000Z",
+      "collectedAt": "2026-09-29T22:11:27.384Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "27be126ac0e09f6c",
       "title": "COALITION BUILDING PROCESS: THE DUST IS YET TO SETTLE",
       "summary": "Poverty is immense, livelihoods are lacking, unemployment is rampant and the perilous irregular migration resulting in numerous deaths is now the order of the day, the 141-billion-dalasi debt burden is telling its toll on the nation as over 16 billion dalasi is sought to be al...",
@@ -340,56 +386,6 @@
       "status": "published"
     },
     {
-      "id": "be7b31758cdef1f9",
-      "title": "A letter to UDP leader Ousainu Darboe",
-      "summary": "Dear Editor,I, Ebrima Jaiteh, a Gambian native of Sankulay Kunda, Lower Fulladu West District, Central River Region, currently living in the Netherlands since 2024, wish to take this opportunity to extend my sincere gratitude to Baba Ousainu Darboe and his party militants, esp...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/a-letter-to-udp-leader-ousainu-darboe/",
-      "publishedAt": "2026-09-24T09:34:24.000Z",
-      "collectedAt": "2026-09-24T13:28:31.819Z",
-      "region": "central-river",
-      "categories": [
-        "politics",
-        "business",
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e51408f31f93f74f",
-      "title": "Three sons of UDP, one test for Gambia’s democracy",
-      "summary": "The December 5 presidential election is shaping into a unique Gambian contest. Three leading contenders —Ousainu Darboe, Adama Barrow and Talib Ahmed Bensouda are all products of the United Democratic Party (UDP). Darboe is the founder and presidential candidate of the UDP. Ba...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/three-sons-of-udp-one-test-for-gambias-democracy/",
-      "publishedAt": "2026-09-24T09:34:21.000Z",
-      "collectedAt": "2026-09-24T13:28:31.819Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -398,7 +394,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-29T16:27:45.651Z",
+      "collectedAt": "2026-09-29T22:11:25.860Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -414,7 +410,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T16:27:51.986Z",
+    "generatedAt": "2026-09-29T22:11:31.417Z",
     "count": 17
   }
 }

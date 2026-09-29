@@ -95,99 +95,6 @@
       "status": "published"
     },
     {
-      "id": "16815be3a4c616b7",
-      "title": "UDP’s Lamin Manneh Says Faal, Kandeh and Ceesay Fell Victim to ‘Popularity Delusion’",
-      "summary": "By Seedy Jobe Lamin Manneh, a prominent member of the United Democratic Party, has argued that the political trajectories of Gambia Democratic Congress leader Mama Kandeh, Citizens’ Alliance leader Dr. Ismaila Ceesay and APP-SOBEYAA leader Essa Faal were shaped by what he desc...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-says-faal-kandeh-and-ceesay-fell-victim-to-popularity-delusion/",
-      "publishedAt": "2026-09-24T18:30:15.000Z",
-      "collectedAt": "2026-09-24T23:09:11.451Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "eb579f44713c0091",
-      "title": "70-Year-Old Man arraigned over alleged cutting of cashew trees in Sanyang village",
-      "summary": "By Louise Jobe A man aged over 70 has appeared before the Brikama Magistrates’ Court over allegations that he unlawfully cut down cashew trees belonging to Louis G. Mendy at Sanyang village in the West Coast Region. The accused, Dembo Bojang, appeared before Magistrate Kanjura...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/70-year-old-man-arraigned-over-alleged-cutting-of-cashew-trees-in-sanyang-village/",
-      "publishedAt": "2026-09-24T12:20:53.000Z",
-      "collectedAt": "2026-09-24T13:29:25.485Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "dcbfceda9816a17d",
-      "title": "Magistrate Phatey Dismisses UDP Agent Nyimanding Fofana’s Challenge to Saikou Touray’s Voter Registration",
-      "summary": "By Yankuba Jallow The Brikama Revising Court has dismissed an objection challenging the voter registration of Saikou Touray in the Kombo East Constituency, ruling that the objector failed to prove that Mr Touray was not a Gambian citizen or that he was not born or resident in ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/magistrate-phatey-dismisses-udp-agent-nyimanding-fofanas-challenge-to-saikou-tourays-voter-registration/",
-      "publishedAt": "2026-09-24T12:10:55.000Z",
-      "collectedAt": "2026-09-24T13:29:25.485Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8db0bf401108657c",
-      "title": "Chief Magistrate Phatey Dismisses Nyimanding Fofana’s Voter Registration Case Against Amie Preira",
-      "summary": "Louis Jobe The Brikama Revising Court has dismissed an objection against the registration of Amie Preira as a voter in the Kombo East Constituency, ruling that the objector failed to prove that she was not a Gambian citizen or that she was not born or resident in the constitue...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/chief-magistrate-phatey-dismisses-nyimanding-fofanas-voter-registration-case-against-amie-preira/",
-      "publishedAt": "2026-09-24T12:05:52.000Z",
-      "collectedAt": "2026-09-24T13:29:25.485Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -196,7 +103,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-09-29T16:27:45.651Z",
+      "collectedAt": "2026-09-29T22:11:25.860Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -212,7 +119,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T16:27:51.986Z",
-    "count": 9
+    "generatedAt": "2026-09-29T22:11:31.417Z",
+    "count": 5
   }
 }

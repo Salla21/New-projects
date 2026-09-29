@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "737b2ea8773115b8",
+      "title": "Kanifing Court Sentences Repeat Offender to Six Years for Pipeline Housebreaking",
+      "summary": "A magistrate’s court on Tuesday sentenced Momodou Bah to six years in prison for breaking into a home in Pipeline and stealing property valued at more than D63,000, citing his two previous convictions for similar offenses as a significant aggravating factor. Principal Magistra...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kanifing-court-sentences-repeat-offender-to-six-years-for-pipeline-housebreaking/",
+      "publishedAt": "2026-09-29T17:36:23.000Z",
+      "collectedAt": "2026-09-29T22:11:27.384Z",
+      "region": "kanifing",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "17fb96dfd70b3d03",
       "title": "IEC Officer Testifies Over Disputed Alkalo Attestation in Bundung Revising Court Case",
       "summary": "By Mariama Marong An officer of the Independent Electoral Commission (IEC) has testified before the Brusubi Revising Court in a case involving an attestation submitted during the voter registration process by Maram Sallah, the objectee. The case was brought by Abdul Karim Dram...",
@@ -112,33 +135,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c299b76b64bf9a07",
-      "title": "Kanifing Revising Court hears testimony over alleged fake birth certificates",
-      "summary": "By Mariama Marong The Kanifing Revising Court on Wednesday heard testimony in two separate voter-registration cases involving allegations that birth certificates presented during the registration exercise were not genuine. The cases were heard before Magistrate Isatou Jallow. ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/kanifing-revising-court-hears-testimony-over-alleged-fake-birth-certificates/",
-      "publishedAt": "2026-09-24T12:03:50.000Z",
-      "collectedAt": "2026-09-24T13:29:25.485Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T16:27:51.986Z",
+    "generatedAt": "2026-09-29T22:11:31.417Z",
     "count": 6
   }
 }
