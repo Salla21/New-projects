@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "17fb96dfd70b3d03",
+      "title": "IEC Officer Testifies Over Disputed Alkalo Attestation in Bundung Revising Court Case",
+      "summary": "By Mariama Marong An officer of the Independent Electoral Commission (IEC) has testified before the Brusubi Revising Court in a case involving an attestation submitted during the voter registration process by Maram Sallah, the objectee. The case was brought by Abdul Karim Dram...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-officer-testifies-over-disputed-alkalo-attestation-in-bundung-revising-court-case/",
+      "publishedAt": "2026-09-29T14:23:23.000Z",
+      "collectedAt": "2026-09-29T16:27:45.418Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6c0fd96bce4cb8ba",
+      "title": "Journalist-turned-politician Sulayman Waan to launch Change Front manifesto on October 2",
+      "summary": "Written by: Dawda Baldeh Journalist-turned-politician Sulayman Waan is set to officially launch the Change Front political movement’s manifesto, The Salvation, on Friday, October 2, 2026, at the YMCA in Kanifing Municipality. The more than 100-page document, comprising approxi...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
+      "publishedAt": "2026-09-29T11:30:50.000Z",
+      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0e9bbf8971d0f6c3",
       "title": "Overnight Downpour Floods Streets in Tallinding Koloban",
       "summary": "By Nelson Manneh An overnight downpour has flooded several streets in Tallinding Koloban, leaving residents trapped in their homes and disrupting movement in the area on Thursday morning. A visit to the area found several streets and major walkways submerged in rainwater, leav...",
@@ -94,7 +138,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T08:18:32.069Z",
-    "count": 4
+    "generatedAt": "2026-09-29T16:27:51.986Z",
+    "count": 6
   }
 }

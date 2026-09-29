@@ -1,6 +1,119 @@
 {
   "items": [
     {
+      "id": "df52bd815fd4673f",
+      "title": "GCCPC Deepens Global Competition Cooperation with Türkiye Through Strategic MoU",
+      "summary": "The Gambia Competition and Consumer Protection Commission (GCCPC) has strengthened its international cooperation in competition regulation with the signing of a strategic Memorandum of Understanding (MoU) with the Turkish Competition Authority, opening new opportunities for sp...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
+      "publishedAt": "2026-09-29T16:09:55.000Z",
+      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "cd1327b7dc414022",
+      "title": "Spotlight: The Nurse Taking Her Fight for Girls Beyond the Hospital",
+      "summary": "Written by: Dawda Baldeh For Aminata Maimuna Baldeh, nursing is more than a profession. It is a calling to serve humanity. From the demanding environment of a hospital, where she cares for patients and helps them through illness and recovery, to community platforms where she s...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
+      "publishedAt": "2026-09-29T13:23:20.000Z",
+      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "736cad035a7383df",
+      "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
+      "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
+      "publishedAt": "2026-09-29T13:04:20.000Z",
+      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6c0fd96bce4cb8ba",
+      "title": "Journalist-turned-politician Sulayman Waan to launch Change Front manifesto on October 2",
+      "summary": "Written by: Dawda Baldeh Journalist-turned-politician Sulayman Waan is set to officially launch the Change Front political movement’s manifesto, The Salvation, on Friday, October 2, 2026, at the YMCA in Kanifing Municipality. The more than 100-page document, comprising approxi...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
+      "publishedAt": "2026-09-29T11:30:50.000Z",
+      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "85d72ac349f01b0a",
+      "title": "ANALYSIS: As Alliances Grow, Cracks Are Opening on Both Sides of Gambia’s Political Divide",
+      "summary": "Written by: Seringe S.T. Touray With barely two months to The Gambia’s December 5th presidential election, the country’s rapidly changing alliance politics is producing an intriguing paradox: political camps are gaining new allies while losing some of their own people. Coaliti...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/analysis-as-alliances-grow-cracks-are-opening-on-both-sides-of-gambias-political-divide/",
+      "publishedAt": "2026-09-29T11:03:52.000Z",
+      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "191bff8152a9318b",
       "title": "Air Sénégal Cabin Crew Suspended as Interpol Reportedly Investigates Suspected Trafficking Network",
       "summary": "Published by: The Fatu Network Air Sénégal has suspended Senegalese cabin crew assigned to its Dakar–Paris route as reports emerge of an international investigation into suspected trafficking involving some members of the airline’s commercial flight crew. Senegalese newspaper ...",
@@ -329,7 +442,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T08:18:32.069Z",
-    "count": 14
+    "generatedAt": "2026-09-29T16:27:51.986Z",
+    "count": 19
   }
 }

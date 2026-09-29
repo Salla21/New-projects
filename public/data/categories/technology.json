@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "736cad035a7383df",
+      "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
+      "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
+      "publishedAt": "2026-09-29T13:04:20.000Z",
+      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "39d7d4ec21fab53f",
+      "title": "UDP slams predictions of a Barrow win as a fallacy",
+      "summary": "The youth leader of the opposition United Democratic Party Haji Suwaneh  has said any prediction by pollsters or analysts  local, or international, for a Barrow victory in the December 5 election is just mere fallacy, ‘because it will not  happen’. He was reacting to a recent ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/udp-slams-predictions-of-a-barrow-win-as-a-fallacy/",
+      "publishedAt": "2026-09-29T09:41:07.000Z",
+      "collectedAt": "2026-09-29T16:27:01.092Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c7e194712000c004",
       "title": "Gambia Validates New Science, Technology Policy After Setback in Previous Ones",
       "summary": "By Ndey Sowe The Gambia has begun the validation of a new National Science, Technology and Innovation Policy (NSTIP) 2027–2035, alongside a proposed Science, Technology and Innovation Bill which aims to strengthen the legal and institutional framework for research and innovati...",
@@ -365,7 +414,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T08:18:32.069Z",
-    "count": 15
+    "generatedAt": "2026-09-29T16:27:51.986Z",
+    "count": 17
   }
 }

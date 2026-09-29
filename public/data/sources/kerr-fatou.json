@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "294f0b14a341e911",
+      "title": "MoBSE to Introduce Teaching in Seven National Languages This Academic Year",
+      "summary": "By Makutu Manneh The Ministry of Basic and Secondary Education (MoBSE) has announced plans to introduce instruction in seven national languages in public schools across The Gambia beginning this academic year, as part of an effort to strengthen foundational learning among youn...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mobse-to-introduce-teaching-in-seven-national-languages-this-academic-year/",
+      "publishedAt": "2026-09-29T16:11:04.000Z",
+      "collectedAt": "2026-09-29T16:27:47.935Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "75fcaf31d4d80788",
       "title": "Dr. Omar Sambou Says Barrow Will Lose Despite Large Rally Crowds",
       "summary": "By Seedy Jobe Prominent Gambian environmental scientist, academic, and activist Dr. Omar Malmo Sambou has argued that President Adama Barrow will lose the December presidential election, dismissing large crowds at the president’s rallies and a growing number of opposition figu...",
@@ -698,7 +719,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T08:18:32.069Z",
-    "count": 30
+    "generatedAt": "2026-09-29T16:27:51.986Z",
+    "count": 31
   }
 }

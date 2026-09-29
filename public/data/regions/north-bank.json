@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "e84f23784678f131",
+      "title": "EFSCRJ condemns ‘NPP rally’s divisive rhetoric’",
+      "summary": "The EFSCRJ Election Watch has condemned remarks made by Minister of Local Governments and Lands Hamat Bah at President Adama Barrow’s rally in Farafenni. In a statement issued on 28th September 2026, EFSCRJ Election Watch said it is “deeply concerned by remarks made by Ministe...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/efscrj-condemns-npp-rallys-divisive-rhetoric/",
+      "publishedAt": "2026-09-29T09:38:27.000Z",
+      "collectedAt": "2026-09-29T16:27:01.092Z",
+      "region": "north-bank",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "edc121236d31609d",
       "title": "UDP Hits Back at Hamat Bah Over Farafenni Remarks, Accuses NPP of Using Ethnic Fear",
       "summary": "Published by: The Fatu Network The United Democratic Party has hit back at Lands and Religious Affairs Minister Hamat Bah over his controversial Farafenni remarks, accusing him and other NPP figures of using ethnic and nationality-based fear as the December election approaches...",
@@ -119,7 +142,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T08:18:32.069Z",
-    "count": 5
+    "generatedAt": "2026-09-29T16:27:51.986Z",
+    "count": 6
   }
 }

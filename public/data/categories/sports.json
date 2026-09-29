@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "736cad035a7383df",
+      "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
+      "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
+      "publishedAt": "2026-09-29T13:04:20.000Z",
+      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe ST Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "689589a3cd62274a",
+      "title": "Making excuses for our family and friends",
+      "summary": "Dear Editor,Some of us are truly inventive when making excuses for our family members, friends, and colleagues. The average person in this colonial space can sound principled, honest, and rational until a family member, friend, colleague, or political ally comes under public s...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/making-excuses-for-our-family-and-friends/",
+      "publishedAt": "2026-09-29T09:37:58.000Z",
+      "collectedAt": "2026-09-29T16:27:01.092Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "aeb5538d0163bf6d",
       "title": "Reug Reug Arrested With Crates of Alleged Fake Dollar Notes in Dakar",
       "summary": "Written by: Seringe S.T. Touray Senegalese wrestling and MMA star Oumar Kane, popularly known as “Reug Reug,” was arrested in Dakar on Thursday after gendarmes investigating an alleged counterfeit money operation reportedly caught him with crates of so-called “black money” not...",
@@ -33,7 +81,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-09-29T08:18:26.588Z",
+      "collectedAt": "2026-09-29T16:27:45.651Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -49,7 +97,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T08:18:32.069Z",
-    "count": 2
+    "generatedAt": "2026-09-29T16:27:51.986Z",
+    "count": 4
   }
 }

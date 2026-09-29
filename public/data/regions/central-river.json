@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "e7935c078d49a301",
+      "title": "Government Signs $14M Contract to Extend Electricity to 241 Communities in CRR, URR",
+      "summary": "By Assan Bah  The Government of The Gambia, through the National Water and Electricity Company (NAWEC), on Friday, 25 September 2026, signed a $14 million contract under the Additional Rural Electrification Project to extend electricity to 241 communities in Central River Regi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-signs-14m-contract-to-extend-electricity-to-241-communities-in-crr-urr/",
+      "publishedAt": "2026-09-29T14:38:41.000Z",
+      "collectedAt": "2026-09-29T16:27:45.418Z",
+      "region": "central-river",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4d24a55cf39c5ca1",
       "title": "NAWEC Signs $14.2 Million Deal to Electrify 241 Communities in URR and CRR",
       "summary": "By Makutu Manneh The Gambian government, through the National Water and Electricity Company, has signed contracts worth about $14.2 million to bring electricity to 241 communities in the Upper River and Central River regions, part of a broader effort to expand power access acr...",
@@ -49,7 +70,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T08:18:32.069Z",
-    "count": 2
+    "generatedAt": "2026-09-29T16:27:51.986Z",
+    "count": 3
   }
 }
