@@ -1581,30 +1581,6 @@
       "status": "published"
     },
     {
-      "id": "0df46447723e9b4c",
-      "title": "Faal to Join Barrow’s Coalition; Talks Reportedly Covered Land Allocation, Diplomatic Posts for Associates",
-      "summary": "By Fatou Touray Essa Mbye Faal, one of President Adama Barrow’s most outspoken critics, will join forces with the president and his National People’s Party ahead of the December presidential election, according to a press release announcing the alliance. The agreement represen...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/faal-to-join-barrows-coalition-talks-reportedly-covered-land-allocation-diplomatic-posts-for-associates/",
-      "publishedAt": "2026-09-24T08:31:40.000Z",
-      "collectedAt": "2026-09-24T13:29:27.508Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94699c563aec97ca",
       "title": "Will TikTok Endorsements Sway the Presidential Election?",
       "summary": "As The Gambia prepares to go to the polls on December 5 to elect a president,…\nThe post Will TikTok Endorsements Sway the Presidential Election? appeared first on What's On Gambia.",
@@ -1613,7 +1589,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-29T01:44:31.090Z",
+      "collectedAt": "2026-09-29T08:18:26.588Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1629,7 +1605,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T01:44:36.629Z",
-    "count": 69
+    "generatedAt": "2026-09-29T08:18:32.069Z",
+    "count": 68
   }
 }

@@ -1,27 +1,6 @@
 {
   "items": [
     {
-      "id": "e07fa39388a6df8e",
-      "title": "Kanifing Magistrate Orders Ferreh Lulu Properties to Pay D830,000 in Land Dispute",
-      "summary": "A magistrate in Kanifing has ordered Ferreh Lulu Properties to pay D830,000 to Marabi Salam Camara after finding that the company failed to provide land he had paid for in full. Magistrate B. Sowe delivered the ruling at the Kanifing Magistrates’ Court. Mr. Camara appeared thr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/kanifing-magistrate-orders-ferreh-lulu-properties-to-pay-d830000-in-land-dispute/",
-      "publishedAt": "2026-09-23T23:29:41.000Z",
-      "collectedAt": "2026-09-24T00:22:11.406Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "64c6b61254251b51",
       "title": "Hajia Gambia Has Fans Losing Their Minds Over Her Latest Instagram Photos",
       "summary": "Social media sensation Hajia Gambia has once again got fans talking after sharing a series of…\nThe post Hajia Gambia Has Fans Losing Their Minds Over Her Latest Instagram Photos appeared first on What's On Gambia.",
@@ -30,7 +9,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/hajia-gambia-has-fans-losing-their-minds-over-her-latest-instagram-photos/",
       "publishedAt": "2026-09-23T04:06:17.000Z",
-      "collectedAt": "2026-09-29T01:44:31.090Z",
+      "collectedAt": "2026-09-29T08:18:26.588Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -51,7 +30,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-09-29T01:44:31.090Z",
+      "collectedAt": "2026-09-29T08:18:26.588Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -74,7 +53,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/meet-gambias-tiktok-powerhouses-the-10-creators-dominating-the-platform/",
       "publishedAt": "2026-09-23T04:00:57.000Z",
-      "collectedAt": "2026-09-29T01:44:31.090Z",
+      "collectedAt": "2026-09-29T08:18:26.588Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -88,7 +67,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T01:44:36.629Z",
-    "count": 4
+    "generatedAt": "2026-09-29T08:18:32.069Z",
+    "count": 3
   }
 }
