@@ -92,57 +92,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "18a913139dcb4584",
-      "title": "Barrow Rejects Claims of Hunger in Gambia, Pledges Continued Development",
-      "summary": "By Makutu Manneh President Adama Barrow has rejected assertions that hunger remains a significant problem in The Gambia, dismissing remarks by an unnamed political rival who has pledged to eradicate hunger in the country. Speaking at a political rally in Farafenni on Saturday,...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-rejects-claims-of-hunger-in-gambia-pledges-continued-development/",
-      "publishedAt": "2026-09-27T16:38:02.000Z",
-      "collectedAt": "2026-09-27T18:17:18.022Z",
-      "region": "north-bank",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ef6711b325d523b4",
-      "title": "Barrow Ties Completion of North Bank Projects to December Election Outcome",
-      "summary": "By Makutu Manneh President Adama Barrow told supporters in Farafenni on Saturday that the completion of major infrastructure projects planned for the North Bank Region would depend on voters returning him to office in the Dec. 5 presidential election. Speaking at a rally organ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-ties-completion-of-north-bank-projects-to-december-election-outcome/",
-      "publishedAt": "2026-09-27T16:26:28.000Z",
-      "collectedAt": "2026-09-27T18:17:18.022Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T19:03:41.175Z",
-    "count": 6
+    "generatedAt": "2026-09-30T23:41:42.505Z",
+    "count": 4
   }
 }

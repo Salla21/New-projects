@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d0c83cdd8672db8e",
+      "title": "NAWEC Says Electricity Supply Is Improving as Regional Imports and Local Generation Recover",
+      "summary": "By Seedy Jobe Officials of the National Water and Electricity Company said Wednesday that electricity supply has improved significantly in the Greater Banjul Area and across The Gambia, following weeks of disruptions caused by problems with domestic generators and regional pow...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-says-electricity-supply-is-improving-as-regional-imports-and-local-generation-recover/",
+      "publishedAt": "2026-09-30T19:38:45.000Z",
+      "collectedAt": "2026-09-30T23:41:38.356Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "66d37f2c31f1787b",
+      "title": "Gambia Immigration Department Intercepts 101 Suspected ‘Backway’ Migrants in Mandinaba",
+      "summary": "By Makutu Manneh The Gambia Immigration Department said it intercepted 101 people suspected of attempting to migrate irregularly through the country’s perilous “backway” route during an operation in Mandinaba on Tuesday, Sept. 29. The operation, carried out by officers from th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-101-suspected-backway-migrants-in-mandinaba/",
+      "publishedAt": "2026-09-30T19:16:21.000Z",
+      "collectedAt": "2026-09-30T23:41:38.356Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "07e4ce4d0a691cee",
       "title": "Agriculture Ministry Signs $13.93 Million in Contracts to Expand Rice Production in URR",
       "summary": "By Makutu Manneh The Ministry of Agriculture, Livestock, and Food Security has signed contracts worth $13.93 million to expand irrigation infrastructure and rice production in six communities in the Upper River Region as part of a broader effort to strengthen food security in ...",
@@ -2256,56 +2302,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "86abfe4c2a63335e",
-      "title": "Essa Faal Denies Seeking Position or Receiving $10 Million to Join NPP Alliance",
-      "summary": "By Makutu Manneh Essa Mbye Faal, the leader of APP-Sobeyaa, on Sunday denied claims that he sought a government position or received $10 million in exchange for joining President Adama Barrow’s National People’s Party-led alliance, saying his decision was motivated by what he ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/essa-faal-denies-seeking-position-or-receiving-10-million-to-join-npp-alliance/",
-      "publishedAt": "2026-09-27T22:49:10.000Z",
-      "collectedAt": "2026-09-27T22:56:55.893Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1d48916ca5d8b57a",
-      "title": "Essa Faal: December Election Is ‘Dead and Buried,’ Barrow Has Already Won",
-      "summary": "By Makutu Manneh Essa Mbye Faal, the leader of APP-Sobeyaa, said Sunday that he considered the December presidential election effectively over and declared President Adama Barrow the winner, as he formally joined the governing National People’s Party-led alliance. Speaking at ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/essa-faal-december-election-is-dead-and-buried-barrow-has-already-won/",
-      "publishedAt": "2026-09-27T22:42:25.000Z",
-      "collectedAt": "2026-09-27T22:56:55.893Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T19:03:41.175Z",
+    "generatedAt": "2026-09-30T23:41:42.505Z",
     "count": 100
   }
 }

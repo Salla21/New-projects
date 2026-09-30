@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d0c83cdd8672db8e",
+      "title": "NAWEC Says Electricity Supply Is Improving as Regional Imports and Local Generation Recover",
+      "summary": "By Seedy Jobe Officials of the National Water and Electricity Company said Wednesday that electricity supply has improved significantly in the Greater Banjul Area and across The Gambia, following weeks of disruptions caused by problems with domestic generators and regional pow...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-says-electricity-supply-is-improving-as-regional-imports-and-local-generation-recover/",
+      "publishedAt": "2026-09-30T19:38:45.000Z",
+      "collectedAt": "2026-09-30T23:41:38.356Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "66d37f2c31f1787b",
+      "title": "Gambia Immigration Department Intercepts 101 Suspected ‘Backway’ Migrants in Mandinaba",
+      "summary": "By Makutu Manneh The Gambia Immigration Department said it intercepted 101 people suspected of attempting to migrate irregularly through the country’s perilous “backway” route during an operation in Mandinaba on Tuesday, Sept. 29. The operation, carried out by officers from th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-101-suspected-backway-migrants-in-mandinaba/",
+      "publishedAt": "2026-09-30T19:16:21.000Z",
+      "collectedAt": "2026-09-30T23:41:38.356Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "07e4ce4d0a691cee",
       "title": "Agriculture Ministry Signs $13.93 Million in Contracts to Expand Rice Production in URR",
       "summary": "By Makutu Manneh The Ministry of Agriculture, Livestock, and Food Security has signed contracts worth $13.93 million to expand irrigation infrastructure and rice production in six communities in the Upper River Region as part of a broader effort to strengthen food security in ...",
@@ -410,58 +456,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fb1a1fb55152b1c9",
-      "title": "Gambian jailed for life in UK for murder of Sudanese refugee",
-      "summary": "By Omar Bah A 24-year-old Gambian man has been jailed for life for the murder of a Sudanese refugee who fled civil war to seek safety in Britain. According to court documents seen by The Standard, Abdou Sillah stabbed Kiirpal Nhian, 29, to death in a Birmingham HMO, inflicting...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambian-jailed-for-life-in-uk-for-murder-of-sudanese-refugee/",
-      "publishedAt": "2026-09-30T10:12:25.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2235ec0f4e83bbbd",
-      "title": "Standard deputy editor attends EU’s visitors programme in Belgium",
-      "summary": "The deputy editor of The Standard Newspaper, Omar Bah, is currently in Brussels, Belgium attending the European Union Visitors Programme, EUVP, one of the EU’s most selective and influential public diplomacy initiatives. Bah’s selection places him among a small cohort of young...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/standard-deputy-editor-attends-eus-visitors-programme-in-belgium/",
-      "publishedAt": "2026-09-30T10:08:44.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T19:03:41.175Z",
+    "generatedAt": "2026-09-30T23:41:42.505Z",
     "count": 20
   }
 }

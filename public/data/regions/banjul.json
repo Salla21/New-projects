@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d0c83cdd8672db8e",
+      "title": "NAWEC Says Electricity Supply Is Improving as Regional Imports and Local Generation Recover",
+      "summary": "By Seedy Jobe Officials of the National Water and Electricity Company said Wednesday that electricity supply has improved significantly in the Greater Banjul Area and across The Gambia, following weeks of disruptions caused by problems with domestic generators and regional pow...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-says-electricity-supply-is-improving-as-regional-imports-and-local-generation-recover/",
+      "publishedAt": "2026-09-30T19:38:45.000Z",
+      "collectedAt": "2026-09-30T23:41:38.356Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "66d37f2c31f1787b",
+      "title": "Gambia Immigration Department Intercepts 101 Suspected ‘Backway’ Migrants in Mandinaba",
+      "summary": "By Makutu Manneh The Gambia Immigration Department said it intercepted 101 people suspected of attempting to migrate irregularly through the country’s perilous “backway” route during an operation in Mandinaba on Tuesday, Sept. 29. The operation, carried out by officers from th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-101-suspected-backway-migrants-in-mandinaba/",
+      "publishedAt": "2026-09-30T19:16:21.000Z",
+      "collectedAt": "2026-09-30T23:41:38.356Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "66dc6a51e2d084c3",
       "title": "Government Plans Sharp Cut in Vehicle Spending in 2027",
       "summary": "By Fatou Sillah The Gambia government plans to sharply reduce spending on official vehicles in 2027, projecting expenditures of D257.29 million, down from D852.20 million approved for 2026, as part of a broader effort to rein in public spending. The figures are contained in th...",
@@ -1847,174 +1893,6 @@
       "status": "published"
     },
     {
-      "id": "53b35cf1b38a2d63",
-      "title": "Darboe Praises UDP Diaspora’s Loyalty, Honors Late Party Pioneers",
-      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, praised the party’s diaspora chapters for three decades of loyalty and financial and organizational support, describing overseas members as an enduring pillar of the UDP since its founding. Speaking on Sa...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-praises-udp-diasporas-loyalty-honors-late-party-pioneers/",
-      "publishedAt": "2026-09-27T17:12:46.000Z",
-      "collectedAt": "2026-09-27T18:17:18.022Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c3084d8eacf1888b",
-      "title": "Darboe Rallies Diaspora Supporters, Says Barrow Is UDP’s Only Opponent",
-      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, has urged supporters to focus their efforts on defeating President Adama Barrow in the December presidential election, saying the governing party, not rival opposition groups, should be their primary poli...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-rallies-diaspora-supporters-says-barrow-is-udps-only-opponent/",
-      "publishedAt": "2026-09-27T16:58:25.000Z",
-      "collectedAt": "2026-09-27T18:17:18.022Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b1b94c302a110000",
-      "title": "Lowe Warns Against ‘Nasty’ Tribal Politics After Controversial NPP Rally Remarks",
-      "summary": "By Dawda Baldeh Rohey Malick Lowe, Mayor of the Banjul City Council, has criticised what she described as the growing use of ethnic rhetoric in Gambian politics following comments made by senior members of the ruling National People’s Party (NPP) during a rally in Farafenni. H...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/lowe-warns-against-nasty-tribal-politics-after-controversial-npp-rally-remarks/",
-      "publishedAt": "2026-09-27T11:19:04.000Z",
-      "collectedAt": "2026-09-27T13:50:51.741Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "809febe002302b72",
-      "title": "Darboe Rallies Diaspora for 2026 Push, Says ‘We Have Only One Opponent and That Is Adama Barrow’",
-      "summary": "Hadram Hydara Ousainou Darboe, leader and presidential candidate of the United Democratic Party (UDP), has urged Gambians in the diaspora to mobilise resources, influence voters and return home to support his campaign, saying that the party’s sole focus ahead of December’s pre...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-rallies-diaspora-for-2026-push-says-we-have-only-one-opponent-and-that-is-adama-barrow/",
-      "publishedAt": "2026-09-27T10:34:31.000Z",
-      "collectedAt": "2026-09-27T13:50:51.741Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1c5e2e90e35b03ca",
-      "title": "Barrow Vows to ‘Retire’ Darboe From Politics, Praises Faal for Joining His Coalition",
-      "summary": "By Makutu Manneh President Adama Barrow said Saturday that he intended to force his longtime political rival, Ousainou Darboe, into retirement at the December presidential election, while praising Essa Mbye Faal for what he described as a wise decision to join his governing co...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-vows-to-retire-darboe-from-politics-praises-faal-for-joining-his-coalition/",
-      "publishedAt": "2026-09-27T00:11:25.000Z",
-      "collectedAt": "2026-09-27T00:25:00.140Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "187bab8cce3bc6a9",
-      "title": "Prof. Gomez Unveils Plan to Expand Professional Career Pathways for Madrassa Graduates",
-      "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has outlined a government plan to broaden educational and career opportunities for madrassa graduates by giving them greater access to professional fields traditionally...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/prof-gomez-unveils-plan-to-expand-professional-career-pathways-for-madrassa-graduates/",
-      "publishedAt": "2026-09-26T21:39:50.000Z",
-      "collectedAt": "2026-09-27T00:25:00.140Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6b7be49a02a46e97",
-      "title": "Madi Jobarteh Says Lack of Character Among Political Leaders Is Hindering Gambia’s Development",
-      "summary": "By Seedy Jobe Madi Jobarteh, executive director of the Edward Francis Small Center for Rights and Justice, has argued that The Gambia’s development challenges stem not from a shortage of resources, expertise, or education but from what he described as a lack of character among...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/madi-jobarteh-says-lack-of-character-among-political-leaders-is-hindering-gambias-development/",
-      "publishedAt": "2026-09-26T17:00:50.000Z",
-      "collectedAt": "2026-09-26T17:42:43.107Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "64c6b61254251b51",
       "title": "Hajia Gambia Has Fans Losing Their Minds Over Her Latest Instagram Photos",
       "summary": "Social media sensation Hajia Gambia has once again got fans talking after sharing a series of…\nThe post Hajia Gambia Has Fans Losing Their Minds Over Her Latest Instagram Photos appeared first on What's On Gambia.",
@@ -2023,7 +1901,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/hajia-gambia-has-fans-losing-their-minds-over-her-latest-instagram-photos/",
       "publishedAt": "2026-09-23T04:06:17.000Z",
-      "collectedAt": "2026-09-30T19:03:34.621Z",
+      "collectedAt": "2026-09-30T23:41:35.448Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2044,7 +1922,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/meet-gambias-tiktok-powerhouses-the-10-creators-dominating-the-platform/",
       "publishedAt": "2026-09-23T04:00:57.000Z",
-      "collectedAt": "2026-09-30T19:03:34.621Z",
+      "collectedAt": "2026-09-30T23:41:35.448Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2065,7 +1943,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-30T19:03:34.621Z",
+      "collectedAt": "2026-09-30T23:41:35.448Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2086,7 +1964,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/my-night-was-ruined-young-man-fumes-after-discovering-expired-cond0m/",
       "publishedAt": "2026-09-16T06:26:50.000Z",
-      "collectedAt": "2026-09-30T19:03:34.621Z",
+      "collectedAt": "2026-09-30T23:41:35.448Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2107,7 +1985,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-30T19:03:34.621Z",
+      "collectedAt": "2026-09-30T23:41:35.448Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2130,7 +2008,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-30T19:03:34.621Z",
+      "collectedAt": "2026-09-30T23:41:35.448Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -2146,7 +2024,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T19:03:41.175Z",
-    "count": 93
+    "generatedAt": "2026-09-30T23:41:42.505Z",
+    "count": 88
   }
 }

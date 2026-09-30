@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "d0c83cdd8672db8e",
+      "title": "NAWEC Says Electricity Supply Is Improving as Regional Imports and Local Generation Recover",
+      "summary": "By Seedy Jobe Officials of the National Water and Electricity Company said Wednesday that electricity supply has improved significantly in the Greater Banjul Area and across The Gambia, following weeks of disruptions caused by problems with domestic generators and regional pow...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nawec-says-electricity-supply-is-improving-as-regional-imports-and-local-generation-recover/",
+      "publishedAt": "2026-09-30T19:38:45.000Z",
+      "collectedAt": "2026-09-30T23:41:38.356Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5d3ef0318d4efdeb",
       "title": "CALLS FOR DARBOE, TALIB RECONCILIATION SPARK DEBATE ON OPPOSITION UNITY",
       "summary": "By Tabora Bojang As the country approaches presidential elections in two months’ time, opposition supporters frustrated by the sharp division in the opposition and the successful poaching of key opposition  leaders by the governing NPP,  have started calls for reconciliation b...",
@@ -339,31 +362,6 @@
       "status": "published"
     },
     {
-      "id": "187bab8cce3bc6a9",
-      "title": "Prof. Gomez Unveils Plan to Expand Professional Career Pathways for Madrassa Graduates",
-      "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has outlined a government plan to broaden educational and career opportunities for madrassa graduates by giving them greater access to professional fields traditionally...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/prof-gomez-unveils-plan-to-expand-professional-career-pathways-for-madrassa-graduates/",
-      "publishedAt": "2026-09-26T21:39:50.000Z",
-      "collectedAt": "2026-09-27T00:25:00.140Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -372,7 +370,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-30T19:03:34.621Z",
+      "collectedAt": "2026-09-30T23:41:35.448Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -386,7 +384,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T19:03:41.175Z",
+    "generatedAt": "2026-09-30T23:41:42.505Z",
     "count": 17
   }
 }
