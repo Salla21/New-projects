@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "904029499a6f7ade",
+      "title": "UDP regional spokesperson reacts to Barrow over invitation to Darboe",
+      "summary": "Karamo Njie, the North Bank Region chairman of the main opposition UDP, has said President Barrow needs some advice over his now regular call for the UDP leader to join him. According to Njie before Barrow can think of such a thing, he must first realise and accept that he cam...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/udp-regional-spokesperson-reacts-to-barrow-over-invitation-to-darboe/",
+      "publishedAt": "2026-09-30T10:07:06.000Z",
+      "collectedAt": "2026-09-30T12:21:27.237Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e84f23784678f131",
       "title": "EFSCRJ condemns ‘NPP rally’s divisive rhetoric’",
       "summary": "The EFSCRJ Election Watch has condemned remarks made by Minister of Local Governments and Lands Hamat Bah at President Adama Barrow’s rally in Farafenni. In a statement issued on 28th September 2026, EFSCRJ Election Watch said it is “deeply concerned by remarks made by Ministe...",
@@ -118,7 +142,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T05:15:50.492Z",
-    "count": 5
+    "generatedAt": "2026-09-30T12:21:46.981Z",
+    "count": 6
   }
 }

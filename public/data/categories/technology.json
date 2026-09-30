@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "fec5e7aaa7f7bcac",
+      "title": "China Tells UN ‘The World Wants Peace, Not War’",
+      "summary": "By Yankuba Jallow China has called for a stronger international commitment to multilateralism, dialogue and international law, warning that the world is facing intertwined crises including geopolitical conflicts, widening development gaps and growing global challenges. Address...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/china-tells-un-the-world-wants-peace-not-war/",
+      "publishedAt": "2026-09-30T12:00:48.000Z",
+      "collectedAt": "2026-09-30T12:21:38.421Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fb1a1fb55152b1c9",
+      "title": "Gambian jailed for life in UK for murder of Sudanese refugee",
+      "summary": "By Omar Bah A 24-year-old Gambian man has been jailed for life for the murder of a Sudanese refugee who fled civil war to seek safety in Britain. According to court documents seen by The Standard, Abdou Sillah stabbed Kiirpal Nhian, 29, to death in a Birmingham HMO, inflicting...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-jailed-for-life-in-uk-for-murder-of-sudanese-refugee/",
+      "publishedAt": "2026-09-30T10:12:25.000Z",
+      "collectedAt": "2026-09-30T12:21:27.237Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "737b2ea8773115b8",
       "title": "Kanifing Court Sentences Repeat Offender to Six Years for Pipeline Housebreaking",
       "summary": "A magistrate’s court on Tuesday sentenced Momodou Bah to six years in prison for breaking into a home in Pipeline and stealing property valued at more than D63,000, citing his two previous convictions for similar offenses as a significant aggravating factor. Principal Magistra...",
@@ -336,34 +384,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "659f2339c093f54f",
-      "title": "TOP BRITISH ANALYST FIRM PREDICTS BARROW WILL WIN ELECTION BUT WITH REDUCED MARGIN",
-      "summary": "A leading British research and analysis company with over 70 years’ experience which has accurately forecast election results in The Gambia has predicted that President Adama Barrow will win the 5th December presidential election but with a significantly reduced majority. Comm...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/top-british-analyst-firm-predicts-barrow-will-win-election-but-with-reduced-margin/",
-      "publishedAt": "2026-09-25T09:20:26.000Z",
-      "collectedAt": "2026-09-25T11:38:02.467Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T05:15:50.492Z",
-    "count": 15
+    "generatedAt": "2026-09-30T12:21:46.981Z",
+    "count": 16
   }
 }

@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "fb1a1fb55152b1c9",
+      "title": "Gambian jailed for life in UK for murder of Sudanese refugee",
+      "summary": "By Omar Bah A 24-year-old Gambian man has been jailed for life for the murder of a Sudanese refugee who fled civil war to seek safety in Britain. According to court documents seen by The Standard, Abdou Sillah stabbed Kiirpal Nhian, 29, to death in a Birmingham HMO, inflicting...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gambian-jailed-for-life-in-uk-for-murder-of-sudanese-refugee/",
+      "publishedAt": "2026-09-30T10:12:25.000Z",
+      "collectedAt": "2026-09-30T12:21:27.237Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2235ec0f4e83bbbd",
+      "title": "Standard deputy editor attends EU’s visitors programme in Belgium",
+      "summary": "The deputy editor of The Standard Newspaper, Omar Bah, is currently in Brussels, Belgium attending the European Union Visitors Programme, EUVP, one of the EU’s most selective and influential public diplomacy initiatives. Bah’s selection places him among a small cohort of young...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/standard-deputy-editor-attends-eus-visitors-programme-in-belgium/",
+      "publishedAt": "2026-09-30T10:08:44.000Z",
+      "collectedAt": "2026-09-30T12:21:27.237Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3a3e7b7267127244",
       "title": "Darboe Fires Back at Hamat Bah: ‘I Wonder Where His Conscience Has Gone’",
       "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has sharply criticized Lands Minister Hamat Bah over his recent remarks about the UDP, questioning whether his longtime political ally has abandoned the principles they once shared. Speaking Tuesday during an intervie...",
@@ -370,7 +418,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-30T05:15:44.372Z",
+      "collectedAt": "2026-09-30T12:21:38.818Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -386,7 +434,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T05:15:50.492Z",
-    "count": 16
+    "generatedAt": "2026-09-30T12:21:46.981Z",
+    "count": 18
   }
 }

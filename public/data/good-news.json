@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "5d3ef0318d4efdeb",
+      "title": "CALLS FOR DARBOE, TALIB RECONCILIATION SPARK DEBATE ON OPPOSITION UNITY",
+      "summary": "By Tabora Bojang As the country approaches presidential elections in two months’ time, opposition supporters frustrated by the sharp division in the opposition and the successful poaching of key opposition  leaders by the governing NPP,  have started calls for reconciliation b...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/calls-for-darboe-talib-reconciliation-spark-debate-on-opposition-unity/",
+      "publishedAt": "2026-09-30T10:20:02.000Z",
+      "collectedAt": "2026-09-30T12:21:27.237Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "88e162db134670d3",
+      "title": "National Early Warning and Response Policy launched",
+      "summary": "By Arret Jatta Vice President Muhammad BS Jallow yesterday launched The Gambia’s National Early Warning and Response Policy (2026–2035) at the Sir Dawda Kairaba Jawara Conference Centre. The policy is aimed at strengthening the country’s ability to identify emerging threats an...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/national-early-warning-and-response-policy-launched/",
+      "publishedAt": "2026-09-30T10:13:09.000Z",
+      "collectedAt": "2026-09-30T12:21:27.237Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3492cdc39a1e05e7",
+      "title": "Change Front political movement to unveil manifesto Friday",
+      "summary": "By Olimatou Coker A new political movement Change Front, is set to unveil its manifesto called ‘The Salvation’, on Friday at the YMCA in Kanifing. The 100-page document outlines the political movement’s doctrine, economic models and sectoral priorities. The launch is expected ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/change-front-political-movement-to-unveil-manifesto-friday/",
+      "publishedAt": "2026-09-30T10:07:37.000Z",
+      "collectedAt": "2026-09-30T12:21:27.237Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Olimatou Coker",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "81179280d94a0f88",
       "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
       "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
@@ -389,29 +457,6 @@
       "status": "published"
     },
     {
-      "id": "e3be71b72758dea7",
-      "title": "THE BORDER COMMISION OF THE GAMBIA SHOULD GIVE PROGRESS REPORTS",
-      "summary": "Throughout his tour, the CDS had to inform the soldiers and communities that the border commissions of the two countries are handling the issue. He advised for patience to allow the joint commission to complete their work. Apart from such counselling the Gambia Government is n...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-border-commision-of-the-gambia-should-give-progress-reports/",
-      "publishedAt": "2026-09-25T09:39:51.000Z",
-      "collectedAt": "2026-09-25T11:38:12.314Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a61a27496e597932",
       "title": "Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise",
       "summary": "Award-winning singer Miss Jobizz has received widespread praise from Gambian music lovers following a live performance…\nThe post Miss Jobizz’s Live Performance with Ecstasy Band Wins Praise appeared first on What's On Gambia.",
@@ -420,7 +465,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/miss-jobizzs-live-performance-with-ecstasy-band-wins-praise/",
       "publishedAt": "2026-09-16T06:28:10.000Z",
-      "collectedAt": "2026-09-30T05:15:44.372Z",
+      "collectedAt": "2026-09-30T12:21:38.818Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -434,7 +479,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T05:15:50.492Z",
-    "count": 19
+    "generatedAt": "2026-09-30T12:21:46.981Z",
+    "count": 21
   }
 }

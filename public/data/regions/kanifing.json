@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "0bc9aade0f3c9540",
+      "title": "Principal Magistrate Sallah-Mba’I Dismisses UDP Agent Yankuba Suwaneh’s Objection to Sarjo Jammeh’s Voter Registration",
+      "summary": "By Mariama Marong Magistrate Sallah Mba’I of the Kanifing Revising Court has dismissed an objection challenging the registration of Sarjo Jammeh as a voter, ruling that the objector failed to prove that she was below the age of 18. The objection was filed by Yankuba Suwaneh un...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/principal-magistrate-sallah-mbai-dismisses-udp-agent-yankuba-suwanehs-objection-to-sarjo-jammehs-voter-registration/",
+      "publishedAt": "2026-09-30T12:10:00.000Z",
+      "collectedAt": "2026-09-30T12:21:38.421Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3492cdc39a1e05e7",
+      "title": "Change Front political movement to unveil manifesto Friday",
+      "summary": "By Olimatou Coker A new political movement Change Front, is set to unveil its manifesto called ‘The Salvation’, on Friday at the YMCA in Kanifing. The 100-page document outlines the political movement’s doctrine, economic models and sectoral priorities. The launch is expected ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/change-front-political-movement-to-unveil-manifesto-friday/",
+      "publishedAt": "2026-09-30T10:07:37.000Z",
+      "collectedAt": "2026-09-30T12:21:27.237Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Olimatou Coker",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "737b2ea8773115b8",
       "title": "Kanifing Court Sentences Repeat Offender to Six Years for Pipeline Housebreaking",
       "summary": "A magistrate’s court on Tuesday sentenced Momodou Bah to six years in prison for breaking into a home in Pipeline and stealing property valued at more than D63,000, citing his two previous convictions for similar offenses as a significant aggravating factor. Principal Magistra...",
@@ -87,34 +131,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d4a35c63d7e4370a",
-      "title": "Pa Njie ‘Girigara’ advises president to return Fajara property to state",
-      "summary": "Elder statesman Pa Njie ‘Girigara’ has advised the head of state to return to the state the property he is developing on Atlantic Boulevard in Fajara. In an audio released over the weekend, Njie, a vocal supporter of President Adama Barrow, stated: “Your sycophantic supporters...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/pa-njie-girigara-advises-president-to-return-fajara-property-to-state/",
-      "publishedAt": "2026-09-25T09:19:55.000Z",
-      "collectedAt": "2026-09-25T11:38:02.467Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T05:15:50.492Z",
-    "count": 5
+    "generatedAt": "2026-09-30T12:21:46.981Z",
+    "count": 6
   }
 }
