@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "a21dae69c00a38d7",
+      "title": "PIU Officer Seen Walking Through Brikama With Beer Bottle",
+      "summary": "A PIU officer reportedly left residents shocked in Brikama after he was seen walking through the…\nThe post PIU Officer Seen Walking Through Brikama With Beer Bottle appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
+      "publishedAt": "2026-09-30T04:06:27.000Z",
+      "collectedAt": "2026-09-30T05:15:44.372Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0deb542445e5ee24",
+      "title": "Gambia’s 2027 Budget: President to Earn D3.06 Million as Chief Justice Gets 27% Pay Increase",
+      "summary": "By Staff Writer President Adama Barrow’s annual base salary will remain at D3.06 million in 2027, while the Chief Justice is set to receive a 27.4 percent increase, according to workforce figures contained in the government’s 2027 budget estimates. The Chief Justice’s base sal...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambias-2027-budget-president-to-earn-d3-06-million-as-chief-justice-gets-27-pay-increase/",
+      "publishedAt": "2026-09-29T22:52:12.000Z",
+      "collectedAt": "2026-09-30T05:15:46.139Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "52f1f131a39dc39b",
       "title": "Gambia Faces D16.2 Billion Debt Service Burden in 2027 as Interest Costs Jump by Almost a Third",
       "summary": "By Staff Writer The Gambia is projected to spend D16.17 billion on servicing its national debt in 2027, making debt obligations the government’s single largest expenditure and consuming more than two-fifths of projected domestic revenue. The figure represents a 20 percent incr...",
@@ -716,59 +763,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2fa1f9a7784d85e7",
-      "title": "Bakso Jaiteh says no person, court can take Fajara residence from Barrow",
-      "summary": "Bakary ‘Bakso’ Jaiteh the general cordinator, APRC national mobiliser, has accused Pa Njie ‘Girigara’ of feigning to be an ally of President Barrow. Njie a prominent supporter of the president released an audio last week in which he advised him to give back to the state the la...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/bakso-jaiteh-says-no-person-court-can-take-fajara-residence-from-barrow/",
-      "publishedAt": "2026-09-25T09:19:37.000Z",
-      "collectedAt": "2026-09-25T11:38:02.467Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0069c7a71d761261",
-      "title": "UDP delegation heads to UK for election fundraising",
-      "summary": "By Arret Jatta As the December presidential election approaches, United Democratic Party leader Ousainu Darboe and a delegation of party officials have travelled to the United Kingdom for a fundraising event. The visit is also expected to provide an opportunity for the UDP lea...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/udp-delegation-heads-to-uk-for-election-fundraising/",
-      "publishedAt": "2026-09-25T09:19:14.000Z",
-      "collectedAt": "2026-09-25T11:38:02.467Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T22:11:31.417Z",
+    "generatedAt": "2026-09-30T05:15:50.492Z",
     "count": 32
   }
 }

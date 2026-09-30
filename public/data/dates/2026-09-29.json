@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "3a3e7b7267127244",
+      "title": "Darboe Fires Back at Hamat Bah: ‘I Wonder Where His Conscience Has Gone’",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has sharply criticized Lands Minister Hamat Bah over his recent remarks about the UDP, questioning whether his longtime political ally has abandoned the principles they once shared. Speaking Tuesday during an intervie...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-fires-back-at-hamat-bah-i-wonder-where-his-conscience-has-gone/",
+      "publishedAt": "2026-09-29T23:58:06.000Z",
+      "collectedAt": "2026-09-30T05:15:46.139Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0deb542445e5ee24",
+      "title": "Gambia’s 2027 Budget: President to Earn D3.06 Million as Chief Justice Gets 27% Pay Increase",
+      "summary": "By Staff Writer President Adama Barrow’s annual base salary will remain at D3.06 million in 2027, while the Chief Justice is set to receive a 27.4 percent increase, according to workforce figures contained in the government’s 2027 budget estimates. The Chief Justice’s base sal...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambias-2027-budget-president-to-earn-d3-06-million-as-chief-justice-gets-27-pay-increase/",
+      "publishedAt": "2026-09-29T22:52:12.000Z",
+      "collectedAt": "2026-09-30T05:15:46.139Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "81179280d94a0f88",
       "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
       "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
@@ -827,7 +875,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T22:11:31.417Z",
-    "count": 36
+    "generatedAt": "2026-09-30T05:15:50.492Z",
+    "count": 38
   }
 }

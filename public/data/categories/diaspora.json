@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3a3e7b7267127244",
+      "title": "Darboe Fires Back at Hamat Bah: ‘I Wonder Where His Conscience Has Gone’",
+      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has sharply criticized Lands Minister Hamat Bah over his recent remarks about the UDP, questioning whether his longtime political ally has abandoned the principles they once shared. Speaking Tuesday during an intervie...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-fires-back-at-hamat-bah-i-wonder-where-his-conscience-has-gone/",
+      "publishedAt": "2026-09-29T23:58:06.000Z",
+      "collectedAt": "2026-09-30T05:15:46.139Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "81179280d94a0f88",
       "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
       "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
@@ -338,54 +362,6 @@
       "status": "published"
     },
     {
-      "id": "0069c7a71d761261",
-      "title": "UDP delegation heads to UK for election fundraising",
-      "summary": "By Arret Jatta As the December presidential election approaches, United Democratic Party leader Ousainu Darboe and a delegation of party officials have travelled to the United Kingdom for a fundraising event. The visit is also expected to provide an opportunity for the UDP lea...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/udp-delegation-heads-to-uk-for-election-fundraising/",
-      "publishedAt": "2026-09-25T09:19:14.000Z",
-      "collectedAt": "2026-09-25T11:38:02.467Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "24156991fe6e6895",
-      "title": "Gambian, others arrested in Spain for allegedly executing 50 migrants over witchcraft allegations",
-      "summary": "By Omar Bah A Gambian is among 19 men arrested in Spain for allegedly torturing and executing at least 50 migrants accused of witchcraft during a horror Atlantic crossing to Europe. Police in Gran Canaria confirmed the arrests after 248 survivors were rescued off the African c...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambian-others-arrested-in-spain-for-allegedly-executing-50-migrants-over-witchcraft-allegations/",
-      "publishedAt": "2026-09-25T09:14:44.000Z",
-      "collectedAt": "2026-09-25T11:38:02.467Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "ea0cd1e99eb43ff4",
       "title": "Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement",
       "summary": "A British-Nigerian influencer has died after undergoing a penis enlargement procedure in Thailand, with a UK…\nThe post Why Didn’t He Try Andala Boury? British-Nigerian Influencer Dies After “Demba Njie” Enlargement appeared first on What's On Gambia.",
@@ -394,7 +370,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-29T22:11:25.860Z",
+      "collectedAt": "2026-09-30T05:15:44.372Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -410,7 +386,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-29T22:11:31.417Z",
-    "count": 17
+    "generatedAt": "2026-09-30T05:15:50.492Z",
+    "count": 16
   }
 }
