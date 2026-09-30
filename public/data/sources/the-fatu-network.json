@@ -299,102 +299,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f76c6c89b902931f",
-      "title": "Sis….You didn’t just wake up one day and decide to be “the strong one.”",
-      "summary": "Sis….You didn’t just wake up one day and decide to be “the strong one.” Life trained you. You were probably the firstborn… or the daughter in a family where being a child was a luxury you couldn’t afford. You knew what it meant to stretch a meal, to hear “we’ll manage,” and so...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/sis-you-didnt-just-wake-up-one-day-and-decide-to-be-the-strong-one/",
-      "publishedAt": "2026-09-26T10:46:39.000Z",
-      "collectedAt": "2026-09-26T12:56:31.231Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3473221ab1ec317c",
-      "title": "From December Election to Gaza, Sudan and Rohingya: VP Jallow Takes Gambia’s Message to the World",
-      "summary": "Written by: Seringe S.T. Touray Vice President Mohammed B.S. Jallow has told world leaders that The Gambia is committed to holding a peaceful and credible presidential election on December 5th, as he addressed the 81st United Nations General Assembly (UNGA) in New York on Thur...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/from-december-election-to-gaza-sudan-and-rohingya-vp-jallow-takes-gambias-message-to-the-world/",
-      "publishedAt": "2026-09-25T10:43:50.000Z",
-      "collectedAt": "2026-09-25T11:38:13.016Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "aeb5538d0163bf6d",
-      "title": "Reug Reug Arrested With Crates of Alleged Fake Dollar Notes in Dakar",
-      "summary": "Written by: Seringe S.T. Touray Senegalese wrestling and MMA star Oumar Kane, popularly known as “Reug Reug,” was arrested in Dakar on Thursday after gendarmes investigating an alleged counterfeit money operation reportedly caught him with crates of so-called “black money” not...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/reug-reug-arrested-with-crates-of-alleged-fake-dollar-notes-in-dakar/",
-      "publishedAt": "2026-09-25T10:34:02.000Z",
-      "collectedAt": "2026-09-25T11:38:13.016Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4654fb7924a3ca6e",
-      "title": "What does Essa Faal bring to President Barrow if his decision to join the NPP costs him support within his own political base?",
-      "summary": "Written by: Seringe S.T. Touray Barely days after APP-Sobeyaa announced an agreement with President Adama Barrow’s NPP, Faal is facing internal opposition over the decision. Among those challenging the move are Deputy Party Leader Maila Touray, Regional Chairmen Alhagie Babou ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/what-does-essa-faal-bring-to-president-barrow-if-his-decision-to-join-the-npp-costs-him-support-within-his-own-political-base/",
-      "publishedAt": "2026-09-25T09:47:29.000Z",
-      "collectedAt": "2026-09-25T11:38:13.016Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T12:21:46.981Z",
-    "count": 17
+    "generatedAt": "2026-09-30T19:03:41.175Z",
+    "count": 13
   }
 }

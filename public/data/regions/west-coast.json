@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "8ba0c4caf0cfcd7c",
+      "title": "IEC Witness Testifies in Voter Registration Challenge as Brufut Alkalo Attests Applicant From Wulingkama",
+      "summary": "By Mariama Marong An Independent Electoral Commission (IEC) regional officer has testified in court over a voter registration challenge involving an attestation issued by the Alkalo of Brufut for a person who resides in Wulingkama. Arfang Kujabi, an IEC Regional Officer at the...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-witness-testifies-in-voter-registration-challenge-as-brufut-alkalo-attests-applicant-from-wulingkama/",
+      "publishedAt": "2026-09-30T12:35:15.000Z",
+      "collectedAt": "2026-09-30T19:03:33.240Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a21dae69c00a38d7",
       "title": "PIU Officer Seen Walking Through Brikama With Beer Bottle",
       "summary": "A PIU officer reportedly left residents shocked in Brikama after he was seen walking through the…\nThe post PIU Officer Seen Walking Through Brikama With Beer Bottle appeared first on What's On Gambia.",
@@ -126,7 +149,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-09-30T12:21:38.818Z",
+      "collectedAt": "2026-09-30T19:03:34.621Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -142,7 +165,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T12:21:46.981Z",
-    "count": 6
+    "generatedAt": "2026-09-30T19:03:41.175Z",
+    "count": 7
   }
 }

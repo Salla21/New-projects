@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "3e7e9899c13fba90",
+      "title": "Darboe Praises UDP Diaspora Convention, Says Turnout ‘Exceeded Our Expectations’",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, the secretary general and party leader of the United Democratic Party, has praised the party’s recent diaspora convention, saying attendance surpassed organizers’ expectations and demonstrated strong unity among supporters abroad. Speaking Tue...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/the-turnout-exceeded-our-expectations-darboe-praises-udp-diaspora-convention/",
+      "publishedAt": "2026-09-30T16:13:16.000Z",
+      "collectedAt": "2026-09-30T19:03:36.757Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fb1a1fb55152b1c9",
       "title": "Gambian jailed for life in UK for murder of Sudanese refugee",
       "summary": "By Omar Bah A 24-year-old Gambian man has been jailed for life for the murder of a Sudanese refugee who fled civil war to seek safety in Britain. According to court documents seen by The Standard, Abdou Sillah stabbed Kiirpal Nhian, 29, to death in a Birmingham HMO, inflicting...",
@@ -42,6 +67,31 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "056a054677947861",
+      "title": "Mali Warns UN of Foreign Support for Terrorism in the Sahel",
+      "summary": "By Yankuba Jallow Mali’s foreign minister has accused Ukraine of supporting armed groups in the Sahel and called for greater African control over the region’s security, economy and natural resources. Mali’s Foreign Affairs and International Cooperation Minister, Abdoulaye Diop...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/mali-warns-un-of-foreign-support-for-terrorism-in-the-sahel/",
+      "publishedAt": "2026-09-30T00:33:00.000Z",
+      "collectedAt": "2026-09-30T19:03:33.240Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -418,7 +468,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-didnt-he-try-andala-boury-british-nigerian-influencer-dies-after-demba-njie-enlargement/",
       "publishedAt": "2026-09-09T04:56:01.000Z",
-      "collectedAt": "2026-09-30T12:21:38.818Z",
+      "collectedAt": "2026-09-30T19:03:34.621Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -434,7 +484,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T12:21:46.981Z",
-    "count": 18
+    "generatedAt": "2026-09-30T19:03:41.175Z",
+    "count": 20
   }
 }

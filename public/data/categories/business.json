@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "07e4ce4d0a691cee",
+      "title": "Agriculture Ministry Signs $13.93 Million in Contracts to Expand Rice Production in URR",
+      "summary": "By Makutu Manneh The Ministry of Agriculture, Livestock, and Food Security has signed contracts worth $13.93 million to expand irrigation infrastructure and rice production in six communities in the Upper River Region as part of a broader effort to strengthen food security in ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/agriculture-ministry-signs-13-93-million-in-contracts-to-expand-rice-production-in-urr/",
+      "publishedAt": "2026-09-30T19:02:25.000Z",
+      "collectedAt": "2026-09-30T19:03:36.757Z",
+      "region": "upper-river",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7f8a4f3e401c93a7",
+      "title": "GTBoard Suspends Open-Air Music and Beach Parties in Tourism Area Over Safety Concerns",
+      "summary": "By Makutu Manneh The Gambia Tourism Board has suspended open-air music and other public entertainment activities, including beach parties, concerts and festivals, across the Tourism Development Area, citing concerns about public safety. The suspension, announced in a statement...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gtboard-suspends-open-air-music-and-beach-parties-in-tourism-area-over-safety-concerns/",
+      "publishedAt": "2026-09-30T16:31:22.000Z",
+      "collectedAt": "2026-09-30T19:03:36.757Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3e7e9899c13fba90",
+      "title": "Darboe Praises UDP Diaspora Convention, Says Turnout ‘Exceeded Our Expectations’",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, the secretary general and party leader of the United Democratic Party, has praised the party’s recent diaspora convention, saying attendance surpassed organizers’ expectations and demonstrated strong unity among supporters abroad. Speaking Tue...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/the-turnout-exceeded-our-expectations-darboe-praises-udp-diaspora-convention/",
+      "publishedAt": "2026-09-30T16:13:16.000Z",
+      "collectedAt": "2026-09-30T19:03:36.757Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "adcfc65a6903b9a9",
       "title": "Allocation for agricultural equipment & machinery falls from D75 million to D45.7 million",
       "summary": "Agric ministry gets D1.64 Billion By Kebba A.F. Touray The Ministry of Agriculture is projected to receive D1.64 billion in the 2027 national budget, an increase of about D297 million from its approved allocation of D1.34 billion in 2026, according to the draft estimates of re...",
@@ -136,6 +207,31 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "056a054677947861",
+      "title": "Mali Warns UN of Foreign Support for Terrorism in the Sahel",
+      "summary": "By Yankuba Jallow Mali’s foreign minister has accused Ukraine of supporting armed groups in the Sahel and called for greater African control over the region’s security, economy and natural resources. Mali’s Foreign Affairs and International Cooperation Minister, Abdoulaye Diop...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/mali-warns-un-of-foreign-support-for-terrorism-in-the-sahel/",
+      "publishedAt": "2026-09-30T00:33:00.000Z",
+      "collectedAt": "2026-09-30T19:03:33.240Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -738,83 +834,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a73bb8cdef6bf3c5",
-      "title": "VP Jallow: Africa Should Not Have to Choose Between Basic Energy Needs and a Cleaner Future",
-      "summary": "By Seedy Jobe Vice President Muhammed B.S. Jallow has called for greater international investment to help African households transition from firewood and charcoal to cleaner cooking technologies, warning that cost and limited access continue to put cleaner alternatives beyond ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/vp-jallow-africa-should-not-have-to-choose-between-basic-energy-needs-and-a-cleaner-future/",
-      "publishedAt": "2026-09-25T16:44:03.000Z",
-      "collectedAt": "2026-09-25T17:01:40.069Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "aeb5538d0163bf6d",
-      "title": "Reug Reug Arrested With Crates of Alleged Fake Dollar Notes in Dakar",
-      "summary": "Written by: Seringe S.T. Touray Senegalese wrestling and MMA star Oumar Kane, popularly known as “Reug Reug,” was arrested in Dakar on Thursday after gendarmes investigating an alleged counterfeit money operation reportedly caught him with crates of so-called “black money” not...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/reug-reug-arrested-with-crates-of-alleged-fake-dollar-notes-in-dakar/",
-      "publishedAt": "2026-09-25T10:34:02.000Z",
-      "collectedAt": "2026-09-25T11:38:13.016Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4654fb7924a3ca6e",
-      "title": "What does Essa Faal bring to President Barrow if his decision to join the NPP costs him support within his own political base?",
-      "summary": "Written by: Seringe S.T. Touray Barely days after APP-Sobeyaa announced an agreement with President Adama Barrow’s NPP, Faal is facing internal opposition over the decision. Among those challenging the move are Deputy Party Leader Maila Touray, Regional Chairmen Alhagie Babou ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/what-does-essa-faal-bring-to-president-barrow-if-his-decision-to-join-the-npp-costs-him-support-within-his-own-political-base/",
-      "publishedAt": "2026-09-25T09:47:29.000Z",
-      "collectedAt": "2026-09-25T11:38:13.016Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T12:21:46.981Z",
-    "count": 34
+    "generatedAt": "2026-09-30T19:03:41.175Z",
+    "count": 35
   }
 }

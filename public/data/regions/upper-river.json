@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "07e4ce4d0a691cee",
+      "title": "Agriculture Ministry Signs $13.93 Million in Contracts to Expand Rice Production in URR",
+      "summary": "By Makutu Manneh The Ministry of Agriculture, Livestock, and Food Security has signed contracts worth $13.93 million to expand irrigation infrastructure and rice production in six communities in the Upper River Region as part of a broader effort to strengthen food security in ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/agriculture-ministry-signs-13-93-million-in-contracts-to-expand-rice-production-in-urr/",
+      "publishedAt": "2026-09-30T19:02:25.000Z",
+      "collectedAt": "2026-09-30T19:03:36.757Z",
+      "region": "upper-river",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ec4753600cd60b5c",
       "title": "Magistrate imposes 10 years, says no mercy for rapist",
       "summary": "By Amadou Jadama Senior Magistrate Ismaila Dibba of Basse, has asserted that under Gambian law, rape is among the most serious offences, and therefore perpetrators should not expect leniency in sentencing. Magistrate Dibba said this on Wednesday while sentencing one Ebrima Tra...",
@@ -25,7 +48,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T12:21:46.981Z",
-    "count": 1
+    "generatedAt": "2026-09-30T19:03:41.175Z",
+    "count": 2
   }
 }

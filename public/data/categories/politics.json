@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "3e7e9899c13fba90",
+      "title": "Darboe Praises UDP Diaspora Convention, Says Turnout ‘Exceeded Our Expectations’",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, the secretary general and party leader of the United Democratic Party, has praised the party’s recent diaspora convention, saying attendance surpassed organizers’ expectations and demonstrated strong unity among supporters abroad. Speaking Tue...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/the-turnout-exceeded-our-expectations-darboe-praises-udp-diaspora-convention/",
+      "publishedAt": "2026-09-30T16:13:16.000Z",
+      "collectedAt": "2026-09-30T19:03:36.757Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8ba0c4caf0cfcd7c",
+      "title": "IEC Witness Testifies in Voter Registration Challenge as Brufut Alkalo Attests Applicant From Wulingkama",
+      "summary": "By Mariama Marong An Independent Electoral Commission (IEC) regional officer has testified in court over a voter registration challenge involving an attestation issued by the Alkalo of Brufut for a person who resides in Wulingkama. Arfang Kujabi, an IEC Regional Officer at the...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-witness-testifies-in-voter-registration-challenge-as-brufut-alkalo-attests-applicant-from-wulingkama/",
+      "publishedAt": "2026-09-30T12:35:15.000Z",
+      "collectedAt": "2026-09-30T19:03:33.240Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e1e4ce809da319dc",
+      "title": "Magistrate Dismisses UDP Agent Fatou Darboe’s Challenge to Okiye Raymond Kin’s Voter Registration",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging the retention of Okiye Raymond Kin’s name on the voters’ register for Bakau, ruling that the objector failed to prove that he was not a Gambian citizen. The judgment was delivered by Magistrat...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/magistrate-dismisses-udp-agent-fatou-darboes-challenge-to-okiye-raymond-kins-voter-registration/",
+      "publishedAt": "2026-09-30T12:20:00.000Z",
+      "collectedAt": "2026-09-30T19:03:33.240Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "adcfc65a6903b9a9",
       "title": "Allocation for agricultural equipment & machinery falls from D75 million to D45.7 million",
       "summary": "Agric ministry gets D1.64 Billion By Kebba A.F. Touray The Ministry of Agriculture is projected to receive D1.64 billion in the 2027 national budget, an increase of about D297 million from its approved allocation of D1.34 billion in 2026, according to the draft estimates of re...",
@@ -276,6 +347,31 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "056a054677947861",
+      "title": "Mali Warns UN of Foreign Support for Terrorism in the Sahel",
+      "summary": "By Yankuba Jallow Mali’s foreign minister has accused Ukraine of supporting armed groups in the Sahel and called for greater African control over the region’s security, economy and natural resources. Mali’s Foreign Affairs and International Cooperation Minister, Abdoulaye Diop...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/mali-warns-un-of-foreign-support-for-terrorism-in-the-sahel/",
+      "publishedAt": "2026-09-30T00:33:00.000Z",
+      "collectedAt": "2026-09-30T19:03:33.240Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -1558,195 +1654,6 @@
       "status": "published"
     },
     {
-      "id": "984432210404f234",
-      "title": "“MC Cham Jr. Rejects Independent Candidate Leading Opposition Coalition: ‘Let That Intellectual Get On the Ground and Be Part of Politics'”",
-      "summary": "By Seedy Jobe MC Cham Jr., the national campaign manager of UNITE, has rejected proposals for an independent intellectual to lead a potential opposition coalition, arguing that any prospective flag bearer should first demonstrate a commitment to grassroots politics. Speaking o...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mc-cham-jr-rejects-independent-candidate-leading-opposition-coalition-let-that-intellectual-get-on-the-ground-and-be-part-of-politics/",
-      "publishedAt": "2026-09-26T16:55:16.000Z",
-      "collectedAt": "2026-09-26T17:42:43.107Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "51f85506ddc947be",
-      "title": "Higher Education Minister Defends Four-University Model, Citing Need for Specialization",
-      "summary": "By Makutu Manneh Professor Pierre Gomez, the Minister of Higher Education, Research, Science and Technology, has defended the government’s decision to establish four separate public universities, saying the model is intended to promote specialization, competition, and the deve...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/higher-education-minister-defends-four-university-model-citing-need-for-specialization/",
-      "publishedAt": "2026-09-26T16:47:28.000Z",
-      "collectedAt": "2026-09-26T17:42:43.107Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c6436f86526c4cb3",
-      "title": "Madi Jobarteh Challenges Political Coalitions to Make Agreements Public",
-      "summary": "By Seedy Jobe Human rights activist Madi Jobarteh has called on political parties and coalitions contesting The Gambia’s 2026 presidential election to publish the agreements underpinning their alliances, arguing that voters have a right to know the terms negotiated by politica...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/madi-jobarteh-challenges-political-coalitions-to-make-agreements-public/",
-      "publishedAt": "2026-09-26T16:23:42.000Z",
-      "collectedAt": "2026-09-26T17:42:43.107Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b50638544243cc8b",
-      "title": "NaLOA President Calls for Dialogue as Pressure on Grazing Lands Fuels Farmer-Herder Conflicts",
-      "summary": "By Seedy Jobe The president of the National Livestock Owners Association (NaLOA), Ebrima Jallow, has called for greater dialogue among farmers, herders, and local communities to address conflicts over grazing land, warning that growing competition for land threatens both lives...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/naloa-president-calls-for-dialogue-as-pressure-on-grazing-lands-fuels-farmer-herder-conflicts/",
-      "publishedAt": "2026-09-25T16:54:27.000Z",
-      "collectedAt": "2026-09-25T17:01:40.069Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a73bb8cdef6bf3c5",
-      "title": "VP Jallow: Africa Should Not Have to Choose Between Basic Energy Needs and a Cleaner Future",
-      "summary": "By Seedy Jobe Vice President Muhammed B.S. Jallow has called for greater international investment to help African households transition from firewood and charcoal to cleaner cooking technologies, warning that cost and limited access continue to put cleaner alternatives beyond ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/vp-jallow-africa-should-not-have-to-choose-between-basic-energy-needs-and-a-cleaner-future/",
-      "publishedAt": "2026-09-25T16:44:03.000Z",
-      "collectedAt": "2026-09-25T17:01:40.069Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "31221301552045d7",
-      "title": "President Mahmoud Abbas warns against ‘another Nakba’ as he demands action on Palestinian statehood",
-      "summary": "By Yankuba Jallow Palestinian President Mahmoud Abbas has warned world leaders against allowing what he called “another Nakba” in the Palestinian territories, saying his people would not accept displacement and would remain on their land. In a pre-recorded address to the Unite...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/president-mahmoud-abbas-warns-against-another-nakba-as-he-demands-action-on-palestinian-statehood/",
-      "publishedAt": "2026-09-25T12:10:49.000Z",
-      "collectedAt": "2026-09-25T17:01:32.640Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3473221ab1ec317c",
-      "title": "From December Election to Gaza, Sudan and Rohingya: VP Jallow Takes Gambia’s Message to the World",
-      "summary": "Written by: Seringe S.T. Touray Vice President Mohammed B.S. Jallow has told world leaders that The Gambia is committed to holding a peaceful and credible presidential election on December 5th, as he addressed the 81st United Nations General Assembly (UNGA) in New York on Thur...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/from-december-election-to-gaza-sudan-and-rohingya-vp-jallow-takes-gambias-message-to-the-world/",
-      "publishedAt": "2026-09-25T10:43:50.000Z",
-      "collectedAt": "2026-09-25T11:38:13.016Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4654fb7924a3ca6e",
-      "title": "What does Essa Faal bring to President Barrow if his decision to join the NPP costs him support within his own political base?",
-      "summary": "Written by: Seringe S.T. Touray Barely days after APP-Sobeyaa announced an agreement with President Adama Barrow’s NPP, Faal is facing internal opposition over the decision. Among those challenging the move are Deputy Party Leader Maila Touray, Regional Chairmen Alhagie Babou ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/what-does-essa-faal-bring-to-president-barrow-if-his-decision-to-join-the-npp-costs-him-support-within-his-own-political-base/",
-      "publishedAt": "2026-09-25T09:47:29.000Z",
-      "collectedAt": "2026-09-25T11:38:13.016Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94699c563aec97ca",
       "title": "Will TikTok Endorsements Sway the Presidential Election?",
       "summary": "As The Gambia prepares to go to the polls on December 5 to elect a president,…\nThe post Will TikTok Endorsements Sway the Presidential Election? appeared first on What's On Gambia.",
@@ -1755,7 +1662,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/will-tiktok-endorsements-sway-the-presidential-election/",
       "publishedAt": "2026-09-16T06:25:35.000Z",
-      "collectedAt": "2026-09-30T12:21:38.818Z",
+      "collectedAt": "2026-09-30T19:03:34.621Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1771,7 +1678,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T12:21:46.981Z",
-    "count": 75
+    "generatedAt": "2026-09-30T19:03:41.175Z",
+    "count": 71
   }
 }
