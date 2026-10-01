@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "949027e1ee948484",
+      "title": "Assan Martin Says Bensouda Could Reclaim 2021 Protest Votes, Draw Support From NPP and GDC",
+      "summary": "By Seedy Jobe Lawyer Assan Martin, the spokesperson for Coalition 2026, says discussions for his coalition, led by Mayor Talib Ahmed Bensouda and the UDP-led alliance, could be possible as opposition parties explore a united front to compete against President Adama Barrow and ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/assan-martin-says-bensouda-could-reclaim-2021-protest-votes-draw-support-from-npp-and-gdc/",
+      "publishedAt": "2026-10-01T21:56:29.000Z",
+      "collectedAt": "2026-10-01T23:50:30.245Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b83862b88bf83ed8",
+      "title": "Clerk’s Office Defends National Assembly’s 2027 Budget Before FPAC",
+      "summary": "By Fatou Sillah The Office of the Clerk of the National Assembly on Thursday appeared before the Standing Committee on Finance and Public Accounts (FPAC) to defend the Assembly’s proposed budget for the 2027 fiscal year. In a statement, the National Assembly said the appearanc...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/clerks-office-defends-national-assemblys-2027-budget-before-fpac/",
+      "publishedAt": "2026-10-01T20:14:02.000Z",
+      "collectedAt": "2026-10-01T23:50:30.245Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c3ceb454811c7183",
       "title": "Information Minister Ceesay Says Barrow Alliance Should ‘Strike Fear’ in Opponents",
       "summary": "By Makutu Manneh Dr. Ismaila Ceesay, the Minister of Information, Media, and Broadcasting Services, says the political alliance backing President Adama Barrow should “strike fear” in its opponents, citing the coalition’s accumulated experience in both government and opposition...",
@@ -1233,7 +1281,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/former-guinea-bissau-president-embalo-announces-october-4th-return-after-nearly-a-year-abroad/",
       "publishedAt": "2026-09-28T11:08:12.000Z",
-      "collectedAt": "2026-10-01T19:24:10.791Z",
+      "collectedAt": "2026-10-01T23:50:28.492Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1250,7 +1298,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T19:24:17.745Z",
-    "count": 53
+    "generatedAt": "2026-10-01T23:50:34.327Z",
+    "count": 55
   }
 }

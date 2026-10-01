@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "949027e1ee948484",
+      "title": "Assan Martin Says Bensouda Could Reclaim 2021 Protest Votes, Draw Support From NPP and GDC",
+      "summary": "By Seedy Jobe Lawyer Assan Martin, the spokesperson for Coalition 2026, says discussions for his coalition, led by Mayor Talib Ahmed Bensouda and the UDP-led alliance, could be possible as opposition parties explore a united front to compete against President Adama Barrow and ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/assan-martin-says-bensouda-could-reclaim-2021-protest-votes-draw-support-from-npp-and-gdc/",
+      "publishedAt": "2026-10-01T21:56:29.000Z",
+      "collectedAt": "2026-10-01T23:50:30.245Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b83862b88bf83ed8",
+      "title": "Clerk’s Office Defends National Assembly’s 2027 Budget Before FPAC",
+      "summary": "By Fatou Sillah The Office of the Clerk of the National Assembly on Thursday appeared before the Standing Committee on Finance and Public Accounts (FPAC) to defend the Assembly’s proposed budget for the 2027 fiscal year. In a statement, the National Assembly said the appearanc...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/clerks-office-defends-national-assemblys-2027-budget-before-fpac/",
+      "publishedAt": "2026-10-01T20:14:02.000Z",
+      "collectedAt": "2026-10-01T23:50:30.245Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1abe077b3a0af827",
       "title": "Government Allocates D33.75 Million for Purchase of Energy-Generating Equipment in 2027 Estimates",
       "summary": "By Yankuba Jallow The allocation for energy-generating equipment is set to rise to D33.754 million in 2027, from D2.481 million in the approved 2026 budget, as a total appropriation of D48,599,453,916 is placed before the National Assembly for the 2027 financial year. The prop...",
@@ -741,7 +789,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-09-28T13:38:08.601Z",
+      "collectedAt": "2026-10-01T23:50:28.492Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -756,30 +804,6 @@
       "status": "published"
     },
     {
-      "id": "9189db217614fd8c",
-      "title": "Reparations Allocation Rises to D33.3 Million as Special Prosecutor Gets D20 Million",
-      "summary": "By Yankuba Jallow The allocation for reparations for victims of past human rights violations is set to rise to D33.29 million in 2027, while the Office of the Special Prosecutor is expected to receive D20 million, according to the government’s 2027 estimates of revenue and exp...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/reparations-allocation-rises-to-d33-3-million-as-special-prosecutor-gets-d20-million/",
-      "publishedAt": "2026-09-28T12:30:06.000Z",
-      "collectedAt": "2026-09-28T20:29:54.156Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "87d943cf79af7e7f",
       "title": "Bintou Sarah Dibbasey Builds Opportunity Through Food Processing",
       "summary": "Published by: The Fatu Network Gambian entrepreneur Bintou Sarah Dibbasey is using locally grown produce to build a women-led food business focused on value addition, job creation and reducing dependence on imported products. Dibbasey is the founder of Sarah’s Bakery and Kitch...",
@@ -788,7 +812,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
       "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-01T19:24:10.791Z",
+      "collectedAt": "2026-10-01T23:50:28.492Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -811,7 +835,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/niro-responds-to-recent-claims-regarding-competition-at-banjul-international-airport/",
       "publishedAt": "2026-09-28T11:36:24.000Z",
-      "collectedAt": "2026-10-01T19:24:10.791Z",
+      "collectedAt": "2026-10-01T23:50:28.492Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -827,7 +851,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T19:24:17.745Z",
-    "count": 35
+    "generatedAt": "2026-10-01T23:50:34.327Z",
+    "count": 36
   }
 }

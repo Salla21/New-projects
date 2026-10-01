@@ -167,58 +167,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9189db217614fd8c",
-      "title": "Reparations Allocation Rises to D33.3 Million as Special Prosecutor Gets D20 Million",
-      "summary": "By Yankuba Jallow The allocation for reparations for victims of past human rights violations is set to rise to D33.29 million in 2027, while the Office of the Special Prosecutor is expected to receive D20 million, according to the government’s 2027 estimates of revenue and exp...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/reparations-allocation-rises-to-d33-3-million-as-special-prosecutor-gets-d20-million/",
-      "publishedAt": "2026-09-28T12:30:06.000Z",
-      "collectedAt": "2026-09-28T20:29:54.156Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b7076e6e8c0769f6",
-      "title": "Man Seeks Court Order to Evict Wife From His Property",
-      "summary": "By Mariama Marong A man from Sukuta, Gibril Coker, has taken his wife to the Brusubi Magistrates’ Court, seeking an order for her eviction from a property he claims to own. Coker is also seeking the costs of the action and any other relief the court may deem appropriate. The c...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/man-seeks-court-order-to-evict-wife-from-his-property/",
-      "publishedAt": "2026-09-28T12:25:39.000Z",
-      "collectedAt": "2026-09-28T20:29:54.156Z",
-      "region": "west-coast",
-      "categories": [
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T19:24:17.745Z",
-    "count": 9
+    "generatedAt": "2026-10-01T23:50:34.327Z",
+    "count": 7
   }
 }

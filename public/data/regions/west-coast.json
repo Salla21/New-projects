@@ -112,30 +112,6 @@
       "status": "published"
     },
     {
-      "id": "b7076e6e8c0769f6",
-      "title": "Man Seeks Court Order to Evict Wife From His Property",
-      "summary": "By Mariama Marong A man from Sukuta, Gibril Coker, has taken his wife to the Brusubi Magistrates’ Court, seeking an order for her eviction from a property he claims to own. Coker is also seeking the costs of the action and any other relief the court may deem appropriate. The c...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/man-seeks-court-order-to-evict-wife-from-his-property/",
-      "publishedAt": "2026-09-28T12:25:39.000Z",
-      "collectedAt": "2026-09-28T20:29:54.156Z",
-      "region": "west-coast",
-      "categories": [
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -144,7 +120,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-01T19:24:10.658Z",
+      "collectedAt": "2026-10-01T23:50:28.232Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -160,7 +136,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T19:24:17.745Z",
-    "count": 7
+    "generatedAt": "2026-10-01T23:50:34.327Z",
+    "count": 6
   }
 }
