@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "f6861c48a452793d",
+      "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
+      "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
+      "publishedAt": "2026-10-01T04:46:21.000Z",
+      "collectedAt": "2026-10-01T05:27:42.156Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Gainde",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8ba0c4caf0cfcd7c",
       "title": "IEC Witness Testifies in Voter Registration Challenge as Brufut Alkalo Attests Applicant From Wulingkama",
       "summary": "By Mariama Marong An Independent Electoral Commission (IEC) regional officer has testified in court over a voter registration challenge involving an attestation issued by the Alkalo of Brufut for a person who resides in Wulingkama. Arfang Kujabi, an IEC Regional Officer at the...",
@@ -149,7 +170,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-09-30T23:41:35.448Z",
+      "collectedAt": "2026-10-01T05:27:42.156Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -165,7 +186,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T23:41:42.505Z",
-    "count": 7
+    "generatedAt": "2026-10-01T05:27:47.856Z",
+    "count": 8
   }
 }

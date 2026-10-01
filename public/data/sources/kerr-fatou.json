@@ -592,56 +592,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "86abfe4c2a63335e",
-      "title": "Essa Faal Denies Seeking Position or Receiving $10 Million to Join NPP Alliance",
-      "summary": "By Makutu Manneh Essa Mbye Faal, the leader of APP-Sobeyaa, on Sunday denied claims that he sought a government position or received $10 million in exchange for joining President Adama Barrow’s National People’s Party-led alliance, saying his decision was motivated by what he ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/essa-faal-denies-seeking-position-or-receiving-10-million-to-join-npp-alliance/",
-      "publishedAt": "2026-09-27T22:49:10.000Z",
-      "collectedAt": "2026-09-27T22:56:55.893Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1d48916ca5d8b57a",
-      "title": "Essa Faal: December Election Is ‘Dead and Buried,’ Barrow Has Already Won",
-      "summary": "By Makutu Manneh Essa Mbye Faal, the leader of APP-Sobeyaa, said Sunday that he considered the December presidential election effectively over and declared President Adama Barrow the winner, as he formally joined the governing National People’s Party-led alliance. Speaking at ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/essa-faal-december-election-is-dead-and-buried-barrow-has-already-won/",
-      "publishedAt": "2026-09-27T22:42:25.000Z",
-      "collectedAt": "2026-09-27T22:56:55.893Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-30T23:41:42.505Z",
-    "count": 28
+    "generatedAt": "2026-10-01T05:27:47.856Z",
+    "count": 26
   }
 }
