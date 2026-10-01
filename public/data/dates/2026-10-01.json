@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "c3ceb454811c7183",
+      "title": "Information Minister Ceesay Says Barrow Alliance Should ‘Strike Fear’ in Opponents",
+      "summary": "By Makutu Manneh Dr. Ismaila Ceesay, the Minister of Information, Media, and Broadcasting Services, says the political alliance backing President Adama Barrow should “strike fear” in its opponents, citing the coalition’s accumulated experience in both government and opposition...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/information-minister-ceesay-says-barrow-alliance-should-strike-fear-in-opponents/",
+      "publishedAt": "2026-10-01T18:57:19.000Z",
+      "collectedAt": "2026-10-01T19:24:13.657Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "639d1a6d2ac01ece",
+      "title": "NaLOA President Says Cattle Rustling Has Resurged After Years of Decline",
+      "summary": "By Seedy Jobe Ebrima Jallow, president of the National Livestock Owners Association (NaLOA), says cattle rustling has resurged in The Gambia over the past two to three years, reversing gains made after years of efforts to curb the crime. Speaking in an interview with GRTS on T...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/naloa-president-says-cattle-rustling-has-resurged-after-years-of-decline/",
+      "publishedAt": "2026-10-01T18:49:28.000Z",
+      "collectedAt": "2026-10-01T19:24:13.657Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7e95a5411de74b9d",
+      "title": "Information Minister Ceesay Accuses Some CSOs of Fabricating Dictatorship Narratives for Donor Funding",
+      "summary": "By Makutu Manneh Dr. Ismaila Ceesay, the Minister of Information, Media, and Broadcasting Services, has accused some civil society organizations in Africa, including in The Gambia, of exaggerating political and governance concerns to attract donor funding. Speaking during an i...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/information-minister-ceesay-accuses-some-csos-of-fabricating-dictatorship-narratives-for-donor-funding/",
+      "publishedAt": "2026-10-01T18:44:15.000Z",
+      "collectedAt": "2026-10-01T19:24:13.657Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1abe077b3a0af827",
       "title": "Government Allocates D33.75 Million for Purchase of Energy-Generating Equipment in 2027 Estimates",
       "summary": "By Yankuba Jallow The allocation for energy-generating equipment is set to rise to D33.754 million in 2027, from D2.481 million in the approved 2026 budget, as a total appropriation of D48,599,453,916 is placed before the National Assembly for the 2027 financial year. The prop...",
@@ -541,7 +611,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T12:57:05.280Z",
-    "count": 24
+    "generatedAt": "2026-10-01T19:24:17.745Z",
+    "count": 27
   }
 }

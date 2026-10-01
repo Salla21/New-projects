@@ -319,7 +319,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/former-guinea-bissau-president-embalo-announces-october-4th-return-after-nearly-a-year-abroad/",
       "publishedAt": "2026-09-28T11:08:12.000Z",
-      "collectedAt": "2026-09-28T13:38:08.601Z",
+      "collectedAt": "2026-10-01T19:24:10.791Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -333,58 +333,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c5aab7c38a007657",
-      "title": "NPP heavyweights unleash fresh attacks on opposition",
-      "summary": "By Arret Jatta President Adama Barrow and senior members of his National People’s Party government have stepped up their attacks on opposition figures, with recent campaign remarks touching on political rivalry, regional identity, ancestry and the Gambian diaspora. Speaking at...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/npp-heavyweights-unleash-fresh-attacks-on-opposition/",
-      "publishedAt": "2026-09-28T09:11:44.000Z",
-      "collectedAt": "2026-09-28T13:35:00.035Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0b1fc3d5c5fca32c",
-      "title": "Nafaa leader says Barrow’s ‘last minute projects’ will not fool Gambians",
-      "summary": "By Sirrah Touray National Alliance for Accelerated Advancement (Nafaa) leader, Ousainou Allen, has said the “last minute” rush of laying foundation stones and inaugurating projects” by President Adama Barrow “will not fool” Gambians in the December 2026 election. Addressing a ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/nafaa-leader-says-barrows-last-minute-projects-will-not-fool-gambians/",
-      "publishedAt": "2026-09-28T09:09:05.000Z",
-      "collectedAt": "2026-09-28T13:35:00.035Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T12:57:05.280Z",
-    "count": 16
+    "generatedAt": "2026-10-01T19:24:17.745Z",
+    "count": 14
   }
 }

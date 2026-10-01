@@ -360,33 +360,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "74a501feae7e5367",
-      "title": "HER AGENDA 2026 & BEYOND: Gambian Women Take Ownership of Their Political Agenda",
-      "summary": "Maa Foundation for Women activates a nationwide, cross-party women’s leadership platform ahead of the 2026 Presidential Election  Banjul, The Gambia — The Maa Foundation for Women, through its Network of Women in Politics and Leadership, has launched a new phase of its women’s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/her-agenda-2026-beyond-gambian-women-take-ownership-of-their-political-agenda/",
-      "publishedAt": "2026-09-28T12:10:13.000Z",
-      "collectedAt": "2026-09-28T20:29:54.156Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T12:57:05.280Z",
-    "count": 17
+    "generatedAt": "2026-10-01T19:24:17.745Z",
+    "count": 16
   }
 }

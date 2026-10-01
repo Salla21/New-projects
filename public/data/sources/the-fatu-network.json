@@ -166,7 +166,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
       "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-09-28T13:38:08.601Z",
+      "collectedAt": "2026-10-01T19:24:10.791Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -189,7 +189,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/niro-responds-to-recent-claims-regarding-competition-at-banjul-international-airport/",
       "publishedAt": "2026-09-28T11:36:24.000Z",
-      "collectedAt": "2026-09-28T13:38:08.601Z",
+      "collectedAt": "2026-10-01T19:24:10.791Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -212,7 +212,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/former-guinea-bissau-president-embalo-announces-october-4th-return-after-nearly-a-year-abroad/",
       "publishedAt": "2026-09-28T11:08:12.000Z",
-      "collectedAt": "2026-09-28T13:38:08.601Z",
+      "collectedAt": "2026-10-01T19:24:10.791Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -226,56 +226,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "edc121236d31609d",
-      "title": "UDP Hits Back at Hamat Bah Over Farafenni Remarks, Accuses NPP of Using Ethnic Fear",
-      "summary": "Published by: The Fatu Network The United Democratic Party has hit back at Lands and Religious Affairs Minister Hamat Bah over his controversial Farafenni remarks, accusing him and other NPP figures of using ethnic and nationality-based fear as the December election approaches...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/udp-hits-back-at-hamat-bah-over-farafenni-remarks-accuses-npp-of-using-ethnic-fear/",
-      "publishedAt": "2026-09-28T11:04:32.000Z",
-      "collectedAt": "2026-09-28T13:38:08.601Z",
-      "region": "north-bank",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "499405a45236fa07",
-      "title": "Former Guinea-Bissau President Embaló Announces Return as Questions Resurface Over Jammeh’s Promised Homecoming",
-      "summary": "Written by: Seringe S.T. Touray Former Guinea-Bissau President Umaro Sissoco Embaló has announced a date for his return home, bringing renewed attention in neighbouring The Gambia to a question that has lingered for years: will former President Yahya Jammeh ever return? Jammeh...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/former-guinea-bissau-president-embalo-announces-return-as-questions-resurface-over-jammehs-promised-homecoming/",
-      "publishedAt": "2026-09-28T10:58:15.000Z",
-      "collectedAt": "2026-09-28T13:38:08.601Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T12:57:05.280Z",
-    "count": 12
+    "generatedAt": "2026-10-01T19:24:17.745Z",
+    "count": 10
   }
 }

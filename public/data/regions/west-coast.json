@@ -136,30 +136,6 @@
       "status": "published"
     },
     {
-      "id": "754d78209bd54e84",
-      "title": "Chairman Darboe indicts Barrow over ‘corruption, crime rate, mass exodus’ of youths in past 5 years",
-      "summary": "By Tabora Bojang Brikama Area Council chairman and UDP executive member Yankuba Darboe has charged that the last five years of the Barrow regime have been marked by “glorified corruption, heightened crime rates, and maternal and infant deaths. Darboe warned that this in additi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/chairman-darboe-indicts-barrow-over-corruption-crime-rate-mass-exodus-of-youths-in-past-5-years/",
-      "publishedAt": "2026-09-28T09:07:14.000Z",
-      "collectedAt": "2026-09-28T13:35:00.035Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -168,7 +144,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-01T12:56:58.979Z",
+      "collectedAt": "2026-10-01T19:24:10.658Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -184,7 +160,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T12:57:05.280Z",
-    "count": 8
+    "generatedAt": "2026-10-01T19:24:17.745Z",
+    "count": 7
   }
 }

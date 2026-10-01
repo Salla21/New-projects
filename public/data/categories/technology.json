@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7e95a5411de74b9d",
+      "title": "Information Minister Ceesay Accuses Some CSOs of Fabricating Dictatorship Narratives for Donor Funding",
+      "summary": "By Makutu Manneh Dr. Ismaila Ceesay, the Minister of Information, Media, and Broadcasting Services, has accused some civil society organizations in Africa, including in The Gambia, of exaggerating political and governance concerns to attract donor funding. Speaking during an i...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/information-minister-ceesay-accuses-some-csos-of-fabricating-dictatorship-narratives-for-donor-funding/",
+      "publishedAt": "2026-10-01T18:44:15.000Z",
+      "collectedAt": "2026-10-01T19:24:13.657Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fec5e7aaa7f7bcac",
       "title": "China Tells UN ‘The World Wants Peace, Not War’",
       "summary": "By Yankuba Jallow China has called for a stronger international commitment to multilateralism, dialogue and international law, warning that the world is facing intertwined crises including geopolitical conflicts, widening development gaps and growing global challenges. Address...",
@@ -191,82 +215,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f9bf39ea082e80c8",
-      "title": "WHAT IS THE PLAN OF THE REPARATIONS COMMISSION TO COMPENSATE THE VICTIMS OF THE YAHYA JAMMEH ERA?",
-      "summary": "According to the Estimates of revenue and expenditure for the year 2027, 13.29 million dalasi has been allocated to the Reparations Commission. The victims of human rights violation during the Yahya Jammeh era have waited for long for compensation and some have even passed awa...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-is-the-plan-of-the-reparations-commission-to-compensate-the-victims-of-the-yahya-jammeh-era/",
-      "publishedAt": "2026-09-28T10:12:43.000Z",
-      "collectedAt": "2026-09-28T20:29:54.156Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cc32ef5cf8e5dad2",
-      "title": "FAAL SAYS BARROW’S VICTORY ASSURED AS PARTIES TIE ALLIANCE",
-      "summary": "By Arret Jatta Essa Faal has declared that President Adama Barrow has already won the December presidential election, as he formally joined the grand coalition with the National People’s Party (NPP). Faal made the declaration during the formalisation of the alliance between hi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/faal-says-barrows-victory-assured-as-parties-tie-alliance/",
-      "publishedAt": "2026-09-28T09:12:26.000Z",
-      "collectedAt": "2026-09-28T13:35:00.035Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "754d78209bd54e84",
-      "title": "Chairman Darboe indicts Barrow over ‘corruption, crime rate, mass exodus’ of youths in past 5 years",
-      "summary": "By Tabora Bojang Brikama Area Council chairman and UDP executive member Yankuba Darboe has charged that the last five years of the Barrow regime have been marked by “glorified corruption, heightened crime rates, and maternal and infant deaths. Darboe warned that this in additi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/chairman-darboe-indicts-barrow-over-corruption-crime-rate-mass-exodus-of-youths-in-past-5-years/",
-      "publishedAt": "2026-09-28T09:07:14.000Z",
-      "collectedAt": "2026-09-28T13:35:00.035Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T12:57:05.280Z",
-    "count": 11
+    "generatedAt": "2026-10-01T19:24:17.745Z",
+    "count": 9
   }
 }

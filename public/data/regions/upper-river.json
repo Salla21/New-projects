@@ -22,33 +22,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ec4753600cd60b5c",
-      "title": "Magistrate imposes 10 years, says no mercy for rapist",
-      "summary": "By Amadou Jadama Senior Magistrate Ismaila Dibba of Basse, has asserted that under Gambian law, rape is among the most serious offences, and therefore perpetrators should not expect leniency in sentencing. Magistrate Dibba said this on Wednesday while sentencing one Ebrima Tra...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/magistrate-imposes-10-years-says-no-mercy-for-rapist/",
-      "publishedAt": "2026-09-28T09:10:50.000Z",
-      "collectedAt": "2026-09-28T13:35:00.035Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T12:57:05.280Z",
-    "count": 2
+    "generatedAt": "2026-10-01T19:24:17.745Z",
+    "count": 1
   }
 }
