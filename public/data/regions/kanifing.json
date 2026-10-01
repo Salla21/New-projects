@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "1729c105a787f9a6",
+      "title": "Kanifing Revising Court says ‘suspicion is not proof’ as it",
+      "summary": "Dismisses objection against Adama Bah By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Adama Bah’s eligibility to remain on the voters’ register, ruling that the objector failed to provide sufficient evidence to prove that she is not a Gambi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kanifing-revising-court-says-suspicion-is-not-proof-as-it/",
+      "publishedAt": "2026-10-01T12:25:14.000Z",
+      "collectedAt": "2026-10-01T12:56:58.663Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e1e4ce809da319dc",
       "title": "Magistrate Dismisses UDP Agent Fatou Darboe’s Challenge to Okiye Raymond Kin’s Voter Registration",
       "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging the retention of Okiye Raymond Kin’s name on the voters’ register for Bakau, ruling that the objector failed to prove that he was not a Gambian citizen. The judgment was delivered by Magistrat...",
@@ -136,7 +159,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T05:27:47.856Z",
-    "count": 6
+    "generatedAt": "2026-10-01T12:57:05.280Z",
+    "count": 7
   }
 }

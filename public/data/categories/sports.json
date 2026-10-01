@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "9b5ecc6aaa211b8e",
+      "title": "The Gallant Scorpions: A commendable performance in Afcon qualifiers",
+      "summary": "The national team has delivered an impressive performance, beating Ghana 4-2 away in Accra, demonstrating determination, discipline, and a strong sense of purpose. From the opening moments of the match, the players showed great commitment even under immense pressure and two  g...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/the-gallant-scorpions-a-commendable-performance-in-afcon-qualifiers/",
+      "publishedAt": "2026-10-01T09:36:36.000Z",
+      "collectedAt": "2026-10-01T12:56:50.454Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "736cad035a7383df",
       "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
       "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
@@ -57,7 +80,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-01T05:27:42.156Z",
+      "collectedAt": "2026-10-01T12:56:58.979Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -73,7 +96,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T05:27:47.856Z",
-    "count": 3
+    "generatedAt": "2026-10-01T12:57:05.280Z",
+    "count": 4
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "923692685111f0df",
+      "title": "Brufut Alkalo says he relied on informants to attest residents he did not know",
+      "summary": "By Mariama Marong The Alkalo of Brufut, Malamin Manneh, has told the Brusubi Revising Court that he relied on information provided by a community representative when he attested people in Wulingkama whom he said he had never met. Mr Manneh was giving evidence before Magistrate...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/brufut-alkalo-says-he-relied-on-informants-to-attest-residents-he-did-not-know/",
+      "publishedAt": "2026-10-01T12:10:02.000Z",
+      "collectedAt": "2026-10-01T12:56:58.663Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -139,29 +160,6 @@
       "status": "published"
     },
     {
-      "id": "09db8519b0c0b180",
-      "title": "IEC take note: Hate speech and tribal incitement are electoral offences",
-      "summary": "Election season is upon us in The Gambia, and with it, a familiar, foul smell. Listen to the audios on WhatsApp. Watch the live videos on Facebook and TikTok. Sit in a taxi rank in Brikama or a bantaba in Kuntaur. Or listen to some politicians at rallies like the president and...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/iec-take-note-hate-speech-and-tribal-incitement-are-electoral-offences/",
-      "publishedAt": "2026-09-28T09:04:56.000Z",
-      "collectedAt": "2026-09-28T13:35:00.035Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -170,7 +168,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-01T05:27:42.156Z",
+      "collectedAt": "2026-10-01T12:56:58.979Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -186,7 +184,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T05:27:47.856Z",
+    "generatedAt": "2026-10-01T12:57:05.280Z",
     "count": 8
   }
 }

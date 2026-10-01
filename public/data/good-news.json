@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "e4be56312bc32708",
+      "title": "STAND-Gambia trains 10 women amputees in tie-dye making",
+      "summary": "By Olimatou Coker STAND-Gambia, in partnership with the European Union (EU), has trained 10 women amputees in tie-dye production as part of a three-day skills development and entrepreneurship training under its Ladies Empowerment for Growth and Success (LEGS) initiative. The t...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/stand-gambia-trains-10-women-amputees-in-tie-dye-making/",
+      "publishedAt": "2026-10-01T09:37:50.000Z",
+      "collectedAt": "2026-10-01T12:56:50.454Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Olimatou Coker",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9b5ecc6aaa211b8e",
+      "title": "The Gallant Scorpions: A commendable performance in Afcon qualifiers",
+      "summary": "The national team has delivered an impressive performance, beating Ghana 4-2 away in Accra, demonstrating determination, discipline, and a strong sense of purpose. From the opening moments of the match, the players showed great commitment even under immense pressure and two  g...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/the-gallant-scorpions-a-commendable-performance-in-afcon-qualifiers/",
+      "publishedAt": "2026-10-01T09:36:36.000Z",
+      "collectedAt": "2026-10-01T12:56:50.454Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d0c83cdd8672db8e",
       "title": "NAWEC Says Electricity Supply Is Improving as Regional Imports and Local Generation Recover",
       "summary": "By Seedy Jobe Officials of the National Water and Electricity Company said Wednesday that electricity supply has improved significantly in the Greater Banjul Area and across The Gambia, following weeks of disruptions caused by problems with domestic generators and regional pow...",
@@ -337,33 +383,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "98f9a873dc4f008b",
-      "title": "Barrow Welcomes Essa Faal Into Ruling Alliance, Declares December Election ‘Already Won’",
-      "summary": "By Makutu Manneh President Adama Barrow on Sunday formally welcomed Essa Mbye Faal, the leader of APP-Sobeyaa and one of his former political critics, into the governing National People’s Party-led alliance, declaring that the new partnership had strengthened his confidence ah...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-welcomes-essa-faal-into-ruling-alliance-declares-december-election-already-won/",
-      "publishedAt": "2026-09-27T23:11:49.000Z",
-      "collectedAt": "2026-09-28T05:00:02.261Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T05:27:47.856Z",
-    "count": 16
+    "generatedAt": "2026-10-01T12:57:05.280Z",
+    "count": 17
   }
 }

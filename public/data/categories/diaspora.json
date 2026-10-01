@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "e4be56312bc32708",
+      "title": "STAND-Gambia trains 10 women amputees in tie-dye making",
+      "summary": "By Olimatou Coker STAND-Gambia, in partnership with the European Union (EU), has trained 10 women amputees in tie-dye production as part of a three-day skills development and entrepreneurship training under its Ladies Empowerment for Growth and Success (LEGS) initiative. The t...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/stand-gambia-trains-10-women-amputees-in-tie-dye-making/",
+      "publishedAt": "2026-10-01T09:37:50.000Z",
+      "collectedAt": "2026-10-01T12:56:50.454Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Olimatou Coker",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "66d37f2c31f1787b",
       "title": "Gambia Immigration Department Intercepts 101 Suspected ‘Backway’ Migrants in Mandinaba",
       "summary": "By Makutu Manneh The Gambia Immigration Department said it intercepted 101 people suspected of attempting to migrate irregularly through the country’s perilous “backway” route during an operation in Mandinaba on Tuesday, Sept. 29. The operation, carried out by officers from th...",
@@ -358,34 +381,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "433420284d93b75e",
-      "title": "Barrow Renews Call for Darboe to Join Alliance, Says He Wants Unopposed Election",
-      "summary": "By Makutu Manneh President Adama Barrow on Sunday renewed his appeal to United Democratic Party leader Ousainu Darboe to join his political alliance, saying such a move would allow him to run unopposed in The Gambia’s December presidential election and spare the country the co...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-renews-call-for-darboe-to-join-alliance-says-he-wants-unopposed-election/",
-      "publishedAt": "2026-09-27T23:06:56.000Z",
-      "collectedAt": "2026-09-28T05:00:02.261Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T05:27:47.856Z",
+    "generatedAt": "2026-10-01T12:57:05.280Z",
     "count": 16
   }
 }

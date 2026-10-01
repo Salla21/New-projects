@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "2b705f80195a1aaa",
+      "title": "‘How Can We Feed Our Children?’: The Silent Heartbreak of Badibou Salikene’s Fishermen",
+      "summary": "Written by: Dawda Baldeh Under the heavy, humid sky of Badibou Salikene, the river looks deceptively unchanged. The gentle movement of the water against the shore carries a familiar rhythm. But behind that calm lies a growing crisis for fishermen who have depended on these wat...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/how-can-we-feed-our-children-the-silent-heartbreak-of-badibou-salikenes-fishermen/",
+      "publishedAt": "2026-10-01T11:41:09.000Z",
+      "collectedAt": "2026-10-01T12:56:59.139Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "df52bd815fd4673f",
       "title": "GCCPC Deepens Global Competition Cooperation with Türkiye Through Strategic MoU",
       "summary": "The Gambia Competition and Consumer Protection Commission (GCCPC) has strengthened its international cooperation in competition regulation with the signing of a strategic Memorandum of Understanding (MoU) with the Turkish Competition Authority, opening new opportunities for sp...",
@@ -254,7 +275,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T05:27:47.856Z",
-    "count": 11
+    "generatedAt": "2026-10-01T12:57:05.280Z",
+    "count": 12
   }
 }

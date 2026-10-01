@@ -649,33 +649,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "09db8519b0c0b180",
-      "title": "IEC take note: Hate speech and tribal incitement are electoral offences",
-      "summary": "Election season is upon us in The Gambia, and with it, a familiar, foul smell. Listen to the audios on WhatsApp. Watch the live videos on Facebook and TikTok. Sit in a taxi rank in Brikama or a bantaba in Kuntaur. Or listen to some politicians at rallies like the president and...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/iec-take-note-hate-speech-and-tribal-incitement-are-electoral-offences/",
-      "publishedAt": "2026-09-28T09:04:56.000Z",
-      "collectedAt": "2026-09-28T13:35:00.035Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T05:27:47.856Z",
-    "count": 29
+    "generatedAt": "2026-10-01T12:57:05.280Z",
+    "count": 28
   }
 }
