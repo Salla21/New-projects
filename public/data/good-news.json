@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "e294f4390a98e136",
+      "title": "MAYOR LOWE APPEALS FINDINGS OF LG COMMISSION",
+      "summary": "The mayor of Banjul, Roheyatou Malick Lowe, has filed an appeal at the Court of Appeal of The Gambia challenging the adverse findings and recommendations made against her by the Commission of Inquiry into the Conduct of Local Government Councils. In a Notice of Appeal filed on...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/mayor-lowe-appeals-findings-of-lg-commission2/",
+      "publishedAt": "2026-10-02T09:27:52.000Z",
+      "collectedAt": "2026-10-02T12:19:09.347Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a9d625524b40593a",
+      "title": "Army captain reportedly detained for allegedly denouncing new Ecomig deployment",
+      "summary": "By Tabora Bojang Ebrima Ceesay, a captain in the Gambian army has reportedly been arrested and detained by military police in Banjul after he allegedly protested the arrival of new Senegalese troops in an audio recording. Captain Ceesay was deployed at the Defence Headquarters...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/army-captain-reportedly-detained-for-allegedly-denouncing-new-ecomig-deployment/",
+      "publishedAt": "2026-10-02T09:25:57.000Z",
+      "collectedAt": "2026-10-02T12:19:09.347Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "cb960183806f3676",
+      "title": "Macky’s position weakens after 4th UN straw vote",
+      "summary": "On Tuesday, the UN Security Council held its fourth straw poll to gauge the level of support for candidates vying to become the next UN secretary-general. For Macky Sall, this latest test did not bring the hoped-for improvement. His candidacy retains the support of five member...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/mackys-position-weakens-after-4th-un-straw-vote/",
+      "publishedAt": "2026-10-02T09:22:18.000Z",
+      "collectedAt": "2026-10-02T12:19:09.347Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e4be56312bc32708",
       "title": "STAND-Gambia trains 10 women amputees in tie-dye making",
       "summary": "By Olimatou Coker STAND-Gambia, in partnership with the European Union (EU), has trained 10 women amputees in tie-dye production as part of a three-day skills development and entrepreneurship training under its Ladies Empowerment for Growth and Success (LEGS) initiative. The t...",
@@ -347,7 +415,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-02T05:15:29.974Z",
+      "collectedAt": "2026-10-02T12:22:18.817Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -363,7 +431,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T05:15:35.306Z",
-    "count": 16
+    "generatedAt": "2026-10-02T12:22:41.190Z",
+    "count": 19
   }
 }

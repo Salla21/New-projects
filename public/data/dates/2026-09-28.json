@@ -45,27 +45,6 @@
       "status": "published"
     },
     {
-      "id": "849d3868b6980374",
-      "title": "NDP Leader Urges Gambian Youths to Distinguish Between ‘Deceivers’ and Genuine Leaders",
-      "summary": "By Seedy Jobe Kebba Madi Bojang, leader of the National Democratic Party, has urged young Gambians to scrutinize political leaders carefully and distinguish between those he described as seeking to deceive them and those genuinely committed to addressing their concerns. Mr. Bo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndp-leader-urges-gambian-youths-to-distinguish-between-deceivers-and-genuine-leaders/",
-      "publishedAt": "2026-09-28T15:33:10.000Z",
-      "collectedAt": "2026-09-28T20:29:58.245Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "191bff8152a9318b",
       "title": "Air Sénégal Cabin Crew Suspended as Interpol Reportedly Investigates Suspected Trafficking Network",
       "summary": "Published by: The Fatu Network Air Sénégal has suspended Senegalese cabin crew assigned to its Dakar–Paris route as reports emerge of an international investigation into suspected trafficking involving some members of the airline’s commercial flight crew. Senegalese newspaper ...",
@@ -74,7 +53,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-02T05:15:29.974Z",
+      "collectedAt": "2026-10-02T12:22:18.817Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -97,7 +76,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
       "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-02T05:15:29.974Z",
+      "collectedAt": "2026-10-02T12:22:18.817Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -120,7 +99,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/niro-responds-to-recent-claims-regarding-competition-at-banjul-international-airport/",
       "publishedAt": "2026-09-28T11:36:24.000Z",
-      "collectedAt": "2026-10-02T05:15:29.974Z",
+      "collectedAt": "2026-10-02T12:22:18.817Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -143,7 +122,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/former-guinea-bissau-president-embalo-announces-october-4th-return-after-nearly-a-year-abroad/",
       "publishedAt": "2026-09-28T11:08:12.000Z",
-      "collectedAt": "2026-10-02T05:15:29.974Z",
+      "collectedAt": "2026-10-02T12:22:18.817Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -160,7 +139,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T05:15:35.306Z",
-    "count": 7
+    "generatedAt": "2026-10-02T12:22:41.190Z",
+    "count": 6
   }
 }

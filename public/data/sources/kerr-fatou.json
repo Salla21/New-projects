@@ -643,31 +643,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "849d3868b6980374",
-      "title": "NDP Leader Urges Gambian Youths to Distinguish Between ‘Deceivers’ and Genuine Leaders",
-      "summary": "By Seedy Jobe Kebba Madi Bojang, leader of the National Democratic Party, has urged young Gambians to scrutinize political leaders carefully and distinguish between those he described as seeking to deceive them and those genuinely committed to addressing their concerns. Mr. Bo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndp-leader-urges-gambian-youths-to-distinguish-between-deceivers-and-genuine-leaders/",
-      "publishedAt": "2026-09-28T15:33:10.000Z",
-      "collectedAt": "2026-09-28T20:29:58.245Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T05:15:35.306Z",
-    "count": 29
+    "generatedAt": "2026-10-02T12:22:41.190Z",
+    "count": 28
   }
 }

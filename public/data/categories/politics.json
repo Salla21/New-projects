@@ -1,6 +1,127 @@
 {
   "items": [
     {
+      "id": "3b9501557f22efd8",
+      "title": "Spanish and Argentinian arrested at airport with 11,771 pills, crystal meth",
+      "summary": "By Olimatou Coker The Drug Law Enforcement Agency, The Gambia (DLEAG), has arrested two foreign nationals at the Banjul International Airport after they were allegedly found in possession of 11,771 suspected ecstasy pills and 18 large stones of suspected crystal methamphetamin...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/spanish-and-argentinian-arrested-at-airport-with-11771-pills-crystal-meth/",
+      "publishedAt": "2026-10-02T09:25:07.000Z",
+      "collectedAt": "2026-10-02T12:19:09.347Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8bfb38b48501eede",
+      "title": "UDP, Banjul mayor rebut NAM for branding Banjulians as opportunistic",
+      "summary": "By Tabora Bojang Nominated National Assembly Member and Secretary of Diaspora Affairs for the ruling National People’s Party Maimuna Ceesay-Darboe, has come under criticism for describing the people of Banjul as politically opportunistic at an NPP rally in Baddibu. In a video ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/udp-banjul-mayor-rebut-nam-for-branding-banjulians-as-opportunistic/",
+      "publishedAt": "2026-10-02T09:24:38.000Z",
+      "collectedAt": "2026-10-02T12:19:09.347Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d28b752c05023b6d",
+      "title": "Minister says CBG’s high interest rates inflated debt interest to D3 billion in first half of 2026",
+      "summary": "By Tabora Bojang Finance minister Seedy Keita has disclosed that the higher interest rates of the Central Bank has caused an increase in the country’s debt interest expenditure which grew by 18 per cent to reach D3.10 billion in the first half of 2026 financial year. Of this a...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/minister-says-cbgs-high-interest-rates-inflated-debt-interest-to-d3-billion-in-first-half-of-2026/",
+      "publishedAt": "2026-10-02T09:24:00.000Z",
+      "collectedAt": "2026-10-02T12:19:09.347Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5d14370b1ba1ac40",
+      "title": "Victims’ Centre clarifies it does not endorse political groupings",
+      "summary": "The Gambia Centre for Victims of Human Rights Violations (Victims’ Centre) has issued a statement yesterday clarifying its position regarding the coalition-building meeting for “Team Gambia” held on 12th September at the Paradise Suites Hotel. The centre wrote: “It has come to...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/victims-centre-clarifies-it-does-not-endorse-political-groupings/",
+      "publishedAt": "2026-10-02T09:23:32.000Z",
+      "collectedAt": "2026-10-02T12:19:09.347Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "cb960183806f3676",
+      "title": "Macky’s position weakens after 4th UN straw vote",
+      "summary": "On Tuesday, the UN Security Council held its fourth straw poll to gauge the level of support for candidates vying to become the next UN secretary-general. For Macky Sall, this latest test did not bring the hoped-for improvement. His candidacy retains the support of five member...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/mackys-position-weakens-after-4th-un-straw-vote/",
+      "publishedAt": "2026-10-02T09:22:18.000Z",
+      "collectedAt": "2026-10-02T12:19:09.347Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4a21fbbde5175c14",
       "title": "Government Targets D37.4 Billion in 2027 Revenue, Banking on VAT, Excise and Customs",
       "summary": "By Staff Writer The Gambia government is targeting D37.39 billion in government revenue in 2027, a 16.1 percent increase from the D32.20 billion approved for 2026, with the government relying heavily on customs duties, value-added tax, and excise taxes to drive the increase. T...",
@@ -1258,7 +1379,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/former-guinea-bissau-president-embalo-announces-october-4th-return-after-nearly-a-year-abroad/",
       "publishedAt": "2026-09-28T11:08:12.000Z",
-      "collectedAt": "2026-10-02T05:15:29.974Z",
+      "collectedAt": "2026-10-02T12:22:18.817Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1275,7 +1396,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T05:15:35.306Z",
-    "count": 54
+    "generatedAt": "2026-10-02T12:22:41.190Z",
+    "count": 59
   }
 }

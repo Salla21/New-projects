@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "5d14370b1ba1ac40",
+      "title": "Victims’ Centre clarifies it does not endorse political groupings",
+      "summary": "The Gambia Centre for Victims of Human Rights Violations (Victims’ Centre) has issued a statement yesterday clarifying its position regarding the coalition-building meeting for “Team Gambia” held on 12th September at the Paradise Suites Hotel. The centre wrote: “It has come to...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/victims-centre-clarifies-it-does-not-endorse-political-groupings/",
+      "publishedAt": "2026-10-02T09:23:32.000Z",
+      "collectedAt": "2026-10-02T12:19:09.347Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7e95a5411de74b9d",
       "title": "Information Minister Ceesay Accuses Some CSOs of Fabricating Dictatorship Narratives for Donor Funding",
       "summary": "By Makutu Manneh Dr. Ismaila Ceesay, the Minister of Information, Media, and Broadcasting Services, has accused some civil society organizations in Africa, including in The Gambia, of exaggerating political and governance concerns to attract donor funding. Speaking during an i...",
@@ -146,7 +170,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T05:15:35.306Z",
-    "count": 6
+    "generatedAt": "2026-10-02T12:22:41.190Z",
+    "count": 7
   }
 }
