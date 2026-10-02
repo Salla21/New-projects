@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "d297795e2e1d9afe",
+      "title": "Tourism Board Suspends Beach Events as Workers Warn of Lost Income",
+      "summary": "By Nelson Manneh A dispute has emerged along the Senegambia and Bijilo beach belt after the Gambia Tourism Board (GT Board) suspended all open-air music and public entertainment events within the Tourism Development Area (TDA). Beach workers and ‘bumsters’ told Foroyaa that th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/tourism-board-suspends-beach-events-as-workers-warn-of-lost-income/",
+      "publishedAt": "2026-10-02T12:30:00.000Z",
+      "collectedAt": "2026-10-02T19:07:52.384Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8e11b7548896fd75",
+      "title": "Tax Revenue to Rise by D4.5 Billion in 2027",
+      "summary": "By Kebba A.F. Touray The Gambia’s tax revenue is projected to rise by more than D4.4 billion in 2027, according to draft estimates of revenue and expenditure presented by Finance Minister Seedy Keita. The figures form part of the government’s draft revenue and expenditure esti...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/tax-revenue-to-rise-by-d4-5-billion-in-2027/",
+      "publishedAt": "2026-10-02T12:15:00.000Z",
+      "collectedAt": "2026-10-02T19:07:52.384Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f8b74706c2313e80",
       "title": "GRA shuts down Indian firm constructing $53M UTG Faraba Campus over unpaid taxes",
       "summary": "By Omar Bah The Gambia Revenue Authority has temporarily shut down Shapoorji-Pallonji Mideast, the Indian construction giant working on the US$53.46 million University of The Gambia Faraba campus, over unpaid taxes. The Standard has learnt that the company was closed for non-c...",
@@ -956,7 +1003,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-02T12:22:18.817Z",
+      "collectedAt": "2026-10-02T19:07:52.709Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -979,7 +1026,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
       "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-02T12:22:18.817Z",
+      "collectedAt": "2026-10-02T19:07:52.709Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1002,7 +1049,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/niro-responds-to-recent-claims-regarding-competition-at-banjul-international-airport/",
       "publishedAt": "2026-09-28T11:36:24.000Z",
-      "collectedAt": "2026-10-02T12:22:18.817Z",
+      "collectedAt": "2026-10-02T19:07:52.709Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1018,7 +1065,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T12:22:41.190Z",
-    "count": 43
+    "generatedAt": "2026-10-02T19:07:59.047Z",
+    "count": 45
   }
 }

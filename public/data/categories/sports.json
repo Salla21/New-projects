@@ -49,29 +49,6 @@
       "status": "published"
     },
     {
-      "id": "689589a3cd62274a",
-      "title": "Making excuses for our family and friends",
-      "summary": "Dear Editor,Some of us are truly inventive when making excuses for our family members, friends, and colleagues. The average person in this colonial space can sound principled, honest, and rational until a family member, friend, colleague, or political ally comes under public s...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/making-excuses-for-our-family-and-friends/",
-      "publishedAt": "2026-09-29T09:37:58.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -80,7 +57,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-02T12:22:18.692Z",
+      "collectedAt": "2026-10-02T19:07:52.561Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -96,7 +73,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T12:22:41.190Z",
-    "count": 4
+    "generatedAt": "2026-10-02T19:07:59.047Z",
+    "count": 3
   }
 }

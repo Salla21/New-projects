@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "27f9dadf2693b76f",
+      "title": "Special Prosecutor Pledges Fair Trials as Gambia Moves Toward TRRC Prosecutions",
+      "summary": "By Seedy Jobe The Gambia’s special prosecutor has pledged to pursue cases stemming from the country’s truth commission with respect for both victims and defendants, stressing that accountability for past abuses must be accompanied by due process and fair trials. Martin Hackett...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/special-prosecutor-pledges-fair-trials-as-gambia-moves-toward-trrc-prosecutions/",
+      "publishedAt": "2026-10-02T18:44:07.000Z",
+      "collectedAt": "2026-10-02T19:07:54.994Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5d14370b1ba1ac40",
       "title": "Victims’ Centre clarifies it does not endorse political groupings",
       "summary": "The Gambia Centre for Victims of Human Rights Violations (Victims’ Centre) has issued a statement yesterday clarifying its position regarding the coalition-building meeting for “Team Gambia” held on 12th September at the Paradise Suites Hotel. The centre wrote: “It has come to...",
@@ -170,7 +193,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T12:22:41.190Z",
-    "count": 7
+    "generatedAt": "2026-10-02T19:07:59.047Z",
+    "count": 8
   }
 }

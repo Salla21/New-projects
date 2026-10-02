@@ -89,29 +89,6 @@
       "status": "published"
     },
     {
-      "id": "f73fc6dc64130263",
-      "title": "Gambia Immigration Arrests Suspected Smuggler, Intercepts 11 ‘Backway’ Migrants in Tanji",
-      "summary": "By Makutu Manneh The Gambia Immigration Department has arrested a man suspected of facilitating irregular migration and intercepted 11 people allegedly preparing to embark on a “backway” journey, the department said. The operation was carried out on Friday, Sept. 26, by office...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-arrests-suspected-smuggler-intercepts-11-backway-migrants-in-tanji/",
-      "publishedAt": "2026-09-28T19:46:09.000Z",
-      "collectedAt": "2026-09-28T20:29:58.245Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -120,7 +97,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-02T12:22:18.692Z",
+      "collectedAt": "2026-10-02T19:07:52.561Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -136,7 +113,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T12:22:41.190Z",
-    "count": 6
+    "generatedAt": "2026-10-02T19:07:59.047Z",
+    "count": 5
   }
 }

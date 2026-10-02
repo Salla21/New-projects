@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "61ddc6cbec6243bf",
+      "title": "Banjul Mayor Appeals Local Government Commission’s Adverse Findings",
+      "summary": "The Mayor of Banjul, Rohey Malick Lowe, has launched a legal challenge at the Court of Appeal of The Gambia, seeking to overturn adverse findings and recommendations made against her by the Commission of Inquiry into Local Government Councils. In a Notice of Appeal filed on Au...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/banjul-mayor-appeals-local-government-commissions-adverse-findings/",
+      "publishedAt": "2026-10-02T12:46:15.000Z",
+      "collectedAt": "2026-10-02T19:07:52.709Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2b705f80195a1aaa",
       "title": "‘How Can We Feed Our Children?’: The Silent Heartbreak of Badibou Salikene’s Fishermen",
       "summary": "Written by: Dawda Baldeh Under the heavy, humid sky of Badibou Salikene, the river looks deceptively unchanged. The gentle movement of the water against the shore carries a familiar rhythm. But behind that calm lies a growing crisis for fishermen who have depended on these wat...",
@@ -143,7 +164,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-02T12:22:18.817Z",
+      "collectedAt": "2026-10-02T19:07:52.709Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -166,7 +187,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
       "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-02T12:22:18.817Z",
+      "collectedAt": "2026-10-02T19:07:52.709Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -189,7 +210,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/niro-responds-to-recent-claims-regarding-competition-at-banjul-international-airport/",
       "publishedAt": "2026-09-28T11:36:24.000Z",
-      "collectedAt": "2026-10-02T12:22:18.817Z",
+      "collectedAt": "2026-10-02T19:07:52.709Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -202,34 +223,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e0e0329ead33fb7e",
-      "title": "Former Guinea-Bissau President Embaló Announces October 4th Return After Nearly a Year Abroad",
-      "summary": "Published by: The Fatu Network Former Guinea-Bissau President Umaro Sissoco Embaló has announced he will return home on October 4th, nearly a year after he was ousted in a military takeover and left the country just before the results of a disputed presidential election were d...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/former-guinea-bissau-president-embalo-announces-october-4th-return-after-nearly-a-year-abroad/",
-      "publishedAt": "2026-09-28T11:08:12.000Z",
-      "collectedAt": "2026-10-02T12:22:18.817Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T12:22:41.190Z",
+    "generatedAt": "2026-10-02T19:07:59.047Z",
     "count": 10
   }
 }

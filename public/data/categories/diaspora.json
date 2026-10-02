@@ -287,57 +287,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f73fc6dc64130263",
-      "title": "Gambia Immigration Arrests Suspected Smuggler, Intercepts 11 ‘Backway’ Migrants in Tanji",
-      "summary": "By Makutu Manneh The Gambia Immigration Department has arrested a man suspected of facilitating irregular migration and intercepted 11 people allegedly preparing to embark on a “backway” journey, the department said. The operation was carried out on Friday, Sept. 26, by office...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-arrests-suspected-smuggler-intercepts-11-backway-migrants-in-tanji/",
-      "publishedAt": "2026-09-28T19:46:09.000Z",
-      "collectedAt": "2026-09-28T20:29:58.245Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e0e0329ead33fb7e",
-      "title": "Former Guinea-Bissau President Embaló Announces October 4th Return After Nearly a Year Abroad",
-      "summary": "Published by: The Fatu Network Former Guinea-Bissau President Umaro Sissoco Embaló has announced he will return home on October 4th, nearly a year after he was ousted in a military takeover and left the country just before the results of a disputed presidential election were d...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/former-guinea-bissau-president-embalo-announces-october-4th-return-after-nearly-a-year-abroad/",
-      "publishedAt": "2026-09-28T11:08:12.000Z",
-      "collectedAt": "2026-10-02T12:22:18.817Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T12:22:41.190Z",
-    "count": 14
+    "generatedAt": "2026-10-02T19:07:59.047Z",
+    "count": 12
   }
 }

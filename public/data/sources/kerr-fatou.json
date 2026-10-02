@@ -1,6 +1,121 @@
 {
   "items": [
     {
+      "id": "bc1a0c7ab690a130",
+      "title": "Barrow Says Decline in Requests for Basic Services Shows Gambia Has Changed",
+      "summary": "By Makutu Manneh President Adama Barrow said Thursday that the absence of requests for basic services from communities in Lower Niumi was evidence of what he described as significant development gains under his administration. Mr. Barrow made the remarks in Passy Chally as he ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-says-decline-in-requests-for-basic-services-shows-gambia-has-changed/",
+      "publishedAt": "2026-10-02T19:01:09.000Z",
+      "collectedAt": "2026-10-02T19:07:54.994Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "27f9dadf2693b76f",
+      "title": "Special Prosecutor Pledges Fair Trials as Gambia Moves Toward TRRC Prosecutions",
+      "summary": "By Seedy Jobe The Gambia’s special prosecutor has pledged to pursue cases stemming from the country’s truth commission with respect for both victims and defendants, stressing that accountability for past abuses must be accompanied by due process and fair trials. Martin Hackett...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/special-prosecutor-pledges-fair-trials-as-gambia-moves-toward-trrc-prosecutions/",
+      "publishedAt": "2026-10-02T18:44:07.000Z",
+      "collectedAt": "2026-10-02T19:07:54.994Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "70be604a41ee7781",
+      "title": "Bensouda Rules Out Rejoining UDP but Leaves Door Open to Opposition Cooperation",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and the presidential candidate of Coalition 2026, said he would never rejoin the United Democratic Party, though he is willing to discuss cooperation with it before the Dec. 5 presidential election. His remarks come as ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-rules-out-rejoining-udp-but-leaves-door-open-to-opposition-cooperation/",
+      "publishedAt": "2026-10-02T18:34:36.000Z",
+      "collectedAt": "2026-10-02T19:07:54.994Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b5e04ebb7179271f",
+      "title": "Bensouda Accuses NPP of Prioritizing Elections Over Governing",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the leader of UNITE and presidential flagbearer of Coalition 2026, has accused the National People’s Party of concentrating on winning elections while neglecting the country’s development challenges. Speaking on Coffee Time, Bensouda quest...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-accuses-npp-of-prioritizing-elections-over-governing/",
+      "publishedAt": "2026-10-02T18:18:58.000Z",
+      "collectedAt": "2026-10-02T19:07:54.994Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7f6a03cf8644ebe1",
+      "title": "Coalition 2026 Spokesperson: Senegal Must Respect Our Sovereignty; We Are No Colony",
+      "summary": "By Seedy Jobe Assan Martin, a lawyer and spokesman for Coalition 2026, has called for The Gambia to take greater control of its national security, arguing that the presence of Senegalese personnel around President Adama Barrow undermines the country’s sovereignty. Speaking in ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/coalition-2026-spokesperson-senegal-must-respect-our-sovereignty-we-are-no-colony/",
+      "publishedAt": "2026-10-02T18:11:32.000Z",
+      "collectedAt": "2026-10-02T19:07:54.994Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4a21fbbde5175c14",
       "title": "Government Targets D37.4 Billion in 2027 Revenue, Banking on VAT, Excise and Customs",
       "summary": "By Staff Writer The Gambia government is targeting D37.39 billion in government revenue in 2027, a 16.1 percent increase from the D32.20 billion approved for 2026, with the government relying heavily on customs duties, value-added tax, and excise taxes to drive the increase. T...",
@@ -553,100 +668,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "75fcaf31d4d80788",
-      "title": "Dr. Omar Sambou Says Barrow Will Lose Despite Large Rally Crowds",
-      "summary": "By Seedy Jobe Prominent Gambian environmental scientist, academic, and activist Dr. Omar Malmo Sambou has argued that President Adama Barrow will lose the December presidential election, dismissing large crowds at the president’s rallies and a growing number of opposition figu...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-omar-sambou-says-barrow-will-lose-despite-large-rally-crowds/",
-      "publishedAt": "2026-09-29T00:06:38.000Z",
-      "collectedAt": "2026-09-29T01:44:32.564Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3a0983f47445451e",
-      "title": "GMP Joins NPP Alliance Hours After Withdrawing From Coalition 2026",
-      "summary": "By Seedy Jobe The leader of the Gambia Movement for Progress (GMP), Professor Sidat Yaffa, announced on Monday that his party had joined an alliance with the ruling National People’s Party (NPP), hours after withdrawing from Coalition 2026. Professor Yaffa announced the decisi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gmp-joins-npp-alliance-hours-after-withdrawing-from-coalition-2026/",
-      "publishedAt": "2026-09-29T00:00:29.000Z",
-      "collectedAt": "2026-09-29T01:44:32.564Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f73fc6dc64130263",
-      "title": "Gambia Immigration Arrests Suspected Smuggler, Intercepts 11 ‘Backway’ Migrants in Tanji",
-      "summary": "By Makutu Manneh The Gambia Immigration Department has arrested a man suspected of facilitating irregular migration and intercepted 11 people allegedly preparing to embark on a “backway” journey, the department said. The operation was carried out on Friday, Sept. 26, by office...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-arrests-suspected-smuggler-intercepts-11-backway-migrants-in-tanji/",
-      "publishedAt": "2026-09-28T19:46:09.000Z",
-      "collectedAt": "2026-09-28T20:29:58.245Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5d5744b74ab4f8ab",
-      "title": "Lands Ministry Inaugurates Committees to Advance National Land Policy",
-      "summary": "By Seedy Jobe The Ministry of Lands, Regional Government, and Religious Affairs on Monday inaugurated two committees charged with advancing the implementation of The Gambia’s National Land Policy, a decade-long framework designed to overhaul land administration, strengthen ten...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lands-ministry-inaugurates-committees-to-advance-national-land-policy/",
-      "publishedAt": "2026-09-28T19:30:17.000Z",
-      "collectedAt": "2026-09-28T20:29:58.245Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T12:22:41.190Z",
-    "count": 28
+    "generatedAt": "2026-10-02T19:07:59.047Z",
+    "count": 29
   }
 }
