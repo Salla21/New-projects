@@ -114,29 +114,6 @@
       "status": "published"
     },
     {
-      "id": "17fb96dfd70b3d03",
-      "title": "IEC Officer Testifies Over Disputed Alkalo Attestation in Bundung Revising Court Case",
-      "summary": "By Mariama Marong An officer of the Independent Electoral Commission (IEC) has testified before the Brusubi Revising Court in a case involving an attestation submitted during the voter registration process by Maram Sallah, the objectee. The case was brought by Abdul Karim Dram...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-officer-testifies-over-disputed-alkalo-attestation-in-bundung-revising-court-case/",
-      "publishedAt": "2026-09-29T14:23:23.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6c0fd96bce4cb8ba",
       "title": "Journalist-turned-politician Sulayman Waan to launch Change Front manifesto on October 2",
       "summary": "Written by: Dawda Baldeh Journalist-turned-politician Sulayman Waan is set to officially launch the Change Front political movement’s manifesto, The Salvation, on Friday, October 2, 2026, at the YMCA in Kanifing Municipality. The more than 100-page document, comprising approxi...",
@@ -145,7 +122,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "kanifing",
       "categories": [],
       "contentType": "article",
@@ -159,7 +136,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T19:07:59.047Z",
-    "count": 7
+    "generatedAt": "2026-10-02T23:41:35.031Z",
+    "count": 6
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "d07ba08a5d4d0041",
+      "title": "Barrow Accuses Political Rivals of Looking Down on Rural Gambians",
+      "summary": "By Makutu Manneh President Adama Barrow has accused some of his political rivals of looking down on rural Gambians, casting himself and his coalition as more attuned to the concerns of provincial communities as the country moves closer to the Dec. 5 presidential election. Spea...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-accuses-political-rivals-of-looking-down-on-rural-gambians/",
+      "publishedAt": "2026-10-02T19:13:16.000Z",
+      "collectedAt": "2026-10-02T23:41:30.800Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bc1a0c7ab690a130",
       "title": "Barrow Says Decline in Requests for Basic Services Shows Gambia Has Changed",
       "summary": "By Makutu Manneh President Adama Barrow said Thursday that the absence of requests for basic services from communities in Lower Niumi was evidence of what he described as significant development gains under his administration. Mr. Barrow made the remarks in Passy Chally as he ...",
@@ -1156,125 +1179,6 @@
       "status": "published"
     },
     {
-      "id": "17fb96dfd70b3d03",
-      "title": "IEC Officer Testifies Over Disputed Alkalo Attestation in Bundung Revising Court Case",
-      "summary": "By Mariama Marong An officer of the Independent Electoral Commission (IEC) has testified before the Brusubi Revising Court in a case involving an attestation submitted during the voter registration process by Maram Sallah, the objectee. The case was brought by Abdul Karim Dram...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-officer-testifies-over-disputed-alkalo-attestation-in-bundung-revising-court-case/",
-      "publishedAt": "2026-09-29T14:23:23.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b14773ce95ad22d0",
-      "title": "Alkalo of Bijilo Testifies in Voter Registration Objection Case",
-      "summary": "By Mariama Marong The Alkalo of Bijilo, Sulayman Jatta, on Monday testified in a voter registration objection case involving objector Bubacarr Jaiteh and objectee Alpha Omar Jallow before Magistrate Mam Samba Jallow at the Brusubi Revising Court. Counsel Ya Kumba Jaiteh repres...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/alkalo-of-bijilo-testifies-in-voter-registration-objection-case/",
-      "publishedAt": "2026-09-29T14:21:41.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "65049951cae07761",
-      "title": "State House Gets D723.8 Million in 2027 Estimates",
-      "summary": "By Kebba A.F. Touray The 2027 Budget Estimates tabled before the National Assembly by the Minister of Finance have set out the salaries and staffing costs for the Office of the President, the Cabinet Office, the Presidential Household, the Office of the National Security Advis...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/state-house-gets-d723-8-million-in-2027-estimates/",
-      "publishedAt": "2026-09-29T14:16:55.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "01685929bd4a52d8",
-      "title": "Breakdown of National Assembly Salary, Allowances in 2027 Estimates",
-      "summary": "By Yankuba Jallow The allowances of lawmakers and staff of The Gambia’s National Assembly are set to cost more than D152,714,000 in 2027, according to budget estimates presented to lawmakers by the Minister of Finance. In 2026, the approved amount for allowances is D152,186,00...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/breakdown-of-national-assembly-salary-allowances-in-2027-estimates/",
-      "publishedAt": "2026-09-29T14:14:54.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "27be126ac0e09f6c",
-      "title": "COALITION BUILDING PROCESS: THE DUST IS YET TO SETTLE",
-      "summary": "Poverty is immense, livelihoods are lacking, unemployment is rampant and the perilous irregular migration resulting in numerous deaths is now the order of the day, the 141-billion-dalasi debt burden is telling its toll on the nation as over 16 billion dalasi is sought to be al...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/coalition-building-process-the-dust-is-yet-to-settle/",
-      "publishedAt": "2026-09-29T14:02:48.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "736cad035a7383df",
       "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
       "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
@@ -1283,7 +1187,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1308,7 +1212,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/analysis-as-alliances-grow-cracks-are-opening-on-both-sides-of-gambias-political-divide/",
       "publishedAt": "2026-09-29T11:03:52.000Z",
-      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1321,128 +1225,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fdccb11b0fd82b50",
-      "title": "20 NPP OFFICIALS DECAMP TO NDP",
-      "summary": "Even before the dust is settled from Monday night’s celebration of the unveiling of Essa Faal at State House, the governing National People’s Party (NPP) has been rocked by mass resignations from among its grassroots officials across many constituencies in the country. Yesterd...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/20-npp-officials-decamp-to-ndp/",
-      "publishedAt": "2026-09-29T09:41:15.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "39d7d4ec21fab53f",
-      "title": "UDP slams predictions of a Barrow win as a fallacy",
-      "summary": "The youth leader of the opposition United Democratic Party Haji Suwaneh  has said any prediction by pollsters or analysts  local, or international, for a Barrow victory in the December 5 election is just mere fallacy, ‘because it will not  happen’. He was reacting to a recent ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/udp-slams-predictions-of-a-barrow-win-as-a-fallacy/",
-      "publishedAt": "2026-09-29T09:41:07.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "97e8931ca67b9eb6",
-      "title": "APP-Sobeyaa to publish agreement with NPP",
-      "summary": "In a rare departure from the norm, the APP-Sobeyaa the newest kid on the block in the NPP grand alliance, has said it will publish the full details of its agreement with the ruling party. The group’s national spokesperson Ousainou Bobb told The Standard yesterday that the agre...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/app-sobeyaa-to-publish-agreement-with-npp/",
-      "publishedAt": "2026-09-29T09:40:32.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b6220883df07c68c",
-      "title": "Lands policy implementation committee inaugurated",
-      "summary": "The Ministry of Lands, Regional Government and Religious Affairs officially inaugurated the National Land Policy Implementation Steering Committee and the Mansa Bengo Committee, key governance structures to oversee the implementation of The Gambia’s National Land Policy 2026–2...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/lands-policy-implementation-committee-inaugurated/",
-      "publishedAt": "2026-09-29T09:40:23.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "905f1344eb431bc6",
-      "title": "Ex-information minister Jawo speaks on US visa revocation",
-      "summary": "According veteran journalist and a former minister of information Demba Jawo, he has received an email purportedly from the US embassy revoking his ten years visa. Jawo occasionally travels to the US where his daughters live. “On 16th September, 2026, I received an email, purp...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/ex-information-minister-jawo-speaks-on-us-visa-revocation/",
-      "publishedAt": "2026-09-29T09:39:38.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T19:07:59.047Z",
-    "count": 61
+    "generatedAt": "2026-10-02T23:41:35.031Z",
+    "count": 52
   }
 }

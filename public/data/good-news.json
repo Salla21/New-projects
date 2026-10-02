@@ -281,35 +281,12 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "kanifing",
       "categories": [],
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b6220883df07c68c",
-      "title": "Lands policy implementation committee inaugurated",
-      "summary": "The Ministry of Lands, Regional Government and Religious Affairs officially inaugurated the National Land Policy Implementation Steering Committee and the Mansa Bengo Committee, key governance structures to oversee the implementation of The Gambia’s National Land Policy 2026–2...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/lands-policy-implementation-committee-inaugurated/",
-      "publishedAt": "2026-09-29T09:40:23.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
       "language": "en",
       "isGoodNews": true,
       "isOfficialSource": false,
@@ -325,7 +302,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-02T19:07:52.709Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -341,7 +318,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T19:07:59.047Z",
-    "count": 15
+    "generatedAt": "2026-10-02T23:41:35.031Z",
+    "count": 14
   }
 }

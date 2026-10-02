@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "3eb7925e7dd19870",
+      "title": "Gambia’s Special Prosecutor Lays Out Evidence-Driven Strategy for TRRC Cases",
+      "summary": "By Seedy Jobe The Gambia’s special prosecutor, Martin Hackett, has outlined a prosecution strategy for crimes identified by the Truth, Reconciliation, and Reparations Commission, saying his office is building cases around evidence, established principles of criminal liability,...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambias-special-prosecutor-lays-out-evidence-driven-strategy-for-trrc-cases/",
+      "publishedAt": "2026-10-02T19:38:33.000Z",
+      "collectedAt": "2026-10-02T23:41:30.800Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d07ba08a5d4d0041",
+      "title": "Barrow Accuses Political Rivals of Looking Down on Rural Gambians",
+      "summary": "By Makutu Manneh President Adama Barrow has accused some of his political rivals of looking down on rural Gambians, casting himself and his coalition as more attuned to the concerns of provincial communities as the country moves closer to the Dec. 5 presidential election. Spea...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-accuses-political-rivals-of-looking-down-on-rural-gambians/",
+      "publishedAt": "2026-10-02T19:13:16.000Z",
+      "collectedAt": "2026-10-02T23:41:30.800Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bc1a0c7ab690a130",
       "title": "Barrow Says Decline in Requests for Basic Services Shows Gambia Has Changed",
       "summary": "By Makutu Manneh President Adama Barrow said Thursday that the absence of requests for basic services from communities in Lower Niumi was evidence of what he described as significant development gains under his administration. Mr. Barrow made the remarks in Passy Chally as he ...",
@@ -404,59 +448,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3b9501557f22efd8",
-      "title": "Spanish and Argentinian arrested at airport with 11,771 pills, crystal meth",
-      "summary": "By Olimatou Coker The Drug Law Enforcement Agency, The Gambia (DLEAG), has arrested two foreign nationals at the Banjul International Airport after they were allegedly found in possession of 11,771 suspected ecstasy pills and 18 large stones of suspected crystal methamphetamin...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/spanish-and-argentinian-arrested-at-airport-with-11771-pills-crystal-meth/",
-      "publishedAt": "2026-10-02T09:25:07.000Z",
-      "collectedAt": "2026-10-02T12:19:09.347Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8bfb38b48501eede",
-      "title": "UDP, Banjul mayor rebut NAM for branding Banjulians as opportunistic",
-      "summary": "By Tabora Bojang Nominated National Assembly Member and Secretary of Diaspora Affairs for the ruling National People’s Party Maimuna Ceesay-Darboe, has come under criticism for describing the people of Banjul as politically opportunistic at an NPP rally in Baddibu. In a video ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/udp-banjul-mayor-rebut-nam-for-branding-banjulians-as-opportunistic/",
-      "publishedAt": "2026-10-02T09:24:38.000Z",
-      "collectedAt": "2026-10-02T12:19:09.347Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T19:07:59.047Z",
+    "generatedAt": "2026-10-02T23:41:35.031Z",
     "count": 20
   }
 }

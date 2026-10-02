@@ -151,7 +151,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -166,34 +166,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "39d7d4ec21fab53f",
-      "title": "UDP slams predictions of a Barrow win as a fallacy",
-      "summary": "The youth leader of the opposition United Democratic Party Haji Suwaneh  has said any prediction by pollsters or analysts  local, or international, for a Barrow victory in the December 5 election is just mere fallacy, ‘because it will not  happen’. He was reacting to a recent ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/udp-slams-predictions-of-a-barrow-win-as-a-fallacy/",
-      "publishedAt": "2026-09-29T09:41:07.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T19:07:59.047Z",
-    "count": 8
+    "generatedAt": "2026-10-02T23:41:35.031Z",
+    "count": 7
   }
 }

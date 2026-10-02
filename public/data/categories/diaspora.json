@@ -238,59 +238,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "27be126ac0e09f6c",
-      "title": "COALITION BUILDING PROCESS: THE DUST IS YET TO SETTLE",
-      "summary": "Poverty is immense, livelihoods are lacking, unemployment is rampant and the perilous irregular migration resulting in numerous deaths is now the order of the day, the 141-billion-dalasi debt burden is telling its toll on the nation as over 16 billion dalasi is sought to be al...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/coalition-building-process-the-dust-is-yet-to-settle/",
-      "publishedAt": "2026-09-29T14:02:48.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "97e8931ca67b9eb6",
-      "title": "APP-Sobeyaa to publish agreement with NPP",
-      "summary": "In a rare departure from the norm, the APP-Sobeyaa the newest kid on the block in the NPP grand alliance, has said it will publish the full details of its agreement with the ruling party. The group’s national spokesperson Ousainou Bobb told The Standard yesterday that the agre...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/app-sobeyaa-to-publish-agreement-with-npp/",
-      "publishedAt": "2026-09-29T09:40:32.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T19:07:59.047Z",
-    "count": 12
+    "generatedAt": "2026-10-02T23:41:35.031Z",
+    "count": 10
   }
 }

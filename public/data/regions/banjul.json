@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "3eb7925e7dd19870",
+      "title": "Gambia’s Special Prosecutor Lays Out Evidence-Driven Strategy for TRRC Cases",
+      "summary": "By Seedy Jobe The Gambia’s special prosecutor, Martin Hackett, has outlined a prosecution strategy for crimes identified by the Truth, Reconciliation, and Reparations Commission, saying his office is building cases around evidence, established principles of criminal liability,...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambias-special-prosecutor-lays-out-evidence-driven-strategy-for-trrc-cases/",
+      "publishedAt": "2026-10-02T19:38:33.000Z",
+      "collectedAt": "2026-10-02T23:41:30.800Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d07ba08a5d4d0041",
+      "title": "Barrow Accuses Political Rivals of Looking Down on Rural Gambians",
+      "summary": "By Makutu Manneh President Adama Barrow has accused some of his political rivals of looking down on rural Gambians, casting himself and his coalition as more attuned to the concerns of provincial communities as the country moves closer to the Dec. 5 presidential election. Spea...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-accuses-political-rivals-of-looking-down-on-rural-gambians/",
+      "publishedAt": "2026-10-02T19:13:16.000Z",
+      "collectedAt": "2026-10-02T23:41:30.800Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bc1a0c7ab690a130",
       "title": "Barrow Says Decline in Requests for Basic Services Shows Gambia Has Changed",
       "summary": "By Makutu Manneh President Adama Barrow said Thursday that the absence of requests for basic services from communities in Lower Niumi was evidence of what he described as significant development gains under his administration. Mr. Barrow made the remarks in Passy Chally as he ...",
@@ -1986,125 +2030,6 @@
       "status": "published"
     },
     {
-      "id": "b14773ce95ad22d0",
-      "title": "Alkalo of Bijilo Testifies in Voter Registration Objection Case",
-      "summary": "By Mariama Marong The Alkalo of Bijilo, Sulayman Jatta, on Monday testified in a voter registration objection case involving objector Bubacarr Jaiteh and objectee Alpha Omar Jallow before Magistrate Mam Samba Jallow at the Brusubi Revising Court. Counsel Ya Kumba Jaiteh repres...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/alkalo-of-bijilo-testifies-in-voter-registration-objection-case/",
-      "publishedAt": "2026-09-29T14:21:41.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "65049951cae07761",
-      "title": "State House Gets D723.8 Million in 2027 Estimates",
-      "summary": "By Kebba A.F. Touray The 2027 Budget Estimates tabled before the National Assembly by the Minister of Finance have set out the salaries and staffing costs for the Office of the President, the Cabinet Office, the Presidential Household, the Office of the National Security Advis...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/state-house-gets-d723-8-million-in-2027-estimates/",
-      "publishedAt": "2026-09-29T14:16:55.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "01685929bd4a52d8",
-      "title": "Breakdown of National Assembly Salary, Allowances in 2027 Estimates",
-      "summary": "By Yankuba Jallow The allowances of lawmakers and staff of The Gambia’s National Assembly are set to cost more than D152,714,000 in 2027, according to budget estimates presented to lawmakers by the Minister of Finance. In 2026, the approved amount for allowances is D152,186,00...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/breakdown-of-national-assembly-salary-allowances-in-2027-estimates/",
-      "publishedAt": "2026-09-29T14:14:54.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7a89d68c23c672dd",
-      "title": "WILL THE SENEGAMBIA BRIDGE MANAGEMENT REDUCE THE CHARGES FOR VEHICLES CROSSING THE BRIDGE?",
-      "summary": "In 2024 The Government of The Gambia signed a concession agreement with Africa50 that provided for Africa50 to take charge of the management, operation and maintenance of the Senegambia Bridge for 25 years. During these 25 years Africa50 will retain all toll revenues and enjoy...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/will-the-senegambia-bridge-management-reduce-the-charges-for-vehicles-crossing-the-bridge/",
-      "publishedAt": "2026-09-29T14:03:45.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "27be126ac0e09f6c",
-      "title": "COALITION BUILDING PROCESS: THE DUST IS YET TO SETTLE",
-      "summary": "Poverty is immense, livelihoods are lacking, unemployment is rampant and the perilous irregular migration resulting in numerous deaths is now the order of the day, the 141-billion-dalasi debt burden is telling its toll on the nation as over 16 billion dalasi is sought to be al...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/coalition-building-process-the-dust-is-yet-to-settle/",
-      "publishedAt": "2026-09-29T14:02:48.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "cd1327b7dc414022",
       "title": "Spotlight: The Nurse Taking Her Fight for Girls Beyond the Hospital",
       "summary": "Written by: Dawda Baldeh For Aminata Maimuna Baldeh, nursing is more than a profession. It is a calling to serve humanity. From the demanding environment of a hospital, where she cares for patients and helps them through illness and recovery, to community platforms where she s...",
@@ -2113,7 +2038,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
       "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2134,7 +2059,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2159,7 +2084,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/analysis-as-alliances-grow-cracks-are-opening-on-both-sides-of-gambias-political-divide/",
       "publishedAt": "2026-09-29T11:03:52.000Z",
-      "collectedAt": "2026-09-29T16:27:45.722Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2167,124 +2092,6 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "fdccb11b0fd82b50",
-      "title": "20 NPP OFFICIALS DECAMP TO NDP",
-      "summary": "Even before the dust is settled from Monday night’s celebration of the unveiling of Essa Faal at State House, the governing National People’s Party (NPP) has been rocked by mass resignations from among its grassroots officials across many constituencies in the country. Yesterd...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/20-npp-officials-decamp-to-ndp/",
-      "publishedAt": "2026-09-29T09:41:15.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "39d7d4ec21fab53f",
-      "title": "UDP slams predictions of a Barrow win as a fallacy",
-      "summary": "The youth leader of the opposition United Democratic Party Haji Suwaneh  has said any prediction by pollsters or analysts  local, or international, for a Barrow victory in the December 5 election is just mere fallacy, ‘because it will not  happen’. He was reacting to a recent ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/udp-slams-predictions-of-a-barrow-win-as-a-fallacy/",
-      "publishedAt": "2026-09-29T09:41:07.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "97e8931ca67b9eb6",
-      "title": "APP-Sobeyaa to publish agreement with NPP",
-      "summary": "In a rare departure from the norm, the APP-Sobeyaa the newest kid on the block in the NPP grand alliance, has said it will publish the full details of its agreement with the ruling party. The group’s national spokesperson Ousainou Bobb told The Standard yesterday that the agre...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/app-sobeyaa-to-publish-agreement-with-npp/",
-      "publishedAt": "2026-09-29T09:40:32.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b6220883df07c68c",
-      "title": "Lands policy implementation committee inaugurated",
-      "summary": "The Ministry of Lands, Regional Government and Religious Affairs officially inaugurated the National Land Policy Implementation Steering Committee and the Mansa Bengo Committee, key governance structures to oversee the implementation of The Gambia’s National Land Policy 2026–2...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/lands-policy-implementation-committee-inaugurated/",
-      "publishedAt": "2026-09-29T09:40:23.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "905f1344eb431bc6",
-      "title": "Ex-information minister Jawo speaks on US visa revocation",
-      "summary": "According veteran journalist and a former minister of information Demba Jawo, he has received an email purportedly from the US embassy revoking his ten years visa. Jawo occasionally travels to the US where his daughters live. “On 16th September, 2026, I received an email, purp...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/ex-information-minister-jawo-speaks-on-us-visa-revocation/",
-      "publishedAt": "2026-09-29T09:39:38.000Z",
-      "collectedAt": "2026-09-29T16:27:01.092Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -2300,7 +2107,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-02T19:07:52.709Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2323,7 +2130,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
       "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-02T19:07:52.709Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2346,7 +2153,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/niro-responds-to-recent-claims-regarding-competition-at-banjul-international-airport/",
       "publishedAt": "2026-09-28T11:36:24.000Z",
-      "collectedAt": "2026-10-02T19:07:52.709Z",
+      "collectedAt": "2026-10-02T23:41:27.742Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2369,7 +2176,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/hajia-gambia-has-fans-losing-their-minds-over-her-latest-instagram-photos/",
       "publishedAt": "2026-09-23T04:06:17.000Z",
-      "collectedAt": "2026-10-02T19:07:52.561Z",
+      "collectedAt": "2026-10-02T23:41:26.195Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2390,7 +2197,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/meet-gambias-tiktok-powerhouses-the-10-creators-dominating-the-platform/",
       "publishedAt": "2026-09-23T04:00:57.000Z",
-      "collectedAt": "2026-10-02T19:07:52.561Z",
+      "collectedAt": "2026-10-02T23:41:26.195Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2404,7 +2211,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T19:07:59.047Z",
-    "count": 105
+    "generatedAt": "2026-10-02T23:41:35.031Z",
+    "count": 97
   }
 }
