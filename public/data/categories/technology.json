@@ -143,34 +143,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c7e194712000c004",
-      "title": "Gambia Validates New Science, Technology Policy After Setback in Previous Ones",
-      "summary": "By Ndey Sowe The Gambia has begun the validation of a new National Science, Technology and Innovation Policy (NSTIP) 2027–2035, alongside a proposed Science, Technology and Innovation Bill which aims to strengthen the legal and institutional framework for research and innovati...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-validates-new-science-technology-policy-after-setback-in-previous-ones/",
-      "publishedAt": "2026-09-28T14:48:14.000Z",
-      "collectedAt": "2026-09-28T20:29:54.156Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T23:50:34.327Z",
-    "count": 7
+    "generatedAt": "2026-10-02T05:15:35.306Z",
+    "count": 6
   }
 }

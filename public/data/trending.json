@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4a21fbbde5175c14",
+      "title": "Government Targets D37.4 Billion in 2027 Revenue, Banking on VAT, Excise and Customs",
+      "summary": "By Staff Writer The Gambia government is targeting D37.39 billion in government revenue in 2027, a 16.1 percent increase from the D32.20 billion approved for 2026, with the government relying heavily on customs duties, value-added tax, and excise taxes to drive the increase. T...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/government-targets-d37-4-billion-in-2027-revenue-banking-on-vat-excise-and-customs/",
+      "publishedAt": "2026-10-02T00:01:00.000Z",
+      "collectedAt": "2026-10-02T05:15:31.185Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "949027e1ee948484",
       "title": "Assan Martin Says Bensouda Could Reclaim 2021 Protest Votes, Draw Support From NPP and GDC",
       "summary": "By Seedy Jobe Lawyer Assan Martin, the spokesperson for Coalition 2026, says discussions for his coalition, led by Mayor Talib Ahmed Bensouda and the UDP-led alliance, could be possible as opposition parties explore a united front to compete against President Adama Barrow and ...",
@@ -436,31 +460,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c2d72f5ea8b12e28",
-      "title": "Gambia nominated co-chair of Global Alliance for The Missing",
-      "summary": "By Omar Bah The Gambia has been nominated to serve as Non-Permanent Co-Chair of the Global Alliance for the Missing (GAM), alongside the Swiss Confederation, for a two-year term starting October 1st, 2026. The Ministry of Foreign Affairs, International Cooperation and Gambians...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambia-nominated-co-chair-of-global-alliance-for-the-missing/",
-      "publishedAt": "2026-10-01T09:38:22.000Z",
-      "collectedAt": "2026-10-01T12:56:50.454Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Omar Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T23:50:34.327Z",
+    "generatedAt": "2026-10-02T05:15:35.306Z",
     "count": 20
   }
 }
