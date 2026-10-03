@@ -641,33 +641,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0bdbf5f755f14d52",
-      "title": "Drivers in Soma Raise Alarm Over Fuel Costs, Senegambia Bridge Toll",
-      "summary": "By Eliman Sowe Commercial drivers in Soma have raised concerns over rising fuel prices, the cost of crossing the Senegambia Bridge and what they describe as unequal treatment of different types of public transport vehicles. Drivers who spoke to Hilltop FM said the rising cost ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/drivers-in-soma-raise-alarm-over-fuel-costs-senegambia-bridge-toll/",
-      "publishedAt": "2026-09-29T14:40:50.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "lower-river",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T11:30:35.981Z",
-    "count": 29
+    "generatedAt": "2026-10-03T16:06:46.607Z",
+    "count": 28
   }
 }

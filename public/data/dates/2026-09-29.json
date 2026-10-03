@@ -277,29 +277,6 @@
       "status": "published"
     },
     {
-      "id": "0bdbf5f755f14d52",
-      "title": "Drivers in Soma Raise Alarm Over Fuel Costs, Senegambia Bridge Toll",
-      "summary": "By Eliman Sowe Commercial drivers in Soma have raised concerns over rising fuel prices, the cost of crossing the Senegambia Bridge and what they describe as unequal treatment of different types of public transport vehicles. Drivers who spoke to Hilltop FM said the rising cost ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/drivers-in-soma-raise-alarm-over-fuel-costs-senegambia-bridge-toll/",
-      "publishedAt": "2026-09-29T14:40:50.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "lower-river",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "cd1327b7dc414022",
       "title": "Spotlight: The Nurse Taking Her Fight for Girls Beyond the Hospital",
       "summary": "Written by: Dawda Baldeh For Aminata Maimuna Baldeh, nursing is more than a profession. It is a calling to serve humanity. From the demanding environment of a hospital, where she cares for patients and helps them through illness and recovery, to community platforms where she s...",
@@ -308,7 +285,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
       "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-10-03T11:30:26.735Z",
+      "collectedAt": "2026-10-03T16:06:40.763Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -329,7 +306,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-03T11:30:26.735Z",
+      "collectedAt": "2026-10-03T16:06:40.763Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -354,7 +331,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-03T11:30:26.735Z",
+      "collectedAt": "2026-10-03T16:06:40.763Z",
       "region": "kanifing",
       "categories": [],
       "contentType": "article",
@@ -375,7 +352,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/analysis-as-alliances-grow-cracks-are-opening-on-both-sides-of-gambias-political-divide/",
       "publishedAt": "2026-09-29T11:03:52.000Z",
-      "collectedAt": "2026-10-03T11:30:26.735Z",
+      "collectedAt": "2026-10-03T16:06:40.763Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -391,7 +368,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T11:30:35.981Z",
-    "count": 17
+    "generatedAt": "2026-10-03T16:06:46.607Z",
+    "count": 16
   }
 }

@@ -852,29 +852,6 @@
       "status": "published"
     },
     {
-      "id": "0bdbf5f755f14d52",
-      "title": "Drivers in Soma Raise Alarm Over Fuel Costs, Senegambia Bridge Toll",
-      "summary": "By Eliman Sowe Commercial drivers in Soma have raised concerns over rising fuel prices, the cost of crossing the Senegambia Bridge and what they describe as unequal treatment of different types of public transport vehicles. Drivers who spoke to Hilltop FM said the rising cost ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/drivers-in-soma-raise-alarm-over-fuel-costs-senegambia-bridge-toll/",
-      "publishedAt": "2026-09-29T14:40:50.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "lower-river",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "191bff8152a9318b",
       "title": "Air Sénégal Cabin Crew Suspended as Interpol Reportedly Investigates Suspected Trafficking Network",
       "summary": "Published by: The Fatu Network Air Sénégal has suspended Senegalese cabin crew assigned to its Dakar–Paris route as reports emerge of an international investigation into suspected trafficking involving some members of the airline’s commercial flight crew. Senegalese newspaper ...",
@@ -883,7 +860,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-03T11:30:26.735Z",
+      "collectedAt": "2026-10-03T16:06:40.763Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -906,7 +883,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
       "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-03T11:30:26.735Z",
+      "collectedAt": "2026-10-03T16:06:40.763Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -922,7 +899,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T11:30:35.981Z",
-    "count": 39
+    "generatedAt": "2026-10-03T16:06:46.607Z",
+    "count": 38
   }
 }
