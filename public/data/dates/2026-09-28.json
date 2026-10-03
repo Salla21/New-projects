@@ -9,7 +9,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-03T05:01:52.351Z",
+      "collectedAt": "2026-10-03T11:30:26.735Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -32,30 +32,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
       "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-03T05:01:52.351Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "37a25b2559dd4178",
-      "title": "NIRO RESPONDS TO RECENT CLAIMS REGARDING COMPETITION AT BANJUL INTERNATIONAL AIRPORT",
-      "summary": "Banjul, The Gambia | 24 September 2026 NIRO Company Limited has taken note of recent media reports concerning statements attributed to employees of Gambia International Airlines (GIA) regarding NIRO’s operations at Banjul International Airport. NIRO respects the right of every...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/niro-responds-to-recent-claims-regarding-competition-at-banjul-international-airport/",
-      "publishedAt": "2026-09-28T11:36:24.000Z",
-      "collectedAt": "2026-10-03T05:01:52.351Z",
+      "collectedAt": "2026-10-03T11:30:26.735Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -71,7 +48,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T05:01:58.250Z",
-    "count": 3
+    "generatedAt": "2026-10-03T11:30:35.981Z",
+    "count": 2
   }
 }

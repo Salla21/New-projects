@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "0566e6ec10f17833",
+      "title": "A woman opened a door for me recently, and it made me think about all the doors we could be opening for each other",
+      "summary": "By RamaTulai When I lived and worked in The Gambia, I used to feel a tiny bit anxious walking into an institution and realising I was about to be served by another woman. And I’m not exaggerating. I could walk in smiling, greeting politely, behaving like the well-raised Africa...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/a-woman-opened-a-door-for-me-recently-and-it-made-me-think-about-all-the-doors-we-could-be-opening-for-each-other/",
+      "publishedAt": "2026-10-03T11:06:33.000Z",
+      "collectedAt": "2026-10-03T11:30:26.735Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3eb7925e7dd19870",
       "title": "Gambia’s Special Prosecutor Lays Out Evidence-Driven Strategy for TRRC Cases",
       "summary": "By Seedy Jobe The Gambia’s special prosecutor, Martin Hackett, has outlined a prosecution strategy for crimes identified by the Truth, Reconciliation, and Reparations Commission, saying his office is building cases around evidence, established principles of criminal liability,...",
@@ -2017,7 +2038,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
       "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-10-03T05:01:52.351Z",
+      "collectedAt": "2026-10-03T11:30:26.735Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2038,7 +2059,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-03T05:01:52.351Z",
+      "collectedAt": "2026-10-03T11:30:26.735Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2063,7 +2084,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/analysis-as-alliances-grow-cracks-are-opening-on-both-sides-of-gambias-political-divide/",
       "publishedAt": "2026-09-29T11:03:52.000Z",
-      "collectedAt": "2026-10-03T05:01:52.351Z",
+      "collectedAt": "2026-10-03T11:30:26.735Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2086,7 +2107,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-03T05:01:52.351Z",
+      "collectedAt": "2026-10-03T11:30:26.735Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2109,30 +2130,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
       "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-03T05:01:52.351Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "37a25b2559dd4178",
-      "title": "NIRO RESPONDS TO RECENT CLAIMS REGARDING COMPETITION AT BANJUL INTERNATIONAL AIRPORT",
-      "summary": "Banjul, The Gambia | 24 September 2026 NIRO Company Limited has taken note of recent media reports concerning statements attributed to employees of Gambia International Airlines (GIA) regarding NIRO’s operations at Banjul International Airport. NIRO respects the right of every...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/niro-responds-to-recent-claims-regarding-competition-at-banjul-international-airport/",
-      "publishedAt": "2026-09-28T11:36:24.000Z",
-      "collectedAt": "2026-10-03T05:01:52.351Z",
+      "collectedAt": "2026-10-03T11:30:26.735Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2155,7 +2153,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/hajia-gambia-has-fans-losing-their-minds-over-her-latest-instagram-photos/",
       "publishedAt": "2026-09-23T04:06:17.000Z",
-      "collectedAt": "2026-10-03T05:01:52.112Z",
+      "collectedAt": "2026-10-03T11:30:26.307Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2176,7 +2174,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/meet-gambias-tiktok-powerhouses-the-10-creators-dominating-the-platform/",
       "publishedAt": "2026-09-23T04:00:57.000Z",
-      "collectedAt": "2026-10-03T05:01:52.112Z",
+      "collectedAt": "2026-10-03T11:30:26.307Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2190,7 +2188,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T05:01:58.250Z",
+    "generatedAt": "2026-10-03T11:30:35.981Z",
     "count": 96
   }
 }
