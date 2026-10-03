@@ -1,6 +1,103 @@
 {
   "items": [
     {
+      "id": "c57db6a69291e633",
+      "title": "Barrow Mocks Darboe’s Physical Strength, Warns Supporters Against Underestimating Opposition",
+      "summary": "By Makutu Manneh President Adama Barrow took a swipe at the physical strength of United Democratic Party leader Ousainu Darboe on Friday, even as he warned supporters of his National People’s Party against underestimating the opposition ahead of the Dec. 5 presidential electio...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-mocks-darboes-physical-strength-warns-supporters-against-underestimating-opposition/",
+      "publishedAt": "2026-10-03T19:39:04.000Z",
+      "collectedAt": "2026-10-03T20:58:09.258Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "04c0a335575dbc5d",
+      "title": "Gambia’s 2027 Government Expenditure Projected at D41.05 Billion",
+      "summary": "By Fatou Sillah The Gambia’s government-funded expenditure for 2027 is projected at D41.05 billion, a 12.5 percent increase from the 2026 budget, according to the 2027–2029 Programme-Based Budget. “In line with the envisaged resource envelope, total Government expenditure (GLF...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambias-2027-government-expenditure-projected-at-d41-05-billion/",
+      "publishedAt": "2026-10-03T19:34:55.000Z",
+      "collectedAt": "2026-10-03T20:58:09.258Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1bb49d7fd26be4b1",
+      "title": "Bah: ‘If We Lose President Barrow, We’ll Search for Him With a Torchlight and Won’t Find Him.’",
+      "summary": "By Makutu Manneh Hamat N.K. Bah, the Minister of Lands, Regional Government, and Religious Affairs, has urged residents of the North Bank Region to continue supporting President Adama Barrow, arguing that his administration has delivered an unprecedented level of development t...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bah-if-we-lose-president-barrow-well-search-for-him-with-a-torchlight-and-wont-find-him/",
+      "publishedAt": "2026-10-03T19:15:20.000Z",
+      "collectedAt": "2026-10-03T20:58:09.258Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8856f037725a03b2",
+      "title": "More Property Owners Come Forward as Gambia Tourism Board Stays Silent on Disputes Linked to Ebrima Tamba",
+      "summary": "Written by: Seringe S.T. Touray More people are coming forward with strikingly similar complaints involving Gambian businessman Ebrima Solomon Tamba and tourism properties administered through the Gambia Tourism Board, raising increasingly serious questions about how propertie...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/more-property-owners-come-forward-as-gambia-tourism-board-stays-silent-on-disputes-linked-to-ebrima-tamba/",
+      "publishedAt": "2026-10-03T18:57:41.000Z",
+      "collectedAt": "2026-10-03T20:58:04.809Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d297795e2e1d9afe",
       "title": "Tourism Board Suspends Beach Events as Workers Warn of Lost Income",
       "summary": "By Nelson Manneh A dispute has emerged along the Senegambia and Bijilo beach belt after the Gambia Tourism Board (GT Board) suspended all open-air music and public entertainment events within the Tourism Development Area (TDA). Beach workers and ‘bumsters’ told Foroyaa that th...",
@@ -860,7 +957,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
+      "collectedAt": "2026-10-03T20:58:04.809Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -873,33 +970,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "87d943cf79af7e7f",
-      "title": "Bintou Sarah Dibbasey Builds Opportunity Through Food Processing",
-      "summary": "Published by: The Fatu Network Gambian entrepreneur Bintou Sarah Dibbasey is using locally grown produce to build a women-led food business focused on value addition, job creation and reducing dependence on imported products. Dibbasey is the founder of Sarah’s Bakery and Kitch...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
-      "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T16:06:46.607Z",
-    "count": 38
+    "generatedAt": "2026-10-03T20:58:13.339Z",
+    "count": 41
   }
 }

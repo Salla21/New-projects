@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8856f037725a03b2",
+      "title": "More Property Owners Come Forward as Gambia Tourism Board Stays Silent on Disputes Linked to Ebrima Tamba",
+      "summary": "Written by: Seringe S.T. Touray More people are coming forward with strikingly similar complaints involving Gambian businessman Ebrima Solomon Tamba and tourism properties administered through the Gambia Tourism Board, raising increasingly serious questions about how propertie...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/more-property-owners-come-forward-as-gambia-tourism-board-stays-silent-on-disputes-linked-to-ebrima-tamba/",
+      "publishedAt": "2026-10-03T18:57:41.000Z",
+      "collectedAt": "2026-10-03T20:58:04.809Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0566e6ec10f17833",
       "title": "A woman opened a door for me recently, and it made me think about all the doors we could be opening for each other",
       "summary": "By RamaTulai When I lived and worked in The Gambia, I used to feel a tiny bit anxious walking into an institution and realising I was about to be served by another woman. And I’m not exaggerating. I could walk in smiling, greeting politely, behaving like the well-raised Africa...",
@@ -95,7 +119,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
       "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
+      "collectedAt": "2026-10-03T20:58:04.809Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -116,7 +140,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
+      "collectedAt": "2026-10-03T20:58:04.809Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -141,7 +165,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
+      "collectedAt": "2026-10-03T20:58:04.809Z",
       "region": "kanifing",
       "categories": [],
       "contentType": "article",
@@ -162,7 +186,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/analysis-as-alliances-grow-cracks-are-opening-on-both-sides-of-gambias-political-divide/",
       "publishedAt": "2026-09-29T11:03:52.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
+      "collectedAt": "2026-10-03T20:58:04.809Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -185,7 +209,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
+      "collectedAt": "2026-10-03T20:58:04.809Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -198,33 +222,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "87d943cf79af7e7f",
-      "title": "Bintou Sarah Dibbasey Builds Opportunity Through Food Processing",
-      "summary": "Published by: The Fatu Network Gambian entrepreneur Bintou Sarah Dibbasey is using locally grown produce to build a women-led food business focused on value addition, job creation and reducing dependence on imported products. Dibbasey is the founder of Sarah’s Bakery and Kitch...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
-      "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T16:06:46.607Z",
+    "generatedAt": "2026-10-03T20:58:13.339Z",
     "count": 10
   }
 }

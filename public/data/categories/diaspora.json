@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "c57db6a69291e633",
+      "title": "Barrow Mocks Darboe’s Physical Strength, Warns Supporters Against Underestimating Opposition",
+      "summary": "By Makutu Manneh President Adama Barrow took a swipe at the physical strength of United Democratic Party leader Ousainu Darboe on Friday, even as he warned supporters of his National People’s Party against underestimating the opposition ahead of the Dec. 5 presidential electio...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-mocks-darboes-physical-strength-warns-supporters-against-underestimating-opposition/",
+      "publishedAt": "2026-10-03T19:39:04.000Z",
+      "collectedAt": "2026-10-03T20:58:09.258Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8bfb38b48501eede",
       "title": "UDP, Banjul mayor rebut NAM for branding Banjulians as opportunistic",
       "summary": "By Tabora Bojang Nominated National Assembly Member and Secretary of Diaspora Affairs for the ruling National People’s Party Maimuna Ceesay-Darboe, has come under criticism for describing the people of Banjul as politically opportunistic at an NPP rally in Baddibu. In a video ...",
@@ -241,7 +266,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T16:06:46.607Z",
-    "count": 10
+    "generatedAt": "2026-10-03T20:58:13.339Z",
+    "count": 11
   }
 }

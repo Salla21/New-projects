@@ -9,7 +9,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
+      "collectedAt": "2026-10-03T20:58:04.809Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -22,33 +22,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "87d943cf79af7e7f",
-      "title": "Bintou Sarah Dibbasey Builds Opportunity Through Food Processing",
-      "summary": "Published by: The Fatu Network Gambian entrepreneur Bintou Sarah Dibbasey is using locally grown produce to build a women-led food business focused on value addition, job creation and reducing dependence on imported products. Dibbasey is the founder of Sarah’s Bakery and Kitch...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bintou-sarah-dibbasey-builds-opportunity-through-local-food-processing/",
-      "publishedAt": "2026-09-28T11:44:15.000Z",
-      "collectedAt": "2026-10-03T16:06:40.763Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T16:06:46.607Z",
-    "count": 2
+    "generatedAt": "2026-10-03T20:58:13.339Z",
+    "count": 1
   }
 }
