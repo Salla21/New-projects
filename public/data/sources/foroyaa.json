@@ -664,52 +664,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e7935c078d49a301",
-      "title": "Government Signs $14M Contract to Extend Electricity to 241 Communities in CRR, URR",
-      "summary": "By Assan Bah  The Government of The Gambia, through the National Water and Electricity Company (NAWEC), on Friday, 25 September 2026, signed a $14 million contract under the Additional Rural Electrification Project to extend electricity to 241 communities in Central River Regi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-signs-14m-contract-to-extend-electricity-to-241-communities-in-crr-urr/",
-      "publishedAt": "2026-09-29T14:38:41.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "central-river",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "87845666dbf72a14",
-      "title": "Historian Hassoum Ceesay Says Gambia-Senegal Border Has Not Been Demarcated Since 1904-05",
-      "summary": "By Eliman Sowe There has been no formal boundary demarcation exercise between The Gambia and Senegal for more than a century, according to Hassoum Ceesay, Director General of the National Centre for Arts and Culture (NCAC). Ceesay said the only known demarcation exercise was c...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/historian-hassoum-ceesay-says-gambia-senegal-border-has-not-been-demarcated-since-1904-05/",
-      "publishedAt": "2026-09-29T14:28:42.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T23:41:35.031Z",
-    "count": 31
+    "generatedAt": "2026-10-03T05:01:58.250Z",
+    "count": 29
   }
 }
