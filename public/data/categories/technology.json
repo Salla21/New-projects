@@ -120,29 +120,6 @@
       "status": "published"
     },
     {
-      "id": "737b2ea8773115b8",
-      "title": "Kanifing Court Sentences Repeat Offender to Six Years for Pipeline Housebreaking",
-      "summary": "A magistrate’s court on Tuesday sentenced Momodou Bah to six years in prison for breaking into a home in Pipeline and stealing property valued at more than D63,000, citing his two previous convictions for similar offenses as a significant aggravating factor. Principal Magistra...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/kanifing-court-sentences-repeat-offender-to-six-years-for-pipeline-housebreaking/",
-      "publishedAt": "2026-09-29T17:36:23.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "kanifing",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "736cad035a7383df",
       "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
       "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
@@ -151,7 +128,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-03T20:58:04.809Z",
+      "collectedAt": "2026-10-04T00:28:28.078Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -169,7 +146,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T20:58:13.339Z",
-    "count": 7
+    "generatedAt": "2026-10-04T00:28:35.137Z",
+    "count": 6
   }
 }

@@ -1321,53 +1321,6 @@
       "status": "published"
     },
     {
-      "id": "5b8c110d4d9a10ad",
-      "title": "Gambia Proposes D66.8 Billion Budget for 2027, a 12.5% Increase, as Debt Payments Claim Nearly One-Third",
-      "summary": "The Gambia’s proposed 2027 national budget has risen to D66.78 billion, a 12.5 percent increase from the D59.36 billion approved for 2026, with debt servicing emerging as the single largest claim on government-funded expenditure. According to the 2027 budget estimates, D48.6 b...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambias-2027-budget-rises-12-5-to-d66-8-billion-as-debt-service-takes-nearly-a-third-of-government-spending/",
-      "publishedAt": "2026-09-29T19:57:01.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c093193f79dec213",
-      "title": "Dr. Sambou Says OIC Projects Predate Barrow, Questions Scale of Government Borrowing",
-      "summary": "By Seedy Jobe Dr. Omar Malmo Sambou, a Gambian environmental scientist, academic, and activist, has challenged President Adama Barrow’s claims about his administration’s infrastructure record, arguing that Gambians will repay loans for years to come. During an interview on Ker...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-sambou-says-oic-projects-predate-barrow-questions-scale-of-government-borrowing/",
-      "publishedAt": "2026-09-29T16:27:53.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "736cad035a7383df",
       "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
       "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
@@ -1376,7 +1329,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-03T20:58:04.809Z",
+      "collectedAt": "2026-10-04T00:28:28.078Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1401,7 +1354,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/analysis-as-alliances-grow-cracks-are-opening-on-both-sides-of-gambias-political-divide/",
       "publishedAt": "2026-09-29T11:03:52.000Z",
-      "collectedAt": "2026-10-03T20:58:04.809Z",
+      "collectedAt": "2026-10-04T00:28:28.078Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1417,7 +1370,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T20:58:13.339Z",
-    "count": 60
+    "generatedAt": "2026-10-04T00:28:35.137Z",
+    "count": 58
   }
 }

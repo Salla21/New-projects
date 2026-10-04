@@ -250,29 +250,6 @@
       "status": "published"
     },
     {
-      "id": "c093193f79dec213",
-      "title": "Dr. Sambou Says OIC Projects Predate Barrow, Questions Scale of Government Borrowing",
-      "summary": "By Seedy Jobe Dr. Omar Malmo Sambou, a Gambian environmental scientist, academic, and activist, has challenged President Adama Barrow’s claims about his administration’s infrastructure record, arguing that Gambians will repay loans for years to come. During an interview on Ker...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-sambou-says-oic-projects-predate-barrow-questions-scale-of-government-borrowing/",
-      "publishedAt": "2026-09-29T16:27:53.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6c0fd96bce4cb8ba",
       "title": "Journalist-turned-politician Sulayman Waan to launch Change Front manifesto on October 2",
       "summary": "Written by: Dawda Baldeh Journalist-turned-politician Sulayman Waan is set to officially launch the Change Front political movement’s manifesto, The Salvation, on Friday, October 2, 2026, at the YMCA in Kanifing Municipality. The more than 100-page document, comprising approxi...",
@@ -281,7 +258,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-03T20:58:04.809Z",
+      "collectedAt": "2026-10-04T00:28:28.078Z",
       "region": "kanifing",
       "categories": [],
       "contentType": "article",
@@ -302,7 +279,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
       "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-03T20:58:04.809Z",
+      "collectedAt": "2026-10-04T00:28:28.078Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -318,7 +295,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T20:58:13.339Z",
-    "count": 14
+    "generatedAt": "2026-10-04T00:28:35.137Z",
+    "count": 13
   }
 }
