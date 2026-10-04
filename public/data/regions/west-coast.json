@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "4f4bb399649c498f",
+      "title": "Yankuba Darboe Calls Barrow’s Five-Year Record ‘Very Bad,’ Says UDP Offers Alternative",
+      "summary": "By Seedy Jobe Yankuba Darboe, chairman of the Brikama Area Council, has sharply criticized President Adama Barrow’s record in office, saying his government has failed Gambians and should not be given another term. Speaking in Switzerland at a fundraising event organized by the...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/yankuba-darboe-calls-barrows-five-year-record-very-bad-says-udp-offers-alternative/",
+      "publishedAt": "2026-10-04T21:53:50.000Z",
+      "collectedAt": "2026-10-04T22:59:10.955Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "923692685111f0df",
       "title": "Brufut Alkalo says he relied on informants to attest residents he did not know",
       "summary": "By Mariama Marong The Alkalo of Brufut, Malamin Manneh, has told the Brusubi Revising Court that he relied on information provided by a community representative when he attested people in Wulingkama whom he said he had never met. Mr Manneh was giving evidence before Magistrate...",
@@ -97,7 +120,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-04T19:29:38.978Z",
+      "collectedAt": "2026-10-04T22:59:09.863Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -113,7 +136,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T19:29:44.092Z",
-    "count": 5
+    "generatedAt": "2026-10-04T22:59:14.995Z",
+    "count": 6
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "0af44370ac187afb",
+      "title": "Gambia Takes Over Leadership of 44-Nation Least Developed Countries Group",
+      "summary": "By Fatou Sillah The Gambia has assumed the chairmanship of the 44-member Least Developed Countries Group for a three-year term, succeeding Nepal and taking on a leading role in coordinating the bloc’s positions in global negotiations on development, debt, trade, and climate ch...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-takes-over-leadership-of-44-nation-least-developed-countries-group/",
+      "publishedAt": "2026-10-04T21:30:42.000Z",
+      "collectedAt": "2026-10-04T22:59:10.955Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c57db6a69291e633",
       "title": "Barrow Mocks Darboe’s Physical Strength, Warns Supporters Against Underestimating Opposition",
       "summary": "By Makutu Manneh President Adama Barrow took a swipe at the physical strength of United Democratic Party leader Ousainu Darboe on Friday, even as he warned supporters of his National People’s Party against underestimating the opposition ahead of the Dec. 5 presidential electio...",
@@ -831,30 +854,6 @@
       "status": "published"
     },
     {
-      "id": "0deb542445e5ee24",
-      "title": "Gambia’s 2027 Budget: President to Earn D3.06 Million as Chief Justice Gets 27% Pay Increase",
-      "summary": "By Staff Writer President Adama Barrow’s annual base salary will remain at D3.06 million in 2027, while the Chief Justice is set to receive a 27.4 percent increase, according to workforce figures contained in the government’s 2027 budget estimates. The Chief Justice’s base sal...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambias-2027-budget-president-to-earn-d3-06-million-as-chief-justice-gets-27-pay-increase/",
-      "publishedAt": "2026-09-29T22:52:12.000Z",
-      "collectedAt": "2026-09-30T05:15:46.139Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "df52bd815fd4673f",
       "title": "GCCPC Deepens Global Competition Cooperation with Türkiye Through Strategic MoU",
       "summary": "The Gambia Competition and Consumer Protection Commission (GCCPC) has strengthened its international cooperation in competition regulation with the signing of a strategic Memorandum of Understanding (MoU) with the Turkish Competition Authority, opening new opportunities for sp...",
@@ -863,7 +862,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
       "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-04T19:29:39.044Z",
+      "collectedAt": "2026-10-04T22:59:09.939Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -879,7 +878,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T19:29:44.092Z",
+    "generatedAt": "2026-10-04T22:59:14.995Z",
     "count": 37
   }
 }

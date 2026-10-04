@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "id": "3a3e7b7267127244",
-      "title": "Darboe Fires Back at Hamat Bah: ‘I Wonder Where His Conscience Has Gone’",
-      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has sharply criticized Lands Minister Hamat Bah over his recent remarks about the UDP, questioning whether his longtime political ally has abandoned the principles they once shared. Speaking Tuesday during an intervie...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-fires-back-at-hamat-bah-i-wonder-where-his-conscience-has-gone/",
-      "publishedAt": "2026-09-29T23:58:06.000Z",
-      "collectedAt": "2026-09-30T05:15:46.139Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0deb542445e5ee24",
-      "title": "Gambia’s 2027 Budget: President to Earn D3.06 Million as Chief Justice Gets 27% Pay Increase",
-      "summary": "By Staff Writer President Adama Barrow’s annual base salary will remain at D3.06 million in 2027, while the Chief Justice is set to receive a 27.4 percent increase, according to workforce figures contained in the government’s 2027 budget estimates. The Chief Justice’s base sal...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambias-2027-budget-president-to-earn-d3-06-million-as-chief-justice-gets-27-pay-increase/",
-      "publishedAt": "2026-09-29T22:52:12.000Z",
-      "collectedAt": "2026-09-30T05:15:46.139Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "df52bd815fd4673f",
       "title": "GCCPC Deepens Global Competition Cooperation with Türkiye Through Strategic MoU",
       "summary": "The Gambia Competition and Consumer Protection Commission (GCCPC) has strengthened its international cooperation in competition regulation with the signing of a strategic Memorandum of Understanding (MoU) with the Turkish Competition Authority, opening new opportunities for sp...",
@@ -57,7 +9,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
       "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-04T19:29:39.044Z",
+      "collectedAt": "2026-10-04T22:59:09.939Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -80,7 +32,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
       "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-10-04T19:29:39.044Z",
+      "collectedAt": "2026-10-04T22:59:09.939Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -101,7 +53,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-04T19:29:39.044Z",
+      "collectedAt": "2026-10-04T22:59:09.939Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -126,7 +78,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-04T19:29:39.044Z",
+      "collectedAt": "2026-10-04T22:59:09.939Z",
       "region": "kanifing",
       "categories": [],
       "contentType": "article",
@@ -140,7 +92,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T19:29:44.092Z",
-    "count": 6
+    "generatedAt": "2026-10-04T22:59:14.995Z",
+    "count": 4
   }
 }
