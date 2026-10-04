@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "a21b2155c521cfa2",
+      "title": "A Review of In Between Ceramic Series by Halimah Badmus",
+      "summary": "Written by: Massamba Mbaye The sculpture seems to exist in a space where nothing is completely settled, two looping bodies rise from a shared footing, cross, and curve around one another and open into spaces that allow each form to appear and disappear within the other. There ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/a-review-of-in-between-ceramic-series-by-halimah-badmus/",
+      "publishedAt": "2026-10-04T16:32:19.000Z",
+      "collectedAt": "2026-10-04T19:29:27.460Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e294f4390a98e136",
       "title": "MAYOR LOWE APPEALS FINDINGS OF LG COMMISSION",
       "summary": "The mayor of Banjul, Roheyatou Malick Lowe, has filed an appeal at the Court of Appeal of The Gambia challenging the adverse findings and recommendations made against her by the Commission of Inquiry into the Conduct of Local Government Councils. In a Notice of Appeal filed on...",
@@ -687,7 +708,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
-    "count": 30
+    "generatedAt": "2026-10-04T19:29:44.092Z",
+    "count": 31
   }
 }

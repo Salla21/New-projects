@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f67e7b431a9184b3",
+      "title": "Gambia Minifootball Association targets Nations Cup birth after launch",
+      "summary": "By Momodou Jarju The executive of the newly formed Gambia Minifootball Association (GMA) has set their sight on qualifying the country to its first continental competition after launching the association last Saturday at the President’s International Award (PIA) in Bakau. The ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-minifootball-association-targets-nations-cup-birth-after-launch/",
+      "publishedAt": "2026-10-04T13:34:34.000Z",
+      "collectedAt": "2026-10-04T19:29:38.762Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8b09ca2a1a1ed8a2",
       "title": "Barrow Tour Criticised Over Costs, Political Messaging Ahead of Election",
       "summary": "By Dawda Baldeh President Adama Barrow’s nationwide Meet the People’s Tour has come under fresh criticism from opposition politician Abubacarr Bayo and Political commentator Ebrima Nyang, who accuse the government of using the constitutionally mandated exercise as a political ...",
@@ -1343,30 +1367,6 @@
       "status": "published"
     },
     {
-      "id": "52f1f131a39dc39b",
-      "title": "Gambia Faces D16.2 Billion Debt Service Burden in 2027 as Interest Costs Jump by Almost a Third",
-      "summary": "By Staff Writer The Gambia is projected to spend D16.17 billion on servicing its national debt in 2027, making debt obligations the government’s single largest expenditure and consuming more than two-fifths of projected domestic revenue. The figure represents a 20 percent incr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambias-debt-service-bill-to-hit-d16-2-billion-in-2027-as-interest-costs-surge/",
-      "publishedAt": "2026-09-29T20:27:03.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "736cad035a7383df",
       "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
       "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
@@ -1375,7 +1375,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "collectedAt": "2026-10-04T19:29:39.044Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1393,7 +1393,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
+    "generatedAt": "2026-10-04T19:29:44.092Z",
     "count": 59
   }
 }

@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "a21b2155c521cfa2",
+      "title": "A Review of In Between Ceramic Series by Halimah Badmus",
+      "summary": "Written by: Massamba Mbaye The sculpture seems to exist in a space where nothing is completely settled, two looping bodies rise from a shared footing, cross, and curve around one another and open into spaces that allow each form to appear and disappear within the other. There ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/a-review-of-in-between-ceramic-series-by-halimah-badmus/",
+      "publishedAt": "2026-10-04T16:32:19.000Z",
+      "collectedAt": "2026-10-04T19:29:27.460Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f67e7b431a9184b3",
+      "title": "Gambia Minifootball Association targets Nations Cup birth after launch",
+      "summary": "By Momodou Jarju The executive of the newly formed Gambia Minifootball Association (GMA) has set their sight on qualifying the country to its first continental competition after launching the association last Saturday at the President’s International Award (PIA) in Bakau. The ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-minifootball-association-targets-nations-cup-birth-after-launch/",
+      "publishedAt": "2026-10-04T13:34:34.000Z",
+      "collectedAt": "2026-10-04T19:29:38.762Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8b09ca2a1a1ed8a2",
       "title": "Barrow Tour Criticised Over Costs, Political Messaging Ahead of Election",
       "summary": "By Dawda Baldeh President Adama Barrow’s nationwide Meet the People’s Tour has come under fresh criticism from opposition politician Abubacarr Bayo and Political commentator Ebrima Nyang, who accuse the government of using the constitutionally mandated exercise as a political ...",
@@ -48,7 +93,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
-    "count": 2
+    "generatedAt": "2026-10-04T19:29:44.092Z",
+    "count": 4
   }
 }

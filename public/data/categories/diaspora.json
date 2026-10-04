@@ -217,33 +217,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "81179280d94a0f88",
-      "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
-      "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-launches-national-early-warning-and-response-policy-to-strengthen-crisis-prevention/",
-      "publishedAt": "2026-09-29T21:33:35.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
-    "count": 10
+    "generatedAt": "2026-10-04T19:29:44.092Z",
+    "count": 9
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f67e7b431a9184b3",
+      "title": "Gambia Minifootball Association targets Nations Cup birth after launch",
+      "summary": "By Momodou Jarju The executive of the newly formed Gambia Minifootball Association (GMA) has set their sight on qualifying the country to its first continental competition after launching the association last Saturday at the President’s International Award (PIA) in Bakau. The ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-minifootball-association-targets-nations-cup-birth-after-launch/",
+      "publishedAt": "2026-10-04T13:34:34.000Z",
+      "collectedAt": "2026-10-04T19:29:38.762Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "61ddc6cbec6243bf",
       "title": "Banjul Mayor Appeals Local Government Commission’s Adverse Findings",
       "summary": "The Mayor of Banjul, Rohey Malick Lowe, has launched a legal challenge at the Court of Appeal of The Gambia, seeking to overturn adverse findings and recommendations made against her by the Commission of Inquiry into Local Government Councils. In a Notice of Appeal filed on Au...",
@@ -227,29 +251,6 @@
       "status": "published"
     },
     {
-      "id": "81179280d94a0f88",
-      "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
-      "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-launches-national-early-warning-and-response-policy-to-strengthen-crisis-prevention/",
-      "publishedAt": "2026-09-29T21:33:35.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "6c0fd96bce4cb8ba",
       "title": "Journalist-turned-politician Sulayman Waan to launch Change Front manifesto on October 2",
       "summary": "Written by: Dawda Baldeh Journalist-turned-politician Sulayman Waan is set to officially launch the Change Front political movement’s manifesto, The Salvation, on Friday, October 2, 2026, at the YMCA in Kanifing Municipality. The more than 100-page document, comprising approxi...",
@@ -258,7 +259,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "collectedAt": "2026-10-04T19:29:39.044Z",
       "region": "kanifing",
       "categories": [],
       "contentType": "article",
@@ -272,7 +273,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
+    "generatedAt": "2026-10-04T19:29:44.092Z",
     "count": 12
   }
 }

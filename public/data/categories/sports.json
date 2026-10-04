@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f67e7b431a9184b3",
+      "title": "Gambia Minifootball Association targets Nations Cup birth after launch",
+      "summary": "By Momodou Jarju The executive of the newly formed Gambia Minifootball Association (GMA) has set their sight on qualifying the country to its first continental competition after launching the association last Saturday at the President’s International Award (PIA) in Bakau. The ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-minifootball-association-targets-nations-cup-birth-after-launch/",
+      "publishedAt": "2026-10-04T13:34:34.000Z",
+      "collectedAt": "2026-10-04T19:29:38.762Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9b5ecc6aaa211b8e",
       "title": "The Gallant Scorpions: A commendable performance in Afcon qualifiers",
       "summary": "The national team has delivered an impressive performance, beating Ghana 4-2 away in Accra, demonstrating determination, discipline, and a strong sense of purpose. From the opening moments of the match, the players showed great commitment even under immense pressure and two  g...",
@@ -32,7 +56,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "collectedAt": "2026-10-04T19:29:39.044Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -57,7 +81,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-04T15:19:12.824Z",
+      "collectedAt": "2026-10-04T19:29:38.978Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -73,7 +97,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
-    "count": 3
+    "generatedAt": "2026-10-04T19:29:44.092Z",
+    "count": 4
   }
 }

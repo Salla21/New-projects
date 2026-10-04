@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f67e7b431a9184b3",
+      "title": "Gambia Minifootball Association targets Nations Cup birth after launch",
+      "summary": "By Momodou Jarju The executive of the newly formed Gambia Minifootball Association (GMA) has set their sight on qualifying the country to its first continental competition after launching the association last Saturday at the President’s International Award (PIA) in Bakau. The ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-minifootball-association-targets-nations-cup-birth-after-launch/",
+      "publishedAt": "2026-10-04T13:34:34.000Z",
+      "collectedAt": "2026-10-04T19:29:38.762Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1729c105a787f9a6",
       "title": "Kanifing Revising Court says ‘suspicion is not proof’ as it",
       "summary": "Dismisses objection against Adama Bah By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Adama Bah’s eligibility to remain on the voters’ register, ruling that the objector failed to provide sufficient evidence to prove that she is not a Gambi...",
@@ -99,7 +123,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "collectedAt": "2026-10-04T19:29:39.044Z",
       "region": "kanifing",
       "categories": [],
       "contentType": "article",
@@ -113,7 +137,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
-    "count": 5
+    "generatedAt": "2026-10-04T19:29:44.092Z",
+    "count": 6
   }
 }

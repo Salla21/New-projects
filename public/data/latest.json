@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "a21b2155c521cfa2",
+      "title": "A Review of In Between Ceramic Series by Halimah Badmus",
+      "summary": "Written by: Massamba Mbaye The sculpture seems to exist in a space where nothing is completely settled, two looping bodies rise from a shared footing, cross, and curve around one another and open into spaces that allow each form to appear and disappear within the other. There ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/a-review-of-in-between-ceramic-series-by-halimah-badmus/",
+      "publishedAt": "2026-10-04T16:32:19.000Z",
+      "collectedAt": "2026-10-04T19:29:27.460Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f67e7b431a9184b3",
+      "title": "Gambia Minifootball Association targets Nations Cup birth after launch",
+      "summary": "By Momodou Jarju The executive of the newly formed Gambia Minifootball Association (GMA) has set their sight on qualifying the country to its first continental competition after launching the association last Saturday at the President’s International Award (PIA) in Bakau. The ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-minifootball-association-targets-nations-cup-birth-after-launch/",
+      "publishedAt": "2026-10-04T13:34:34.000Z",
+      "collectedAt": "2026-10-04T19:29:38.762Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8b09ca2a1a1ed8a2",
       "title": "Barrow Tour Criticised Over Costs, Political Messaging Ahead of Election",
       "summary": "By Dawda Baldeh President Adama Barrow’s nationwide Meet the People’s Tour has come under fresh criticism from opposition politician Abubacarr Bayo and Political commentator Ebrima Nyang, who accuse the government of using the constitutionally mandated exercise as a political ...",
@@ -2235,58 +2280,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3a3e7b7267127244",
-      "title": "Darboe Fires Back at Hamat Bah: ‘I Wonder Where His Conscience Has Gone’",
-      "summary": "By Seedy Jobe United Democratic Party leader Ousainu Darboe has sharply criticized Lands Minister Hamat Bah over his recent remarks about the UDP, questioning whether his longtime political ally has abandoned the principles they once shared. Speaking Tuesday during an intervie...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-fires-back-at-hamat-bah-i-wonder-where-his-conscience-has-gone/",
-      "publishedAt": "2026-09-29T23:58:06.000Z",
-      "collectedAt": "2026-09-30T05:15:46.139Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0deb542445e5ee24",
-      "title": "Gambia’s 2027 Budget: President to Earn D3.06 Million as Chief Justice Gets 27% Pay Increase",
-      "summary": "By Staff Writer President Adama Barrow’s annual base salary will remain at D3.06 million in 2027, while the Chief Justice is set to receive a 27.4 percent increase, according to workforce figures contained in the government’s 2027 budget estimates. The Chief Justice’s base sal...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambias-2027-budget-president-to-earn-d3-06-million-as-chief-justice-gets-27-pay-increase/",
-      "publishedAt": "2026-09-29T22:52:12.000Z",
-      "collectedAt": "2026-09-30T05:15:46.139Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
+    "generatedAt": "2026-10-04T19:29:44.092Z",
     "count": 100
   }
 }

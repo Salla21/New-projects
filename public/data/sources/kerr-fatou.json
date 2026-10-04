@@ -672,57 +672,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "81179280d94a0f88",
-      "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
-      "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-launches-national-early-warning-and-response-policy-to-strengthen-crisis-prevention/",
-      "publishedAt": "2026-09-29T21:33:35.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "52f1f131a39dc39b",
-      "title": "Gambia Faces D16.2 Billion Debt Service Burden in 2027 as Interest Costs Jump by Almost a Third",
-      "summary": "By Staff Writer The Gambia is projected to spend D16.17 billion on servicing its national debt in 2027, making debt obligations the government’s single largest expenditure and consuming more than two-fifths of projected domestic revenue. The figure represents a 20 percent incr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambias-debt-service-bill-to-hit-d16-2-billion-in-2027-as-interest-costs-surge/",
-      "publishedAt": "2026-09-29T20:27:03.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
-    "count": 31
+    "generatedAt": "2026-10-04T19:29:44.092Z",
+    "count": 29
   }
 }

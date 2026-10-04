@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "a21b2155c521cfa2",
+      "title": "A Review of In Between Ceramic Series by Halimah Badmus",
+      "summary": "Written by: Massamba Mbaye The sculpture seems to exist in a space where nothing is completely settled, two looping bodies rise from a shared footing, cross, and curve around one another and open into spaces that allow each form to appear and disappear within the other. There ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/a-review-of-in-between-ceramic-series-by-halimah-badmus/",
+      "publishedAt": "2026-10-04T16:32:19.000Z",
+      "collectedAt": "2026-10-04T19:29:27.460Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8b09ca2a1a1ed8a2",
       "title": "Barrow Tour Criticised Over Costs, Political Messaging Ahead of Election",
       "summary": "By Dawda Baldeh President Adama Barrow’s nationwide Meet the People’s Tour has come under fresh criticism from opposition politician Abubacarr Bayo and Political commentator Ebrima Nyang, who accuse the government of using the constitutionally mandated exercise as a political ...",
@@ -2036,53 +2057,6 @@
       "status": "published"
     },
     {
-      "id": "81179280d94a0f88",
-      "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
-      "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-launches-national-early-warning-and-response-policy-to-strengthen-crisis-prevention/",
-      "publishedAt": "2026-09-29T21:33:35.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "52f1f131a39dc39b",
-      "title": "Gambia Faces D16.2 Billion Debt Service Burden in 2027 as Interest Costs Jump by Almost a Third",
-      "summary": "By Staff Writer The Gambia is projected to spend D16.17 billion on servicing its national debt in 2027, making debt obligations the government’s single largest expenditure and consuming more than two-fifths of projected domestic revenue. The figure represents a 20 percent incr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambias-debt-service-bill-to-hit-d16-2-billion-in-2027-as-interest-costs-surge/",
-      "publishedAt": "2026-09-29T20:27:03.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "df52bd815fd4673f",
       "title": "GCCPC Deepens Global Competition Cooperation with Türkiye Through Strategic MoU",
       "summary": "The Gambia Competition and Consumer Protection Commission (GCCPC) has strengthened its international cooperation in competition regulation with the signing of a strategic Memorandum of Understanding (MoU) with the Turkish Competition Authority, opening new opportunities for sp...",
@@ -2091,7 +2065,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
       "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "collectedAt": "2026-10-04T19:29:39.044Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2114,7 +2088,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
       "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "collectedAt": "2026-10-04T19:29:39.044Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2135,7 +2109,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "collectedAt": "2026-10-04T19:29:39.044Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2160,7 +2134,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/hajia-gambia-has-fans-losing-their-minds-over-her-latest-instagram-photos/",
       "publishedAt": "2026-09-23T04:06:17.000Z",
-      "collectedAt": "2026-10-04T15:19:12.824Z",
+      "collectedAt": "2026-10-04T19:29:38.978Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2181,7 +2155,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/meet-gambias-tiktok-powerhouses-the-10-creators-dominating-the-platform/",
       "publishedAt": "2026-09-23T04:00:57.000Z",
-      "collectedAt": "2026-10-04T15:19:12.824Z",
+      "collectedAt": "2026-10-04T19:29:38.978Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2195,7 +2169,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T15:19:20.201Z",
-    "count": 96
+    "generatedAt": "2026-10-04T19:29:44.092Z",
+    "count": 95
   }
 }
