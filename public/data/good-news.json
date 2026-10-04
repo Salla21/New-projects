@@ -258,32 +258,9 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-04T08:19:27.439Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
       "region": "kanifing",
       "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "191bff8152a9318b",
-      "title": "Air Sénégal Cabin Crew Suspended as Interpol Reportedly Investigates Suspected Trafficking Network",
-      "summary": "Published by: The Fatu Network Air Sénégal has suspended Senegalese cabin crew assigned to its Dakar–Paris route as reports emerge of an international investigation into suspected trafficking involving some members of the airline’s commercial flight crew. Senegalese newspaper ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/air-senegal-cabin-crew-suspended-as-interpol-reportedly-investigates-suspected-trafficking-network/",
-      "publishedAt": "2026-09-28T12:36:10.000Z",
-      "collectedAt": "2026-10-04T08:19:27.439Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Seringe ST Touray",
@@ -295,7 +272,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T08:19:32.764Z",
-    "count": 13
+    "generatedAt": "2026-10-04T15:19:20.201Z",
+    "count": 12
   }
 }

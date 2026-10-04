@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "8b09ca2a1a1ed8a2",
+      "title": "Barrow Tour Criticised Over Costs, Political Messaging Ahead of Election",
+      "summary": "By Dawda Baldeh President Adama Barrow’s nationwide Meet the People’s Tour has come under fresh criticism from opposition politician Abubacarr Bayo and Political commentator Ebrima Nyang, who accuse the government of using the constitutionally mandated exercise as a political ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-tour-criticised-over-costs-political-messaging-ahead-of-election/",
+      "publishedAt": "2026-10-04T11:04:07.000Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a2f3652ea0ebca9f",
+      "title": "GAP criticises Barrow’s Meet the People’s Tour over ‘divisive’ political rhetoric",
+      "summary": "The opposition Gambia Action Party (GAP) has criticised President Adama Barrow’s nationwide Meet the People’s Tour, accusing the government of using the taxpayer-funded exercise as a platform for political rhetoric instead of engaging with citizens’ concerns. The criticism was...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gap-criticises-barrows-meet-the-peoples-tour-over-divisive-political-rhetoric/",
+      "publishedAt": "2026-10-04T10:45:06.000Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a5decdb3b0f9c731",
       "title": "Minister Hamat Bah Warns NPP Alliance Against Defeat, Says Goal Is to Keep Barrow in Office",
       "summary": "By Makutu Manneh Hamat N.K. Bah, the Minister of Lands, Regional Government and Religious Affairs, has urged members of the National People’s Party and its political allies to work to prevent the government from losing power, saying their objective should be to keep President ...",
@@ -2237,57 +2283,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "81179280d94a0f88",
-      "title": "Gambia Launches National Early Warning and Response Policy to Strengthen Crisis Prevention",
-      "summary": "By Seedy Jobe The National Centre for Coordination of Response Mechanism (NCCRM), in partnership with the European Union and GIZ, on Tuesday officially launched The Gambia’s National Early Warning and Response Policy 2026–2035, establishing a national framework designed to ide...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-launches-national-early-warning-and-response-policy-to-strengthen-crisis-prevention/",
-      "publishedAt": "2026-09-29T21:33:35.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "52f1f131a39dc39b",
-      "title": "Gambia Faces D16.2 Billion Debt Service Burden in 2027 as Interest Costs Jump by Almost a Third",
-      "summary": "By Staff Writer The Gambia is projected to spend D16.17 billion on servicing its national debt in 2027, making debt obligations the government’s single largest expenditure and consuming more than two-fifths of projected domestic revenue. The figure represents a 20 percent incr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambias-debt-service-bill-to-hit-d16-2-billion-in-2027-as-interest-costs-surge/",
-      "publishedAt": "2026-09-29T20:27:03.000Z",
-      "collectedAt": "2026-09-29T22:11:27.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T08:19:32.764Z",
+    "generatedAt": "2026-10-04T15:19:20.201Z",
     "count": 100
   }
 }

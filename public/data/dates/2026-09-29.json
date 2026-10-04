@@ -104,7 +104,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
       "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-04T08:19:27.439Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -127,7 +127,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
       "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-10-04T08:19:27.439Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -148,7 +148,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-04T08:19:27.439Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -173,7 +173,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
       "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-04T08:19:27.439Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
       "region": "kanifing",
       "categories": [],
       "contentType": "article",
@@ -184,33 +184,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "85d72ac349f01b0a",
-      "title": "ANALYSIS: As Alliances Grow, Cracks Are Opening on Both Sides of Gambia’s Political Divide",
-      "summary": "Written by: Seringe S.T. Touray With barely two months to The Gambia’s December 5th presidential election, the country’s rapidly changing alliance politics is producing an intriguing paradox: political camps are gaining new allies while losing some of their own people. Coaliti...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/analysis-as-alliances-grow-cracks-are-opening-on-both-sides-of-gambias-political-divide/",
-      "publishedAt": "2026-09-29T11:03:52.000Z",
-      "collectedAt": "2026-10-04T08:19:27.439Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T08:19:32.764Z",
-    "count": 9
+    "generatedAt": "2026-10-04T15:19:20.201Z",
+    "count": 8
   }
 }

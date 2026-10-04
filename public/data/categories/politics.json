@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "8b09ca2a1a1ed8a2",
+      "title": "Barrow Tour Criticised Over Costs, Political Messaging Ahead of Election",
+      "summary": "By Dawda Baldeh President Adama Barrow’s nationwide Meet the People’s Tour has come under fresh criticism from opposition politician Abubacarr Bayo and Political commentator Ebrima Nyang, who accuse the government of using the constitutionally mandated exercise as a political ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-tour-criticised-over-costs-political-messaging-ahead-of-election/",
+      "publishedAt": "2026-10-04T11:04:07.000Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a2f3652ea0ebca9f",
+      "title": "GAP criticises Barrow’s Meet the People’s Tour over ‘divisive’ political rhetoric",
+      "summary": "The opposition Gambia Action Party (GAP) has criticised President Adama Barrow’s nationwide Meet the People’s Tour, accusing the government of using the taxpayer-funded exercise as a platform for political rhetoric instead of engaging with citizens’ concerns. The criticism was...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gap-criticises-barrows-meet-the-peoples-tour-over-divisive-political-rhetoric/",
+      "publishedAt": "2026-10-04T10:45:06.000Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a5decdb3b0f9c731",
       "title": "Minister Hamat Bah Warns NPP Alliance Against Defeat, Says Goal Is to Keep Barrow in Office",
       "summary": "By Makutu Manneh Hamat N.K. Bah, the Minister of Lands, Regional Government and Religious Affairs, has urged members of the National People’s Party and its political allies to work to prevent the government from losing power, saying their objective should be to keep President ...",
@@ -1329,7 +1375,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-04T08:19:27.439Z",
+      "collectedAt": "2026-10-04T15:19:13.093Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1344,33 +1390,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "85d72ac349f01b0a",
-      "title": "ANALYSIS: As Alliances Grow, Cracks Are Opening on Both Sides of Gambia’s Political Divide",
-      "summary": "Written by: Seringe S.T. Touray With barely two months to The Gambia’s December 5th presidential election, the country’s rapidly changing alliance politics is producing an intriguing paradox: political camps are gaining new allies while losing some of their own people. Coaliti...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/analysis-as-alliances-grow-cracks-are-opening-on-both-sides-of-gambias-political-divide/",
-      "publishedAt": "2026-09-29T11:03:52.000Z",
-      "collectedAt": "2026-10-04T08:19:27.439Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T08:19:32.764Z",
-    "count": 58
+    "generatedAt": "2026-10-04T15:19:20.201Z",
+    "count": 59
   }
 }
