@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "a46553fb15503830",
+      "title": "No-nonsense magistrate slams 10 years on another rapist in Basse",
+      "summary": "By Amadou Jadama The Basse Magistrate’s Court has sentenced one Omar Jallow to a mandatory jail term of 10 years with hard labour after he admitted and was subsequently found guilty of raping a 19-year-old girl in Basse. Senior Magistrate Ismaila Dibba further ordered the conv...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/no-nonsense-magistrate-slams-10-years-on-another-rapist-in-basse/",
+      "publishedAt": "2026-10-05T11:18:00.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "upper-river",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Amadou Jadama",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "07e4ce4d0a691cee",
       "title": "Agriculture Ministry Signs $13.93 Million in Contracts to Expand Rice Production in URR",
       "summary": "By Makutu Manneh The Ministry of Agriculture, Livestock, and Food Security has signed contracts worth $13.93 million to expand irrigation infrastructure and rice production in six communities in the Upper River Region as part of a broader effort to strengthen food security in ...",
@@ -25,7 +46,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T05:15:46.844Z",
-    "count": 1
+    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "count": 2
   }
 }

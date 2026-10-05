@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "1fa0074b57ab6797",
+      "title": "Senegal’s President Faye mourns as heavy rains claim lives in Senegal",
+      "summary": "Published by: The Fatu Network Heavy rains in Senegal have claimed lives, prompting President Bassirou Diomaye Faye to express condolences to the victims’ families and support for those affected by the flooding. In a message shared on Facebook, President Faye said he was deepl...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/senegals-president-faye-mourns-as-heavy-rains-claim-lives-in-senegal/",
+      "publishedAt": "2026-10-05T10:20:00.000Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8b09ca2a1a1ed8a2",
       "title": "Barrow Tour Criticised Over Costs, Political Messaging Ahead of Election",
       "summary": "By Dawda Baldeh President Adama Barrow’s nationwide Meet the People’s Tour has come under fresh criticism from opposition politician Abubacarr Bayo and Political commentator Ebrima Nyang, who accuse the government of using the constitutionally mandated exercise as a political ...",
@@ -142,7 +167,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
       "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -165,7 +190,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
       "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -186,7 +211,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -201,31 +226,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6c0fd96bce4cb8ba",
-      "title": "Journalist-turned-politician Sulayman Waan to launch Change Front manifesto on October 2",
-      "summary": "Written by: Dawda Baldeh Journalist-turned-politician Sulayman Waan is set to officially launch the Change Front political movement’s manifesto, The Salvation, on Friday, October 2, 2026, at the YMCA in Kanifing Municipality. The more than 100-page document, comprising approxi...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
-      "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T05:15:46.844Z",
+    "generatedAt": "2026-10-05T14:20:55.085Z",
     "count": 10
   }
 }

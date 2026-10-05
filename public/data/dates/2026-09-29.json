@@ -9,7 +9,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
       "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -32,7 +32,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
       "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -53,7 +53,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -68,31 +68,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6c0fd96bce4cb8ba",
-      "title": "Journalist-turned-politician Sulayman Waan to launch Change Front manifesto on October 2",
-      "summary": "Written by: Dawda Baldeh Journalist-turned-politician Sulayman Waan is set to officially launch the Change Front political movement’s manifesto, The Salvation, on Friday, October 2, 2026, at the YMCA in Kanifing Municipality. The more than 100-page document, comprising approxi...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/journalist-turned-politician-sulayman-waan-to-launch-change-front-manifesto-on-october-2/",
-      "publishedAt": "2026-09-29T11:30:50.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T05:15:46.844Z",
-    "count": 4
+    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "count": 3
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "8b1eeb79d2ce11a3",
+      "title": "Woman accuses police of highhandedness in land dispute with ex-husband",
+      "summary": "By Tabora Bojang Kumba Sowe, 47, a resident of Sukuta, has alleged that she was detained by the Police Fraud Squad for three days and ordered to hand over documents of a land gifted to her by her former husband. Sowe said her former husband, Bubacarr Keita, allegedly sold the ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/woman-accuses-police-of-highhandedness-in-land-dispute-with-ex-husband/",
+      "publishedAt": "2026-10-05T11:16:53.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4f4bb399649c498f",
       "title": "Yankuba Darboe Calls Barrow’s Five-Year Record ‘Very Bad,’ Says UDP Offers Alternative",
       "summary": "By Seedy Jobe Yankuba Darboe, chairman of the Brikama Area Council, has sharply criticized President Adama Barrow’s record in office, saying his government has failed Gambians and should not be given another term. Speaking in Switzerland at a fundraising event organized by the...",
@@ -97,7 +120,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-05T05:15:41.294Z",
+      "collectedAt": "2026-10-05T14:20:48.611Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -120,7 +143,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-05T05:15:41.294Z",
+      "collectedAt": "2026-10-05T14:20:48.611Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -136,7 +159,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T05:15:46.844Z",
-    "count": 6
+    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "count": 7
   }
 }

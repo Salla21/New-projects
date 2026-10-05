@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "1a2c212b10a90082",
+      "title": "Darboe rejects Barrow’s call to join alliance",
+      "summary": "By Arret Jatta United Democratic Party (UDP) leader Ousainu Darboe has rejected calls to join President Adama Barrow’s National People’s Party (NPP)-led alliance, insisting that nobody can lead his party into another political camp against the wishes of its supporters. Mr Darb...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/darboe-rejects-barrows-call-to-join-alliance/",
+      "publishedAt": "2026-10-05T11:20:50.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8b1eeb79d2ce11a3",
+      "title": "Woman accuses police of highhandedness in land dispute with ex-husband",
+      "summary": "By Tabora Bojang Kumba Sowe, 47, a resident of Sukuta, has alleged that she was detained by the Police Fraud Squad for three days and ordered to hand over documents of a land gifted to her by her former husband. Sowe said her former husband, Bubacarr Keita, allegedly sold the ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/woman-accuses-police-of-highhandedness-in-land-dispute-with-ex-husband/",
+      "publishedAt": "2026-10-05T11:16:53.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "92a44e1a18e01814",
       "title": "Gambia Immigration Department Intercepts 47 Suspected Irregular Migrants in Bakau, Tanji Operations",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) says it intercepted 47 suspected irregular migrants, including three alleged smugglers and sailors, in separate operations in Bakau and Tanji on Saturday. In the first operation, conducted in Bakau on Oct. 3, personnel f...",
@@ -266,7 +314,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T05:15:46.844Z",
-    "count": 11
+    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "count": 13
   }
 }

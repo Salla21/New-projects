@@ -1,6 +1,195 @@
 {
   "items": [
     {
+      "id": "85e2c634be72f3a9",
+      "title": "COALITION 2026 CONDEMNS ‘WEAPONISATION OF IDENTITY POLITICS’ BY NPP OFFICIALS",
+      "summary": "Coalition 2026 under the leadership of Talib Bensouda has issued a statement accusing the NPP of “fueling a dangerous politics of division and fear” under President Barrow’s watch.  The statement read: “How far is President Barrow ready to go to force his third term re-electio...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/coalition-2026-condemns-weaponisation-of-identity-politics-by-npp-officials/",
+      "publishedAt": "2026-10-05T11:24:16.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0706c8f027f1099f",
+      "title": "President directs UTG to halt recruitment of new VC",
+      "summary": "By Tabora Bojang The Standard is privy to a communiqué from the Ministry of Higher Education. Research, Science and Technology informing the University of The Gambia’s Governing Council that the chancellor, President Adama Barrow has directed that the ongoing recruitment proce...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/president-directs-utg-to-halt-recruitment-of-new-vc/",
+      "publishedAt": "2026-10-05T11:21:29.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "07abe4303d747f70",
+      "title": "UDP demands full disclosure of supplementary voter data",
+      "summary": "By Arret Jatta The United Democratic Party (UDP) has called on the Independent Electoral Commission (IEC) to release information on the 2026 supplementary voter registration exercise, citing a discrepancy of 28,932 voters between the commission’s announced figures and a datase...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/udp-demands-full-disclosure-of-supplementary-voter-data/",
+      "publishedAt": "2026-10-05T11:20:59.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1a2c212b10a90082",
+      "title": "Darboe rejects Barrow’s call to join alliance",
+      "summary": "By Arret Jatta United Democratic Party (UDP) leader Ousainu Darboe has rejected calls to join President Adama Barrow’s National People’s Party (NPP)-led alliance, insisting that nobody can lead his party into another political camp against the wishes of its supporters. Mr Darb...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/darboe-rejects-barrows-call-to-join-alliance/",
+      "publishedAt": "2026-10-05T11:20:50.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b426836267ac0418",
+      "title": "G-Bissau junta blocks ex-president’s return from exile",
+      "summary": "Guinea-Bissau’s ruling junta announced Thursday that “security conditions” were not in place for the return of exiled former president Umaro Sissoco Embalo, who has been living in Morocco since the army seized power last November. The decision came days after Embalo told AFP h...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/g-bissau-junta-blocks-ex-presidents-return-from-exile/",
+      "publishedAt": "2026-10-05T11:17:58.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0be27ca8f50e06c1",
+      "title": "Special prosecutor rejects selective justice claims",
+      "summary": "By Arret Jatta Special Prosecutor Martin Hackett tasked with pursuing criminal cases against individuals implicated in human rights abuses during former president Yahya Jammeh’s 22-year rule, has rejected claims of selective justice in the prosecution of crimes committed durin...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/special-prosecutor-rejects-selective-justice-claims/",
+      "publishedAt": "2026-10-05T11:15:46.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ce3a4f462d4e318a",
+      "title": "DP ends political alliance with NPP",
+      "summary": "By Arret Jatta The Democratic Party (DP) has terminated its political alliance with the National People’s Party (NPP), saying its values, beliefs and political objectives no longer align with those of the ruling party. The decision was announced by DP leader Professor Dr Yusup...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/dp-ends-political-alliance-with-npp/",
+      "publishedAt": "2026-10-05T11:15:13.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1fa0074b57ab6797",
+      "title": "Senegal’s President Faye mourns as heavy rains claim lives in Senegal",
+      "summary": "Published by: The Fatu Network Heavy rains in Senegal have claimed lives, prompting President Bassirou Diomaye Faye to express condolences to the victims’ families and support for those affected by the flooding. In a message shared on Facebook, President Faye said he was deepl...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/senegals-president-faye-mourns-as-heavy-rains-claim-lives-in-senegal/",
+      "publishedAt": "2026-10-05T10:20:00.000Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5006e8d19258584e",
       "title": "Barrow Campaigns on Continuity, Warns Kaur Wharf Voters Against Vote-Buying",
       "summary": "By Makutu Manneh President Adama Barrow has cast the 2026 presidential election as a choice between continuing his government’s development agenda and changing course, urging voters in Kaur Wharf Town to reject attempts to influence their votes with cash or gifts. Speaking dur...",
@@ -1349,7 +1538,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1367,7 +1556,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T05:15:46.844Z",
-    "count": 58
+    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "count": 66
   }
 }

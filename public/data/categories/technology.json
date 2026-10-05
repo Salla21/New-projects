@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "0706c8f027f1099f",
+      "title": "President directs UTG to halt recruitment of new VC",
+      "summary": "By Tabora Bojang The Standard is privy to a communiqué from the Ministry of Higher Education. Research, Science and Technology informing the University of The Gambia’s Governing Council that the chancellor, President Adama Barrow has directed that the ongoing recruitment proce...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/president-directs-utg-to-halt-recruitment-of-new-vc/",
+      "publishedAt": "2026-10-05T11:21:29.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1fa0074b57ab6797",
+      "title": "Senegal’s President Faye mourns as heavy rains claim lives in Senegal",
+      "summary": "Published by: The Fatu Network Heavy rains in Senegal have claimed lives, prompting President Bassirou Diomaye Faye to express condolences to the victims’ families and support for those affected by the flooding. In a message shared on Facebook, President Faye said he was deepl...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/senegals-president-faye-mourns-as-heavy-rains-claim-lives-in-senegal/",
+      "publishedAt": "2026-10-05T10:20:00.000Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "27f9dadf2693b76f",
       "title": "Special Prosecutor Pledges Fair Trials as Gambia Moves Toward TRRC Prosecutions",
       "summary": "By Seedy Jobe The Gambia’s special prosecutor has pledged to pursue cases stemming from the country’s truth commission with respect for both victims and defendants, stressing that accountability for past abuses must be accompanied by due process and fair trials. Martin Hackett...",
@@ -128,7 +177,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
       "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -146,7 +195,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T05:15:46.844Z",
-    "count": 6
+    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "count": 8
   }
 }

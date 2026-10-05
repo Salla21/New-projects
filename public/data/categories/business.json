@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "id": "1a2c212b10a90082",
+      "title": "Darboe rejects Barrow’s call to join alliance",
+      "summary": "By Arret Jatta United Democratic Party (UDP) leader Ousainu Darboe has rejected calls to join President Adama Barrow’s National People’s Party (NPP)-led alliance, insisting that nobody can lead his party into another political camp against the wishes of its supporters. Mr Darb...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/darboe-rejects-barrows-call-to-join-alliance/",
+      "publishedAt": "2026-10-05T11:20:50.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "98d87675ef9115ba",
+      "title": "UN expert on extrajudicial executions to visit Gambia",
+      "summary": "The UN Special Rapporteur on extrajudicial, summary or arbitrary executions, Morris Tidball-Binz, will conduct an official visit to the Republic of The Gambia from 5th to 16th October, at the invitation of the government. The special rapporteur will assess the protection of th...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/un-expert-on-extrajudicial-executions-to-visit-gambia2/",
+      "publishedAt": "2026-10-05T11:17:28.000Z",
+      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1fa0074b57ab6797",
+      "title": "Senegal’s President Faye mourns as heavy rains claim lives in Senegal",
+      "summary": "Published by: The Fatu Network Heavy rains in Senegal have claimed lives, prompting President Bassirou Diomaye Faye to express condolences to the victims’ families and support for those affected by the flooding. In a message shared on Facebook, President Faye said he was deepl...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/senegals-president-faye-mourns-as-heavy-rains-claim-lives-in-senegal/",
+      "publishedAt": "2026-10-05T10:20:00.000Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0af44370ac187afb",
       "title": "Gambia Takes Over Leadership of 44-Nation Least Developed Countries Group",
       "summary": "By Fatou Sillah The Gambia has assumed the chairmanship of the 44-member Least Developed Countries Group for a three-year term, succeeding Nepal and taking on a leading role in coordinating the bloc’s positions in global negotiations on development, debt, trade, and climate ch...",
@@ -766,7 +839,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-05T05:15:41.294Z",
+      "collectedAt": "2026-10-05T14:20:48.611Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -789,7 +862,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
       "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-05T05:15:41.513Z",
+      "collectedAt": "2026-10-05T14:20:48.725Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -805,7 +878,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T05:15:46.844Z",
-    "count": 34
+    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "count": 37
   }
 }
