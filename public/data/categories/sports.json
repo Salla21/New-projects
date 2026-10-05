@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "3918da8cce6a19c9",
+      "title": "Banjul youth demand answers over delayed D21m KG5 stadium project",
+      "summary": "By Demba Bah For months, the gates of Banjul’s KG5 Mini Stadium have remained largely shut, leaving young footballers without the city’s main football ground and raising growing anger over a D21 million rehabilitation project that was supposed to be completed last year. On Sat...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/banjul-youth-demand-answers-over-delayed-d21m-kg5-stadium-project/",
+      "publishedAt": "2026-10-05T11:56:00.000Z",
+      "collectedAt": "2026-10-05T22:29:35.284Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f67e7b431a9184b3",
       "title": "Gambia Minifootball Association targets Nations Cup birth after launch",
       "summary": "By Momodou Jarju The executive of the newly formed Gambia Minifootball Association (GMA) has set their sight on qualifying the country to its first continental competition after launching the association last Saturday at the President’s International Award (PIA) in Bakau. The ...",
@@ -48,31 +71,6 @@
       "status": "published"
     },
     {
-      "id": "736cad035a7383df",
-      "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
-      "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
-      "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-05T14:20:48.725Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -81,7 +79,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-05T14:20:48.611Z",
+      "collectedAt": "2026-10-05T22:29:35.469Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -97,7 +95,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "generatedAt": "2026-10-05T22:29:40.684Z",
     "count": 4
   }
 }

@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "8de8bbd8f971cb19",
+      "title": "Political Analyst Biran Gai Decries ‘Politics of Mediocrity,’ Questions Politicians’ Convictions",
+      "summary": "By Makutu Manneh Biran Gai, a Gambian political analyst, has criticized what he calls a growing “politics of mediocrity” in The Gambia, arguing that many politicians are driven more by personal ambition than by conviction, ideology, or clearly defined principles. Speaking on K...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-biran-gai-decries-politics-of-mediocrity-questions-politicians-convictions/",
+      "publishedAt": "2026-10-05T17:03:33.000Z",
+      "collectedAt": "2026-10-05T22:29:36.643Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6331fabcb4a0e231",
+      "title": "MoBSE PS Says Teacher Shortage Delays Full Rollout of Technical Education Policy",
+      "summary": "By Fatou Sillah The Permanent Secretary at the Ministry of Basic and Secondary Education, Louis Moses Mendy, says a shortage of qualified technical teachers is hampering the full implementation of a national policy designed to introduce students to technical and vocational edu...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mobse-ps-says-teacher-shortage-delays-full-rollout-of-technical-education-policy/",
+      "publishedAt": "2026-10-05T16:53:52.000Z",
+      "collectedAt": "2026-10-05T22:29:36.643Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d92329e220f0dc95",
+      "title": "Gambia Peace Project Unveils 10-Year Plan to Invest in Peace, Youth and National Development",
+      "summary": "Published by: The Fatu Network The Gambia Peace Project has unveiled a ten-year initiative aimed at treating peace not simply as the absence of conflict, but as a national asset requiring long-term investment in people, institutions, education and economic opportunity. Launche...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-peace-project-unveils-10-year-plan-to-invest-in-peace-youth-and-national-development/",
+      "publishedAt": "2026-10-05T15:25:46.000Z",
+      "collectedAt": "2026-10-05T22:29:35.605Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0706c8f027f1099f",
       "title": "President directs UTG to halt recruitment of new VC",
       "summary": "By Tabora Bojang The Standard is privy to a communiqué from the Ministry of Higher Education. Research, Science and Technology informing the University of The Gambia’s Governing Council that the chancellor, President Adama Barrow has directed that the ongoing recruitment proce...",
@@ -119,83 +189,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fec5e7aaa7f7bcac",
-      "title": "China Tells UN ‘The World Wants Peace, Not War’",
-      "summary": "By Yankuba Jallow China has called for a stronger international commitment to multilateralism, dialogue and international law, warning that the world is facing intertwined crises including geopolitical conflicts, widening development gaps and growing global challenges. Address...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/china-tells-un-the-world-wants-peace-not-war/",
-      "publishedAt": "2026-09-30T12:00:48.000Z",
-      "collectedAt": "2026-09-30T12:21:38.421Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "fb1a1fb55152b1c9",
-      "title": "Gambian jailed for life in UK for murder of Sudanese refugee",
-      "summary": "By Omar Bah A 24-year-old Gambian man has been jailed for life for the murder of a Sudanese refugee who fled civil war to seek safety in Britain. According to court documents seen by The Standard, Abdou Sillah stabbed Kiirpal Nhian, 29, to death in a Birmingham HMO, inflicting...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambian-jailed-for-life-in-uk-for-murder-of-sudanese-refugee/",
-      "publishedAt": "2026-09-30T10:12:25.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "736cad035a7383df",
-      "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
-      "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
-      "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-05T14:20:48.725Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "generatedAt": "2026-10-05T22:29:40.684Z",
     "count": 8
   }
 }

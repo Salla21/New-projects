@@ -9,7 +9,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
       "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-05T14:20:48.725Z",
+      "collectedAt": "2026-10-05T22:29:35.605Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -22,56 +22,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "cd1327b7dc414022",
-      "title": "Spotlight: The Nurse Taking Her Fight for Girls Beyond the Hospital",
-      "summary": "Written by: Dawda Baldeh For Aminata Maimuna Baldeh, nursing is more than a profession. It is a calling to serve humanity. From the demanding environment of a hospital, where she cares for patients and helps them through illness and recovery, to community platforms where she s...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/spotlight-the-nurse-taking-her-fight-for-girls-beyond-the-hospital/",
-      "publishedAt": "2026-09-29T13:23:20.000Z",
-      "collectedAt": "2026-10-05T14:20:48.725Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "736cad035a7383df",
-      "title": "President Barrow Rewards Gambia U 17 Football and Volleyball Teams D2M Each",
-      "summary": "Published verbatim from a statement by the State House of The Gambia. His Excellency Adama Barrow, today received the national U-17 Scorpions football players, their technical team, and officials of The Gambia Football Federation (GFF), accompanied by the Hon. Minister of Yout...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-rewards-gambia-u-17-football-and-volleyball-teams-d2m-each/",
-      "publishedAt": "2026-09-29T13:04:20.000Z",
-      "collectedAt": "2026-10-05T14:20:48.725Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T14:20:55.085Z",
-    "count": 3
+    "generatedAt": "2026-10-05T22:29:40.684Z",
+    "count": 1
   }
 }

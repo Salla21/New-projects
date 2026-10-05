@@ -115,31 +115,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3492cdc39a1e05e7",
-      "title": "Change Front political movement to unveil manifesto Friday",
-      "summary": "By Olimatou Coker A new political movement Change Front, is set to unveil its manifesto called ‘The Salvation’, on Friday at the YMCA in Kanifing. The 100-page document outlines the political movement’s doctrine, economic models and sectoral priorities. The launch is expected ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/change-front-political-movement-to-unveil-manifesto-friday/",
-      "publishedAt": "2026-09-30T10:07:37.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T14:20:55.085Z",
-    "count": 6
+    "generatedAt": "2026-10-05T22:29:40.684Z",
+    "count": 5
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "56b44272ee4b771c",
+      "title": "The Gambia Strengthens National Systems to Address Missing Migrants",
+      "summary": "The International Organization for Migration (IOM), in partnership with the Ministry of Foreign Affairs, International Cooperation, and Gambians Abroad (MoFA), convened from 30 September to 2 October a three-day foundational training to strengthen The Gambia’s national respons...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/the-gambia-strengthens-national-systems-to-address-missing-migrants/",
+      "publishedAt": "2026-10-05T17:56:00.000Z",
+      "collectedAt": "2026-10-05T22:29:36.643Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1a2c212b10a90082",
       "title": "Darboe rejects Barrow’s call to join alliance",
       "summary": "By Arret Jatta United Democratic Party (UDP) leader Ousainu Darboe has rejected calls to join President Adama Barrow’s National People’s Party (NPP)-led alliance, insisting that nobody can lead his party into another political camp against the wishes of its supporters. Mr Darb...",
@@ -42,6 +65,30 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "568a5cb1187b6dc4",
+      "title": "Government projects D17 million for fire, ambulance and rescue vehicles in 2027",
+      "summary": "By Yankuba Jallow The Gambia Government is projecting D17 million (seventeen million dalasi) for fire-fighting, ambulances and rescue vehicles in the 2027 budget, an increase from the D625,000 (six hundred and twenty-five thousand dalasi) approved for 2026. The figure is conta...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-projects-d17-million-for-fire-ambulance-and-rescue-vehicles-in-2027/",
+      "publishedAt": "2026-10-05T10:15:00.000Z",
+      "collectedAt": "2026-10-05T22:29:35.284Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -263,58 +310,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fb1a1fb55152b1c9",
-      "title": "Gambian jailed for life in UK for murder of Sudanese refugee",
-      "summary": "By Omar Bah A 24-year-old Gambian man has been jailed for life for the murder of a Sudanese refugee who fled civil war to seek safety in Britain. According to court documents seen by The Standard, Abdou Sillah stabbed Kiirpal Nhian, 29, to death in a Birmingham HMO, inflicting...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambian-jailed-for-life-in-uk-for-murder-of-sudanese-refugee/",
-      "publishedAt": "2026-09-30T10:12:25.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2235ec0f4e83bbbd",
-      "title": "Standard deputy editor attends EU’s visitors programme in Belgium",
-      "summary": "The deputy editor of The Standard Newspaper, Omar Bah, is currently in Brussels, Belgium attending the European Union Visitors Programme, EUVP, one of the EU’s most selective and influential public diplomacy initiatives. Bah’s selection places him among a small cohort of young...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/standard-deputy-editor-attends-eus-visitors-programme-in-belgium/",
-      "publishedAt": "2026-09-30T10:08:44.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "generatedAt": "2026-10-05T22:29:40.684Z",
     "count": 13
   }
 }

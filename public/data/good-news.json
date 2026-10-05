@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "56b44272ee4b771c",
+      "title": "The Gambia Strengthens National Systems to Address Missing Migrants",
+      "summary": "The International Organization for Migration (IOM), in partnership with the Ministry of Foreign Affairs, International Cooperation, and Gambians Abroad (MoFA), convened from 30 September to 2 October a three-day foundational training to strengthen The Gambia’s national respons...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/the-gambia-strengthens-national-systems-to-address-missing-migrants/",
+      "publishedAt": "2026-10-05T17:56:00.000Z",
+      "collectedAt": "2026-10-05T22:29:36.643Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d92329e220f0dc95",
+      "title": "Gambia Peace Project Unveils 10-Year Plan to Invest in Peace, Youth and National Development",
+      "summary": "Published by: The Fatu Network The Gambia Peace Project has unveiled a ten-year initiative aimed at treating peace not simply as the absence of conflict, but as a national asset requiring long-term investment in people, institutions, education and economic opportunity. Launche...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-peace-project-unveils-10-year-plan-to-invest-in-peace-youth-and-national-development/",
+      "publishedAt": "2026-10-05T15:25:46.000Z",
+      "collectedAt": "2026-10-05T22:29:35.605Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0a88cb3eef2fcda4",
+      "title": "Lands Minister Warns Niumi Residents Against Selling Land to Private Dealers",
+      "summary": "By Assan  Bah  The Minister of Lands, Local Government and Religious Affairs, Hamat N.K. Bah, has warned traditional and regional leaders in Niumi on Thursday to halt the cheap sale of lands to foreign investors through local middlemen. Speaking at a joint meeting in Passy Cha...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/lands-minister-warns-niumi-residents-against-selling-land-to-private-dealers/",
+      "publishedAt": "2026-10-05T11:31:00.000Z",
+      "collectedAt": "2026-10-05T22:29:35.284Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4f4bb399649c498f",
       "title": "Yankuba Darboe Calls Barrow’s Five-Year Record ‘Very Bad,’ Says UDP Offers Alternative",
       "summary": "By Seedy Jobe Yankuba Darboe, chairman of the Brikama Area Council, has sharply criticized President Adama Barrow’s record in office, saying his government has failed Gambians and should not be given another term. Speaking in Switzerland at a fundraising event organized by the...",
@@ -228,78 +298,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5d3ef0318d4efdeb",
-      "title": "CALLS FOR DARBOE, TALIB RECONCILIATION SPARK DEBATE ON OPPOSITION UNITY",
-      "summary": "By Tabora Bojang As the country approaches presidential elections in two months’ time, opposition supporters frustrated by the sharp division in the opposition and the successful poaching of key opposition  leaders by the governing NPP,  have started calls for reconciliation b...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/calls-for-darboe-talib-reconciliation-spark-debate-on-opposition-unity/",
-      "publishedAt": "2026-09-30T10:20:02.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "88e162db134670d3",
-      "title": "National Early Warning and Response Policy launched",
-      "summary": "By Arret Jatta Vice President Muhammad BS Jallow yesterday launched The Gambia’s National Early Warning and Response Policy (2026–2035) at the Sir Dawda Kairaba Jawara Conference Centre. The policy is aimed at strengthening the country’s ability to identify emerging threats an...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/national-early-warning-and-response-policy-launched/",
-      "publishedAt": "2026-09-30T10:13:09.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Arret Jatta",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3492cdc39a1e05e7",
-      "title": "Change Front political movement to unveil manifesto Friday",
-      "summary": "By Olimatou Coker A new political movement Change Front, is set to unveil its manifesto called ‘The Salvation’, on Friday at the YMCA in Kanifing. The 100-page document outlines the political movement’s doctrine, economic models and sectoral priorities. The launch is expected ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/change-front-political-movement-to-unveil-manifesto-friday/",
-      "publishedAt": "2026-09-30T10:07:37.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T14:20:55.085Z",
+    "generatedAt": "2026-10-05T22:29:40.684Z",
     "count": 13
   }
 }
