@@ -634,81 +634,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "904029499a6f7ade",
-      "title": "UDP regional spokesperson reacts to Barrow over invitation to Darboe",
-      "summary": "Karamo Njie, the North Bank Region chairman of the main opposition UDP, has said President Barrow needs some advice over his now regular call for the UDP leader to join him. According to Njie before Barrow can think of such a thing, he must first realise and accept that he cam...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/udp-regional-spokesperson-reacts-to-barrow-over-invitation-to-darboe/",
-      "publishedAt": "2026-09-30T10:07:06.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bf14d13057e0bedc",
-      "title": "APP-Sobeyaa admin sec defends alliance with NPP",
-      "summary": "The Administrative Secretary of APP-Sobeyaa, Cherno Touray, has mounted a strong defence of the party’s alliance with the NPP, describing it as a decision for “national responsibility over party differences.” In a statement shared with The Standard yesterday, Touray said the a...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/app-sobeyaa-admin-sec-defends-alliance-with-npp/",
-      "publishedAt": "2026-09-30T10:03:50.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b0aa1f99c327e293",
-      "title": "The importance of conducting free and fair elections",
-      "summary": "Elections are a cornerstone of democracy. They give citizens the opportunity to choose their representatives and to participate in the governance of their country. For elections to serve this purpose, they must be conducted in a free, fair, transparent, and peaceful manner. Th...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/the-importance-of-conducting-free-and-fair-elections/",
-      "publishedAt": "2026-09-30T09:58:40.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T22:59:14.995Z",
-    "count": 31
+    "generatedAt": "2026-10-05T05:15:46.844Z",
+    "count": 28
   }
 }

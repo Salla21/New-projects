@@ -758,54 +758,6 @@
       "status": "published"
     },
     {
-      "id": "904029499a6f7ade",
-      "title": "UDP regional spokesperson reacts to Barrow over invitation to Darboe",
-      "summary": "Karamo Njie, the North Bank Region chairman of the main opposition UDP, has said President Barrow needs some advice over his now regular call for the UDP leader to join him. According to Njie before Barrow can think of such a thing, he must first realise and accept that he cam...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/udp-regional-spokesperson-reacts-to-barrow-over-invitation-to-darboe/",
-      "publishedAt": "2026-09-30T10:07:06.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b0aa1f99c327e293",
-      "title": "The importance of conducting free and fair elections",
-      "summary": "Elections are a cornerstone of democracy. They give citizens the opportunity to choose their representatives and to participate in the governance of their country. For elections to serve this purpose, they must be conducted in a free, fair, transparent, and peaceful manner. Th...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/the-importance-of-conducting-free-and-fair-elections/",
-      "publishedAt": "2026-09-30T09:58:40.000Z",
-      "collectedAt": "2026-09-30T12:21:27.237Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "a21dae69c00a38d7",
       "title": "PIU Officer Seen Walking Through Brikama With Beer Bottle",
       "summary": "A PIU officer reportedly left residents shocked in Brikama after he was seen walking through the…\nThe post PIU Officer Seen Walking Through Brikama With Beer Bottle appeared first on What's On Gambia.",
@@ -814,7 +766,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-09-30T05:15:44.372Z",
+      "collectedAt": "2026-10-05T05:15:41.294Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -822,31 +774,6 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "056a054677947861",
-      "title": "Mali Warns UN of Foreign Support for Terrorism in the Sahel",
-      "summary": "By Yankuba Jallow Mali’s foreign minister has accused Ukraine of supporting armed groups in the Sahel and called for greater African control over the region’s security, economy and natural resources. Mali’s Foreign Affairs and International Cooperation Minister, Abdoulaye Diop...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/mali-warns-un-of-foreign-support-for-terrorism-in-the-sahel/",
-      "publishedAt": "2026-09-30T00:33:00.000Z",
-      "collectedAt": "2026-09-30T19:03:33.240Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -862,7 +789,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
       "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-04T22:59:09.939Z",
+      "collectedAt": "2026-10-05T05:15:41.513Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -878,7 +805,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T22:59:14.995Z",
-    "count": 37
+    "generatedAt": "2026-10-05T05:15:46.844Z",
+    "count": 34
   }
 }

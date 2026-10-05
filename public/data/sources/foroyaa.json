@@ -640,35 +640,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "056a054677947861",
-      "title": "Mali Warns UN of Foreign Support for Terrorism in the Sahel",
-      "summary": "By Yankuba Jallow Mali’s foreign minister has accused Ukraine of supporting armed groups in the Sahel and called for greater African control over the region’s security, economy and natural resources. Mali’s Foreign Affairs and International Cooperation Minister, Abdoulaye Diop...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/mali-warns-un-of-foreign-support-for-terrorism-in-the-sahel/",
-      "publishedAt": "2026-09-30T00:33:00.000Z",
-      "collectedAt": "2026-09-30T19:03:33.240Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-04T22:59:14.995Z",
-    "count": 29
+    "generatedAt": "2026-10-05T05:15:46.844Z",
+    "count": 28
   }
 }
