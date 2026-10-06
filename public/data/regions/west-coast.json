@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "f74f8d0015227fd6",
+      "title": "BAC Councillor Calls for Transparency Over Ownership, Financing of New Generators",
+      "summary": "By Seedy Jobe Sheriffo Sonko, the transport councillor at the Brikama Area Council, has called on the government to disclose the ownership and financing arrangements behind the newly arrived electricity generators, saying Gambians deserve clarity over how the equipment was acq...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bac-councillor-calls-for-transparency-over-ownership-financing-of-new-generators/",
+      "publishedAt": "2026-10-06T20:18:39.000Z",
+      "collectedAt": "2026-10-06T23:47:01.231Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "29788338c0378a7a",
+      "title": "Gambia Peace Project Founder Muhammed Alamin Trawally Unveils Ambitious 10-Year National Peace Plan",
+      "summary": "Published by: The Fatu Network The Gambia Peace Project has unveiled a ten-year initiative aimed at treating peace not simply as the absence of conflict, but as a national asset requiring long-term investment in people, institutions, education and economic opportunity. Launche...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-peace-project-founder-muhammed-alamin-trawally-unveils-ambitious-10-year-national-peace-plan/",
+      "publishedAt": "2026-10-05T15:25:46.000Z",
+      "collectedAt": "2026-10-06T23:46:59.816Z",
+      "region": "west-coast",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8b1eeb79d2ce11a3",
       "title": "Woman accuses police of highhandedness in land dispute with ex-husband",
       "summary": "By Tabora Bojang Kumba Sowe, 47, a resident of Sukuta, has alleged that she was detained by the Police Fraud Squad for three days and ordered to hand over documents of a land gifted to her by her former husband. Sowe said her former husband, Bubacarr Keita, allegedly sold the ...",
@@ -78,7 +125,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-06T19:25:33.794Z",
+      "collectedAt": "2026-10-06T23:46:59.536Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -99,7 +146,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-06T19:25:33.794Z",
+      "collectedAt": "2026-10-06T23:46:59.536Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -122,7 +169,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-06T19:25:33.794Z",
+      "collectedAt": "2026-10-06T23:46:59.536Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -138,7 +185,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T19:25:39.840Z",
-    "count": 6
+    "generatedAt": "2026-10-06T23:47:05.350Z",
+    "count": 8
   }
 }

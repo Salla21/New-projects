@@ -288,35 +288,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "8bfb38b48501eede",
-      "title": "UDP, Banjul mayor rebut NAM for branding Banjulians as opportunistic",
-      "summary": "By Tabora Bojang Nominated National Assembly Member and Secretary of Diaspora Affairs for the ruling National People’s Party Maimuna Ceesay-Darboe, has come under criticism for describing the people of Banjul as politically opportunistic at an NPP rally in Baddibu. In a video ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/udp-banjul-mayor-rebut-nam-for-branding-banjulians-as-opportunistic/",
-      "publishedAt": "2026-10-02T09:24:38.000Z",
-      "collectedAt": "2026-10-02T12:19:09.347Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T19:25:39.840Z",
-    "count": 13
+    "generatedAt": "2026-10-06T23:47:05.350Z",
+    "count": 12
   }
 }

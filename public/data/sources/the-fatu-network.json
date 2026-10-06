@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "d45e5e5d4b487780",
+      "title": "Ronaldo Explains Portugal Walkout, Accuses Coach Jesus of Breaking His Word",
+      "summary": "Published by: The Fatu Network Cristiano Ronaldo has broken his silence over his decision to leave Portugal’s national team camp, accusing head coach Jorge Jesus of twice breaking his word while accepting responsibility for walking out on the squad. In a lengthy statement rele...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
+      "publishedAt": "2026-10-06T20:43:40.000Z",
+      "collectedAt": "2026-10-06T23:46:59.816Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7de1365d9cd72886",
       "title": "ECOWAS Court Adopts Settlement in Mahawa Cham Killing Case",
       "summary": "Written by: Seringe S.T. Touray The ECOWAS Court of Justice has adopted a settlement between the Gambian government and eight members of the family of former parliamentarian Mahawa Cham, setting out commitments for prosecution, compensation and the recovery of his remains. Cha...",
@@ -130,6 +153,30 @@
       "author": "Seringe S.T. Touray",
       "language": "en",
       "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "29788338c0378a7a",
+      "title": "Gambia Peace Project Founder Muhammed Alamin Trawally Unveils Ambitious 10-Year National Peace Plan",
+      "summary": "Published by: The Fatu Network The Gambia Peace Project has unveiled a ten-year initiative aimed at treating peace not simply as the absence of conflict, but as a national asset requiring long-term investment in people, institutions, education and economic opportunity. Launche...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-peace-project-founder-muhammed-alamin-trawally-unveils-ambitious-10-year-national-peace-plan/",
+      "publishedAt": "2026-10-05T15:25:46.000Z",
+      "collectedAt": "2026-10-06T23:46:59.816Z",
+      "region": "west-coast",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
@@ -318,7 +365,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T19:25:39.840Z",
-    "count": 14
+    "generatedAt": "2026-10-06T23:47:05.350Z",
+    "count": 16
   }
 }

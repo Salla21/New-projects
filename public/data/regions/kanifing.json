@@ -46,33 +46,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "1729c105a787f9a6",
-      "title": "Kanifing Revising Court says ‘suspicion is not proof’ as it",
-      "summary": "Dismisses objection against Adama Bah By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Adama Bah’s eligibility to remain on the voters’ register, ruling that the objector failed to provide sufficient evidence to prove that she is not a Gambi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/kanifing-revising-court-says-suspicion-is-not-proof-as-it/",
-      "publishedAt": "2026-10-01T12:25:14.000Z",
-      "collectedAt": "2026-10-01T12:56:58.663Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T19:25:39.840Z",
-    "count": 3
+    "generatedAt": "2026-10-06T23:47:05.350Z",
+    "count": 2
   }
 }

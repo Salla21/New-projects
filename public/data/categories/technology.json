@@ -119,6 +119,30 @@
       "status": "published"
     },
     {
+      "id": "29788338c0378a7a",
+      "title": "Gambia Peace Project Founder Muhammed Alamin Trawally Unveils Ambitious 10-Year National Peace Plan",
+      "summary": "Published by: The Fatu Network The Gambia Peace Project has unveiled a ten-year initiative aimed at treating peace not simply as the absence of conflict, but as a national asset requiring long-term investment in people, institutions, education and economic opportunity. Launche...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-peace-project-founder-muhammed-alamin-trawally-unveils-ambitious-10-year-national-peace-plan/",
+      "publishedAt": "2026-10-05T15:25:46.000Z",
+      "collectedAt": "2026-10-06T23:46:59.816Z",
+      "region": "west-coast",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d92329e220f0dc95",
       "title": "Gambia Peace Project Unveils 10-Year Plan to Invest in Peace, Youth and National Development",
       "summary": "Published by: The Fatu Network The Gambia Peace Project has unveiled a ten-year initiative aimed at treating peace not simply as the absence of conflict, but as a national asset requiring long-term investment in people, institutions, education and economic opportunity. Launche...",
@@ -213,58 +237,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5d14370b1ba1ac40",
-      "title": "Victims’ Centre clarifies it does not endorse political groupings",
-      "summary": "The Gambia Centre for Victims of Human Rights Violations (Victims’ Centre) has issued a statement yesterday clarifying its position regarding the coalition-building meeting for “Team Gambia” held on 12th September at the Paradise Suites Hotel. The centre wrote: “It has come to...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/victims-centre-clarifies-it-does-not-endorse-political-groupings/",
-      "publishedAt": "2026-10-02T09:23:32.000Z",
-      "collectedAt": "2026-10-02T12:19:09.347Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7e95a5411de74b9d",
-      "title": "Information Minister Ceesay Accuses Some CSOs of Fabricating Dictatorship Narratives for Donor Funding",
-      "summary": "By Makutu Manneh Dr. Ismaila Ceesay, the Minister of Information, Media, and Broadcasting Services, has accused some civil society organizations in Africa, including in The Gambia, of exaggerating political and governance concerns to attract donor funding. Speaking during an i...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/information-minister-ceesay-accuses-some-csos-of-fabricating-dictatorship-narratives-for-donor-funding/",
-      "publishedAt": "2026-10-01T18:44:15.000Z",
-      "collectedAt": "2026-10-01T19:24:13.657Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T19:25:39.840Z",
-    "count": 11
+    "generatedAt": "2026-10-06T23:47:05.350Z",
+    "count": 10
   }
 }
