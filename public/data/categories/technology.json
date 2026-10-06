@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "845c19eb81634617",
+      "title": "Darboe to Barrow: Even With the Central Bank on Your Side, You’ll Lose This Year",
+      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, has predicted that President Adama Barrow will lose the Dec. 5 presidential election regardless of the resources at his disposal, accusing the president of using state funds to bolster his re-election cam...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-to-barrow-even-with-the-central-bank-on-your-side-youll-lose-this-year/",
+      "publishedAt": "2026-10-06T18:13:47.000Z",
+      "collectedAt": "2026-10-06T19:25:35.747Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b14681de6047ead4",
+      "title": "Post-TRRC Unit Head Says Gambia Lacks Forensic Capacity to Locate Victims of Enforced Disappearance",
+      "summary": "By Makutu Manneh The Gambia lacks the forensic expertise and scientific tools needed to locate and identify victims of enforced disappearance, according to Ida Persson, head of the Post-TRRC Unit at the Ministry of Justice. Persson, speaking in an interview with GRTS, said the...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/post-trrc-unit-head-says-gambia-lacks-forensic-capacity-to-locate-victims-of-enforced-disappearance/",
+      "publishedAt": "2026-10-06T16:42:07.000Z",
+      "collectedAt": "2026-10-06T19:25:35.747Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "791b7fe067fd395d",
+      "title": "120-Year-Old Colonial Boundary Pillar Found Intact in Foni",
+      "summary": "By Hatab Nyang A colonial boundary pillar believed to be more than 120 years old has been found intact in Kanjabina village in Foni Berefet District, West Coast Region, providing a rare physical link to the demarcation of the Gambia-Senegal border during the colonial period. T...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/120-year-old-colonial-boundary-pillar-found-intact-in-foni/",
+      "publishedAt": "2026-10-06T13:49:12.000Z",
+      "collectedAt": "2026-10-06T19:25:33.313Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8de8bbd8f971cb19",
       "title": "Political Analyst Biran Gai Decries ‘Politics of Mediocrity,’ Questions Politicians’ Convictions",
       "summary": "By Makutu Manneh Biran Gai, a Gambian political analyst, has criticized what he calls a growing “politics of mediocrity” in The Gambia, arguing that many politicians are driven more by personal ambition than by conviction, ideology, or clearly defined principles. Speaking on K...",
@@ -192,7 +264,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T13:15:00.136Z",
-    "count": 8
+    "generatedAt": "2026-10-06T19:25:39.840Z",
+    "count": 11
   }
 }

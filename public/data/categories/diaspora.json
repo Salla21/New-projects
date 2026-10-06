@@ -1,6 +1,80 @@
 {
   "items": [
     {
+      "id": "845c19eb81634617",
+      "title": "Darboe to Barrow: Even With the Central Bank on Your Side, You’ll Lose This Year",
+      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, has predicted that President Adama Barrow will lose the Dec. 5 presidential election regardless of the resources at his disposal, accusing the president of using state funds to bolster his re-election cam...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-to-barrow-even-with-the-central-bank-on-your-side-youll-lose-this-year/",
+      "publishedAt": "2026-10-06T18:13:47.000Z",
+      "collectedAt": "2026-10-06T19:25:35.747Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "628ae9ab0e33243e",
+      "title": "GID Intercepts 60 Suspected Irregular Migrants in West Coast, North Bank Regions",
+      "summary": "By Makutu Manneh The Gambia Immigration Department has intercepted 60 suspected irregular migrants in separate operations in the West Coast and North Bank regions as authorities step up efforts to curb irregular migration. The operations were carried out by the department’s Bo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gid-intercepts-60-suspected-irregular-migrants-in-west-coast-north-bank-regions/",
+      "publishedAt": "2026-10-06T17:26:54.000Z",
+      "collectedAt": "2026-10-06T19:25:35.747Z",
+      "region": "north-bank",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "05c5c32170ea0295",
+      "title": "Darboe Says He ‘Never Lost’ an Election, Questions Credibility of Past Polls",
+      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, has challenged the legitimacy of previous election results in The Gambia, saying he does not believe he has ever fairly lost an election and alleging that polls held under former President Yahya Jammeh we...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-he-never-lost-an-election-questions-credibility-of-past-polls/",
+      "publishedAt": "2026-10-06T17:02:28.000Z",
+      "collectedAt": "2026-10-06T19:25:35.747Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "56b44272ee4b771c",
       "title": "The Gambia Strengthens National Systems to Address Missing Migrants",
       "summary": "The International Organization for Migration (IOM), in partnership with the Ministry of Foreign Affairs, International Cooperation, and Gambians Abroad (MoFA), convened from 30 September to 2 October a three-day foundational training to strengthen The Gambia’s national respons...",
@@ -242,7 +316,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T13:15:00.136Z",
-    "count": 10
+    "generatedAt": "2026-10-06T19:25:39.840Z",
+    "count": 13
   }
 }

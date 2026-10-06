@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "7de1365d9cd72886",
+      "title": "ECOWAS Court Adopts Settlement in Mahawa Cham Killing Case",
+      "summary": "Written by: Seringe S.T. Touray The ECOWAS Court of Justice has adopted a settlement between the Gambian government and eight members of the family of former parliamentarian Mahawa Cham, setting out commitments for prosecution, compensation and the recovery of his remains. Cha...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ecowas-court-adopts-settlement-in-mahawa-cham-killing-case/",
+      "publishedAt": "2026-10-06T16:24:52.000Z",
+      "collectedAt": "2026-10-06T19:25:33.992Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "548da6113eaedc47",
+      "title": "Nyancho makes history as ‘Wulolu’ song reaches 2 million views",
+      "summary": "Written by: Dawda Baldeh Gambian singer, songwriter and dancer Dodou Manneh, known by his stage name Nyancho Apachaky, has reached two million views on YouTube with his song “Wolulo” within two months of its release. He is the second Gambian artist reported to have reached the...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/nyancho-makes-history-as-wulolu-song-reaches-2-million-views/",
+      "publishedAt": "2026-10-06T16:04:39.000Z",
+      "collectedAt": "2026-10-06T19:25:33.992Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "26c9577a78bf9d22",
+      "title": "U.S. Ambassador Laurence Socha Arrives in The Gambia",
+      "summary": "The following press release is published verbatim. EMBASSY OF THE UNITED STATES OF AMERICABanjul, The Gambia U.S. Ambassador Laurence Socha Arrives in The Gambia BANJUL, The Gambia — The new U.S. Ambassador to the Republic of The Gambia, Laurence Socha, arrived in Banjul on Mo...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/u-s-ambassador-laurence-socha-arrives-in-the-gambia/",
+      "publishedAt": "2026-10-06T13:52:20.000Z",
+      "collectedAt": "2026-10-06T19:25:33.992Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eb68ebdb35a93e04",
       "title": "21MW Power Boost Lands as Gambia Moves to Ease Electricity Crisis",
       "summary": "Written by: Seringe S.T. Touray Two brand-new generators capable of producing a combined 21 megawatts of electricity have arrived in The Gambia, giving NAWEC a major capacity boost just weeks after prolonged blackouts triggered protests across the country. Vice President Moham...",
@@ -248,31 +315,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2b705f80195a1aaa",
-      "title": "‘How Can We Feed Our Children?’: The Silent Heartbreak of Badibou Salikene’s Fishermen",
-      "summary": "Written by: Dawda Baldeh Under the heavy, humid sky of Badibou Salikene, the river looks deceptively unchanged. The gentle movement of the water against the shore carries a familiar rhythm. But behind that calm lies a growing crisis for fishermen who have depended on these wat...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/how-can-we-feed-our-children-the-silent-heartbreak-of-badibou-salikenes-fishermen/",
-      "publishedAt": "2026-10-01T11:41:09.000Z",
-      "collectedAt": "2026-10-01T12:56:59.139Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T13:15:00.136Z",
-    "count": 12
+    "generatedAt": "2026-10-06T19:25:39.840Z",
+    "count": 14
   }
 }

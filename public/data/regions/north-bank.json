@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "628ae9ab0e33243e",
+      "title": "GID Intercepts 60 Suspected Irregular Migrants in West Coast, North Bank Regions",
+      "summary": "By Makutu Manneh The Gambia Immigration Department has intercepted 60 suspected irregular migrants in separate operations in the West Coast and North Bank regions as authorities step up efforts to curb irregular migration. The operations were carried out by the department’s Bo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gid-intercepts-60-suspected-irregular-migrants-in-west-coast-north-bank-regions/",
+      "publishedAt": "2026-10-06T17:26:54.000Z",
+      "collectedAt": "2026-10-06T19:25:35.747Z",
+      "region": "north-bank",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "baa9c12364697bde",
+      "title": "Lower Badibou North Residents Demand Hospital as Barrow Promises Facility",
+      "summary": "By Assan Bah Residents of Lower Badibou North have appealed to the government to establish a hospital in their area, saying the distance to the nearest hospital in Kerewan is causing difficulties for communities and could put lives at risk. The demand was made during a joint m...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/lower-badibou-north-residents-demand-hospital-as-barrow-promises-facility/",
+      "publishedAt": "2026-10-06T13:59:48.000Z",
+      "collectedAt": "2026-10-06T19:25:33.313Z",
+      "region": "north-bank",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1bb49d7fd26be4b1",
       "title": "Bah: ‘If We Lose President Barrow, We’ll Search for Him With a Torchlight and Won’t Find Him.’",
       "summary": "By Makutu Manneh Hamat N.K. Bah, the Minister of Lands, Regional Government, and Religious Affairs, has urged residents of the North Bank Region to continue supporting President Adama Barrow, arguing that his administration has delivered an unprecedented level of development t...",
@@ -26,7 +73,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T13:15:00.136Z",
-    "count": 1
+    "generatedAt": "2026-10-06T19:25:39.840Z",
+    "count": 3
   }
 }
