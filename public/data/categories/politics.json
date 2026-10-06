@@ -424,6 +424,29 @@
       "status": "published"
     },
     {
+      "id": "391f8906735d8d60",
+      "title": "Niger PM Tells UN ‘Our Sovereignty Is Not Negotiable’",
+      "summary": "By Yankuba Jallow Niger’s Prime Minister, Ali Lamine Zeine, has told the United Nations General Assembly that his country will no longer accept external control over its natural resources, foreign policy or choice of international partners, declaring that “the sovereignty of o...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/niger-pm-tells-un-our-sovereignty-is-not-negotiable/",
+      "publishedAt": "2026-10-04T22:47:02.000Z",
+      "collectedAt": "2026-10-06T06:00:29.514Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5006e8d19258584e",
       "title": "Barrow Campaigns on Continuity, Warns Kaur Wharf Voters Against Vote-Buying",
       "summary": "By Makutu Manneh President Adama Barrow has cast the 2026 presidential election as a choice between continuing his government’s development agenda and changing course, urging voters in Kaur Wharf Town to reject attempts to influence their votes with cash or gifts. Speaking dur...",
@@ -1457,151 +1480,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3b2464cb690c7241",
-      "title": "Turn around, Essa Faal",
-      "summary": "Dear Editor,For years, and with particular intensity in the period leading to the 2026 presidential election, you positioned yourself as one of President Barrow’s most outspoken critics. In January this year, you described your political mission as being a voice for the people...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/turn-around-essa-faal/",
-      "publishedAt": "2026-10-01T09:36:30.000Z",
-      "collectedAt": "2026-10-01T12:56:50.454Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3e7e9899c13fba90",
-      "title": "Darboe Praises UDP Diaspora Convention, Says Turnout ‘Exceeded Our Expectations’",
-      "summary": "By Seedy Jobe ANM Ousainu Darboe, the secretary general and party leader of the United Democratic Party, has praised the party’s recent diaspora convention, saying attendance surpassed organizers’ expectations and demonstrated strong unity among supporters abroad. Speaking Tue...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/the-turnout-exceeded-our-expectations-darboe-praises-udp-diaspora-convention/",
-      "publishedAt": "2026-09-30T16:13:16.000Z",
-      "collectedAt": "2026-09-30T19:03:36.757Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8ba0c4caf0cfcd7c",
-      "title": "IEC Witness Testifies in Voter Registration Challenge as Brufut Alkalo Attests Applicant From Wulingkama",
-      "summary": "By Mariama Marong An Independent Electoral Commission (IEC) regional officer has testified in court over a voter registration challenge involving an attestation issued by the Alkalo of Brufut for a person who resides in Wulingkama. Arfang Kujabi, an IEC Regional Officer at the...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-witness-testifies-in-voter-registration-challenge-as-brufut-alkalo-attests-applicant-from-wulingkama/",
-      "publishedAt": "2026-09-30T12:35:15.000Z",
-      "collectedAt": "2026-09-30T19:03:33.240Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e1e4ce809da319dc",
-      "title": "Magistrate Dismisses UDP Agent Fatou Darboe’s Challenge to Okiye Raymond Kin’s Voter Registration",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging the retention of Okiye Raymond Kin’s name on the voters’ register for Bakau, ruling that the objector failed to prove that he was not a Gambian citizen. The judgment was delivered by Magistrat...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/magistrate-dismisses-udp-agent-fatou-darboes-challenge-to-okiye-raymond-kins-voter-registration/",
-      "publishedAt": "2026-09-30T12:20:00.000Z",
-      "collectedAt": "2026-09-30T19:03:33.240Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "adcfc65a6903b9a9",
-      "title": "Allocation for agricultural equipment & machinery falls from D75 million to D45.7 million",
-      "summary": "Agric ministry gets D1.64 Billion By Kebba A.F. Touray The Ministry of Agriculture is projected to receive D1.64 billion in the 2027 national budget, an increase of about D297 million from its approved allocation of D1.34 billion in 2026, according to the draft estimates of re...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/allocation-for-agricultural-equipment-machinery-falls-from-d75-million-to-d45-7-million/",
-      "publishedAt": "2026-09-30T12:15:24.000Z",
-      "collectedAt": "2026-09-30T12:21:38.421Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0bc9aade0f3c9540",
-      "title": "Principal Magistrate Sallah-Mba’I Dismisses UDP Agent Yankuba Suwaneh’s Objection to Sarjo Jammeh’s Voter Registration",
-      "summary": "By Mariama Marong Magistrate Sallah Mba’I of the Kanifing Revising Court has dismissed an objection challenging the registration of Sarjo Jammeh as a voter, ruling that the objector failed to prove that she was below the age of 18. The objection was filed by Yankuba Suwaneh un...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/principal-magistrate-sallah-mbai-dismisses-udp-agent-yankuba-suwanehs-objection-to-sarjo-jammehs-voter-registration/",
-      "publishedAt": "2026-09-30T12:10:00.000Z",
-      "collectedAt": "2026-09-30T12:21:38.421Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T22:29:40.684Z",
-    "count": 68
+    "generatedAt": "2026-10-06T06:00:35.976Z",
+    "count": 63
   }
 }

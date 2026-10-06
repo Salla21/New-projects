@@ -48,29 +48,6 @@
       "status": "published"
     },
     {
-      "id": "9b5ecc6aaa211b8e",
-      "title": "The Gallant Scorpions: A commendable performance in Afcon qualifiers",
-      "summary": "The national team has delivered an impressive performance, beating Ghana 4-2 away in Accra, demonstrating determination, discipline, and a strong sense of purpose. From the opening moments of the match, the players showed great commitment even under immense pressure and two  g...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/the-gallant-scorpions-a-commendable-performance-in-afcon-qualifiers/",
-      "publishedAt": "2026-10-01T09:36:36.000Z",
-      "collectedAt": "2026-10-01T12:56:50.454Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "14f611800f9b214d",
       "title": "Brufut Father Names Newborn Son Lamine Yamal",
       "summary": "A football fan in Brufut, Kebba Kinteh, has named his newborn son after Spanish and Barcelona…\nThe post Brufut Father Names Newborn Son Lamine Yamal appeared first on What's On Gambia.",
@@ -79,7 +56,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brufut-father-names-newborn-son-lamine-yamal/",
       "publishedAt": "2026-09-23T04:02:32.000Z",
-      "collectedAt": "2026-10-05T22:29:35.469Z",
+      "collectedAt": "2026-10-06T06:00:29.833Z",
       "region": "west-coast",
       "categories": [
         "sports"
@@ -95,7 +72,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T22:29:40.684Z",
-    "count": 4
+    "generatedAt": "2026-10-06T06:00:35.976Z",
+    "count": 3
   }
 }

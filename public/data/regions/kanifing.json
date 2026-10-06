@@ -69,56 +69,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e1e4ce809da319dc",
-      "title": "Magistrate Dismisses UDP Agent Fatou Darboe’s Challenge to Okiye Raymond Kin’s Voter Registration",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging the retention of Okiye Raymond Kin’s name on the voters’ register for Bakau, ruling that the objector failed to prove that he was not a Gambian citizen. The judgment was delivered by Magistrat...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/magistrate-dismisses-udp-agent-fatou-darboes-challenge-to-okiye-raymond-kins-voter-registration/",
-      "publishedAt": "2026-09-30T12:20:00.000Z",
-      "collectedAt": "2026-09-30T19:03:33.240Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0bc9aade0f3c9540",
-      "title": "Principal Magistrate Sallah-Mba’I Dismisses UDP Agent Yankuba Suwaneh’s Objection to Sarjo Jammeh’s Voter Registration",
-      "summary": "By Mariama Marong Magistrate Sallah Mba’I of the Kanifing Revising Court has dismissed an objection challenging the registration of Sarjo Jammeh as a voter, ruling that the objector failed to prove that she was below the age of 18. The objection was filed by Yankuba Suwaneh un...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/principal-magistrate-sallah-mbai-dismisses-udp-agent-yankuba-suwanehs-objection-to-sarjo-jammehs-voter-registration/",
-      "publishedAt": "2026-09-30T12:10:00.000Z",
-      "collectedAt": "2026-09-30T12:21:38.421Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T22:29:40.684Z",
-    "count": 5
+    "generatedAt": "2026-10-06T06:00:35.976Z",
+    "count": 3
   }
 }

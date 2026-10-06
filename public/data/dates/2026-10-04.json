@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "391f8906735d8d60",
+      "title": "Niger PM Tells UN ‘Our Sovereignty Is Not Negotiable’",
+      "summary": "By Yankuba Jallow Niger’s Prime Minister, Ali Lamine Zeine, has told the United Nations General Assembly that his country will no longer accept external control over its natural resources, foreign policy or choice of international partners, declaring that “the sovereignty of o...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/niger-pm-tells-un-our-sovereignty-is-not-negotiable/",
+      "publishedAt": "2026-10-04T22:47:02.000Z",
+      "collectedAt": "2026-10-06T06:00:29.514Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "92a44e1a18e01814",
       "title": "Gambia Immigration Department Intercepts 47 Suspected Irregular Migrants in Bakau, Tanji Operations",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) says it intercepted 47 suspected irregular migrants, including three alleged smugglers and sailors, in separate operations in Bakau and Tanji on Saturday. In the first operation, conducted in Bakau on Oct. 3, personnel f...",
@@ -257,7 +280,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T22:29:40.684Z",
-    "count": 11
+    "generatedAt": "2026-10-06T06:00:35.976Z",
+    "count": 12
   }
 }

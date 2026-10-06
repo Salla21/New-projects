@@ -252,56 +252,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9b5ecc6aaa211b8e",
-      "title": "The Gallant Scorpions: A commendable performance in Afcon qualifiers",
-      "summary": "The national team has delivered an impressive performance, beating Ghana 4-2 away in Accra, demonstrating determination, discipline, and a strong sense of purpose. From the opening moments of the match, the players showed great commitment even under immense pressure and two  g...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/the-gallant-scorpions-a-commendable-performance-in-afcon-qualifiers/",
-      "publishedAt": "2026-10-01T09:36:36.000Z",
-      "collectedAt": "2026-10-01T12:56:50.454Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d0c83cdd8672db8e",
-      "title": "NAWEC Says Electricity Supply Is Improving as Regional Imports and Local Generation Recover",
-      "summary": "By Seedy Jobe Officials of the National Water and Electricity Company said Wednesday that electricity supply has improved significantly in the Greater Banjul Area and across The Gambia, following weeks of disruptions caused by problems with domestic generators and regional pow...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nawec-says-electricity-supply-is-improving-as-regional-imports-and-local-generation-recover/",
-      "publishedAt": "2026-09-30T19:38:45.000Z",
-      "collectedAt": "2026-09-30T23:41:38.356Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T22:29:40.684Z",
-    "count": 13
+    "generatedAt": "2026-10-06T06:00:35.976Z",
+    "count": 11
   }
 }

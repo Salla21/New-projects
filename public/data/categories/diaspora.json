@@ -262,58 +262,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "66d37f2c31f1787b",
-      "title": "Gambia Immigration Department Intercepts 101 Suspected ‘Backway’ Migrants in Mandinaba",
-      "summary": "By Makutu Manneh The Gambia Immigration Department said it intercepted 101 people suspected of attempting to migrate irregularly through the country’s perilous “backway” route during an operation in Mandinaba on Tuesday, Sept. 29. The operation, carried out by officers from th...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-101-suspected-backway-migrants-in-mandinaba/",
-      "publishedAt": "2026-09-30T19:16:21.000Z",
-      "collectedAt": "2026-09-30T23:41:38.356Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3e7e9899c13fba90",
-      "title": "Darboe Praises UDP Diaspora Convention, Says Turnout ‘Exceeded Our Expectations’",
-      "summary": "By Seedy Jobe ANM Ousainu Darboe, the secretary general and party leader of the United Democratic Party, has praised the party’s recent diaspora convention, saying attendance surpassed organizers’ expectations and demonstrated strong unity among supporters abroad. Speaking Tue...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/the-turnout-exceeded-our-expectations-darboe-praises-udp-diaspora-convention/",
-      "publishedAt": "2026-09-30T16:13:16.000Z",
-      "collectedAt": "2026-09-30T19:03:36.757Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T22:29:40.684Z",
-    "count": 13
+    "generatedAt": "2026-10-06T06:00:35.976Z",
+    "count": 11
   }
 }

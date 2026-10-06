@@ -482,96 +482,6 @@
       "status": "published"
     },
     {
-      "id": "96db85b0b9be53cd",
-      "title": "Guinea-Bissau embassy marks 53rd independence anniversary",
-      "summary": "By Arret Jatta The Embassy of the Republic of Guinea-Bissau in The Gambia on Tuesday held a reception at Coco Ocean Hotel in Bijilo to commemorate the country’s 53rd independence anniversary. The ceremony brought together Gambian government officials, diplomats, representative...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/guinea-bissau-embassy-marks-53rd-independence-anniversary/",
-      "publishedAt": "2026-10-01T09:37:45.000Z",
-      "collectedAt": "2026-10-01T12:56:50.454Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Arret Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9b5ecc6aaa211b8e",
-      "title": "The Gallant Scorpions: A commendable performance in Afcon qualifiers",
-      "summary": "The national team has delivered an impressive performance, beating Ghana 4-2 away in Accra, demonstrating determination, discipline, and a strong sense of purpose. From the opening moments of the match, the players showed great commitment even under immense pressure and two  g...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/the-gallant-scorpions-a-commendable-performance-in-afcon-qualifiers/",
-      "publishedAt": "2026-10-01T09:36:36.000Z",
-      "collectedAt": "2026-10-01T12:56:50.454Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3b2464cb690c7241",
-      "title": "Turn around, Essa Faal",
-      "summary": "Dear Editor,For years, and with particular intensity in the period leading to the 2026 presidential election, you positioned yourself as one of President Barrow’s most outspoken critics. In January this year, you described your political mission as being a voice for the people...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/turn-around-essa-faal/",
-      "publishedAt": "2026-10-01T09:36:30.000Z",
-      "collectedAt": "2026-10-01T12:56:50.454Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6cc9e389e1c91044",
-      "title": "GTBoard DG raises alarm over safety in TDA, vows action against violators",
-      "summary": "By Aminata Kuyateh The Director General of the Gambia Tourism Board (GTBoard), Ida Jeng-Njie, has raised serious concerns over safety and security in the Tourism Development Area (TDA) following a recent attack on visitors. Speaking at a press briefing on Monday, DG Njie stron...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gtboard-dg-raises-alarm-over-safety-in-tda-vows-action-against-violators/",
-      "publishedAt": "2026-10-01T09:36:07.000Z",
-      "collectedAt": "2026-10-01T12:56:50.454Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Aminata S. Kuyateh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "05ead3b24ccf582a",
       "title": "Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel",
       "summary": "The Gambia looks easy to navigate on a map. The country is narrow, the main tourism…\nThe post Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel appeared first on What's On Gambia.",
@@ -580,7 +490,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-01T05:27:42.156Z",
+      "collectedAt": "2026-10-06T06:00:29.833Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -603,7 +513,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-01T05:27:42.156Z",
+      "collectedAt": "2026-10-06T06:00:29.833Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -624,7 +534,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-01T05:27:42.156Z",
+      "collectedAt": "2026-10-06T06:00:29.833Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -645,7 +555,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-01T05:27:42.156Z",
+      "collectedAt": "2026-10-06T06:00:29.833Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -659,7 +569,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-05T22:29:40.684Z",
-    "count": 29
+    "generatedAt": "2026-10-06T06:00:35.976Z",
+    "count": 25
   }
 }
