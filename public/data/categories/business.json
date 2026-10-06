@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "d74245e773c89f3d",
+      "title": "British Banks’ exit from Gambia, others fuel 31 mega mergers in COMESA bloc",
+      "summary": "The retreat of British banking giants from Africa has triggered an unprecedented wave of mergers and acquisitions, fueling 31 mega mergers in the financial sector within the COMESA region in the last five years. Data from the COMESA Competition and Consumer Commission (CCCC) i...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/british-banks-exit-from-gambia-others-fuel-31-mega-mergers-in-comesa-bloc/",
+      "publishedAt": "2026-10-06T09:25:02.000Z",
+      "collectedAt": "2026-10-06T13:14:44.778Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "574be9170db6254f",
       "title": "New Generators Arrive to Boost Gambia’s Power Supply as VP Says Electricity Has Stabilized",
       "summary": "By Seedy Jobe Vice President Muhammad B.S. Jallow on Monday received a consignment of newly imported generators at the Banjul Port, part of the government’s effort to increase domestic electricity generation following months of persistent power outages. Mr. Jallow received the...",
@@ -818,7 +841,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-06T06:00:29.833Z",
+      "collectedAt": "2026-10-06T13:14:54.338Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -841,7 +864,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-06T06:00:29.833Z",
+      "collectedAt": "2026-10-06T13:14:54.338Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -854,33 +877,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "df52bd815fd4673f",
-      "title": "GCCPC Deepens Global Competition Cooperation with Türkiye Through Strategic MoU",
-      "summary": "The Gambia Competition and Consumer Protection Commission (GCCPC) has strengthened its international cooperation in competition regulation with the signing of a strategic Memorandum of Understanding (MoU) with the Turkish Competition Authority, opening new opportunities for sp...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gccpc-deepens-global-competition-cooperation-with-turkiye-through-strategic-mou/",
-      "publishedAt": "2026-09-29T16:09:55.000Z",
-      "collectedAt": "2026-10-06T06:00:30.088Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe ST Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T06:00:35.976Z",
+    "generatedAt": "2026-10-06T13:15:00.136Z",
     "count": 37
   }
 }

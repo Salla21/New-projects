@@ -239,33 +239,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e4be56312bc32708",
-      "title": "STAND-Gambia trains 10 women amputees in tie-dye making",
-      "summary": "By Olimatou Coker STAND-Gambia, in partnership with the European Union (EU), has trained 10 women amputees in tie-dye production as part of a three-day skills development and entrepreneurship training under its Ladies Empowerment for Growth and Success (LEGS) initiative. The t...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/stand-gambia-trains-10-women-amputees-in-tie-dye-making/",
-      "publishedAt": "2026-10-01T09:37:50.000Z",
-      "collectedAt": "2026-10-01T12:56:50.454Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T06:00:35.976Z",
-    "count": 11
+    "generatedAt": "2026-10-06T13:15:00.136Z",
+    "count": 10
   }
 }
