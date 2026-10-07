@@ -714,29 +714,6 @@
       "status": "published"
     },
     {
-      "id": "d297795e2e1d9afe",
-      "title": "Tourism Board Suspends Beach Events as Workers Warn of Lost Income",
-      "summary": "By Nelson Manneh A dispute has emerged along the Senegambia and Bijilo beach belt after the Gambia Tourism Board (GT Board) suspended all open-air music and public entertainment events within the Tourism Development Area (TDA). Beach workers and ‘bumsters’ told Foroyaa that th...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/tourism-board-suspends-beach-events-as-workers-warn-of-lost-income/",
-      "publishedAt": "2026-10-02T12:30:00.000Z",
-      "collectedAt": "2026-10-02T19:07:52.384Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "05ead3b24ccf582a",
       "title": "Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel",
       "summary": "The Gambia looks easy to navigate on a map. The country is narrow, the main tourism…\nThe post Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel appeared first on What's On Gambia.",
@@ -745,7 +722,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-07T05:37:49.004Z",
+      "collectedAt": "2026-10-07T13:11:09.502Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -768,7 +745,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-07T05:37:49.004Z",
+      "collectedAt": "2026-10-07T13:11:09.502Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -784,7 +761,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T05:37:54.779Z",
-    "count": 33
+    "generatedAt": "2026-10-07T13:11:16.654Z",
+    "count": 32
   }
 }

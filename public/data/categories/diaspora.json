@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "8ad75b732f452186",
+      "title": "DARBOE SAYS BARROW IS SO UNPOPULAR THAT EVEN ONE PARTY CAN REMOVE HIM",
+      "summary": "The main opposition United Democratic Party (UDP) leader Ousainu Darboe has declared that President Barrow is so unpopular that he now agrees with other politicians who believe that removing him may not necessarily require one united opposition front. “Other party leaders have...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/darboe-says-barrow-is-so-unpopular-that-even-one-party-can-remove-him/",
+      "publishedAt": "2026-10-07T09:55:00.000Z",
+      "collectedAt": "2026-10-07T13:08:01.381Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a0c4b30f77e4c6f0",
+      "title": "Imam Musa Boto apologises, reconciles with Manjago community",
+      "summary": "Controversial Tujereng Islamic cleric Imam Musa Boto Saidy who called the Manjago community members “Kafir” has apologised for the offensive comment after the community petitioned the Supreme Islamic Council and the Ministry of Religious Affairs over the matter. Handling the m...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/imam-musa-boto-apologises-reconciles-with-manjago-community/",
+      "publishedAt": "2026-10-07T09:53:56.000Z",
+      "collectedAt": "2026-10-07T13:08:01.381Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "845c19eb81634617",
       "title": "Darboe to Barrow: Even With the Central Bank on Your Side, You’ll Lose This Year",
       "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, has predicted that President Adama Barrow will lose the Dec. 5 presidential election regardless of the resources at his disposal, accusing the president of using state funds to bolster his re-election cam...",
@@ -291,7 +338,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T05:37:54.779Z",
-    "count": 12
+    "generatedAt": "2026-10-07T13:11:16.654Z",
+    "count": 14
   }
 }

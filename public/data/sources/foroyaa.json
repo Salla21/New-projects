@@ -434,33 +434,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d297795e2e1d9afe",
-      "title": "Tourism Board Suspends Beach Events as Workers Warn of Lost Income",
-      "summary": "By Nelson Manneh A dispute has emerged along the Senegambia and Bijilo beach belt after the Gambia Tourism Board (GT Board) suspended all open-air music and public entertainment events within the Tourism Development Area (TDA). Beach workers and ‘bumsters’ told Foroyaa that th...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/tourism-board-suspends-beach-events-as-workers-warn-of-lost-income/",
-      "publishedAt": "2026-10-02T12:30:00.000Z",
-      "collectedAt": "2026-10-02T19:07:52.384Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T05:37:54.779Z",
-    "count": 20
+    "generatedAt": "2026-10-07T13:11:16.654Z",
+    "count": 19
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "97e674465a448c09",
+      "title": "The Moment It Started to Feel Real: Mariame Cisse on Bringing The Mother Who Dreams to the World",
+      "summary": "By Mariame Cisse After confirming that no further corrections were needed for my manuscript, I received the Kindle e-book to check the layout and formatting. This was no longer just a manuscript I had been working on, editing, correcting and talking about for months. It was be...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-moment-it-started-to-feel-real-mariame-cisse-on-bringing-the-mother-who-dreams-to-the-world/",
+      "publishedAt": "2026-10-07T10:44:06.000Z",
+      "collectedAt": "2026-10-07T13:11:09.889Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d45e5e5d4b487780",
       "title": "Ronaldo Explains Portugal Walkout, Accuses Coach Jesus of Breaking His Word",
       "summary": "Published by: The Fatu Network Cristiano Ronaldo has broken his silence over his decision to leave Portugal’s national team camp, accusing head coach Jorge Jesus of twice breaking his word while accepting responsibility for walking out on the squad. In a lengthy statement rele...",
@@ -341,31 +362,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "61ddc6cbec6243bf",
-      "title": "Banjul Mayor Appeals Local Government Commission’s Adverse Findings",
-      "summary": "The Mayor of Banjul, Rohey Malick Lowe, has launched a legal challenge at the Court of Appeal of The Gambia, seeking to overturn adverse findings and recommendations made against her by the Commission of Inquiry into Local Government Councils. In a Notice of Appeal filed on Au...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/banjul-mayor-appeals-local-government-commissions-adverse-findings/",
-      "publishedAt": "2026-10-02T12:46:15.000Z",
-      "collectedAt": "2026-10-02T19:07:52.709Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T05:37:54.779Z",
+    "generatedAt": "2026-10-07T13:11:16.654Z",
     "count": 16
   }
 }

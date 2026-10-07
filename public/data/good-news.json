@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "bc325c5da3ae710a",
+      "title": "UNITE marks one year of existence",
+      "summary": "Press release Monday 5th October 2026 marks exactly one year since UNITE Movement for Change was launched. One year ago, we gathered at Ebunjan Theatre with an idea that many people considered too ambitious: that Gambians from different backgrounds, regions, generations and po...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/unite-marks-one-year-of-existence/",
+      "publishedAt": "2026-10-07T09:51:12.000Z",
+      "collectedAt": "2026-10-07T13:08:01.381Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0f47d47453bdf5d7",
       "title": "Coach Bojang notes improvement after Senegal U23 complete double over Young Scorpions",
       "summary": "By Momodou Jarju The head coach of The Gambia U20 team Abdoulie Bojang has noted his side’s improvement in the second encounter with Senegal’s U23 team who completed a double over the Young Scorpions.  The Gambia U20 side endured a 2-1 lost to Senegalese local-based team in th...",
@@ -252,31 +273,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "61ddc6cbec6243bf",
-      "title": "Banjul Mayor Appeals Local Government Commission’s Adverse Findings",
-      "summary": "The Mayor of Banjul, Rohey Malick Lowe, has launched a legal challenge at the Court of Appeal of The Gambia, seeking to overturn adverse findings and recommendations made against her by the Commission of Inquiry into Local Government Councils. In a Notice of Appeal filed on Au...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/banjul-mayor-appeals-local-government-commissions-adverse-findings/",
-      "publishedAt": "2026-10-02T12:46:15.000Z",
-      "collectedAt": "2026-10-02T19:07:52.709Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T05:37:54.779Z",
+    "generatedAt": "2026-10-07T13:11:16.654Z",
     "count": 12
   }
 }
