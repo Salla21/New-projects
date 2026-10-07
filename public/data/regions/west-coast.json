@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "2e104e8a770ea9fd",
+      "title": "Juwara Predicts NPP Alliance Could Fracture After December Election",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow’s National People’s Party and its political allies could face internal divisions if the president wins the December presidential election. Speaking on Kerr Fatou, Juwara rejected suggesti...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/juwara-predicts-npp-alliance-could-fracture-after-december-election/",
+      "publishedAt": "2026-10-07T18:41:40.000Z",
+      "collectedAt": "2026-10-07T19:52:28.299Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f74f8d0015227fd6",
       "title": "BAC Councillor Calls for Transparency Over Ownership, Financing of New Generators",
       "summary": "By Seedy Jobe Sheriffo Sonko, the transport councillor at the Brikama Area Council, has called on the government to disclose the ownership and financing arrangements behind the newly arrived electricity generators, saying Gambians deserve clarity over how the equipment was acq...",
@@ -125,7 +149,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-07T13:11:09.502Z",
+      "collectedAt": "2026-10-07T19:52:26.844Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -146,7 +170,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-07T13:11:09.502Z",
+      "collectedAt": "2026-10-07T19:52:26.844Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -162,7 +186,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T13:11:16.654Z",
-    "count": 7
+    "generatedAt": "2026-10-07T19:52:32.493Z",
+    "count": 8
   }
 }

@@ -46,34 +46,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "1bb49d7fd26be4b1",
-      "title": "Bah: ‘If We Lose President Barrow, We’ll Search for Him With a Torchlight and Won’t Find Him.’",
-      "summary": "By Makutu Manneh Hamat N.K. Bah, the Minister of Lands, Regional Government, and Religious Affairs, has urged residents of the North Bank Region to continue supporting President Adama Barrow, arguing that his administration has delivered an unprecedented level of development t...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bah-if-we-lose-president-barrow-well-search-for-him-with-a-torchlight-and-wont-find-him/",
-      "publishedAt": "2026-10-03T19:15:20.000Z",
-      "collectedAt": "2026-10-03T20:58:09.258Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T13:11:16.654Z",
-    "count": 3
+    "generatedAt": "2026-10-07T19:52:32.493Z",
+    "count": 2
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "70989576e92a6a44",
+      "title": "Officer tells court server containing people’s information is inaccessible to Immigration Department",
+      "summary": "By Mariama Marong A senior officer of the Gambia Immigration Department (GID) has told the Revising Court that the department is currently unable to verify whether a disputed national identity card was issued by the authorities because the server containing the relevant record...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/officer-tells-court-server-containing-peoples-information-is-inaccessible-to-immigration-department/",
+      "publishedAt": "2026-10-07T13:45:34.000Z",
+      "collectedAt": "2026-10-07T19:52:26.503Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bc325c5da3ae710a",
       "title": "UNITE marks one year of existence",
       "summary": "Press release Monday 5th October 2026 marks exactly one year since UNITE Movement for Change was launched. One year ago, we gathered at Ebunjan Theatre with an idea that many people considered too ambitious: that Gambians from different backgrounds, regions, generations and po...",
@@ -276,7 +299,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T13:11:16.654Z",
-    "count": 12
+    "generatedAt": "2026-10-07T19:52:32.493Z",
+    "count": 13
   }
 }

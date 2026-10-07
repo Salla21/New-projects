@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "70989576e92a6a44",
+      "title": "Officer tells court server containing people’s information is inaccessible to Immigration Department",
+      "summary": "By Mariama Marong A senior officer of the Gambia Immigration Department (GID) has told the Revising Court that the department is currently unable to verify whether a disputed national identity card was issued by the authorities because the server containing the relevant record...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/officer-tells-court-server-containing-peoples-information-is-inaccessible-to-immigration-department/",
+      "publishedAt": "2026-10-07T13:45:34.000Z",
+      "collectedAt": "2026-10-07T19:52:26.503Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8ad75b732f452186",
       "title": "DARBOE SAYS BARROW IS SO UNPOPULAR THAT EVEN ONE PARTY CAN REMOVE HIM",
       "summary": "The main opposition United Democratic Party (UDP) leader Ousainu Darboe has declared that President Barrow is so unpopular that he now agrees with other politicians who believe that removing him may not necessarily require one united opposition front. “Other party leaders have...",
@@ -338,7 +361,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T13:11:16.654Z",
-    "count": 14
+    "generatedAt": "2026-10-07T19:52:32.493Z",
+    "count": 15
   }
 }

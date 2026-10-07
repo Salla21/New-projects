@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "5863ec8b51790f44",
+      "title": "WAVE Trains Women to Tackle Political Violence and Hate Speech",
+      "summary": "Fifty women have been trained on preventing and responding to violence against women in politics and hate speech at a forum organised by the Women’s Association for Women and Victims’ Empowerment (WAVE) in Banjul. The training, held at the Banjul City Council Conference Room, ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/wave-trains-women-to-tackle-political-violence-and-hate-speech/",
+      "publishedAt": "2026-10-07T13:57:11.000Z",
+      "collectedAt": "2026-10-07T19:52:19.038Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8ad75b732f452186",
       "title": "DARBOE SAYS BARROW IS SO UNPOPULAR THAT EVEN ONE PARTY CAN REMOVE HIM",
       "summary": "The main opposition United Democratic Party (UDP) leader Ousainu Darboe has declared that President Barrow is so unpopular that he now agrees with other politicians who believe that removing him may not necessarily require one united opposition front. “Other party leaders have...",
@@ -722,7 +745,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T13:11:16.654Z",
-    "count": 32
+    "generatedAt": "2026-10-07T19:52:32.493Z",
+    "count": 33
   }
 }
