@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "96a18377d48f69eb",
+      "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
+      "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
+      "publishedAt": "2026-10-07T03:11:29.000Z",
+      "collectedAt": "2026-10-07T05:37:49.004Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7bd6789824450da5",
       "title": "Bensouda Pledges to End ECOMIG Presence, Return Security Operations to Gambian Forces",
       "summary": "By Staff Writer Talib Ahmed Bensouda, leader of UNITE and Coalition 2026, has pledged to end the presence of ECOMIG forces in The Gambia and close their military bases, including the one in Bwiam, if elected president in the Dec. 5 presidential election. Speaking to supporters...",
@@ -1335,103 +1358,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5a2dfaa672dcd6b6",
-      "title": "Mayor Lowe Given 45 Days to Refund Over D1 Million",
-      "summary": "By Yankuba Jallow A National Assembly committee has called for the Mayor of Banjul to repay more than D1.1m spent from an EU-funded city project on media coverage and other expenses linked to her town-hall meetings. The Finance and Public Accounts Committee (FPAC) of the Natio...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/mayor-lowe-given-45-days-to-refund-over-d1-million/",
-      "publishedAt": "2026-10-02T12:20:00.000Z",
-      "collectedAt": "2026-10-02T19:07:52.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8e11b7548896fd75",
-      "title": "Tax Revenue to Rise by D4.5 Billion in 2027",
-      "summary": "By Kebba A.F. Touray The Gambia’s tax revenue is projected to rise by more than D4.4 billion in 2027, according to draft estimates of revenue and expenditure presented by Finance Minister Seedy Keita. The figures form part of the government’s draft revenue and expenditure esti...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/tax-revenue-to-rise-by-d4-5-billion-in-2027/",
-      "publishedAt": "2026-10-02T12:15:00.000Z",
-      "collectedAt": "2026-10-02T19:07:52.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "fd28784a95bdb725",
-      "title": "UDP Agent Challenges Mamudou Haddy Baldeh’s Citizenship in Voter Registration Case",
-      "summary": "By Mariama Marong A voter registration objection case involving Mamudou Haddy Baldeh continued before the Brusubi Magistrate Court on Tuesday, with an objector alleging that Baldeh was not a Gambian citizen and should not have been registered as a voter. The proceedings, befor...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/udp-agent-challenges-mamudou-haddy-baldehs-citizenship-in-voter-registration-case/",
-      "publishedAt": "2026-10-02T12:10:00.000Z",
-      "collectedAt": "2026-10-02T19:07:52.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d85b1bcb42b0d81c",
-      "title": "UDP Agent Bubacarr Jaiteh Challenges Isatou Gomez’s Voter Registration",
-      "summary": "By Mariama Marong The voter registration objection case involving Bubacarr Jaiteh and Isatou Gomez continued before the Brusubi Revising Court, with Jaiteh telling the court that Gomez did not meet the legal age requirement to register as a voter. The proceedings were presided...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/udp-agent-bubacarr-jaiteh-challenges-isatou-gomezs-voter-registration/",
-      "publishedAt": "2026-10-02T12:05:00.000Z",
-      "collectedAt": "2026-10-02T19:07:52.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-06T23:47:05.350Z",
-    "count": 61
+    "generatedAt": "2026-10-07T05:37:54.779Z",
+    "count": 58
   }
 }
