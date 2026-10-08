@@ -1,6 +1,196 @@
 {
   "items": [
     {
+      "id": "f3c7c3e2b82133bb",
+      "title": "Darboe Urges Supporters to Turn Rally Enthusiasm Into Votes After Rain Disrupts Fajikunda Gathering",
+      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party (UDP), has urged supporters to translate their enthusiasm into votes in the December 5 presidential election, declaring that his party offers the solution to The Gambia’s challenges. Mr. Darboe made the remark...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-urges-supporters-to-turn-rally-enthusiasm-into-votes-after-rain-disrupts-fajikunda-gathering/",
+      "publishedAt": "2026-10-08T15:18:10.000Z",
+      "collectedAt": "2026-10-08T17:20:40.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3adcf53ac4498732",
+      "title": "Brusubi Revising Court dismisses Abdul Karim Drammeh’s objection to Yankuba Ceesay’s voter registration",
+      "summary": "By Mariama Marong The Brusubi Revising Court has dismissed an objection challenging Yankuba Ceesay’s eligibility to remain on The Gambia’s voters’ register, ruling that the objector failed to provide sufficient evidence to prove that Ceesay was not a Gambian citizen. Magistrat...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/brusubi-revising-court-dismisses-abdul-karim-drammehs-objection-to-yankuba-ceesays-voter-registration/",
+      "publishedAt": "2026-10-08T13:25:28.000Z",
+      "collectedAt": "2026-10-08T17:20:37.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b2256aa2af053b09",
+      "title": "GRA chief calls for higher tobacco taxes to curb smoking & disease",
+      "summary": "By Ndey Sowe The Gambia Revenue Authority (GRA) has called for closer cooperation between tax and health authorities to use tobacco taxation as a tool to reduce smoking and prevent non-communicable diseases. Yankuba Darboe, Commissioner General of the GRA, said tobacco taxes s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gra-chief-calls-for-higher-tobacco-taxes-to-curb-smoking-disease/",
+      "publishedAt": "2026-10-08T11:50:51.000Z",
+      "collectedAt": "2026-10-08T17:20:37.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2a7bdab29d609e67",
+      "title": "ARE WE IN CONTROL OF OUR NATIONAL DATA?",
+      "summary": "The Immigration Department collects information from every citizen who applies for a national identity card, which he or she is required by law to acquire. The government had earlier entered into contract with Semlex and when that contract ended two years ago it was not renewe...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/are-we-in-control-of-our-national-data/",
+      "publishedAt": "2026-10-08T11:15:46.000Z",
+      "collectedAt": "2026-10-08T17:20:37.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "05501de1ffd6c469",
+      "title": "COALITION OF PROGRESSIVE GAMBIANS ASKS OPPOSITION TO UNITE OR PERISH",
+      "summary": "The Coalition of Progressive Gambians, a non-partisan citizen organisation, has issued a strong call for opposition unity ahead of the 2026 presidential election, urging political leaders to drop partisan interests and rally under the national flag to rescue the country, or mi...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/coalition-of-progressive-gambians-asks-opposition-to-unite-or-perish/",
+      "publishedAt": "2026-10-08T09:54:21.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Omar Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5a4b364341190f61",
+      "title": "Kandeh gets pushback on calls for URR citizens to stand by their own",
+      "summary": "The United Democratic Party (UDP) spokesperson for North Bank Region, Karamo Njie, has taken issues with the leader of the Gambia Democratic Congress (GDC), Mamma Kandeh, who is now allied with the governing NPP, asking him to ‘shut up’  if he does not have anything substantia...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/kandeh-gets-pushback-on-calls-for-urr-citizens-to-stand-by-their-own/",
+      "publishedAt": "2026-10-08T09:53:15.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Amadou Jadama",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8f8279b4f637aa74",
+      "title": "CG Darboe says taxes on tobacco design to save lives",
+      "summary": "GRA Commissioner General Yankuba Darboe has declared that tobacco taxation must be judged not by how much revenue it generates, but by how many lives it saves. Delivering a keynote address at the convergence of the Association of Public & Environmental Health Officers – The Ga...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/cg-darboe-says-taxes-on-tobacco-design-to-save-lives/",
+      "publishedAt": "2026-10-08T09:52:44.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7a52c818a1d57254",
+      "title": "Man wins case to retain voter’s card at revising court",
+      "summary": "By Fatou Gassama Magistrate I Jallow of Kanifing has ordered that the name of one Adama Bah be retained on the register of voters after dismissing a claim objecting his possession of a voter card. The objection was filed against him by one Ebrima Ndow who claimed that Bah is n...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/man-wins-case-to-retain-voters-card-at-revising-court/",
+      "publishedAt": "2026-10-08T09:52:11.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2e104e8a770ea9fd",
       "title": "Juwara Predicts NPP Alliance Could Fracture After December Election",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow’s National People’s Party and its political allies could face internal divisions if the president wins the December presidential election. Speaking on Kerr Fatou, Juwara rejected suggesti...",
@@ -1219,7 +1409,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T08:46:40.625Z",
-    "count": 52
+    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "count": 60
   }
 }

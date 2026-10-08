@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "88611b952035b961",
+      "title": "Drivers welcome end to annual driving licence renewals",
+      "summary": "By Nelson Manneh Gambian drivers have welcomed a new three-year driving licence system, saying it will spare them the time, cost and frustration associated with renewing their licences every year. The new digital driving licence system officially came into operation on 7 Octob...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/drivers-welcome-end-to-annual-driving-licence-renewals/",
+      "publishedAt": "2026-10-08T13:24:07.000Z",
+      "collectedAt": "2026-10-08T17:20:37.591Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ce16b9403296b82a",
+      "title": "Magistrate fines Clinton Adrian William D500,000 over cocaine possession",
+      "summary": "By Mariama Marong A non-Gambian national, Clinton Adrian William, has been fined D500,000 after pleading guilty to possessing cocaine. William was convicted by Principal Magistrate Mam Samba Jallow at the Magistrates’ Court after the court heard that seven small wraps of a sub...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/magistrate-fines-clinton-adrian-william-d500000-over-cocaine-possession/",
+      "publishedAt": "2026-10-08T11:49:02.000Z",
+      "collectedAt": "2026-10-08T17:20:37.591Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "da609f7897653b5a",
+      "title": "Transitional justice is about healing the wounds of a divided society",
+      "summary": "When a country emerges from years of conflict, dictatorship, political violence, or widespread human rights abuses, peace alone is rarely enough. The end of violence may silence the guns, but it does not automatically erase the pain, fear, injustice, and mistrust left behind. ...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/transitional-justice-is-about-healing-the-wounds-of-a-divided-society/",
+      "publishedAt": "2026-10-08T09:51:42.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2e104e8a770ea9fd",
       "title": "Juwara Predicts NPP Alliance Could Fracture After December Election",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow’s National People’s Party and its political allies could face internal divisions if the president wins the December presidential election. Speaking on Kerr Fatou, Juwara rejected suggesti...",
@@ -336,7 +405,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T08:46:40.625Z",
-    "count": 14
+    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "count": 17
   }
 }

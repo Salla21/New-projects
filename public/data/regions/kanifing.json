@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "7a52c818a1d57254",
+      "title": "Man wins case to retain voter’s card at revising court",
+      "summary": "By Fatou Gassama Magistrate I Jallow of Kanifing has ordered that the name of one Adama Bah be retained on the register of voters after dismissing a claim objecting his possession of a voter card. The objection was filed against him by one Ebrima Ndow who claimed that Bah is n...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/man-wins-case-to-retain-voters-card-at-revising-court/",
+      "publishedAt": "2026-10-08T09:52:11.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "92a44e1a18e01814",
       "title": "Gambia Immigration Department Intercepts 47 Suspected Irregular Migrants in Bakau, Tanji Operations",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) says it intercepted 47 suspected irregular migrants, including three alleged smugglers and sailors, in separate operations in Bakau and Tanji on Saturday. In the first operation, conducted in Bakau on Oct. 3, personnel f...",
@@ -25,7 +48,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T08:46:40.625Z",
-    "count": 1
+    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "count": 2
   }
 }

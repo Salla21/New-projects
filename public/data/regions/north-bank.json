@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "5a4b364341190f61",
+      "title": "Kandeh gets pushback on calls for URR citizens to stand by their own",
+      "summary": "The United Democratic Party (UDP) spokesperson for North Bank Region, Karamo Njie, has taken issues with the leader of the Gambia Democratic Congress (GDC), Mamma Kandeh, who is now allied with the governing NPP, asking him to ‘shut up’  if he does not have anything substantia...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/kandeh-gets-pushback-on-calls-for-urr-citizens-to-stand-by-their-own/",
+      "publishedAt": "2026-10-08T09:53:15.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Amadou Jadama",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "628ae9ab0e33243e",
       "title": "GID Intercepts 60 Suspected Irregular Migrants in West Coast, North Bank Regions",
       "summary": "By Makutu Manneh The Gambia Immigration Department has intercepted 60 suspected irregular migrants in separate operations in the West Coast and North Bank regions as authorities step up efforts to curb irregular migration. The operations were carried out by the department’s Bo...",
@@ -49,7 +73,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T08:46:40.625Z",
-    "count": 2
+    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "count": 3
   }
 }

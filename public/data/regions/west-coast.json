@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "1d48506b17745d21",
+      "title": "Tanji Man Arraigned for Allegedly Assaulting Man With Intent to Steal",
+      "summary": "By Mariama Marong A man identified as Kebba Dumbuya has been granted bail of D150,000 with two Gambian sureties after denying a charge of assault with intent to steal before Principal Magistrate Mam Samba Jallow. Dumbuya appeared before the court following allegations arising ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/tanji-man-arraigned-for-allegedly-assaulting-man-with-intent-to-steal/",
+      "publishedAt": "2026-10-08T11:26:03.000Z",
+      "collectedAt": "2026-10-08T17:20:37.591Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7ee89519d7b48d66",
+      "title": "Dibba launches book on migration, fatherhood in Geneva",
+      "summary": "Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organised by the Permanen...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
+      "publishedAt": "2026-10-08T11:18:40.000Z",
+      "collectedAt": "2026-10-08T17:20:38.577Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2e104e8a770ea9fd",
       "title": "Juwara Predicts NPP Alliance Could Fracture After December Election",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow’s National People’s Party and its political allies could face internal divisions if the president wins the December presidential election. Speaking on Kerr Fatou, Juwara rejected suggesti...",
@@ -126,7 +170,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-08T08:46:33.877Z",
+      "collectedAt": "2026-10-08T17:20:38.361Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -147,7 +191,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-08T08:46:33.877Z",
+      "collectedAt": "2026-10-08T17:20:38.361Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -163,7 +207,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T08:46:40.625Z",
-    "count": 7
+    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "count": 9
   }
 }

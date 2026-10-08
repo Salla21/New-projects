@@ -457,10 +457,54 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
+    },
+    {
+      "id": "b7de54d0b9420011",
+      "title": "ActionAid, NYC engage 240 youths on national youth policy",
+      "summary": "The National Youth Council (NYC), under the Ministry of Youth and Sports, in partnership with ActionAid International – The Gambia (AAITG), Tuesday engaged over 240 young people to popularise the National Youth Policy implementation framework. The day-long forum held at the Ta...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/actionaid-nyc-engage-240-youths-on-national-youth-policy/",
+      "publishedAt": "2026-10-08T09:50:08.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2848002ac12bb849",
+      "title": "Chosan Foundation urges rural Gambians to get regular check-ups",
+      "summary": "Rural Gambians must go for regular medical check-ups to avoid complications from silent killer diseases, the Programme Coordinator of Chosan Charitable Medical Foundation has warned. Ebrima Sisawo made the call during a free medical outreach at Kaur Health Centre in Lower Salo...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/chosan-foundation-urges-rural-gambians-to-get-regular-check-ups/",
+      "publishedAt": "2026-10-08T09:49:57.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Amadou Jadama",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
     }
   ],
   "meta": {
     "generatedAt": "2026-10-08T17:20:44.135Z",
-    "count": 20
+    "count": 22
   }
 }

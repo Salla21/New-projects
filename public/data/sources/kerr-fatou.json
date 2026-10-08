@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "c8a38d0960dce130",
+      "title": "Court of Appeal Overturns Taxi Driver’s Acquittal in Rape and Robbery Case",
+      "summary": "The Gambia’s Court of Appeal has overturned the acquittal of taxi driver Ismaila Ndong on charges of rape, robbery, and indecent assault, ruling that the trial judge erred in dismissing the prosecution’s case without requiring the accused to present a defence. In a judgment de...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/court-of-appeal-overturns-taxi-drivers-acquittal-in-rape-and-robbery-case/",
+      "publishedAt": "2026-10-08T16:34:02.000Z",
+      "collectedAt": "2026-10-08T17:20:40.020Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f3c7c3e2b82133bb",
+      "title": "Darboe Urges Supporters to Turn Rally Enthusiasm Into Votes After Rain Disrupts Fajikunda Gathering",
+      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party (UDP), has urged supporters to translate their enthusiasm into votes in the December 5 presidential election, declaring that his party offers the solution to The Gambia’s challenges. Mr. Darboe made the remark...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-urges-supporters-to-turn-rally-enthusiasm-into-votes-after-rain-disrupts-fajikunda-gathering/",
+      "publishedAt": "2026-10-08T15:18:10.000Z",
+      "collectedAt": "2026-10-08T17:20:40.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2e104e8a770ea9fd",
       "title": "Juwara Predicts NPP Alliance Could Fracture After December Election",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow’s National People’s Party and its political allies could face internal divisions if the president wins the December presidential election. Speaking on Kerr Fatou, Juwara rejected suggesti...",
@@ -609,7 +655,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T08:46:40.625Z",
-    "count": 26
+    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "count": 28
   }
 }

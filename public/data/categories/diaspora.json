@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "id": "f3c7c3e2b82133bb",
+      "title": "Darboe Urges Supporters to Turn Rally Enthusiasm Into Votes After Rain Disrupts Fajikunda Gathering",
+      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party (UDP), has urged supporters to translate their enthusiasm into votes in the December 5 presidential election, declaring that his party offers the solution to The Gambia’s challenges. Mr. Darboe made the remark...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-urges-supporters-to-turn-rally-enthusiasm-into-votes-after-rain-disrupts-fajikunda-gathering/",
+      "publishedAt": "2026-10-08T15:18:10.000Z",
+      "collectedAt": "2026-10-08T17:20:40.020Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "439c38b41e2a4c15",
+      "title": "Magistrate grants Pap Jeng D200,000 bail in alleged property damage case",
+      "summary": "By Mariama Marong Pap Jeng has been granted bail of two hundred thousand dalasi (D200,000) by Principal Magistrate Mam Samba Jallow of the Brusubi Magistrate’s Court after pleading not guilty to a charge of malicious injury to property. Jeng, who is not a Gambian national, app...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/magistrate-grants-pap-jeng-d200000-bail-in-alleged-property-damage-case/",
+      "publishedAt": "2026-10-08T11:51:26.000Z",
+      "collectedAt": "2026-10-08T17:20:37.591Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7ee89519d7b48d66",
+      "title": "Dibba launches book on migration, fatherhood in Geneva",
+      "summary": "Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organised by the Permanen...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
+      "publishedAt": "2026-10-08T11:18:40.000Z",
+      "collectedAt": "2026-10-08T17:20:38.577Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2a7bdab29d609e67",
+      "title": "ARE WE IN CONTROL OF OUR NATIONAL DATA?",
+      "summary": "The Immigration Department collects information from every citizen who applies for a national identity card, which he or she is required by law to acquire. The government had earlier entered into contract with Semlex and when that contract ended two years ago it was not renewe...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/are-we-in-control-of-our-national-data/",
+      "publishedAt": "2026-10-08T11:15:46.000Z",
+      "collectedAt": "2026-10-08T17:20:37.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2a5cb1abfb461be1",
+      "title": "TEACHERS: BUILDERS OF THE FUTURE",
+      "summary": "This week, thousands of teachers in The Gambia and many more in other parts of the world mark the important role teachers play in the development of society. Every society needs roads, houses, hospitals, food, transport and equipment to perform work. Hospitals need doctors and...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/teachers-builders-of-the-future/",
+      "publishedAt": "2026-10-08T11:14:58.000Z",
+      "collectedAt": "2026-10-08T17:20:37.591Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "70989576e92a6a44",
       "title": "Officer tells court server containing people’s information is inaccessible to Immigration Department",
       "summary": "By Mariama Marong A senior officer of the Gambia Immigration Department (GID) has told the Revising Court that the department is currently unable to verify whether a disputed national identity card was issued by the authorities because the server containing the relevant record...",
@@ -264,7 +384,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T08:46:40.625Z",
-    "count": 11
+    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "count": 16
   }
 }

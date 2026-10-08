@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "7ee89519d7b48d66",
+      "title": "Dibba launches book on migration, fatherhood in Geneva",
+      "summary": "Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organised by the Permanen...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
+      "publishedAt": "2026-10-08T11:18:40.000Z",
+      "collectedAt": "2026-10-08T17:20:38.577Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "05501de1ffd6c469",
+      "title": "COALITION OF PROGRESSIVE GAMBIANS ASKS OPPOSITION TO UNITE OR PERISH",
+      "summary": "The Coalition of Progressive Gambians, a non-partisan citizen organisation, has issued a strong call for opposition unity ahead of the 2026 presidential election, urging political leaders to drop partisan interests and rally under the national flag to rescue the country, or mi...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/coalition-of-progressive-gambians-asks-opposition-to-unite-or-perish/",
+      "publishedAt": "2026-10-08T09:54:21.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Omar Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0dd712c2d5bff574",
+      "title": "MRCG to play key role in £5M global programme to advance understanding of Strep A disease",
+      "summary": "Press release MRC Unit The Gambia at the London School of Hygiene & Tropical Medicine (MRCG at LSHTM) will play a central leadership role in a major £5 million international research programme aiming to better understand and fight Group A Streptococcus (Strep A). The Award wil...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/mrcg-to-play-key-role-in-5m-global-programme-to-advance-understanding-of-strep-a-disease/",
+      "publishedAt": "2026-10-08T09:50:53.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b7de54d0b9420011",
+      "title": "ActionAid, NYC engage 240 youths on national youth policy",
+      "summary": "The National Youth Council (NYC), under the Ministry of Youth and Sports, in partnership with ActionAid International – The Gambia (AAITG), Tuesday engaged over 240 young people to popularise the National Youth Policy implementation framework. The day-long forum held at the Ta...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/actionaid-nyc-engage-240-youths-on-national-youth-policy/",
+      "publishedAt": "2026-10-08T09:50:08.000Z",
+      "collectedAt": "2026-10-08T17:20:19.518Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "70989576e92a6a44",
       "title": "Officer tells court server containing people’s information is inaccessible to Immigration Department",
       "summary": "By Mariama Marong A senior officer of the Gambia Immigration Department (GID) has told the Revising Court that the department is currently unable to verify whether a disputed national identity card was issued by the authorities because the server containing the relevant record...",
@@ -228,7 +318,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T08:46:40.625Z",
-    "count": 10
+    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "count": 14
   }
 }
