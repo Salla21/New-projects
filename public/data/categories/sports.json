@@ -45,33 +45,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3918da8cce6a19c9",
-      "title": "Banjul youth demand answers over delayed D21m KG5 stadium project",
-      "summary": "By Demba Bah For months, the gates of Banjul’s KG5 Mini Stadium have remained largely shut, leaving young footballers without the city’s main football ground and raising growing anger over a D21 million rehabilitation project that was supposed to be completed last year. On Sat...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/banjul-youth-demand-answers-over-delayed-d21m-kg5-stadium-project/",
-      "publishedAt": "2026-10-05T11:56:00.000Z",
-      "collectedAt": "2026-10-05T22:29:35.284Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T17:20:44.135Z",
-    "count": 3
+    "generatedAt": "2026-10-08T23:14:42.883Z",
+    "count": 2
   }
 }

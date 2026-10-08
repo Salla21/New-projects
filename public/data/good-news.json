@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "11acda32491f0ebb",
+      "title": "Essa Faal Hails Economic Gains Under Barrow, Optimistic About NPP Victory",
+      "summary": "By Makutu Manneh Essa Mbye Faal, leader of APP-Sobeyaa, has praised what he described as significant economic progress under President Adama Barrow, expressing cautious optimism that the National People’s Party (NPP) alliance will win the December presidential election. Speaki...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/essa-faal-hails-economic-gains-under-barrow-optimistic-about-npp-victory/",
+      "publishedAt": "2026-10-08T19:06:18.000Z",
+      "collectedAt": "2026-10-08T23:14:38.767Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organised by the Permanen...",
@@ -292,33 +316,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0a88cb3eef2fcda4",
-      "title": "Lands Minister Warns Niumi Residents Against Selling Land to Private Dealers",
-      "summary": "By Assan  Bah  The Minister of Lands, Local Government and Religious Affairs, Hamat N.K. Bah, has warned traditional and regional leaders in Niumi on Thursday to halt the cheap sale of lands to foreign investors through local middlemen. Speaking at a joint meeting in Passy Cha...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/lands-minister-warns-niumi-residents-against-selling-land-to-private-dealers/",
-      "publishedAt": "2026-10-05T11:31:00.000Z",
-      "collectedAt": "2026-10-05T22:29:35.284Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "generatedAt": "2026-10-08T23:14:42.883Z",
     "count": 14
   }
 }

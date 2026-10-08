@@ -269,56 +269,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "86242da7ca287551",
-      "title": "“Building Pipes While the Well Runs Dry”: Civil Society Group Questions $14.1M Rural Power Deals",
-      "summary": "Written by: Dawda Baldeh EFSCRJ NAWEC Watch, a civil society initiative that monitors the National Water and Electricity Company (NAWEC) and The Gambia’s electricity sector, has questioned the government’s decision to spend $14.1 million connecting 241 more communities to the ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/building-pipes-while-the-well-runs-dry-civil-society-group-questions-14-1m-rural-power-deals/",
-      "publishedAt": "2026-10-05T14:37:49.000Z",
-      "collectedAt": "2026-10-05T22:29:35.605Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1fa0074b57ab6797",
-      "title": "Senegal’s President Faye mourns as heavy rains claim lives in Senegal",
-      "summary": "Published by: The Fatu Network Heavy rains in Senegal have claimed lives, prompting President Bassirou Diomaye Faye to express condolences to the victims’ families and support for those affected by the flooding. In a message shared on Facebook, President Faye said he was deepl...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/senegals-president-faye-mourns-as-heavy-rains-claim-lives-in-senegal/",
-      "publishedAt": "2026-10-05T10:20:00.000Z",
-      "collectedAt": "2026-10-05T14:20:48.725Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T17:20:44.135Z",
-    "count": 14
+    "generatedAt": "2026-10-08T23:14:42.883Z",
+    "count": 12
   }
 }

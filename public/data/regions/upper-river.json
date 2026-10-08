@@ -1,20 +1,22 @@
 {
   "items": [
     {
-      "id": "a46553fb15503830",
-      "title": "No-nonsense magistrate slams 10 years on another rapist in Basse",
-      "summary": "By Amadou Jadama The Basse Magistrate’s Court has sentenced one Omar Jallow to a mandatory jail term of 10 years with hard labour after he admitted and was subsequently found guilty of raping a 19-year-old girl in Basse. Senior Magistrate Ismaila Dibba further ordered the conv...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/no-nonsense-magistrate-slams-10-years-on-another-rapist-in-basse/",
-      "publishedAt": "2026-10-05T11:18:00.000Z",
-      "collectedAt": "2026-10-05T14:19:52.020Z",
+      "id": "a88ddd698fdf06f5",
+      "title": "Mai Fatty Urges Wuli Residents to Reject Opposition, Singles Out UDP",
+      "summary": "By Makutu Manneh Mai Ahmed Fatty, leader of the Gambia Moral Congress (GMC) and coordinator of the National People’s Party (NPP) Political Alliance Secretariat, has urged residents of Wuli in the Upper River Region to reject opposition parties, particularly the United Democrat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mai-fatty-urges-wuli-residents-to-reject-opposition-singles-out-udp/",
+      "publishedAt": "2026-10-08T18:51:49.000Z",
+      "collectedAt": "2026-10-08T23:14:38.767Z",
       "region": "upper-river",
-      "categories": [],
+      "categories": [
+        "politics"
+      ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Amadou Jadama",
+      "author": "Makutu Manneh",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -23,7 +25,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T17:20:44.135Z",
+    "generatedAt": "2026-10-08T23:14:42.883Z",
     "count": 1
   }
 }

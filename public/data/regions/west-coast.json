@@ -116,52 +116,6 @@
       "status": "published"
     },
     {
-      "id": "8b1eeb79d2ce11a3",
-      "title": "Woman accuses police of highhandedness in land dispute with ex-husband",
-      "summary": "By Tabora Bojang Kumba Sowe, 47, a resident of Sukuta, has alleged that she was detained by the Police Fraud Squad for three days and ordered to hand over documents of a land gifted to her by her former husband. Sowe said her former husband, Bubacarr Keita, allegedly sold the ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/woman-accuses-police-of-highhandedness-in-land-dispute-with-ex-husband/",
-      "publishedAt": "2026-10-05T11:16:53.000Z",
-      "collectedAt": "2026-10-05T14:19:52.020Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "391f8906735d8d60",
-      "title": "Niger PM Tells UN ‘Our Sovereignty Is Not Negotiable’",
-      "summary": "By Yankuba Jallow Niger’s Prime Minister, Ali Lamine Zeine, has told the United Nations General Assembly that his country will no longer accept external control over its natural resources, foreign policy or choice of international partners, declaring that “the sovereignty of o...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/niger-pm-tells-un-our-sovereignty-is-not-negotiable/",
-      "publishedAt": "2026-10-04T22:47:02.000Z",
-      "collectedAt": "2026-10-06T06:00:29.514Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -170,7 +124,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-08T17:20:38.361Z",
+      "collectedAt": "2026-10-08T23:14:36.835Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -191,7 +145,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-08T17:20:38.361Z",
+      "collectedAt": "2026-10-08T23:14:36.835Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -207,7 +161,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T17:20:44.135Z",
-    "count": 9
+    "generatedAt": "2026-10-08T23:14:42.883Z",
+    "count": 7
   }
 }
