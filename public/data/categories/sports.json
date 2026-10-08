@@ -68,34 +68,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f67e7b431a9184b3",
-      "title": "Gambia Minifootball Association targets Nations Cup birth after launch",
-      "summary": "By Momodou Jarju The executive of the newly formed Gambia Minifootball Association (GMA) has set their sight on qualifying the country to its first continental competition after launching the association last Saturday at the President’s International Award (PIA) in Bakau. The ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-minifootball-association-targets-nations-cup-birth-after-launch/",
-      "publishedAt": "2026-10-04T13:34:34.000Z",
-      "collectedAt": "2026-10-04T19:29:38.762Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-07T19:52:32.493Z",
-    "count": 4
+    "generatedAt": "2026-10-08T00:09:06.045Z",
+    "count": 3
   }
 }
