@@ -268,58 +268,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "29788338c0378a7a",
-      "title": "Gambia Peace Project Founder Muhammed Alamin Trawally Unveils Ambitious 10-Year National Peace Plan",
-      "summary": "Published by: The Fatu Network The Gambia Peace Project has unveiled a ten-year initiative aimed at treating peace not simply as the absence of conflict, but as a national asset requiring long-term investment in people, institutions, education and economic opportunity. Launche...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-peace-project-founder-muhammed-alamin-trawally-unveils-ambitious-10-year-national-peace-plan/",
-      "publishedAt": "2026-10-05T15:25:46.000Z",
-      "collectedAt": "2026-10-06T23:46:59.816Z",
-      "region": "west-coast",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d92329e220f0dc95",
-      "title": "Gambia Peace Project Unveils 10-Year Plan to Invest in Peace, Youth and National Development",
-      "summary": "Published by: The Fatu Network The Gambia Peace Project has unveiled a ten-year initiative aimed at treating peace not simply as the absence of conflict, but as a national asset requiring long-term investment in people, institutions, education and economic opportunity. Launche...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-peace-project-unveils-10-year-plan-to-invest-in-peace-youth-and-national-development/",
-      "publishedAt": "2026-10-05T15:25:46.000Z",
-      "collectedAt": "2026-10-05T22:29:35.605Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T23:14:42.883Z",
-    "count": 14
+    "generatedAt": "2026-10-09T05:47:00.057Z",
+    "count": 12
   }
 }

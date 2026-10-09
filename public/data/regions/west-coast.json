@@ -92,30 +92,6 @@
       "status": "published"
     },
     {
-      "id": "29788338c0378a7a",
-      "title": "Gambia Peace Project Founder Muhammed Alamin Trawally Unveils Ambitious 10-Year National Peace Plan",
-      "summary": "Published by: The Fatu Network The Gambia Peace Project has unveiled a ten-year initiative aimed at treating peace not simply as the absence of conflict, but as a national asset requiring long-term investment in people, institutions, education and economic opportunity. Launche...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-peace-project-founder-muhammed-alamin-trawally-unveils-ambitious-10-year-national-peace-plan/",
-      "publishedAt": "2026-10-05T15:25:46.000Z",
-      "collectedAt": "2026-10-06T23:46:59.816Z",
-      "region": "west-coast",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -124,7 +100,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-08T23:14:36.835Z",
+      "collectedAt": "2026-10-09T05:46:53.972Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -145,7 +121,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-08T23:14:36.835Z",
+      "collectedAt": "2026-10-09T05:46:53.972Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -161,7 +137,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-08T23:14:42.883Z",
-    "count": 7
+    "generatedAt": "2026-10-09T05:47:00.057Z",
+    "count": 6
   }
 }
