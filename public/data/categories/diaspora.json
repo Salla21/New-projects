@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8cfc1364da909eb0",
+      "title": "Barrow Vows to Defeat Darboe in Native Fulladu, Force Him Into Political Retirement",
+      "summary": "By Makutu Manneh President Adama Barrow has vowed to deliver a decisive electoral defeat to United Democratic Party (UDP) leader Ousainou Darboe in his native Fulladu in the December 2026 presidential election, declaring that the outcome would force his longtime political riva...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-vows-to-defeat-darboe-in-native-fulladu-force-him-into-political-retirement/",
+      "publishedAt": "2026-10-09T18:34:44.000Z",
+      "collectedAt": "2026-10-09T19:28:07.867Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2ecccddbfa20a01c",
       "title": "Three Years Without Salary: Former Immigration Officer Alleges Unfair Dismissal, Demands Answers",
       "summary": "Written by: Dawda Baldeh Former Gambia Immigration Department officer Foday Danso has accused the institution of withholding his salary for approximately three years before dismissing him under circumstances he believes were unfair and procedurally irregular. Danso, who joined...",
@@ -410,33 +434,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "56b44272ee4b771c",
-      "title": "The Gambia Strengthens National Systems to Address Missing Migrants",
-      "summary": "The International Organization for Migration (IOM), in partnership with the Ministry of Foreign Affairs, International Cooperation, and Gambians Abroad (MoFA), convened from 30 September to 2 October a three-day foundational training to strengthen The Gambia’s national respons...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/the-gambia-strengthens-national-systems-to-address-missing-migrants/",
-      "publishedAt": "2026-10-05T17:56:00.000Z",
-      "collectedAt": "2026-10-05T22:29:36.643Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T13:04:59.235Z",
+    "generatedAt": "2026-10-09T19:28:12.001Z",
     "count": 18
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "0e58830ee19139bd",
+      "title": "Survivors Take Lead in Push to End FGM as Regional Chapters Launched",
+      "summary": "By Mama A. Touray Women in Liberation and Leadership (WILL), in collaboration with its partners, has launched survivor network regional chapters across The Gambia in a move aimed at amplifying the voices of survivors and strengthening efforts to end female genital mutilation (...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
+      "publishedAt": "2026-10-09T18:35:19.000Z",
+      "collectedAt": "2026-10-09T19:28:01.949Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2ecccddbfa20a01c",
       "title": "Three Years Without Salary: Former Immigration Officer Alleges Unfair Dismissal, Demands Answers",
       "summary": "Written by: Dawda Baldeh Former Gambia Immigration Department officer Foday Danso has accused the institution of withholding his salary for approximately three years before dismissing him under circumstances he believes were unfair and procedurally irregular. Danso, who joined...",
@@ -247,7 +268,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T13:04:59.235Z",
-    "count": 11
+    "generatedAt": "2026-10-09T19:28:12.001Z",
+    "count": 12
   }
 }
