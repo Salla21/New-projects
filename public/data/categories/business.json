@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "da9783e25f2a9a3c",
+      "title": "Aji Yam Secka Urges UDP Supporters to Mobilize for Darboe Ahead of 2026 Election",
+      "summary": "By Fatou Sillah Aji Yam Secka, deputy leader of the United Democratic Party (UDP), has called on party members and supporters to intensify grassroots mobilization ahead of the December 2026 presidential election, expressing confidence that party leader Ousainou Darboe will def...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/aji-yam-secka-urges-udp-supporters-to-mobilize-for-darboe-ahead-of-2026-election/",
+      "publishedAt": "2026-10-09T20:26:48.000Z",
+      "collectedAt": "2026-10-09T23:57:59.278Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "247ab8cbf44735f4",
       "title": "Transport Ministry Awards Contract for Banjul International Airport Modernization Studies",
       "summary": "By Makutu Manneh The Ministry of Transport, Works and Infrastructure has signed a contract with Concorde Aviation Intelligence to conduct feasibility studies and develop plans for the modernization of Banjul International Airport, as part of efforts to upgrade The Gambia’s avi...",
@@ -630,7 +655,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-09T19:28:01.685Z",
+      "collectedAt": "2026-10-09T23:57:51.204Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -653,7 +678,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-09T19:28:01.685Z",
+      "collectedAt": "2026-10-09T23:57:51.204Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -669,7 +694,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T19:28:12.001Z",
-    "count": 28
+    "generatedAt": "2026-10-09T23:58:03.380Z",
+    "count": 29
   }
 }

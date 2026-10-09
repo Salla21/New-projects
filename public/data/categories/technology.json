@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "34fdf0f9c97c9591",
+      "title": "Three Government Workers Convicted in Cannabis Trafficking Case",
+      "summary": "By Louise Jobe Magistrate A. Darboe of the Brikama Magistrates’ Court on Thursday, 8 October 2026, convicted and sentenced three government workers after they pleaded guilty to possessing 44kg 402g of cannabis for the purpose of drug trafficking. The court heard that officers ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/three-government-workers-convicted-in-cannabis-trafficking-case/",
+      "publishedAt": "2026-10-09T15:40:24.000Z",
+      "collectedAt": "2026-10-09T23:57:51.031Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "607ba0d961d7bfda",
       "title": "Barrow raps Darboe on election prediction",
       "summary": "President Adama Barrow has hit back at opposition leader Ousainu Darboe over his claim that he would not win the December 2026 presidential election even if he were to open the vaults of Central Bank and spent the money on electioneering. Barrow made this remark during the ong...",
@@ -363,7 +387,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T19:28:12.001Z",
-    "count": 15
+    "generatedAt": "2026-10-09T23:58:03.380Z",
+    "count": 16
   }
 }

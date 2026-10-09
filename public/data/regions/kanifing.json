@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d89a077d86c8f32d",
+      "title": "Bensouda Urges Barrow to Rein In Ministers Over Divisive Tribal Rhetoric",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, mayor of the Kanifing Municipal Council and presidential candidate of Coalition 2026, has called on President Adama Barrow to take decisive action against government ministers who make statements that could fuel tribal divisions, warning t...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-urges-barrow-to-rein-in-ministers-over-divisive-tribal-rhetoric/",
+      "publishedAt": "2026-10-09T21:46:34.000Z",
+      "collectedAt": "2026-10-09T23:57:59.278Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "92c5c88c2ee0dc43",
+      "title": "Bensouda Says Rivals Are Targeting Coalition 2026 Because It Threatens Them",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and the presidential candidate of Coalition 2026, accused both the government and opposition parties on Thursday of targeting his coalition because they view it as a serious threat ahead of The Gambia’s p...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-rivals-are-targeting-coalition-2026-because-it-threatens-them/",
+      "publishedAt": "2026-10-09T21:26:20.000Z",
+      "collectedAt": "2026-10-09T23:57:59.278Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7a52c818a1d57254",
       "title": "Man wins case to retain voter’s card at revising court",
       "summary": "By Fatou Gassama Magistrate I Jallow of Kanifing has ordered that the name of one Adama Bah be retained on the register of voters after dismissing a claim objecting his possession of a voter card. The objection was filed against him by one Ebrima Ndow who claimed that Bah is n...",
@@ -25,7 +71,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T19:28:12.001Z",
-    "count": 1
+    "generatedAt": "2026-10-09T23:58:03.380Z",
+    "count": 3
   }
 }

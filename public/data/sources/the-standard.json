@@ -722,102 +722,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d17391a561424dfc",
-      "title": "IEC DENIES DISCREPANCY IN SUPPLEMENTARY REGISTRATION DATA",
-      "summary": "The Independent Electoral Commission IEC has said there is no discrepancy in its supplementary voter registration information provided to the public. The Commission made the clarification in response to concerns raised by the opposition UDP which demanded the release of all in...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/iec-denies-discrepancy-in-supplementary-registration-data/",
-      "publishedAt": "2026-10-06T09:34:13.000Z",
-      "collectedAt": "2026-10-06T13:14:44.778Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b84039adde214302",
-      "title": "VP Jallow says new generators part of gov’t’s rapid response to power crisis",
-      "summary": "Vice President Muhammed BS Jallow yesterday led members of the Presidential Task Force on Electricity Supply and senior officials to welcome the arrival of two of the three new power generators promised by President Barrow at the height of the recent power outages.  The third ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/vp-jallow-says-new-generators-part-of-govts-rapid-response-to-power-crisis/",
-      "publishedAt": "2026-10-06T09:34:10.000Z",
-      "collectedAt": "2026-10-06T13:14:44.778Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Arret Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "97556235229aab43",
-      "title": "‘Fire officers who greeted opposition NDP leader’s caravan demoted’",
-      "summary": "The opposition National Democratic Party NDP over the weekend issued a public statement expressing dismay over the alleged demotion of four fire officers who were seen on video spreading a garment in front of the car of its leader Kebba Madi Bojang and chanting his name as he ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/fire-officers-who-greeted-opposition-ndp-leaders-caravan-demoted/",
-      "publishedAt": "2026-10-06T09:33:06.000Z",
-      "collectedAt": "2026-10-06T13:14:44.778Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d3f4963ed417d48b",
-      "title": "Reparations Commission says proceeds from Jammeh’s house sale in US yet to arrive",
-      "summary": "By Omar Bah and Olimatou Coker The Gambia Reparations Commission says it has not yet received the $2,507,911.73 recovered from the forfeiture and sale of former President Yahya Jammeh’s mansion in Potomac, Maryland, United States — despite a signed agreement between Banjul and...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/reparations-commission-says-proceeds-from-jammehs-house-sale-in-us-yet-to-arrive/",
-      "publishedAt": "2026-10-06T09:33:00.000Z",
-      "collectedAt": "2026-10-06T13:14:44.778Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Omar Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T19:28:12.001Z",
-    "count": 36
+    "generatedAt": "2026-10-09T23:58:03.380Z",
+    "count": 32
   }
 }

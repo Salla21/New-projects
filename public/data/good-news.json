@@ -87,6 +87,52 @@
       "status": "published"
     },
     {
+      "id": "beb57c04599fc8cb",
+      "title": "Gambia Joins Record UN Vote Backing Sudan War Crimes Investigation",
+      "summary": "The Gambia has joined a record number of countries at the United Nations Human Rights Council in backing the renewal of the UN Fact-Finding Mission on Sudan, as international pressure grows for accountability over alleged atrocities committed during the country’s war. For the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-joins-record-un-vote-backing-sudan-war-crimes-investigation/",
+      "publishedAt": "2026-10-09T15:31:54.000Z",
+      "collectedAt": "2026-10-09T23:57:51.031Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c526cecd87bba21a",
+      "title": "FPAC Calls for Police Investigation into Banjul Council Truck Deal",
+      "summary": "Concerns Over D78.7m Banjul Council Contracts By Yankuba Jallow The Finance and Public Accounts Committee (FPAC) of the National Assembly has called for a police investigation into a D11.55m truck contract awarded by Banjul City Council, after finding that the procurement was ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/fpac-calls-for-police-investigation-into-banjul-council-truck-deal/",
+      "publishedAt": "2026-10-09T15:07:09.000Z",
+      "collectedAt": "2026-10-09T23:57:51.031Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d4d712cdac336fcc",
       "title": "Gala demands gov’t responds to Jammeh assets sale report by October 30",
       "summary": "Activist group, Gambians Against Looted Assets (Gala), which staged mass street protests last year over the sale of assets seized from former president Yahya Jammeh, has called on President Barrow to provide his government’s response to the recommendations in the report of the...",
@@ -425,7 +471,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T19:28:12.001Z",
-    "count": 19
+    "generatedAt": "2026-10-09T23:58:03.380Z",
+    "count": 21
   }
 }

@@ -221,54 +221,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "dc66b6ead27ea151",
-      "title": "IEC Says No Discrepancy as UDP Presses for Answers Over 28,932-Voter Gap",
-      "summary": "Written by: Seringe S.T. Touray The Independent Electoral Commission (IEC) has rejected concerns raised by the United Democratic Party (UDP) over a 28,932 difference in voter registration figures, insisting there is no discrepancy while acknowledging that it should have respon...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/iec-says-no-discrepancy-as-udp-presses-for-answers-over-28932-voter-gap/",
-      "publishedAt": "2026-10-06T11:25:42.000Z",
-      "collectedAt": "2026-10-06T13:14:54.876Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a03dc391e2dc0c0e",
-      "title": "“Even D25,000 Won’t Buy Me” — Police Prosecutor Rejects Alleged Bribe",
-      "summary": "Written by: Dawda Baldeh A police prosecution officer has rejected allegations of wrongdoing over the detention of a Mercedes-Benz linked to a suspected goat theft case, saying he instead refused an alleged D10,000 bribe offered to secure the vehicle’s release. Chief Inspector...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/even-d25000-wont-buy-me-police-prosecutor-rejects-alleged-bribe/",
-      "publishedAt": "2026-10-06T10:21:03.000Z",
-      "collectedAt": "2026-10-06T13:14:54.876Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T19:28:12.001Z",
-    "count": 12
+    "generatedAt": "2026-10-09T23:58:03.380Z",
+    "count": 10
   }
 }
