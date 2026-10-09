@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "607ba0d961d7bfda",
+      "title": "Barrow raps Darboe on election prediction",
+      "summary": "President Adama Barrow has hit back at opposition leader Ousainu Darboe over his claim that he would not win the December 2026 presidential election even if he were to open the vaults of Central Bank and spent the money on electioneering. Barrow made this remark during the ong...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/barrow-raps-darboe-on-election-prediction/",
+      "publishedAt": "2026-10-09T10:05:22.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d4d712cdac336fcc",
+      "title": "Gala demands gov’t responds to Jammeh assets sale report by October 30",
+      "summary": "Activist group, Gambians Against Looted Assets (Gala), which staged mass street protests last year over the sale of assets seized from former president Yahya Jammeh, has called on President Barrow to provide his government’s response to the recommendations in the report of the...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gala-demands-govt-responds-to-jammeh-assets-sale-report-by-october-30/",
+      "publishedAt": "2026-10-09T10:03:14.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5dfb7efcbb6fbf77",
       "title": "Barrow Predicts Crushing Defeat for Darboe, Dismisses Central Bank Remark",
       "summary": "By Makutu Manneh President Adama Barrow has dismissed remarks by United Democratic Party (UDP) leader Ousainou Darboe suggesting that even access to the Central Bank’s entire financial resources would not secure the president’s re-election, predicting that his rival would suff...",
@@ -628,7 +678,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-09T05:46:53.972Z",
+      "collectedAt": "2026-10-09T13:04:52.259Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -651,7 +701,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-09T05:46:53.972Z",
+      "collectedAt": "2026-10-09T13:04:52.259Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -667,7 +717,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T05:47:00.057Z",
-    "count": 28
+    "generatedAt": "2026-10-09T13:04:59.235Z",
+    "count": 30
   }
 }

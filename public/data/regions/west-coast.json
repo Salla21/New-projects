@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "9ee155ec0c2dff55",
+      "title": "3 CIVIL SERVANTS FINED D1M FOR DRUGS TRAFFICKING",
+      "summary": "Three civil servants arrested after suspected cannabis was allegedly found concealed in a government vehicle have been fined a total D1,050,000 after been found guilty by the Brikama Magistrates’ Court. The three – 29-year-old Adama Tabally from the Ministry of Finance; 28-yea...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/3-civil-servants-fined-d1m-for-drugs-trafficking/",
+      "publishedAt": "2026-10-09T10:05:36.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Olimatou Coker",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1d48506b17745d21",
       "title": "Tanji Man Arraigned for Allegedly Assaulting Man With Intent to Steal",
       "summary": "By Mariama Marong A man identified as Kebba Dumbuya has been granted bail of D150,000 with two Gambian sureties after denying a charge of assault with intent to steal before Principal Magistrate Mam Samba Jallow. Dumbuya appeared before the court following allegations arising ...",
@@ -100,7 +121,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-09T05:46:53.972Z",
+      "collectedAt": "2026-10-09T13:04:52.259Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -121,7 +142,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-09T05:46:53.972Z",
+      "collectedAt": "2026-10-09T13:04:52.259Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -137,7 +158,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T05:47:00.057Z",
-    "count": 6
+    "generatedAt": "2026-10-09T13:04:59.235Z",
+    "count": 7
   }
 }

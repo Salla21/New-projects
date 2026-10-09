@@ -1,6 +1,103 @@
 {
   "items": [
     {
+      "id": "2ecccddbfa20a01c",
+      "title": "Three Years Without Salary: Former Immigration Officer Alleges Unfair Dismissal, Demands Answers",
+      "summary": "Written by: Dawda Baldeh Former Gambia Immigration Department officer Foday Danso has accused the institution of withholding his salary for approximately three years before dismissing him under circumstances he believes were unfair and procedurally irregular. Danso, who joined...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/three-years-without-salary-former-immigration-officer-alleges-unfair-dismissal-demands-answers/",
+      "publishedAt": "2026-10-09T10:49:10.000Z",
+      "collectedAt": "2026-10-09T13:04:52.799Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "607ba0d961d7bfda",
+      "title": "Barrow raps Darboe on election prediction",
+      "summary": "President Adama Barrow has hit back at opposition leader Ousainu Darboe over his claim that he would not win the December 2026 presidential election even if he were to open the vaults of Central Bank and spent the money on electioneering. Barrow made this remark during the ong...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/barrow-raps-darboe-on-election-prediction/",
+      "publishedAt": "2026-10-09T10:05:22.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Arret Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6104cafc4236b0cf",
+      "title": "Irregular migration: over 80 Senegalese nationals intercepted in The Gambia",
+      "summary": "Interceptions of migrants are on the rise along the Gambian coast. On Tuesday, the Gambia Immigration Department (GID) thwarted another attempt at irregular migration in Mandinaba. According to information released by the GID, officers from the Mandinaba immigration post inter...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/irregular-migration-over-80-senegalese-nationals-intercepted-in-the-gambia/",
+      "publishedAt": "2026-10-09T09:52:55.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "42c2a3f2d276860d",
+      "title": "Barrow, Darboe and Bensouda: the paths to victory in The Gambia’s 2026 presidential election",
+      "summary": "By Dr Ebrima Ceesay The Gambia’s 2026 presidential election is shaping up as a fundamentally different contest from the election of 2021. Five years ago, Adama Barrow won decisively, receiving 457,519 votes, or 53.23 per cent.  Ousainu Darboe finished second with 238,253 votes...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/barrow-darboe-and-bensouda-the-paths-to-victory-in-the-gambias-2026-presidential-election/",
+      "publishedAt": "2026-10-09T09:50:09.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6e19af443a7570f4",
       "title": "Aji Yam Secka Says Darboe Would Need Only One Term to Reform The Gambia",
       "summary": "By Fatou Sillah Aji Yam Secka, deputy leader of the United Democratic Party, said in an interview with Kerr Fatou that Ousainu Darboe, the party’s leader, would need just one five-year term to carry out major reforms and put The Gambia on a stronger path. Ms. Secka said Mr. Da...",
@@ -339,7 +436,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T05:47:00.057Z",
-    "count": 14
+    "generatedAt": "2026-10-09T13:04:59.235Z",
+    "count": 18
   }
 }

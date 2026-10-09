@@ -1,6 +1,118 @@
 {
   "items": [
     {
+      "id": "d4d712cdac336fcc",
+      "title": "Gala demands gov’t responds to Jammeh assets sale report by October 30",
+      "summary": "Activist group, Gambians Against Looted Assets (Gala), which staged mass street protests last year over the sale of assets seized from former president Yahya Jammeh, has called on President Barrow to provide his government’s response to the recommendations in the report of the...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/gala-demands-govt-responds-to-jammeh-assets-sale-report-by-october-30/",
+      "publishedAt": "2026-10-09T10:03:14.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Tabora Bojang",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7550a8976954c05c",
+      "title": "Veep urges urgent action to tackle malnutrition",
+      "summary": "Vice President Muhammed Jallow has called for urgent and collective action to tackle malnutrition in The Gambia, describing nutrition as a critical pillar of human capital development, productivity and national prosperity. He made the call on Wednesday while officially launchi...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/veep-urges-urgent-action-to-tackle-malnutrition/",
+      "publishedAt": "2026-10-09T10:02:31.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Olimatou Coker",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e3bd07b12b6c3160",
+      "title": "Diphtheria outbreak in Kaolack",
+      "summary": "8 confirmed cases, 1 death, and over 33 Million CFA francs for the response A meeting of the Regional Epidemic Management Committee (CRGE) was held yesterday at the Kaolack governor’s office. The region has recorded eight confirmed cases of diphtheria and one death, amidst a n...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/diphtheria-outbreak-in-kaolack/",
+      "publishedAt": "2026-10-09T09:57:04.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f017e1c91d0f4b30",
+      "title": "Remembering Senghor: 120 years since his birth, 25 years since his death",
+      "summary": "Today, Friday, 9th October, the Léopold Sédar Senghor Foundation will launch the “120/25” commemorative programme to honour the 120th anniversary of the poet-president’s birth and the 25th anniversary of his passing. Centred on the theme “Rootedness and Openness,” the event wi...",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/remembering-senghor-120-years-since-his-birth-25-years-since-his-death/",
+      "publishedAt": "2026-10-09T09:56:58.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "09f203af1a5fe987",
+      "title": "Youssou Ndour: The dramatic resignation that would change his career",
+      "summary": "To mark his 67th birthday, celebrated on October 1st, Le Soleil newspaper has delved into its archives to revisit key moments in Youssou Ndour’s career. Among these turning points, the newspaper documents his dramatic resignation from the band Étoile de Dakar in November 1981....",
+      "sourceId": "the-standard",
+      "sourceName": "The Standard",
+      "sourceUrl": "https://standard.gm/feed/",
+      "originalUrl": "https://standard.gm/youssou-ndour-the-dramatic-resignation-that-would-change-his-career/",
+      "publishedAt": "2026-10-09T09:54:44.000Z",
+      "collectedAt": "2026-10-09T13:01:44.366Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Abubacarr",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "11acda32491f0ebb",
       "title": "Essa Faal Hails Economic Gains Under Barrow, Optimistic About NPP Victory",
       "summary": "By Makutu Manneh Essa Mbye Faal, leader of APP-Sobeyaa, has praised what he described as significant economic progress under President Adama Barrow, expressing cautious optimism that the National People’s Party (NPP) alliance will win the December presidential election. Speaki...",
@@ -271,7 +383,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T05:47:00.057Z",
-    "count": 12
+    "generatedAt": "2026-10-09T13:04:59.235Z",
+    "count": 17
   }
 }
