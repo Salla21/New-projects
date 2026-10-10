@@ -1343,80 +1343,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "baa9c12364697bde",
-      "title": "Lower Badibou North Residents Demand Hospital as Barrow Promises Facility",
-      "summary": "By Assan Bah Residents of Lower Badibou North have appealed to the government to establish a hospital in their area, saying the distance to the nearest hospital in Kerewan is causing difficulties for communities and could put lives at risk. The demand was made during a joint m...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/lower-badibou-north-residents-demand-hospital-as-barrow-promises-facility/",
-      "publishedAt": "2026-10-06T13:59:48.000Z",
-      "collectedAt": "2026-10-06T19:25:33.313Z",
-      "region": "north-bank",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "52ea9ee35566b712",
-      "title": "Lawmakers Flag D1.7 Million Staff Payments at Banjul City Council",
-      "summary": "By Yankuba Jallow  The National Assembly’s Finance and Public Accounts Committee (FPAC) has flagged more than D1.7 million in questioned payments involving staff and officials of Banjul City Council, including alleged duplicate per diem and transport payments, honorarium and u...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/lawmakers-flag-d1-7-million-staff-payments-at-banjul-city-council/",
-      "publishedAt": "2026-10-06T13:44:00.000Z",
-      "collectedAt": "2026-10-06T19:25:33.313Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "eb68ebdb35a93e04",
-      "title": "21MW Power Boost Lands as Gambia Moves to Ease Electricity Crisis",
-      "summary": "Written by: Seringe S.T. Touray Two brand-new generators capable of producing a combined 21 megawatts of electricity have arrived in The Gambia, giving NAWEC a major capacity boost just weeks after prolonged blackouts triggered protests across the country. Vice President Moham...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/21mw-power-boost-lands-as-gambia-moves-to-ease-electricity-crisis/",
-      "publishedAt": "2026-10-06T11:52:46.000Z",
-      "collectedAt": "2026-10-06T13:14:54.876Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T23:58:03.380Z",
-    "count": 60
+    "generatedAt": "2026-10-10T05:40:56.471Z",
+    "count": 57
   }
 }

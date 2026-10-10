@@ -361,33 +361,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "791b7fe067fd395d",
-      "title": "120-Year-Old Colonial Boundary Pillar Found Intact in Foni",
-      "summary": "By Hatab Nyang A colonial boundary pillar believed to be more than 120 years old has been found intact in Kanjabina village in Foni Berefet District, West Coast Region, providing a rare physical link to the demarcation of the Gambia-Senegal border during the colonial period. T...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/120-year-old-colonial-boundary-pillar-found-intact-in-foni/",
-      "publishedAt": "2026-10-06T13:49:12.000Z",
-      "collectedAt": "2026-10-06T19:25:33.313Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T23:58:03.380Z",
-    "count": 16
+    "generatedAt": "2026-10-10T05:40:56.471Z",
+    "count": 15
   }
 }

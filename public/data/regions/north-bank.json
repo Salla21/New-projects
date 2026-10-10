@@ -47,33 +47,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "baa9c12364697bde",
-      "title": "Lower Badibou North Residents Demand Hospital as Barrow Promises Facility",
-      "summary": "By Assan Bah Residents of Lower Badibou North have appealed to the government to establish a hospital in their area, saying the distance to the nearest hospital in Kerewan is causing difficulties for communities and could put lives at risk. The demand was made during a joint m...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/lower-badibou-north-residents-demand-hospital-as-barrow-promises-facility/",
-      "publishedAt": "2026-10-06T13:59:48.000Z",
-      "collectedAt": "2026-10-06T19:25:33.313Z",
-      "region": "north-bank",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T23:58:03.380Z",
-    "count": 3
+    "generatedAt": "2026-10-10T05:40:56.471Z",
+    "count": 2
   }
 }

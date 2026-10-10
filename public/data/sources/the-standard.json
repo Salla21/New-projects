@@ -701,31 +701,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "295b9a1246699f11",
-      "title": "GAMBIA CFO CONFERENCE & AWARDS 2026",
-      "summary": "Honouring Gambia’s Finance Leaders Gambia Hosts Inaugural CFO Conference & Awards 2026 Celebrating Excellence in Financial Leadership The Gambia’s inaugural CFO Awards honoured the country’s leading finance professionals on 21st May 2026 at the Sir Dawda Kairaba Jawara Interna...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambia-cfo-conference-awards-2026/",
-      "publishedAt": "2026-10-06T13:53:42.000Z",
-      "collectedAt": "2026-10-06T19:25:14.284Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T23:58:03.380Z",
-    "count": 32
+    "generatedAt": "2026-10-10T05:40:56.471Z",
+    "count": 31
   }
 }
