@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9d3e527a994c8912",
+      "title": "Foni Kansala Lawmaker Donates D166,600 in Medical Supplies to Bwiam General Hospital",
+      "summary": "By Makutu Manneh Almameh Gibba, the National Assembly member for Foni Kansala, on Friday donated medical supplies worth 166,600 dalasis to Bwiam General Hospital. Speaking at the presentation, Mr. Gibba said the gift was part of his continuing support for health care in his co...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/foni-kansala-lawmaker-donates-d166600-in-medical-supplies-to-bwiam-general-hospital/",
+      "publishedAt": "2026-10-10T22:02:25.000Z",
+      "collectedAt": "2026-10-10T23:24:23.220Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "da9783e25f2a9a3c",
       "title": "Aji Yam Secka Urges UDP Supporters to Mobilize for Darboe Ahead of 2026 Election",
       "summary": "By Fatou Sillah Aji Yam Secka, deputy leader of the United Democratic Party (UDP), has called on party members and supporters to intensify grassroots mobilization ahead of the December 2026 presidential election, expressing confidence that party leader Ousainou Darboe will def...",
@@ -562,7 +586,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-10T18:24:52.410Z",
+      "collectedAt": "2026-10-10T23:24:18.098Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -585,7 +609,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-10T18:24:52.410Z",
+      "collectedAt": "2026-10-10T23:24:18.098Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -601,7 +625,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T18:25:01.773Z",
-    "count": 25
+    "generatedAt": "2026-10-10T23:24:27.317Z",
+    "count": 26
   }
 }

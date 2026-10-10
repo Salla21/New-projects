@@ -131,33 +131,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7de1365d9cd72886",
-      "title": "ECOWAS Court Adopts Settlement in Mahawa Cham Killing Case",
-      "summary": "Written by: Seringe S.T. Touray The ECOWAS Court of Justice has adopted a settlement between the Gambian government and eight members of the family of former parliamentarian Mahawa Cham, setting out commitments for prosecution, compensation and the recovery of his remains. Cha...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ecowas-court-adopts-settlement-in-mahawa-cham-killing-case/",
-      "publishedAt": "2026-10-06T16:24:52.000Z",
-      "collectedAt": "2026-10-06T19:25:33.992Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T18:25:01.773Z",
-    "count": 7
+    "generatedAt": "2026-10-10T23:24:27.317Z",
+    "count": 6
   }
 }

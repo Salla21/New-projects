@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "34384e2afaf4498a",
+      "title": "UDP Plans to Sue Election Commission Over Withheld Voter Registration Data, Questions Whereabouts of Semlex ID Records",
+      "summary": "By Seedy Jobe The United Democratic Party said it is preparing to take the Independent Electoral Commission to court to compel the release of data it has sought for four months, and it questioned where national identification records produced by the company Semlex are being he...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-plans-to-sue-election-commission-over-withheld-voter-registration-data-questions-whereabouts-of-semlex-id-records/",
+      "publishedAt": "2026-10-10T21:43:49.000Z",
+      "collectedAt": "2026-10-10T23:24:23.220Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "247ab8cbf44735f4",
       "title": "Transport Ministry Awards Contract for Banjul International Airport Modernization Studies",
       "summary": "By Makutu Manneh The Ministry of Transport, Works and Infrastructure has signed a contract with Concorde Aviation Intelligence to conduct feasibility studies and develop plans for the modernization of Banjul International Airport, as part of efforts to upgrade The Gambia’s avi...",
@@ -404,7 +427,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T18:25:01.773Z",
-    "count": 18
+    "generatedAt": "2026-10-10T23:24:27.317Z",
+    "count": 19
   }
 }

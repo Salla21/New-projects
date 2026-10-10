@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "9d3e527a994c8912",
+      "title": "Foni Kansala Lawmaker Donates D166,600 in Medical Supplies to Bwiam General Hospital",
+      "summary": "By Makutu Manneh Almameh Gibba, the National Assembly member for Foni Kansala, on Friday donated medical supplies worth 166,600 dalasis to Bwiam General Hospital. Speaking at the presentation, Mr. Gibba said the gift was part of his continuing support for health care in his co...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/foni-kansala-lawmaker-donates-d166600-in-medical-supplies-to-bwiam-general-hospital/",
+      "publishedAt": "2026-10-10T22:02:25.000Z",
+      "collectedAt": "2026-10-10T23:24:23.220Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "34384e2afaf4498a",
+      "title": "UDP Plans to Sue Election Commission Over Withheld Voter Registration Data, Questions Whereabouts of Semlex ID Records",
+      "summary": "By Seedy Jobe The United Democratic Party said it is preparing to take the Independent Electoral Commission to court to compel the release of data it has sought for four months, and it questioned where national identification records produced by the company Semlex are being he...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-plans-to-sue-election-commission-over-withheld-voter-registration-data-questions-whereabouts-of-semlex-id-records/",
+      "publishedAt": "2026-10-10T21:43:49.000Z",
+      "collectedAt": "2026-10-10T23:24:23.220Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "81b034a44c8e47e0",
       "title": "Ten Years After December 2016: What Became of the New Gambia?",
       "summary": "Lawyer Abdoulie Fatty By Abdoulie Fatty I remember that Friday afternoon, 2nd December 2016, as vividly as if it were yesterday. I had just taken a shower and was preparing to leave for Jummah prayers. The Adhan could be heard from my house. Then came the announcement by Alieu...",
@@ -2018,29 +2065,6 @@
       "status": "published"
     },
     {
-      "id": "7de1365d9cd72886",
-      "title": "ECOWAS Court Adopts Settlement in Mahawa Cham Killing Case",
-      "summary": "Written by: Seringe S.T. Touray The ECOWAS Court of Justice has adopted a settlement between the Gambian government and eight members of the family of former parliamentarian Mahawa Cham, setting out commitments for prosecution, compensation and the recovery of his remains. Cha...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ecowas-court-adopts-settlement-in-mahawa-cham-killing-case/",
-      "publishedAt": "2026-10-06T16:24:52.000Z",
-      "collectedAt": "2026-10-06T19:25:33.992Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "05ead3b24ccf582a",
       "title": "Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel",
       "summary": "The Gambia looks easy to navigate on a map. The country is narrow, the main tourism…\nThe post Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel appeared first on What's On Gambia.",
@@ -2049,7 +2073,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-10T18:24:52.410Z",
+      "collectedAt": "2026-10-10T23:24:18.098Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2072,7 +2096,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-10T18:24:52.410Z",
+      "collectedAt": "2026-10-10T23:24:18.098Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2093,7 +2117,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-10T18:24:52.410Z",
+      "collectedAt": "2026-10-10T23:24:18.098Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2114,7 +2138,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/eye-africa-tv-under-fire-after-big-faa-walkout-sparks-fan-outrage/",
       "publishedAt": "2026-09-30T04:04:41.000Z",
-      "collectedAt": "2026-10-10T18:24:52.410Z",
+      "collectedAt": "2026-10-10T23:24:18.098Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2135,7 +2159,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/wuli-spiritual-healer-sentenced-to-10-years-for-rping-female-client/",
       "publishedAt": "2026-09-30T04:03:20.000Z",
-      "collectedAt": "2026-10-10T18:24:52.410Z",
+      "collectedAt": "2026-10-10T23:24:18.098Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2149,7 +2173,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T18:25:01.773Z",
-    "count": 94
+    "generatedAt": "2026-10-10T23:24:27.317Z",
+    "count": 95
   }
 }
