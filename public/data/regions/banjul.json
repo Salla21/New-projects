@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "81b034a44c8e47e0",
+      "title": "Ten Years After December 2016: What Became of the New Gambia?",
+      "summary": "Lawyer Abdoulie Fatty By Abdoulie Fatty I remember that Friday afternoon, 2nd December 2016, as vividly as if it were yesterday. I had just taken a shower and was preparing to leave for Jummah prayers. The Adhan could be heard from my house. Then came the announcement by Alieu...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ten-years-after-december-2016-what-became-of-the-new-gambia/",
+      "publishedAt": "2026-10-10T14:17:12.000Z",
+      "collectedAt": "2026-10-10T18:24:57.644Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6de2982e189f2a6d",
       "title": "Madi Jobarteh Urges Gambians to Demand Accountability Over Sale of Jammeh’s Assets",
       "summary": "By Seedy Jobe Madi Jobarteh, executive director of the Edward Francis Small Centre for Rights and Justice, has urged Gambians, particularly young people, to speak out and demand accountability over the management and disposal of assets seized from former President Yahya Jammeh...",
@@ -2026,7 +2049,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-10T12:18:55.593Z",
+      "collectedAt": "2026-10-10T18:24:52.410Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2049,7 +2072,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-10T12:18:55.593Z",
+      "collectedAt": "2026-10-10T18:24:52.410Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2070,7 +2093,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-10T12:18:55.593Z",
+      "collectedAt": "2026-10-10T18:24:52.410Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2091,7 +2114,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/eye-africa-tv-under-fire-after-big-faa-walkout-sparks-fan-outrage/",
       "publishedAt": "2026-09-30T04:04:41.000Z",
-      "collectedAt": "2026-10-10T12:18:55.593Z",
+      "collectedAt": "2026-10-10T18:24:52.410Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2112,7 +2135,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/wuli-spiritual-healer-sentenced-to-10-years-for-rping-female-client/",
       "publishedAt": "2026-09-30T04:03:20.000Z",
-      "collectedAt": "2026-10-10T12:18:55.593Z",
+      "collectedAt": "2026-10-10T18:24:52.410Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2126,7 +2149,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T12:19:05.259Z",
-    "count": 93
+    "generatedAt": "2026-10-10T18:25:01.773Z",
+    "count": 94
   }
 }

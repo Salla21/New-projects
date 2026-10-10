@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "81b034a44c8e47e0",
+      "title": "Ten Years After December 2016: What Became of the New Gambia?",
+      "summary": "Lawyer Abdoulie Fatty By Abdoulie Fatty I remember that Friday afternoon, 2nd December 2016, as vividly as if it were yesterday. I had just taken a shower and was preparing to leave for Jummah prayers. The Adhan could be heard from my house. Then came the announcement by Alieu...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ten-years-after-december-2016-what-became-of-the-new-gambia/",
+      "publishedAt": "2026-10-10T14:17:12.000Z",
+      "collectedAt": "2026-10-10T18:24:57.644Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d89a077d86c8f32d",
       "title": "Bensouda Urges Barrow to Rein In Ministers Over Divisive Tribal Rhetoric",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, mayor of the Kanifing Municipal Council and presidential candidate of Coalition 2026, has called on President Adama Barrow to take decisive action against government ministers who make statements that could fuel tribal divisions, warning t...",
@@ -1346,7 +1369,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T12:19:05.259Z",
-    "count": 57
+    "generatedAt": "2026-10-10T18:25:01.773Z",
+    "count": 58
   }
 }
