@@ -407,57 +407,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "151beac1279480c0",
-      "title": "DIASPORA VOTING:  AN UNFULFILLED PROMISE",
-      "summary": "In his 2016 presidential election manifesto, one of President Barrow’s promise was for Gambians in the Diaspora to be able to exercise their right to vote, particularly at presidential elections. After serving two terms in ten years the hopes of Gambians in the diaspora to cas...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/diaspora-voting-an-unfulfilled-promise/",
-      "publishedAt": "2026-10-09T12:00:00.000Z",
-      "collectedAt": "2026-10-09T23:57:51.031Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2ecccddbfa20a01c",
-      "title": "Three Years Without Salary: Former Immigration Officer Alleges Unfair Dismissal, Demands Answers",
-      "summary": "Written by: Dawda Baldeh Former Gambia Immigration Department officer Foday Danso has accused the institution of withholding his salary for approximately three years before dismissing him under circumstances he believes were unfair and procedurally irregular. Danso, who joined...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/three-years-without-salary-former-immigration-officer-alleges-unfair-dismissal-demands-answers/",
-      "publishedAt": "2026-10-09T10:49:10.000Z",
-      "collectedAt": "2026-10-09T13:04:52.799Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T05:40:56.471Z",
-    "count": 20
+    "generatedAt": "2026-10-10T12:19:05.259Z",
+    "count": 18
   }
 }
