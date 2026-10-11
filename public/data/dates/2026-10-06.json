@@ -92,33 +92,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f2e0918812c8a8fe",
-      "title": "Coach Pa Samba Jow Accuses NPP of Using Tribal Politics to Influence Voters",
-      "summary": "By Fatou Sillah Political commentator and human rights advocate Coach Pa Samba Jow has accused the ruling National People’s Party of resorting to ethnic and racial rhetoric to influence voters ahead of the 2026 presidential election. Jow also criticized President Adama Barrow’...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/coach-pa-samba-jow-accuses-npp-of-using-tribal-politics-to-influence-voters/",
-      "publishedAt": "2026-10-06T18:23:29.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-11T18:46:23.921Z",
-    "count": 5
+    "generatedAt": "2026-10-11T23:34:42.930Z",
+    "count": 4
   }
 }

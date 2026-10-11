@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "94fcdb5a5f781568",
+      "title": "Gambia Condemns Houthi Attacks on Saudi Airports, Reaffirms Solidarity With Kingdom",
+      "summary": "By Fatou Sillah The Gambia government has strongly condemned attacks reportedly carried out by Houthi militants on two international airports in Saudi Arabia, expressing concern over the loss of life, injuries, and damage to property. In a statement, the Ministry of Foreign Af...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-condemns-houthi-attacks-on-saudi-airports-reaffirms-solidarity-with-kingdom/",
+      "publishedAt": "2026-10-11T22:02:14.000Z",
+      "collectedAt": "2026-10-11T23:34:38.851Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "67e106c6488ef7a5",
+      "title": "UDP Spain Chapter Raises D4 Million at Diaspora Fundraiser",
+      "summary": "By Seedy Jobe The United Democratic Party (UDP) Spain Chapter raised D4 million dalasis at a fundraising event held in Spain over the weekend. The event was part of the party’s diaspora fundraising tour, which has already taken in England and Basel, ahead of the presidential e...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-spain-chapter-raises-d4-million-at-diaspora-fundraiser/",
+      "publishedAt": "2026-10-11T19:35:11.000Z",
+      "collectedAt": "2026-10-11T23:34:38.851Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ffacdfde6c8a9fd3",
       "title": "APRC No-to-Alliance Faction Says NPP Alliance Could Pave Way for Jammeh’s Return, Unlike UDP",
       "summary": "By Makutu Manneh Halifa E. Jarju, Public Relations Officer of the APRC No-to-Alliance faction, has said that an alliance with the ruling National People’s Party (NPP) could facilitate the return of former President Yahya Jammeh, whereas an alliance with the opposition United D...",
@@ -1947,29 +1995,6 @@
       "status": "published"
     },
     {
-      "id": "f2e0918812c8a8fe",
-      "title": "Coach Pa Samba Jow Accuses NPP of Using Tribal Politics to Influence Voters",
-      "summary": "By Fatou Sillah Political commentator and human rights advocate Coach Pa Samba Jow has accused the ruling National People’s Party of resorting to ethnic and racial rhetoric to influence voters ahead of the 2026 presidential election. Jow also criticized President Adama Barrow’...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/coach-pa-samba-jow-accuses-npp-of-using-tribal-politics-to-influence-voters/",
-      "publishedAt": "2026-10-06T18:23:29.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "05ead3b24ccf582a",
       "title": "Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel",
       "summary": "The Gambia looks easy to navigate on a map. The country is narrow, the main tourism…\nThe post Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel appeared first on What's On Gambia.",
@@ -1978,7 +2003,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-11T18:46:13.462Z",
+      "collectedAt": "2026-10-11T23:34:33.637Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2001,7 +2026,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-11T18:46:13.462Z",
+      "collectedAt": "2026-10-11T23:34:33.637Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2022,7 +2047,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-11T18:46:13.462Z",
+      "collectedAt": "2026-10-11T23:34:33.637Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2043,7 +2068,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/eye-africa-tv-under-fire-after-big-faa-walkout-sparks-fan-outrage/",
       "publishedAt": "2026-09-30T04:04:41.000Z",
-      "collectedAt": "2026-10-11T18:46:13.462Z",
+      "collectedAt": "2026-10-11T23:34:33.637Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2064,7 +2089,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/wuli-spiritual-healer-sentenced-to-10-years-for-rping-female-client/",
       "publishedAt": "2026-09-30T04:03:20.000Z",
-      "collectedAt": "2026-10-11T18:46:13.462Z",
+      "collectedAt": "2026-10-11T23:34:33.637Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2078,7 +2103,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-11T18:46:23.921Z",
-    "count": 91
+    "generatedAt": "2026-10-11T23:34:42.930Z",
+    "count": 92
   }
 }

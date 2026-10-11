@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "daf36a081d3886ff",
+      "title": "Bensouda Pledges to Eradicate Poverty in The Gambia Within 10 Years",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has pledged to eradicate poverty in The Gambia within 10 years, arguing that achieving such an ambitious goal would require visionary, honest, and disciplined...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-eradicate-poverty-in-the-gambia-within-10-years/",
+      "publishedAt": "2026-10-11T22:07:08.000Z",
+      "collectedAt": "2026-10-11T23:34:38.851Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "57e59e9f53f89c86",
       "title": "Bensouda Pledges Hospital, Mosque and Mini-Stadium for CRR North",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing and presidential candidate of Coalition 2026, has pledged to build a regional hospital, a mosque and an international-standard mini-stadium in the northern part of the Central River Region if elected president. Speaki...",
@@ -94,7 +117,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-11T18:46:23.921Z",
-    "count": 4
+    "generatedAt": "2026-10-11T23:34:42.930Z",
+    "count": 5
   }
 }

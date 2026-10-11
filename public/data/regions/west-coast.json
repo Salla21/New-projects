@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "fa76e5cf3b7d0ca2",
+      "title": "GID Intercepts 81 Suspected Migrants, Arrests Two Alleged Traffickers in Separate Operations",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 81 suspected would-be migrants and arrested two alleged migrant traffickers in separate operations in Brufut and Kuntaya Village, as authorities intensify efforts to combat irregular migration. In a state...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gid-intercepts-81-suspected-migrants-arrests-two-alleged-traffickers-in-separate-operations/",
+      "publishedAt": "2026-10-11T22:13:37.000Z",
+      "collectedAt": "2026-10-11T23:34:38.851Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "112f6c4a99fe3bb6",
       "title": "UDP Official Accuses Barrow of Using “Meet the People” Tour to Campaign",
       "summary": "By Fatou Sillah Lamin Manneh, the United Democratic Party’s deputy senior administrative secretary for external affairs, described President Adama Barrow’s “Meet the People” tour as an illegal campaign financed with public money, accusing the president of using a constitutiona...",
@@ -215,7 +238,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-11T18:46:13.462Z",
+      "collectedAt": "2026-10-11T23:34:33.637Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -236,7 +259,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-11T18:46:13.462Z",
+      "collectedAt": "2026-10-11T23:34:33.637Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -252,7 +275,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-11T18:46:23.921Z",
-    "count": 11
+    "generatedAt": "2026-10-11T23:34:42.930Z",
+    "count": 12
   }
 }
