@@ -527,32 +527,6 @@
       "status": "published"
     },
     {
-      "id": "845c19eb81634617",
-      "title": "Darboe to Barrow: Even With the Central Bank on Your Side, You’ll Lose This Year",
-      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, has predicted that President Adama Barrow will lose the Dec. 5 presidential election regardless of the resources at his disposal, accusing the president of using state funds to bolster his re-election cam...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-to-barrow-even-with-the-central-bank-on-your-side-youll-lose-this-year/",
-      "publishedAt": "2026-10-06T18:13:47.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "05ead3b24ccf582a",
       "title": "Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel",
       "summary": "The Gambia looks easy to navigate on a map. The country is narrow, the main tourism…\nThe post Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel appeared first on What's On Gambia.",
@@ -561,7 +535,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-11T05:24:55.165Z",
+      "collectedAt": "2026-10-11T12:35:24.013Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -584,7 +558,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-11T05:24:55.165Z",
+      "collectedAt": "2026-10-11T12:35:24.013Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -600,7 +574,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-11T05:25:04.426Z",
-    "count": 25
+    "generatedAt": "2026-10-11T12:35:38.823Z",
+    "count": 24
   }
 }
