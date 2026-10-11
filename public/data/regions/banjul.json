@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "3beae4bf67fb970b",
+      "title": "China Confirms Plan to Nominate Song Li for WHO Top Job",
+      "summary": "By Yankuba Jallow China has confirmed plans to nominate public health official Song Li as a candidate for the top position at the World Health Organisation (WHO), saying the move reflects its support for multilateralism and global health cooperation. Chinese foreign ministry s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/china-confirms-plan-to-nominate-song-li-for-who-top-job/",
+      "publishedAt": "2026-10-11T04:53:00.000Z",
+      "collectedAt": "2026-10-11T05:24:54.915Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9d3e527a994c8912",
       "title": "Foni Kansala Lawmaker Donates D166,600 in Medical Supplies to Bwiam General Hospital",
       "summary": "By Makutu Manneh Almameh Gibba, the National Assembly member for Foni Kansala, on Friday donated medical supplies worth 166,600 dalasis to Bwiam General Hospital. Speaking at the presentation, Mr. Gibba said the gift was part of his continuing support for health care in his co...",
@@ -1973,98 +1996,6 @@
       "status": "published"
     },
     {
-      "id": "05c5c32170ea0295",
-      "title": "Darboe Says He ‘Never Lost’ an Election, Questions Credibility of Past Polls",
-      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, has challenged the legitimacy of previous election results in The Gambia, saying he does not believe he has ever fairly lost an election and alleging that polls held under former President Yahya Jammeh we...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-he-never-lost-an-election-questions-credibility-of-past-polls/",
-      "publishedAt": "2026-10-06T17:02:28.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b14681de6047ead4",
-      "title": "Post-TRRC Unit Head Says Gambia Lacks Forensic Capacity to Locate Victims of Enforced Disappearance",
-      "summary": "By Makutu Manneh The Gambia lacks the forensic expertise and scientific tools needed to locate and identify victims of enforced disappearance, according to Ida Persson, head of the Post-TRRC Unit at the Ministry of Justice. Persson, speaking in an interview with GRTS, said the...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/post-trrc-unit-head-says-gambia-lacks-forensic-capacity-to-locate-victims-of-enforced-disappearance/",
-      "publishedAt": "2026-10-06T16:42:07.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "099387f6c71d5a1f",
-      "title": "Post-TRRC Unit Head Explains Gambia’s Special Mechanism for Prosecuting Rights Abuses",
-      "summary": "By Makutu Manneh Ida Persson, head of the Post-TRRC Unit at the Ministry of Justice, has explained why The Gambia chose to establish a Special Accountability Mechanism rather than rely solely on the country’s conventional criminal justice system to prosecute cases stemming fro...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/post-trrc-unit-head-explains-gambias-special-mechanism-for-prosecuting-rights-abuses/",
-      "publishedAt": "2026-10-06T16:32:39.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "412d6a4224afa3d8",
-      "title": "MC Cham Jr. Says Defections to Barrow May Not Bring Supporters With Them",
-      "summary": "By Seedy Jobe MC Cham Jr., the national campaign manager of the UNITE Party, has played down a recent wave of defections to President Adama Barrow’s National People’s Party, arguing that political leaders who switch allegiance do not necessarily take their supporters with them...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mc-cham-jr-says-defections-to-barrow-may-not-bring-supporters-with-them/",
-      "publishedAt": "2026-10-06T16:25:39.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "05ead3b24ccf582a",
       "title": "Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel",
       "summary": "The Gambia looks easy to navigate on a map. The country is narrow, the main tourism…\nThe post Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel appeared first on What's On Gambia.",
@@ -2073,7 +2004,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-10T23:24:18.098Z",
+      "collectedAt": "2026-10-11T05:24:55.165Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2096,7 +2027,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-10T23:24:18.098Z",
+      "collectedAt": "2026-10-11T05:24:55.165Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2117,7 +2048,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-10T23:24:18.098Z",
+      "collectedAt": "2026-10-11T05:24:55.165Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2138,7 +2069,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/eye-africa-tv-under-fire-after-big-faa-walkout-sparks-fan-outrage/",
       "publishedAt": "2026-09-30T04:04:41.000Z",
-      "collectedAt": "2026-10-10T23:24:18.098Z",
+      "collectedAt": "2026-10-11T05:24:55.165Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2159,7 +2090,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/wuli-spiritual-healer-sentenced-to-10-years-for-rping-female-client/",
       "publishedAt": "2026-09-30T04:03:20.000Z",
-      "collectedAt": "2026-10-10T23:24:18.098Z",
+      "collectedAt": "2026-10-11T05:24:55.165Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2173,7 +2104,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T23:24:27.317Z",
-    "count": 95
+    "generatedAt": "2026-10-11T05:25:04.426Z",
+    "count": 92
   }
 }

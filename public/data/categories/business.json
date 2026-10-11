@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "3beae4bf67fb970b",
+      "title": "China Confirms Plan to Nominate Song Li for WHO Top Job",
+      "summary": "By Yankuba Jallow China has confirmed plans to nominate public health official Song Li as a candidate for the top position at the World Health Organisation (WHO), saying the move reflects its support for multilateralism and global health cooperation. Chinese foreign ministry s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/china-confirms-plan-to-nominate-song-li-for-who-top-job/",
+      "publishedAt": "2026-10-11T04:53:00.000Z",
+      "collectedAt": "2026-10-11T05:24:54.915Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9d3e527a994c8912",
       "title": "Foni Kansala Lawmaker Donates D166,600 in Medical Supplies to Bwiam General Hospital",
       "summary": "By Makutu Manneh Almameh Gibba, the National Assembly member for Foni Kansala, on Friday donated medical supplies worth 166,600 dalasis to Bwiam General Hospital. Speaking at the presentation, Mr. Gibba said the gift was part of his continuing support for health care in his co...",
@@ -530,54 +553,6 @@
       "status": "published"
     },
     {
-      "id": "628ae9ab0e33243e",
-      "title": "GID Intercepts 60 Suspected Irregular Migrants in West Coast, North Bank Regions",
-      "summary": "By Makutu Manneh The Gambia Immigration Department has intercepted 60 suspected irregular migrants in separate operations in the West Coast and North Bank regions as authorities step up efforts to curb irregular migration. The operations were carried out by the department’s Bo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gid-intercepts-60-suspected-irregular-migrants-in-west-coast-north-bank-regions/",
-      "publishedAt": "2026-10-06T17:26:54.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "north-bank",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "412d6a4224afa3d8",
-      "title": "MC Cham Jr. Says Defections to Barrow May Not Bring Supporters With Them",
-      "summary": "By Seedy Jobe MC Cham Jr., the national campaign manager of the UNITE Party, has played down a recent wave of defections to President Adama Barrow’s National People’s Party, arguing that political leaders who switch allegiance do not necessarily take their supporters with them...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mc-cham-jr-says-defections-to-barrow-may-not-bring-supporters-with-them/",
-      "publishedAt": "2026-10-06T16:25:39.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "05ead3b24ccf582a",
       "title": "Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel",
       "summary": "The Gambia looks easy to navigate on a map. The country is narrow, the main tourism…\nThe post Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel appeared first on What's On Gambia.",
@@ -586,7 +561,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-10T23:24:18.098Z",
+      "collectedAt": "2026-10-11T05:24:55.165Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -609,7 +584,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-10T23:24:18.098Z",
+      "collectedAt": "2026-10-11T05:24:55.165Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -625,7 +600,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T23:24:27.317Z",
-    "count": 26
+    "generatedAt": "2026-10-11T05:25:04.426Z",
+    "count": 25
   }
 }

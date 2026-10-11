@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "57e59e9f53f89c86",
+      "title": "Bensouda Pledges Hospital, Mosque and Mini-Stadium for CRR North",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing and presidential candidate of Coalition 2026, has pledged to build a regional hospital, a mosque and an international-standard mini-stadium in the northern part of the Central River Region if elected president. Speaki...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-hospital-mosque-and-mini-stadium-for-crr-north/",
+      "publishedAt": "2026-10-11T02:51:03.000Z",
+      "collectedAt": "2026-10-11T05:25:00.302Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9d3e527a994c8912",
       "title": "Foni Kansala Lawmaker Donates D166,600 in Medical Supplies to Bwiam General Hospital",
       "summary": "By Makutu Manneh Almameh Gibba, the National Assembly member for Foni Kansala, on Friday donated medical supplies worth 166,600 dalasis to Bwiam General Hospital. Speaking at the presentation, Mr. Gibba said the gift was part of his continuing support for health care in his co...",
@@ -1412,58 +1435,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "05c5c32170ea0295",
-      "title": "Darboe Says He ‘Never Lost’ an Election, Questions Credibility of Past Polls",
-      "summary": "By Seedy Jobe The leader of the United Democratic Party, Ousainu Darboe, has challenged the legitimacy of previous election results in The Gambia, saying he does not believe he has ever fairly lost an election and alleging that polls held under former President Yahya Jammeh we...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-he-never-lost-an-election-questions-credibility-of-past-polls/",
-      "publishedAt": "2026-10-06T17:02:28.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "412d6a4224afa3d8",
-      "title": "MC Cham Jr. Says Defections to Barrow May Not Bring Supporters With Them",
-      "summary": "By Seedy Jobe MC Cham Jr., the national campaign manager of the UNITE Party, has played down a recent wave of defections to President Adama Barrow’s National People’s Party, arguing that political leaders who switch allegiance do not necessarily take their supporters with them...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mc-cham-jr-says-defections-to-barrow-may-not-bring-supporters-with-them/",
-      "publishedAt": "2026-10-06T16:25:39.000Z",
-      "collectedAt": "2026-10-06T19:25:35.747Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-10T23:24:27.317Z",
-    "count": 62
+    "generatedAt": "2026-10-11T05:25:04.426Z",
+    "count": 61
   }
 }
