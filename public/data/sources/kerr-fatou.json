@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f6e76c78c9f7e467",
+      "title": "Darboe Tells Mansaring Suu Women They Hold the Key to Healing Gambia’s Wounds",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, leader of the United Democratic Party (UDP), has urged women in Mansaring Suu, Brikama, to take a leading role in bringing political change to The Gambia, saying they hold the power to address what he described as the country’s deepening econo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-tells-mansaring-suu-women-they-hold-the-key-to-healing-gambias-wounds/",
+      "publishedAt": "2026-10-12T02:11:09.000Z",
+      "collectedAt": "2026-10-12T05:35:47.458Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fa76e5cf3b7d0ca2",
       "title": "GID Intercepts 81 Suspected Migrants, Arrests Two Alleged Traffickers in Separate Operations",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 81 suspected would-be migrants and arrested two alleged migrant traffickers in separate operations in Brufut and Kuntaya Village, as authorities intensify efforts to combat irregular migration. In a state...",
@@ -790,80 +814,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "523ac023a485c628",
-      "title": "Transport Union Welcomes Three-Year Driver’s Licences After Years of Advocacy",
-      "summary": "By Seedy Jobe The General Transport Union has welcomed the government’s decision to introduce driver’s licences valid for three years, saying the change brings the licensing system into compliance with the Motor Traffic Act after years of advocacy by the union. In a statement ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/transport-union-welcomes-three-year-drivers-licences-after-years-of-advocacy/",
-      "publishedAt": "2026-10-06T23:13:24.000Z",
-      "collectedAt": "2026-10-06T23:47:01.231Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7bd6789824450da5",
-      "title": "Bensouda Pledges to End ECOMIG Presence, Return Security Operations to Gambian Forces",
-      "summary": "By Staff Writer Talib Ahmed Bensouda, leader of UNITE and Coalition 2026, has pledged to end the presence of ECOMIG forces in The Gambia and close their military bases, including the one in Bwiam, if elected president in the Dec. 5 presidential election. Speaking to supporters...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-end-ecomig-presence-return-security-operations-to-gambian-forces/",
-      "publishedAt": "2026-10-06T22:06:02.000Z",
-      "collectedAt": "2026-10-06T23:47:01.231Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f74f8d0015227fd6",
-      "title": "BAC Councillor Calls for Transparency Over Ownership, Financing of New Generators",
-      "summary": "By Seedy Jobe Sheriffo Sonko, the transport councillor at the Brikama Area Council, has called on the government to disclose the ownership and financing arrangements behind the newly arrived electricity generators, saying Gambians deserve clarity over how the equipment was acq...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bac-councillor-calls-for-transparency-over-ownership-financing-of-new-generators/",
-      "publishedAt": "2026-10-06T20:18:39.000Z",
-      "collectedAt": "2026-10-06T23:47:01.231Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-11T23:34:42.930Z",
-    "count": 37
+    "generatedAt": "2026-10-12T05:35:51.549Z",
+    "count": 35
   }
 }

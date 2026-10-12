@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f6e76c78c9f7e467",
+      "title": "Darboe Tells Mansaring Suu Women They Hold the Key to Healing Gambia’s Wounds",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, leader of the United Democratic Party (UDP), has urged women in Mansaring Suu, Brikama, to take a leading role in bringing political change to The Gambia, saying they hold the power to address what he described as the country’s deepening econo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-tells-mansaring-suu-women-they-hold-the-key-to-healing-gambias-wounds/",
+      "publishedAt": "2026-10-12T02:11:09.000Z",
+      "collectedAt": "2026-10-12T05:35:47.458Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fa76e5cf3b7d0ca2",
       "title": "GID Intercepts 81 Suspected Migrants, Arrests Two Alleged Traffickers in Separate Operations",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 81 suspected would-be migrants and arrested two alleged migrant traffickers in separate operations in Brufut and Kuntaya Village, as authorities intensify efforts to combat irregular migration. In a state...",
@@ -2270,31 +2294,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b24e187e8ed7b4cf",
-      "title": "Jakob Gambiano Confirms Nyancho’s Return to The Gambia",
-      "summary": "British-Gambian music promoter Jakob Gambiano has confirmed that Afro-Manding star Nyancho will soon return to The…\nThe post Jakob Gambiano Confirms Nyancho’s Return to The Gambia appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
-      "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-07T05:37:49.004Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-11T23:34:42.930Z",
+    "generatedAt": "2026-10-12T05:35:51.549Z",
     "count": 100
   }
 }

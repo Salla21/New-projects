@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f6e76c78c9f7e467",
+      "title": "Darboe Tells Mansaring Suu Women They Hold the Key to Healing Gambia’s Wounds",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, leader of the United Democratic Party (UDP), has urged women in Mansaring Suu, Brikama, to take a leading role in bringing political change to The Gambia, saying they hold the power to address what he described as the country’s deepening econo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-tells-mansaring-suu-women-they-hold-the-key-to-healing-gambias-wounds/",
+      "publishedAt": "2026-10-12T02:11:09.000Z",
+      "collectedAt": "2026-10-12T05:35:47.458Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fa76e5cf3b7d0ca2",
       "title": "GID Intercepts 81 Suspected Migrants, Arrests Two Alleged Traffickers in Separate Operations",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 81 suspected would-be migrants and arrested two alleged migrant traffickers in separate operations in Brufut and Kuntaya Village, as authorities intensify efforts to combat irregular migration. In a state...",
@@ -116,56 +140,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3beae4bf67fb970b",
-      "title": "China Confirms Plan to Nominate Song Li for WHO Top Job",
-      "summary": "By Yankuba Jallow China has confirmed plans to nominate public health official Song Li as a candidate for the top position at the World Health Organisation (WHO), saying the move reflects its support for multilateralism and global health cooperation. Chinese foreign ministry s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/china-confirms-plan-to-nominate-song-li-for-who-top-job/",
-      "publishedAt": "2026-10-11T04:53:00.000Z",
-      "collectedAt": "2026-10-11T05:24:54.915Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "57e59e9f53f89c86",
-      "title": "Bensouda Pledges Hospital, Mosque and Mini-Stadium for CRR North",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing and presidential candidate of Coalition 2026, has pledged to build a regional hospital, a mosque and an international-standard mini-stadium in the northern part of the Central River Region if elected president. Speaki...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-hospital-mosque-and-mini-stadium-for-crr-north/",
-      "publishedAt": "2026-10-11T02:51:03.000Z",
-      "collectedAt": "2026-10-11T05:25:00.302Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-11T23:34:42.930Z",
-    "count": 7
+    "generatedAt": "2026-10-12T05:35:51.549Z",
+    "count": 6
   }
 }
