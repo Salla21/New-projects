@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "15bf5912f475dbcc",
+      "title": "Gajigo Urges Upper River Region Voters to Back Bensouda, Reject Ruling Party",
+      "summary": "By Fatou Sillah Dr. Ousman Gajigo, a member of Coalition 2026, urged residents of the Upper River Region to support Talib Ahmed Bensouda, saying the ruling National People’s Party had no claim to their allegiance and should not take their votes for granted. Speaking at a coali...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-urges-upper-river-region-voters-to-back-bensouda-reject-ruling-party/",
+      "publishedAt": "2026-10-12T18:29:44.000Z",
+      "collectedAt": "2026-10-12T22:51:50.442Z",
+      "region": "upper-river",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a88ddd698fdf06f5",
       "title": "Mai Fatty Urges Wuli Residents to Reject Opposition, Singles Out UDP",
       "summary": "By Makutu Manneh Mai Ahmed Fatty, leader of the Gambia Moral Congress (GMC) and coordinator of the National People’s Party (NPP) Political Alliance Secretariat, has urged residents of Wuli in the Upper River Region to reject opposition parties, particularly the United Democrat...",
@@ -25,7 +49,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-12T15:08:53.283Z",
-    "count": 1
+    "generatedAt": "2026-10-12T22:51:54.664Z",
+    "count": 2
   }
 }

@@ -1,6 +1,174 @@
 {
   "items": [
     {
+      "id": "297a9bae79da5092",
+      "title": "FPAC Proposes D72.2 Million Cut to National Audit Office’s 2027 Budget",
+      "summary": "By Fatou Sillah The National Assembly’s Finance and Public Accounts Committee (FPAC) has proposed cutting D72.2 million from the National Audit Office’s proposed D542.6 million budget for 2027, as part of a broader series of adjustments to government spending estimates. Accord...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/fpac-proposes-d72-2-million-cut-to-national-audit-offices-2027-budget/",
+      "publishedAt": "2026-10-12T20:15:40.000Z",
+      "collectedAt": "2026-10-12T22:51:50.442Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5f896516e1a2ed0e",
+      "title": "FPAC Recommends D61.9 Million Cut to Electoral Commission’s 2027 Budget",
+      "summary": "By Fatou Sillah The National Assembly’s Finance and Public Accounts Committee (FPAC) has recommended cutting D61.9 million from the Independent Electoral Commission’s (IEC) proposed 2027 budget, a move that would reduce the electoral body’s allocation from D669.7 million to ap...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/fpac-recommends-d61-9-million-cut-to-electoral-commissions-2027-budget/",
+      "publishedAt": "2026-10-12T20:10:13.000Z",
+      "collectedAt": "2026-10-12T22:51:50.442Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "30253d707c00d1fa",
+      "title": "Alhagie S. Darboe Says Brikama Will Deliver Presidency to Ousainu Darboe in December",
+      "summary": "By Seedy Jobe Alagie S. Darboe, the minority leader of the National Assembly and senior administrative secretary of the United Democratic Party (UDP), has declared that Brikama will play a decisive role in electing opposition leader Ousainu Darboe as The Gambia’s fourth presid...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/alhagie-s-darboe-says-brikama-will-deliver-presidency-to-ousainu-darboe-in-december/",
+      "publishedAt": "2026-10-12T19:35:03.000Z",
+      "collectedAt": "2026-10-12T22:51:50.442Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9b218cf9bc6b46e3",
+      "title": "Darboe Rejects Essa Faal’s Claims, Says Their Political Values Are Not Aligned",
+      "summary": "By Makutu Manneh ANM Ousainu Darboe, the secretary general and leader of the United Democratic Party (UDP), has dismissed claims made by Essa Mbye Faal, leader of APP-Sobeyaa, about their political differences, accusing him of political inconsistency and rejecting suggestions ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-rejects-essa-faals-claims-says-their-political-values-are-not-aligned/",
+      "publishedAt": "2026-10-12T19:27:18.000Z",
+      "collectedAt": "2026-10-12T22:51:50.442Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "74d665afce44d162",
+      "title": "Darboe Calls Rising Cost of Living Barrow Government’s Biggest Failure",
+      "summary": "By Makutu Manneh Ousainu Darboe, the leader of the United Democratic Party (UDP), has described the rising cost of living as the most significant failure of President Adama Barrow’s administration, accusing the government of neglecting the economic hardships facing Gambians wh...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-calls-rising-cost-of-living-barrow-governments-biggest-failure/",
+      "publishedAt": "2026-10-12T19:15:09.000Z",
+      "collectedAt": "2026-10-12T22:51:50.442Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "27cc39f386fbd7ae",
+      "title": "FPAC Proposes D6 Million Cut to President’s Office Budget, Seeks More Funding for Civic Education",
+      "summary": "By Fatou Sillah The National Assembly’s Finance and Public Accounts Committee (FPAC) has proposed cutting D6 million from the Office of the President’s 2027 budget and redirecting the funds to the National Council for Civic Education (NCCE) to support its development programs ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/fpac-proposes-d6-million-cut-to-presidents-office-budget-seeks-more-funding-for-civic-education/",
+      "publishedAt": "2026-10-12T19:07:16.000Z",
+      "collectedAt": "2026-10-12T22:51:50.442Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "15bf5912f475dbcc",
+      "title": "Gajigo Urges Upper River Region Voters to Back Bensouda, Reject Ruling Party",
+      "summary": "By Fatou Sillah Dr. Ousman Gajigo, a member of Coalition 2026, urged residents of the Upper River Region to support Talib Ahmed Bensouda, saying the ruling National People’s Party had no claim to their allegiance and should not take their votes for granted. Speaking at a coali...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gajigo-urges-upper-river-region-voters-to-back-bensouda-reject-ruling-party/",
+      "publishedAt": "2026-10-12T18:29:44.000Z",
+      "collectedAt": "2026-10-12T22:51:50.442Z",
+      "region": "upper-river",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "78ddcc06fe5468e6",
       "title": "Alhaji Amadu Juldeh Sowe Elected President of Tabital Pulaaku International",
       "summary": "Alhaji Amadu Juldeh Sowe, a Sierra Leonean Pulor has been elected president of Tabital Pulaaku International. Sowe was elected on Saturday, 27 September 2026, at the organisation’s General Assembly held at the Kairaba Beach Hotel in The Gambia. Alhaji Juldeh Sowe, who previous...",
@@ -1391,75 +1559,6 @@
       "status": "published"
     },
     {
-      "id": "315bb7293419452b",
-      "title": "Ecowas Court adopts Gambia gov’t’s settlement of Mahawa Cham disappearance case",
-      "summary": "The Ecowas Court of Justice has adopted an amicable settlement between the Government of The Gambia and eight family members of former parliamentarian Mahawa Cham over his unlawful disappearance and killing during the Jammeh era. The settlement, adopted as a Consent Judgment u...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/ecowas-court-adopts-gambia-govts-settlement-of-mahawa-cham-disappearance-case/",
-      "publishedAt": "2026-10-07T09:50:54.000Z",
-      "collectedAt": "2026-10-07T13:08:01.381Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Aminata S. Kuyateh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4109f6eb57bda6b0",
-      "title": "Barrow’s silence in the face of tribal gimmicks is an endorsement",
-      "summary": "President Adama Barrow must be told the blunt truth that his silence on the tribal poison now spreading in Gambian politics is not neutrality. It is endorsement. It is complicity. And it is dangerous. In recent weeks, as the December 5 presidential election draws closer, The G...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/barrows-silence-in-the-face-of-tribal-gimmicks-is-an-endorsement/",
-      "publishedAt": "2026-10-07T09:50:17.000Z",
-      "collectedAt": "2026-10-07T13:08:01.381Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a4bbec403f95bb32",
-      "title": "The cost of political capitulation",
-      "summary": "Dear Editor,The Constitution of The Gambia envisages this country as a multiparty democracy. This is why Section 60 provides for political parties and their role in sponsoring candidates for public elections. Although independent candidates and coalitions are also features of ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/the-cost-of-political-capitulation/",
-      "publishedAt": "2026-10-07T09:50:12.000Z",
-      "collectedAt": "2026-10-07T13:08:01.381Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1468,7 +1567,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-07T05:37:49.004Z",
+      "collectedAt": "2026-10-12T22:51:40.382Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1484,7 +1583,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-12T15:08:53.283Z",
-    "count": 63
+    "generatedAt": "2026-10-12T22:51:54.664Z",
+    "count": 67
   }
 }
