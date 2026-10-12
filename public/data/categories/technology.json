@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "ff8bcb7a0db83e59",
+      "title": "Farmers in Sabach Sanjal Turning Fields Into Upland Rice Farms",
+      "summary": "By Biran Gaye With the prices of rice fluctuating and becoming less affordable in The Gambia, farmers in Sabach Sanjal District are increasingly embracing upland rice cultivation, turning farms into rice fields to feed their families. During a visit to Misira Mbayen, Pallen Wo...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/farmers-in-sabach-sanjal-turning-fields-into-upland-rice-farms/",
+      "publishedAt": "2026-10-12T12:25:00.000Z",
+      "collectedAt": "2026-10-12T15:08:43.802Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f4c3d0f0844fc7c7",
       "title": "UDP Says It Will Track Polling Agents by GPS to Guard Against Vote Fraud",
       "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party’s deputy administrative secretary for external affairs, said the party has adopted strict safeguards against electoral malpractice ahead of the 2026 presidential election, including geolocation tracking for all of its pol...",
@@ -339,7 +362,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-12T05:35:51.549Z",
-    "count": 14
+    "generatedAt": "2026-10-12T15:08:53.283Z",
+    "count": 15
   }
 }

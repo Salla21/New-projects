@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "397c068abf5bf02c",
+      "title": "Gambia Welcomes First Tourists of 2026/27 Season as Industry Eyes Recovery and Growth",
+      "summary": "The 2026/27 tourism season officially opened with fanfare at Banjul International Airport on Friday, as the first chartered flight from London arrived with 139 visitors.  This event is the start of what many officials expect will be a lasting season for the “Smiling Coast of A...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-welcomes-first-tourists-of-2026-27-season-as-industry-eyes-recovery-and-growth/",
+      "publishedAt": "2026-10-12T12:05:00.000Z",
+      "collectedAt": "2026-10-12T15:08:43.802Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "34384e2afaf4498a",
       "title": "UDP Plans to Sue Election Commission Over Withheld Voter Registration Data, Questions Whereabouts of Semlex ID Records",
       "summary": "By Seedy Jobe The United Democratic Party said it is preparing to take the Independent Electoral Commission to court to compel the release of data it has sought for four months, and it questioned where national identification records produced by the company Semlex are being he...",
@@ -427,7 +450,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-12T05:35:51.549Z",
-    "count": 19
+    "generatedAt": "2026-10-12T15:08:53.283Z",
+    "count": 20
   }
 }
