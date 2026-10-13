@@ -335,34 +335,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6c38ae96d0446f55",
-      "title": "DOES GOVERNMENT RISKS BEING TAKEN TO COURT FOR WRONGFUL",
-      "summary": "According to section 169 of the Constitution. “(1) No public servant shall be— (a) victimised or discriminated against either directly or indirectly for having discharged his other duties faithfully and according to law; (b) be removed from office or reduced in rank or otherwi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/does-government-risks-being-taken-to-court-for-wrongful/",
-      "publishedAt": "2026-10-07T11:16:39.000Z",
-      "collectedAt": "2026-10-07T19:52:26.503Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-12T22:51:54.664Z",
-    "count": 15
+    "generatedAt": "2026-10-13T06:33:17.193Z",
+    "count": 14
   }
 }

@@ -1465,100 +1465,6 @@
       "status": "published"
     },
     {
-      "id": "6c38ae96d0446f55",
-      "title": "DOES GOVERNMENT RISKS BEING TAKEN TO COURT FOR WRONGFUL",
-      "summary": "According to section 169 of the Constitution. “(1) No public servant shall be— (a) victimised or discriminated against either directly or indirectly for having discharged his other duties faithfully and according to law; (b) be removed from office or reduced in rank or otherwi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/does-government-risks-being-taken-to-court-for-wrongful/",
-      "publishedAt": "2026-10-07T11:16:39.000Z",
-      "collectedAt": "2026-10-07T19:52:26.503Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e5ab4e20588ff983",
-      "title": "REPARATION COMMISSION WAITING FOR 2.5 MILLION DOLLARS",
-      "summary": "The nation has been informed by the American Government that it has informed the Government of The Gambia that assets owned by Ex-President Jammeh has been sold for a sum of 2.5 million dollars and has been transferred to the government for reparations purposes. The Reparation...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/reparation-commission-waiting-for-2-5-million-dollars/",
-      "publishedAt": "2026-10-07T11:15:49.000Z",
-      "collectedAt": "2026-10-07T19:52:26.503Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8ad75b732f452186",
-      "title": "DARBOE SAYS BARROW IS SO UNPOPULAR THAT EVEN ONE PARTY CAN REMOVE HIM",
-      "summary": "The main opposition United Democratic Party (UDP) leader Ousainu Darboe has declared that President Barrow is so unpopular that he now agrees with other politicians who believe that removing him may not necessarily require one united opposition front. “Other party leaders have...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/darboe-says-barrow-is-so-unpopular-that-even-one-party-can-remove-him/",
-      "publishedAt": "2026-10-07T09:55:00.000Z",
-      "collectedAt": "2026-10-07T13:08:01.381Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2446ab145cffa4a1",
-      "title": "Barrow hails Sabi meeting as momentous",
-      "summary": "President Barrow has spoken of his great delight at what he saw and heard at a meeting in Sabi Village in the URR during his current Meet The People Tour. Writing on his official Facebook Page, Barrow PORG, the president said: “I was deeply moved by the warm reception from doz...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/barrow-hails-sabi-meeting-as-momentous/",
-      "publishedAt": "2026-10-07T09:54:26.000Z",
-      "collectedAt": "2026-10-07T13:08:01.381Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Cham",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1567,7 +1473,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-12T22:51:40.382Z",
+      "collectedAt": "2026-10-13T06:33:03.898Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1583,7 +1489,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-12T22:51:54.664Z",
-    "count": 67
+    "generatedAt": "2026-10-13T06:33:17.193Z",
+    "count": 63
   }
 }
