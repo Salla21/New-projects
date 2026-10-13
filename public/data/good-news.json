@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "77b27e270ba1f342",
+      "title": "FPAC Challenges Ministry of Finance to Reduce Cost of Borrowing",
+      "summary": "By Kebba A.F. Touray The Finance and Public Accounts Committee (FPAC) has challenged the Ministry of Finance and Economic Affairs to reduce the cost of borrowing and strengthen the management of the country’s growing debt-service burden. The committee made the recommendation i...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/fpac-challenges-ministry-of-finance-to-reduce-cost-of-borrowing/",
+      "publishedAt": "2026-10-13T12:20:00.000Z",
+      "collectedAt": "2026-10-13T15:50:54.609Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "646d81a948466b88",
+      "title": "Qatar Charity Commended for Supporting Vulnerable Communities Through Nationwide Livelihood Initiative",
+      "summary": "Fatounata Jawara, CEO of Maa Foundation for Women and a Civil Society Representative on the National Women’s Council, has commended Qatar Charity for its continued support to vulnerable communities in The Gambia, following the disbursement to the first batch of beneficiaries u...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/qatar-charity-commended-for-supporting-vulnerable-communities-through-nationwide-livelihood-initiative/",
+      "publishedAt": "2026-10-13T12:05:00.000Z",
+      "collectedAt": "2026-10-13T15:50:54.609Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e6f13a3d7f624e7e",
+      "title": "WHEN WILL THE BORDER COMMISSION ISSUE A PROGRESS REPORT ON THE BORDER SITUATION?",
+      "summary": "Gambia is heading towards elections. It is important to have national stability as we head towards the elections. The previous border fracas created a situation of heightening tension in the country immediately after the destruction of the fence of a military installation in B...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/when-will-the-border-commission-issue-a-progress-report-on-the-border-situation/",
+      "publishedAt": "2026-10-13T10:42:51.000Z",
+      "collectedAt": "2026-10-13T15:50:54.609Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5f896516e1a2ed0e",
       "title": "FPAC Recommends D61.9 Million Cut to Electoral Commission’s 2027 Budget",
       "summary": "By Fatou Sillah The National Assembly’s Finance and Public Accounts Committee (FPAC) has recommended cutting D61.9 million from the Independent Electoral Commission’s (IEC) proposed 2027 budget, a move that would reduce the electoral body’s allocation from D669.7 million to ap...",
@@ -498,7 +566,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-13T06:33:17.193Z",
-    "count": 22
+    "generatedAt": "2026-10-13T15:51:05.738Z",
+    "count": 25
   }
 }
