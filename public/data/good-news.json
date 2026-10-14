@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "6025b86220efd48c",
+      "title": "Public Warning Against Unauthorised Land Sales Within The Tourism Development Area",
+      "summary": "The Gambia Tourism Board (GTBoard) wishes to warn the general public, prospective investors and developers against the purchase or acquisition of land within the Tourism Development Area (TDA) through unauthorized persons, including Alkalos and Village Development Committees. ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/public-warning-against-unauthorised-land-sales-within-the-tourism-development-area/",
+      "publishedAt": "2026-10-14T13:24:47.000Z",
+      "collectedAt": "2026-10-14T13:35:23.940Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "77b27e270ba1f342",
       "title": "FPAC Challenges Ministry of Finance to Reduce Cost of Borrowing",
       "summary": "By Kebba A.F. Touray The Finance and Public Accounts Committee (FPAC) has challenged the Ministry of Finance and Economic Affairs to reduce the cost of borrowing and strengthen the management of the country’s growing debt-service burden. The committee made the recommendation i...",
@@ -499,7 +522,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T07:26:48.812Z",
-    "count": 22
+    "generatedAt": "2026-10-14T13:35:34.108Z",
+    "count": 23
   }
 }

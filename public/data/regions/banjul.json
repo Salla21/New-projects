@@ -1,6 +1,143 @@
 {
   "items": [
     {
+      "id": "1e119eafb298e989",
+      "title": "Member for Upper Saloum calls for forensic audit of state agencies",
+      "summary": "By Yankuba Jallow The National Assembly Member for Upper Saloum, Alhaji Mbowe, has called for a forensic audit of government agencies that generate their own revenue while receiving state funding, warning that poor financial controls and unpaid bills are putting pressure on pu...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/member-for-upper-saloum-calls-for-forensic-audit-of-state-agencies/",
+      "publishedAt": "2026-10-14T13:30:36.000Z",
+      "collectedAt": "2026-10-14T13:35:23.940Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2c92d3ce2806395b",
+      "title": "How IMF-Backed Reforms Affected Gambia’s Historic Boundary Pillars",
+      "summary": "By Yankuba Jallow The National Council for Arts and Culture (NCAC) has linked the loss of government funding for the protection of The Gambia’s boundary pillars to the Economic Recovery Programme (ERP) introduced in the 1980s with the support of the International Monetary Fund...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/how-imf-backed-reforms-affected-gambias-historic-boundary-pillars/",
+      "publishedAt": "2026-10-14T13:25:33.000Z",
+      "collectedAt": "2026-10-14T13:35:23.940Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6025b86220efd48c",
+      "title": "Public Warning Against Unauthorised Land Sales Within The Tourism Development Area",
+      "summary": "The Gambia Tourism Board (GTBoard) wishes to warn the general public, prospective investors and developers against the purchase or acquisition of land within the Tourism Development Area (TDA) through unauthorized persons, including Alkalos and Village Development Committees. ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/public-warning-against-unauthorised-land-sales-within-the-tourism-development-area/",
+      "publishedAt": "2026-10-14T13:24:47.000Z",
+      "collectedAt": "2026-10-14T13:35:23.940Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8eed2e44183a0b17",
+      "title": "Foni Jarrol Lawmaker  Says ‘We Can Never Develop The Gambia Through Borrowing’",
+      "summary": "By Kebba A.F. Touray The National Assembly Member for Foni Jarrol, Kebba Tumanding Sanneh, has said The Gambia cannot achieve sustainable development by relying on borrowing, citing the country’s debt obligations and concerns over public spending and accountability. Sanneh mad...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/foni-jarrol-lawmaker-says-we-can-never-develop-the-gambia-through-borrowing/",
+      "publishedAt": "2026-10-14T12:46:21.000Z",
+      "collectedAt": "2026-10-14T13:35:23.940Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4409bafed31891d9",
+      "title": "ARE PRESIDENTIAL CONTESTANTS PREPARING FOR NOMINATION?",
+      "summary": "Nomination of presidential candidates is scheduled from 3rd November to 14th November. Those who have picked up nomination forms of parties, coalitions and individuals will simply have to present their nomination forms and credentials sometime between 3rd November and 14th Nov...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/are-presidential-contestants-preparing-for-nomination/",
+      "publishedAt": "2026-10-14T11:31:13.000Z",
+      "collectedAt": "2026-10-14T13:35:23.940Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "09454b57c1eb985e",
+      "title": "THE BORDER COMMISSIONS HOLDING MEETINGS WITHOUT MEDIA PRESENCE",
+      "summary": "Leaks of meetings of the Senegalese and Gambian Border Commissions are featuring in the Gambian media, and the key information is that they are not re-demarcating the border but are just identifying the pillars established when the border was demarcated. It is mentioned in the...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-border-commissions-holding-meetings-without-media-presence/",
+      "publishedAt": "2026-10-14T11:30:27.000Z",
+      "collectedAt": "2026-10-14T13:35:23.940Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "12cee1d7d5136b90",
       "title": "Kiang West Lawmaker Accuses Barrow of Squandering Public Funds on Nationwide Tour",
       "summary": "By Seedy Jobe The National Assembly member for Kiang West, Modou Lamin Ceesay, has accused President Adama Barrow of using public funds to finance political activities under the guise of his nationwide meet-the-people tour, raising concerns about government spending and the ov...",
@@ -1914,7 +2051,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-14T07:26:29.221Z",
+      "collectedAt": "2026-10-14T13:35:24.310Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1937,7 +2074,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-14T07:26:29.221Z",
+      "collectedAt": "2026-10-14T13:35:24.310Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1960,7 +2097,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-14T07:26:29.221Z",
+      "collectedAt": "2026-10-14T13:35:24.310Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1981,7 +2118,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-14T07:26:29.221Z",
+      "collectedAt": "2026-10-14T13:35:24.310Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2004,7 +2141,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-14T07:26:29.221Z",
+      "collectedAt": "2026-10-14T13:35:24.310Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2025,7 +2162,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-14T07:26:29.221Z",
+      "collectedAt": "2026-10-14T13:35:24.310Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2046,7 +2183,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/eye-africa-tv-under-fire-after-big-faa-walkout-sparks-fan-outrage/",
       "publishedAt": "2026-09-30T04:04:41.000Z",
-      "collectedAt": "2026-10-14T07:26:29.221Z",
+      "collectedAt": "2026-10-14T13:35:24.310Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2067,7 +2204,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/wuli-spiritual-healer-sentenced-to-10-years-for-rping-female-client/",
       "publishedAt": "2026-09-30T04:03:20.000Z",
-      "collectedAt": "2026-10-14T07:26:29.221Z",
+      "collectedAt": "2026-10-14T13:35:24.310Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2081,7 +2218,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T07:26:48.812Z",
-    "count": 90
+    "generatedAt": "2026-10-14T13:35:34.108Z",
+    "count": 96
   }
 }
