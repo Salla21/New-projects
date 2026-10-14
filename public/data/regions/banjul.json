@@ -1906,29 +1906,6 @@
       "status": "published"
     },
     {
-      "id": "da609f7897653b5a",
-      "title": "Transitional justice is about healing the wounds of a divided society",
-      "summary": "When a country emerges from years of conflict, dictatorship, political violence, or widespread human rights abuses, peace alone is rarely enough. The end of violence may silence the guns, but it does not automatically erase the pain, fear, injustice, and mistrust left behind. ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/transitional-justice-is-about-healing-the-wounds-of-a-divided-society/",
-      "publishedAt": "2026-10-08T09:51:42.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1937,7 +1914,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-14T01:04:49.338Z",
+      "collectedAt": "2026-10-14T07:26:29.221Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1960,7 +1937,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-14T01:04:49.338Z",
+      "collectedAt": "2026-10-14T07:26:29.221Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1983,7 +1960,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-14T01:04:49.338Z",
+      "collectedAt": "2026-10-14T07:26:29.221Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2004,7 +1981,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-14T01:04:49.338Z",
+      "collectedAt": "2026-10-14T07:26:29.221Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2027,7 +2004,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-14T01:04:49.338Z",
+      "collectedAt": "2026-10-14T07:26:29.221Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2048,7 +2025,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-14T01:04:49.338Z",
+      "collectedAt": "2026-10-14T07:26:29.221Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2069,7 +2046,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/eye-africa-tv-under-fire-after-big-faa-walkout-sparks-fan-outrage/",
       "publishedAt": "2026-09-30T04:04:41.000Z",
-      "collectedAt": "2026-10-14T01:04:49.338Z",
+      "collectedAt": "2026-10-14T07:26:29.221Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2090,7 +2067,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/wuli-spiritual-healer-sentenced-to-10-years-for-rping-female-client/",
       "publishedAt": "2026-09-30T04:03:20.000Z",
-      "collectedAt": "2026-10-14T01:04:49.338Z",
+      "collectedAt": "2026-10-14T07:26:29.221Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2104,7 +2081,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T01:04:59.125Z",
-    "count": 91
+    "generatedAt": "2026-10-14T07:26:48.812Z",
+    "count": 90
   }
 }

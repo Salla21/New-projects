@@ -558,33 +558,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "da609f7897653b5a",
-      "title": "Transitional justice is about healing the wounds of a divided society",
-      "summary": "When a country emerges from years of conflict, dictatorship, political violence, or widespread human rights abuses, peace alone is rarely enough. The end of violence may silence the guns, but it does not automatically erase the pain, fear, injustice, and mistrust left behind. ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/transitional-justice-is-about-healing-the-wounds-of-a-divided-society/",
-      "publishedAt": "2026-10-08T09:51:42.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T01:04:59.125Z",
-    "count": 25
+    "generatedAt": "2026-10-14T07:26:48.812Z",
+    "count": 24
   }
 }
