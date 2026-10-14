@@ -496,54 +496,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0dd712c2d5bff574",
-      "title": "MRCG to play key role in £5M global programme to advance understanding of Strep A disease",
-      "summary": "Press release MRC Unit The Gambia at the London School of Hygiene & Tropical Medicine (MRCG at LSHTM) will play a central leadership role in a major £5 million international research programme aiming to better understand and fight Group A Streptococcus (Strep A). The Award wil...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/mrcg-to-play-key-role-in-5m-global-programme-to-advance-understanding-of-strep-a-disease/",
-      "publishedAt": "2026-10-08T09:50:53.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b7de54d0b9420011",
-      "title": "ActionAid, NYC engage 240 youths on national youth policy",
-      "summary": "The National Youth Council (NYC), under the Ministry of Youth and Sports, in partnership with ActionAid International – The Gambia (AAITG), Tuesday engaged over 240 young people to popularise the National Youth Policy implementation framework. The day-long forum held at the Ta...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/actionaid-nyc-engage-240-youths-on-national-youth-policy/",
-      "publishedAt": "2026-10-08T09:50:08.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-13T21:10:16.112Z",
-    "count": 24
+    "generatedAt": "2026-10-14T01:04:59.125Z",
+    "count": 22
   }
 }

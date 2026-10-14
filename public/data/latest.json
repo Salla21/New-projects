@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8f90e21b179ca7ef",
+      "title": "Bensouda Warns Dalasi Could Weaken Further if Barrow Wins Another Term",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has warned that the Gambian Dalasi could depreciate further against the CFA franc if President Adama Barrow secures another term in office, arguing that the c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-warns-dalasi-could-weaken-further-if-barrow-wins-another-term/",
+      "publishedAt": "2026-10-13T21:15:02.000Z",
+      "collectedAt": "2026-10-14T01:04:55.060Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "12cee1d7d5136b90",
       "title": "Kiang West Lawmaker Accuses Barrow of Squandering Public Funds on Nationwide Tour",
       "summary": "By Seedy Jobe The National Assembly member for Kiang West, Modou Lamin Ceesay, has accused President Adama Barrow of using public funds to finance political activities under the guise of his nationwide meet-the-people tour, raising concerns about government spending and the ov...",
@@ -2296,33 +2320,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "da609f7897653b5a",
-      "title": "Transitional justice is about healing the wounds of a divided society",
-      "summary": "When a country emerges from years of conflict, dictatorship, political violence, or widespread human rights abuses, peace alone is rarely enough. The end of violence may silence the guns, but it does not automatically erase the pain, fear, injustice, and mistrust left behind. ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/transitional-justice-is-about-healing-the-wounds-of-a-divided-society/",
-      "publishedAt": "2026-10-08T09:51:42.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-13T21:10:16.112Z",
+    "generatedAt": "2026-10-14T01:04:59.125Z",
     "count": 100
   }
 }

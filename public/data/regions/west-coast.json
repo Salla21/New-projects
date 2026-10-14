@@ -207,30 +207,6 @@
       "status": "published"
     },
     {
-      "id": "2e104e8a770ea9fd",
-      "title": "Juwara Predicts NPP Alliance Could Fracture After December Election",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow’s National People’s Party and its political allies could face internal divisions if the president wins the December presidential election. Speaking on Kerr Fatou, Juwara rejected suggesti...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/juwara-predicts-npp-alliance-could-fracture-after-december-election/",
-      "publishedAt": "2026-10-07T18:41:40.000Z",
-      "collectedAt": "2026-10-07T19:52:28.299Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -239,7 +215,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-13T21:10:06.286Z",
+      "collectedAt": "2026-10-14T01:04:49.338Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -260,7 +236,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-13T21:10:06.286Z",
+      "collectedAt": "2026-10-14T01:04:49.338Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -276,7 +252,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-13T21:10:16.112Z",
-    "count": 12
+    "generatedAt": "2026-10-14T01:04:59.125Z",
+    "count": 11
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8f90e21b179ca7ef",
+      "title": "Bensouda Warns Dalasi Could Weaken Further if Barrow Wins Another Term",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has warned that the Gambian Dalasi could depreciate further against the CFA franc if President Adama Barrow secures another term in office, arguing that the c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-warns-dalasi-could-weaken-further-if-barrow-wins-another-term/",
+      "publishedAt": "2026-10-13T21:15:02.000Z",
+      "collectedAt": "2026-10-14T01:04:55.060Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "12cee1d7d5136b90",
       "title": "Kiang West Lawmaker Accuses Barrow of Squandering Public Funds on Nationwide Tour",
       "summary": "By Seedy Jobe The National Assembly member for Kiang West, Modou Lamin Ceesay, has accused President Adama Barrow of using public funds to finance political activities under the guise of his nationwide meet-the-people tour, raising concerns about government spending and the ov...",
@@ -1517,53 +1541,6 @@
       "status": "published"
     },
     {
-      "id": "2e104e8a770ea9fd",
-      "title": "Juwara Predicts NPP Alliance Could Fracture After December Election",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow’s National People’s Party and its political allies could face internal divisions if the president wins the December presidential election. Speaking on Kerr Fatou, Juwara rejected suggesti...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/juwara-predicts-npp-alliance-could-fracture-after-december-election/",
-      "publishedAt": "2026-10-07T18:41:40.000Z",
-      "collectedAt": "2026-10-07T19:52:28.299Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cd9e8c70e96ec79f",
-      "title": "Barrow Frames December Election as Choice Between Continuity and ‘Going Backward’",
-      "summary": "By Makutu Manneh President Adama Barrow has continued to cast the December 5 presidential election as a choice between continuing his administration’s development agenda and “going backward,” repeating the message as his annual Meet-the-People Tour moves through the country. T...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-frames-december-election-as-choice-between-continuity-and-going-backward/",
-      "publishedAt": "2026-10-07T18:33:28.000Z",
-      "collectedAt": "2026-10-07T19:52:28.299Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1572,7 +1549,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-13T21:10:06.286Z",
+      "collectedAt": "2026-10-14T01:04:49.338Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1588,7 +1565,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-13T21:10:16.112Z",
-    "count": 67
+    "generatedAt": "2026-10-14T01:04:59.125Z",
+    "count": 66
   }
 }

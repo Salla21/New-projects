@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8f90e21b179ca7ef",
+      "title": "Bensouda Warns Dalasi Could Weaken Further if Barrow Wins Another Term",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has warned that the Gambian Dalasi could depreciate further against the CFA franc if President Adama Barrow secures another term in office, arguing that the c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-warns-dalasi-could-weaken-further-if-barrow-wins-another-term/",
+      "publishedAt": "2026-10-13T21:15:02.000Z",
+      "collectedAt": "2026-10-14T01:04:55.060Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5999b288b7ead03c",
       "title": "Coalition Spokesperson Accuses Barrow of Ceding National Resources to Foreign Interests, Backs Bensouda’s Vision",
       "summary": "By Seedy Jobe Lawyer Assan Martin, spokesperson for Coalition 2026, has accused President Adama Barrow’s administration of surrendering control of key national resources to foreign interests, arguing that government policies in aviation, fisheries, and agriculture have disadva...",
@@ -817,29 +841,6 @@
       "status": "published"
     },
     {
-      "id": "b7de54d0b9420011",
-      "title": "ActionAid, NYC engage 240 youths on national youth policy",
-      "summary": "The National Youth Council (NYC), under the Ministry of Youth and Sports, in partnership with ActionAid International – The Gambia (AAITG), Tuesday engaged over 240 young people to popularise the National Youth Policy implementation framework. The day-long forum held at the Ta...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/actionaid-nyc-engage-240-youths-on-national-youth-policy/",
-      "publishedAt": "2026-10-08T09:50:08.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -848,7 +849,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-13T21:10:06.286Z",
+      "collectedAt": "2026-10-14T01:04:49.338Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -871,7 +872,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-13T21:10:06.286Z",
+      "collectedAt": "2026-10-14T01:04:49.338Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -894,7 +895,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-13T21:10:06.286Z",
+      "collectedAt": "2026-10-14T01:04:49.338Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -910,7 +911,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-13T21:10:16.112Z",
+    "generatedAt": "2026-10-14T01:04:59.125Z",
     "count": 38
   }
 }
