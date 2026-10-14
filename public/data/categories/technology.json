@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "99fe63de87248243",
+      "title": "Barrow and His Allies Know They Are Losing, Kiang West NAM Declares",
+      "summary": "By Makutu Manneh Lamin Ceesay, the National Assembly Member for Kiang West, has predicted a decisive victory for the United Democratic Party (UDP) in December’s presidential election, claiming that President Adama Barrow is losing political ground and is aware of his declining...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-and-his-allies-know-they-are-losing-kiang-west-nam-declares/",
+      "publishedAt": "2026-10-14T20:15:59.000Z",
+      "collectedAt": "2026-10-14T23:08:35.957Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0a6ec07d4df8b24f",
+      "title": "Gambia’s Auditor General Urges Journalists to Uphold Accuracy in Reporting Audit Findings",
+      "summary": "By Seedy Jobe The Gambia’s Auditor General, Cherno Amadou Sowe, has urged journalists and editors to exercise greater accuracy, fairness, and diligence when reporting public sector audit findings, warning that misinterpretations of technical audit reports could mislead the pub...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambias-auditor-general-urges-journalists-to-uphold-accuracy-in-reporting-audit-findings/",
+      "publishedAt": "2026-10-14T19:59:39.000Z",
+      "collectedAt": "2026-10-14T23:08:35.957Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ff8bcb7a0db83e59",
       "title": "Farmers in Sabach Sanjal Turning Fields Into Upland Rice Farms",
       "summary": "By Biran Gaye With the prices of rice fluctuating and becoming less affordable in The Gambia, farmers in Sabach Sanjal District are increasingly embracing upland rice cultivation, turning farms into rice fields to feed their families. During a visit to Misira Mbayen, Pallen Wo...",
@@ -220,7 +268,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T18:30:37.257Z",
-    "count": 9
+    "generatedAt": "2026-10-14T23:08:40.071Z",
+    "count": 11
   }
 }

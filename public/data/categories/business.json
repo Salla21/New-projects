@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "22cf5ca62c4e4e62",
+      "title": "Juwara Blasts Weak National Assembly Over Failure to Check Barrow’s Excessive Tour Spending",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has accused the National Assembly of failing to exercise its oversight responsibilities, arguing that its reluctance to challenge President Adama Barrow over repeated budget overruns on his annual Meet-the-People Tour has fostere...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/juwara-blasts-weak-national-assembly-over-failure-to-check-barrows-excessive-tour-spending/",
+      "publishedAt": "2026-10-14T20:23:13.000Z",
+      "collectedAt": "2026-10-14T23:08:35.957Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0a6ec07d4df8b24f",
+      "title": "Gambia’s Auditor General Urges Journalists to Uphold Accuracy in Reporting Audit Findings",
+      "summary": "By Seedy Jobe The Gambia’s Auditor General, Cherno Amadou Sowe, has urged journalists and editors to exercise greater accuracy, fairness, and diligence when reporting public sector audit findings, warning that misinterpretations of technical audit reports could mislead the pub...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambias-auditor-general-urges-journalists-to-uphold-accuracy-in-reporting-audit-findings/",
+      "publishedAt": "2026-10-14T19:59:39.000Z",
+      "collectedAt": "2026-10-14T23:08:35.957Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eca2401303f8d489",
       "title": "𝐆ID 𝐑𝐞𝐬𝐩𝐨𝐧𝐝𝐬 𝐭𝐨 𝐑𝐞𝐩𝐨𝐫𝐭𝐬 𝐂𝐨𝐧𝐜𝐞𝐫𝐧𝐢𝐧𝐠 𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐃 𝐃𝐚𝐭𝐚",
       "summary": "The Gambia Immigration Department (GID) has taken note of reports circulating on some media platforms alleging that the Department has lost access to the National ID Card data. It is understood that such a report emanated from a court proceeding where a member of staff of GID ...",
@@ -864,30 +912,6 @@
       "status": "published"
     },
     {
-      "id": "2a5cb1abfb461be1",
-      "title": "TEACHERS: BUILDERS OF THE FUTURE",
-      "summary": "This week, thousands of teachers in The Gambia and many more in other parts of the world mark the important role teachers play in the development of society. Every society needs roads, houses, hospitals, food, transport and equipment to perform work. Hospitals need doctors and...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/teachers-builders-of-the-future/",
-      "publishedAt": "2026-10-08T11:14:58.000Z",
-      "collectedAt": "2026-10-08T17:20:37.591Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -896,7 +920,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-14T18:30:31.765Z",
+      "collectedAt": "2026-10-14T23:08:34.651Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -919,7 +943,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
       "publishedAt": "2026-10-06T20:43:40.000Z",
-      "collectedAt": "2026-10-14T18:30:31.895Z",
+      "collectedAt": "2026-10-14T23:08:34.736Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -942,7 +966,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/nyancho-makes-history-as-wulolu-song-reaches-2-million-views/",
       "publishedAt": "2026-10-06T16:04:39.000Z",
-      "collectedAt": "2026-10-14T18:30:31.895Z",
+      "collectedAt": "2026-10-14T23:08:34.736Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -965,7 +989,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-14T18:30:31.765Z",
+      "collectedAt": "2026-10-14T23:08:34.651Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -988,7 +1012,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-14T18:30:31.765Z",
+      "collectedAt": "2026-10-14T23:08:34.651Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -1004,7 +1028,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T18:30:37.257Z",
-    "count": 42
+    "generatedAt": "2026-10-14T23:08:40.071Z",
+    "count": 43
   }
 }

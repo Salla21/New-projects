@@ -353,13 +353,13 @@
     {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
-      "summary": "Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organised by the Permanen...",
+      "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
       "sourceId": "the-fatu-network",
       "sourceName": "The Fatu Network",
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-08T17:20:38.577Z",
+      "collectedAt": "2026-10-14T23:08:34.736Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -374,54 +374,6 @@
       "status": "published"
     },
     {
-      "id": "2a7bdab29d609e67",
-      "title": "ARE WE IN CONTROL OF OUR NATIONAL DATA?",
-      "summary": "The Immigration Department collects information from every citizen who applies for a national identity card, which he or she is required by law to acquire. The government had earlier entered into contract with Semlex and when that contract ended two years ago it was not renewe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/are-we-in-control-of-our-national-data/",
-      "publishedAt": "2026-10-08T11:15:46.000Z",
-      "collectedAt": "2026-10-08T17:20:37.591Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2a5cb1abfb461be1",
-      "title": "TEACHERS: BUILDERS OF THE FUTURE",
-      "summary": "This week, thousands of teachers in The Gambia and many more in other parts of the world mark the important role teachers play in the development of society. Every society needs roads, houses, hospitals, food, transport and equipment to perform work. Hospitals need doctors and...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/teachers-builders-of-the-future/",
-      "publishedAt": "2026-10-08T11:14:58.000Z",
-      "collectedAt": "2026-10-08T17:20:37.591Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "234e2aadcf8f56e2",
       "title": "From Skincare Struggles to Entrepreneurship: The Story Behind Sainabou Gassama’s Organic Soap Brand",
       "summary": "Written by: Dawda Baldeh After years of struggling with acne, dark spots and uneven skin tone, Sainabou Gassama grew tired of searching for skincare products that worked for her. Instead, she decided to make her own, a decision that eventually led to the creation of Nabu’s Org...",
@@ -430,7 +382,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/from-skincare-struggles-to-entrepreneurship-the-story-behind-sainabou-gassamas-organic-soap-brand/",
       "publishedAt": "2026-10-08T10:32:29.000Z",
-      "collectedAt": "2026-10-14T18:30:31.895Z",
+      "collectedAt": "2026-10-14T23:08:34.736Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -444,7 +396,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T18:30:37.257Z",
-    "count": 19
+    "generatedAt": "2026-10-14T23:08:40.071Z",
+    "count": 17
   }
 }
