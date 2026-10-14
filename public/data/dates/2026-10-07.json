@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "97e674465a448c09",
+      "title": "The Moment It Started to Feel Real: Mariame Cisse on Bringing The Mother Who Dreams to the World",
+      "summary": "By Mariame Cisse After confirming that no further corrections were needed for my manuscript, I received the Kindle e-book to check the layout and formatting. This was no longer just a manuscript I had been working on, editing, correcting and talking about for months. It was be...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-moment-it-started-to-feel-real-mariame-cisse-on-bringing-the-mother-who-dreams-to-the-world/",
+      "publishedAt": "2026-10-07T10:44:06.000Z",
+      "collectedAt": "2026-10-14T18:30:31.895Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -9,7 +30,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-14T13:35:24.310Z",
+      "collectedAt": "2026-10-14T18:30:31.765Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -32,7 +53,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-14T13:35:24.310Z",
+      "collectedAt": "2026-10-14T18:30:31.765Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -55,7 +76,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-14T13:35:24.310Z",
+      "collectedAt": "2026-10-14T18:30:31.765Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -69,7 +90,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T13:35:34.108Z",
-    "count": 3
+    "generatedAt": "2026-10-14T18:30:37.257Z",
+    "count": 4
   }
 }

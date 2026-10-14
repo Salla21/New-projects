@@ -496,33 +496,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "05501de1ffd6c469",
-      "title": "COALITION OF PROGRESSIVE GAMBIANS ASKS OPPOSITION TO UNITE OR PERISH",
-      "summary": "The Coalition of Progressive Gambians, a non-partisan citizen organisation, has issued a strong call for opposition unity ahead of the 2026 presidential election, urging political leaders to drop partisan interests and rally under the national flag to rescue the country, or mi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/coalition-of-progressive-gambians-asks-opposition-to-unite-or-perish/",
-      "publishedAt": "2026-10-08T09:54:21.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Omar Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T13:35:34.108Z",
-    "count": 23
+    "generatedAt": "2026-10-14T18:30:37.257Z",
+    "count": 22
   }
 }

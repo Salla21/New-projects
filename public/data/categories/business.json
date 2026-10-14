@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "eca2401303f8d489",
+      "title": "𝐆ID 𝐑𝐞𝐬𝐩𝐨𝐧𝐝𝐬 𝐭𝐨 𝐑𝐞𝐩𝐨𝐫𝐭𝐬 𝐂𝐨𝐧𝐜𝐞𝐫𝐧𝐢𝐧𝐠 𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐃 𝐃𝐚𝐭𝐚",
+      "summary": "The Gambia Immigration Department (GID) has taken note of reports circulating on some media platforms alleging that the Department has lost access to the National ID Card data. It is understood that such a report emanated from a court proceeding where a member of staff of GID ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/%f0%9d%90%86id-%f0%9d%90%91%f0%9d%90%9e%f0%9d%90%ac%f0%9d%90%a9%f0%9d%90%a8%f0%9d%90%a7%f0%9d%90%9d%f0%9d%90%ac-%f0%9d%90%ad%f0%9d%90%a8-%f0%9d%90%91%f0%9d%90%9e%f0%9d%90%a9%f0%9d%90%a8%f0%9d%90%ab/",
+      "publishedAt": "2026-10-14T13:45:27.000Z",
+      "collectedAt": "2026-10-14T18:30:31.304Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2fc428c634f062f1",
+      "title": "Member for Kiang East warns debt repayment is limiting education, health & agriculture",
+      "summary": "By Yankuba Jallow Honourable Yaya Gassama, the National Assembly Member for Kiang East warned that The Gambia’s growing debt burden is limiting government spending on education, healthcare, and agriculture, and called for better debt management and greater support for farmers....",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/member-for-kiang-east-warns-debt-repayment-is-limiting-education-health-agriculture/",
+      "publishedAt": "2026-10-14T13:37:08.000Z",
+      "collectedAt": "2026-10-14T18:30:31.304Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1e119eafb298e989",
       "title": "Member for Upper Saloum calls for forensic audit of state agencies",
       "summary": "By Yankuba Jallow The National Assembly Member for Upper Saloum, Alhaji Mbowe, has called for a forensic audit of government agencies that generate their own revenue while receiving state funding, warning that poor financial controls and unpaid bills are putting pressure on pu...",
@@ -840,77 +888,6 @@
       "status": "published"
     },
     {
-      "id": "c82b3d1d6dab85b2",
-      "title": "Gambia ranked 4th worst country to work in Africa",
-      "summary": "The Gambia has been ranked the 4th worst country to work in Africa and 193rd globally, with workers taking home an average of just $85 — approximately D6,290 — per month after taxes. The damning ranking is contained in the 2026 salary data compiled by LiveGDP.com, which assess...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gambia-ranked-4th-worst-country-to-work-in-africa/",
-      "publishedAt": "2026-10-08T09:53:52.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Omar Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5a4b364341190f61",
-      "title": "Kandeh gets pushback on calls for URR citizens to stand by their own",
-      "summary": "The United Democratic Party (UDP) spokesperson for North Bank Region, Karamo Njie, has taken issues with the leader of the Gambia Democratic Congress (GDC), Mamma Kandeh, who is now allied with the governing NPP, asking him to ‘shut up’  if he does not have anything substantia...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/kandeh-gets-pushback-on-calls-for-urr-citizens-to-stand-by-their-own/",
-      "publishedAt": "2026-10-08T09:53:15.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Amadou Jadama",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8f8279b4f637aa74",
-      "title": "CG Darboe says taxes on tobacco design to save lives",
-      "summary": "GRA Commissioner General Yankuba Darboe has declared that tobacco taxation must be judged not by how much revenue it generates, but by how many lives it saves. Delivering a keynote address at the convergence of the Association of Public & Environmental Health Officers – The Ga...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/cg-darboe-says-taxes-on-tobacco-design-to-save-lives/",
-      "publishedAt": "2026-10-08T09:52:44.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -919,7 +896,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-14T13:35:24.310Z",
+      "collectedAt": "2026-10-14T18:30:31.765Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -927,6 +904,52 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Lamin Saidy",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d45e5e5d4b487780",
+      "title": "Ronaldo Explains Portugal Walkout, Accuses Coach Jesus of Breaking His Word",
+      "summary": "Published by: The Fatu Network Cristiano Ronaldo has broken his silence over his decision to leave Portugal’s national team camp, accusing head coach Jorge Jesus of twice breaking his word while accepting responsibility for walking out on the squad. In a lengthy statement rele...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
+      "publishedAt": "2026-10-06T20:43:40.000Z",
+      "collectedAt": "2026-10-14T18:30:31.895Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "548da6113eaedc47",
+      "title": "Nyancho makes history as ‘Wulolu’ song reaches 2 million views",
+      "summary": "Written by: Dawda Baldeh Gambian singer, songwriter and dancer Dodou Manneh, known by his stage name Nyancho Apachaky, has reached two million views on YouTube with his song “Wolulo” within two months of its release. He is the second Gambian artist reported to have reached the...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/nyancho-makes-history-as-wulolu-song-reaches-2-million-views/",
+      "publishedAt": "2026-10-06T16:04:39.000Z",
+      "collectedAt": "2026-10-14T18:30:31.895Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -942,7 +965,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-14T13:35:24.310Z",
+      "collectedAt": "2026-10-14T18:30:31.765Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -965,7 +988,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-14T13:35:24.310Z",
+      "collectedAt": "2026-10-14T18:30:31.765Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -981,7 +1004,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T13:35:34.108Z",
-    "count": 41
+    "generatedAt": "2026-10-14T18:30:37.257Z",
+    "count": 42
   }
 }

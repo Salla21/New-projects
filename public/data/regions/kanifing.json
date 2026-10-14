@@ -115,33 +115,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7a52c818a1d57254",
-      "title": "Man wins case to retain voter’s card at revising court",
-      "summary": "By Fatou Gassama Magistrate I Jallow of Kanifing has ordered that the name of one Adama Bah be retained on the register of voters after dismissing a claim objecting his possession of a voter card. The objection was filed against him by one Ebrima Ndow who claimed that Bah is n...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/man-wins-case-to-retain-voters-card-at-revising-court/",
-      "publishedAt": "2026-10-08T09:52:11.000Z",
-      "collectedAt": "2026-10-08T17:20:19.518Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T13:35:34.108Z",
-    "count": 6
+    "generatedAt": "2026-10-14T18:30:37.257Z",
+    "count": 5
   }
 }
