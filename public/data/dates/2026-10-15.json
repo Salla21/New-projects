@@ -1,6 +1,120 @@
 {
   "items": [
     {
+      "id": "12623805d6dafd73",
+      "title": "GPU Brings Journalists & Police Together Ahead of December Presidential Election",
+      "summary": "By Nelson Manneh The Gambia Press Union (GPU) has brought journalists and police officers together to discuss media safety, professional conduct and cooperation ahead of the country’s presidential election scheduled for 5 December 2026. The dialogue, held on Wednesday, 14 Octo...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gpu-brings-journalists-police-together-ahead-of-december-presidential-election/",
+      "publishedAt": "2026-10-15T13:05:00.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1369c26206b80ae2",
+      "title": "MoBSE Rolls Out Foundational Literacy Training in Seven National Languages",
+      "summary": "By Ndey Sowe The Ministry of Basic and Secondary Education (MoBSE) has commenced a six-day National Training of Trainers (ToT) on Foundational Literacy to prepare for the nationwide rollout of the Foundational Literacy and Numeracy (FLN) Programme in seven national languages. ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/mobse-rolls-out-foundational-literacy-training-in-seven-national-languages/",
+      "publishedAt": "2026-10-15T12:59:44.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7fa3eebddb932f0f",
+      "title": "25 Media Practitioners Trained to Tackle Disinformation Ahead of Elections",
+      "summary": "By Lamin Fatty Twenty-five journalists, bloggers and public communicators are receiving training in fact-checking and digital verification as concerns grow over the spread of false information ahead of The Gambia’s presidential election on 5 December 2026. The two-day workshop...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/25-media-practitioners-trained-to-tackle-disinformation-ahead-of-elections/",
+      "publishedAt": "2026-10-15T12:54:49.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e99e9f927587e2a3",
+      "title": "Government & UNFPA Step Up Efforts to Reduce Maternal Deaths",
+      "summary": "By Kebba A.F. Touray The Gambia has stepped up efforts to reduce preventable maternal deaths, with the government, the United Nations Population Fund (UNFPA) and other partners calling for stronger investment, improved healthcare services and greater accountability. The renewe...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-unfpa-step-up-efforts-to-reduce-maternal-deaths/",
+      "publishedAt": "2026-10-15T12:47:26.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "58cd67c836165001",
+      "title": "Auditor General Urges Accurate Reporting of Public Audit Findings",
+      "summary": "By Kebba A.F. Touray The Auditor General of The Gambia, Cherno Amadou Sowe, has urged journalists to report public audit findings accurately and fairly, warning that misinterpreting audit reports can create public misconceptions and divert attention from weaknesses in public r...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/auditor-general-urges-accurate-reporting-of-public-audit-findings/",
+      "publishedAt": "2026-10-15T11:39:33.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "443663f9cb095f31",
       "title": "Quantifying Educational Expenditure Disparities in The Gambia: A Heavy- Tailed Extreme Value Approach",
       "summary": "By Dr. Ebrima Sisawo Ministry of Lands, Regional Government & Religious Affairs, The GambiaOctober 2026 Abstract — Standard metrics of economic inequality, such as sample means, medians, or classical non-parametric Gini indices, fail when applied to heavy-tailed distributions ...",
@@ -69,7 +183,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T11:16:52.056Z",
-    "count": 3
+    "generatedAt": "2026-10-15T16:46:52.353Z",
+    "count": 8
   }
 }

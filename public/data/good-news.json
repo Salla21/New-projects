@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "e99e9f927587e2a3",
+      "title": "Government & UNFPA Step Up Efforts to Reduce Maternal Deaths",
+      "summary": "By Kebba A.F. Touray The Gambia has stepped up efforts to reduce preventable maternal deaths, with the government, the United Nations Population Fund (UNFPA) and other partners calling for stronger investment, improved healthcare services and greater accountability. The renewe...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-unfpa-step-up-efforts-to-reduce-maternal-deaths/",
+      "publishedAt": "2026-10-15T12:47:26.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6025b86220efd48c",
       "title": "Public Warning Against Unauthorised Land Sales Within The Tourism Development Area",
       "summary": "The Gambia Tourism Board (GTBoard) wishes to warn the general public, prospective investors and developers against the purchase or acquisition of land within the Tourism Development Area (TDA) through unauthorized persons, including Alkalos and Village Development Committees. ...",
@@ -451,30 +474,6 @@
       "status": "published"
     },
     {
-      "id": "11acda32491f0ebb",
-      "title": "Essa Faal Hails Economic Gains Under Barrow, Optimistic About NPP Victory",
-      "summary": "By Makutu Manneh Essa Mbye Faal, leader of APP-Sobeyaa, has praised what he described as significant economic progress under President Adama Barrow, expressing cautious optimism that the National People’s Party (NPP) alliance will win the December presidential election. Speaki...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/essa-faal-hails-economic-gains-under-barrow-optimistic-about-npp-victory/",
-      "publishedAt": "2026-10-08T19:06:18.000Z",
-      "collectedAt": "2026-10-08T23:14:38.767Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
@@ -483,7 +482,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-15T11:16:45.208Z",
+      "collectedAt": "2026-10-15T16:46:43.721Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -499,7 +498,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T11:16:52.056Z",
+    "generatedAt": "2026-10-15T16:46:52.353Z",
     "count": 22
   }
 }

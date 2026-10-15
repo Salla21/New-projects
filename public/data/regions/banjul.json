@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "12623805d6dafd73",
+      "title": "GPU Brings Journalists & Police Together Ahead of December Presidential Election",
+      "summary": "By Nelson Manneh The Gambia Press Union (GPU) has brought journalists and police officers together to discuss media safety, professional conduct and cooperation ahead of the country’s presidential election scheduled for 5 December 2026. The dialogue, held on Wednesday, 14 Octo...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gpu-brings-journalists-police-together-ahead-of-december-presidential-election/",
+      "publishedAt": "2026-10-15T13:05:00.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1369c26206b80ae2",
+      "title": "MoBSE Rolls Out Foundational Literacy Training in Seven National Languages",
+      "summary": "By Ndey Sowe The Ministry of Basic and Secondary Education (MoBSE) has commenced a six-day National Training of Trainers (ToT) on Foundational Literacy to prepare for the nationwide rollout of the Foundational Literacy and Numeracy (FLN) Programme in seven national languages. ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/mobse-rolls-out-foundational-literacy-training-in-seven-national-languages/",
+      "publishedAt": "2026-10-15T12:59:44.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e99e9f927587e2a3",
+      "title": "Government & UNFPA Step Up Efforts to Reduce Maternal Deaths",
+      "summary": "By Kebba A.F. Touray The Gambia has stepped up efforts to reduce preventable maternal deaths, with the government, the United Nations Population Fund (UNFPA) and other partners calling for stronger investment, improved healthcare services and greater accountability. The renewe...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-unfpa-step-up-efforts-to-reduce-maternal-deaths/",
+      "publishedAt": "2026-10-15T12:47:26.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "58cd67c836165001",
+      "title": "Auditor General Urges Accurate Reporting of Public Audit Findings",
+      "summary": "By Kebba A.F. Touray The Auditor General of The Gambia, Cherno Amadou Sowe, has urged journalists to report public audit findings accurately and fairly, warning that misinterpreting audit reports can create public misconceptions and divert attention from weaknesses in public r...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/auditor-general-urges-accurate-reporting-of-public-audit-findings/",
+      "publishedAt": "2026-10-15T11:39:33.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "443663f9cb095f31",
       "title": "Quantifying Educational Expenditure Disparities in The Gambia: A Heavy- Tailed Extreme Value Approach",
       "summary": "By Dr. Ebrima Sisawo Ministry of Lands, Regional Government & Religious Affairs, The GambiaOctober 2026 Abstract — Standard metrics of economic inequality, such as sample means, medians, or classical non-parametric Gini indices, fail when applied to heavy-tailed distributions ...",
@@ -2021,53 +2111,6 @@
       "status": "published"
     },
     {
-      "id": "11acda32491f0ebb",
-      "title": "Essa Faal Hails Economic Gains Under Barrow, Optimistic About NPP Victory",
-      "summary": "By Makutu Manneh Essa Mbye Faal, leader of APP-Sobeyaa, has praised what he described as significant economic progress under President Adama Barrow, expressing cautious optimism that the National People’s Party (NPP) alliance will win the December presidential election. Speaki...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/essa-faal-hails-economic-gains-under-barrow-optimistic-about-npp-victory/",
-      "publishedAt": "2026-10-08T19:06:18.000Z",
-      "collectedAt": "2026-10-08T23:14:38.767Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "851ffbc5f9274a16",
-      "title": "Wuli West Lawmaker Urges Voters to Reject Candidates Unfamiliar With Their Language and Culture",
-      "summary": "By Makutu Manneh Nfamara Sabally, the National Assembly Member for Wuli West, has urged voters in Wuli to reject political candidates who cannot speak their language or understand their cultural traditions, arguing that such leaders would be unable to serve their interests eff...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/wuli-west-lawmaker-urges-voters-to-reject-candidates-unfamiliar-with-their-language-and-culture/",
-      "publishedAt": "2026-10-08T18:57:13.000Z",
-      "collectedAt": "2026-10-08T23:14:38.767Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "234e2aadcf8f56e2",
       "title": "From Skincare Struggles to Entrepreneurship: The Story Behind Sainabou Gassama’s Organic Soap Brand",
       "summary": "Written by: Dawda Baldeh After years of struggling with acne, dark spots and uneven skin tone, Sainabou Gassama grew tired of searching for skincare products that worked for her. Instead, she decided to make her own, a decision that eventually led to the creation of Nabu’s Org...",
@@ -2076,7 +2119,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/from-skincare-struggles-to-entrepreneurship-the-story-behind-sainabou-gassamas-organic-soap-brand/",
       "publishedAt": "2026-10-08T10:32:29.000Z",
-      "collectedAt": "2026-10-15T11:16:45.208Z",
+      "collectedAt": "2026-10-15T16:46:43.721Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2097,7 +2140,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/the-moment-it-started-to-feel-real-mariame-cisse-on-bringing-the-mother-who-dreams-to-the-world/",
       "publishedAt": "2026-10-07T10:44:06.000Z",
-      "collectedAt": "2026-10-15T11:16:45.208Z",
+      "collectedAt": "2026-10-15T16:46:43.721Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2118,7 +2161,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2141,7 +2184,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2164,7 +2207,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2185,7 +2228,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
       "publishedAt": "2026-10-06T20:43:40.000Z",
-      "collectedAt": "2026-10-15T11:16:45.208Z",
+      "collectedAt": "2026-10-15T16:46:43.721Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2208,7 +2251,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ecowas-court-adopts-settlement-in-mahawa-cham-killing-case/",
       "publishedAt": "2026-10-06T16:24:52.000Z",
-      "collectedAt": "2026-10-15T11:16:45.208Z",
+      "collectedAt": "2026-10-15T16:46:43.721Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2231,7 +2274,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/nyancho-makes-history-as-wulolu-song-reaches-2-million-views/",
       "publishedAt": "2026-10-06T16:04:39.000Z",
-      "collectedAt": "2026-10-15T11:16:45.208Z",
+      "collectedAt": "2026-10-15T16:46:43.721Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2254,7 +2297,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/u-s-ambassador-laurence-socha-arrives-in-the-gambia/",
       "publishedAt": "2026-10-06T13:52:20.000Z",
-      "collectedAt": "2026-10-15T11:16:45.208Z",
+      "collectedAt": "2026-10-15T16:46:43.721Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2275,7 +2318,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/21mw-power-boost-lands-as-gambia-moves-to-ease-electricity-crisis/",
       "publishedAt": "2026-10-06T11:52:46.000Z",
-      "collectedAt": "2026-10-15T11:16:45.208Z",
+      "collectedAt": "2026-10-15T16:46:43.721Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2298,7 +2341,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2321,7 +2364,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2342,7 +2385,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2363,7 +2406,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/eye-africa-tv-under-fire-after-big-faa-walkout-sparks-fan-outrage/",
       "publishedAt": "2026-09-30T04:04:41.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2384,7 +2427,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/wuli-spiritual-healer-sentenced-to-10-years-for-rping-female-client/",
       "publishedAt": "2026-09-30T04:03:20.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2398,7 +2441,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T11:16:52.056Z",
-    "count": 104
+    "generatedAt": "2026-10-15T16:46:52.353Z",
+    "count": 106
   }
 }

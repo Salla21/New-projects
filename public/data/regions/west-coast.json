@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7fa3eebddb932f0f",
+      "title": "25 Media Practitioners Trained to Tackle Disinformation Ahead of Elections",
+      "summary": "By Lamin Fatty Twenty-five journalists, bloggers and public communicators are receiving training in fact-checking and digital verification as concerns grow over the spread of false information ahead of The Gambia’s presidential election on 5 December 2026. The two-day workshop...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/25-media-practitioners-trained-to-tackle-disinformation-ahead-of-elections/",
+      "publishedAt": "2026-10-15T12:54:49.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f6e76c78c9f7e467",
       "title": "Darboe Tells Mansaring Suu Women They Hold the Key to Healing Gambia’s Wounds",
       "summary": "By Seedy Jobe ANM Ousainu Darboe, leader of the United Democratic Party (UDP), has urged women in Mansaring Suu, Brikama, to take a leading role in bringing political change to The Gambia, saying they hold the power to address what he described as the country’s deepening econo...",
@@ -171,7 +195,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-15T11:16:45.208Z",
+      "collectedAt": "2026-10-15T16:46:43.721Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -194,7 +218,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -215,7 +239,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-15T11:16:45.050Z",
+      "collectedAt": "2026-10-15T16:46:43.490Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -231,7 +255,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T11:16:52.056Z",
-    "count": 10
+    "generatedAt": "2026-10-15T16:46:52.353Z",
+    "count": 11
   }
 }

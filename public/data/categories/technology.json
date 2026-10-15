@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7fa3eebddb932f0f",
+      "title": "25 Media Practitioners Trained to Tackle Disinformation Ahead of Elections",
+      "summary": "By Lamin Fatty Twenty-five journalists, bloggers and public communicators are receiving training in fact-checking and digital verification as concerns grow over the spread of false information ahead of The Gambia’s presidential election on 5 December 2026. The two-day workshop...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/25-media-practitioners-trained-to-tackle-disinformation-ahead-of-elections/",
+      "publishedAt": "2026-10-15T12:54:49.000Z",
+      "collectedAt": "2026-10-15T16:46:43.206Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "69bb3c1fdb23a0e5",
       "title": "IS KUSH AND THE BACKWAY SYNDROME UNSTOPPABLE?",
       "summary": "The youth population of the Gambia are now confronted with two killers that should be tackled because of the number of people who are losing their lives. The number of young people who are becoming mentally ill is increasing at an alarming rate. Many of them have become addict...",
@@ -218,34 +242,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "11acda32491f0ebb",
-      "title": "Essa Faal Hails Economic Gains Under Barrow, Optimistic About NPP Victory",
-      "summary": "By Makutu Manneh Essa Mbye Faal, leader of APP-Sobeyaa, has praised what he described as significant economic progress under President Adama Barrow, expressing cautious optimism that the National People’s Party (NPP) alliance will win the December presidential election. Speaki...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/essa-faal-hails-economic-gains-under-barrow-optimistic-about-npp-victory/",
-      "publishedAt": "2026-10-08T19:06:18.000Z",
-      "collectedAt": "2026-10-08T23:14:38.767Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T11:16:52.056Z",
+    "generatedAt": "2026-10-15T16:46:52.353Z",
     "count": 10
   }
 }
