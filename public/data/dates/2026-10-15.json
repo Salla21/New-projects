@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "18a6e62201191f50",
+      "title": "Darboe Says Opposition Unity Still Possible Before December Election, Dismisses Age Concerns",
+      "summary": "By Fatou Sillah ANM Ousainu Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has expressed optimism that opposition alliances could unite ahead of December’s presidential election, arguing that differences over leade...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-opposition-unity-still-possible-before-december-election-dismisses-age-concerns/",
+      "publishedAt": "2026-10-15T21:10:26.000Z",
+      "collectedAt": "2026-10-15T21:17:25.128Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1c27f9db10997252",
+      "title": "Darboe Vows to Scrap Presidential Adviser Posts, Cut Government Spending if Elected",
+      "summary": "By Fatou Sillah Ousainou Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has pledged to abolish political adviser positions and eliminate what he described as wasteful government spending if his coalition wins the D...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-vows-to-scrap-presidential-adviser-posts-cut-government-spending-if-elected/",
+      "publishedAt": "2026-10-15T20:57:04.000Z",
+      "collectedAt": "2026-10-15T21:17:25.128Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e807451a6ef0ef9d",
+      "title": "Lamin J.K. Sanneh Criticizes Hospital Conditions, Outlines UDP’s Healthcare Reform Plans",
+      "summary": "By Seedy Jobe Lamin J.K. Sanneh, the United Democratic Party’s (UDP) Deputy Administrative Secretary for Social Affairs and Fundraising, has criticized the state of Gambia’s healthcare system, accusing the government of prioritizing hospital construction over the delivery of e...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-j-k-sanneh-criticizes-hospital-conditions-outlines-udps-healthcare-reform-plans/",
+      "publishedAt": "2026-10-15T18:10:45.000Z",
+      "collectedAt": "2026-10-15T21:17:25.128Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6f759991798dbadf",
+      "title": "GPU President Calls for Greater Protection of Journalists Ahead of December Election",
+      "summary": "By Seedy Jobe The president of the Gambia Press Union (GPU), Isatou Keita, has called for stronger safeguards and greater accountability for attacks against journalists as the country prepares for the December 5 presidential election, warning that intimidation and harassment o...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gpu-president-calls-for-greater-protection-of-journalists-ahead-of-december-election/",
+      "publishedAt": "2026-10-15T17:56:22.000Z",
+      "collectedAt": "2026-10-15T21:17:25.128Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "12623805d6dafd73",
       "title": "GPU Brings Journalists & Police Together Ahead of December Presidential Election",
       "summary": "By Nelson Manneh The Gambia Press Union (GPU) has brought journalists and police officers together to discuss media safety, professional conduct and cooperation ahead of the country’s presidential election scheduled for 5 December 2026. The dialogue, held on Wednesday, 14 Octo...",
@@ -183,7 +277,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T16:46:52.353Z",
-    "count": 8
+    "generatedAt": "2026-10-15T21:17:29.276Z",
+    "count": 12
   }
 }

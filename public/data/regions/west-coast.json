@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "e807451a6ef0ef9d",
+      "title": "Lamin J.K. Sanneh Criticizes Hospital Conditions, Outlines UDP’s Healthcare Reform Plans",
+      "summary": "By Seedy Jobe Lamin J.K. Sanneh, the United Democratic Party’s (UDP) Deputy Administrative Secretary for Social Affairs and Fundraising, has criticized the state of Gambia’s healthcare system, accusing the government of prioritizing hospital construction over the delivery of e...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-j-k-sanneh-criticizes-hospital-conditions-outlines-udps-healthcare-reform-plans/",
+      "publishedAt": "2026-10-15T18:10:45.000Z",
+      "collectedAt": "2026-10-15T21:17:25.128Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7fa3eebddb932f0f",
       "title": "25 Media Practitioners Trained to Tackle Disinformation Ahead of Elections",
       "summary": "By Lamin Fatty Twenty-five journalists, bloggers and public communicators are receiving training in fact-checking and digital verification as concerns grow over the spread of false information ahead of The Gambia’s presidential election on 5 December 2026. The two-day workshop...",
@@ -195,7 +218,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-15T16:46:43.721Z",
+      "collectedAt": "2026-10-15T21:17:21.647Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -218,7 +241,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-15T16:46:43.490Z",
+      "collectedAt": "2026-10-15T21:17:21.458Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -239,7 +262,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-15T16:46:43.490Z",
+      "collectedAt": "2026-10-15T21:17:21.458Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -255,7 +278,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T16:46:52.353Z",
-    "count": 11
+    "generatedAt": "2026-10-15T21:17:29.276Z",
+    "count": 12
   }
 }
