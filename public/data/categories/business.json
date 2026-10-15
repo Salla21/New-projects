@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "02b60a333e1fc5c0",
+      "title": "Lawmakers Slash IEC’s 2027 Budget by D61.9 Million Ahead of Crucial Elections",
+      "summary": "By Fatou Sillah The National Assembly has approved a D61.9 million reduction in the Independent Electoral Commission’s (IEC) proposed D669.7 million budget for 2027, trimming funds earmarked for fuel, election materials, training, allowances and travel ahead of next year’s par...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lawmakers-slash-iecs-2027-budget-by-d61-9-million-ahead-of-crucial-elections/",
+      "publishedAt": "2026-10-14T23:26:36.000Z",
+      "collectedAt": "2026-10-15T04:15:58.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "22cf5ca62c4e4e62",
       "title": "Juwara Blasts Weak National Assembly Over Failure to Check Barrow’s Excessive Tour Spending",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has accused the National Assembly of failing to exercise its oversight responsibilities, arguing that its reluctance to challenge President Adama Barrow over repeated budget overruns on his annual Meet-the-People Tour has fostere...",
@@ -839,79 +863,6 @@
       "status": "published"
     },
     {
-      "id": "f3c7c3e2b82133bb",
-      "title": "Darboe Urges Supporters to Turn Rally Enthusiasm Into Votes After Rain Disrupts Fajikunda Gathering",
-      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party (UDP), has urged supporters to translate their enthusiasm into votes in the December 5 presidential election, declaring that his party offers the solution to The Gambia’s challenges. Mr. Darboe made the remark...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-urges-supporters-to-turn-rally-enthusiasm-into-votes-after-rain-disrupts-fajikunda-gathering/",
-      "publishedAt": "2026-10-08T15:18:10.000Z",
-      "collectedAt": "2026-10-08T17:20:40.020Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "439c38b41e2a4c15",
-      "title": "Magistrate grants Pap Jeng D200,000 bail in alleged property damage case",
-      "summary": "By Mariama Marong Pap Jeng has been granted bail of two hundred thousand dalasi (D200,000) by Principal Magistrate Mam Samba Jallow of the Brusubi Magistrate’s Court after pleading not guilty to a charge of malicious injury to property. Jeng, who is not a Gambian national, app...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/magistrate-grants-pap-jeng-d200000-bail-in-alleged-property-damage-case/",
-      "publishedAt": "2026-10-08T11:51:26.000Z",
-      "collectedAt": "2026-10-08T17:20:37.591Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b2256aa2af053b09",
-      "title": "GRA chief calls for higher tobacco taxes to curb smoking & disease",
-      "summary": "By Ndey Sowe The Gambia Revenue Authority (GRA) has called for closer cooperation between tax and health authorities to use tobacco taxation as a tool to reduce smoking and prevent non-communicable diseases. Yankuba Darboe, Commissioner General of the GRA, said tobacco taxes s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gra-chief-calls-for-higher-tobacco-taxes-to-curb-smoking-disease/",
-      "publishedAt": "2026-10-08T11:50:51.000Z",
-      "collectedAt": "2026-10-08T17:20:37.591Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -920,7 +871,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-14T23:08:34.651Z",
+      "collectedAt": "2026-10-15T04:15:56.508Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -943,7 +894,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
       "publishedAt": "2026-10-06T20:43:40.000Z",
-      "collectedAt": "2026-10-14T23:08:34.736Z",
+      "collectedAt": "2026-10-15T04:15:56.738Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -966,7 +917,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/nyancho-makes-history-as-wulolu-song-reaches-2-million-views/",
       "publishedAt": "2026-10-06T16:04:39.000Z",
-      "collectedAt": "2026-10-14T23:08:34.736Z",
+      "collectedAt": "2026-10-15T04:15:56.738Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -989,7 +940,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-14T23:08:34.651Z",
+      "collectedAt": "2026-10-15T04:15:56.508Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1012,7 +963,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-14T23:08:34.651Z",
+      "collectedAt": "2026-10-15T04:15:56.508Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -1028,7 +979,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T23:08:40.071Z",
-    "count": 43
+    "generatedAt": "2026-10-15T04:16:02.683Z",
+    "count": 41
   }
 }

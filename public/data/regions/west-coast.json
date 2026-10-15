@@ -163,27 +163,6 @@
       "status": "published"
     },
     {
-      "id": "1d48506b17745d21",
-      "title": "Tanji Man Arraigned for Allegedly Assaulting Man With Intent to Steal",
-      "summary": "By Mariama Marong A man identified as Kebba Dumbuya has been granted bail of D150,000 with two Gambian sureties after denying a charge of assault with intent to steal before Principal Magistrate Mam Samba Jallow. Dumbuya appeared before the court following allegations arising ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/tanji-man-arraigned-for-allegedly-assaulting-man-with-intent-to-steal/",
-      "publishedAt": "2026-10-08T11:26:03.000Z",
-      "collectedAt": "2026-10-08T17:20:37.591Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
@@ -192,7 +171,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-14T23:08:34.736Z",
+      "collectedAt": "2026-10-15T04:15:56.738Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -215,7 +194,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-14T23:08:34.651Z",
+      "collectedAt": "2026-10-15T04:15:56.508Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -236,7 +215,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-14T23:08:34.651Z",
+      "collectedAt": "2026-10-15T04:15:56.508Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -252,7 +231,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T23:08:40.071Z",
-    "count": 11
+    "generatedAt": "2026-10-15T04:16:02.683Z",
+    "count": 10
   }
 }

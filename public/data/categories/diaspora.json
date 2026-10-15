@@ -556,55 +556,6 @@
       "status": "published"
     },
     {
-      "id": "f3c7c3e2b82133bb",
-      "title": "Darboe Urges Supporters to Turn Rally Enthusiasm Into Votes After Rain Disrupts Fajikunda Gathering",
-      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party (UDP), has urged supporters to translate their enthusiasm into votes in the December 5 presidential election, declaring that his party offers the solution to The Gambia’s challenges. Mr. Darboe made the remark...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-urges-supporters-to-turn-rally-enthusiasm-into-votes-after-rain-disrupts-fajikunda-gathering/",
-      "publishedAt": "2026-10-08T15:18:10.000Z",
-      "collectedAt": "2026-10-08T17:20:40.020Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "439c38b41e2a4c15",
-      "title": "Magistrate grants Pap Jeng D200,000 bail in alleged property damage case",
-      "summary": "By Mariama Marong Pap Jeng has been granted bail of two hundred thousand dalasi (D200,000) by Principal Magistrate Mam Samba Jallow of the Brusubi Magistrate’s Court after pleading not guilty to a charge of malicious injury to property. Jeng, who is not a Gambian national, app...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/magistrate-grants-pap-jeng-d200000-bail-in-alleged-property-damage-case/",
-      "publishedAt": "2026-10-08T11:51:26.000Z",
-      "collectedAt": "2026-10-08T17:20:37.591Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
@@ -613,7 +564,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-14T23:08:34.736Z",
+      "collectedAt": "2026-10-15T04:15:56.738Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -629,7 +580,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T23:08:40.071Z",
-    "count": 26
+    "generatedAt": "2026-10-15T04:16:02.683Z",
+    "count": 24
   }
 }

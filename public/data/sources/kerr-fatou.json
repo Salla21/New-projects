@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "02b60a333e1fc5c0",
+      "title": "Lawmakers Slash IEC’s 2027 Budget by D61.9 Million Ahead of Crucial Elections",
+      "summary": "By Fatou Sillah The National Assembly has approved a D61.9 million reduction in the Independent Electoral Commission’s (IEC) proposed D669.7 million budget for 2027, trimming funds earmarked for fuel, election materials, training, allowances and travel ahead of next year’s par...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lawmakers-slash-iecs-2027-budget-by-d61-9-million-ahead-of-crucial-elections/",
+      "publishedAt": "2026-10-14T23:26:36.000Z",
+      "collectedAt": "2026-10-15T04:15:58.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "22cf5ca62c4e4e62",
       "title": "Juwara Blasts Weak National Assembly Over Failure to Check Barrow’s Excessive Tour Spending",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has accused the National Assembly of failing to exercise its oversight responsibilities, arguing that its reluctance to challenge President Adama Barrow over repeated budget overruns on his annual Meet-the-People Tour has fostere...",
@@ -1263,35 +1287,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f3c7c3e2b82133bb",
-      "title": "Darboe Urges Supporters to Turn Rally Enthusiasm Into Votes After Rain Disrupts Fajikunda Gathering",
-      "summary": "By Seedy Jobe Ousainu Darboe, leader of the United Democratic Party (UDP), has urged supporters to translate their enthusiasm into votes in the December 5 presidential election, declaring that his party offers the solution to The Gambia’s challenges. Mr. Darboe made the remark...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-urges-supporters-to-turn-rally-enthusiasm-into-votes-after-rain-disrupts-fajikunda-gathering/",
-      "publishedAt": "2026-10-08T15:18:10.000Z",
-      "collectedAt": "2026-10-08T17:20:40.020Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-14T23:08:40.071Z",
+    "generatedAt": "2026-10-15T04:16:02.683Z",
     "count": 55
   }
 }
