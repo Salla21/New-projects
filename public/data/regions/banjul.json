@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "443663f9cb095f31",
+      "title": "Quantifying Educational Expenditure Disparities in The Gambia: A Heavy- Tailed Extreme Value Approach",
+      "summary": "By Dr. Ebrima Sisawo Ministry of Lands, Regional Government & Religious Affairs, The GambiaOctober 2026 Abstract — Standard metrics of economic inequality, such as sample means, medians, or classical non-parametric Gini indices, fail when applied to heavy-tailed distributions ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/quantifying-educational-expenditure-disparities-in-the-gambia-a-heavy-tailed-extreme-value-approach/",
+      "publishedAt": "2026-10-15T11:14:36.000Z",
+      "collectedAt": "2026-10-15T11:16:47.990Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "69bb3c1fdb23a0e5",
+      "title": "IS KUSH AND THE BACKWAY SYNDROME UNSTOPPABLE?",
+      "summary": "The youth population of the Gambia are now confronted with two killers that should be tackled because of the number of people who are losing their lives. The number of young people who are becoming mentally ill is increasing at an alarming rate. Many of them have become addict...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-kush-and-the-backway-syndrome-unstoppable/",
+      "publishedAt": "2026-10-15T11:06:56.000Z",
+      "collectedAt": "2026-10-15T11:16:44.806Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c3534f7dbf511b1f",
+      "title": "GAMBIAN WORKERS SHOULD BE UNIONIZED",
+      "summary": "Grievances are being expressed by many workers of state-owned enterprises. However, many workers are not registered with trade unions. So, it is significant for the trade union movement to get focal points in all establishments so that the rights of workers will be known to th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambian-workers-should-be-unionized/",
+      "publishedAt": "2026-10-15T11:05:21.000Z",
+      "collectedAt": "2026-10-15T11:16:44.806Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "02b60a333e1fc5c0",
       "title": "Lawmakers Slash IEC’s 2027 Budget by D61.9 Million Ahead of Crucial Elections",
       "summary": "By Fatou Sillah The National Assembly has approved a D61.9 million reduction in the Independent Electoral Commission’s (IEC) proposed D669.7 million budget for 2027, trimming funds earmarked for fuel, election materials, training, allowances and travel ahead of next year’s par...",
@@ -2001,27 +2068,6 @@
       "status": "published"
     },
     {
-      "id": "c8a38d0960dce130",
-      "title": "Court of Appeal Overturns Taxi Driver’s Acquittal in Rape and Robbery Case",
-      "summary": "The Gambia’s Court of Appeal has overturned the acquittal of taxi driver Ismaila Ndong on charges of rape, robbery, and indecent assault, ruling that the trial judge erred in dismissing the prosecution’s case without requiring the accused to present a defence. In a judgment de...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/court-of-appeal-overturns-taxi-drivers-acquittal-in-rape-and-robbery-case/",
-      "publishedAt": "2026-10-08T16:34:02.000Z",
-      "collectedAt": "2026-10-08T17:20:40.020Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "234e2aadcf8f56e2",
       "title": "From Skincare Struggles to Entrepreneurship: The Story Behind Sainabou Gassama’s Organic Soap Brand",
       "summary": "Written by: Dawda Baldeh After years of struggling with acne, dark spots and uneven skin tone, Sainabou Gassama grew tired of searching for skincare products that worked for her. Instead, she decided to make her own, a decision that eventually led to the creation of Nabu’s Org...",
@@ -2030,7 +2076,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/from-skincare-struggles-to-entrepreneurship-the-story-behind-sainabou-gassamas-organic-soap-brand/",
       "publishedAt": "2026-10-08T10:32:29.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2051,7 +2097,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/the-moment-it-started-to-feel-real-mariame-cisse-on-bringing-the-mother-who-dreams-to-the-world/",
       "publishedAt": "2026-10-07T10:44:06.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2072,7 +2118,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2095,7 +2141,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2118,7 +2164,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2139,7 +2185,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
       "publishedAt": "2026-10-06T20:43:40.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2162,7 +2208,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ecowas-court-adopts-settlement-in-mahawa-cham-killing-case/",
       "publishedAt": "2026-10-06T16:24:52.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2185,7 +2231,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/nyancho-makes-history-as-wulolu-song-reaches-2-million-views/",
       "publishedAt": "2026-10-06T16:04:39.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2208,7 +2254,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/u-s-ambassador-laurence-socha-arrives-in-the-gambia/",
       "publishedAt": "2026-10-06T13:52:20.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2229,7 +2275,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/21mw-power-boost-lands-as-gambia-moves-to-ease-electricity-crisis/",
       "publishedAt": "2026-10-06T11:52:46.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2252,7 +2298,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2275,7 +2321,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2296,7 +2342,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2317,7 +2363,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/eye-africa-tv-under-fire-after-big-faa-walkout-sparks-fan-outrage/",
       "publishedAt": "2026-09-30T04:04:41.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2338,7 +2384,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/wuli-spiritual-healer-sentenced-to-10-years-for-rping-female-client/",
       "publishedAt": "2026-09-30T04:03:20.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2352,7 +2398,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T04:16:02.683Z",
-    "count": 102
+    "generatedAt": "2026-10-15T11:16:52.056Z",
+    "count": 104
   }
 }

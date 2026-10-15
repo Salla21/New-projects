@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "69bb3c1fdb23a0e5",
+      "title": "IS KUSH AND THE BACKWAY SYNDROME UNSTOPPABLE?",
+      "summary": "The youth population of the Gambia are now confronted with two killers that should be tackled because of the number of people who are losing their lives. The number of young people who are becoming mentally ill is increasing at an alarming rate. Many of them have become addict...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-kush-and-the-backway-syndrome-unstoppable/",
+      "publishedAt": "2026-10-15T11:06:56.000Z",
+      "collectedAt": "2026-10-15T11:16:44.806Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c3534f7dbf511b1f",
+      "title": "GAMBIAN WORKERS SHOULD BE UNIONIZED",
+      "summary": "Grievances are being expressed by many workers of state-owned enterprises. However, many workers are not registered with trade unions. So, it is significant for the trade union movement to get focal points in all establishments so that the rights of workers will be known to th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambian-workers-should-be-unionized/",
+      "publishedAt": "2026-10-15T11:05:21.000Z",
+      "collectedAt": "2026-10-15T11:16:44.806Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eca2401303f8d489",
       "title": "𝐆ID 𝐑𝐞𝐬𝐩𝐨𝐧𝐝𝐬 𝐭𝐨 𝐑𝐞𝐩𝐨𝐫𝐭𝐬 𝐂𝐨𝐧𝐜𝐞𝐫𝐧𝐢𝐧𝐠 𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐃 𝐃𝐚𝐭𝐚",
       "summary": "The Gambia Immigration Department (GID) has taken note of reports circulating on some media platforms alleging that the Department has lost access to the National ID Card data. It is understood that such a report emanated from a court proceeding where a member of staff of GID ...",
@@ -786,7 +832,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T04:16:02.683Z",
-    "count": 34
+    "generatedAt": "2026-10-15T11:16:52.056Z",
+    "count": 36
   }
 }

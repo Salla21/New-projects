@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "443663f9cb095f31",
+      "title": "Quantifying Educational Expenditure Disparities in The Gambia: A Heavy- Tailed Extreme Value Approach",
+      "summary": "By Dr. Ebrima Sisawo Ministry of Lands, Regional Government & Religious Affairs, The GambiaOctober 2026 Abstract — Standard metrics of economic inequality, such as sample means, medians, or classical non-parametric Gini indices, fail when applied to heavy-tailed distributions ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/quantifying-educational-expenditure-disparities-in-the-gambia-a-heavy-tailed-extreme-value-approach/",
+      "publishedAt": "2026-10-15T11:14:36.000Z",
+      "collectedAt": "2026-10-15T11:16:47.990Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "69bb3c1fdb23a0e5",
+      "title": "IS KUSH AND THE BACKWAY SYNDROME UNSTOPPABLE?",
+      "summary": "The youth population of the Gambia are now confronted with two killers that should be tackled because of the number of people who are losing their lives. The number of young people who are becoming mentally ill is increasing at an alarming rate. Many of them have become addict...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-kush-and-the-backway-syndrome-unstoppable/",
+      "publishedAt": "2026-10-15T11:06:56.000Z",
+      "collectedAt": "2026-10-15T11:16:44.806Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c3534f7dbf511b1f",
+      "title": "GAMBIAN WORKERS SHOULD BE UNIONIZED",
+      "summary": "Grievances are being expressed by many workers of state-owned enterprises. However, many workers are not registered with trade unions. So, it is significant for the trade union movement to get focal points in all establishments so that the rights of workers will be known to th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambian-workers-should-be-unionized/",
+      "publishedAt": "2026-10-15T11:05:21.000Z",
+      "collectedAt": "2026-10-15T11:16:44.806Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "02b60a333e1fc5c0",
       "title": "Lawmakers Slash IEC’s 2027 Budget by D61.9 Million Ahead of Crucial Elections",
       "summary": "By Fatou Sillah The National Assembly has approved a D61.9 million reduction in the Independent Electoral Commission’s (IEC) proposed D669.7 million budget for 2027, trimming funds earmarked for fuel, election materials, training, allowances and travel ahead of next year’s par...",
@@ -2254,80 +2321,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "11acda32491f0ebb",
-      "title": "Essa Faal Hails Economic Gains Under Barrow, Optimistic About NPP Victory",
-      "summary": "By Makutu Manneh Essa Mbye Faal, leader of APP-Sobeyaa, has praised what he described as significant economic progress under President Adama Barrow, expressing cautious optimism that the National People’s Party (NPP) alliance will win the December presidential election. Speaki...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/essa-faal-hails-economic-gains-under-barrow-optimistic-about-npp-victory/",
-      "publishedAt": "2026-10-08T19:06:18.000Z",
-      "collectedAt": "2026-10-08T23:14:38.767Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "851ffbc5f9274a16",
-      "title": "Wuli West Lawmaker Urges Voters to Reject Candidates Unfamiliar With Their Language and Culture",
-      "summary": "By Makutu Manneh Nfamara Sabally, the National Assembly Member for Wuli West, has urged voters in Wuli to reject political candidates who cannot speak their language or understand their cultural traditions, arguing that such leaders would be unable to serve their interests eff...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/wuli-west-lawmaker-urges-voters-to-reject-candidates-unfamiliar-with-their-language-and-culture/",
-      "publishedAt": "2026-10-08T18:57:13.000Z",
-      "collectedAt": "2026-10-08T23:14:38.767Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a88ddd698fdf06f5",
-      "title": "Mai Fatty Urges Wuli Residents to Reject Opposition, Singles Out UDP",
-      "summary": "By Makutu Manneh Mai Ahmed Fatty, leader of the Gambia Moral Congress (GMC) and coordinator of the National People’s Party (NPP) Political Alliance Secretariat, has urged residents of Wuli in the Upper River Region to reject opposition parties, particularly the United Democrat...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mai-fatty-urges-wuli-residents-to-reject-opposition-singles-out-udp/",
-      "publishedAt": "2026-10-08T18:51:49.000Z",
-      "collectedAt": "2026-10-08T23:14:38.767Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T04:16:02.683Z",
+    "generatedAt": "2026-10-15T11:16:52.056Z",
     "count": 100
   }
 }

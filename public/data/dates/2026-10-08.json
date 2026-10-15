@@ -167,27 +167,6 @@
       "status": "published"
     },
     {
-      "id": "c8a38d0960dce130",
-      "title": "Court of Appeal Overturns Taxi Driver’s Acquittal in Rape and Robbery Case",
-      "summary": "The Gambia’s Court of Appeal has overturned the acquittal of taxi driver Ismaila Ndong on charges of rape, robbery, and indecent assault, ruling that the trial judge erred in dismissing the prosecution’s case without requiring the accused to present a defence. In a judgment de...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/court-of-appeal-overturns-taxi-drivers-acquittal-in-rape-and-robbery-case/",
-      "publishedAt": "2026-10-08T16:34:02.000Z",
-      "collectedAt": "2026-10-08T17:20:40.020Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
@@ -196,7 +175,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -219,7 +198,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/from-skincare-struggles-to-entrepreneurship-the-story-behind-sainabou-gassamas-organic-soap-brand/",
       "publishedAt": "2026-10-08T10:32:29.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -233,7 +212,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T04:16:02.683Z",
-    "count": 10
+    "generatedAt": "2026-10-15T11:16:52.056Z",
+    "count": 9
   }
 }

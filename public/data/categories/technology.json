@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "69bb3c1fdb23a0e5",
+      "title": "IS KUSH AND THE BACKWAY SYNDROME UNSTOPPABLE?",
+      "summary": "The youth population of the Gambia are now confronted with two killers that should be tackled because of the number of people who are losing their lives. The number of young people who are becoming mentally ill is increasing at an alarming rate. Many of them have become addict...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-kush-and-the-backway-syndrome-unstoppable/",
+      "publishedAt": "2026-10-15T11:06:56.000Z",
+      "collectedAt": "2026-10-15T11:16:44.806Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "99fe63de87248243",
       "title": "Barrow and His Allies Know They Are Losing, Kiang West NAM Declares",
       "summary": "By Makutu Manneh Lamin Ceesay, the National Assembly Member for Kiang West, has predicted a decisive victory for the United Democratic Party (UDP) in December’s presidential election, claiming that President Adama Barrow is losing political ground and is aware of his declining...",
@@ -222,7 +245,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T04:16:02.683Z",
-    "count": 9
+    "generatedAt": "2026-10-15T11:16:52.056Z",
+    "count": 10
   }
 }

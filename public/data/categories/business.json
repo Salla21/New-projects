@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "c3534f7dbf511b1f",
+      "title": "GAMBIAN WORKERS SHOULD BE UNIONIZED",
+      "summary": "Grievances are being expressed by many workers of state-owned enterprises. However, many workers are not registered with trade unions. So, it is significant for the trade union movement to get focal points in all establishments so that the rights of workers will be known to th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambian-workers-should-be-unionized/",
+      "publishedAt": "2026-10-15T11:05:21.000Z",
+      "collectedAt": "2026-10-15T11:16:44.806Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "02b60a333e1fc5c0",
       "title": "Lawmakers Slash IEC’s 2027 Budget by D61.9 Million Ahead of Crucial Elections",
       "summary": "By Fatou Sillah The National Assembly has approved a D61.9 million reduction in the Independent Electoral Commission’s (IEC) proposed D669.7 million budget for 2027, trimming funds earmarked for fuel, election materials, training, allowances and travel ahead of next year’s par...",
@@ -871,7 +894,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -894,7 +917,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
       "publishedAt": "2026-10-06T20:43:40.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -917,7 +940,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/nyancho-makes-history-as-wulolu-song-reaches-2-million-views/",
       "publishedAt": "2026-10-06T16:04:39.000Z",
-      "collectedAt": "2026-10-15T04:15:56.738Z",
+      "collectedAt": "2026-10-15T11:16:45.208Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -940,7 +963,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -963,7 +986,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-15T04:15:56.508Z",
+      "collectedAt": "2026-10-15T11:16:45.050Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -979,7 +1002,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T04:16:02.683Z",
-    "count": 41
+    "generatedAt": "2026-10-15T11:16:52.056Z",
+    "count": 42
   }
 }

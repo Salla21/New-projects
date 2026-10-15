@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "443663f9cb095f31",
+      "title": "Quantifying Educational Expenditure Disparities in The Gambia: A Heavy- Tailed Extreme Value Approach",
+      "summary": "By Dr. Ebrima Sisawo Ministry of Lands, Regional Government & Religious Affairs, The GambiaOctober 2026 Abstract — Standard metrics of economic inequality, such as sample means, medians, or classical non-parametric Gini indices, fail when applied to heavy-tailed distributions ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/quantifying-educational-expenditure-disparities-in-the-gambia-a-heavy-tailed-extreme-value-approach/",
+      "publishedAt": "2026-10-15T11:14:36.000Z",
+      "collectedAt": "2026-10-15T11:16:47.990Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "02b60a333e1fc5c0",
       "title": "Lawmakers Slash IEC’s 2027 Budget by D61.9 Million Ahead of Crucial Elections",
       "summary": "By Fatou Sillah The National Assembly has approved a D61.9 million reduction in the Independent Electoral Commission’s (IEC) proposed D669.7 million budget for 2027, trimming funds earmarked for fuel, election materials, training, allowances and travel ahead of next year’s par...",
@@ -1266,31 +1287,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c8a38d0960dce130",
-      "title": "Court of Appeal Overturns Taxi Driver’s Acquittal in Rape and Robbery Case",
-      "summary": "The Gambia’s Court of Appeal has overturned the acquittal of taxi driver Ismaila Ndong on charges of rape, robbery, and indecent assault, ruling that the trial judge erred in dismissing the prosecution’s case without requiring the accused to present a defence. In a judgment de...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/court-of-appeal-overturns-taxi-drivers-acquittal-in-rape-and-robbery-case/",
-      "publishedAt": "2026-10-08T16:34:02.000Z",
-      "collectedAt": "2026-10-08T17:20:40.020Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T04:16:02.683Z",
+    "generatedAt": "2026-10-15T11:16:52.056Z",
     "count": 55
   }
 }
