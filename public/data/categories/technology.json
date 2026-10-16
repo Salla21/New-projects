@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "640c6689519f621b",
+      "title": "US report finds Gambia struggles to protect victims of trafficking",
+      "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/us-report-finds-gambia-struggles-to-protect-victims-of-trafficking/",
+      "publishedAt": "2026-10-16T12:10:05.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "07e16a8fc74a3140",
+      "title": "Magistrate Sambou fines Haruna Cassama D2 million for trafficking cocaine",
+      "summary": "By Louise Jobe The Brikama Magistrates’ Court has convicted and fined Haruna Cassama D2 million after finding him guilty of aggravated drug trafficking and dealing in prohibited drugs involving 11 blocks of cocaine weighing 13 kilogrammes. Magistrate K. Sambou handed down the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/magistrate-sambou-fines-haruna-cassama-d2-million-for-trafficking-cocaine/",
+      "publishedAt": "2026-10-16T12:05:18.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "west-coast",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7fa3eebddb932f0f",
       "title": "25 Media Practitioners Trained to Tackle Disinformation Ahead of Elections",
       "summary": "By Lamin Fatty Twenty-five journalists, bloggers and public communicators are receiving training in fact-checking and digital verification as concerns grow over the spread of false information ahead of The Gambia’s presidential election on 5 December 2026. The two-day workshop...",
@@ -194,7 +242,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T07:00:40.795Z",
-    "count": 8
+    "generatedAt": "2026-10-16T13:11:11.464Z",
+    "count": 10
   }
 }

@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "07e16a8fc74a3140",
+      "title": "Magistrate Sambou fines Haruna Cassama D2 million for trafficking cocaine",
+      "summary": "By Louise Jobe The Brikama Magistrates’ Court has convicted and fined Haruna Cassama D2 million after finding him guilty of aggravated drug trafficking and dealing in prohibited drugs involving 11 blocks of cocaine weighing 13 kilogrammes. Magistrate K. Sambou handed down the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/magistrate-sambou-fines-haruna-cassama-d2-million-for-trafficking-cocaine/",
+      "publishedAt": "2026-10-16T12:05:18.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "west-coast",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "cc66082cd80f9cf3",
+      "title": "“Politics Is Not About the Hereafter”: Hamat Bah Urges Voters to Back Barrow",
+      "summary": "Written by: Dawda Baldeh Lands Minister Hamat NK Bah has urged voters in Old Yundum, Sukuta and Jabang to re-elect President Adama Barrow in the December 5th, 2026, presidential election, calling on them to put development ahead of political hatred and personal differences. Sp...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/politics-is-not-about-the-hereafter-hamat-bah-urges-voters-to-back-barrow/",
+      "publishedAt": "2026-10-16T10:08:51.000Z",
+      "collectedAt": "2026-10-16T13:11:05.851Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7e2260397a4c2b00",
       "title": "From Party Labels to Personal Ancestry: Juwara Raises Alarm Over Ethnic Politics",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has called on President Adama Barrow to take decisive action against the growing use of ethnic identity as a political weapon in The Gambia, warning that the practice threatens national unity and risks deepening divisions in the ...",
@@ -241,7 +288,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T07:00:31.761Z",
+      "collectedAt": "2026-10-16T13:11:05.851Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -264,7 +311,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-16T07:00:31.615Z",
+      "collectedAt": "2026-10-16T13:11:05.035Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -285,7 +332,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-16T07:00:31.615Z",
+      "collectedAt": "2026-10-16T13:11:05.035Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -301,7 +348,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T07:00:40.795Z",
-    "count": 13
+    "generatedAt": "2026-10-16T13:11:11.464Z",
+    "count": 15
   }
 }

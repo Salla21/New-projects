@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "7c1258e8d6522e55",
+      "title": "Immigration Commissioner tells court ID card serial number missing from database",
+      "summary": "By Mariama Marong An immigration officer responsible for The Gambia’s National Identity Card unit has told the court that the serial number on an identity card presented in an objection case involving Fatou Darboe and Isatou Bah could not be traced in the national database. As...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/immigration-commissioner-tells-court-id-card-serial-number-missing-from-database/",
+      "publishedAt": "2026-10-16T12:28:37.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "cc66082cd80f9cf3",
+      "title": "“Politics Is Not About the Hereafter”: Hamat Bah Urges Voters to Back Barrow",
+      "summary": "Written by: Dawda Baldeh Lands Minister Hamat NK Bah has urged voters in Old Yundum, Sukuta and Jabang to re-elect President Adama Barrow in the December 5th, 2026, presidential election, calling on them to put development ahead of political hatred and personal differences. Sp...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/politics-is-not-about-the-hereafter-hamat-bah-urges-voters-to-back-barrow/",
+      "publishedAt": "2026-10-16T10:08:51.000Z",
+      "collectedAt": "2026-10-16T13:11:05.851Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "18a6e62201191f50",
       "title": "Darboe Says Opposition Unity Still Possible Before December Election, Dismisses Age Concerns",
       "summary": "By Fatou Sillah ANM Ousainu Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has expressed optimism that opposition alliances could unite ahead of December’s presidential election, arguing that differences over leade...",
@@ -514,7 +562,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T07:00:31.761Z",
+      "collectedAt": "2026-10-16T13:11:05.851Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -530,7 +578,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T07:00:40.795Z",
-    "count": 22
+    "generatedAt": "2026-10-16T13:11:11.464Z",
+    "count": 24
   }
 }

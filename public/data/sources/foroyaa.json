@@ -1,6 +1,193 @@
 {
   "items": [
     {
+      "id": "7c1258e8d6522e55",
+      "title": "Immigration Commissioner tells court ID card serial number missing from database",
+      "summary": "By Mariama Marong An immigration officer responsible for The Gambia’s National Identity Card unit has told the court that the serial number on an identity card presented in an objection case involving Fatou Darboe and Isatou Bah could not be traced in the national database. As...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/immigration-commissioner-tells-court-id-card-serial-number-missing-from-database/",
+      "publishedAt": "2026-10-16T12:28:37.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0b9c2b8a99e63a62",
+      "title": "Magistrate Jallow rejects application to reopen eight voter registration cases",
+      "summary": "By Mariama Marong Magistrate Isatou Jallow of the Kanifing Revising Court has dismissed an application by Sulayman Fadera to reopen eight voter registration cases. She ruled that Fadera failed to give a satisfactory explanation for his absence when the matters were scheduled f...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/magistrate-jallow-rejects-application-to-reopen-eight-voter-registration-cases/",
+      "publishedAt": "2026-10-16T12:27:15.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "03e5569b347ff040",
+      "title": "Kanifing Revising Court dismisses objection to Amadou Drammeh’s voter registration in Bakau",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection by Fatou Darboe challenging Amadou Drammeh’s eligibility to remain on the voters’ register in Bakau. The Magistrate ruled that she failed to provide sufficient evidence to prove that he was not a Gambian ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kanifing-revising-court-dismisses-objection-to-amadou-drammehs-voter-registration-in-bakau/",
+      "publishedAt": "2026-10-16T12:19:57.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "640c6689519f621b",
+      "title": "US report finds Gambia struggles to protect victims of trafficking",
+      "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/us-report-finds-gambia-struggles-to-protect-victims-of-trafficking/",
+      "publishedAt": "2026-10-16T12:10:05.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "07e16a8fc74a3140",
+      "title": "Magistrate Sambou fines Haruna Cassama D2 million for trafficking cocaine",
+      "summary": "By Louise Jobe The Brikama Magistrates’ Court has convicted and fined Haruna Cassama D2 million after finding him guilty of aggravated drug trafficking and dealing in prohibited drugs involving 11 blocks of cocaine weighing 13 kilogrammes. Magistrate K. Sambou handed down the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/magistrate-sambou-fines-haruna-cassama-d2-million-for-trafficking-cocaine/",
+      "publishedAt": "2026-10-16T12:05:18.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "west-coast",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "721a85877a6f4851",
+      "title": "WACA & NEA warn communities against dumping waste in Kotu Stream",
+      "summary": "With Madiba Singhateh The West African Coastal Areas Resilience Investment Project (WACA) and the National Environment Agency (NEA) have warned communities around Kotu Stream against indiscriminate waste disposal, saying plastic pollution is choking the waterway, threatening w...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/waca-nea-warn-communities-against-dumping-waste-in-kotu-stream/",
+      "publishedAt": "2026-10-16T12:02:15.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3515fee5e509c6ad",
+      "title": "WHAT TYPE OF GAMBIA DO HER CITIZENS WANT?",
+      "summary": "Elections constitute the basis of defining The Gambia its citizens want. We have been following social media. How are we to influence each other to focus on the problems that affect each and every one of us is the question of the day. If the citizens do not identify the type o...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-type-of-gambia-do-her-citizens-want/",
+      "publishedAt": "2026-10-16T11:45:57.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "db935f06dddc04e7",
+      "title": "THE COUNTRY GEARING UP FOR ELECTIONS",
+      "summary": "The Independent Electoral Commission has been confronted with supplementary registration of voters prior to the December 2026 presidential election. It is trite law that after every registration of voters the lists of registered voters must be displayed in public places for sc...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-country-gearing-up-for-elections/",
+      "publishedAt": "2026-10-16T11:44:22.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "12623805d6dafd73",
       "title": "GPU Brings Journalists & Police Together Ahead of December Presidential Election",
       "summary": "By Nelson Manneh The Gambia Press Union (GPU) has brought journalists and police officers together to discuss media safety, professional conduct and cooperation ahead of the country’s presidential election scheduled for 5 December 2026. The dialogue, held on Wednesday, 14 Octo...",
@@ -946,7 +1133,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T07:00:40.795Z",
-    "count": 41
+    "generatedAt": "2026-10-16T13:11:11.464Z",
+    "count": 49
   }
 }

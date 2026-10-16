@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "0b9c2b8a99e63a62",
+      "title": "Magistrate Jallow rejects application to reopen eight voter registration cases",
+      "summary": "By Mariama Marong Magistrate Isatou Jallow of the Kanifing Revising Court has dismissed an application by Sulayman Fadera to reopen eight voter registration cases. She ruled that Fadera failed to give a satisfactory explanation for his absence when the matters were scheduled f...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/magistrate-jallow-rejects-application-to-reopen-eight-voter-registration-cases/",
+      "publishedAt": "2026-10-16T12:27:15.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "03e5569b347ff040",
+      "title": "Kanifing Revising Court dismisses objection to Amadou Drammeh’s voter registration in Bakau",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection by Fatou Darboe challenging Amadou Drammeh’s eligibility to remain on the voters’ register in Bakau. The Magistrate ruled that she failed to provide sufficient evidence to prove that he was not a Gambian ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kanifing-revising-court-dismisses-objection-to-amadou-drammehs-voter-registration-in-bakau/",
+      "publishedAt": "2026-10-16T12:19:57.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "721a85877a6f4851",
+      "title": "WACA & NEA warn communities against dumping waste in Kotu Stream",
+      "summary": "With Madiba Singhateh The West African Coastal Areas Resilience Investment Project (WACA) and the National Environment Agency (NEA) have warned communities around Kotu Stream against indiscriminate waste disposal, saying plastic pollution is choking the waterway, threatening w...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/waca-nea-warn-communities-against-dumping-waste-in-kotu-stream/",
+      "publishedAt": "2026-10-16T12:02:15.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8f90e21b179ca7ef",
       "title": "Bensouda Warns Dalasi Could Weaken Further if Barrow Wins Another Term",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has warned that the Gambian Dalasi could depreciate further against the CFA franc if President Adama Barrow secures another term in office, arguing that the c...",
@@ -118,7 +187,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T07:00:40.795Z",
-    "count": 5
+    "generatedAt": "2026-10-16T13:11:11.464Z",
+    "count": 8
   }
 }

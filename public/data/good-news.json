@@ -1,6 +1,99 @@
 {
   "items": [
     {
+      "id": "640c6689519f621b",
+      "title": "US report finds Gambia struggles to protect victims of trafficking",
+      "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/us-report-finds-gambia-struggles-to-protect-victims-of-trafficking/",
+      "publishedAt": "2026-10-16T12:10:05.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "721a85877a6f4851",
+      "title": "WACA & NEA warn communities against dumping waste in Kotu Stream",
+      "summary": "With Madiba Singhateh The West African Coastal Areas Resilience Investment Project (WACA) and the National Environment Agency (NEA) have warned communities around Kotu Stream against indiscriminate waste disposal, saying plastic pollution is choking the waterway, threatening w...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/waca-nea-warn-communities-against-dumping-waste-in-kotu-stream/",
+      "publishedAt": "2026-10-16T12:02:15.000Z",
+      "collectedAt": "2026-10-16T13:11:04.868Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "154890994c238a9d",
+      "title": "Mariame Cisse Launches The Mother Who Dreams, a Book for Mothers Who Have Forgotten Themselves",
+      "summary": "Emotional Leadership Coach, NLP Master Practitioner, storyteller, and founder of M Power Moms, Mariame Cisse, has launched her new book, The Mother Who Dreams. Written from her own experiences as a mother of six, the book speaks to mothers who love their children deeply but ma...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/mariame-cisse-launches-the-mother-who-dreams-a-book-for-mothers-who-have-forgotten-themselves/",
+      "publishedAt": "2026-10-16T11:50:37.000Z",
+      "collectedAt": "2026-10-16T13:11:05.851Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0408e3d1ed1fb9bf",
+      "title": "Old Yundum NAM Hails Barrow’s Development Record, Urges Support for Re-election",
+      "summary": "By Dawda Baldeh Old Yundum National Assembly Member Abdoulie Ceesay has defended President Adama Barrow’s development record, arguing that government investment is benefiting communities across The Gambia and promising more projects if the president wins a third term in Decemb...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/old-yundum-nam-hails-barrows-development-record-urges-support-for-re-election/",
+      "publishedAt": "2026-10-16T11:05:25.000Z",
+      "collectedAt": "2026-10-16T13:11:05.851Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e99e9f927587e2a3",
       "title": "Government & UNFPA Step Up Efforts to Reduce Maternal Deaths",
       "summary": "By Kebba A.F. Touray The Gambia has stepped up efforts to reduce preventable maternal deaths, with the government, the United Nations Population Fund (UNFPA) and other partners calling for stronger investment, improved healthcare services and greater accountability. The renewe...",
@@ -394,7 +487,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T07:00:31.761Z",
+      "collectedAt": "2026-10-16T13:11:05.851Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -410,7 +503,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T07:00:40.795Z",
-    "count": 18
+    "generatedAt": "2026-10-16T13:11:11.464Z",
+    "count": 22
   }
 }
