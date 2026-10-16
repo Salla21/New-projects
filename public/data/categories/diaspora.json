@@ -506,29 +506,6 @@
       "status": "published"
     },
     {
-      "id": "6104cafc4236b0cf",
-      "title": "Irregular migration: over 80 Senegalese nationals intercepted in The Gambia",
-      "summary": "Interceptions of migrants are on the rise along the Gambian coast. On Tuesday, the Gambia Immigration Department (GID) thwarted another attempt at irregular migration in Mandinaba. According to information released by the GID, officers from the Mandinaba immigration post inter...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/irregular-migration-over-80-senegalese-nationals-intercepted-in-the-gambia/",
-      "publishedAt": "2026-10-09T09:52:55.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
@@ -537,7 +514,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -553,7 +530,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T21:17:29.276Z",
-    "count": 23
+    "generatedAt": "2026-10-16T00:14:04.426Z",
+    "count": 22
   }
 }

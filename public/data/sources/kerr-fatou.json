@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "90f0435286d17a8f",
+      "title": "Agriculture Minister Urges Support for Barrow, Cites Ambitious 2030 Food Security Target",
+      "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has urged residents of Manduar in the West Coast Region to support President Adama Barrow in the December 5 presidential election, arguing that his re-election would help The Gambia achieve f...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/agriculture-minister-urges-support-for-barrow-cites-ambitious-2030-food-security-target/",
+      "publishedAt": "2026-10-15T21:47:19.000Z",
+      "collectedAt": "2026-10-16T00:14:00.358Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7e2260397a4c2b00",
+      "title": "From Party Labels to Personal Ancestry: Juwara Raises Alarm Over Ethnic Politics",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has called on President Adama Barrow to take decisive action against the growing use of ethnic identity as a political weapon in The Gambia, warning that the practice threatens national unity and risks deepening divisions in the ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/from-party-labels-to-personal-ancestry-juwara-raises-alarm-over-ethnic-politics/",
+      "publishedAt": "2026-10-15T21:41:06.000Z",
+      "collectedAt": "2026-10-16T00:14:00.358Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "18a6e62201191f50",
       "title": "Darboe Says Opposition Unity Still Possible Before December Election, Dismisses Age Concerns",
       "summary": "By Fatou Sillah ANM Ousainu Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has expressed optimism that opposition alliances could unite ahead of December’s presidential election, arguing that differences over leade...",
@@ -1218,7 +1265,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T21:17:29.276Z",
-    "count": 52
+    "generatedAt": "2026-10-16T00:14:04.426Z",
+    "count": 54
   }
 }

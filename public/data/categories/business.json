@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "90f0435286d17a8f",
+      "title": "Agriculture Minister Urges Support for Barrow, Cites Ambitious 2030 Food Security Target",
+      "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has urged residents of Manduar in the West Coast Region to support President Adama Barrow in the December 5 presidential election, arguing that his re-election would help The Gambia achieve f...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/agriculture-minister-urges-support-for-barrow-cites-ambitious-2030-food-security-target/",
+      "publishedAt": "2026-10-15T21:47:19.000Z",
+      "collectedAt": "2026-10-16T00:14:00.358Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e99e9f927587e2a3",
       "title": "Government & UNFPA Step Up Efforts to Reduce Maternal Deaths",
       "summary": "By Kebba A.F. Touray The Gambia has stepped up efforts to reduce preventable maternal deaths, with the government, the United Nations Population Fund (UNFPA) and other partners calling for stronger investment, improved healthcare services and greater accountability. The renewe...",
@@ -914,7 +938,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -937,7 +961,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
       "publishedAt": "2026-10-06T20:43:40.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -960,7 +984,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/nyancho-makes-history-as-wulolu-song-reaches-2-million-views/",
       "publishedAt": "2026-10-06T16:04:39.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -983,7 +1007,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1006,7 +1030,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -1022,7 +1046,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T21:17:29.276Z",
-    "count": 43
+    "generatedAt": "2026-10-16T00:14:04.426Z",
+    "count": 44
   }
 }

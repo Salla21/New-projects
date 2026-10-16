@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "90f0435286d17a8f",
+      "title": "Agriculture Minister Urges Support for Barrow, Cites Ambitious 2030 Food Security Target",
+      "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has urged residents of Manduar in the West Coast Region to support President Adama Barrow in the December 5 presidential election, arguing that his re-election would help The Gambia achieve f...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/agriculture-minister-urges-support-for-barrow-cites-ambitious-2030-food-security-target/",
+      "publishedAt": "2026-10-15T21:47:19.000Z",
+      "collectedAt": "2026-10-16T00:14:00.358Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "18a6e62201191f50",
       "title": "Darboe Says Opposition Unity Still Possible Before December Election, Dismisses Age Concerns",
       "summary": "By Fatou Sillah ANM Ousainu Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has expressed optimism that opposition alliances could unite ahead of December’s presidential election, arguing that differences over leade...",
@@ -1973,94 +1997,6 @@
       "status": "published"
     },
     {
-      "id": "e3bd07b12b6c3160",
-      "title": "Diphtheria outbreak in Kaolack",
-      "summary": "8 confirmed cases, 1 death, and over 33 Million CFA francs for the response A meeting of the Regional Epidemic Management Committee (CRGE) was held yesterday at the Kaolack governor’s office. The region has recorded eight confirmed cases of diphtheria and one death, amidst a n...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/diphtheria-outbreak-in-kaolack/",
-      "publishedAt": "2026-10-09T09:57:04.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f017e1c91d0f4b30",
-      "title": "Remembering Senghor: 120 years since his birth, 25 years since his death",
-      "summary": "Today, Friday, 9th October, the Léopold Sédar Senghor Foundation will launch the “120/25” commemorative programme to honour the 120th anniversary of the poet-president’s birth and the 25th anniversary of his passing. Centred on the theme “Rootedness and Openness,” the event wi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/remembering-senghor-120-years-since-his-birth-25-years-since-his-death/",
-      "publishedAt": "2026-10-09T09:56:58.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "09f203af1a5fe987",
-      "title": "Youssou Ndour: The dramatic resignation that would change his career",
-      "summary": "To mark his 67th birthday, celebrated on October 1st, Le Soleil newspaper has delved into its archives to revisit key moments in Youssou Ndour’s career. Among these turning points, the newspaper documents his dramatic resignation from the band Étoile de Dakar in November 1981....",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/youssou-ndour-the-dramatic-resignation-that-would-change-his-career/",
-      "publishedAt": "2026-10-09T09:54:44.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6104cafc4236b0cf",
-      "title": "Irregular migration: over 80 Senegalese nationals intercepted in The Gambia",
-      "summary": "Interceptions of migrants are on the rise along the Gambian coast. On Tuesday, the Gambia Immigration Department (GID) thwarted another attempt at irregular migration in Mandinaba. According to information released by the GID, officers from the Mandinaba immigration post inter...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/irregular-migration-over-80-senegalese-nationals-intercepted-in-the-gambia/",
-      "publishedAt": "2026-10-09T09:52:55.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Abubacarr",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "234e2aadcf8f56e2",
       "title": "From Skincare Struggles to Entrepreneurship: The Story Behind Sainabou Gassama’s Organic Soap Brand",
       "summary": "Written by: Dawda Baldeh After years of struggling with acne, dark spots and uneven skin tone, Sainabou Gassama grew tired of searching for skincare products that worked for her. Instead, she decided to make her own, a decision that eventually led to the creation of Nabu’s Org...",
@@ -2069,7 +2005,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/from-skincare-struggles-to-entrepreneurship-the-story-behind-sainabou-gassamas-organic-soap-brand/",
       "publishedAt": "2026-10-08T10:32:29.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2090,7 +2026,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/the-moment-it-started-to-feel-real-mariame-cisse-on-bringing-the-mother-who-dreams-to-the-world/",
       "publishedAt": "2026-10-07T10:44:06.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2111,7 +2047,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2134,7 +2070,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2157,7 +2093,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2178,7 +2114,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
       "publishedAt": "2026-10-06T20:43:40.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2201,7 +2137,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ecowas-court-adopts-settlement-in-mahawa-cham-killing-case/",
       "publishedAt": "2026-10-06T16:24:52.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2224,7 +2160,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/nyancho-makes-history-as-wulolu-song-reaches-2-million-views/",
       "publishedAt": "2026-10-06T16:04:39.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2247,7 +2183,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/u-s-ambassador-laurence-socha-arrives-in-the-gambia/",
       "publishedAt": "2026-10-06T13:52:20.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2268,7 +2204,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/21mw-power-boost-lands-as-gambia-moves-to-ease-electricity-crisis/",
       "publishedAt": "2026-10-06T11:52:46.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2291,7 +2227,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2314,7 +2250,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2335,7 +2271,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sura-susso-and-habib-koite-bring-manding-melody-to-bristol-beacon-on-october-23/",
       "publishedAt": "2026-10-01T04:40:03.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2356,7 +2292,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/eye-africa-tv-under-fire-after-big-faa-walkout-sparks-fan-outrage/",
       "publishedAt": "2026-09-30T04:04:41.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2377,7 +2313,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/wuli-spiritual-healer-sentenced-to-10-years-for-rping-female-client/",
       "publishedAt": "2026-09-30T04:03:20.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2391,7 +2327,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T21:17:29.276Z",
-    "count": 104
+    "generatedAt": "2026-10-16T00:14:04.426Z",
+    "count": 101
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "7e2260397a4c2b00",
+      "title": "From Party Labels to Personal Ancestry: Juwara Raises Alarm Over Ethnic Politics",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has called on President Adama Barrow to take decisive action against the growing use of ethnic identity as a political weapon in The Gambia, warning that the practice threatens national unity and risks deepening divisions in the ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/from-party-labels-to-personal-ancestry-juwara-raises-alarm-over-ethnic-politics/",
+      "publishedAt": "2026-10-15T21:41:06.000Z",
+      "collectedAt": "2026-10-16T00:14:00.358Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e807451a6ef0ef9d",
       "title": "Lamin J.K. Sanneh Criticizes Hospital Conditions, Outlines UDP’s Healthcare Reform Plans",
       "summary": "By Seedy Jobe Lamin J.K. Sanneh, the United Democratic Party’s (UDP) Deputy Administrative Secretary for Social Affairs and Fundraising, has criticized the state of Gambia’s healthcare system, accusing the government of prioritizing hospital construction over the delivery of e...",
@@ -218,7 +241,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-15T21:17:21.647Z",
+      "collectedAt": "2026-10-16T00:13:58.928Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -241,7 +264,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -262,7 +285,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-15T21:17:21.458Z",
+      "collectedAt": "2026-10-16T00:13:58.833Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -278,7 +301,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-15T21:17:29.276Z",
-    "count": 12
+    "generatedAt": "2026-10-16T00:14:04.426Z",
+    "count": 13
   }
 }
