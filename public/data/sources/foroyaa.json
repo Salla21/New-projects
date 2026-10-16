@@ -925,57 +925,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "34fdf0f9c97c9591",
-      "title": "Three Government Workers Convicted in Cannabis Trafficking Case",
-      "summary": "By Louise Jobe Magistrate A. Darboe of the Brikama Magistrates’ Court on Thursday, 8 October 2026, convicted and sentenced three government workers after they pleaded guilty to possessing 44kg 402g of cannabis for the purpose of drug trafficking. The court heard that officers ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/three-government-workers-convicted-in-cannabis-trafficking-case/",
-      "publishedAt": "2026-10-09T15:40:24.000Z",
-      "collectedAt": "2026-10-09T23:57:51.031Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e02521799b7252c5",
-      "title": "Revising Court Rejects Abdul Karim Drammeh’s Objection to Maimuna Camara’s Voter Registration",
-      "summary": "By Mariama Marong The Brusubi Revising Court has dismissed an objection seeking to remove Maimuna Camara from The Gambia’s voters’ register, ruling that the challenger failed to provide enough evidence to show that she was not a Gambian citizen. Principal Magistrate Mam Samba ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/revising-court-rejects-abdul-karim-drammehs-objection-to-maimuna-camaras-voter-registration/",
-      "publishedAt": "2026-10-09T15:38:10.000Z",
-      "collectedAt": "2026-10-09T23:57:51.031Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T17:56:44.150Z",
-    "count": 42
+    "generatedAt": "2026-10-16T20:53:54.198Z",
+    "count": 40
   }
 }

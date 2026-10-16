@@ -1,6 +1,125 @@
 {
   "items": [
     {
+      "id": "099f990c7e9a49ad",
+      "title": "Darboe Urges Opposition Voters to Back Candidates With a Realistic Chance of Winning",
+      "summary": "By Fatou Sillah Ousainu Darboe, leader of the United Democratic Party (UDP) and flagbearer of the Gambia First Coalition, has urged opposition supporters to vote for the candidates they believe have a realistic chance of winning, saying this could help bring about political ch...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-urges-opposition-voters-to-back-candidates-with-a-realistic-chance-of-winning/",
+      "publishedAt": "2026-10-16T19:35:29.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3fab9cf033dba843",
+      "title": "Barrow Did Not Defeat Jammeh, He Campaigned on Darboe’s Name, Says UDP’s Lamin Manneh",
+      "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party (UDP) deputy administrative secretary for external affairs, has said President Adama Barrow has no reason to underestimate UDP leader Ousainu Darboe ahead of the December election. He likened Darboe to a chicken in compar...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-did-not-defeat-jammeh-he-campaigned-on-darboes-name-says-udps-lamin-manneh/",
+      "publishedAt": "2026-10-16T19:16:47.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "993b6133ca80eb9f",
+      "title": "Darboe Keeps Protest, Legal Action on Table as UDP Presses IEC Over 14,000 Voters",
+      "summary": "By Fatou Sillah ANM Ousainu Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has not ruled out peaceful protests or legal action over discrepancies the party says it has identified in the Independent Electoral Commis...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-keeps-protest-legal-action-on-table-as-udp-presses-iec-over-14000-voters/",
+      "publishedAt": "2026-10-16T19:10:18.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bcb67fdcc8cb3d88",
+      "title": "Hamat Bah Says No Presidential Challenger Can Match Barrow’s Record, Warns Against Election Violence",
+      "summary": "By Makutu Manneh Hamat Bah, Minister of Lands, Regional Government, and Religious Affairs, has declared that none of the candidates challenging President Adama Barrow in the December 5 presidential election can match his record of achievements, leadership, and commitment to na...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/hamat-bah-says-no-presidential-challenger-can-match-barrows-record-warns-against-election-violence/",
+      "publishedAt": "2026-10-16T19:02:12.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5eb29df0433b9018",
+      "title": "Barrow Calls for End to Tribalism, Cites His Multicultural Family as Reflection of Gambian Unity",
+      "summary": "By Makutu Manneh President Adama Barrow has renewed his appeal for national unity, urging Gambians to reject tribalism and recognize the deep ethnic and familial ties that bind the country’s diverse communities. Speaking during a Meet-the-People Tour meeting in Jabang, Preside...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-calls-for-end-to-tribalism-cites-his-multicultural-family-as-reflection-of-gambian-unity/",
+      "publishedAt": "2026-10-16T18:53:39.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5d4b8d2405e7db23",
       "title": "Barrow Says He Commands Greater Security Powers Than Jammeh but Won’t Abuse Them",
       "summary": "By Makutu Manneh President Adama Barrow has said he commands greater security powers than his predecessor, Yahya Jammeh, but has deliberately chosen restraint over repression, insisting that political authority should be exercised in the interest of peace and national stabilit...",
@@ -346,129 +465,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0408e3d1ed1fb9bf",
-      "title": "Old Yundum NAM Hails Barrow’s Development Record, Urges Support for Re-election",
-      "summary": "By Dawda Baldeh Old Yundum National Assembly Member Abdoulie Ceesay has defended President Adama Barrow’s development record, arguing that government investment is benefiting communities across The Gambia and promising more projects if the president wins a third term in Decemb...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/old-yundum-nam-hails-barrows-development-record-urges-support-for-re-election/",
-      "publishedAt": "2026-10-16T11:05:25.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cc66082cd80f9cf3",
-      "title": "“Politics Is Not About the Hereafter”: Hamat Bah Urges Voters to Back Barrow",
-      "summary": "Written by: Dawda Baldeh Lands Minister Hamat NK Bah has urged voters in Old Yundum, Sukuta and Jabang to re-elect President Adama Barrow in the December 5th, 2026, presidential election, calling on them to put development ahead of political hatred and personal differences. Sp...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/politics-is-not-about-the-hereafter-hamat-bah-urges-voters-to-back-barrow/",
-      "publishedAt": "2026-10-16T10:08:51.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "90f0435286d17a8f",
-      "title": "Agriculture Minister Urges Support for Barrow, Cites Ambitious 2030 Food Security Target",
-      "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has urged residents of Manduar in the West Coast Region to support President Adama Barrow in the December 5 presidential election, arguing that his re-election would help The Gambia achieve f...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/agriculture-minister-urges-support-for-barrow-cites-ambitious-2030-food-security-target/",
-      "publishedAt": "2026-10-15T21:47:19.000Z",
-      "collectedAt": "2026-10-16T00:14:00.358Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7e2260397a4c2b00",
-      "title": "From Party Labels to Personal Ancestry: Juwara Raises Alarm Over Ethnic Politics",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara has called on President Adama Barrow to take decisive action against the growing use of ethnic identity as a political weapon in The Gambia, warning that the practice threatens national unity and risks deepening divisions in the ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/from-party-labels-to-personal-ancestry-juwara-raises-alarm-over-ethnic-politics/",
-      "publishedAt": "2026-10-15T21:41:06.000Z",
-      "collectedAt": "2026-10-16T00:14:00.358Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "18a6e62201191f50",
-      "title": "Darboe Says Opposition Unity Still Possible Before December Election, Dismisses Age Concerns",
-      "summary": "By Fatou Sillah ANM Ousainu Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has expressed optimism that opposition alliances could unite ahead of December’s presidential election, arguing that differences over leade...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-opposition-unity-still-possible-before-december-election-dismisses-age-concerns/",
-      "publishedAt": "2026-10-15T21:10:26.000Z",
-      "collectedAt": "2026-10-15T21:17:25.128Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T17:56:44.150Z",
+    "generatedAt": "2026-10-16T20:53:54.198Z",
     "count": 20
   }
 }

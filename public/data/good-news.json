@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "bcb67fdcc8cb3d88",
+      "title": "Hamat Bah Says No Presidential Challenger Can Match Barrow’s Record, Warns Against Election Violence",
+      "summary": "By Makutu Manneh Hamat Bah, Minister of Lands, Regional Government, and Religious Affairs, has declared that none of the candidates challenging President Adama Barrow in the December 5 presidential election can match his record of achievements, leadership, and commitment to na...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/hamat-bah-says-no-presidential-challenger-can-match-barrows-record-warns-against-election-violence/",
+      "publishedAt": "2026-10-16T19:02:12.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "be42505ab799b8d3",
       "title": "NDP’s Conateh Touts Bojang’s Development Record, Challenges Barrow and Opposition Rivals",
       "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has described his party’s leader, Kebba Madi Bojang, as the country’s most marketable presidential candidate, arguing that his record of community development distinguishes him from P...",
@@ -399,33 +422,12 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
       "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-09T19:28:01.949Z",
+      "collectedAt": "2026-10-16T20:53:49.008Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "549c820dab15e5a3",
-      "title": "Gambia Police Outline Requirements for New Driver’s Licence Following Rollout",
-      "summary": "By Seedy Jobe The Gambia Police Force (GPF) has outlined the requirements for obtaining the country’s new driver’s licence, a day after the system was officially launched in Banjul and Kanifing Municipality on Wednesday. Speaking in an interview with GTRS, Police Public Relati...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-police-outline-requirements-for-new-drivers-licence-following-rollout/",
-      "publishedAt": "2026-10-09T18:17:47.000Z",
-      "collectedAt": "2026-10-09T19:28:07.867Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
       "language": "en",
       "isGoodNews": true,
       "isOfficialSource": false,
@@ -441,7 +443,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T17:56:32.539Z",
+      "collectedAt": "2026-10-16T20:53:49.008Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -457,7 +459,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T17:56:44.150Z",
+    "generatedAt": "2026-10-16T20:53:54.198Z",
     "count": 20
   }
 }

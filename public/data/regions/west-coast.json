@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3fab9cf033dba843",
+      "title": "Barrow Did Not Defeat Jammeh, He Campaigned on Darboe’s Name, Says UDP’s Lamin Manneh",
+      "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party (UDP) deputy administrative secretary for external affairs, has said President Adama Barrow has no reason to underestimate UDP leader Ousainu Darboe ahead of the December election. He likened Darboe to a chicken in compar...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-did-not-defeat-jammeh-he-campaigned-on-darboes-name-says-udps-lamin-manneh/",
+      "publishedAt": "2026-10-16T19:16:47.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2e68a9a02638caf6",
       "title": "UDP Accuses NPP of Seeking to Entrench Itself in Power, Vows to Prevent Repeat of 2021 Election",
       "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party’s (UDP) deputy administrative secretary for external affairs, has accused the governing National People’s Party (NPP) of attempting to consolidate its grip on power ahead of the December 5 presidential election, vowing th...",
@@ -305,30 +329,6 @@
       "status": "published"
     },
     {
-      "id": "34fdf0f9c97c9591",
-      "title": "Three Government Workers Convicted in Cannabis Trafficking Case",
-      "summary": "By Louise Jobe Magistrate A. Darboe of the Brikama Magistrates’ Court on Thursday, 8 October 2026, convicted and sentenced three government workers after they pleaded guilty to possessing 44kg 402g of cannabis for the purpose of drug trafficking. The court heard that officers ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/three-government-workers-convicted-in-cannabis-trafficking-case/",
-      "publishedAt": "2026-10-09T15:40:24.000Z",
-      "collectedAt": "2026-10-09T23:57:51.031Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
@@ -337,7 +337,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T17:56:32.539Z",
+      "collectedAt": "2026-10-16T20:53:49.008Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -360,7 +360,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-16T17:56:32.002Z",
+      "collectedAt": "2026-10-16T20:53:48.864Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -381,7 +381,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-16T17:56:32.002Z",
+      "collectedAt": "2026-10-16T20:53:48.864Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -397,7 +397,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T17:56:44.150Z",
+    "generatedAt": "2026-10-16T20:53:54.198Z",
     "count": 17
   }
 }

@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "id": "099f990c7e9a49ad",
+      "title": "Darboe Urges Opposition Voters to Back Candidates With a Realistic Chance of Winning",
+      "summary": "By Fatou Sillah Ousainu Darboe, leader of the United Democratic Party (UDP) and flagbearer of the Gambia First Coalition, has urged opposition supporters to vote for the candidates they believe have a realistic chance of winning, saying this could help bring about political ch...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-urges-opposition-voters-to-back-candidates-with-a-realistic-chance-of-winning/",
+      "publishedAt": "2026-10-16T19:35:29.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3fab9cf033dba843",
+      "title": "Barrow Did Not Defeat Jammeh, He Campaigned on Darboe’s Name, Says UDP’s Lamin Manneh",
+      "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party (UDP) deputy administrative secretary for external affairs, has said President Adama Barrow has no reason to underestimate UDP leader Ousainu Darboe ahead of the December election. He likened Darboe to a chicken in compar...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-did-not-defeat-jammeh-he-campaigned-on-darboes-name-says-udps-lamin-manneh/",
+      "publishedAt": "2026-10-16T19:16:47.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "993b6133ca80eb9f",
+      "title": "Darboe Keeps Protest, Legal Action on Table as UDP Presses IEC Over 14,000 Voters",
+      "summary": "By Fatou Sillah ANM Ousainu Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has not ruled out peaceful protests or legal action over discrepancies the party says it has identified in the Independent Electoral Commis...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-keeps-protest-legal-action-on-table-as-udp-presses-iec-over-14000-voters/",
+      "publishedAt": "2026-10-16T19:10:18.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7c1258e8d6522e55",
       "title": "Immigration Commissioner tells court ID card serial number missing from database",
       "summary": "By Mariama Marong An immigration officer responsible for The Gambia’s National Identity Card unit has told the court that the serial number on an identity card presented in an objection case involving Fatou Darboe and Isatou Bah could not be traced in the national database. As...",
@@ -457,30 +530,6 @@
       "status": "published"
     },
     {
-      "id": "8cfc1364da909eb0",
-      "title": "Barrow Vows to Defeat Darboe in Native Fulladu, Force Him Into Political Retirement",
-      "summary": "By Makutu Manneh President Adama Barrow has vowed to deliver a decisive electoral defeat to United Democratic Party (UDP) leader Ousainou Darboe in his native Fulladu in the December 2026 presidential election, declaring that the outcome would force his longtime political riva...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-vows-to-defeat-darboe-in-native-fulladu-force-him-into-political-retirement/",
-      "publishedAt": "2026-10-09T18:34:44.000Z",
-      "collectedAt": "2026-10-09T19:28:07.867Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "2ecccddbfa20a01c",
       "title": "Three Years Without Salary: Former Immigration Officer Alleges Unfair Dismissal, Demands Answers",
       "summary": "Written by: Dawda Baldeh Former Gambia Immigration Department officer Foday Danso has accused the institution of withholding his salary for approximately three years before dismissing him under circumstances he believes were unfair and procedurally irregular. Danso, who joined...",
@@ -489,7 +538,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/three-years-without-salary-former-immigration-officer-alleges-unfair-dismissal-demands-answers/",
       "publishedAt": "2026-10-09T10:49:10.000Z",
-      "collectedAt": "2026-10-16T17:56:32.539Z",
+      "collectedAt": "2026-10-16T20:53:49.008Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -512,7 +561,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T17:56:32.539Z",
+      "collectedAt": "2026-10-16T20:53:49.008Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -528,7 +577,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T17:56:44.150Z",
-    "count": 22
+    "generatedAt": "2026-10-16T20:53:54.198Z",
+    "count": 24
   }
 }

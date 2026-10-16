@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "099f990c7e9a49ad",
+      "title": "Darboe Urges Opposition Voters to Back Candidates With a Realistic Chance of Winning",
+      "summary": "By Fatou Sillah Ousainu Darboe, leader of the United Democratic Party (UDP) and flagbearer of the Gambia First Coalition, has urged opposition supporters to vote for the candidates they believe have a realistic chance of winning, saying this could help bring about political ch...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-urges-opposition-voters-to-back-candidates-with-a-realistic-chance-of-winning/",
+      "publishedAt": "2026-10-16T19:35:29.000Z",
+      "collectedAt": "2026-10-16T20:53:50.050Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "af1eef4fd616a1f7",
       "title": "NDP Leaders Explain Party’s Growing Financial Muscle, Credit Trust in Kebba Bojang",
       "summary": "By Seedy Jobe Leaders of the National Democratic Party (NDP) have defended the party’s growing financial resources, attributing its rapid expansion and increasingly visible political activities to support from Gambian businesspeople and public confidence in its leader, Kebba M...",
@@ -1007,7 +1032,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-16T17:56:32.002Z",
+      "collectedAt": "2026-10-16T20:53:48.864Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1030,7 +1055,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
       "publishedAt": "2026-10-06T20:43:40.000Z",
-      "collectedAt": "2026-10-16T17:56:32.539Z",
+      "collectedAt": "2026-10-16T20:53:49.008Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1053,7 +1078,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-16T17:56:32.002Z",
+      "collectedAt": "2026-10-16T20:53:48.864Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1076,7 +1101,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-16T17:56:32.002Z",
+      "collectedAt": "2026-10-16T20:53:48.864Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -1092,7 +1117,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T17:56:44.150Z",
-    "count": 46
+    "generatedAt": "2026-10-16T20:53:54.198Z",
+    "count": 47
   }
 }
