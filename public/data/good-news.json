@@ -386,29 +386,6 @@
       "status": "published"
     },
     {
-      "id": "7550a8976954c05c",
-      "title": "Veep urges urgent action to tackle malnutrition",
-      "summary": "Vice President Muhammed Jallow has called for urgent and collective action to tackle malnutrition in The Gambia, describing nutrition as a critical pillar of human capital development, productivity and national prosperity. He made the call on Wednesday while officially launchi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/veep-urges-urgent-action-to-tackle-malnutrition/",
-      "publishedAt": "2026-10-09T10:02:31.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
@@ -417,7 +394,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T00:13:58.928Z",
+      "collectedAt": "2026-10-16T07:00:31.761Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -433,7 +410,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T00:14:04.426Z",
-    "count": 19
+    "generatedAt": "2026-10-16T07:00:40.795Z",
+    "count": 18
   }
 }

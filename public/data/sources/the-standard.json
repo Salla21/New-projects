@@ -70,56 +70,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "25e44d133e9340fd",
-      "title": "GTU clarifies staff quarters maintenance fee, land allocation concerns",
-      "summary": "The Gambia Teachers’ Union (GTU) has sought to clarify concerns surrounding the recently introduced Staff Quarters Maintenance Fee, the allocation of GTUCCU lands and calls for the resignation of the union’s president and his executive. In a statement shared with The Standard ...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gtu-clarifies-staff-quarters-maintenance-fee-land-allocation-concerns/",
-      "publishedAt": "2026-10-09T10:03:11.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7550a8976954c05c",
-      "title": "Veep urges urgent action to tackle malnutrition",
-      "summary": "Vice President Muhammed Jallow has called for urgent and collective action to tackle malnutrition in The Gambia, describing nutrition as a critical pillar of human capital development, productivity and national prosperity. He made the call on Wednesday while officially launchi...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/veep-urges-urgent-action-to-tackle-malnutrition/",
-      "publishedAt": "2026-10-09T10:02:31.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T00:14:04.426Z",
-    "count": 5
+    "generatedAt": "2026-10-16T07:00:40.795Z",
+    "count": 3
   }
 }
