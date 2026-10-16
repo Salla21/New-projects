@@ -213,36 +213,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "607ba0d961d7bfda",
-      "title": "Barrow raps Darboe on election prediction",
-      "summary": "President Adama Barrow has hit back at opposition leader Ousainu Darboe over his claim that he would not win the December 2026 presidential election even if he were to open the vaults of Central Bank and spent the money on electioneering. Barrow made this remark during the ong...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/barrow-raps-darboe-on-election-prediction/",
-      "publishedAt": "2026-10-09T10:05:22.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Arret Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T13:11:11.464Z",
-    "count": 10
+    "generatedAt": "2026-10-16T17:56:44.150Z",
+    "count": 9
   }
 }

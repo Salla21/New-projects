@@ -1,6 +1,145 @@
 {
   "items": [
     {
+      "id": "5d4b8d2405e7db23",
+      "title": "Barrow Says He Commands Greater Security Powers Than Jammeh but Won’t Abuse Them",
+      "summary": "By Makutu Manneh President Adama Barrow has said he commands greater security powers than his predecessor, Yahya Jammeh, but has deliberately chosen restraint over repression, insisting that political authority should be exercised in the interest of peace and national stabilit...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-says-he-commands-greater-security-powers-than-jammeh-but-wont-abuse-them/",
+      "publishedAt": "2026-10-16T17:02:04.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c8a2a582d3be35db",
+      "title": "Barrow Accuses UDP of Orchestrating Roadside Protests to Disrupt His Nationwide Tour",
+      "summary": "By Makutu Manneh President Adama Barrow has accused the opposition United Democratic Party (UDP) and other political opponents of organizing groups to heckle him along the routes of his ongoing Meet-the-People Tour, warning against what he described as attempts to disrupt his ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-accuses-udp-of-orchestrating-roadside-protests-to-disrupt-his-nationwide-tour/",
+      "publishedAt": "2026-10-16T16:48:37.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2e68a9a02638caf6",
+      "title": "UDP Accuses NPP of Seeking to Entrench Itself in Power, Vows to Prevent Repeat of 2021 Election",
+      "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party’s (UDP) deputy administrative secretary for external affairs, has accused the governing National People’s Party (NPP) of attempting to consolidate its grip on power ahead of the December 5 presidential election, vowing th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-accuses-npp-of-seeking-to-entrench-itself-in-power-vows-to-prevent-repeat-of-2021-election/",
+      "publishedAt": "2026-10-16T16:43:13.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "af1eef4fd616a1f7",
+      "title": "NDP Leaders Explain Party’s Growing Financial Muscle, Credit Trust in Kebba Bojang",
+      "summary": "By Seedy Jobe Leaders of the National Democratic Party (NDP) have defended the party’s growing financial resources, attributing its rapid expansion and increasingly visible political activities to support from Gambian businesspeople and public confidence in its leader, Kebba M...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-leaders-explain-partys-growing-financial-muscle-credit-trust-in-kebba-bojang/",
+      "publishedAt": "2026-10-16T16:34:24.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "be42505ab799b8d3",
+      "title": "NDP’s Conateh Touts Bojang’s Development Record, Challenges Barrow and Opposition Rivals",
+      "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has described his party’s leader, Kebba Madi Bojang, as the country’s most marketable presidential candidate, arguing that his record of community development distinguishes him from P...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndps-conateh-touts-bojangs-development-record-challenges-barrow-and-opposition-rivals/",
+      "publishedAt": "2026-10-16T16:22:53.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "37e5f1e11580d467",
+      "title": "Conateh Slams Barrow’s Nationwide Tour as Political Exercise Disguised as Public Consultation",
+      "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has accused President Adama Barrow of turning his ongoing Meet-the-People Tour into a political campaign financed with public resources, questioning whether the exercise serves its st...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/conateh-slams-barrows-nationwide-tour-as-political-exercise-disguised-as-public-consultation/",
+      "publishedAt": "2026-10-16T16:10:48.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "90f0435286d17a8f",
       "title": "Agriculture Minister Urges Support for Barrow, Cites Ambitious 2030 Food Security Target",
       "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has urged residents of Manduar in the West Coast Region to support President Adama Barrow in the December 5 presidential election, arguing that his re-election would help The Gambia achieve f...",
@@ -1265,7 +1404,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T13:11:11.464Z",
-    "count": 54
+    "generatedAt": "2026-10-16T17:56:44.150Z",
+    "count": 60
   }
 }

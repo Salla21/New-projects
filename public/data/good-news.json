@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "be42505ab799b8d3",
+      "title": "NDP’s Conateh Touts Bojang’s Development Record, Challenges Barrow and Opposition Rivals",
+      "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has described his party’s leader, Kebba Madi Bojang, as the country’s most marketable presidential candidate, arguing that his record of community development distinguishes him from P...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndps-conateh-touts-bojangs-development-record-challenges-barrow-and-opposition-rivals/",
+      "publishedAt": "2026-10-16T16:22:53.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "640c6689519f621b",
       "title": "US report finds Gambia struggles to protect victims of trafficking",
       "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
@@ -409,76 +433,6 @@
       "status": "published"
     },
     {
-      "id": "beb57c04599fc8cb",
-      "title": "Gambia Joins Record UN Vote Backing Sudan War Crimes Investigation",
-      "summary": "The Gambia has joined a record number of countries at the United Nations Human Rights Council in backing the renewal of the UN Fact-Finding Mission on Sudan, as international pressure grows for accountability over alleged atrocities committed during the country’s war. For the ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-joins-record-un-vote-backing-sudan-war-crimes-investigation/",
-      "publishedAt": "2026-10-09T15:31:54.000Z",
-      "collectedAt": "2026-10-09T23:57:51.031Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c526cecd87bba21a",
-      "title": "FPAC Calls for Police Investigation into Banjul Council Truck Deal",
-      "summary": "Concerns Over D78.7m Banjul Council Contracts By Yankuba Jallow The Finance and Public Accounts Committee (FPAC) of the National Assembly has called for a police investigation into a D11.55m truck contract awarded by Banjul City Council, after finding that the procurement was ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/fpac-calls-for-police-investigation-into-banjul-council-truck-deal/",
-      "publishedAt": "2026-10-09T15:07:09.000Z",
-      "collectedAt": "2026-10-09T23:57:51.031Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d4d712cdac336fcc",
-      "title": "Gala demands gov’t responds to Jammeh assets sale report by October 30",
-      "summary": "Activist group, Gambians Against Looted Assets (Gala), which staged mass street protests last year over the sale of assets seized from former president Yahya Jammeh, has called on President Barrow to provide his government’s response to the recommendations in the report of the...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gala-demands-govt-responds-to-jammeh-assets-sale-report-by-october-30/",
-      "publishedAt": "2026-10-09T10:03:14.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
@@ -487,7 +441,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
+      "collectedAt": "2026-10-16T17:56:32.539Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -503,7 +457,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T13:11:11.464Z",
-    "count": 22
+    "generatedAt": "2026-10-16T17:56:44.150Z",
+    "count": 20
   }
 }

@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "2e68a9a02638caf6",
+      "title": "UDP Accuses NPP of Seeking to Entrench Itself in Power, Vows to Prevent Repeat of 2021 Election",
+      "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party’s (UDP) deputy administrative secretary for external affairs, has accused the governing National People’s Party (NPP) of attempting to consolidate its grip on power ahead of the December 5 presidential election, vowing th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-accuses-npp-of-seeking-to-entrench-itself-in-power-vows-to-prevent-repeat-of-2021-election/",
+      "publishedAt": "2026-10-16T16:43:13.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "be42505ab799b8d3",
+      "title": "NDP’s Conateh Touts Bojang’s Development Record, Challenges Barrow and Opposition Rivals",
+      "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has described his party’s leader, Kebba Madi Bojang, as the country’s most marketable presidential candidate, arguing that his record of community development distinguishes him from P...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndps-conateh-touts-bojangs-development-record-challenges-barrow-and-opposition-rivals/",
+      "publishedAt": "2026-10-16T16:22:53.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "37e5f1e11580d467",
+      "title": "Conateh Slams Barrow’s Nationwide Tour as Political Exercise Disguised as Public Consultation",
+      "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has accused President Adama Barrow of turning his ongoing Meet-the-People Tour into a political campaign financed with public resources, questioning whether the exercise serves its st...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/conateh-slams-barrows-nationwide-tour-as-political-exercise-disguised-as-public-consultation/",
+      "publishedAt": "2026-10-16T16:10:48.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "07e16a8fc74a3140",
       "title": "Magistrate Sambou fines Haruna Cassama D2 million for trafficking cocaine",
       "summary": "By Louise Jobe The Brikama Magistrates’ Court has convicted and fined Haruna Cassama D2 million after finding him guilty of aggravated drug trafficking and dealing in prohibited drugs involving 11 blocks of cocaine weighing 13 kilogrammes. Magistrate K. Sambou handed down the ...",
@@ -259,27 +329,6 @@
       "status": "published"
     },
     {
-      "id": "9ee155ec0c2dff55",
-      "title": "3 CIVIL SERVANTS FINED D1M FOR DRUGS TRAFFICKING",
-      "summary": "Three civil servants arrested after suspected cannabis was allegedly found concealed in a government vehicle have been fined a total D1,050,000 after been found guilty by the Brikama Magistrates’ Court. The three – 29-year-old Adama Tabally from the Ministry of Finance; 28-yea...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/3-civil-servants-fined-d1m-for-drugs-trafficking/",
-      "publishedAt": "2026-10-09T10:05:36.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Olimatou Coker",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7ee89519d7b48d66",
       "title": "Dibba launches book on migration, fatherhood in Geneva",
       "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
@@ -288,7 +337,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
+      "collectedAt": "2026-10-16T17:56:32.539Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -311,7 +360,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-16T13:11:05.035Z",
+      "collectedAt": "2026-10-16T17:56:32.002Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -332,7 +381,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-16T13:11:05.035Z",
+      "collectedAt": "2026-10-16T17:56:32.002Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -348,7 +397,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T13:11:11.464Z",
-    "count": 15
+    "generatedAt": "2026-10-16T17:56:44.150Z",
+    "count": 17
   }
 }

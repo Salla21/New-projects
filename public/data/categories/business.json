@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "af1eef4fd616a1f7",
+      "title": "NDP Leaders Explain Party’s Growing Financial Muscle, Credit Trust in Kebba Bojang",
+      "summary": "By Seedy Jobe Leaders of the National Democratic Party (NDP) have defended the party’s growing financial resources, attributing its rapid expansion and increasingly visible political activities to support from Gambian businesspeople and public confidence in its leader, Kebba M...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-leaders-explain-partys-growing-financial-muscle-credit-trust-in-kebba-bojang/",
+      "publishedAt": "2026-10-16T16:34:24.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "be42505ab799b8d3",
+      "title": "NDP’s Conateh Touts Bojang’s Development Record, Challenges Barrow and Opposition Rivals",
+      "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has described his party’s leader, Kebba Madi Bojang, as the country’s most marketable presidential candidate, arguing that his record of community development distinguishes him from P...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndps-conateh-touts-bojangs-development-record-challenges-barrow-and-opposition-rivals/",
+      "publishedAt": "2026-10-16T16:22:53.000Z",
+      "collectedAt": "2026-10-16T17:56:40.003Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "640c6689519f621b",
       "title": "US report finds Gambia struggles to protect victims of trafficking",
       "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
@@ -952,56 +999,6 @@
       "status": "published"
     },
     {
-      "id": "607ba0d961d7bfda",
-      "title": "Barrow raps Darboe on election prediction",
-      "summary": "President Adama Barrow has hit back at opposition leader Ousainu Darboe over his claim that he would not win the December 2026 presidential election even if he were to open the vaults of Central Bank and spent the money on electioneering. Barrow made this remark during the ong...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/barrow-raps-darboe-on-election-prediction/",
-      "publishedAt": "2026-10-09T10:05:22.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Arret Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d4d712cdac336fcc",
-      "title": "Gala demands gov’t responds to Jammeh assets sale report by October 30",
-      "summary": "Activist group, Gambians Against Looted Assets (Gala), which staged mass street protests last year over the sale of assets seized from former president Yahya Jammeh, has called on President Barrow to provide his government’s response to the recommendations in the report of the...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/gala-demands-govt-responds-to-jammeh-assets-sale-report-by-october-30/",
-      "publishedAt": "2026-10-09T10:03:14.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Tabora Bojang",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -1010,7 +1007,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-16T13:11:05.035Z",
+      "collectedAt": "2026-10-16T17:56:32.002Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1033,7 +1030,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/ronaldo-explains-portugal-walkout-accuses-jorge-jesus-of-breaking-his-word/",
       "publishedAt": "2026-10-06T20:43:40.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
+      "collectedAt": "2026-10-16T17:56:32.539Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1056,7 +1053,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-16T13:11:05.035Z",
+      "collectedAt": "2026-10-16T17:56:32.002Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1079,7 +1076,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-16T13:11:05.035Z",
+      "collectedAt": "2026-10-16T17:56:32.002Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -1095,7 +1092,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T13:11:11.464Z",
+    "generatedAt": "2026-10-16T17:56:44.150Z",
     "count": 46
   }
 }

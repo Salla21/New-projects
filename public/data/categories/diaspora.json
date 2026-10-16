@@ -481,30 +481,6 @@
       "status": "published"
     },
     {
-      "id": "151beac1279480c0",
-      "title": "DIASPORA VOTING:  AN UNFULFILLED PROMISE",
-      "summary": "In his 2016 presidential election manifesto, one of President Barrow’s promise was for Gambians in the Diaspora to be able to exercise their right to vote, particularly at presidential elections. After serving two terms in ten years the hopes of Gambians in the diaspora to cas...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/diaspora-voting-an-unfulfilled-promise/",
-      "publishedAt": "2026-10-09T12:00:00.000Z",
-      "collectedAt": "2026-10-09T23:57:51.031Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "2ecccddbfa20a01c",
       "title": "Three Years Without Salary: Former Immigration Officer Alleges Unfair Dismissal, Demands Answers",
       "summary": "Written by: Dawda Baldeh Former Gambia Immigration Department officer Foday Danso has accused the institution of withholding his salary for approximately three years before dismissing him under circumstances he believes were unfair and procedurally irregular. Danso, who joined...",
@@ -513,7 +489,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/three-years-without-salary-former-immigration-officer-alleges-unfair-dismissal-demands-answers/",
       "publishedAt": "2026-10-09T10:49:10.000Z",
-      "collectedAt": "2026-10-09T13:04:52.799Z",
+      "collectedAt": "2026-10-16T17:56:32.539Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -521,32 +497,6 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "607ba0d961d7bfda",
-      "title": "Barrow raps Darboe on election prediction",
-      "summary": "President Adama Barrow has hit back at opposition leader Ousainu Darboe over his claim that he would not win the December 2026 presidential election even if he were to open the vaults of Central Bank and spent the money on electioneering. Barrow made this remark during the ong...",
-      "sourceId": "the-standard",
-      "sourceName": "The Standard",
-      "sourceUrl": "https://standard.gm/feed/",
-      "originalUrl": "https://standard.gm/barrow-raps-darboe-on-election-prediction/",
-      "publishedAt": "2026-10-09T10:05:22.000Z",
-      "collectedAt": "2026-10-09T13:01:44.366Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Arret Jatta",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -562,7 +512,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
+      "collectedAt": "2026-10-16T17:56:32.539Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -578,7 +528,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T13:11:11.464Z",
-    "count": 24
+    "generatedAt": "2026-10-16T17:56:44.150Z",
+    "count": 22
   }
 }
