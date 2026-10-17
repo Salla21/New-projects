@@ -370,50 +370,6 @@
       "status": "published"
     },
     {
-      "id": "247ab8cbf44735f4",
-      "title": "Transport Ministry Awards Contract for Banjul International Airport Modernization Studies",
-      "summary": "By Makutu Manneh The Ministry of Transport, Works and Infrastructure has signed a contract with Concorde Aviation Intelligence to conduct feasibility studies and develop plans for the modernization of Banjul International Airport, as part of efforts to upgrade The Gambia’s avi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/transport-ministry-awards-contract-for-banjul-international-airport-modernization-studies/",
-      "publishedAt": "2026-10-09T18:50:33.000Z",
-      "collectedAt": "2026-10-09T19:28:07.867Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1a391a4166e3e406",
-      "title": "FSQA Rejects Five Truckloads of Irish Potatoes Over Spoilage and Safety Concerns",
-      "summary": "By Makutu Manneh The Food Safety and Quality Authority of The Gambia (FSQA) has denied entry to five truckloads of Irish potatoes at the Amdalai border crossing after inspectors discovered widespread fungal growth, spoilage and unsanitary conditions. In a statement, the author...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/fsqa-rejects-five-truckloads-of-irish-potatoes-over-spoilage-and-safety-concerns/",
-      "publishedAt": "2026-10-09T18:40:28.000Z",
-      "collectedAt": "2026-10-09T19:28:07.867Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0e58830ee19139bd",
       "title": "Survivors Take Lead in Push to End FGM as Regional Chapters Launched",
       "summary": "By Mama A. Touray Women in Liberation and Leadership (WILL), in collaboration with its partners, has launched survivor network regional chapters across The Gambia in a move aimed at amplifying the voices of survivors and strengthening efforts to end female genital mutilation (...",
@@ -422,7 +378,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
       "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-16T20:53:49.008Z",
+      "collectedAt": "2026-10-17T00:17:37.980Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -443,7 +399,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T20:53:49.008Z",
+      "collectedAt": "2026-10-17T00:17:37.980Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -459,7 +415,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T20:53:54.198Z",
-    "count": 20
+    "generatedAt": "2026-10-17T00:17:48.089Z",
+    "count": 18
   }
 }

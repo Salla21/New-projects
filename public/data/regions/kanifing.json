@@ -161,33 +161,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "92c5c88c2ee0dc43",
-      "title": "Bensouda Says Rivals Are Targeting Coalition 2026 Because It Threatens Them",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and the presidential candidate of Coalition 2026, accused both the government and opposition parties on Thursday of targeting his coalition because they view it as a serious threat ahead of The Gambia’s p...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-says-rivals-are-targeting-coalition-2026-because-it-threatens-them/",
-      "publishedAt": "2026-10-09T21:26:20.000Z",
-      "collectedAt": "2026-10-09T23:57:59.278Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T20:53:54.198Z",
-    "count": 8
+    "generatedAt": "2026-10-17T00:17:48.089Z",
+    "count": 7
   }
 }

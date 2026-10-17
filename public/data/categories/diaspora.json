@@ -505,31 +505,6 @@
       "status": "published"
     },
     {
-      "id": "da9783e25f2a9a3c",
-      "title": "Aji Yam Secka Urges UDP Supporters to Mobilize for Darboe Ahead of 2026 Election",
-      "summary": "By Fatou Sillah Aji Yam Secka, deputy leader of the United Democratic Party (UDP), has called on party members and supporters to intensify grassroots mobilization ahead of the December 2026 presidential election, expressing confidence that party leader Ousainou Darboe will def...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/aji-yam-secka-urges-udp-supporters-to-mobilize-for-darboe-ahead-of-2026-election/",
-      "publishedAt": "2026-10-09T20:26:48.000Z",
-      "collectedAt": "2026-10-09T23:57:59.278Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "2ecccddbfa20a01c",
       "title": "Three Years Without Salary: Former Immigration Officer Alleges Unfair Dismissal, Demands Answers",
       "summary": "Written by: Dawda Baldeh Former Gambia Immigration Department officer Foday Danso has accused the institution of withholding his salary for approximately three years before dismissing him under circumstances he believes were unfair and procedurally irregular. Danso, who joined...",
@@ -538,7 +513,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/three-years-without-salary-former-immigration-officer-alleges-unfair-dismissal-demands-answers/",
       "publishedAt": "2026-10-09T10:49:10.000Z",
-      "collectedAt": "2026-10-16T20:53:49.008Z",
+      "collectedAt": "2026-10-17T00:17:37.980Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -561,7 +536,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-16T20:53:49.008Z",
+      "collectedAt": "2026-10-17T00:17:37.980Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -577,7 +552,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-16T20:53:54.198Z",
-    "count": 24
+    "generatedAt": "2026-10-17T00:17:48.089Z",
+    "count": 23
   }
 }
