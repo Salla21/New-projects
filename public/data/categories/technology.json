@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "a07ecc3c1144a0ea",
+      "title": "UDP’s Sanneh Sees Echoes of 2016 as Party Eyes Presidential Victory",
+      "summary": "By Fatou Sillah Lamin J.K. Sanneh, the United Democratic Party’s (UDP) deputy administrative secretary for social affairs and fundraising, has expressed confidence that his party is well-positioned to win the December 5 presidential election, citing its growing political suppo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-sanneh-sees-echoes-of-2016-as-party-eyes-presidential-victory/",
+      "publishedAt": "2026-10-17T20:34:31.000Z",
+      "collectedAt": "2026-10-17T23:55:50.693Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "640c6689519f621b",
       "title": "US report finds Gambia struggles to protect victims of trafficking",
       "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
@@ -168,7 +192,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T20:27:33.378Z",
-    "count": 7
+    "generatedAt": "2026-10-17T23:55:54.787Z",
+    "count": 8
   }
 }

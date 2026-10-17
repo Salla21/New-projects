@@ -902,33 +902,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3beae4bf67fb970b",
-      "title": "China Confirms Plan to Nominate Song Li for WHO Top Job",
-      "summary": "By Yankuba Jallow China has confirmed plans to nominate public health official Song Li as a candidate for the top position at the World Health Organisation (WHO), saying the move reflects its support for multilateralism and global health cooperation. Chinese foreign ministry s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/china-confirms-plan-to-nominate-song-li-for-who-top-job/",
-      "publishedAt": "2026-10-11T04:53:00.000Z",
-      "collectedAt": "2026-10-11T05:24:54.915Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T20:27:33.378Z",
-    "count": 40
+    "generatedAt": "2026-10-17T23:55:54.787Z",
+    "count": 39
   }
 }

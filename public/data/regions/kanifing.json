@@ -136,33 +136,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "57e59e9f53f89c86",
-      "title": "Bensouda Pledges Hospital, Mosque and Mini-Stadium for CRR North",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing and presidential candidate of Coalition 2026, has pledged to build a regional hospital, a mosque and an international-standard mini-stadium in the northern part of the Central River Region if elected president. Speaki...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-hospital-mosque-and-mini-stadium-for-crr-north/",
-      "publishedAt": "2026-10-11T02:51:03.000Z",
-      "collectedAt": "2026-10-11T05:25:00.302Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T20:27:33.378Z",
-    "count": 7
+    "generatedAt": "2026-10-17T23:55:54.787Z",
+    "count": 6
   }
 }
