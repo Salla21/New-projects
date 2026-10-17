@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "1fa7614800232e82",
+      "title": "Tupac’s Story has 3 Feminine Energy Lessons For High-Achieving Women… And The Latest News Makes Them Even More Powerful",
+      "summary": "By RamaTulai My husband and I were watching the news about the Tupac Shakur murder case when, naturally, he started giving me the full history. This man was a serious Tupac and hip-hop fan back in the day, so I settled in because I knew I was about to receive a whole documenta...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/tupacs-story-has-3-feminine-energy-lessons-for-high-achieving-women-and-the-latest-news-makes-them-even-more-powerful/",
+      "publishedAt": "2026-10-17T10:39:42.000Z",
+      "collectedAt": "2026-10-17T12:07:07.160Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "099f990c7e9a49ad",
       "title": "Darboe Urges Opposition Voters to Back Candidates With a Realistic Chance of Winning",
       "summary": "By Fatou Sillah Ousainu Darboe, leader of the United Democratic Party (UDP) and flagbearer of the Gambia First Coalition, has urged opposition supporters to vote for the candidates they believe have a realistic chance of winning, saying this could help bring about political ch...",
@@ -2309,33 +2330,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d89a077d86c8f32d",
-      "title": "Bensouda Urges Barrow to Rein In Ministers Over Divisive Tribal Rhetoric",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, mayor of the Kanifing Municipal Council and presidential candidate of Coalition 2026, has called on President Adama Barrow to take decisive action against government ministers who make statements that could fuel tribal divisions, warning t...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-urges-barrow-to-rein-in-ministers-over-divisive-tribal-rhetoric/",
-      "publishedAt": "2026-10-09T21:46:34.000Z",
-      "collectedAt": "2026-10-09T23:57:59.278Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T06:51:21.252Z",
+    "generatedAt": "2026-10-17T12:07:12.641Z",
     "count": 100
   }
 }
