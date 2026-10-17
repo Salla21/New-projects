@@ -1,29 +1,6 @@
 {
   "items": [
     {
-      "id": "d89a077d86c8f32d",
-      "title": "Bensouda Urges Barrow to Rein In Ministers Over Divisive Tribal Rhetoric",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, mayor of the Kanifing Municipal Council and presidential candidate of Coalition 2026, has called on President Adama Barrow to take decisive action against government ministers who make statements that could fuel tribal divisions, warning t...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-urges-barrow-to-rein-in-ministers-over-divisive-tribal-rhetoric/",
-      "publishedAt": "2026-10-09T21:46:34.000Z",
-      "collectedAt": "2026-10-09T23:57:59.278Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0e58830ee19139bd",
       "title": "Survivors Take Lead in Push to End FGM as Regional Chapters Launched",
       "summary": "By Mama A. Touray Women in Liberation and Leadership (WILL), in collaboration with its partners, has launched survivor network regional chapters across The Gambia in a move aimed at amplifying the voices of survivors and strengthening efforts to end female genital mutilation (...",
@@ -32,7 +9,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
       "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-17T12:07:07.160Z",
+      "collectedAt": "2026-10-17T16:58:54.299Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -53,7 +30,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/three-years-without-salary-former-immigration-officer-alleges-unfair-dismissal-demands-answers/",
       "publishedAt": "2026-10-09T10:49:10.000Z",
-      "collectedAt": "2026-10-17T12:07:07.160Z",
+      "collectedAt": "2026-10-17T16:58:54.299Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -69,7 +46,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T12:07:12.641Z",
-    "count": 3
+    "generatedAt": "2026-10-17T16:59:01.109Z",
+    "count": 2
   }
 }

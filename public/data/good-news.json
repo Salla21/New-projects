@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "82d4c9fc4d7e5f05",
+      "title": "‘One Pint of Blood Can Save Three Lives’-NBTC Praises Join Hands 2 Save a Baby",
+      "summary": "By: Dawda Baldeh The National Blood Transfusion Center (NBTC) has commended Join Hands 2 Save a Baby for spearheading a blood donation drive at the center in Farato, warning that blood shortages continue to cost lives and urging Gambians to embrace voluntary blood donation. Re...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/one-pint-of-blood-can-save-three-lives-nbtc-praises-join-hands-2-save-a-baby/",
+      "publishedAt": "2026-10-17T16:46:07.000Z",
+      "collectedAt": "2026-10-17T16:58:54.299Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bcb67fdcc8cb3d88",
       "title": "Hamat Bah Says No Presidential Challenger Can Match Barrow’s Record, Warns Against Election Violence",
       "summary": "By Makutu Manneh Hamat Bah, Minister of Lands, Regional Government, and Religious Affairs, has declared that none of the candidates challenging President Adama Barrow in the December 5 presidential election can match his record of achievements, leadership, and commitment to na...",
@@ -378,7 +399,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
       "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-17T12:07:07.160Z",
+      "collectedAt": "2026-10-17T16:58:54.299Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -399,7 +420,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-17T12:07:07.160Z",
+      "collectedAt": "2026-10-17T16:58:54.299Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -415,7 +436,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T12:07:12.641Z",
-    "count": 18
+    "generatedAt": "2026-10-17T16:59:01.109Z",
+    "count": 19
   }
 }

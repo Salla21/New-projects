@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "3173b574e4b1a2ac",
+      "title": "TALIB AHMED BENSOUDA: THE THIRD FORCE SET TO RESHAPE THE GAMBIAN ELECTION",
+      "summary": "By Tombong SaidyNational Treasurer, UNITE Party The wind of change is blowing, and Coalition 2026 is at the centre of a growing demand for political renewal. As The Gambia approaches the December 5, 2026 presidential election, Talib Ahmed Bensouda is emerging as the face of a ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/talib-ahmed-bensouda-the-third-force-set-to-reshape-the-gambian-election/",
+      "publishedAt": "2026-10-17T12:58:43.000Z",
+      "collectedAt": "2026-10-17T16:58:54.299Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "099f990c7e9a49ad",
       "title": "Darboe Urges Opposition Voters to Back Candidates With a Realistic Chance of Winning",
       "summary": "By Fatou Sillah Ousainu Darboe, leader of the United Democratic Party (UDP) and flagbearer of the Gambia First Coalition, has urged opposition supporters to vote for the candidates they believe have a realistic chance of winning, saying this could help bring about political ch...",
@@ -1631,29 +1654,6 @@
       "status": "published"
     },
     {
-      "id": "d89a077d86c8f32d",
-      "title": "Bensouda Urges Barrow to Rein In Ministers Over Divisive Tribal Rhetoric",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, mayor of the Kanifing Municipal Council and presidential candidate of Coalition 2026, has called on President Adama Barrow to take decisive action against government ministers who make statements that could fuel tribal divisions, warning t...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-urges-barrow-to-rein-in-ministers-over-divisive-tribal-rhetoric/",
-      "publishedAt": "2026-10-09T21:46:34.000Z",
-      "collectedAt": "2026-10-09T23:57:59.278Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1662,7 +1662,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-17T12:07:06.637Z",
+      "collectedAt": "2026-10-17T16:58:54.010Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1678,7 +1678,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T12:07:12.641Z",
+    "generatedAt": "2026-10-17T16:59:01.109Z",
     "count": 71
   }
 }

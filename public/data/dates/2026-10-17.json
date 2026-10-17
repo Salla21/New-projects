@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "82d4c9fc4d7e5f05",
+      "title": "‘One Pint of Blood Can Save Three Lives’-NBTC Praises Join Hands 2 Save a Baby",
+      "summary": "By: Dawda Baldeh The National Blood Transfusion Center (NBTC) has commended Join Hands 2 Save a Baby for spearheading a blood donation drive at the center in Farato, warning that blood shortages continue to cost lives and urging Gambians to embrace voluntary blood donation. Re...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/one-pint-of-blood-can-save-three-lives-nbtc-praises-join-hands-2-save-a-baby/",
+      "publishedAt": "2026-10-17T16:46:07.000Z",
+      "collectedAt": "2026-10-17T16:58:54.299Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3173b574e4b1a2ac",
+      "title": "TALIB AHMED BENSOUDA: THE THIRD FORCE SET TO RESHAPE THE GAMBIAN ELECTION",
+      "summary": "By Tombong SaidyNational Treasurer, UNITE Party The wind of change is blowing, and Coalition 2026 is at the centre of a growing demand for political renewal. As The Gambia approaches the December 5, 2026 presidential election, Talib Ahmed Bensouda is emerging as the face of a ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/talib-ahmed-bensouda-the-third-force-set-to-reshape-the-gambian-election/",
+      "publishedAt": "2026-10-17T12:58:43.000Z",
+      "collectedAt": "2026-10-17T16:58:54.299Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1fa7614800232e82",
       "title": "Tupac’s Story has 3 Feminine Energy Lessons For High-Achieving Women… And The Latest News Makes Them Even More Powerful",
       "summary": "By RamaTulai My husband and I were watching the news about the Tupac Shakur murder case when, naturally, he started giving me the full history. This man was a serious Tupac and hip-hop fan back in the day, so I settled in because I knew I was about to receive a whole documenta...",
@@ -23,7 +67,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T12:07:12.641Z",
-    "count": 1
+    "generatedAt": "2026-10-17T16:59:01.109Z",
+    "count": 3
   }
 }
