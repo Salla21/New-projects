@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "47a5fb573b71667c",
+      "title": "Barrow’s Coalition Partners Bring No Real Electoral Support, UNITE’s Sanyang Claims",
+      "summary": "By Makutu Manneh Yaya Menteng Sanyang, deputy party leader for finance and administration of UNITE Party and National Assembly Member for Latrikunda Sabiji, has dismissed the ruling National People’s Party’s (NPP) expanding political alliance as a mere collection of politician...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrows-coalition-partners-bring-no-real-electoral-support-unites-sanyang-claims/",
+      "publishedAt": "2026-10-17T17:07:52.000Z",
+      "collectedAt": "2026-10-17T20:27:29.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1b12665fbeca901e",
+      "title": "“If Barrow Does Not Act, We Will”: GALA Warns Over Jammeh Assets Report",
+      "summary": "By Seedy Jobe Hakeem Touray, national coordinator of GALA, has warned that his organization will take further action if President Adama Barrow fails to respond to the National Assembly’s special select committee report on the sale of former President Yahya Jammeh’s assets by O...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/if-barrow-does-not-act-we-will-gala-warns-over-jammeh-assets-report/",
+      "publishedAt": "2026-10-17T17:00:44.000Z",
+      "collectedAt": "2026-10-17T20:27:29.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "099f990c7e9a49ad",
       "title": "Darboe Urges Opposition Voters to Back Candidates With a Realistic Chance of Winning",
       "summary": "By Fatou Sillah Ousainu Darboe, leader of the United Democratic Party (UDP) and flagbearer of the Gambia First Coalition, has urged opposition supporters to vote for the candidates they believe have a realistic chance of winning, saying this could help bring about political ch...",
@@ -984,7 +1032,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-17T16:58:54.010Z",
+      "collectedAt": "2026-10-17T20:27:26.469Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1007,7 +1055,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-17T16:58:54.010Z",
+      "collectedAt": "2026-10-17T20:27:26.469Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1030,7 +1078,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-17T16:58:54.010Z",
+      "collectedAt": "2026-10-17T20:27:26.469Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -1046,7 +1094,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T16:59:01.109Z",
-    "count": 44
+    "generatedAt": "2026-10-17T20:27:33.378Z",
+    "count": 46
   }
 }

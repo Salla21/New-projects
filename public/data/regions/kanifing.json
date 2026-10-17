@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "6dd3edf1f081b3d5",
+      "title": "Sanyang Urges Gambians to Trust Bensouda With Presidency, Cites Transformative Leadership at KMC",
+      "summary": "By Makutu Manneh Yaya Menteng Sanyang, deputy party leader for finance and administration of the UNITE Party, has urged Gambians to entrust Talib Ahmed Bensouda with the presidency, arguing that his record as mayor of the Kanifing Municipal Council (KMC) demonstrates the leade...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sanyang-urges-gambians-to-trust-bensouda-with-presidency-cites-transformative-leadership-at-kmc/",
+      "publishedAt": "2026-10-17T17:15:55.000Z",
+      "collectedAt": "2026-10-17T20:27:29.282Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0b9c2b8a99e63a62",
       "title": "Magistrate Jallow rejects application to reopen eight voter registration cases",
       "summary": "By Mariama Marong Magistrate Isatou Jallow of the Kanifing Revising Court has dismissed an application by Sulayman Fadera to reopen eight voter registration cases. She ruled that Fadera failed to give a satisfactory explanation for his absence when the matters were scheduled f...",
@@ -141,7 +162,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T16:59:01.109Z",
-    "count": 6
+    "generatedAt": "2026-10-17T20:27:33.378Z",
+    "count": 7
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "91b0b8272d158b86",
+      "title": "Gambia Immigration Department Intercepts 102 Suspected Irregular Migrants in Three Operations",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 102 suspected irregular migrants in separate operations conducted in Brufut, Batokunku, and Jarra Japineh as part of its ongoing efforts to combat irregular migration and dismantle migrant-smuggling netwo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-102-suspected-irregular-migrants-in-three-operations/",
+      "publishedAt": "2026-10-17T17:27:56.000Z",
+      "collectedAt": "2026-10-17T20:27:29.282Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "099f990c7e9a49ad",
       "title": "Darboe Urges Opposition Voters to Back Candidates With a Realistic Chance of Winning",
       "summary": "By Fatou Sillah Ousainu Darboe, leader of the United Democratic Party (UDP) and flagbearer of the Gambia First Coalition, has urged opposition supporters to vote for the candidates they believe have a realistic chance of winning, saying this could help bring about political ch...",
@@ -513,7 +536,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/three-years-without-salary-former-immigration-officer-alleges-unfair-dismissal-demands-answers/",
       "publishedAt": "2026-10-09T10:49:10.000Z",
-      "collectedAt": "2026-10-17T16:58:54.299Z",
+      "collectedAt": "2026-10-17T20:27:26.567Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -536,7 +559,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-17T16:58:54.299Z",
+      "collectedAt": "2026-10-17T20:27:26.567Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -552,7 +575,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T16:59:01.109Z",
-    "count": 23
+    "generatedAt": "2026-10-17T20:27:33.378Z",
+    "count": 24
   }
 }

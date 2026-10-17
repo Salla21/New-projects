@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "f3a1fe467d7860c7",
+      "title": "Former Niamina East Lawmaker Challenges Barrow’s Development Record, Urges Voters to Reject Him",
+      "summary": "By Fatou Sillah Omar Ceesay, a former National Assembly Member for Niamina East and a member of the opposition UNITE Party, has urged Gambians to vote against President Adama Barrow in the December 2026 presidential election, accusing his administration of failing to deliver o...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/former-niamina-east-lawmaker-challenges-barrows-development-record-urges-voters-to-reject-him/",
+      "publishedAt": "2026-10-17T18:58:53.000Z",
+      "collectedAt": "2026-10-17T20:27:29.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6dd3edf1f081b3d5",
+      "title": "Sanyang Urges Gambians to Trust Bensouda With Presidency, Cites Transformative Leadership at KMC",
+      "summary": "By Makutu Manneh Yaya Menteng Sanyang, deputy party leader for finance and administration of the UNITE Party, has urged Gambians to entrust Talib Ahmed Bensouda with the presidency, arguing that his record as mayor of the Kanifing Municipal Council (KMC) demonstrates the leade...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sanyang-urges-gambians-to-trust-bensouda-with-presidency-cites-transformative-leadership-at-kmc/",
+      "publishedAt": "2026-10-17T17:15:55.000Z",
+      "collectedAt": "2026-10-17T20:27:29.282Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "82d4c9fc4d7e5f05",
       "title": "‘One Pint of Blood Can Save Three Lives’-NBTC Praises Join Hands 2 Save a Baby",
       "summary": "By: Dawda Baldeh The National Blood Transfusion Center (NBTC) has commended Join Hands 2 Save a Baby for spearheading a blood donation drive at the center in Farato, warning that blood shortages continue to cost lives and urging Gambians to embrace voluntary blood donation. Re...",
@@ -399,7 +443,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
       "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-17T16:58:54.299Z",
+      "collectedAt": "2026-10-17T20:27:26.567Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -420,7 +464,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
       "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-17T16:58:54.299Z",
+      "collectedAt": "2026-10-17T20:27:26.567Z",
       "region": "west-coast",
       "categories": [
         "diaspora"
@@ -436,7 +480,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T16:59:01.109Z",
-    "count": 19
+    "generatedAt": "2026-10-17T20:27:33.378Z",
+    "count": 21
   }
 }
