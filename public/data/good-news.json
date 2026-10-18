@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "c012cd16babba51a",
+      "title": "Jammeh Urges Gambians to Reject Tribalism, Embrace Shared National Identity",
+      "summary": "By Fatou Sillah Former President Yahya Jammeh has warned Gambians against tribalism and regional divisions, describing ethnic politics as a threat to national unity, peace and development. In a recorded message played at a rally organized by the No to Alliance Movement at the ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/jammeh-urges-gambians-to-reject-tribalism-embrace-shared-national-identity/",
+      "publishedAt": "2026-10-18T17:50:47.000Z",
+      "collectedAt": "2026-10-18T18:34:18.178Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6ecf7837a2dfede9",
       "title": "Batchilly Challenges Barrow to Account for Promises as Cost of Living Bites",
       "summary": "By Dawda Baldeh The leader of the Gambia Action Party (GAP), Musa Ousainou Yali Batchilly, has challenged President Adama Barrow to account for his government’s promises, achievements and shortcomings, arguing that many Gambians are grappling with rising living costs and econo...",
@@ -444,7 +467,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
       "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-18T15:47:06.313Z",
+      "collectedAt": "2026-10-18T18:34:16.654Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -458,7 +481,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T15:47:11.774Z",
-    "count": 20
+    "generatedAt": "2026-10-18T18:34:22.327Z",
+    "count": 21
   }
 }
