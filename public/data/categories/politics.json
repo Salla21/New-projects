@@ -1586,29 +1586,6 @@
       "status": "published"
     },
     {
-      "id": "ffacdfde6c8a9fd3",
-      "title": "APRC No-to-Alliance Faction Says NPP Alliance Could Pave Way for Jammeh’s Return, Unlike UDP",
-      "summary": "By Makutu Manneh Halifa E. Jarju, Public Relations Officer of the APRC No-to-Alliance faction, has said that an alliance with the ruling National People’s Party (NPP) could facilitate the return of former President Yahya Jammeh, whereas an alliance with the opposition United D...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/aprc-no-to-alliance-faction-says-npp-alliance-could-pave-way-for-jammehs-return-unlike-udp/",
-      "publishedAt": "2026-10-11T16:08:37.000Z",
-      "collectedAt": "2026-10-11T18:46:19.835Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1617,7 +1594,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-17T23:55:49.205Z",
+      "collectedAt": "2026-10-18T04:10:19.098Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1633,7 +1610,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-17T23:55:54.787Z",
-    "count": 69
+    "generatedAt": "2026-10-18T04:10:24.723Z",
+    "count": 68
   }
 }
