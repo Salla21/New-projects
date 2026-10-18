@@ -504,29 +504,6 @@
       "status": "published"
     },
     {
-      "id": "fa76e5cf3b7d0ca2",
-      "title": "GID Intercepts 81 Suspected Migrants, Arrests Two Alleged Traffickers in Separate Operations",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 81 suspected would-be migrants and arrested two alleged migrant traffickers in separate operations in Brufut and Kuntaya Village, as authorities intensify efforts to combat irregular migration. In a state...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gid-intercepts-81-suspected-migrants-arrests-two-alleged-traffickers-in-separate-operations/",
-      "publishedAt": "2026-10-11T22:13:37.000Z",
-      "collectedAt": "2026-10-11T23:34:38.851Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "2ecccddbfa20a01c",
       "title": "Three Years Without Salary: Former Immigration Officer Alleges Unfair Dismissal, Demands Answers",
       "summary": "Written by: Dawda Baldeh Former Gambia Immigration Department officer Foday Danso has accused the institution of withholding his salary for approximately three years before dismissing him under circumstances he believes were unfair and procedurally irregular. Danso, who joined...",
@@ -535,7 +512,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/three-years-without-salary-former-immigration-officer-alleges-unfair-dismissal-demands-answers/",
       "publishedAt": "2026-10-09T10:49:10.000Z",
-      "collectedAt": "2026-10-18T18:34:16.654Z",
+      "collectedAt": "2026-10-18T22:22:26.783Z",
       "region": "banjul",
       "categories": [
         "diaspora"
@@ -551,7 +528,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T18:34:22.327Z",
-    "count": 23
+    "generatedAt": "2026-10-18T22:22:32.288Z",
+    "count": 22
   }
 }

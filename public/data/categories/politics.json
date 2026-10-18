@@ -1631,29 +1631,6 @@
       "status": "published"
     },
     {
-      "id": "daf36a081d3886ff",
-      "title": "Bensouda Pledges to Eradicate Poverty in The Gambia Within 10 Years",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has pledged to eradicate poverty in The Gambia within 10 years, arguing that achieving such an ambitious goal would require visionary, honest, and disciplined...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-eradicate-poverty-in-the-gambia-within-10-years/",
-      "publishedAt": "2026-10-11T22:07:08.000Z",
-      "collectedAt": "2026-10-11T23:34:38.851Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1662,7 +1639,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-18T18:34:16.447Z",
+      "collectedAt": "2026-10-18T22:22:26.408Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1678,7 +1655,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T18:34:22.327Z",
-    "count": 71
+    "generatedAt": "2026-10-18T22:22:32.288Z",
+    "count": 70
   }
 }

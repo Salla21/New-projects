@@ -1242,56 +1242,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fa76e5cf3b7d0ca2",
-      "title": "GID Intercepts 81 Suspected Migrants, Arrests Two Alleged Traffickers in Separate Operations",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 81 suspected would-be migrants and arrested two alleged migrant traffickers in separate operations in Brufut and Kuntaya Village, as authorities intensify efforts to combat irregular migration. In a state...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gid-intercepts-81-suspected-migrants-arrests-two-alleged-traffickers-in-separate-operations/",
-      "publishedAt": "2026-10-11T22:13:37.000Z",
-      "collectedAt": "2026-10-11T23:34:38.851Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "daf36a081d3886ff",
-      "title": "Bensouda Pledges to Eradicate Poverty in The Gambia Within 10 Years",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has pledged to eradicate poverty in The Gambia within 10 years, arguing that achieving such an ambitious goal would require visionary, honest, and disciplined...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-eradicate-poverty-in-the-gambia-within-10-years/",
-      "publishedAt": "2026-10-11T22:07:08.000Z",
-      "collectedAt": "2026-10-11T23:34:38.851Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T18:34:22.327Z",
-    "count": 55
+    "generatedAt": "2026-10-18T22:22:32.288Z",
+    "count": 53
   }
 }

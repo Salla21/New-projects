@@ -283,29 +283,6 @@
       "status": "published"
     },
     {
-      "id": "fa76e5cf3b7d0ca2",
-      "title": "GID Intercepts 81 Suspected Migrants, Arrests Two Alleged Traffickers in Separate Operations",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 81 suspected would-be migrants and arrested two alleged migrant traffickers in separate operations in Brufut and Kuntaya Village, as authorities intensify efforts to combat irregular migration. In a state...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gid-intercepts-81-suspected-migrants-arrests-two-alleged-traffickers-in-separate-operations/",
-      "publishedAt": "2026-10-11T22:13:37.000Z",
-      "collectedAt": "2026-10-11T23:34:38.851Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -314,7 +291,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-18T18:34:16.447Z",
+      "collectedAt": "2026-10-18T22:22:26.408Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -335,7 +312,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-18T18:34:16.447Z",
+      "collectedAt": "2026-10-18T22:22:26.408Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -351,7 +328,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T18:34:22.327Z",
-    "count": 15
+    "generatedAt": "2026-10-18T22:22:32.288Z",
+    "count": 14
   }
 }
