@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "6ecf7837a2dfede9",
+      "title": "Batchilly Challenges Barrow to Account for Promises as Cost of Living Bites",
+      "summary": "By Dawda Baldeh The leader of the Gambia Action Party (GAP), Musa Ousainou Yali Batchilly, has challenged President Adama Barrow to account for his government’s promises, achievements and shortcomings, arguing that many Gambians are grappling with rising living costs and econo...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/batchilly-challenges-barrow-to-account-for-promises-as-cost-of-living-bites/",
+      "publishedAt": "2026-10-18T11:24:08.000Z",
+      "collectedAt": "2026-10-18T15:47:06.313Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "15cfdc06ce91f5e1",
+      "title": "Barrow’s Remarks on Luxury Lifestyles Spark Online Backlash",
+      "summary": "By Dawda Baldeh President Adama Barrow has faced criticism on social media after saying elected officials are chosen to serve the public, not to drive luxury vehicles or live lavish lifestyles, prompting debate over government spending and the realities facing ordinary Gambian...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrows-remarks-on-luxury-lifestyles-spark-online-backlash/",
+      "publishedAt": "2026-10-18T11:05:37.000Z",
+      "collectedAt": "2026-10-18T15:47:06.313Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a07ecc3c1144a0ea",
       "title": "UDP’s Sanneh Sees Echoes of 2016 as Party Eyes Presidential Victory",
       "summary": "By Fatou Sillah Lamin J.K. Sanneh, the United Democratic Party’s (UDP) deputy administrative secretary for social affairs and fundraising, has expressed confidence that his party is well-positioned to win the December 5 presidential election, citing its growing political suppo...",
@@ -2279,58 +2326,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "94fcdb5a5f781568",
-      "title": "Gambia Condemns Houthi Attacks on Saudi Airports, Reaffirms Solidarity With Kingdom",
-      "summary": "By Fatou Sillah The Gambia government has strongly condemned attacks reportedly carried out by Houthi militants on two international airports in Saudi Arabia, expressing concern over the loss of life, injuries, and damage to property. In a statement, the Ministry of Foreign Af...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-condemns-houthi-attacks-on-saudi-airports-reaffirms-solidarity-with-kingdom/",
-      "publishedAt": "2026-10-11T22:02:14.000Z",
-      "collectedAt": "2026-10-11T23:34:38.851Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "67e106c6488ef7a5",
-      "title": "UDP Spain Chapter Raises D4 Million at Diaspora Fundraiser",
-      "summary": "By Seedy Jobe The United Democratic Party (UDP) Spain Chapter raised D4 million dalasis at a fundraising event held in Spain over the weekend. The event was part of the party’s diaspora fundraising tour, which has already taken in England and Basel, ahead of the presidential e...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-spain-chapter-raises-d4-million-at-diaspora-fundraiser/",
-      "publishedAt": "2026-10-11T19:35:11.000Z",
-      "collectedAt": "2026-10-11T23:34:38.851Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T10:50:04.420Z",
+    "generatedAt": "2026-10-18T15:47:11.774Z",
     "count": 100
   }
 }

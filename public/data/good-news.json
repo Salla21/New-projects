@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6ecf7837a2dfede9",
+      "title": "Batchilly Challenges Barrow to Account for Promises as Cost of Living Bites",
+      "summary": "By Dawda Baldeh The leader of the Gambia Action Party (GAP), Musa Ousainou Yali Batchilly, has challenged President Adama Barrow to account for his government’s promises, achievements and shortcomings, arguing that many Gambians are grappling with rising living costs and econo...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/batchilly-challenges-barrow-to-account-for-promises-as-cost-of-living-bites/",
+      "publishedAt": "2026-10-18T11:24:08.000Z",
+      "collectedAt": "2026-10-18T15:47:06.313Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f3a1fe467d7860c7",
       "title": "Former Niamina East Lawmaker Challenges Barrow’s Development Record, Urges Voters to Reject Him",
       "summary": "By Fatou Sillah Omar Ceesay, a former National Assembly Member for Niamina East and a member of the opposition UNITE Party, has urged Gambians to vote against President Adama Barrow in the December 2026 presidential election, accusing his administration of failing to deliver o...",
@@ -420,32 +444,9 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
       "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-18T10:49:57.898Z",
+      "collectedAt": "2026-10-18T15:47:06.313Z",
       "region": "banjul",
       "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7ee89519d7b48d66",
-      "title": "Dibba launches book on migration, fatherhood in Geneva",
-      "summary": "By Hadram Hydara Gambian author and migration specialist Muhammed Lamin Dibba has launched his policy memoir, Inside the System: Migration, Fatherhood, and the Cost of Silence, at the Geneva Graduate Institute in Switzerland. The book launch, held on Wednesday, was co-organise...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/dibba-launches-book-on-migration-fatherhood-in-geneva/",
-      "publishedAt": "2026-10-08T11:18:40.000Z",
-      "collectedAt": "2026-10-18T10:49:57.898Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Hadram Hydara",
@@ -457,7 +458,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T10:50:04.420Z",
+    "generatedAt": "2026-10-18T15:47:11.774Z",
     "count": 20
   }
 }

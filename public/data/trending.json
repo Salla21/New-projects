@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "6ecf7837a2dfede9",
+      "title": "Batchilly Challenges Barrow to Account for Promises as Cost of Living Bites",
+      "summary": "By Dawda Baldeh The leader of the Gambia Action Party (GAP), Musa Ousainou Yali Batchilly, has challenged President Adama Barrow to account for his government’s promises, achievements and shortcomings, arguing that many Gambians are grappling with rising living costs and econo...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/batchilly-challenges-barrow-to-account-for-promises-as-cost-of-living-bites/",
+      "publishedAt": "2026-10-18T11:24:08.000Z",
+      "collectedAt": "2026-10-18T15:47:06.313Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "15cfdc06ce91f5e1",
+      "title": "Barrow’s Remarks on Luxury Lifestyles Spark Online Backlash",
+      "summary": "By Dawda Baldeh President Adama Barrow has faced criticism on social media after saying elected officials are chosen to serve the public, not to drive luxury vehicles or live lavish lifestyles, prompting debate over government spending and the realities facing ordinary Gambian...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrows-remarks-on-luxury-lifestyles-spark-online-backlash/",
+      "publishedAt": "2026-10-18T11:05:37.000Z",
+      "collectedAt": "2026-10-18T15:47:06.313Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a07ecc3c1144a0ea",
       "title": "UDP’s Sanneh Sees Echoes of 2016 as Party Eyes Presidential Victory",
       "summary": "By Fatou Sillah Lamin J.K. Sanneh, the United Democratic Party’s (UDP) deputy administrative secretary for social affairs and fundraising, has expressed confidence that his party is well-positioned to win the December 5 presidential election, citing its growing political suppo...",
@@ -182,33 +229,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3173b574e4b1a2ac",
-      "title": "TALIB AHMED BENSOUDA: THE THIRD FORCE SET TO RESHAPE THE GAMBIAN ELECTION",
-      "summary": "By Tombong SaidyNational Treasurer, UNITE Party The wind of change is blowing, and Coalition 2026 is at the centre of a growing demand for political renewal. As The Gambia approaches the December 5, 2026 presidential election, Talib Ahmed Bensouda is emerging as the face of a ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/talib-ahmed-bensouda-the-third-force-set-to-reshape-the-gambian-election/",
-      "publishedAt": "2026-10-17T12:58:43.000Z",
-      "collectedAt": "2026-10-17T16:58:54.299Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T10:50:04.420Z",
-    "count": 9
+    "generatedAt": "2026-10-18T15:47:11.774Z",
+    "count": 10
   }
 }
