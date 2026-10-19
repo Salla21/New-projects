@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "fc0798d70b354a42",
+      "title": "No To Alliance’s Gibba Opens Door to Opposition Coalition to Challenge Barrow",
+      "summary": "By Fatou Sillah Almameh Gibba the flagbearer of the No To Alliance Movement, speaking at the movement’s rally in Buffer Zone, where he was declared as the movement’s flagbearer by former president Jammeh, has called on opposition parties to join forces ahead of the December 20...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/no-to-alliances-gibba-opens-door-to-opposition-coalition-to-challenge-barrow/",
+      "publishedAt": "2026-10-18T23:06:59.000Z",
+      "collectedAt": "2026-10-19T04:19:16.789Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c012cd16babba51a",
       "title": "Jammeh Urges Gambians to Reject Tribalism, Embrace Shared National Identity",
       "summary": "By Fatou Sillah Former President Yahya Jammeh has warned Gambians against tribalism and regional divisions, describing ethnic politics as a threat to national unity, peace and development. In a recorded message played at a rally organized by the No to Alliance Movement at the ...",
@@ -467,7 +490,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
       "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-18T22:22:26.783Z",
+      "collectedAt": "2026-10-19T04:19:14.194Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -481,7 +504,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T22:22:32.288Z",
-    "count": 21
+    "generatedAt": "2026-10-19T04:19:20.873Z",
+    "count": 22
   }
 }

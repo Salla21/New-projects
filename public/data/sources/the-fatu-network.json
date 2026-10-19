@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b33bbe6f1d3247d7",
+      "title": "“I Cannot Thank Gambians Enough” — Youssou N’Dour Tells TFN",
+      "summary": "Published by: The Fatu Network Senegalese music legend Youssou N’Dour has credited The Gambia and its people with playing an important role in his musical career. Speaking exclusively to The Fatu Network following Saturday’s Grand Bal concert at Bercy in Paris, he said, “I can...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/i-cannot-thank-gambians-enough-youssou-ndour-tells-tfn/",
+      "publishedAt": "2026-10-18T22:23:15.000Z",
+      "collectedAt": "2026-10-19T04:19:14.194Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6ecf7837a2dfede9",
       "title": "Batchilly Challenges Barrow to Account for Promises as Cost of Living Bites",
       "summary": "By Dawda Baldeh The leader of the Gambia Action Party (GAP), Musa Ousainou Yali Batchilly, has challenged President Adama Barrow to account for his government’s promises, achievements and shortcomings, arguing that many Gambians are grappling with rising living costs and econo...",
@@ -190,7 +213,7 @@
       "sourceUrl": "https://thefatunetwork.com/feed/",
       "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
       "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-18T22:22:26.783Z",
+      "collectedAt": "2026-10-19T04:19:14.194Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -201,33 +224,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2ecccddbfa20a01c",
-      "title": "Three Years Without Salary: Former Immigration Officer Alleges Unfair Dismissal, Demands Answers",
-      "summary": "Written by: Dawda Baldeh Former Gambia Immigration Department officer Foday Danso has accused the institution of withholding his salary for approximately three years before dismissing him under circumstances he believes were unfair and procedurally irregular. Danso, who joined...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/three-years-without-salary-former-immigration-officer-alleges-unfair-dismissal-demands-answers/",
-      "publishedAt": "2026-10-09T10:49:10.000Z",
-      "collectedAt": "2026-10-18T22:22:26.783Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T22:22:32.288Z",
+    "generatedAt": "2026-10-19T04:19:20.873Z",
     "count": 10
   }
 }

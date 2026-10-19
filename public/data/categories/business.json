@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b33bbe6f1d3247d7",
+      "title": "“I Cannot Thank Gambians Enough” — Youssou N’Dour Tells TFN",
+      "summary": "Published by: The Fatu Network Senegalese music legend Youssou N’Dour has credited The Gambia and its people with playing an important role in his musical career. Speaking exclusively to The Fatu Network following Saturday’s Grand Bal concert at Bercy in Paris, he said, “I can...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/i-cannot-thank-gambians-enough-youssou-ndour-tells-tfn/",
+      "publishedAt": "2026-10-18T22:23:15.000Z",
+      "collectedAt": "2026-10-19T04:19:14.194Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "47a5fb573b71667c",
       "title": "Barrow’s Coalition Partners Bring No Real Electoral Support, UNITE’s Sanyang Claims",
       "summary": "By Makutu Manneh Yaya Menteng Sanyang, deputy party leader for finance and administration of UNITE Party and National Assembly Member for Latrikunda Sabiji, has dismissed the ruling National People’s Party’s (NPP) expanding political alliance as a mere collection of politician...",
@@ -937,7 +960,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-18T22:22:26.408Z",
+      "collectedAt": "2026-10-19T04:19:14.033Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -960,7 +983,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-18T22:22:26.408Z",
+      "collectedAt": "2026-10-19T04:19:14.033Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -983,7 +1006,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-18T22:22:26.408Z",
+      "collectedAt": "2026-10-19T04:19:14.033Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -999,7 +1022,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-18T22:22:32.288Z",
-    "count": 42
+    "generatedAt": "2026-10-19T04:19:20.873Z",
+    "count": 43
   }
 }
