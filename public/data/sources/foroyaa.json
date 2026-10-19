@@ -1,6 +1,187 @@
 {
   "items": [
     {
+      "id": "685e04b12cb58886",
+      "title": "Court Dismisses UDP Agent Amie Sankanu’s Voter Objection against Ensa Jammeh",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Ensa Jammeh’s registration as a voter in Kololi, ruling that the evidence presented failed to establish that he was not a Gambian citizen or otherwise qualified to remain on the voters’ regist...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/court-dismisses-udp-agent-amie-sankanus-voter-objection-against-ensa-jammeh/",
+      "publishedAt": "2026-10-19T12:40:55.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2522b970eb35e6c6",
+      "title": "Sanna Manjang Denies Torture Allegations",
+      "summary": "Says He Had No Role in Arrests of Complainants By Mariama Marong Alleged Jungler Sanna Manjang has denied taking part in the arrest and alleged torture of Tamsir Jasseh and military officer Yaya M.S. Darboe, telling the High Court in Banjul that he was stationed in Kanilai whe...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/sanna-manjang-denies-torture-allegations/",
+      "publishedAt": "2026-10-19T12:37:39.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7266df8f73ca92e6",
+      "title": "USET Staff Threaten Strike Action Over Unpaid Salaries",
+      "summary": "By Madiba Singhateh The staff members of the University of Applied Science (USET) has warned that they will close all USET institutions in the country if their unpaid salaries and demands are not met. The warning, delivered at a tense press conference Thursday at USET’s Kanifi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/uset-staff-threaten-strike-action-over-unpaid-salaries/",
+      "publishedAt": "2026-10-19T12:25:58.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d66ee233b1bfd07a",
+      "title": "NGO Ser Humano Improves Water & Electricity Facilities in Four Schools",
+      "summary": "By Assan Bah ‘Ser Humano’, an International NGO, has completed repairs and improvements on water and electricity installations in four schools in The Gambia, with funding from the Department of International Solidarity of the Cabildo de Gran Canaria Island Council in Spain. Th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/ngo-ser-humano-improves-water-electricity-facilities-in-four-schools/",
+      "publishedAt": "2026-10-19T12:15:52.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b3b4eb19d8286e93",
+      "title": "UDP Agent Fatou Darboe Loses Voter Objection Case against Muhammed Sissoho",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Muhammed Sissoho’s name on the voters’ register for Bakau, ruling that the evidence presented failed to prove that he was not a Gambian citizen or qualified to vote. Magistrate Isatou Jallow, ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/udp-agent-fatou-darboe-loses-voter-objection-case-against-muhammed-sissoho/",
+      "publishedAt": "2026-10-19T12:08:29.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7d7249925d3d38b6",
+      "title": "Ex-President Jammeh Picks Honourable Almameh Gibba as APRC ‘No to Alliance’ Presidential Candidate",
+      "summary": "By Yankuba Jallow Honourable Almameh Gibba, the National Assembly member for Foni Kansala, has been selected by former Gambian president Yahya A.J.J. Jammeh, as the presidential candidate for his faction of the Alliance for Patriotic Reorientation and Construction (APRC) in th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/ex-president-jammeh-picks-honourable-almameh-gibba-as-aprc-no-to-alliance-presidential-candidate/",
+      "publishedAt": "2026-10-19T11:57:31.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "dfbbc82182be3cd3",
+      "title": "WHICH FORCES WILL JOIN HANDS IN THE PRESIDENTIAL ELECTIONS AND WHY?",
+      "summary": "The Gambian people are owed an explanation why the different coalition forces have come together to contest the forthcoming presidential election. Hence the media should focus on asking each coalition to explain the purpose of coming together and what the people will gain by s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/which-forces-will-join-hands-in-the-presidential-elections-and-why/",
+      "publishedAt": "2026-10-19T11:50:01.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b9a3101bd4596485",
+      "title": "THE ELECTORAL LANDSCAPE IS BROADENING",
+      "summary": "2026 is looking to be a period that will shape The Gambia in a direction that many are unable to predict at this very moment. All political forces are becoming entrenched into four major camps. The NPP is absorbing people who have removed any focus on constitutional reform and...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-electoral-landscape-is-broadening/",
+      "publishedAt": "2026-10-19T11:49:04.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7c1258e8d6522e55",
       "title": "Immigration Commissioner tells court ID card serial number missing from database",
       "summary": "By Mariama Marong An immigration officer responsible for The Gambia’s National Identity Card unit has told the court that the serial number on an identity card presented in an objection case involving Fatou Darboe and Isatou Bah could not be traced in the national database. As...",
@@ -834,7 +1015,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T12:54:53.591Z",
-    "count": 36
+    "generatedAt": "2026-10-19T19:47:16.692Z",
+    "count": 44
   }
 }

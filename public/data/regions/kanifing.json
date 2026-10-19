@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "9c68c8cb39d33df2",
+      "title": "Youth Minister Badjie Brands Bensouda KMC’s Worst-Performing Mayor, Questions Presidential Ambitions",
+      "summary": "By Makutu Manneh Bakary Y. Badjie, The Gambia’s Minister of Youth and Sports, has sharply criticized Kanifing Municipal Council (KMC) Mayor and UNITE Party leader Talib Ahmed Bensouda, describing him as the municipality’s worst-performing mayor despite presiding over what he c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/youth-minister-badjie-brands-bensouda-kmcs-worst-performing-mayor-questions-presidential-ambitions/",
+      "publishedAt": "2026-10-19T17:15:15.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "685e04b12cb58886",
+      "title": "Court Dismisses UDP Agent Amie Sankanu’s Voter Objection against Ensa Jammeh",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Ensa Jammeh’s registration as a voter in Kololi, ruling that the evidence presented failed to establish that he was not a Gambian citizen or otherwise qualified to remain on the voters’ regist...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/court-dismisses-udp-agent-amie-sankanus-voter-objection-against-ensa-jammeh/",
+      "publishedAt": "2026-10-19T12:40:55.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b3b4eb19d8286e93",
+      "title": "UDP Agent Fatou Darboe Loses Voter Objection Case against Muhammed Sissoho",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Muhammed Sissoho’s name on the voters’ register for Bakau, ruling that the evidence presented failed to prove that he was not a Gambian citizen or qualified to vote. Magistrate Isatou Jallow, ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/udp-agent-fatou-darboe-loses-voter-objection-case-against-muhammed-sissoho/",
+      "publishedAt": "2026-10-19T12:08:29.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6dd3edf1f081b3d5",
       "title": "Sanyang Urges Gambians to Trust Bensouda With Presidency, Cites Transformative Leadership at KMC",
       "summary": "By Makutu Manneh Yaya Menteng Sanyang, deputy party leader for finance and administration of the UNITE Party, has urged Gambians to entrust Talib Ahmed Bensouda with the presidency, arguing that his record as mayor of the Kanifing Municipal Council (KMC) demonstrates the leade...",
@@ -116,7 +186,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T12:54:53.591Z",
-    "count": 5
+    "generatedAt": "2026-10-19T19:47:16.692Z",
+    "count": 8
   }
 }

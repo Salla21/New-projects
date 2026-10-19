@@ -1,6 +1,128 @@
 {
   "items": [
     {
+      "id": "d8c80e6bfc72b7ca",
+      "title": "Jammeh Loyalists Still Hold Command Positions, Gitteh Warns as He Defends ECOMIG Presence",
+      "summary": "By Fatou Sillah Ahmad Gitteh, a member of the ruling National People’s Party (NPP) and an adviser to the Minister of Digital Economy, has defended the continued deployment of the ECOWAS Mission in The Gambia (ECOMIG), warning that individuals loyal to former President Yahya Ja...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/jammeh-loyalists-still-hold-command-positions-gitteh-warns-as-he-defends-ecomig-presence/",
+      "publishedAt": "2026-10-19T19:32:37.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c22626c0ce27108f",
+      "title": "U.S. Ambassador Urges Greater Transparency to Attract American Investment in The Gambia",
+      "summary": "By Seedy Jobe The United States ambassador to The Gambia, Laurence Socha, has called for greater transparency and a predictable regulatory environment to attract American investment, identifying economic cooperation, electoral integrity, and security as key priorities in relat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/u-s-ambassador-urges-greater-transparency-to-attract-american-investment-in-the-gambia/",
+      "publishedAt": "2026-10-19T18:00:13.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9c68c8cb39d33df2",
+      "title": "Youth Minister Badjie Brands Bensouda KMC’s Worst-Performing Mayor, Questions Presidential Ambitions",
+      "summary": "By Makutu Manneh Bakary Y. Badjie, The Gambia’s Minister of Youth and Sports, has sharply criticized Kanifing Municipal Council (KMC) Mayor and UNITE Party leader Talib Ahmed Bensouda, describing him as the municipality’s worst-performing mayor despite presiding over what he c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/youth-minister-badjie-brands-bensouda-kmcs-worst-performing-mayor-questions-presidential-ambitions/",
+      "publishedAt": "2026-10-19T17:15:15.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9d58cdd41446443b",
+      "title": "Sabally Predicts Barrow Sweep in Foni, Declares West Coast Region an NPP Stronghold",
+      "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has predicted a decisive victory for President Adama Barrow in the West Coast Region in the December 5 presidential election, declaring that the region is no longer a political battleground b...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sabally-predicts-barrow-sweep-in-foni-declares-west-coast-region-an-npp-stronghold/",
+      "publishedAt": "2026-10-19T17:11:32.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "082aa9d7dd874774",
+      "title": "‘Our Democracy Is Under Siege,’ Jobarteh Warns Journalists Ahead of Crucial Elections",
+      "summary": "By Seedy Jobe Human rights activist Madi Jobarteh has warned that The Gambia’s democracy remains under threat, urging journalists to confront corruption, abuse of power, and institutional failures through rigorous investigative reporting as the country approaches its 2026–2027...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/our-democracy-is-under-siege-jobarteh-warns-journalists-ahead-of-crucial-elections/",
+      "publishedAt": "2026-10-19T15:49:25.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b33bbe6f1d3247d7",
       "title": "“I Cannot Thank Gambians Enough” — Youssou N’Dour Tells TFN",
       "summary": "Published by: The Fatu Network Senegalese music legend Youssou N’Dour has credited The Gambia and its people with playing an important role in his musical career. Speaking exclusively to The Fatu Network following Saturday’s Grand Bal concert at Bercy in Paris, he said, “I can...",
@@ -889,7 +1011,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-19T12:54:18.192Z",
+      "collectedAt": "2026-10-19T19:47:10.929Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -912,7 +1034,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-19T12:54:18.192Z",
+      "collectedAt": "2026-10-19T19:47:10.929Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -935,7 +1057,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-19T12:54:18.192Z",
+      "collectedAt": "2026-10-19T19:47:10.929Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -951,7 +1073,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T12:54:53.591Z",
-    "count": 40
+    "generatedAt": "2026-10-19T19:47:16.692Z",
+    "count": 45
   }
 }

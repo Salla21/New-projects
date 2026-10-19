@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "8e5e7aa33fb41b55",
+      "title": "Former BBC Presenter Esau Williams Accuses Barrow of Allowing Senegal Too Much Control Over The Gambia",
+      "summary": "Written by: Dawda Baldeh Former BBC Focus on Africa presenter Esau Williams has accused President Adama Barrow of allowing Senegal excessive influence over The Gambia’s affairs, questioning his confidence in the country’s armed forces and his government’s handling of national ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/former-bbc-presenter-esau-williams-accuses-barrow-of-allowing-senegal-too-much-control-over-the-gambia/",
+      "publishedAt": "2026-10-19T15:19:07.000Z",
+      "collectedAt": "2026-10-19T19:47:11.080Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "795c6b487ff886ce",
+      "title": "Gambia’s Debt Rises by D97 Billion in Ten Years, Foni Bintang NAM Raises Alarm",
+      "summary": "Written by: Mama A. Touray The National Assembly Member (NAM) for Foni Bintang Karanai, Bakary K. Badjie, has expressed serious concern over The Gambia’s rising national debt, revealing that the country accumulated an additional D97 billion in debt over the past ten years. Spe...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambias-debt-rises-by-d97-billion-in-ten-years-foni-bintang-nam-raises-alarm/",
+      "publishedAt": "2026-10-19T14:41:26.000Z",
+      "collectedAt": "2026-10-19T19:47:11.080Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b33bbe6f1d3247d7",
       "title": "“I Cannot Thank Gambians Enough” — Youssou N’Dour Tells TFN",
       "summary": "Published by: The Fatu Network Senegalese music legend Youssou N’Dour has credited The Gambia and its people with playing an important role in his musical career. Speaking exclusively to The Fatu Network following Saturday’s Grand Bal concert at Bercy in Paris, he said, “I can...",
@@ -203,31 +249,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0e58830ee19139bd",
-      "title": "Survivors Take Lead in Push to End FGM as Regional Chapters Launched",
-      "summary": "By Mama A. Touray Women in Liberation and Leadership (WILL), in collaboration with its partners, has launched survivor network regional chapters across The Gambia in a move aimed at amplifying the voices of survivors and strengthening efforts to end female genital mutilation (...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
-      "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-19T12:54:18.305Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T12:54:53.591Z",
-    "count": 10
+    "generatedAt": "2026-10-19T19:47:16.692Z",
+    "count": 11
   }
 }

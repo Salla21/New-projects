@@ -1,6 +1,98 @@
 {
   "items": [
     {
+      "id": "c22626c0ce27108f",
+      "title": "U.S. Ambassador Urges Greater Transparency to Attract American Investment in The Gambia",
+      "summary": "By Seedy Jobe The United States ambassador to The Gambia, Laurence Socha, has called for greater transparency and a predictable regulatory environment to attract American investment, identifying economic cooperation, electoral integrity, and security as key priorities in relat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/u-s-ambassador-urges-greater-transparency-to-attract-american-investment-in-the-gambia/",
+      "publishedAt": "2026-10-19T18:00:13.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "082aa9d7dd874774",
+      "title": "‘Our Democracy Is Under Siege,’ Jobarteh Warns Journalists Ahead of Crucial Elections",
+      "summary": "By Seedy Jobe Human rights activist Madi Jobarteh has warned that The Gambia’s democracy remains under threat, urging journalists to confront corruption, abuse of power, and institutional failures through rigorous investigative reporting as the country approaches its 2026–2027...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/our-democracy-is-under-siege-jobarteh-warns-journalists-ahead-of-crucial-elections/",
+      "publishedAt": "2026-10-19T15:49:25.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4a84459e20464ebb",
+      "title": "Barrow Promises to Replicate Banjul’s Development in KMC if Given Another Mandate",
+      "summary": "By Makutu Manneh President Adama Barrow has pledged to transform the Kanifing Municipality, promising to replicate what he described as his administration’s development achievements in Banjul while urging voters to assess presidential candidates by their records in public offi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-promises-to-replicate-banjuls-development-in-kmc-if-given-another-mandate/",
+      "publishedAt": "2026-10-19T15:36:20.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d66ee233b1bfd07a",
+      "title": "NGO Ser Humano Improves Water & Electricity Facilities in Four Schools",
+      "summary": "By Assan Bah ‘Ser Humano’, an International NGO, has completed repairs and improvements on water and electricity installations in four schools in The Gambia, with funding from the Department of International Solidarity of the Cabildo de Gran Canaria Island Council in Spain. Th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/ngo-ser-humano-improves-water-electricity-facilities-in-four-schools/",
+      "publishedAt": "2026-10-19T12:15:52.000Z",
+      "collectedAt": "2026-10-19T19:47:10.713Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fc0798d70b354a42",
       "title": "No To Alliance’s Gibba Opens Door to Opposition Coalition to Challenge Barrow",
       "summary": "By Fatou Sillah Almameh Gibba the flagbearer of the No To Alliance Movement, speaking at the movement’s rally in Buffer Zone, where he was declared as the movement’s flagbearer by former president Jammeh, has called on opposition parties to join forces ahead of the December 20...",
@@ -480,31 +572,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0e58830ee19139bd",
-      "title": "Survivors Take Lead in Push to End FGM as Regional Chapters Launched",
-      "summary": "By Mama A. Touray Women in Liberation and Leadership (WILL), in collaboration with its partners, has launched survivor network regional chapters across The Gambia in a move aimed at amplifying the voices of survivors and strengthening efforts to end female genital mutilation (...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/survivors-take-lead-in-push-to-end-fgm-as-regional-chapters-launched/",
-      "publishedAt": "2026-10-09T18:35:19.000Z",
-      "collectedAt": "2026-10-19T12:54:18.305Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T12:54:53.591Z",
-    "count": 22
+    "generatedAt": "2026-10-19T19:47:16.692Z",
+    "count": 25
   }
 }

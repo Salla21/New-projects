@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "c0148e10b112368d",
+      "title": "New U.S. Ambassador Pledges Stronger Ties With the Gambia, Defends Trump’s Immigration Policies",
+      "summary": "By Seedy Jobe The new United States ambassador to The Gambia, Laurence Socha, has pledged to strengthen diplomatic relations between Washington and Banjul, emphasizing cooperation on security, economic development, and democratic governance while defending President Donald Tru...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/new-u-s-ambassador-pledges-stronger-ties-with-the-gambia-defends-trumps-immigration-policies/",
+      "publishedAt": "2026-10-19T17:36:35.000Z",
+      "collectedAt": "2026-10-19T19:47:12.550Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6ecf7837a2dfede9",
       "title": "Batchilly Challenges Barrow to Account for Promises as Cost of Living Bites",
       "summary": "By Dawda Baldeh The leader of the Gambia Action Party (GAP), Musa Ousainou Yali Batchilly, has challenged President Adama Barrow to account for his government’s promises, achievements and shortcomings, arguing that many Gambians are grappling with rising living costs and econo...",
@@ -457,7 +481,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T12:54:53.591Z",
-    "count": 19
+    "generatedAt": "2026-10-19T19:47:16.692Z",
+    "count": 20
   }
 }
