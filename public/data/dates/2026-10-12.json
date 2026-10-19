@@ -304,105 +304,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "066821bfbc8c4304",
-      "title": "𝐓𝐇𝐄 𝐆𝐀𝐌𝐁𝐈𝐀 𝐂𝐎𝐍𝐃𝐄𝐌𝐍𝐒 𝐀𝐓𝐓𝐀𝐂𝐊𝐒 𝐎𝐍 𝐓𝐇𝐄 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝐎𝐅 𝐒𝐀𝐔𝐃𝐈 𝐀𝐑𝐀𝐁𝐈𝐀 𝐀𝐍𝐃 𝐑𝐄𝐀𝐅𝐅𝐈𝐑𝐌𝐒 𝐈𝐓𝐒 𝐒𝐎𝐋𝐈𝐃𝐀𝐑𝐈𝐓𝐘",
-      "summary": "The Ministry of Foreign Affairs, International Cooperation and Gambians Abroad received with great concern and sadness news of the Houthi militia’s attacks on two international airports in the Kingdom of Saudi Arabia, resulting in death, injuries and property damage. The Gover...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/%f0%9d%90%93%f0%9d%90%87%f0%9d%90%84-%f0%9d%90%86%f0%9d%90%80%f0%9d%90%8c%f0%9d%90%81%f0%9d%90%88%f0%9d%90%80-%f0%9d%90%82%f0%9d%90%8e%f0%9d%90%8d%f0%9d%90%83%f0%9d%90%84%f0%9d%90%8c%f0%9d%90%8d/",
-      "publishedAt": "2026-10-12T12:00:00.000Z",
-      "collectedAt": "2026-10-12T15:08:43.802Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3c897319b8b29a21",
-      "title": "WHAT DOES THE SILENT MAJORITY SAY ABOUT THE COMING PRESIDENTIAL ELECTION?",
-      "summary": "As the country comes closer to the 5th December 2026 presidential election, it is still not clear who will appear as presidential candidates to challenge the Barrow presidency, who the silent majority is likely to support. Partisan politics appears to be dominant as single par...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-does-the-silent-majority-say-about-the-coming-presidential-election/",
-      "publishedAt": "2026-10-12T10:39:37.000Z",
-      "collectedAt": "2026-10-12T15:08:43.802Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "eed0eb61601277ca",
-      "title": "IMPORTED FOOD BY LAND UNDER SCRUTINY",
-      "summary": "There is need for the Ministry of Trade, Employment and Regional Integration and the Food Safety and Quality Authority (FSQA) to jointly do a study of the easily perishable food items that are imported into The Gambia and give warning to importers of the possibility of importi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/imported-food-by-land-under-scrutiny/",
-      "publishedAt": "2026-10-12T10:38:03.000Z",
-      "collectedAt": "2026-10-12T15:08:43.802Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f6e76c78c9f7e467",
-      "title": "Darboe Tells Mansaring Suu Women They Hold the Key to Healing Gambia’s Wounds",
-      "summary": "By Seedy Jobe ANM Ousainu Darboe, leader of the United Democratic Party (UDP), has urged women in Mansaring Suu, Brikama, to take a leading role in bringing political change to The Gambia, saying they hold the power to address what he described as the country’s deepening econo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-tells-mansaring-suu-women-they-hold-the-key-to-healing-gambias-wounds/",
-      "publishedAt": "2026-10-12T02:11:09.000Z",
-      "collectedAt": "2026-10-12T05:35:47.458Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T04:19:20.873Z",
-    "count": 17
+    "generatedAt": "2026-10-19T12:54:53.591Z",
+    "count": 13
   }
 }
