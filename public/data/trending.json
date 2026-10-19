@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "8f087166b8161bd9",
+      "title": "Gibba Says No To Alliance’s Support Extends Beyond Foni, Rules Out Joining Barrow’s NPP",
+      "summary": "By Fatou Sillah Almameh Gibba, the National Assembly Member for Foni Kansala and flagbearer of the No To Alliance Movement, has dismissed suggestions that his movement’s political support is confined to Foni, insisting that it has established a nationwide following ahead of th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gibba-says-no-to-alliances-support-extends-beyond-foni-rules-out-joining-barrows-npp/",
+      "publishedAt": "2026-10-19T21:27:21.000Z",
+      "collectedAt": "2026-10-19T23:32:25.266Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "db827d67a85cb0d9",
+      "title": "Sonko Threatens to Block President Faye’s Budget, Challenges Prime Minister to Public Debate",
+      "summary": "Published by: The Fatu Network Senegal’s National Assembly President Ousmane Sonko has warned that his PASTEF party will refuse to approve President Bassirou Diomaye Faye’s revised 2026 budget unless major changes are made. Sonko criticised proposed cuts to fuel subsidies, edu...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sonko-threatens-to-block-president-fayes-budget-challenges-prime-minister-to-public-debate/",
+      "publishedAt": "2026-10-19T20:16:53.000Z",
+      "collectedAt": "2026-10-19T23:32:21.396Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d8c80e6bfc72b7ca",
       "title": "Jammeh Loyalists Still Hold Command Positions, Gitteh Warns as He Defends ECOMIG Presence",
       "summary": "By Fatou Sillah Ahmad Gitteh, a member of the ruling National People’s Party (NPP) and an adviser to the Minister of Digital Economy, has defended the continued deployment of the ECOWAS Mission in The Gambia (ECOMIG), warning that individuals loyal to former President Yahya Ja...",
@@ -417,57 +465,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b9a3101bd4596485",
-      "title": "THE ELECTORAL LANDSCAPE IS BROADENING",
-      "summary": "2026 is looking to be a period that will shape The Gambia in a direction that many are unable to predict at this very moment. All political forces are becoming entrenched into four major camps. The NPP is absorbing people who have removed any focus on constitutional reform and...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-electoral-landscape-is-broadening/",
-      "publishedAt": "2026-10-19T11:49:04.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "86cbb320218035a3",
-      "title": "Consumer Complaints Must Lead to Real Solutions, PURA Deputy Chief Says at 9th Consumer Parliament",
-      "summary": "By Seedy Jobe The Public Utilities Regulatory Authority (PURA) has reaffirmed its commitment to consumer protection, transparency, and accountability, emphasizing that every consumer complaint deserves attention as the regulatory body convened its ninth Consumer Parliament ove...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/consumer-complaints-must-lead-to-real-solutions-pura-deputy-chief-says-at-9th-consumer-parliament/",
-      "publishedAt": "2026-10-19T00:16:02.000Z",
-      "collectedAt": "2026-10-19T04:19:16.789Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T19:47:16.692Z",
+    "generatedAt": "2026-10-19T23:32:29.424Z",
     "count": 20
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "db827d67a85cb0d9",
+      "title": "Sonko Threatens to Block President Faye’s Budget, Challenges Prime Minister to Public Debate",
+      "summary": "Published by: The Fatu Network Senegal’s National Assembly President Ousmane Sonko has warned that his PASTEF party will refuse to approve President Bassirou Diomaye Faye’s revised 2026 budget unless major changes are made. Sonko criticised proposed cuts to fuel subsidies, edu...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sonko-threatens-to-block-president-fayes-budget-challenges-prime-minister-to-public-debate/",
+      "publishedAt": "2026-10-19T20:16:53.000Z",
+      "collectedAt": "2026-10-19T23:32:21.396Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8e5e7aa33fb41b55",
       "title": "Former BBC Presenter Esau Williams Accuses Barrow of Allowing Senegal Too Much Control Over The Gambia",
       "summary": "Written by: Dawda Baldeh Former BBC Focus on Africa presenter Esau Williams has accused President Adama Barrow of allowing Senegal excessive influence over The Gambia’s affairs, questioning his confidence in the country’s armed forces and his government’s handling of national ...",
@@ -252,7 +276,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T19:47:16.692Z",
-    "count": 11
+    "generatedAt": "2026-10-19T23:32:29.424Z",
+    "count": 12
   }
 }

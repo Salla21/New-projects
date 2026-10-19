@@ -287,33 +287,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ff8bcb7a0db83e59",
-      "title": "Farmers in Sabach Sanjal Turning Fields Into Upland Rice Farms",
-      "summary": "By Biran Gaye With the prices of rice fluctuating and becoming less affordable in The Gambia, farmers in Sabach Sanjal District are increasingly embracing upland rice cultivation, turning farms into rice fields to feed their families. During a visit to Misira Mbayen, Pallen Wo...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/farmers-in-sabach-sanjal-turning-fields-into-upland-rice-farms/",
-      "publishedAt": "2026-10-12T12:25:00.000Z",
-      "collectedAt": "2026-10-12T15:08:43.802Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T19:47:16.692Z",
-    "count": 13
+    "generatedAt": "2026-10-19T23:32:29.424Z",
+    "count": 12
   }
 }

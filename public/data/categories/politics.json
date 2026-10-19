@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "8f087166b8161bd9",
+      "title": "Gibba Says No To Alliance’s Support Extends Beyond Foni, Rules Out Joining Barrow’s NPP",
+      "summary": "By Fatou Sillah Almameh Gibba, the National Assembly Member for Foni Kansala and flagbearer of the No To Alliance Movement, has dismissed suggestions that his movement’s political support is confined to Foni, insisting that it has established a nationwide following ahead of th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gibba-says-no-to-alliances-support-extends-beyond-foni-rules-out-joining-barrows-npp/",
+      "publishedAt": "2026-10-19T21:27:21.000Z",
+      "collectedAt": "2026-10-19T23:32:25.266Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "db827d67a85cb0d9",
+      "title": "Sonko Threatens to Block President Faye’s Budget, Challenges Prime Minister to Public Debate",
+      "summary": "Published by: The Fatu Network Senegal’s National Assembly President Ousmane Sonko has warned that his PASTEF party will refuse to approve President Bassirou Diomaye Faye’s revised 2026 budget unless major changes are made. Sonko criticised proposed cuts to fuel subsidies, edu...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sonko-threatens-to-block-president-fayes-budget-challenges-prime-minister-to-public-debate/",
+      "publishedAt": "2026-10-19T20:16:53.000Z",
+      "collectedAt": "2026-10-19T23:32:21.396Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d8c80e6bfc72b7ca",
       "title": "Jammeh Loyalists Still Hold Command Positions, Gitteh Warns as He Defends ECOMIG Presence",
       "summary": "By Fatou Sillah Ahmad Gitteh, a member of the ruling National People’s Party (NPP) and an adviser to the Minister of Digital Economy, has defended the continued deployment of the ECOWAS Mission in The Gambia (ECOMIG), warning that individuals loyal to former President Yahya Ja...",
@@ -1718,293 +1766,6 @@
       "status": "published"
     },
     {
-      "id": "c0e32a0ada276808",
-      "title": "How Can The Gambia Have a Nutrition Act Without Funding It?",
-      "summary": "Banjul North NAM Asks By Kebba A.F. Touray The Member of the National Assembly for Banjul North, Hon. Modou Lamin B. Bah, has questioned why the 2027 national budget makes no specific allocation for the nutrition fund despite the enactment of the National Nutrition Act, which ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/how-can-the-gambia-have-a-nutrition-act-without-funding-it/",
-      "publishedAt": "2026-10-13T12:15:00.000Z",
-      "collectedAt": "2026-10-13T15:50:54.609Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3be678c8bf96487c",
-      "title": "Honourable Sanyang Questions Reliance on Donor Support for Nutrition",
-      "summary": "By Kebba A.F. Touray National Assembly Member for Latrikunda Sabiji, Yaya M. Sanyang, has raised concerns over funding for medicines, medical supplies, nutrition programmes and sports facilities, warning that gaps in the 2027 budget estimates could undermine essential public s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/honourable-sanyang-questions-reliance-on-donor-support-for-nutrition/",
-      "publishedAt": "2026-10-13T12:10:00.000Z",
-      "collectedAt": "2026-10-13T15:50:54.609Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e6f13a3d7f624e7e",
-      "title": "WHEN WILL THE BORDER COMMISSION ISSUE A PROGRESS REPORT ON THE BORDER SITUATION?",
-      "summary": "Gambia is heading towards elections. It is important to have national stability as we head towards the elections. The previous border fracas created a situation of heightening tension in the country immediately after the destruction of the fence of a military installation in B...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/when-will-the-border-commission-issue-a-progress-report-on-the-border-situation/",
-      "publishedAt": "2026-10-13T10:42:51.000Z",
-      "collectedAt": "2026-10-13T15:50:54.609Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "dac85a243712ae00",
-      "title": "THE GAMBIAN PEOPLE ARE TO DECIDE",
-      "summary": "Parties and coalitions are doing all their best to attract the support of the vast majority of the Gambian people. Nothing on the ground shows that the Gambian voters have decided what to do on 5th December, 2026. Hence one can safely say that the majority are yet to decide. P...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-gambian-people-are-to-decide/",
-      "publishedAt": "2026-10-13T10:37:11.000Z",
-      "collectedAt": "2026-10-13T15:50:54.609Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "297a9bae79da5092",
-      "title": "FPAC Proposes D72.2 Million Cut to National Audit Office’s 2027 Budget",
-      "summary": "By Fatou Sillah The National Assembly’s Finance and Public Accounts Committee (FPAC) has proposed cutting D72.2 million from the National Audit Office’s proposed D542.6 million budget for 2027, as part of a broader series of adjustments to government spending estimates. Accord...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/fpac-proposes-d72-2-million-cut-to-national-audit-offices-2027-budget/",
-      "publishedAt": "2026-10-12T20:15:40.000Z",
-      "collectedAt": "2026-10-12T22:51:50.442Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5f896516e1a2ed0e",
-      "title": "FPAC Recommends D61.9 Million Cut to Electoral Commission’s 2027 Budget",
-      "summary": "By Fatou Sillah The National Assembly’s Finance and Public Accounts Committee (FPAC) has recommended cutting D61.9 million from the Independent Electoral Commission’s (IEC) proposed 2027 budget, a move that would reduce the electoral body’s allocation from D669.7 million to ap...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/fpac-recommends-d61-9-million-cut-to-electoral-commissions-2027-budget/",
-      "publishedAt": "2026-10-12T20:10:13.000Z",
-      "collectedAt": "2026-10-12T22:51:50.442Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "30253d707c00d1fa",
-      "title": "Alhagie S. Darboe Says Brikama Will Deliver Presidency to Ousainu Darboe in December",
-      "summary": "By Seedy Jobe Alagie S. Darboe, the minority leader of the National Assembly and senior administrative secretary of the United Democratic Party (UDP), has declared that Brikama will play a decisive role in electing opposition leader Ousainu Darboe as The Gambia’s fourth presid...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/alhagie-s-darboe-says-brikama-will-deliver-presidency-to-ousainu-darboe-in-december/",
-      "publishedAt": "2026-10-12T19:35:03.000Z",
-      "collectedAt": "2026-10-12T22:51:50.442Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9b218cf9bc6b46e3",
-      "title": "Darboe Rejects Essa Faal’s Claims, Says Their Political Values Are Not Aligned",
-      "summary": "By Makutu Manneh ANM Ousainu Darboe, the secretary general and leader of the United Democratic Party (UDP), has dismissed claims made by Essa Mbye Faal, leader of APP-Sobeyaa, about their political differences, accusing him of political inconsistency and rejecting suggestions ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-rejects-essa-faals-claims-says-their-political-values-are-not-aligned/",
-      "publishedAt": "2026-10-12T19:27:18.000Z",
-      "collectedAt": "2026-10-12T22:51:50.442Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "74d665afce44d162",
-      "title": "Darboe Calls Rising Cost of Living Barrow Government’s Biggest Failure",
-      "summary": "By Makutu Manneh Ousainu Darboe, the leader of the United Democratic Party (UDP), has described the rising cost of living as the most significant failure of President Adama Barrow’s administration, accusing the government of neglecting the economic hardships facing Gambians wh...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-calls-rising-cost-of-living-barrow-governments-biggest-failure/",
-      "publishedAt": "2026-10-12T19:15:09.000Z",
-      "collectedAt": "2026-10-12T22:51:50.442Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "27cc39f386fbd7ae",
-      "title": "FPAC Proposes D6 Million Cut to President’s Office Budget, Seeks More Funding for Civic Education",
-      "summary": "By Fatou Sillah The National Assembly’s Finance and Public Accounts Committee (FPAC) has proposed cutting D6 million from the Office of the President’s 2027 budget and redirecting the funds to the National Council for Civic Education (NCCE) to support its development programs ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/fpac-proposes-d6-million-cut-to-presidents-office-budget-seeks-more-funding-for-civic-education/",
-      "publishedAt": "2026-10-12T19:07:16.000Z",
-      "collectedAt": "2026-10-12T22:51:50.442Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "15bf5912f475dbcc",
-      "title": "Gajigo Urges Upper River Region Voters to Back Bensouda, Reject Ruling Party",
-      "summary": "By Fatou Sillah Dr. Ousman Gajigo, a member of Coalition 2026, urged residents of the Upper River Region to support Talib Ahmed Bensouda, saying the ruling National People’s Party had no claim to their allegiance and should not take their votes for granted. Speaking at a coali...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gajigo-urges-upper-river-region-voters-to-back-bensouda-reject-ruling-party/",
-      "publishedAt": "2026-10-12T18:29:44.000Z",
-      "collectedAt": "2026-10-12T22:51:50.442Z",
-      "region": "upper-river",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "78ddcc06fe5468e6",
-      "title": "Alhaji Amadu Juldeh Sowe Elected President of Tabital Pulaaku International",
-      "summary": "Alhaji Amadu Juldeh Sowe, a Sierra Leonean Pulor has been elected president of Tabital Pulaaku International. Sowe was elected on Saturday, 27 September 2026, at the organisation’s General Assembly held at the Kairaba Beach Hotel in The Gambia. Alhaji Juldeh Sowe, who previous...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/alhaji-amadu-juldeh-sowe-elected-president-of-tabital-pulaaku-international-2/",
-      "publishedAt": "2026-10-12T12:20:00.000Z",
-      "collectedAt": "2026-10-12T15:08:43.802Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -2013,7 +1774,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-19T19:47:10.929Z",
+      "collectedAt": "2026-10-19T23:32:21.201Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2029,7 +1790,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T19:47:16.692Z",
-    "count": 86
+    "generatedAt": "2026-10-19T23:32:29.424Z",
+    "count": 76
   }
 }
