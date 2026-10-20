@@ -186,55 +186,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "42a561168f3c06e1",
-      "title": "National Assembly Committee Cuts D101 million from Judiciary, IEC budgets",
-      "summary": "By Kebba A.F. Touray The Judiciary and the Independent Electoral Commission (IEC) are among the institutions whose proposed 2027 budgets have been cut by the National Assembly’s Finance and Public Accounts Committee (FPAC), which has reported total savings of D146.5 million fo...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/national-assembly-committee-cuts-d101-million-from-judiciary-iec-budgets/",
-      "publishedAt": "2026-10-13T12:30:00.000Z",
-      "collectedAt": "2026-10-13T15:50:54.609Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "77b27e270ba1f342",
-      "title": "FPAC Challenges Ministry of Finance to Reduce Cost of Borrowing",
-      "summary": "By Kebba A.F. Touray The Finance and Public Accounts Committee (FPAC) has challenged the Ministry of Finance and Economic Affairs to reduce the cost of borrowing and strengthen the management of the country’s growing debt-service burden. The committee made the recommendation i...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/fpac-challenges-ministry-of-finance-to-reduce-cost-of-borrowing/",
-      "publishedAt": "2026-10-13T12:20:00.000Z",
-      "collectedAt": "2026-10-13T15:50:54.609Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T23:32:29.424Z",
-    "count": 10
+    "generatedAt": "2026-10-20T04:30:32.703Z",
+    "count": 8
   }
 }

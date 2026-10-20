@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "7d7fd14ed0f714e6",
+      "title": "Banjul North Lawmaker Defies Barrow’s Threat, Holds President Responsible for His Safety",
+      "summary": "By Staff Writer Banjul North National Assembly member Modou Lamin B. Bah has vowed not to be silenced after President Adama Barrow threatened him with severe consequences for participating in a youth-led protest at State House, which the president described as a treasonable of...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/banjul-north-lawmaker-defies-barrows-threat-holds-president-responsible-for-his-safety/",
+      "publishedAt": "2026-10-20T03:42:59.000Z",
+      "collectedAt": "2026-10-20T04:30:28.558Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8f087166b8161bd9",
       "title": "Gibba Says No To Alliance’s Support Extends Beyond Foni, Rules Out Joining Barrow’s NPP",
       "summary": "By Fatou Sillah Almameh Gibba, the National Assembly Member for Foni Kansala and flagbearer of the No To Alliance Movement, has dismissed suggestions that his movement’s political support is confined to Foni, insisting that it has established a nationwide following ahead of th...",
@@ -442,33 +465,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "dfbbc82182be3cd3",
-      "title": "WHICH FORCES WILL JOIN HANDS IN THE PRESIDENTIAL ELECTIONS AND WHY?",
-      "summary": "The Gambian people are owed an explanation why the different coalition forces have come together to contest the forthcoming presidential election. Hence the media should focus on asking each coalition to explain the purpose of coming together and what the people will gain by s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/which-forces-will-join-hands-in-the-presidential-elections-and-why/",
-      "publishedAt": "2026-10-19T11:50:01.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T23:32:29.424Z",
+    "generatedAt": "2026-10-20T04:30:32.703Z",
     "count": 20
   }
 }

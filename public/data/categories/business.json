@@ -742,30 +742,6 @@
       "status": "published"
     },
     {
-      "id": "42a561168f3c06e1",
-      "title": "National Assembly Committee Cuts D101 million from Judiciary, IEC budgets",
-      "summary": "By Kebba A.F. Touray The Judiciary and the Independent Electoral Commission (IEC) are among the institutions whose proposed 2027 budgets have been cut by the National Assembly’s Finance and Public Accounts Committee (FPAC), which has reported total savings of D146.5 million fo...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/national-assembly-committee-cuts-d101-million-from-judiciary-iec-budgets/",
-      "publishedAt": "2026-10-13T12:30:00.000Z",
-      "collectedAt": "2026-10-13T15:50:54.609Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -774,7 +750,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-19T23:32:21.201Z",
+      "collectedAt": "2026-10-20T04:30:24.629Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -797,7 +773,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-19T23:32:21.201Z",
+      "collectedAt": "2026-10-20T04:30:24.629Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -820,7 +796,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/piu-officer-seen-walking-through-brikama-with-beer-bottle/",
       "publishedAt": "2026-09-30T04:06:27.000Z",
-      "collectedAt": "2026-10-19T23:32:21.201Z",
+      "collectedAt": "2026-10-20T04:30:24.629Z",
       "region": "west-coast",
       "categories": [
         "business"
@@ -836,7 +812,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T23:32:29.424Z",
-    "count": 35
+    "generatedAt": "2026-10-20T04:30:32.703Z",
+    "count": 34
   }
 }
