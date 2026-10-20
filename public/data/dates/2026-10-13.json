@@ -165,31 +165,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "55be1aa1a1e2a508",
-      "title": "Farmers in Niumi, Jokadou Appeal for Better Groundnut Price",
-      "summary": "By Assan Bah Signs of an end to the current rainy season are being manifested with infrequent rainfall, as the month of October is almost halfway to the end. This brings another farming cycle to an end, while another one begins. As farmers enter the harvest season, particularl...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/farmers-in-niumi-jokadou-appeal-for-better-groundnut-price/",
-      "publishedAt": "2026-10-13T12:35:00.000Z",
-      "collectedAt": "2026-10-13T15:50:54.609Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-20T04:30:32.703Z",
-    "count": 8
+    "generatedAt": "2026-10-20T11:23:48.515Z",
+    "count": 7
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "392f79696359c6da",
+      "title": "‘We Will Do Something You Will Never Forget Till You Die’: Barrow Warns Banjul NAM, Calls State House Protest ‘Treasonable Offense’",
+      "summary": "Written by: Dawda Baldeh President Adama Barrow has issued a stern warning to Banjul North National Assembly Member (NAM) Hon. Modou Lamin B. Bah, threatening him with unspecified consequences over his alleged involvement in a protest by children outside State House following ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-will-do-something-you-will-never-forget-till-you-die-barrow-warns-banjul-nam-calls-state-house-protest-treasonable-offense/",
+      "publishedAt": "2026-10-20T10:22:23.000Z",
+      "collectedAt": "2026-10-20T11:23:43.373Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "db827d67a85cb0d9",
       "title": "Sonko Threatens to Block President Faye’s Budget, Challenges Prime Minister to Public Debate",
       "summary": "Published by: The Fatu Network Senegal’s National Assembly President Ousmane Sonko has warned that his PASTEF party will refuse to approve President Bassirou Diomaye Faye’s revised 2026 budget unless major changes are made. Sonko criticised proposed cuts to fuel subsidies, edu...",
@@ -276,7 +299,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-20T04:30:32.703Z",
-    "count": 12
+    "generatedAt": "2026-10-20T11:23:48.515Z",
+    "count": 13
   }
 }
