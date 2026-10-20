@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "24e7de04367bb6c4",
+      "title": "Dr. Ceesay: Gambia’s Health Sector Now “One of the Best” in Subregion",
+      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, the minister of information, media, and broadcasting services, has described the country’s healthcare system as one of the best in the subregion, citing improvements in hospital infrastructure, ambulance services, and medical equipment under...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-gambias-health-sector-now-one-of-the-best-in-subregion/",
+      "publishedAt": "2026-10-20T18:38:19.000Z",
+      "collectedAt": "2026-10-20T21:29:42.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a86785042784a01b",
       "title": "Sidia Jatta says poverty and injustice have grown despite 61 years of promises",
       "summary": "By Yankuba Jallow Team Gambia Grand Coalition coordinator Sidia Jatta said poverty and injustice have increased in The Gambia despite decades of promises by successive governments to tackle them. Speaking at a press conference on 19 October 2026, Honourable Jatta said the coal...",
@@ -435,33 +458,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6025b86220efd48c",
-      "title": "Public Warning Against Unauthorised Land Sales Within The Tourism Development Area",
-      "summary": "The Gambia Tourism Board (GTBoard) wishes to warn the general public, prospective investors and developers against the purchase or acquisition of land within the Tourism Development Area (TDA) through unauthorized persons, including Alkalos and Village Development Committees. ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/public-warning-against-unauthorised-land-sales-within-the-tourism-development-area/",
-      "publishedAt": "2026-10-14T13:24:47.000Z",
-      "collectedAt": "2026-10-14T13:35:23.940Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-20T16:47:11.826Z",
+    "generatedAt": "2026-10-20T21:29:46.628Z",
     "count": 20
   }
 }

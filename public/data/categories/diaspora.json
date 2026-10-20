@@ -311,82 +311,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "19e3c37c59ddc3f6",
-      "title": "Gambia Immigration Department Rescues 111 Migrants After Boat Runs Aground in Aljamdu",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) said it had rescued 111 migrants after their boat became stranded in muddy waters near Aljamdu village during an apparent attempt to migrate irregularly. The rescue was carried out in a joint operation involving immigrat...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/see-belowgambia-immigration-department-rescues-111-migrants-after-boat-runs-aground-in-aljamdu/",
-      "publishedAt": "2026-10-13T18:05:52.000Z",
-      "collectedAt": "2026-10-13T21:10:11.961Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "997fec51b8995bff",
-      "title": "Darboe Rebukes Hamat Bah Over Claims of Ethnic Bias in Voter Objections",
-      "summary": "By Makutu Manneh Ousainu Darboe, leader of the United Democratic Party (UDP), has criticized Hamat Bah, the Minister of Lands, Regional Government and Religious Affairs, over allegations that the party is disproportionately targeting Fula and Wolof voters through objections to...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-rebukes-hamat-bah-over-claims-of-ethnic-bias-in-voter-objections/",
-      "publishedAt": "2026-10-13T16:56:29.000Z",
-      "collectedAt": "2026-10-13T21:10:11.961Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "08b5c0b0ec5ea929",
-      "title": "Darboe Accuses NPP of Fueling Ethnic Divisions, Urges Politicians to Promote National Unity",
-      "summary": "By Makutu Manneh ANM Ousainu Darboe, leader of the opposition United Democratic Party (UDP), has accused the ruling National People’s Party (NPP) of promoting ethnic divisions, criticizing President Adama Barrow for what he described as a failure to confront inflammatory rheto...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-accuses-npp-of-fueling-ethnic-divisions-urges-politicians-to-promote-national-unity/",
-      "publishedAt": "2026-10-13T16:26:05.000Z",
-      "collectedAt": "2026-10-13T21:10:11.961Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-20T16:47:11.826Z",
-    "count": 16
+    "generatedAt": "2026-10-20T21:29:46.628Z",
+    "count": 13
   }
 }

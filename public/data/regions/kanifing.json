@@ -182,34 +182,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "8f90e21b179ca7ef",
-      "title": "Bensouda Warns Dalasi Could Weaken Further if Barrow Wins Another Term",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has warned that the Gambian Dalasi could depreciate further against the CFA franc if President Adama Barrow secures another term in office, arguing that the c...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-warns-dalasi-could-weaken-further-if-barrow-wins-another-term/",
-      "publishedAt": "2026-10-13T21:15:02.000Z",
-      "collectedAt": "2026-10-14T01:04:55.060Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-20T16:47:11.826Z",
-    "count": 9
+    "generatedAt": "2026-10-20T21:29:46.628Z",
+    "count": 8
   }
 }
