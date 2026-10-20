@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "fa389753a51d5135",
+      "title": "Halifa Sallah Says Team Gambia Will Consult Public Before Selecting Flagbearer to Avoid 2016 Mistakes",
+      "summary": "By Makutu Manneh Halifa Sallah, veteran politician and coordinator of the Team Gambia Grand Coalition, has said the alliance will consult Gambians before selecting its presidential flagbearer, seeking to avoid what he described as the mistakes of the 2016 opposition coalition....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/halifa-sallah-says-team-gambia-will-consult-public-before-selecting-flagbearer-to-avoid-2016-mistakes/",
+      "publishedAt": "2026-10-20T16:45:27.000Z",
+      "collectedAt": "2026-10-20T16:47:07.748Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "49250b71a3a5f82f",
+      "title": "Sidia Jatta Calls for Collective Action to Free Gambia From Poverty and Injustice",
+      "summary": "By Makutu Manneh Sidia Jatta, a veteran politician and coordinator of the Team Gambia Grand Coalition, has urged Gambians to take collective responsibility for tackling poverty, ignorance, and injustice, arguing that national transformation cannot be left to politicians alone....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sidia-jatta-calls-for-collective-action-to-free-gambia-from-poverty-and-injustice/",
+      "publishedAt": "2026-10-20T16:26:43.000Z",
+      "collectedAt": "2026-10-20T16:47:07.748Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "93955073bb25eba5",
+      "title": "PAP Leader Says Party Will Not Sacrifice Integrity for Money or Political Appointments",
+      "summary": "By Seedy Jobe Ebrima Tabora Manneh, leader of the People’s Alliance Party (PAP), has vowed that his party will not compromise its principles for financial incentives or political appointments, insisting that integrity and honesty remain central to its political identity. Speak...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/pap-leader-says-party-will-not-sacrifice-integrity-for-money-or-political-appointments/",
+      "publishedAt": "2026-10-20T16:15:32.000Z",
+      "collectedAt": "2026-10-20T16:47:07.748Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7d7fd14ed0f714e6",
       "title": "Banjul North Lawmaker Defies Barrow’s Threat, Holds President Responsible for His Safety",
       "summary": "By Staff Writer Banjul North National Assembly member Modou Lamin B. Bah has vowed not to be silenced after President Adama Barrow threatened him with severe consequences for participating in a youth-led protest at State House, which the president described as a treasonable of...",
@@ -1290,33 +1357,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2a47e8a34cf483a9",
-      "title": "Dr. Ceesay Accuses Politicians of Exploiting Divisions for Political Gain",
-      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, the Gambia’s Minister of Information, Media, and Broadcasting Services, has dismissed concerns about weakening social cohesion in the country, accusing politicians of exploiting divisions to advance their political interests. In an interview...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-accuses-politicians-of-exploiting-divisions-for-political-gain/",
-      "publishedAt": "2026-10-13T16:10:43.000Z",
-      "collectedAt": "2026-10-13T21:10:11.961Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-20T11:23:48.515Z",
-    "count": 56
+    "generatedAt": "2026-10-20T16:47:11.826Z",
+    "count": 58
   }
 }

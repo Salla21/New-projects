@@ -142,33 +142,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2a47e8a34cf483a9",
-      "title": "Dr. Ceesay Accuses Politicians of Exploiting Divisions for Political Gain",
-      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, the Gambia’s Minister of Information, Media, and Broadcasting Services, has dismissed concerns about weakening social cohesion in the country, accusing politicians of exploiting divisions to advance their political interests. In an interview...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-accuses-politicians-of-exploiting-divisions-for-political-gain/",
-      "publishedAt": "2026-10-13T16:10:43.000Z",
-      "collectedAt": "2026-10-13T21:10:11.961Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-20T11:23:48.515Z",
-    "count": 7
+    "generatedAt": "2026-10-20T16:47:11.826Z",
+    "count": 6
   }
 }

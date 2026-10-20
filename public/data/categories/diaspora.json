@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "01e71cf8d0f42b7d",
+      "title": "Court orders IEC to remove Isatou Bah’s name from voter register",
+      "summary": "By Mariama Marong A magistrate has ordered Isatou Bah’s name removed from the voter register after immigration officials said they could not trace the serial number on the National Identity Card she used to register. Senior Magistrate Isatou Jallow made the ruling after hearin...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/court-orders-iec-to-remove-isatou-bahs-name-from-voter-register/",
+      "publishedAt": "2026-10-20T14:01:37.000Z",
+      "collectedAt": "2026-10-20T16:46:01.529Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c0148e10b112368d",
       "title": "New U.S. Ambassador Pledges Stronger Ties With the Gambia, Defends Trump’s Immigration Policies",
       "summary": "By Seedy Jobe The new United States ambassador to The Gambia, Laurence Socha, has pledged to strengthen diplomatic relations between Washington and Banjul, emphasizing cooperation on security, economic development, and democratic governance while defending President Donald Tru...",
@@ -362,7 +386,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-20T11:23:48.515Z",
-    "count": 15
+    "generatedAt": "2026-10-20T16:47:11.826Z",
+    "count": 16
   }
 }
