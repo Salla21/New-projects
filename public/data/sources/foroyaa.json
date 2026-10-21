@@ -1,6 +1,214 @@
 {
   "items": [
     {
+      "id": "d0b92f73b560efcb",
+      "title": "Woman Jailed for Three Years for Stealing Three-Day-Old Baby",
+      "summary": "By Mariama Marong A woman has been sentenced to three years in prison for stealing a three-day-old baby, with the court ordering her to pay D100,000 in compensation to the child’s parents. The sentence was handed down by Magistrate Bittaye at the Bundung Magistrates’ Court aft...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/woman-jailed-for-three-years-for-stealing-three-day-old-baby/",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c8dbb9cee53fd1de",
+      "title": "Revising Court Rejects Challenge to Modou Dalla’s Voter Registration in Kololi",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Modou Dalla’s voter registration, ruling that the objector failed to provide sufficient evidence to prove that he was not a Gambian citizen. In a judgment delivered by Magistrate Isatou Jallow, the cou...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/revising-court-rejects-challenge-to-modou-dallas-voter-registration-in-kololi/",
+      "publishedAt": "2026-10-21T11:59:10.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b8c805089d157995",
+      "title": "Kanifing Court Rejects Challenge to Isatou Bah’s Voter Registration",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Isatou Bah’s voter registration, ruling that the evidence presented was insufficient to prove that she was not a Gambian citizen. The ruling, delivered by Magistrate Mam Samba Jallow at the Brusubi Rev...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kanifing-court-rejects-challenge-to-isatou-bahs-voter-registration/",
+      "publishedAt": "2026-10-21T11:56:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ba3fed1a7ec9960d",
+      "title": "Reparations Commission Confirms Receiving $2.57 Million from United States",
+      "summary": "Press Release, BANJUL, THE GAMBIA, 20 October 2026 – The Gambia Reparations Commission is pleased to inform victims, survivors and the public that it has received a total of USD 2,573,414.10 (Two Million, Five Hundred and Seventy-Three Thousand, Four Hundred and Fourteen Unite...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/reparations-commission-confirms-receiving-2-57-million-from-united-states/",
+      "publishedAt": "2026-10-21T11:53:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "96a36b31660af47f",
+      "title": "National Assembly Refers Bill on Legislative Powers and Immunities for Further Scrutiny",
+      "summary": "By Kebba A.F. Touray The National Assembly has referred the National Assembly Powers and Privileges Bill, 2026, to the Assembly Business Committee (ABC) for further consideration, following its presentation for a second reading by Majority Leader Billay G. Tunkara. The bill se...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/national-assembly-refers-bill-on-legislative-powers-and-immunities-for-further-scrutiny/",
+      "publishedAt": "2026-10-21T11:49:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c89fddb203a417b6",
+      "title": "National Assembly Considers Bill to Strengthen Environmental Protection",
+      "summary": "By Kebba A.F. Touray The National Assembly is considering legislation aimed at strengthening environmental protection, safeguarding natural resources and making individuals and organisations more accountable for activities that damage the environment. The National Environment ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/national-assembly-considers-bill-to-strengthen-environmental-protection/",
+      "publishedAt": "2026-10-21T11:44:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f0e24cd8655ce986",
+      "title": "Old Yundum Residents Seek Hospital, Football Stadiums and End to Jabang Land Disputes",
+      "summary": "By Assan Bah Residents of Old Yundum Constituency have appealed to the government to build a hospital, develop football stadiums and resolve long-standing land disputes in Jabang, as they called for further investment in roads, public safety and community facilities. The reque...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/old-yundum-residents-seek-hospital-football-stadiums-and-end-to-jabang-land-disputes/",
+      "publishedAt": "2026-10-21T11:40:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d499c1ec6fc6951c",
+      "title": "WHAT DOES TEAM GAMBIA GRAND COALITION 2026 HAVE TO OFFER?",
+      "summary": "At a press conference held at Tamala Beach Resort, the leadership of Team Gambia Grand Coalition 2026 spelt out the mission, vision and promises of the Coalition. VISION A peaceful, sovereign and prosperous Gambia is in view where power owned, freely and fairly entrusted by fi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-does-team-gambia-grand-coalition-2026-have-to-offer/",
+      "publishedAt": "2026-10-21T10:35:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "054a41521e52bebe",
+      "title": "NO NEED FOR THREATS",
+      "summary": "The presidential tour is an official engagement that is mandated by the Constitution of the Republic. It is meant to find out how the implementation of government policy impacts on the lives of the people in the country. It is also an opportunity for a government to explain it...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/no-need-for-threats/",
+      "publishedAt": "2026-10-21T10:33:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "97a72467ec43640c",
       "title": "Fatoumata Jawara Takes the Gambian Grassroots Voice to the Global Stage",
       "summary": "Fatoumata Jawara, Founder & CEO of Maa Foundation for Women, joined a distinguished gathering of African women leaders and civil society voices in Dakar, Senegal, for a powerful dialogue on women’s economic empowerment.  Bringing the voice of a Gambian grassroots organization ...",
@@ -755,7 +963,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T13:43:16.590Z",
-    "count": 33
+    "generatedAt": "2026-10-21T18:34:19.999Z",
+    "count": 42
   }
 }

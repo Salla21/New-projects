@@ -1,6 +1,169 @@
 {
   "items": [
     {
+      "id": "33f20bedc3e9046c",
+      "title": "Darboe Reiterates One-Term Pledge: “That Is My Covenant With Gambians”",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and leader Ousainou Darboe has reiterated his pledge to serve only one term if elected president in December, saying he will preside over a free and fair election and step down. Mr. Darboe made the remarks on Wednes...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-reiterates-one-term-pledge-that-is-my-covenant-with-gambians/",
+      "publishedAt": "2026-10-21T16:06:50.000Z",
+      "collectedAt": "2026-10-21T18:34:15.768Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c8dbb9cee53fd1de",
+      "title": "Revising Court Rejects Challenge to Modou Dalla’s Voter Registration in Kololi",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Modou Dalla’s voter registration, ruling that the objector failed to provide sufficient evidence to prove that he was not a Gambian citizen. In a judgment delivered by Magistrate Isatou Jallow, the cou...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/revising-court-rejects-challenge-to-modou-dallas-voter-registration-in-kololi/",
+      "publishedAt": "2026-10-21T11:59:10.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b8c805089d157995",
+      "title": "Kanifing Court Rejects Challenge to Isatou Bah’s Voter Registration",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Isatou Bah’s voter registration, ruling that the evidence presented was insufficient to prove that she was not a Gambian citizen. The ruling, delivered by Magistrate Mam Samba Jallow at the Brusubi Rev...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kanifing-court-rejects-challenge-to-isatou-bahs-voter-registration/",
+      "publishedAt": "2026-10-21T11:56:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "96a36b31660af47f",
+      "title": "National Assembly Refers Bill on Legislative Powers and Immunities for Further Scrutiny",
+      "summary": "By Kebba A.F. Touray The National Assembly has referred the National Assembly Powers and Privileges Bill, 2026, to the Assembly Business Committee (ABC) for further consideration, following its presentation for a second reading by Majority Leader Billay G. Tunkara. The bill se...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/national-assembly-refers-bill-on-legislative-powers-and-immunities-for-further-scrutiny/",
+      "publishedAt": "2026-10-21T11:49:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c89fddb203a417b6",
+      "title": "National Assembly Considers Bill to Strengthen Environmental Protection",
+      "summary": "By Kebba A.F. Touray The National Assembly is considering legislation aimed at strengthening environmental protection, safeguarding natural resources and making individuals and organisations more accountable for activities that damage the environment. The National Environment ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/national-assembly-considers-bill-to-strengthen-environmental-protection/",
+      "publishedAt": "2026-10-21T11:44:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d499c1ec6fc6951c",
+      "title": "WHAT DOES TEAM GAMBIA GRAND COALITION 2026 HAVE TO OFFER?",
+      "summary": "At a press conference held at Tamala Beach Resort, the leadership of Team Gambia Grand Coalition 2026 spelt out the mission, vision and promises of the Coalition. VISION A peaceful, sovereign and prosperous Gambia is in view where power owned, freely and fairly entrusted by fi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-does-team-gambia-grand-coalition-2026-have-to-offer/",
+      "publishedAt": "2026-10-21T10:35:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "054a41521e52bebe",
+      "title": "NO NEED FOR THREATS",
+      "summary": "The presidential tour is an official engagement that is mandated by the Constitution of the Republic. It is meant to find out how the implementation of government policy impacts on the lives of the people in the country. It is also an opportunity for a government to explain it...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/no-need-for-threats/",
+      "publishedAt": "2026-10-21T10:33:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "102244fef21aea95",
       "title": "Dr. Ceesay Says Marching on State House Could Amount to Treason, Punishable by Death",
       "summary": "By Fatou Sillah Gambia’s Information Minister, Dr. Ismaila Ceesay, has defended President Adama Barrow’s warning to the United Democratic Party lawmaker for Banjul North over a protest near State House, arguing that such demonstrations could be interpreted as an attempt to com...",
@@ -1663,30 +1826,6 @@
       "status": "published"
     },
     {
-      "id": "02b60a333e1fc5c0",
-      "title": "Lawmakers Slash IEC’s 2027 Budget by D61.9 Million Ahead of Crucial Elections",
-      "summary": "By Fatou Sillah The National Assembly has approved a D61.9 million reduction in the Independent Electoral Commission’s (IEC) proposed D669.7 million budget for 2027, trimming funds earmarked for fuel, election materials, training, allowances and travel ahead of next year’s par...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lawmakers-slash-iecs-2027-budget-by-d61-9-million-ahead-of-crucial-elections/",
-      "publishedAt": "2026-10-14T23:26:36.000Z",
-      "collectedAt": "2026-10-15T04:15:58.572Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1695,7 +1834,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-21T13:43:10.634Z",
+      "collectedAt": "2026-10-21T18:34:05.618Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1711,7 +1850,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T13:43:16.590Z",
-    "count": 73
+    "generatedAt": "2026-10-21T18:34:19.999Z",
+    "count": 79
   }
 }

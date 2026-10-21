@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ba3fed1a7ec9960d",
+      "title": "Reparations Commission Confirms Receiving $2.57 Million from United States",
+      "summary": "Press Release, BANJUL, THE GAMBIA, 20 October 2026 – The Gambia Reparations Commission is pleased to inform victims, survivors and the public that it has received a total of USD 2,573,414.10 (Two Million, Five Hundred and Seventy-Three Thousand, Four Hundred and Fourteen Unite...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/reparations-commission-confirms-receiving-2-57-million-from-united-states/",
+      "publishedAt": "2026-10-21T11:53:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d8c80e6bfc72b7ca",
       "title": "Jammeh Loyalists Still Hold Command Positions, Gitteh Warns as He Defends ECOMIG Presence",
       "summary": "By Fatou Sillah Ahmad Gitteh, a member of the ruling National People’s Party (NPP) and an adviser to the Minister of Digital Economy, has defended the continued deployment of the ECOWAS Mission in The Gambia (ECOMIG), warning that individuals loyal to former President Yahya Ja...",
@@ -242,7 +266,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T13:43:16.590Z",
-    "count": 10
+    "generatedAt": "2026-10-21T18:34:19.999Z",
+    "count": 11
   }
 }

@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "f0e24cd8655ce986",
+      "title": "Old Yundum Residents Seek Hospital, Football Stadiums and End to Jabang Land Disputes",
+      "summary": "By Assan Bah Residents of Old Yundum Constituency have appealed to the government to build a hospital, develop football stadiums and resolve long-standing land disputes in Jabang, as they called for further investment in roads, public safety and community facilities. The reque...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/old-yundum-residents-seek-hospital-football-stadiums-and-end-to-jabang-land-disputes/",
+      "publishedAt": "2026-10-21T11:40:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "054a41521e52bebe",
+      "title": "NO NEED FOR THREATS",
+      "summary": "The presidential tour is an official engagement that is mandated by the Constitution of the Republic. It is meant to find out how the implementation of government policy impacts on the lives of the people in the country. It is also an opportunity for a government to explain it...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/no-need-for-threats/",
+      "publishedAt": "2026-10-21T10:33:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bbc6204f2840fde3",
       "title": "Sister in Trouble After Bailing Thief Brother",
       "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
@@ -525,30 +573,6 @@
       "status": "published"
     },
     {
-      "id": "02b60a333e1fc5c0",
-      "title": "Lawmakers Slash IEC’s 2027 Budget by D61.9 Million Ahead of Crucial Elections",
-      "summary": "By Fatou Sillah The National Assembly has approved a D61.9 million reduction in the Independent Electoral Commission’s (IEC) proposed D669.7 million budget for 2027, trimming funds earmarked for fuel, election materials, training, allowances and travel ahead of next year’s par...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lawmakers-slash-iecs-2027-budget-by-d61-9-million-ahead-of-crucial-elections/",
-      "publishedAt": "2026-10-14T23:26:36.000Z",
-      "collectedAt": "2026-10-15T04:15:58.572Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -557,7 +581,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-21T13:43:10.634Z",
+      "collectedAt": "2026-10-21T18:34:05.618Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -580,7 +604,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-21T13:43:10.634Z",
+      "collectedAt": "2026-10-21T18:34:05.618Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -596,7 +620,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T13:43:16.590Z",
-    "count": 25
+    "generatedAt": "2026-10-21T18:34:19.999Z",
+    "count": 26
   }
 }

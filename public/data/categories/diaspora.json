@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "33f20bedc3e9046c",
+      "title": "Darboe Reiterates One-Term Pledge: “That Is My Covenant With Gambians”",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and leader Ousainou Darboe has reiterated his pledge to serve only one term if elected president in December, saying he will preside over a free and fair election and step down. Mr. Darboe made the remarks on Wednes...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-reiterates-one-term-pledge-that-is-my-covenant-with-gambians/",
+      "publishedAt": "2026-10-21T16:06:50.000Z",
+      "collectedAt": "2026-10-21T18:34:15.768Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ba3fed1a7ec9960d",
+      "title": "Reparations Commission Confirms Receiving $2.57 Million from United States",
+      "summary": "Press Release, BANJUL, THE GAMBIA, 20 October 2026 – The Gambia Reparations Commission is pleased to inform victims, survivors and the public that it has received a total of USD 2,573,414.10 (Two Million, Five Hundred and Seventy-Three Thousand, Four Hundred and Fourteen Unite...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/reparations-commission-confirms-receiving-2-57-million-from-united-states/",
+      "publishedAt": "2026-10-21T11:53:00.000Z",
+      "collectedAt": "2026-10-21T18:34:04.691Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "01e71cf8d0f42b7d",
       "title": "Court orders IEC to remove Isatou Bah’s name from voter register",
       "summary": "By Mariama Marong A magistrate has ordered Isatou Bah’s name removed from the voter register after immigration officials said they could not trace the serial number on the National Identity Card she used to register. Senior Magistrate Isatou Jallow made the ruling after hearin...",
@@ -266,7 +314,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T13:43:16.590Z",
-    "count": 11
+    "generatedAt": "2026-10-21T18:34:19.999Z",
+    "count": 13
   }
 }
