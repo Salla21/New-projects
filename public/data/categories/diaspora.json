@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6982aa2df02983e3",
+      "title": "SSHFC Introduces Taye Sama Social Security Scheme to Women Gardeners in Abuko",
+      "summary": "By Fatou Sillah The Social Security and Housing Finance Corporation (SSHFC) on Wednesday introduced its Taye Sama social security scheme to women gardeners in Abuko, as part of efforts to extend financial protection to workers in The Gambia’s informal economy. The initiative, ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sshfc-introduces-taye-sama-social-security-scheme-to-women-gardeners-in-abuko/",
+      "publishedAt": "2026-10-21T22:18:54.000Z",
+      "collectedAt": "2026-10-21T23:10:42.402Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "33f20bedc3e9046c",
       "title": "Darboe Reiterates One-Term Pledge: “That Is My Covenant With Gambians”",
       "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and leader Ousainou Darboe has reiterated his pledge to serve only one term if elected president in December, saying he will preside over a free and fair election and step down. Mr. Darboe made the remarks on Wednes...",
@@ -314,7 +338,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T18:34:19.999Z",
-    "count": 13
+    "generatedAt": "2026-10-21T23:10:46.545Z",
+    "count": 14
   }
 }

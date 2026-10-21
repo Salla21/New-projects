@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "bb6e5b99ec2a14a2",
+      "title": "The Fatu Network Issues Correction and Apology to Former BBC Presenter Esau Williams Over Misquotation",
+      "summary": "In our October 19th report concerning remarks made by former BBC Focus on Africa presenter Esau Williams about President Adama Barrow’s confidence in the Gambian army and Senegal’s military presence in The Gambia, we published the following quotation: “Barrow doesn’t have conf...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-fatu-network-issues-correction-and-apology-to-former-bbc-presenter-esau-williams-over-misquotation/",
+      "publishedAt": "2026-10-21T21:37:12.000Z",
+      "collectedAt": "2026-10-21T23:10:37.221Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "09fa5cf8b2d44318",
       "title": "Bitcoin Tower: Counter-Complaint Questions Whether Police Were Used Against Austrian Investors",
       "summary": "𝘕𝘦𝘸 𝘊𝘰𝘶𝘯𝘵𝘦𝘳-𝘊𝘰𝘮𝘱𝘭𝘢𝘪𝘯𝘵 𝘙𝘢𝘪𝘴𝘦𝘴 𝘘𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴 𝘈𝘣𝘰𝘶𝘵 𝘵𝘩𝘦 𝘊𝘪𝘳𝘤𝘶𝘮𝘴𝘵𝘢𝘯𝘤𝘦𝘴 𝘉𝘦𝘩𝘪𝘯𝘥 𝘵𝘩𝘦 𝘊𝘳𝘪𝘮𝘪𝘯𝘢𝘭 𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘨𝘢𝘵𝘪𝘰𝘯 Austrian entrepreneur Manuel Stofleth-Mitterer has filed a counter-complaint against his busine...",
@@ -320,7 +344,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T18:34:19.999Z",
-    "count": 14
+    "generatedAt": "2026-10-21T23:10:46.545Z",
+    "count": 15
   }
 }

@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "bb96878cdaaeb32f",
+      "title": "Interior Minister Says Police Cannot Arrest Every Politician Over Divisive Remarks",
+      "summary": "By Fatou Sillah Gambia’s Interior Minister, Abdoulie Sanyang, has defended the police’s approach to inflammatory political rhetoric, saying authorities cannot arrest every politician who makes divisive remarks and are instead prioritizing dialogue to ease tensions ahead of the...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/interior-minister-says-police-cannot-arrest-every-politician-over-divisive-remarks/",
+      "publishedAt": "2026-10-21T22:31:30.000Z",
+      "collectedAt": "2026-10-21T23:10:42.402Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f6369398fca67e4c",
+      "title": "Political Analyst Juwara Warns Barrow Against Invoking Jammeh-Era Repression",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has cautioned President Adama Barrow against invoking the repressive practices of former President Yahya Jammeh when responding to citizens demanding government accountability, warning that such rhetoric undermines democratic pro...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-warns-barrow-against-invoking-jammeh-era-repression/",
+      "publishedAt": "2026-10-21T21:35:46.000Z",
+      "collectedAt": "2026-10-21T23:10:42.402Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "57945061c00603c8",
+      "title": "Analyst Warns Barrow Risks Losing Development Focus After a Decade in Power",
+      "summary": "By Makutu MannehPolitical analyst Lamin Juwara has warned that President Adama Barrow risks shifting his focus from national development to consolidating political power if he remains in office beyond a decade, a trend he said has undermined democratic governance across Africa...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/analyst-warns-barrow-risks-losing-development-focus-after-a-decade-in-power/",
+      "publishedAt": "2026-10-21T21:30:17.000Z",
+      "collectedAt": "2026-10-21T23:10:42.402Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -254,53 +323,6 @@
       "status": "published"
     },
     {
-      "id": "e807451a6ef0ef9d",
-      "title": "Lamin J.K. Sanneh Criticizes Hospital Conditions, Outlines UDP’s Healthcare Reform Plans",
-      "summary": "By Seedy Jobe Lamin J.K. Sanneh, the United Democratic Party’s (UDP) Deputy Administrative Secretary for Social Affairs and Fundraising, has criticized the state of Gambia’s healthcare system, accusing the government of prioritizing hospital construction over the delivery of e...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lamin-j-k-sanneh-criticizes-hospital-conditions-outlines-udps-healthcare-reform-plans/",
-      "publishedAt": "2026-10-15T18:10:45.000Z",
-      "collectedAt": "2026-10-15T21:17:25.128Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7fa3eebddb932f0f",
-      "title": "25 Media Practitioners Trained to Tackle Disinformation Ahead of Elections",
-      "summary": "By Lamin Fatty Twenty-five journalists, bloggers and public communicators are receiving training in fact-checking and digital verification as concerns grow over the spread of false information ahead of The Gambia’s presidential election on 5 December 2026. The two-day workshop...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/25-media-practitioners-trained-to-tackle-disinformation-ahead-of-elections/",
-      "publishedAt": "2026-10-15T12:54:49.000Z",
-      "collectedAt": "2026-10-15T16:46:43.206Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -309,7 +331,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-21T18:34:05.618Z",
+      "collectedAt": "2026-10-21T23:10:36.998Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -323,7 +345,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T18:34:19.999Z",
-    "count": 14
+    "generatedAt": "2026-10-21T23:10:46.545Z",
+    "count": 15
   }
 }

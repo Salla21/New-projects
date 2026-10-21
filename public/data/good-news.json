@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "4cbdd812e38536bc",
+      "title": "MRC Gambia Highlights Research Achievements, Contributions to Public Health at Annual Open Day",
+      "summary": "By Makutu Manneh The Medical Research Council Unit, The Gambia (MRCG), at the London School of Hygiene and Tropical Medicine, held its annual Open Day on Wednesday at its Fajara campus, showcasing scientific achievements and the institution’s contributions to public health in ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mrc-gambia-highlights-research-achievements-contributions-to-public-health-at-annual-open-day/",
+      "publishedAt": "2026-10-21T21:59:05.000Z",
+      "collectedAt": "2026-10-21T23:10:42.402Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f0e24cd8655ce986",
       "title": "Old Yundum Residents Seek Hospital, Football Stadiums and End to Jabang Land Disputes",
       "summary": "By Assan Bah Residents of Old Yundum Constituency have appealed to the government to build a hospital, develop football stadiums and resolve long-standing land disputes in Jabang, as they called for further investment in roads, public safety and community facilities. The reque...",
@@ -501,33 +522,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e99e9f927587e2a3",
-      "title": "Government & UNFPA Step Up Efforts to Reduce Maternal Deaths",
-      "summary": "By Kebba A.F. Touray The Gambia has stepped up efforts to reduce preventable maternal deaths, with the government, the United Nations Population Fund (UNFPA) and other partners calling for stronger investment, improved healthcare services and greater accountability. The renewe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-unfpa-step-up-efforts-to-reduce-maternal-deaths/",
-      "publishedAt": "2026-10-15T12:47:26.000Z",
-      "collectedAt": "2026-10-15T16:46:43.206Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T18:34:19.999Z",
+    "generatedAt": "2026-10-21T23:10:46.545Z",
     "count": 23
   }
 }

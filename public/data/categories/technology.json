@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "7010ee41af4dfa56",
+      "title": "Trade Minister Rules Out Ban on Bottled Water Imports, Pledges Support for Local Producers",
+      "summary": "By Fatou Sillah The Gambia’s Minister of Trade, Industry, Regional Integration and Employment, Mod K. Ceesay, has ruled out banning imported bottled water to protect domestic manufacturers, arguing that such restrictions would undermine the country’s participation in regional ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trade-minister-rules-out-ban-on-bottled-water-imports-pledges-support-for-local-producers/",
+      "publishedAt": "2026-10-21T22:10:00.000Z",
+      "collectedAt": "2026-10-21T23:10:42.402Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ba3fed1a7ec9960d",
       "title": "Reparations Commission Confirms Receiving $2.57 Million from United States",
       "summary": "Press Release, BANJUL, THE GAMBIA, 20 October 2026 – The Gambia Reparations Commission is pleased to inform victims, survivors and the public that it has received a total of USD 2,573,414.10 (Two Million, Five Hundred and Seventy-Three Thousand, Four Hundred and Fourteen Unite...",
@@ -216,57 +241,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7fa3eebddb932f0f",
-      "title": "25 Media Practitioners Trained to Tackle Disinformation Ahead of Elections",
-      "summary": "By Lamin Fatty Twenty-five journalists, bloggers and public communicators are receiving training in fact-checking and digital verification as concerns grow over the spread of false information ahead of The Gambia’s presidential election on 5 December 2026. The two-day workshop...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/25-media-practitioners-trained-to-tackle-disinformation-ahead-of-elections/",
-      "publishedAt": "2026-10-15T12:54:49.000Z",
-      "collectedAt": "2026-10-15T16:46:43.206Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "69bb3c1fdb23a0e5",
-      "title": "IS KUSH AND THE BACKWAY SYNDROME UNSTOPPABLE?",
-      "summary": "The youth population of the Gambia are now confronted with two killers that should be tackled because of the number of people who are losing their lives. The number of young people who are becoming mentally ill is increasing at an alarming rate. Many of them have become addict...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/is-kush-and-the-backway-syndrome-unstoppable/",
-      "publishedAt": "2026-10-15T11:06:56.000Z",
-      "collectedAt": "2026-10-15T11:16:44.806Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T18:34:19.999Z",
-    "count": 11
+    "generatedAt": "2026-10-21T23:10:46.545Z",
+    "count": 10
   }
 }
