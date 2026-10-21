@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "8d7c0ba9c85e332c",
+      "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
+      "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
+      "publishedAt": "2026-10-21T02:16:54.000Z",
+      "collectedAt": "2026-10-21T07:26:33.411Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "24e7de04367bb6c4",
       "title": "Dr. Ceesay: Gambia’s Health Sector Now “One of the Best” in Subregion",
       "summary": "By Fatou Sillah Dr. Ismaila Ceesay, the minister of information, media, and broadcasting services, has described the country’s healthcare system as one of the best in the subregion, citing improvements in hospital infrastructure, ambulance services, and medical equipment under...",
@@ -461,7 +482,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T00:30:49.936Z",
-    "count": 20
+    "generatedAt": "2026-10-21T07:26:38.469Z",
+    "count": 21
   }
 }
