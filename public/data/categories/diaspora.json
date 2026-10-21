@@ -263,58 +263,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a497b11386ad2ac4",
-      "title": "Dr. Ceesay Suggests Darboe’s Legal Threat Kept Barrow in Power Beyond Three-Year Pledge",
-      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, the Gambia’s Minister of Information, Media, and Broadcasting Services, has suggested that the threat of legal action by United Democratic Party (UDP) leader Ousainou Darboe may have influenced President Adama Barrow’s decision to remain in ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-suggests-darboes-legal-threat-kept-barrow-in-power-beyond-three-year-pledge/",
-      "publishedAt": "2026-10-14T19:27:15.000Z",
-      "collectedAt": "2026-10-14T23:08:35.957Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "eca2401303f8d489",
-      "title": "𝐆ID 𝐑𝐞𝐬𝐩𝐨𝐧𝐝𝐬 𝐭𝐨 𝐑𝐞𝐩𝐨𝐫𝐭𝐬 𝐂𝐨𝐧𝐜𝐞𝐫𝐧𝐢𝐧𝐠 𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐃 𝐃𝐚𝐭𝐚",
-      "summary": "The Gambia Immigration Department (GID) has taken note of reports circulating on some media platforms alleging that the Department has lost access to the National ID Card data. It is understood that such a report emanated from a court proceeding where a member of staff of GID ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/%f0%9d%90%86id-%f0%9d%90%91%f0%9d%90%9e%f0%9d%90%ac%f0%9d%90%a9%f0%9d%90%a8%f0%9d%90%a7%f0%9d%90%9d%f0%9d%90%ac-%f0%9d%90%ad%f0%9d%90%a8-%f0%9d%90%91%f0%9d%90%9e%f0%9d%90%a9%f0%9d%90%a8%f0%9d%90%ab/",
-      "publishedAt": "2026-10-14T13:45:27.000Z",
-      "collectedAt": "2026-10-14T18:30:31.304Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-20T21:29:46.628Z",
-    "count": 13
+    "generatedAt": "2026-10-21T00:30:49.936Z",
+    "count": 11
   }
 }
