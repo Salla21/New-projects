@@ -1687,77 +1687,6 @@
       "status": "published"
     },
     {
-      "id": "22cf5ca62c4e4e62",
-      "title": "Juwara Blasts Weak National Assembly Over Failure to Check Barrow’s Excessive Tour Spending",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara has accused the National Assembly of failing to exercise its oversight responsibilities, arguing that its reluctance to challenge President Adama Barrow over repeated budget overruns on his annual Meet-the-People Tour has fostere...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/juwara-blasts-weak-national-assembly-over-failure-to-check-barrows-excessive-tour-spending/",
-      "publishedAt": "2026-10-14T20:23:13.000Z",
-      "collectedAt": "2026-10-14T23:08:35.957Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "99fe63de87248243",
-      "title": "Barrow and His Allies Know They Are Losing, Kiang West NAM Declares",
-      "summary": "By Makutu Manneh Lamin Ceesay, the National Assembly Member for Kiang West, has predicted a decisive victory for the United Democratic Party (UDP) in December’s presidential election, claiming that President Adama Barrow is losing political ground and is aware of his declining...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-and-his-allies-know-they-are-losing-kiang-west-nam-declares/",
-      "publishedAt": "2026-10-14T20:15:59.000Z",
-      "collectedAt": "2026-10-14T23:08:35.957Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "781f53c93b1bdb89",
-      "title": "“Pay Our Money”: Kiang West Lawmaker Challenges NPP Allies Over Presidential Tour Expenses",
-      "summary": "By Makutu Manneh Lamin Ceesay, the National Assembly Member for Kiang West, has criticized leaders of political parties allied with President Adama Barrow’s National People’s Party (NPP) for accompanying the president on his nationwide tour, questioning whether public funds ar...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/pay-our-money-kiang-west-lawmaker-challenges-npp-allies-over-presidential-tour-expenses/",
-      "publishedAt": "2026-10-14T20:07:42.000Z",
-      "collectedAt": "2026-10-14T23:08:35.957Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1766,7 +1695,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-21T07:26:33.411Z",
+      "collectedAt": "2026-10-21T13:43:10.634Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1782,7 +1711,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T07:26:38.469Z",
-    "count": 76
+    "generatedAt": "2026-10-21T13:43:16.590Z",
+    "count": 73
   }
 }

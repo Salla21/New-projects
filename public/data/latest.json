@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "09fa5cf8b2d44318",
+      "title": "Bitcoin Tower: Counter-Complaint Questions Whether Police Were Used Against Austrian Investors",
+      "summary": "𝘕𝘦𝘸 𝘊𝘰𝘶𝘯𝘵𝘦𝘳-𝘊𝘰𝘮𝘱𝘭𝘢𝘪𝘯𝘵 𝘙𝘢𝘪𝘴𝘦𝘴 𝘘𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴 𝘈𝘣𝘰𝘶𝘵 𝘵𝘩𝘦 𝘊𝘪𝘳𝘤𝘶𝘮𝘴𝘵𝘢𝘯𝘤𝘦𝘴 𝘉𝘦𝘩𝘪𝘯𝘥 𝘵𝘩𝘦 𝘊𝘳𝘪𝘮𝘪𝘯𝘢𝘭 𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘨𝘢𝘵𝘪𝘰𝘯 Austrian entrepreneur Manuel Stofleth-Mitterer has filed a counter-complaint against his busine...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-counter-complaint-questions-whether-police-were-used-against-austrian-investors/",
+      "publishedAt": "2026-10-21T10:59:26.000Z",
+      "collectedAt": "2026-10-21T13:43:10.775Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -2276,34 +2297,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "02b60a333e1fc5c0",
-      "title": "Lawmakers Slash IEC’s 2027 Budget by D61.9 Million Ahead of Crucial Elections",
-      "summary": "By Fatou Sillah The National Assembly has approved a D61.9 million reduction in the Independent Electoral Commission’s (IEC) proposed D669.7 million budget for 2027, trimming funds earmarked for fuel, election materials, training, allowances and travel ahead of next year’s par...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lawmakers-slash-iecs-2027-budget-by-d61-9-million-ahead-of-crucial-elections/",
-      "publishedAt": "2026-10-14T23:26:36.000Z",
-      "collectedAt": "2026-10-15T04:15:58.572Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T07:26:38.469Z",
+    "generatedAt": "2026-10-21T13:43:16.590Z",
     "count": 100
   }
 }
