@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "bc5b95ee9360f8a6",
+      "title": "Coach Abdoulie Bojang Is Doing It Again!",
+      "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ 2-1 victory over Guinea last night in Mali secured their place in the regional semifinals, marking another achievement for Coach Abdoulie “Lie” Bojang, who guided The Gambia to its first-ever Under-20 Africa Cup of Nations f...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/coach-abdoulie-bojang-is-doing-it-again/",
+      "publishedAt": "2026-10-22T09:52:34.000Z",
+      "collectedAt": "2026-10-22T11:39:17.667Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4cbdd812e38536bc",
       "title": "MRC Gambia Highlights Research Achievements, Contributions to Public Health at Annual Open Day",
       "summary": "By Makutu Manneh The Medical Research Council Unit, The Gambia (MRCG), at the London School of Hygiene and Tropical Medicine, held its annual Open Day on Wednesday at its Fajara campus, showcasing scientific achievements and the institution’s contributions to public health in ...",
@@ -454,33 +478,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "721a85877a6f4851",
-      "title": "WACA & NEA warn communities against dumping waste in Kotu Stream",
-      "summary": "With Madiba Singhateh The West African Coastal Areas Resilience Investment Project (WACA) and the National Environment Agency (NEA) have warned communities around Kotu Stream against indiscriminate waste disposal, saying plastic pollution is choking the waterway, threatening w...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/waca-nea-warn-communities-against-dumping-waste-in-kotu-stream/",
-      "publishedAt": "2026-10-16T12:02:15.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T04:20:55.480Z",
+    "generatedAt": "2026-10-22T11:39:23.362Z",
     "count": 21
   }
 }

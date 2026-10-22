@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "d7afed2174025298",
+      "title": "New GFF President Kemo Ceesay Oversees Football Projects as Gambian Youth Teams Deliver Results",
+      "summary": "Written by: Seringe S.T. Touray Gambia Football Federation (GFF) President Kemo Ceesay has led a nationwide inspection of football development projects, just weeks after taking office on September 3rd, succeeding Lamin Kaba Bajo, who headed the federation for 12 years. Accompa...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/new-gff-president-kemo-ceesay-oversees-football-projects-as-gambian-youth-teams-deliver-results/",
+      "publishedAt": "2026-10-22T10:37:09.000Z",
+      "collectedAt": "2026-10-22T11:39:17.667Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bc5b95ee9360f8a6",
+      "title": "Coach Abdoulie Bojang Is Doing It Again!",
+      "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ 2-1 victory over Guinea last night in Mali secured their place in the regional semifinals, marking another achievement for Coach Abdoulie “Lie” Bojang, who guided The Gambia to its first-ever Under-20 Africa Cup of Nations f...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/coach-abdoulie-bojang-is-doing-it-again/",
+      "publishedAt": "2026-10-22T09:52:34.000Z",
+      "collectedAt": "2026-10-22T11:39:17.667Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bb6e5b99ec2a14a2",
       "title": "The Fatu Network Issues Correction and Apology to Former BBC Presenter Esau Williams Over Misquotation",
       "summary": "In our October 19th report concerning remarks made by former BBC Focus on Africa presenter Esau Williams about President Adama Barrow’s confidence in the Gambian army and Senegal’s military presence in The Gambia, we published the following quotation: “Barrow doesn’t have conf...",
@@ -275,7 +323,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T04:20:55.480Z",
-    "count": 12
+    "generatedAt": "2026-10-22T11:39:23.362Z",
+    "count": 14
   }
 }

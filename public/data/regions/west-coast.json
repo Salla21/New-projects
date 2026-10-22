@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "d7afed2174025298",
+      "title": "New GFF President Kemo Ceesay Oversees Football Projects as Gambian Youth Teams Deliver Results",
+      "summary": "Written by: Seringe S.T. Touray Gambia Football Federation (GFF) President Kemo Ceesay has led a nationwide inspection of football development projects, just weeks after taking office on September 3rd, succeeding Lamin Kaba Bajo, who headed the federation for 12 years. Accompa...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/new-gff-president-kemo-ceesay-oversees-football-projects-as-gambian-youth-teams-deliver-results/",
+      "publishedAt": "2026-10-22T10:37:09.000Z",
+      "collectedAt": "2026-10-22T11:39:17.667Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bb96878cdaaeb32f",
       "title": "Interior Minister Says Police Cannot Arrest Every Politician Over Divisive Remarks",
       "summary": "By Fatou Sillah Gambia’s Interior Minister, Abdoulie Sanyang, has defended the police’s approach to inflammatory political rhetoric, saying authorities cannot arrest every politician who makes divisive remarks and are instead prioritizing dialogue to ease tensions ahead of the...",
@@ -284,7 +308,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-22T04:20:49.431Z",
+      "collectedAt": "2026-10-22T11:39:17.304Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -298,7 +322,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T04:20:55.480Z",
-    "count": 13
+    "generatedAt": "2026-10-22T11:39:23.362Z",
+    "count": 14
   }
 }

@@ -506,29 +506,6 @@
       "status": "published"
     },
     {
-      "id": "721a85877a6f4851",
-      "title": "WACA & NEA warn communities against dumping waste in Kotu Stream",
-      "summary": "With Madiba Singhateh The West African Coastal Areas Resilience Investment Project (WACA) and the National Environment Agency (NEA) have warned communities around Kotu Stream against indiscriminate waste disposal, saying plastic pollution is choking the waterway, threatening w...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/waca-nea-warn-communities-against-dumping-waste-in-kotu-stream/",
-      "publishedAt": "2026-10-16T12:02:15.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -537,7 +514,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-22T04:20:49.431Z",
+      "collectedAt": "2026-10-22T11:39:17.304Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -560,7 +537,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-22T04:20:49.431Z",
+      "collectedAt": "2026-10-22T11:39:17.304Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -576,7 +553,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T04:20:55.480Z",
-    "count": 24
+    "generatedAt": "2026-10-22T11:39:23.362Z",
+    "count": 23
   }
 }

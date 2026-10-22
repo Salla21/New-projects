@@ -270,33 +270,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "721a85877a6f4851",
-      "title": "WACA & NEA warn communities against dumping waste in Kotu Stream",
-      "summary": "With Madiba Singhateh The West African Coastal Areas Resilience Investment Project (WACA) and the National Environment Agency (NEA) have warned communities around Kotu Stream against indiscriminate waste disposal, saying plastic pollution is choking the waterway, threatening w...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/waca-nea-warn-communities-against-dumping-waste-in-kotu-stream/",
-      "publishedAt": "2026-10-16T12:02:15.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T04:20:55.480Z",
-    "count": 13
+    "generatedAt": "2026-10-22T11:39:23.362Z",
+    "count": 12
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "bc5b95ee9360f8a6",
+      "title": "Coach Abdoulie Bojang Is Doing It Again!",
+      "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ 2-1 victory over Guinea last night in Mali secured their place in the regional semifinals, marking another achievement for Coach Abdoulie “Lie” Bojang, who guided The Gambia to its first-ever Under-20 Africa Cup of Nations f...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/coach-abdoulie-bojang-is-doing-it-again/",
+      "publishedAt": "2026-10-22T09:52:34.000Z",
+      "collectedAt": "2026-10-22T11:39:17.667Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f9bdf92fc624b1a9",
       "title": "Darboe Accuses Government of Plot to Incite Violence and Frame UDP Ahead of December Election",
       "summary": "By Seedy Jobe United Democratic Party (UDP) leader ANM Ousainu Darboe has accused President Adama Barrow’s government of plotting to provoke violence and blame it on the opposition party as a pretext for declaring a state of emergency ahead of the December 5 presidential elect...",
@@ -1764,7 +1788,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-22T04:20:49.431Z",
+      "collectedAt": "2026-10-22T11:39:17.304Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1787,7 +1811,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-22T04:20:49.431Z",
+      "collectedAt": "2026-10-22T11:39:17.304Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1810,7 +1834,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-22T04:20:49.431Z",
+      "collectedAt": "2026-10-22T11:39:17.304Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1831,7 +1855,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-22T04:20:49.431Z",
+      "collectedAt": "2026-10-22T11:39:17.304Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1854,7 +1878,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-22T04:20:49.431Z",
+      "collectedAt": "2026-10-22T11:39:17.304Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1868,7 +1892,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T04:20:55.480Z",
-    "count": 81
+    "generatedAt": "2026-10-22T11:39:23.362Z",
+    "count": 82
   }
 }
