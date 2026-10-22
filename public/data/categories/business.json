@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "4dc403317a5a65c7",
+      "title": "Barrow Highlights Skills Training, Mini-Stadium Renovation and Water Projects During Banjul Visit",
+      "summary": "By Assan Bah President Adama Barrow has highlighted skills training, sports infrastructure and access to clean water as key areas of development during a series of visits to projects in Banjul. The President visited the Crab Island Technical and Vocational Education and Traini...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/barrow-highlights-skills-training-mini-stadium-renovation-and-water-projects-during-banjul-visit/",
+      "publishedAt": "2026-10-22T11:51:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "315a3327882835f7",
+      "title": "Trade Minister Rules Out Water Import Ban, Calls for Industry Expansion",
+      "summary": "By Kebba A.F. Touray The Gambia Government has no plans to restrict the importation of bottled water, Trade Minister Mod K. Ceesay has told the National Assembly, while encouraging local producers to expand their production capacity and explore markets across the region. Mr Ce...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/trade-minister-rules-out-water-import-ban-calls-for-industry-expansion/",
+      "publishedAt": "2026-10-22T11:48:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6982aa2df02983e3",
       "title": "SSHFC Introduces Taye Sama Social Security Scheme to Women Gardeners in Abuko",
       "summary": "By Fatou Sillah The Social Security and Housing Finance Corporation (SSHFC) on Wednesday introduced its Taye Sama social security scheme to women gardeners in Abuko, as part of efforts to extend financial protection to workers in The Gambia’s informal economy. The initiative, ...",
@@ -481,31 +531,6 @@
       "status": "published"
     },
     {
-      "id": "640c6689519f621b",
-      "title": "US report finds Gambia struggles to protect victims of trafficking",
-      "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/us-report-finds-gambia-struggles-to-protect-victims-of-trafficking/",
-      "publishedAt": "2026-10-16T12:10:05.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -514,7 +539,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-22T11:39:17.304Z",
+      "collectedAt": "2026-10-22T17:04:16.154Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -537,7 +562,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-22T11:39:17.304Z",
+      "collectedAt": "2026-10-22T17:04:16.154Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -553,7 +578,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T11:39:23.362Z",
-    "count": 23
+    "generatedAt": "2026-10-22T17:04:23.375Z",
+    "count": 24
   }
 }

@@ -1,6 +1,173 @@
 {
   "items": [
     {
+      "id": "a19e1462cd89649a",
+      "title": "25 Presidential Aspirants Collect Nomination Forms Ahead of December Election",
+      "summary": "By Makutu Manneh The Independent Electoral Commission (IEC) has issued nomination forms to 25 prospective candidates seeking to contest The Gambia’s presidential election scheduled for December 5, 2026. The commission disclosed the figures during a stakeholders’ forum held on ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/25-presidential-aspirants-collect-nomination-forms-ahead-of-december-election/",
+      "publishedAt": "2026-10-22T17:02:40.000Z",
+      "collectedAt": "2026-10-22T17:04:19.273Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "133578e4c64ad677",
+      "title": "Darboe Vows to End Corruption, Wasteful Spending, and Ethnic Division if Elected President",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader Ousainu Darboe has pledged to end corruption, wasteful public spending and ethnic division if elected president in the December 5 presidential election, accusing President Adama Barrow’s administration of perpetuating practice...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-vows-to-end-corruption-wasteful-spending-and-ethnic-division-if-elected-president/",
+      "publishedAt": "2026-10-22T16:53:18.000Z",
+      "collectedAt": "2026-10-22T17:04:19.273Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5110becaaa233ec4",
+      "title": "Kanifing Revising Court Dismisses Objection to Abdoulie Bah’s Voter Registration",
+      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Abdoulie Bah’s voter registration, ruling that suspicion alone cannot establish that a person is not a Gambian citizen. Magistrate Isatou Jallow delivered the ruling after considering an objection file...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kanifing-revising-court-dismisses-objection-to-abdoulie-bahs-voter-registration/",
+      "publishedAt": "2026-10-22T12:05:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7a46f0d3f79e64ed",
+      "title": "Juvenile Detention Aims to Prepare Young Offenders for Productive Life, Says Interior Minister",
+      "summary": "By Kebba A.F. Touray The Minister of Interior, Abdoulie Sanyang, has told the National Assembly that juvenile detention is intended not only to keep young offenders in custody but also to rehabilitate them and prepare them for a productive life after release. Honourable Sanyan...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/juvenile-detention-aims-to-prepare-young-offenders-for-productive-life-says-interior-minister/",
+      "publishedAt": "2026-10-22T11:59:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4dc403317a5a65c7",
+      "title": "Barrow Highlights Skills Training, Mini-Stadium Renovation and Water Projects During Banjul Visit",
+      "summary": "By Assan Bah President Adama Barrow has highlighted skills training, sports infrastructure and access to clean water as key areas of development during a series of visits to projects in Banjul. The President visited the Crab Island Technical and Vocational Education and Traini...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/barrow-highlights-skills-training-mini-stadium-renovation-and-water-projects-during-banjul-visit/",
+      "publishedAt": "2026-10-22T11:51:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "315a3327882835f7",
+      "title": "Trade Minister Rules Out Water Import Ban, Calls for Industry Expansion",
+      "summary": "By Kebba A.F. Touray The Gambia Government has no plans to restrict the importation of bottled water, Trade Minister Mod K. Ceesay has told the National Assembly, while encouraging local producers to expand their production capacity and explore markets across the region. Mr Ce...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/trade-minister-rules-out-water-import-ban-calls-for-industry-expansion/",
+      "publishedAt": "2026-10-22T11:48:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2bbd3b8376907ba1",
+      "title": "Guinean Man Sentenced to Eight Years for Raping 15-Year-Old Student",
+      "summary": "By Louise Jobe A Guinean national has been sentenced to eight years in prison for raping a 15-year-old grade nine student in the West Coast Region, after the court heard that the girl was about eight months pregnant. Yunusa Jaiteh was sentenced by Magistrate A. Darboe at the B...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/guinean-man-sentenced-to-eight-years-for-raping-15-year-old-student/",
+      "publishedAt": "2026-10-22T11:34:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d7afed2174025298",
       "title": "New GFF President Kemo Ceesay Oversees Football Projects as Gambian Youth Teams Deliver Results",
       "summary": "Written by: Seringe S.T. Touray Gambia Football Federation (GFF) President Kemo Ceesay has led a nationwide inspection of football development projects, just weeks after taking office on September 3rd, succeeding Lamin Kaba Bajo, who headed the federation for 12 years. Accompa...",
@@ -1708,31 +1875,6 @@
       "status": "published"
     },
     {
-      "id": "640c6689519f621b",
-      "title": "US report finds Gambia struggles to protect victims of trafficking",
-      "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/us-report-finds-gambia-struggles-to-protect-victims-of-trafficking/",
-      "publishedAt": "2026-10-16T12:10:05.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1741,7 +1883,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-22T11:39:17.304Z",
+      "collectedAt": "2026-10-22T17:04:16.154Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1757,7 +1899,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T11:39:23.362Z",
-    "count": 75
+    "generatedAt": "2026-10-22T17:04:23.375Z",
+    "count": 81
   }
 }

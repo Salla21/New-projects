@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "6403c792b0b8eb02",
+      "title": "Cubans in The Gambia Celebrate National Culture Day and Birth of National Anthem",
+      "summary": "By Nelson Manneh The Cuban community in The Gambia has marked Cuba’s National Culture Day, celebrating the country’s history, music and cultural identity while highlighting its historical ties with Africa and The Gambia. The Cuban Embassy and the Cuban Medical Brigade in The G...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/cubans-in-the-gambia-celebrate-national-culture-day-and-birth-of-national-anthem/",
+      "publishedAt": "2026-10-22T11:36:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bc5b95ee9360f8a6",
       "title": "Coach Abdoulie Bojang Is Doing It Again!",
       "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ 2-1 victory over Guinea last night in Mali secured their place in the regional semifinals, marking another achievement for Coach Abdoulie “Lie” Bojang, who guided The Gambia to its first-ever Under-20 Africa Cup of Nations f...",
@@ -453,35 +474,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "640c6689519f621b",
-      "title": "US report finds Gambia struggles to protect victims of trafficking",
-      "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/us-report-finds-gambia-struggles-to-protect-victims-of-trafficking/",
-      "publishedAt": "2026-10-16T12:10:05.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T11:39:23.362Z",
+    "generatedAt": "2026-10-22T17:04:23.375Z",
     "count": 21
   }
 }

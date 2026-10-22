@@ -277,29 +277,6 @@
       "status": "published"
     },
     {
-      "id": "07e16a8fc74a3140",
-      "title": "Magistrate Sambou fines Haruna Cassama D2 million for trafficking cocaine",
-      "summary": "By Louise Jobe The Brikama Magistrates’ Court has convicted and fined Haruna Cassama D2 million after finding him guilty of aggravated drug trafficking and dealing in prohibited drugs involving 11 blocks of cocaine weighing 13 kilogrammes. Magistrate K. Sambou handed down the ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/magistrate-sambou-fines-haruna-cassama-d2-million-for-trafficking-cocaine/",
-      "publishedAt": "2026-10-16T12:05:18.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "west-coast",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -308,7 +285,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-22T11:39:17.304Z",
+      "collectedAt": "2026-10-22T17:04:16.154Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -322,7 +299,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T11:39:23.362Z",
-    "count": 14
+    "generatedAt": "2026-10-22T17:04:23.375Z",
+    "count": 13
   }
 }

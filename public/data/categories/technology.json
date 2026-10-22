@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "4dc403317a5a65c7",
+      "title": "Barrow Highlights Skills Training, Mini-Stadium Renovation and Water Projects During Banjul Visit",
+      "summary": "By Assan Bah President Adama Barrow has highlighted skills training, sports infrastructure and access to clean water as key areas of development during a series of visits to projects in Banjul. The President visited the Crab Island Technical and Vocational Education and Traini...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/barrow-highlights-skills-training-mini-stadium-renovation-and-water-projects-during-banjul-visit/",
+      "publishedAt": "2026-10-22T11:51:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "315a3327882835f7",
+      "title": "Trade Minister Rules Out Water Import Ban, Calls for Industry Expansion",
+      "summary": "By Kebba A.F. Touray The Gambia Government has no plans to restrict the importation of bottled water, Trade Minister Mod K. Ceesay has told the National Assembly, while encouraging local producers to expand their production capacity and explore markets across the region. Mr Ce...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/trade-minister-rules-out-water-import-ban-calls-for-industry-expansion/",
+      "publishedAt": "2026-10-22T11:48:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bc5b95ee9360f8a6",
       "title": "Coach Abdoulie Bojang Is Doing It Again!",
       "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ 2-1 victory over Guinea last night in Mali secured their place in the regional semifinals, marking another achievement for Coach Abdoulie “Lie” Bojang, who guided The Gambia to its first-ever Under-20 Africa Cup of Nations f...",
@@ -20,6 +70,29 @@
       "author": "Seringe S.T. Touray",
       "language": "en",
       "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bb4504f2850664a8",
+      "title": "WHAT IS YOUR SAY ON THE POSTED PICTURE OF SIDIA JATTA DOSING AT THE TEAM GAMBIA PRESS CONFERENCE?",
+      "summary": "A picture was posted online and the author indicated that Sidia Jatta was dosing. What is your response to this posting? HALIFA SALLAH: The message is clear. The media house which apologized tried to drown the message but could not and now the same type of warrior journalists,...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-is-your-say-on-the-posted-picture-of-sidia-jatta-dosing-at-the-team-gambia-press-conference/",
+      "publishedAt": "2026-10-22T08:29:20.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
@@ -217,58 +290,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "640c6689519f621b",
-      "title": "US report finds Gambia struggles to protect victims of trafficking",
-      "summary": "By Ndey Sowe The Gambia investigated more suspected human trafficking cases and identified more victims during the latest reporting period, but limited funding, gaps in law enforcement training and concerns about official complicity continue to weaken the country’s response to...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/us-report-finds-gambia-struggles-to-protect-victims-of-trafficking/",
-      "publishedAt": "2026-10-16T12:10:05.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "07e16a8fc74a3140",
-      "title": "Magistrate Sambou fines Haruna Cassama D2 million for trafficking cocaine",
-      "summary": "By Louise Jobe The Brikama Magistrates’ Court has convicted and fined Haruna Cassama D2 million after finding him guilty of aggravated drug trafficking and dealing in prohibited drugs involving 11 blocks of cocaine weighing 13 kilogrammes. Magistrate K. Sambou handed down the ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/magistrate-sambou-fines-haruna-cassama-d2-million-for-trafficking-cocaine/",
-      "publishedAt": "2026-10-16T12:05:18.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "west-coast",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T11:39:23.362Z",
-    "count": 11
+    "generatedAt": "2026-10-22T17:04:23.375Z",
+    "count": 12
   }
 }

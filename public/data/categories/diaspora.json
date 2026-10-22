@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "133578e4c64ad677",
+      "title": "Darboe Vows to End Corruption, Wasteful Spending, and Ethnic Division if Elected President",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader Ousainu Darboe has pledged to end corruption, wasteful public spending and ethnic division if elected president in the December 5 presidential election, accusing President Adama Barrow’s administration of perpetuating practice...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-vows-to-end-corruption-wasteful-spending-and-ethnic-division-if-elected-president/",
+      "publishedAt": "2026-10-22T16:53:18.000Z",
+      "collectedAt": "2026-10-22T17:04:19.273Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2bbd3b8376907ba1",
+      "title": "Guinean Man Sentenced to Eight Years for Raping 15-Year-Old Student",
+      "summary": "By Louise Jobe A Guinean national has been sentenced to eight years in prison for raping a 15-year-old grade nine student in the West Coast Region, after the court heard that the girl was about eight months pregnant. Yunusa Jaiteh was sentenced by Magistrate A. Darboe at the B...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/guinean-man-sentenced-to-eight-years-for-raping-15-year-old-student/",
+      "publishedAt": "2026-10-22T11:34:00.000Z",
+      "collectedAt": "2026-10-22T17:04:15.944Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f9bdf92fc624b1a9",
       "title": "Darboe Accuses Government of Plot to Incite Violence and Frame UDP Ahead of December Election",
       "summary": "By Seedy Jobe United Democratic Party (UDP) leader ANM Ousainu Darboe has accused President Adama Barrow’s government of plotting to provoke violence and blame it on the opposition party as a pretext for declaring a state of emergency ahead of the December 5 presidential elect...",
@@ -290,7 +338,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T11:39:23.362Z",
-    "count": 12
+    "generatedAt": "2026-10-22T17:04:23.375Z",
+    "count": 14
   }
 }
