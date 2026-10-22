@@ -1,6 +1,239 @@
 {
   "items": [
     {
+      "id": "a44c072cead7a8f7",
+      "title": "Government Withholds National Content Bill Pending Local Content Policy and Regulations",
+      "summary": "By Mama A. Touray The Government of The Gambia, through the Minister of Trade, Regional Integration and Employment, Mod K. Ceesay, has put the National Content Bill on hold to allow for the development of a Local Content Policy and regulations alongside the proposed legislatio...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/government-withholds-national-content-bill-pending-local-content-policy-and-regulations/",
+      "publishedAt": "2026-10-22T20:59:42.000Z",
+      "collectedAt": "2026-10-22T21:26:45.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fe7126c4bc28e8d1",
+      "title": "Almameh Gibba Says No-to-Alliance Will Not Make Jammeh a Condition for Opposition Coalition",
+      "summary": "By Makutu Manneh Almameh Gibba, leader of the No-to-Alliance movement and National Assembly member for Foni Kansala, has said the movement will not make the inclusion of former President Yahya Jammeh a precondition for joining an opposition coalition ahead of The Gambia’s pres...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/almameh-gibba-says-no-to-alliance-will-not-make-jammeh-a-condition-for-opposition-coalition/",
+      "publishedAt": "2026-10-22T19:53:13.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8b306234777e2658",
+      "title": "True Ownership of APRC Will Be Determined When Jammeh Returns, Gibba Says",
+      "summary": "By Makutu Manneh Almameh Gibba, the National Assembly member for Foni Kansala and flagbearer of the No-To-Alliance movement, has said the question of who legitimately controls the Alliance for Patriotic Reorientation and Construction (APRC) will be settled when former Presiden...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/true-ownership-of-aprc-will-be-determined-when-jammeh-returns-gibba-says/",
+      "publishedAt": "2026-10-22T19:44:53.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "14c3def7098e8303",
+      "title": "Government rules out bottled water import ban, cites ECOWAS trade obligations",
+      "summary": "By Mama A. Touray The Gambian government has no plans to restrict or ban bottled water imports, Trade Minister Mod K. Ceesay has told parliament, arguing that regional trade rules prevent member states from closing their markets to goods produced within the ECOWAS bloc. Ceesay...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/government-rules-out-bottled-water-import-ban-cites-ecowas-trade-obligations/",
+      "publishedAt": "2026-10-22T18:23:25.000Z",
+      "collectedAt": "2026-10-22T21:26:45.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ea1a69003fbacecd",
+      "title": "Coalition 2026 Pledges New Constitution, Two-Term Presidential Limit, and Sweeping Governance Reforms",
+      "summary": "By Seedy Jobe Coalition 2026 has unveiled an ambitious governance and accountability agenda, pledging to introduce a new constitution, establish a two-term presidential limit, and undertake sweeping reforms aimed at strengthening democratic institutions, combating corruption, ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/coalition-2026-pledges-new-constitution-two-term-presidential-limit-and-sweeping-governance-reforms/",
+      "publishedAt": "2026-10-22T17:47:53.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "16f0702c57a110bc",
+      "title": "Gambia Immigration Department Intercepts 125 Would-Be Migrants, Including 26 Minors",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 125 suspected irregular migrants, including 26 minors, in three separate operations, once again highlighting the involvement of children in attempts to undertake dangerous migration journeys. The intercep...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-125-would-be-migrants-including-26-minors/",
+      "publishedAt": "2026-10-22T17:40:48.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c4724bb2b4085551",
+      "title": "Coalition 2026 Unveils Manifesto, Pledges Emergency Measures to Tackle Cost of Living",
+      "summary": "By Seedy Jobe Coalition 2026, led by Banjul Mayor Talib Ahmed Bensouda, launched its election manifesto on Thursday at the Atlantic Hotel in Banjul, outlining an ambitious agenda to address the rising cost of living, strengthen national security, reform public institutions, an...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/coalition-2026-unveils-manifesto-pledges-emergency-measures-to-tackle-cost-of-living/",
+      "publishedAt": "2026-10-22T17:35:40.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "abeb22e75e2f00e8",
+      "title": "IEC Chairman Blames 2001 Law Amendment for Loss of Voter Screening Powers",
+      "summary": "By Makutu Manneh Joseph Colley, chairman of the Independent Electoral Commission (IEC), has attributed the commission’s inability to screen prospective voters to a 2001 legislative amendment that stripped it of the authority to question applicants about their citizenship durin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-chairman-blames-2001-law-amendment-for-loss-of-voter-screening-powers/",
+      "publishedAt": "2026-10-22T17:29:15.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f3feb7642e5d7afc",
+      "title": "UDP’s Lamin Manneh, Rights Activist Madi Jobarteh Challenge IEC Over Voter Data Release",
+      "summary": "By Makutu Makutu Lamin Manneh, the United Democratic Party’s (UDP) deputy administrative secretary for external affairs, and prominent human rights activist Madi Jobarteh have questioned the Independent Electoral Commission’s (IEC) decision to withhold raw voter registration d...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-rights-activist-madi-jobarteh-challenge-iec-over-voter-data-release/",
+      "publishedAt": "2026-10-22T17:24:13.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b58c8063938ff37e",
+      "title": "IEC Rejects UDP’s Demand for Voter Registration Data, Says Final Roll Will Be Released Next Week",
+      "summary": "By Makutu Manneh The Independent Electoral Commission (IEC) has defended its decision not to release voter registration data requested by the United Democratic Party (UDP), saying the final voter roll will only be made available after the completion of the legally mandated ver...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-rejects-udps-demand-for-voter-registration-data-says-final-roll-will-be-released-next-week/",
+      "publishedAt": "2026-10-22T17:10:22.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a19e1462cd89649a",
       "title": "25 Presidential Aspirants Collect Nomination Forms Ahead of December Election",
       "summary": "By Makutu Manneh The Independent Electoral Commission (IEC) has issued nomination forms to 25 prospective candidates seeking to contest The Gambia’s presidential election scheduled for December 5, 2026. The commission disclosed the figures during a stakeholders’ forum held on ...",
@@ -327,7 +560,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T17:04:23.375Z",
-    "count": 14
+    "generatedAt": "2026-10-22T21:26:50.560Z",
+    "count": 24
   }
 }

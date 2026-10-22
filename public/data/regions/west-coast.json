@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "f3feb7642e5d7afc",
+      "title": "UDP’s Lamin Manneh, Rights Activist Madi Jobarteh Challenge IEC Over Voter Data Release",
+      "summary": "By Makutu Makutu Lamin Manneh, the United Democratic Party’s (UDP) deputy administrative secretary for external affairs, and prominent human rights activist Madi Jobarteh have questioned the Independent Electoral Commission’s (IEC) decision to withhold raw voter registration d...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-rights-activist-madi-jobarteh-challenge-iec-over-voter-data-release/",
+      "publishedAt": "2026-10-22T17:24:13.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d7afed2174025298",
       "title": "New GFF President Kemo Ceesay Oversees Football Projects as Gambian Youth Teams Deliver Results",
       "summary": "Written by: Seringe S.T. Touray Gambia Football Federation (GFF) President Kemo Ceesay has led a nationwide inspection of football development projects, just weeks after taking office on September 3rd, succeeding Lamin Kaba Bajo, who headed the federation for 12 years. Accompa...",
@@ -207,76 +230,6 @@
       "status": "published"
     },
     {
-      "id": "2e68a9a02638caf6",
-      "title": "UDP Accuses NPP of Seeking to Entrench Itself in Power, Vows to Prevent Repeat of 2021 Election",
-      "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party’s (UDP) deputy administrative secretary for external affairs, has accused the governing National People’s Party (NPP) of attempting to consolidate its grip on power ahead of the December 5 presidential election, vowing th...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-accuses-npp-of-seeking-to-entrench-itself-in-power-vows-to-prevent-repeat-of-2021-election/",
-      "publishedAt": "2026-10-16T16:43:13.000Z",
-      "collectedAt": "2026-10-16T17:56:40.003Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "be42505ab799b8d3",
-      "title": "NDP’s Conateh Touts Bojang’s Development Record, Challenges Barrow and Opposition Rivals",
-      "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has described his party’s leader, Kebba Madi Bojang, as the country’s most marketable presidential candidate, arguing that his record of community development distinguishes him from P...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndps-conateh-touts-bojangs-development-record-challenges-barrow-and-opposition-rivals/",
-      "publishedAt": "2026-10-16T16:22:53.000Z",
-      "collectedAt": "2026-10-16T17:56:40.003Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "37e5f1e11580d467",
-      "title": "Conateh Slams Barrow’s Nationwide Tour as Political Exercise Disguised as Public Consultation",
-      "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has accused President Adama Barrow of turning his ongoing Meet-the-People Tour into a political campaign financed with public resources, questioning whether the exercise serves its st...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/conateh-slams-barrows-nationwide-tour-as-political-exercise-disguised-as-public-consultation/",
-      "publishedAt": "2026-10-16T16:10:48.000Z",
-      "collectedAt": "2026-10-16T17:56:40.003Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -285,7 +238,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-22T17:04:16.154Z",
+      "collectedAt": "2026-10-22T21:26:45.400Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -299,7 +252,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T17:04:23.375Z",
-    "count": 13
+    "generatedAt": "2026-10-22T21:26:50.560Z",
+    "count": 11
   }
 }

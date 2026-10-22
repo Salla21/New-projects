@@ -247,56 +247,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0b9c2b8a99e63a62",
-      "title": "Magistrate Jallow rejects application to reopen eight voter registration cases",
-      "summary": "By Mariama Marong Magistrate Isatou Jallow of the Kanifing Revising Court has dismissed an application by Sulayman Fadera to reopen eight voter registration cases. She ruled that Fadera failed to give a satisfactory explanation for his absence when the matters were scheduled f...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/magistrate-jallow-rejects-application-to-reopen-eight-voter-registration-cases/",
-      "publishedAt": "2026-10-16T12:27:15.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "03e5569b347ff040",
-      "title": "Kanifing Revising Court dismisses objection to Amadou Drammeh’s voter registration in Bakau",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection by Fatou Darboe challenging Amadou Drammeh’s eligibility to remain on the voters’ register in Bakau. The Magistrate ruled that she failed to provide sufficient evidence to prove that he was not a Gambian ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/kanifing-revising-court-dismisses-objection-to-amadou-drammehs-voter-registration-in-bakau/",
-      "publishedAt": "2026-10-16T12:19:57.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T17:04:23.375Z",
-    "count": 13
+    "generatedAt": "2026-10-22T21:26:50.560Z",
+    "count": 11
   }
 }

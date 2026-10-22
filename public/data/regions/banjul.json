@@ -1,6 +1,216 @@
 {
   "items": [
     {
+      "id": "a44c072cead7a8f7",
+      "title": "Government Withholds National Content Bill Pending Local Content Policy and Regulations",
+      "summary": "By Mama A. Touray The Government of The Gambia, through the Minister of Trade, Regional Integration and Employment, Mod K. Ceesay, has put the National Content Bill on hold to allow for the development of a Local Content Policy and regulations alongside the proposed legislatio...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/government-withholds-national-content-bill-pending-local-content-policy-and-regulations/",
+      "publishedAt": "2026-10-22T20:59:42.000Z",
+      "collectedAt": "2026-10-22T21:26:45.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fe7126c4bc28e8d1",
+      "title": "Almameh Gibba Says No-to-Alliance Will Not Make Jammeh a Condition for Opposition Coalition",
+      "summary": "By Makutu Manneh Almameh Gibba, leader of the No-to-Alliance movement and National Assembly member for Foni Kansala, has said the movement will not make the inclusion of former President Yahya Jammeh a precondition for joining an opposition coalition ahead of The Gambia’s pres...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/almameh-gibba-says-no-to-alliance-will-not-make-jammeh-a-condition-for-opposition-coalition/",
+      "publishedAt": "2026-10-22T19:53:13.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8b306234777e2658",
+      "title": "True Ownership of APRC Will Be Determined When Jammeh Returns, Gibba Says",
+      "summary": "By Makutu Manneh Almameh Gibba, the National Assembly member for Foni Kansala and flagbearer of the No-To-Alliance movement, has said the question of who legitimately controls the Alliance for Patriotic Reorientation and Construction (APRC) will be settled when former Presiden...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/true-ownership-of-aprc-will-be-determined-when-jammeh-returns-gibba-says/",
+      "publishedAt": "2026-10-22T19:44:53.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "14c3def7098e8303",
+      "title": "Government rules out bottled water import ban, cites ECOWAS trade obligations",
+      "summary": "By Mama A. Touray The Gambian government has no plans to restrict or ban bottled water imports, Trade Minister Mod K. Ceesay has told parliament, arguing that regional trade rules prevent member states from closing their markets to goods produced within the ECOWAS bloc. Ceesay...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/government-rules-out-bottled-water-import-ban-cites-ecowas-trade-obligations/",
+      "publishedAt": "2026-10-22T18:23:25.000Z",
+      "collectedAt": "2026-10-22T21:26:45.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ea1a69003fbacecd",
+      "title": "Coalition 2026 Pledges New Constitution, Two-Term Presidential Limit, and Sweeping Governance Reforms",
+      "summary": "By Seedy Jobe Coalition 2026 has unveiled an ambitious governance and accountability agenda, pledging to introduce a new constitution, establish a two-term presidential limit, and undertake sweeping reforms aimed at strengthening democratic institutions, combating corruption, ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/coalition-2026-pledges-new-constitution-two-term-presidential-limit-and-sweeping-governance-reforms/",
+      "publishedAt": "2026-10-22T17:47:53.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "16f0702c57a110bc",
+      "title": "Gambia Immigration Department Intercepts 125 Would-Be Migrants, Including 26 Minors",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 125 suspected irregular migrants, including 26 minors, in three separate operations, once again highlighting the involvement of children in attempts to undertake dangerous migration journeys. The intercep...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-125-would-be-migrants-including-26-minors/",
+      "publishedAt": "2026-10-22T17:40:48.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c4724bb2b4085551",
+      "title": "Coalition 2026 Unveils Manifesto, Pledges Emergency Measures to Tackle Cost of Living",
+      "summary": "By Seedy Jobe Coalition 2026, led by Banjul Mayor Talib Ahmed Bensouda, launched its election manifesto on Thursday at the Atlantic Hotel in Banjul, outlining an ambitious agenda to address the rising cost of living, strengthen national security, reform public institutions, an...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/coalition-2026-unveils-manifesto-pledges-emergency-measures-to-tackle-cost-of-living/",
+      "publishedAt": "2026-10-22T17:35:40.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "abeb22e75e2f00e8",
+      "title": "IEC Chairman Blames 2001 Law Amendment for Loss of Voter Screening Powers",
+      "summary": "By Makutu Manneh Joseph Colley, chairman of the Independent Electoral Commission (IEC), has attributed the commission’s inability to screen prospective voters to a 2001 legislative amendment that stripped it of the authority to question applicants about their citizenship durin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-chairman-blames-2001-law-amendment-for-loss-of-voter-screening-powers/",
+      "publishedAt": "2026-10-22T17:29:15.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b58c8063938ff37e",
+      "title": "IEC Rejects UDP’s Demand for Voter Registration Data, Says Final Roll Will Be Released Next Week",
+      "summary": "By Makutu Manneh The Independent Electoral Commission (IEC) has defended its decision not to release voter registration data requested by the United Democratic Party (UDP), saying the final voter roll will only be made available after the completion of the legally mandated ver...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-rejects-udps-demand-for-voter-registration-data-says-final-roll-will-be-released-next-week/",
+      "publishedAt": "2026-10-22T17:10:22.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a19e1462cd89649a",
       "title": "25 Presidential Aspirants Collect Nomination Forms Ahead of December Election",
       "summary": "By Makutu Manneh The Independent Electoral Commission (IEC) has issued nomination forms to 25 prospective candidates seeking to contest The Gambia’s presidential election scheduled for December 5, 2026. The commission disclosed the figures during a stakeholders’ forum held on ...",
@@ -1846,145 +2056,6 @@
       "status": "published"
     },
     {
-      "id": "bcb67fdcc8cb3d88",
-      "title": "Hamat Bah Says No Presidential Challenger Can Match Barrow’s Record, Warns Against Election Violence",
-      "summary": "By Makutu Manneh Hamat Bah, Minister of Lands, Regional Government, and Religious Affairs, has declared that none of the candidates challenging President Adama Barrow in the December 5 presidential election can match his record of achievements, leadership, and commitment to na...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/hamat-bah-says-no-presidential-challenger-can-match-barrows-record-warns-against-election-violence/",
-      "publishedAt": "2026-10-16T19:02:12.000Z",
-      "collectedAt": "2026-10-16T20:53:50.050Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5eb29df0433b9018",
-      "title": "Barrow Calls for End to Tribalism, Cites His Multicultural Family as Reflection of Gambian Unity",
-      "summary": "By Makutu Manneh President Adama Barrow has renewed his appeal for national unity, urging Gambians to reject tribalism and recognize the deep ethnic and familial ties that bind the country’s diverse communities. Speaking during a Meet-the-People Tour meeting in Jabang, Preside...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-calls-for-end-to-tribalism-cites-his-multicultural-family-as-reflection-of-gambian-unity/",
-      "publishedAt": "2026-10-16T18:53:39.000Z",
-      "collectedAt": "2026-10-16T20:53:50.050Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5d4b8d2405e7db23",
-      "title": "Barrow Says He Commands Greater Security Powers Than Jammeh but Won’t Abuse Them",
-      "summary": "By Makutu Manneh President Adama Barrow has said he commands greater security powers than his predecessor, Yahya Jammeh, but has deliberately chosen restraint over repression, insisting that political authority should be exercised in the interest of peace and national stabilit...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-says-he-commands-greater-security-powers-than-jammeh-but-wont-abuse-them/",
-      "publishedAt": "2026-10-16T17:02:04.000Z",
-      "collectedAt": "2026-10-16T17:56:40.003Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c8a2a582d3be35db",
-      "title": "Barrow Accuses UDP of Orchestrating Roadside Protests to Disrupt His Nationwide Tour",
-      "summary": "By Makutu Manneh President Adama Barrow has accused the opposition United Democratic Party (UDP) and other political opponents of organizing groups to heckle him along the routes of his ongoing Meet-the-People Tour, warning against what he described as attempts to disrupt his ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-accuses-udp-of-orchestrating-roadside-protests-to-disrupt-his-nationwide-tour/",
-      "publishedAt": "2026-10-16T16:48:37.000Z",
-      "collectedAt": "2026-10-16T17:56:40.003Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "af1eef4fd616a1f7",
-      "title": "NDP Leaders Explain Party’s Growing Financial Muscle, Credit Trust in Kebba Bojang",
-      "summary": "By Seedy Jobe Leaders of the National Democratic Party (NDP) have defended the party’s growing financial resources, attributing its rapid expansion and increasingly visible political activities to support from Gambian businesspeople and public confidence in its leader, Kebba M...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndp-leaders-explain-partys-growing-financial-muscle-credit-trust-in-kebba-bojang/",
-      "publishedAt": "2026-10-16T16:34:24.000Z",
-      "collectedAt": "2026-10-16T17:56:40.003Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7c1258e8d6522e55",
-      "title": "Immigration Commissioner tells court ID card serial number missing from database",
-      "summary": "By Mariama Marong An immigration officer responsible for The Gambia’s National Identity Card unit has told the court that the serial number on an identity card presented in an objection case involving Fatou Darboe and Isatou Bah could not be traced in the national database. As...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/immigration-commissioner-tells-court-id-card-serial-number-missing-from-database/",
-      "publishedAt": "2026-10-16T12:28:37.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1993,7 +2064,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-22T17:04:16.154Z",
+      "collectedAt": "2026-10-22T21:26:45.400Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2016,7 +2087,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-22T17:04:16.154Z",
+      "collectedAt": "2026-10-22T21:26:45.400Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2039,7 +2110,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-22T17:04:16.154Z",
+      "collectedAt": "2026-10-22T21:26:45.400Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2060,7 +2131,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-22T17:04:16.154Z",
+      "collectedAt": "2026-10-22T21:26:45.400Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2083,7 +2154,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-22T17:04:16.154Z",
+      "collectedAt": "2026-10-22T21:26:45.400Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2097,7 +2168,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T17:04:23.375Z",
-    "count": 91
+    "generatedAt": "2026-10-22T21:26:50.560Z",
+    "count": 94
   }
 }

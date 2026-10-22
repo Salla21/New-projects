@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "16f0702c57a110bc",
+      "title": "Gambia Immigration Department Intercepts 125 Would-Be Migrants, Including 26 Minors",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 125 suspected irregular migrants, including 26 minors, in three separate operations, once again highlighting the involvement of children in attempts to undertake dangerous migration journeys. The intercep...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-125-would-be-migrants-including-26-minors/",
+      "publishedAt": "2026-10-22T17:40:48.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "133578e4c64ad677",
       "title": "Darboe Vows to End Corruption, Wasteful Spending, and Ethnic Division if Elected President",
       "summary": "By Seedy Jobe United Democratic Party (UDP) leader Ousainu Darboe has pledged to end corruption, wasteful public spending and ethnic division if elected president in the December 5 presidential election, accusing President Adama Barrow’s administration of perpetuating practice...",
@@ -311,34 +334,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7c1258e8d6522e55",
-      "title": "Immigration Commissioner tells court ID card serial number missing from database",
-      "summary": "By Mariama Marong An immigration officer responsible for The Gambia’s National Identity Card unit has told the court that the serial number on an identity card presented in an objection case involving Fatou Darboe and Isatou Bah could not be traced in the national database. As...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/immigration-commissioner-tells-court-id-card-serial-number-missing-from-database/",
-      "publishedAt": "2026-10-16T12:28:37.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T17:04:23.375Z",
+    "generatedAt": "2026-10-22T21:26:50.560Z",
     "count": 14
   }
 }

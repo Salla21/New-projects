@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "c4724bb2b4085551",
+      "title": "Coalition 2026 Unveils Manifesto, Pledges Emergency Measures to Tackle Cost of Living",
+      "summary": "By Seedy Jobe Coalition 2026, led by Banjul Mayor Talib Ahmed Bensouda, launched its election manifesto on Thursday at the Atlantic Hotel in Banjul, outlining an ambitious agenda to address the rising cost of living, strengthen national security, reform public institutions, an...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/coalition-2026-unveils-manifesto-pledges-emergency-measures-to-tackle-cost-of-living/",
+      "publishedAt": "2026-10-22T17:35:40.000Z",
+      "collectedAt": "2026-10-22T21:26:46.487Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6403c792b0b8eb02",
       "title": "Cubans in The Gambia Celebrate National Culture Day and Birth of National Anthem",
       "summary": "By Nelson Manneh The Cuban community in The Gambia has marked Cuba’s National Culture Day, celebrating the country’s history, music and cultural identity while highlighting its historical ties with Africa and The Gambia. The Cuban Embassy and the Cuban Medical Brigade in The G...",
@@ -427,57 +450,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "bcb67fdcc8cb3d88",
-      "title": "Hamat Bah Says No Presidential Challenger Can Match Barrow’s Record, Warns Against Election Violence",
-      "summary": "By Makutu Manneh Hamat Bah, Minister of Lands, Regional Government, and Religious Affairs, has declared that none of the candidates challenging President Adama Barrow in the December 5 presidential election can match his record of achievements, leadership, and commitment to na...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/hamat-bah-says-no-presidential-challenger-can-match-barrows-record-warns-against-election-violence/",
-      "publishedAt": "2026-10-16T19:02:12.000Z",
-      "collectedAt": "2026-10-16T20:53:50.050Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "be42505ab799b8d3",
-      "title": "NDP’s Conateh Touts Bojang’s Development Record, Challenges Barrow and Opposition Rivals",
-      "summary": "By Seedy Jobe Lamin Conateh, administrative secretary of the National Democratic Party (NDP), has described his party’s leader, Kebba Madi Bojang, as the country’s most marketable presidential candidate, arguing that his record of community development distinguishes him from P...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndps-conateh-touts-bojangs-development-record-challenges-barrow-and-opposition-rivals/",
-      "publishedAt": "2026-10-16T16:22:53.000Z",
-      "collectedAt": "2026-10-16T17:56:40.003Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T17:04:23.375Z",
-    "count": 21
+    "generatedAt": "2026-10-22T21:26:50.560Z",
+    "count": 20
   }
 }
