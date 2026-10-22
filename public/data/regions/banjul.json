@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f9bdf92fc624b1a9",
+      "title": "Darboe Accuses Government of Plot to Incite Violence and Frame UDP Ahead of December Election",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader ANM Ousainu Darboe has accused President Adama Barrow’s government of plotting to provoke violence and blame it on the opposition party as a pretext for declaring a state of emergency ahead of the December 5 presidential elect...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-accuses-government-of-plot-to-incite-violence-and-frame-udp-ahead-of-december-election/",
+      "publishedAt": "2026-10-22T02:30:55.000Z",
+      "collectedAt": "2026-10-22T04:20:51.367Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6982aa2df02983e3",
       "title": "SSHFC Introduces Taye Sama Social Security Scheme to Women Gardeners in Abuko",
       "summary": "By Fatou Sillah The Social Security and Housing Finance Corporation (SSHFC) on Wednesday introduced its Taye Sama social security scheme to women gardeners in Abuko, as part of efforts to extend financial protection to workers in The Gambia’s informal economy. The initiative, ...",
@@ -1732,169 +1756,6 @@
       "status": "published"
     },
     {
-      "id": "154890994c238a9d",
-      "title": "Mariame Cisse Launches The Mother Who Dreams, a Book for Mothers Who Have Forgotten Themselves",
-      "summary": "Emotional Leadership Coach, NLP Master Practitioner, storyteller, and founder of M Power Moms, Mariame Cisse, has launched her new book, The Mother Who Dreams. Written from her own experiences as a mother of six, the book speaks to mothers who love their children deeply but ma...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/mariame-cisse-launches-the-mother-who-dreams-a-book-for-mothers-who-have-forgotten-themselves/",
-      "publishedAt": "2026-10-16T11:50:37.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3515fee5e509c6ad",
-      "title": "WHAT TYPE OF GAMBIA DO HER CITIZENS WANT?",
-      "summary": "Elections constitute the basis of defining The Gambia its citizens want. We have been following social media. How are we to influence each other to focus on the problems that affect each and every one of us is the question of the day. If the citizens do not identify the type o...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-type-of-gambia-do-her-citizens-want/",
-      "publishedAt": "2026-10-16T11:45:57.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "db935f06dddc04e7",
-      "title": "THE COUNTRY GEARING UP FOR ELECTIONS",
-      "summary": "The Independent Electoral Commission has been confronted with supplementary registration of voters prior to the December 2026 presidential election. It is trite law that after every registration of voters the lists of registered voters must be displayed in public places for sc...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-country-gearing-up-for-elections/",
-      "publishedAt": "2026-10-16T11:44:22.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0408e3d1ed1fb9bf",
-      "title": "Old Yundum NAM Hails Barrow’s Development Record, Urges Support for Re-election",
-      "summary": "By Dawda Baldeh Old Yundum National Assembly Member Abdoulie Ceesay has defended President Adama Barrow’s development record, arguing that government investment is benefiting communities across The Gambia and promising more projects if the president wins a third term in Decemb...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/old-yundum-nam-hails-barrows-development-record-urges-support-for-re-election/",
-      "publishedAt": "2026-10-16T11:05:25.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "90f0435286d17a8f",
-      "title": "Agriculture Minister Urges Support for Barrow, Cites Ambitious 2030 Food Security Target",
-      "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has urged residents of Manduar in the West Coast Region to support President Adama Barrow in the December 5 presidential election, arguing that his re-election would help The Gambia achieve f...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/agriculture-minister-urges-support-for-barrow-cites-ambitious-2030-food-security-target/",
-      "publishedAt": "2026-10-15T21:47:19.000Z",
-      "collectedAt": "2026-10-16T00:14:00.358Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "18a6e62201191f50",
-      "title": "Darboe Says Opposition Unity Still Possible Before December Election, Dismisses Age Concerns",
-      "summary": "By Fatou Sillah ANM Ousainu Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has expressed optimism that opposition alliances could unite ahead of December’s presidential election, arguing that differences over leade...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-opposition-unity-still-possible-before-december-election-dismisses-age-concerns/",
-      "publishedAt": "2026-10-15T21:10:26.000Z",
-      "collectedAt": "2026-10-15T21:17:25.128Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1c27f9db10997252",
-      "title": "Darboe Vows to Scrap Presidential Adviser Posts, Cut Government Spending if Elected",
-      "summary": "By Fatou Sillah Ousainou Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has pledged to abolish political adviser positions and eliminate what he described as wasteful government spending if his coalition wins the D...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-vows-to-scrap-presidential-adviser-posts-cut-government-spending-if-elected/",
-      "publishedAt": "2026-10-15T20:57:04.000Z",
-      "collectedAt": "2026-10-15T21:17:25.128Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1903,7 +1764,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-21T23:10:36.998Z",
+      "collectedAt": "2026-10-22T04:20:49.431Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1926,7 +1787,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-21T23:10:36.998Z",
+      "collectedAt": "2026-10-22T04:20:49.431Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1949,7 +1810,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-21T23:10:36.998Z",
+      "collectedAt": "2026-10-22T04:20:49.431Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1970,7 +1831,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-21T23:10:36.998Z",
+      "collectedAt": "2026-10-22T04:20:49.431Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1993,7 +1854,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-21T23:10:36.998Z",
+      "collectedAt": "2026-10-22T04:20:49.431Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2007,7 +1868,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T23:10:46.545Z",
-    "count": 87
+    "generatedAt": "2026-10-22T04:20:55.480Z",
+    "count": 81
   }
 }

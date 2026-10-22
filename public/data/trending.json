@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f9bdf92fc624b1a9",
+      "title": "Darboe Accuses Government of Plot to Incite Violence and Frame UDP Ahead of December Election",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader ANM Ousainu Darboe has accused President Adama Barrow’s government of plotting to provoke violence and blame it on the opposition party as a pretext for declaring a state of emergency ahead of the December 5 presidential elect...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-accuses-government-of-plot-to-incite-violence-and-frame-udp-ahead-of-december-election/",
+      "publishedAt": "2026-10-22T02:30:55.000Z",
+      "collectedAt": "2026-10-22T04:20:51.367Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bb96878cdaaeb32f",
       "title": "Interior Minister Says Police Cannot Arrest Every Politician Over Divisive Remarks",
       "summary": "By Fatou Sillah Gambia’s Interior Minister, Abdoulie Sanyang, has defended the police’s approach to inflammatory political rhetoric, saying authorities cannot arrest every politician who makes divisive remarks and are instead prioritizing dialogue to ease tensions ahead of the...",
@@ -435,34 +459,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "054a41521e52bebe",
-      "title": "NO NEED FOR THREATS",
-      "summary": "The presidential tour is an official engagement that is mandated by the Constitution of the Republic. It is meant to find out how the implementation of government policy impacts on the lives of the people in the country. It is also an opportunity for a government to explain it...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/no-need-for-threats/",
-      "publishedAt": "2026-10-21T10:33:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T23:10:46.545Z",
+    "generatedAt": "2026-10-22T04:20:55.480Z",
     "count": 20
   }
 }

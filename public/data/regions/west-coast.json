@@ -276,53 +276,6 @@
       "status": "published"
     },
     {
-      "id": "cc66082cd80f9cf3",
-      "title": "“Politics Is Not About the Hereafter”: Hamat Bah Urges Voters to Back Barrow",
-      "summary": "Written by: Dawda Baldeh Lands Minister Hamat NK Bah has urged voters in Old Yundum, Sukuta and Jabang to re-elect President Adama Barrow in the December 5th, 2026, presidential election, calling on them to put development ahead of political hatred and personal differences. Sp...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/politics-is-not-about-the-hereafter-hamat-bah-urges-voters-to-back-barrow/",
-      "publishedAt": "2026-10-16T10:08:51.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7e2260397a4c2b00",
-      "title": "From Party Labels to Personal Ancestry: Juwara Raises Alarm Over Ethnic Politics",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara has called on President Adama Barrow to take decisive action against the growing use of ethnic identity as a political weapon in The Gambia, warning that the practice threatens national unity and risks deepening divisions in the ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/from-party-labels-to-personal-ancestry-juwara-raises-alarm-over-ethnic-politics/",
-      "publishedAt": "2026-10-15T21:41:06.000Z",
-      "collectedAt": "2026-10-16T00:14:00.358Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -331,7 +284,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-21T23:10:36.998Z",
+      "collectedAt": "2026-10-22T04:20:49.431Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -345,7 +298,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T23:10:46.545Z",
-    "count": 15
+    "generatedAt": "2026-10-22T04:20:55.480Z",
+    "count": 13
   }
 }

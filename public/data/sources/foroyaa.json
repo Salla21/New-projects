@@ -754,56 +754,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3515fee5e509c6ad",
-      "title": "WHAT TYPE OF GAMBIA DO HER CITIZENS WANT?",
-      "summary": "Elections constitute the basis of defining The Gambia its citizens want. We have been following social media. How are we to influence each other to focus on the problems that affect each and every one of us is the question of the day. If the citizens do not identify the type o...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-type-of-gambia-do-her-citizens-want/",
-      "publishedAt": "2026-10-16T11:45:57.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "db935f06dddc04e7",
-      "title": "THE COUNTRY GEARING UP FOR ELECTIONS",
-      "summary": "The Independent Electoral Commission has been confronted with supplementary registration of voters prior to the December 2026 presidential election. It is trite law that after every registration of voters the lists of registered voters must be displayed in public places for sc...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-country-gearing-up-for-elections/",
-      "publishedAt": "2026-10-16T11:44:22.000Z",
-      "collectedAt": "2026-10-16T13:11:04.868Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T23:10:46.545Z",
-    "count": 35
+    "generatedAt": "2026-10-22T04:20:55.480Z",
+    "count": 33
   }
 }

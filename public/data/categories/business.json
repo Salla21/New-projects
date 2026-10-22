@@ -529,54 +529,6 @@
       "status": "published"
     },
     {
-      "id": "0408e3d1ed1fb9bf",
-      "title": "Old Yundum NAM Hails Barrow’s Development Record, Urges Support for Re-election",
-      "summary": "By Dawda Baldeh Old Yundum National Assembly Member Abdoulie Ceesay has defended President Adama Barrow’s development record, arguing that government investment is benefiting communities across The Gambia and promising more projects if the president wins a third term in Decemb...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/old-yundum-nam-hails-barrows-development-record-urges-support-for-re-election/",
-      "publishedAt": "2026-10-16T11:05:25.000Z",
-      "collectedAt": "2026-10-16T13:11:05.851Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "90f0435286d17a8f",
-      "title": "Agriculture Minister Urges Support for Barrow, Cites Ambitious 2030 Food Security Target",
-      "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has urged residents of Manduar in the West Coast Region to support President Adama Barrow in the December 5 presidential election, arguing that his re-election would help The Gambia achieve f...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/agriculture-minister-urges-support-for-barrow-cites-ambitious-2030-food-security-target/",
-      "publishedAt": "2026-10-15T21:47:19.000Z",
-      "collectedAt": "2026-10-16T00:14:00.358Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -585,7 +537,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-21T23:10:36.998Z",
+      "collectedAt": "2026-10-22T04:20:49.431Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -608,7 +560,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-21T23:10:36.998Z",
+      "collectedAt": "2026-10-22T04:20:49.431Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -624,7 +576,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-21T23:10:46.545Z",
-    "count": 26
+    "generatedAt": "2026-10-22T04:20:55.480Z",
+    "count": 24
   }
 }
