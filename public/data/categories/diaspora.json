@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "c8a02750b5e6344f",
+      "title": "Coalition 2026 promises term limits, diaspora voting and economic overhaul",
+      "summary": "By Hadram Hydara Coalition 2026 has unveiled an ambitious election manifesto centred on constitutional reform, anti-corruption measures, diaspora voting and a sweeping economic transformation programme, as the opposition alliance seeks to position itself as an alternative to P...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/coalition-2026-promises-term-limits-diaspora-voting-and-economic-overhaul/",
+      "publishedAt": "2026-10-23T13:00:58.000Z",
+      "collectedAt": "2026-10-23T13:18:36.027Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "16a25ab7b35bbb49",
       "title": "GAP swaps party founder for social worker ahead of polls",
       "summary": "The Gambia Action Party (GAP) has entrusted its State House bid to Ba Samba Drammeh, handing the social worker and human rights advocate the party’s ticket for the December 5 presidential election, while party founder Musa Ousainou Yali Batchilly assumes the role of running ma...",
@@ -265,7 +289,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T07:20:17.503Z",
-    "count": 11
+    "generatedAt": "2026-10-23T13:18:41.373Z",
+    "count": 12
   }
 }

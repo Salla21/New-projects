@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "f80263a018f7a349",
+      "title": "Only One Case Succeeds Before Magistrate Isatou Jallow After 65 Voter Objections",
+      "summary": "By Mariama Marong Sixty-four out of sixty-five voter objection cases brought before the Kanifing Revising Court presided over by Senior Magistrate Isatou Jallow-Sowe did not succeed. Magistrate Jallow has concluded hearing all the cases assigned to her. The revising courts beg...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/only-one-case-succeeds-before-magistrate-isatou-jallow-after-65-voter-objections/",
+      "publishedAt": "2026-10-23T12:16:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e49d0efad1cd6e31",
+      "title": "Barrow Promises 180 kilometres of Roads for Kanifing Municipality",
+      "summary": "By Assan Bah President Adama Barrow has promised to oversee the construction of 180 kilometres of roads across Kanifing Municipality (KM), alongside improvements to water supply and the redevelopment of a football field in Manjai. The announcement followed appeals from residen...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/barrow-promises-180-kilometres-of-roads-for-kanifing-municipality/",
+      "publishedAt": "2026-10-23T12:05:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bead05d6eb415b9a",
+      "title": "Coalition 2026 Unveils 66-Point Manifesto, Promises Reforms on Cost of Living, Jobs & Governance",
+      "summary": "By Yankuba Jallow Talib Ahmed Bensouda, the mayor of Kanifing Municipality and flag bearer of Coalition 2026, has unveiled a 66-point manifesto promising reforms in the cost of living, public accountability, healthcare, education, security, agriculture and employment if the co...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/coalition-2026-unveils-66-point-manifesto-promises-reforms-on-cost-of-living-jobs-governance/",
+      "publishedAt": "2026-10-23T11:57:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5110becaaa233ec4",
       "title": "Kanifing Revising Court Dismisses Objection to Abdoulie Bah’s Voter Registration",
       "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Abdoulie Bah’s voter registration, ruling that suspicion alone cannot establish that a person is not a Gambian citizen. Magistrate Isatou Jallow delivered the ruling after considering an objection file...",
@@ -229,7 +300,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T07:20:17.503Z",
-    "count": 10
+    "generatedAt": "2026-10-23T13:18:41.373Z",
+    "count": 13
   }
 }

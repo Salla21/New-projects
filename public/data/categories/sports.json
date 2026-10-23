@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e49d0efad1cd6e31",
+      "title": "Barrow Promises 180 kilometres of Roads for Kanifing Municipality",
+      "summary": "By Assan Bah President Adama Barrow has promised to oversee the construction of 180 kilometres of roads across Kanifing Municipality (KM), alongside improvements to water supply and the redevelopment of a football field in Manjai. The announcement followed appeals from residen...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/barrow-promises-180-kilometres-of-roads-for-kanifing-municipality/",
+      "publishedAt": "2026-10-23T12:05:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d7afed2174025298",
       "title": "New GFF President Kemo Ceesay Oversees Football Projects as Gambian Youth Teams Deliver Results",
       "summary": "Written by: Seringe S.T. Touray Gambia Football Federation (GFF) President Kemo Ceesay has led a nationwide inspection of football development projects, just weeks after taking office on September 3rd, succeeding Lamin Kaba Bajo, who headed the federation for 12 years. Accompa...",
@@ -74,7 +98,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T07:20:17.503Z",
-    "count": 3
+    "generatedAt": "2026-10-23T13:18:41.373Z",
+    "count": 4
   }
 }

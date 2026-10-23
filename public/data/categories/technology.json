@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "aa273b8da1d4bf79",
+      "title": "A REPORT ON THE GROUND OF TEAM GAMBIA GRAND COALITION 2026 TOUR",
+      "summary": "This paper has emphasised that the 2026 presidential election is likely to be decided on which side the silent voters of The Gambia are like to take. It is surprising that the results of December 2026 election are becoming more difficult to predict as coalitions evolve and cha...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/a-report-on-the-ground-of-team-gambia-grand-coalition-2026-tour/",
+      "publishedAt": "2026-10-23T08:45:49.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "14c3def7098e8303",
       "title": "Government rules out bottled water import ban, cites ECOWAS trade obligations",
       "summary": "By Mama A. Touray The Gambian government has no plans to restrict or ban bottled water imports, Trade Minister Mod K. Ceesay has told parliament, arguing that regional trade rules prevent member states from closing their markets to goods produced within the ECOWAS bloc. Ceesay...",
@@ -291,34 +316,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a07ecc3c1144a0ea",
-      "title": "UDP’s Sanneh Sees Echoes of 2016 as Party Eyes Presidential Victory",
-      "summary": "By Fatou Sillah Lamin J.K. Sanneh, the United Democratic Party’s (UDP) deputy administrative secretary for social affairs and fundraising, has expressed confidence that his party is well-positioned to win the December 5 presidential election, citing its growing political suppo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-sanneh-sees-echoes-of-2016-as-party-eyes-presidential-victory/",
-      "publishedAt": "2026-10-17T20:34:31.000Z",
-      "collectedAt": "2026-10-17T23:55:50.693Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T07:20:17.503Z",
+    "generatedAt": "2026-10-23T13:18:41.373Z",
     "count": 13
   }
 }

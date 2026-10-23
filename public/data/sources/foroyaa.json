@@ -1,6 +1,192 @@
 {
   "items": [
     {
+      "id": "f80263a018f7a349",
+      "title": "Only One Case Succeeds Before Magistrate Isatou Jallow After 65 Voter Objections",
+      "summary": "By Mariama Marong Sixty-four out of sixty-five voter objection cases brought before the Kanifing Revising Court presided over by Senior Magistrate Isatou Jallow-Sowe did not succeed. Magistrate Jallow has concluded hearing all the cases assigned to her. The revising courts beg...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/only-one-case-succeeds-before-magistrate-isatou-jallow-after-65-voter-objections/",
+      "publishedAt": "2026-10-23T12:16:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "79b408ce0eccd2f3",
+      "title": "Infrastructure drive raises hopes, but rural communities say hunger remains",
+      "summary": "By Nelson Manneh New roads, expanded electricity networks and modern public facilities are changing parts of The Gambia, but residents in some rural communities say the projects have yet to address their most urgent needs: food, farming support, affordable living costs and rel...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/infrastructure-drive-raises-hopes-but-rural-communities-say-hunger-remains/",
+      "publishedAt": "2026-10-23T12:11:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2033f96f16e01f10",
+      "title": "25 Presidential Aspirants Pick Up Nomination Forms as Gambia Prepares for December Election",
+      "summary": "By Nelson Manneh Twenty-five presidential aspirants have collected nomination forms ahead of the official nomination period for the country’s 5th December 2026 presidential election, as the Independent Electoral Commission (IEC) steps up preparations for the vote. The Chairper...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/25-presidential-aspirants-pick-up-nomination-forms-as-gambia-prepares-for-december-election/",
+      "publishedAt": "2026-10-23T12:07:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e49d0efad1cd6e31",
+      "title": "Barrow Promises 180 kilometres of Roads for Kanifing Municipality",
+      "summary": "By Assan Bah President Adama Barrow has promised to oversee the construction of 180 kilometres of roads across Kanifing Municipality (KM), alongside improvements to water supply and the redevelopment of a football field in Manjai. The announcement followed appeals from residen...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/barrow-promises-180-kilometres-of-roads-for-kanifing-municipality/",
+      "publishedAt": "2026-10-23T12:05:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bead05d6eb415b9a",
+      "title": "Coalition 2026 Unveils 66-Point Manifesto, Promises Reforms on Cost of Living, Jobs & Governance",
+      "summary": "By Yankuba Jallow Talib Ahmed Bensouda, the mayor of Kanifing Municipality and flag bearer of Coalition 2026, has unveiled a 66-point manifesto promising reforms in the cost of living, public accountability, healthcare, education, security, agriculture and employment if the co...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/coalition-2026-unveils-66-point-manifesto-promises-reforms-on-cost-of-living-jobs-governance/",
+      "publishedAt": "2026-10-23T11:57:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "886aa3c14794d316",
+      "title": "Manjai Leaders Appeal to President Barrow to Intervene in Manjai Park Dispute",
+      "summary": "By Assan Bah Leaders in Manjai Kunda have appealed to President Adama Barrow to intervene in an ongoing dispute over Manjai Park, which they allege is being sold or leased to a private individual without the community’s consent. The appeal was made at a joint meeting in Manjai...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/manjai-leaders-appeal-to-president-barrow-to-intervene-in-manjai-park-dispute/",
+      "publishedAt": "2026-10-23T11:53:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f0e96f33d7d95d23",
+      "title": "IS HALIFA SALLAH A DEMI-GOD AS IMPLIED BY MEVILLE ROBERTSON ROBERTS?",
+      "summary": "This question was posed to Halifa Sallah and he answered as follows: No human being can be a demi-god. In fact, to think of any human being as a demi-god is to be guilty of the highest level of blasphemy. To accuse a person like me of being a demi-god or to claim that I […]",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-halifa-sallah-a-demi-god-as-implied-by-meville-robertson-roberts/",
+      "publishedAt": "2026-10-23T08:47:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "aa273b8da1d4bf79",
+      "title": "A REPORT ON THE GROUND OF TEAM GAMBIA GRAND COALITION 2026 TOUR",
+      "summary": "This paper has emphasised that the 2026 presidential election is likely to be decided on which side the silent voters of The Gambia are like to take. It is surprising that the results of December 2026 election are becoming more difficult to predict as coalitions evolve and cha...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/a-report-on-the-ground-of-team-gambia-grand-coalition-2026-tour/",
+      "publishedAt": "2026-10-23T08:45:49.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5110becaaa233ec4",
       "title": "Kanifing Revising Court Dismisses Objection to Abdoulie Bah’s Voter Registration",
       "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Abdoulie Bah’s voter registration, ruling that suspicion alone cannot establish that a person is not a Gambian citizen. Magistrate Isatou Jallow delivered the ruling after considering an objection file...",
@@ -822,7 +1008,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T07:20:17.503Z",
-    "count": 36
+    "generatedAt": "2026-10-23T13:18:41.373Z",
+    "count": 44
   }
 }

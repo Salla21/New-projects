@@ -159,30 +159,6 @@
       "status": "published"
     },
     {
-      "id": "a07ecc3c1144a0ea",
-      "title": "UDP’s Sanneh Sees Echoes of 2016 as Party Eyes Presidential Victory",
-      "summary": "By Fatou Sillah Lamin J.K. Sanneh, the United Democratic Party’s (UDP) deputy administrative secretary for social affairs and fundraising, has expressed confidence that his party is well-positioned to win the December 5 presidential election, citing its growing political suppo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-sanneh-sees-echoes-of-2016-as-party-eyes-presidential-victory/",
-      "publishedAt": "2026-10-17T20:34:31.000Z",
-      "collectedAt": "2026-10-17T23:55:50.693Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -191,7 +167,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-23T07:20:11.269Z",
+      "collectedAt": "2026-10-23T13:18:35.447Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -205,7 +181,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T07:20:17.503Z",
-    "count": 9
+    "generatedAt": "2026-10-23T13:18:41.373Z",
+    "count": 8
   }
 }

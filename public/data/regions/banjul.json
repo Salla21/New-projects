@@ -1,6 +1,145 @@
 {
   "items": [
     {
+      "id": "c8a02750b5e6344f",
+      "title": "Coalition 2026 promises term limits, diaspora voting and economic overhaul",
+      "summary": "By Hadram Hydara Coalition 2026 has unveiled an ambitious election manifesto centred on constitutional reform, anti-corruption measures, diaspora voting and a sweeping economic transformation programme, as the opposition alliance seeks to position itself as an alternative to P...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/coalition-2026-promises-term-limits-diaspora-voting-and-economic-overhaul/",
+      "publishedAt": "2026-10-23T13:00:58.000Z",
+      "collectedAt": "2026-10-23T13:18:36.027Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "79b408ce0eccd2f3",
+      "title": "Infrastructure drive raises hopes, but rural communities say hunger remains",
+      "summary": "By Nelson Manneh New roads, expanded electricity networks and modern public facilities are changing parts of The Gambia, but residents in some rural communities say the projects have yet to address their most urgent needs: food, farming support, affordable living costs and rel...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/infrastructure-drive-raises-hopes-but-rural-communities-say-hunger-remains/",
+      "publishedAt": "2026-10-23T12:11:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2033f96f16e01f10",
+      "title": "25 Presidential Aspirants Pick Up Nomination Forms as Gambia Prepares for December Election",
+      "summary": "By Nelson Manneh Twenty-five presidential aspirants have collected nomination forms ahead of the official nomination period for the country’s 5th December 2026 presidential election, as the Independent Electoral Commission (IEC) steps up preparations for the vote. The Chairper...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/25-presidential-aspirants-pick-up-nomination-forms-as-gambia-prepares-for-december-election/",
+      "publishedAt": "2026-10-23T12:07:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "886aa3c14794d316",
+      "title": "Manjai Leaders Appeal to President Barrow to Intervene in Manjai Park Dispute",
+      "summary": "By Assan Bah Leaders in Manjai Kunda have appealed to President Adama Barrow to intervene in an ongoing dispute over Manjai Park, which they allege is being sold or leased to a private individual without the community’s consent. The appeal was made at a joint meeting in Manjai...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/manjai-leaders-appeal-to-president-barrow-to-intervene-in-manjai-park-dispute/",
+      "publishedAt": "2026-10-23T11:53:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f0e96f33d7d95d23",
+      "title": "IS HALIFA SALLAH A DEMI-GOD AS IMPLIED BY MEVILLE ROBERTSON ROBERTS?",
+      "summary": "This question was posed to Halifa Sallah and he answered as follows: No human being can be a demi-god. In fact, to think of any human being as a demi-god is to be guilty of the highest level of blasphemy. To accuse a person like me of being a demi-god or to claim that I […]",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-halifa-sallah-a-demi-god-as-implied-by-meville-robertson-roberts/",
+      "publishedAt": "2026-10-23T08:47:00.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "aa273b8da1d4bf79",
+      "title": "A REPORT ON THE GROUND OF TEAM GAMBIA GRAND COALITION 2026 TOUR",
+      "summary": "This paper has emphasised that the 2026 presidential election is likely to be decided on which side the silent voters of The Gambia are like to take. It is surprising that the results of December 2026 election are becoming more difficult to predict as coalitions evolve and cha...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/a-report-on-the-ground-of-team-gambia-grand-coalition-2026-tour/",
+      "publishedAt": "2026-10-23T08:45:49.000Z",
+      "collectedAt": "2026-10-23T13:18:35.189Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "16a25ab7b35bbb49",
       "title": "GAP swaps party founder for social worker ahead of polls",
       "summary": "The Gambia Action Party (GAP) has entrusted its State House bid to Ba Samba Drammeh, handing the social worker and human rights advocate the party’s ticket for the December 5 presidential election, while party founder Musa Ousainou Yali Batchilly assumes the role of running ma...",
@@ -1926,7 +2065,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-23T07:20:11.269Z",
+      "collectedAt": "2026-10-23T13:18:35.447Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1949,7 +2088,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-23T07:20:11.269Z",
+      "collectedAt": "2026-10-23T13:18:35.447Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1972,7 +2111,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-23T07:20:11.269Z",
+      "collectedAt": "2026-10-23T13:18:35.447Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1993,7 +2132,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-23T07:20:11.269Z",
+      "collectedAt": "2026-10-23T13:18:35.447Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2016,7 +2155,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-23T07:20:11.269Z",
+      "collectedAt": "2026-10-23T13:18:35.447Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2030,7 +2169,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T07:20:17.503Z",
-    "count": 88
+    "generatedAt": "2026-10-23T13:18:41.373Z",
+    "count": 94
   }
 }
