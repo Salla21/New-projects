@@ -318,31 +318,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d66ee233b1bfd07a",
-      "title": "NGO Ser Humano Improves Water & Electricity Facilities in Four Schools",
-      "summary": "By Assan Bah ‘Ser Humano’, an International NGO, has completed repairs and improvements on water and electricity installations in four schools in The Gambia, with funding from the Department of International Solidarity of the Cabildo de Gran Canaria Island Council in Spain. Th...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/ngo-ser-humano-improves-water-electricity-facilities-in-four-schools/",
-      "publishedAt": "2026-10-19T12:15:52.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T18:13:58.817Z",
-    "count": 15
+    "generatedAt": "2026-10-23T23:03:57.199Z",
+    "count": 14
   }
 }

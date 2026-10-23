@@ -375,77 +375,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d66ee233b1bfd07a",
-      "title": "NGO Ser Humano Improves Water & Electricity Facilities in Four Schools",
-      "summary": "By Assan Bah ‘Ser Humano’, an International NGO, has completed repairs and improvements on water and electricity installations in four schools in The Gambia, with funding from the Department of International Solidarity of the Cabildo de Gran Canaria Island Council in Spain. Th...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/ngo-ser-humano-improves-water-electricity-facilities-in-four-schools/",
-      "publishedAt": "2026-10-19T12:15:52.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b3b4eb19d8286e93",
-      "title": "UDP Agent Fatou Darboe Loses Voter Objection Case against Muhammed Sissoho",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Muhammed Sissoho’s name on the voters’ register for Bakau, ruling that the evidence presented failed to prove that he was not a Gambian citizen or qualified to vote. Magistrate Isatou Jallow, ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/udp-agent-fatou-darboe-loses-voter-objection-case-against-muhammed-sissoho/",
-      "publishedAt": "2026-10-19T12:08:29.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7d7249925d3d38b6",
-      "title": "Ex-President Jammeh Picks Honourable Almameh Gibba as APRC ‘No to Alliance’ Presidential Candidate",
-      "summary": "By Yankuba Jallow Honourable Almameh Gibba, the National Assembly member for Foni Kansala, has been selected by former Gambian president Yahya A.J.J. Jammeh, as the presidential candidate for his faction of the Alliance for Patriotic Reorientation and Construction (APRC) in th...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/ex-president-jammeh-picks-honourable-almameh-gibba-as-aprc-no-to-alliance-presidential-candidate/",
-      "publishedAt": "2026-10-19T11:57:31.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T18:13:58.817Z",
-    "count": 19
+    "generatedAt": "2026-10-23T23:03:57.199Z",
+    "count": 16
   }
 }

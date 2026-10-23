@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "0eb6247eceb1d795",
+      "title": "“A Change of Government, but Not Yet a Change of System,” Says Barra Touray as APP Faction Joins Coalition 2026",
+      "summary": "By Seedy Jobe A faction of the All Peoples Party (APP)-Sobeyaa has formally joined Coalition 2026, led by Mayor Talib Ahmed Bensouda, marking another political realignment ahead of The Gambia’s December presidential election. The faction formalized its membership on Thursday d...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/a-change-of-government-but-not-yet-a-change-of-system-says-barra-touray-as-app-faction-joins-coalition-2026/",
+      "publishedAt": "2026-10-23T19:57:30.000Z",
+      "collectedAt": "2026-10-23T23:03:53.112Z",
+      "region": "north-bank",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "24147cafb3e63ab7",
       "title": "‘We Are Eating Rice Meant for Horses’: Kebba Madi Bojang Slams Gov’t Over Substandard Imports, Vows Agricultural Revival",
       "summary": "Written by: Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang opened his nationwide tour in Essau village with criticism of the government’s agricultural policies, accusing the authorities of neglecting ordinary Gambians and leaving them dependent on substa...",
@@ -25,7 +48,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T18:13:58.817Z",
-    "count": 1
+    "generatedAt": "2026-10-23T23:03:57.199Z",
+    "count": 2
   }
 }

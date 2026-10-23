@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "72764c5a4a8a8da7",
+      "title": "Gambia Earmarks D1 Billion for Electricity Subsidy in 2027 Budget",
+      "summary": "By Fatou Sillah The Gambia government has earmarked D1 billion in its proposed 2027 national budget to subsidize electricity tariffs, as the country grapples with persistent power outages and mounting challenges in the energy sector. The allocation was announced by the Ministe...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-earmarks-d1-billion-for-electricity-subsidy-in-2027-budget/",
+      "publishedAt": "2026-10-23T19:46:53.000Z",
+      "collectedAt": "2026-10-23T23:03:53.112Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "73b307ae9d8ef37b",
+      "title": "Assan Martin: Bensouda Is the Leader; Gambia Needs to Revive Economy, Create Jobs",
+      "summary": "By Fatou Sillah Assan Martin, spokesperson for Coalition 2026, has described Talib Ahmed Bensouda as the leader The Gambia needs to revive its economy, create employment opportunities for young people, and address the country’s pressing development challenges. Speaking at a Co...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/assan-martin-bensouda-is-the-leader-gambia-needs-to-revive-economy-create-jobs/",
+      "publishedAt": "2026-10-23T18:44:06.000Z",
+      "collectedAt": "2026-10-23T23:03:53.112Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "79b408ce0eccd2f3",
       "title": "Infrastructure drive raises hopes, but rural communities say hunger remains",
       "summary": "By Nelson Manneh New roads, expanded electricity networks and modern public facilities are changing parts of The Gambia, but residents in some rural communities say the projects have yet to address their most urgent needs: food, farming support, affordable living costs and rel...",
@@ -540,7 +588,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-23T18:13:52.104Z",
+      "collectedAt": "2026-10-23T23:03:50.049Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -563,7 +611,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-23T18:13:52.104Z",
+      "collectedAt": "2026-10-23T23:03:50.049Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -579,7 +627,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T18:13:58.817Z",
-    "count": 24
+    "generatedAt": "2026-10-23T23:03:57.199Z",
+    "count": 26
   }
 }

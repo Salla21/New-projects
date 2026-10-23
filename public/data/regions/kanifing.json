@@ -274,33 +274,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b3b4eb19d8286e93",
-      "title": "UDP Agent Fatou Darboe Loses Voter Objection Case against Muhammed Sissoho",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Muhammed Sissoho’s name on the voters’ register for Bakau, ruling that the evidence presented failed to prove that he was not a Gambian citizen or qualified to vote. Magistrate Isatou Jallow, ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/udp-agent-fatou-darboe-loses-voter-objection-case-against-muhammed-sissoho/",
-      "publishedAt": "2026-10-19T12:08:29.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T18:13:58.817Z",
-    "count": 13
+    "generatedAt": "2026-10-23T23:03:57.199Z",
+    "count": 12
   }
 }
