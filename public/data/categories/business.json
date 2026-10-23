@@ -532,29 +532,6 @@
       "status": "published"
     },
     {
-      "id": "b33bbe6f1d3247d7",
-      "title": "“I Cannot Thank Gambians Enough” — Youssou N’Dour Tells TFN",
-      "summary": "Published by: The Fatu Network Senegalese music legend Youssou N’Dour has credited The Gambia and its people with playing an important role in his musical career. Speaking exclusively to The Fatu Network following Saturday’s Grand Bal concert at Bercy in Paris, he said, “I can...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/i-cannot-thank-gambians-enough-youssou-ndour-tells-tfn/",
-      "publishedAt": "2026-10-18T22:23:15.000Z",
-      "collectedAt": "2026-10-19T04:19:14.194Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -563,7 +540,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-23T13:18:35.447Z",
+      "collectedAt": "2026-10-23T18:13:52.104Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -586,7 +563,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-23T13:18:35.447Z",
+      "collectedAt": "2026-10-23T18:13:52.104Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -602,7 +579,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T13:18:41.373Z",
-    "count": 25
+    "generatedAt": "2026-10-23T18:13:58.817Z",
+    "count": 24
   }
 }

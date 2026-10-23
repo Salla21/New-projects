@@ -442,80 +442,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "dfbbc82182be3cd3",
-      "title": "WHICH FORCES WILL JOIN HANDS IN THE PRESIDENTIAL ELECTIONS AND WHY?",
-      "summary": "The Gambian people are owed an explanation why the different coalition forces have come together to contest the forthcoming presidential election. Hence the media should focus on asking each coalition to explain the purpose of coming together and what the people will gain by s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/which-forces-will-join-hands-in-the-presidential-elections-and-why/",
-      "publishedAt": "2026-10-19T11:50:01.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b9a3101bd4596485",
-      "title": "THE ELECTORAL LANDSCAPE IS BROADENING",
-      "summary": "2026 is looking to be a period that will shape The Gambia in a direction that many are unable to predict at this very moment. All political forces are becoming entrenched into four major camps. The NPP is absorbing people who have removed any focus on constitutional reform and...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-electoral-landscape-is-broadening/",
-      "publishedAt": "2026-10-19T11:49:04.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "86cbb320218035a3",
-      "title": "Consumer Complaints Must Lead to Real Solutions, PURA Deputy Chief Says at 9th Consumer Parliament",
-      "summary": "By Seedy Jobe The Public Utilities Regulatory Authority (PURA) has reaffirmed its commitment to consumer protection, transparency, and accountability, emphasizing that every consumer complaint deserves attention as the regulatory body convened its ninth Consumer Parliament ove...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/consumer-complaints-must-lead-to-real-solutions-pura-deputy-chief-says-at-9th-consumer-parliament/",
-      "publishedAt": "2026-10-19T00:16:02.000Z",
-      "collectedAt": "2026-10-19T04:19:16.789Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T13:18:41.373Z",
-    "count": 22
+    "generatedAt": "2026-10-23T18:13:58.817Z",
+    "count": 19
   }
 }

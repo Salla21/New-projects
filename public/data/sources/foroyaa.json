@@ -94,6 +94,29 @@
       "status": "published"
     },
     {
+      "id": "16d5a91facd04a7c",
+      "title": "IEC Targets 9,000 Polling Staff for December Presidential Election",
+      "summary": "By Ndey Sowe  The Independent Electoral Commission (IEC) is seeking to recruit approximately 9,000 polling staff for the conduct of the presidential election scheduled for 5 December 2026. IEC Chairman Joseph Colley disclosed this on Thursday, 22 October, during the Commission...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-targets-9000-polling-staff-for-december-presidential-election/",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "collectedAt": "2026-10-23T18:13:51.786Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bead05d6eb415b9a",
       "title": "Coalition 2026 Unveils 66-Point Manifesto, Promises Reforms on Cost of Living, Jobs & Governance",
       "summary": "By Yankuba Jallow Talib Ahmed Bensouda, the mayor of Kanifing Municipality and flag bearer of Coalition 2026, has unveiled a 66-point manifesto promising reforms in the cost of living, public accountability, healthcare, education, security, agriculture and employment if the co...",
@@ -958,57 +981,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "dfbbc82182be3cd3",
-      "title": "WHICH FORCES WILL JOIN HANDS IN THE PRESIDENTIAL ELECTIONS AND WHY?",
-      "summary": "The Gambian people are owed an explanation why the different coalition forces have come together to contest the forthcoming presidential election. Hence the media should focus on asking each coalition to explain the purpose of coming together and what the people will gain by s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/which-forces-will-join-hands-in-the-presidential-elections-and-why/",
-      "publishedAt": "2026-10-19T11:50:01.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b9a3101bd4596485",
-      "title": "THE ELECTORAL LANDSCAPE IS BROADENING",
-      "summary": "2026 is looking to be a period that will shape The Gambia in a direction that many are unable to predict at this very moment. All political forces are becoming entrenched into four major camps. The NPP is absorbing people who have removed any focus on constitutional reform and...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-electoral-landscape-is-broadening/",
-      "publishedAt": "2026-10-19T11:49:04.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T13:18:41.373Z",
-    "count": 44
+    "generatedAt": "2026-10-23T18:13:58.817Z",
+    "count": 43
   }
 }

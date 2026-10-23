@@ -339,80 +339,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fc0798d70b354a42",
-      "title": "No To Alliance’s Gibba Opens Door to Opposition Coalition to Challenge Barrow",
-      "summary": "By Fatou Sillah Almameh Gibba the flagbearer of the No To Alliance Movement, speaking at the movement’s rally in Buffer Zone, where he was declared as the movement’s flagbearer by former president Jammeh, has called on opposition parties to join forces ahead of the December 20...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/no-to-alliances-gibba-opens-door-to-opposition-coalition-to-challenge-barrow/",
-      "publishedAt": "2026-10-18T23:06:59.000Z",
-      "collectedAt": "2026-10-19T04:19:16.789Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c012cd16babba51a",
-      "title": "Jammeh Urges Gambians to Reject Tribalism, Embrace Shared National Identity",
-      "summary": "By Fatou Sillah Former President Yahya Jammeh has warned Gambians against tribalism and regional divisions, describing ethnic politics as a threat to national unity, peace and development. In a recorded message played at a rally organized by the No to Alliance Movement at the ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/jammeh-urges-gambians-to-reject-tribalism-embrace-shared-national-identity/",
-      "publishedAt": "2026-10-18T17:50:47.000Z",
-      "collectedAt": "2026-10-18T18:34:18.178Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6ecf7837a2dfede9",
-      "title": "Batchilly Challenges Barrow to Account for Promises as Cost of Living Bites",
-      "summary": "By Dawda Baldeh The leader of the Gambia Action Party (GAP), Musa Ousainou Yali Batchilly, has challenged President Adama Barrow to account for his government’s promises, achievements and shortcomings, arguing that many Gambians are grappling with rising living costs and econo...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/batchilly-challenges-barrow-to-account-for-promises-as-cost-of-living-bites/",
-      "publishedAt": "2026-10-18T11:24:08.000Z",
-      "collectedAt": "2026-10-18T15:47:06.313Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T13:18:41.373Z",
-    "count": 18
+    "generatedAt": "2026-10-23T18:13:58.817Z",
+    "count": 15
   }
 }

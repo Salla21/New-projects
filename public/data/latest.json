@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "4a9034f5bb85ed9f",
+      "title": "A 1949 Law Is Still Running Our Murder Cases",
+      "summary": "Isatou Fatty Deserved Better By Sarjo Barrow, Esq. No criminal justice system is perfect, even in advanced countries. With limited resources and little modern technology, our police deserve credit for the cases they solve. That is why a story shared this week on the What’s On ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/a-1949-law-is-still-running-our-murder-cases/",
+      "publishedAt": "2026-10-23T17:47:46.000Z",
+      "collectedAt": "2026-10-23T18:13:52.440Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "03b5cce1ede5df91",
+      "title": "Former GDC executive Ebrima Nyang defects to opposition UDP",
+      "summary": "By Dawda Baldeh In a major political shift ahead of the December 5 election, Ebrima Nyang, the former Administrative Secretary 1 of the Gambia Democratic Congress (GDC), has officially defected to the opposition United Democratic Party (UDP). Nyang announced his exit from the ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/former-gdc-executive-ebrima-nyang-defects-to-opposition-udp/",
+      "publishedAt": "2026-10-23T13:29:11.000Z",
+      "collectedAt": "2026-10-23T18:13:52.440Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c8a02750b5e6344f",
       "title": "Coalition 2026 promises term limits, diaspora voting and economic overhaul",
       "summary": "By Hadram Hydara Coalition 2026 has unveiled an ambitious election manifesto centred on constitutional reform, anti-corruption measures, diaspora voting and a sweeping economic transformation programme, as the opposition alliance seeks to position itself as an alternative to P...",
@@ -113,6 +160,29 @@
       "author": "Sulayman Bah",
       "language": "en",
       "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "16d5a91facd04a7c",
+      "title": "IEC Targets 9,000 Polling Staff for December Presidential Election",
+      "summary": "By Ndey Sowe  The Independent Electoral Commission (IEC) is seeking to recruit approximately 9,000 polling staff for the conduct of the presidential election scheduled for 5 December 2026. IEC Chairman Joseph Colley disclosed this on Thursday, 22 October, during the Commission...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-targets-9000-polling-staff-for-december-presidential-election/",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "collectedAt": "2026-10-23T18:13:51.786Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
@@ -2235,77 +2305,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d66ee233b1bfd07a",
-      "title": "NGO Ser Humano Improves Water & Electricity Facilities in Four Schools",
-      "summary": "By Assan Bah ‘Ser Humano’, an International NGO, has completed repairs and improvements on water and electricity installations in four schools in The Gambia, with funding from the Department of International Solidarity of the Cabildo de Gran Canaria Island Council in Spain. Th...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/ngo-ser-humano-improves-water-electricity-facilities-in-four-schools/",
-      "publishedAt": "2026-10-19T12:15:52.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b3b4eb19d8286e93",
-      "title": "UDP Agent Fatou Darboe Loses Voter Objection Case against Muhammed Sissoho",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Muhammed Sissoho’s name on the voters’ register for Bakau, ruling that the evidence presented failed to prove that he was not a Gambian citizen or qualified to vote. Magistrate Isatou Jallow, ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/udp-agent-fatou-darboe-loses-voter-objection-case-against-muhammed-sissoho/",
-      "publishedAt": "2026-10-19T12:08:29.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7d7249925d3d38b6",
-      "title": "Ex-President Jammeh Picks Honourable Almameh Gibba as APRC ‘No to Alliance’ Presidential Candidate",
-      "summary": "By Yankuba Jallow Honourable Almameh Gibba, the National Assembly member for Foni Kansala, has been selected by former Gambian president Yahya A.J.J. Jammeh, as the presidential candidate for his faction of the Alliance for Patriotic Reorientation and Construction (APRC) in th...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/ex-president-jammeh-picks-honourable-almameh-gibba-as-aprc-no-to-alliance-presidential-candidate/",
-      "publishedAt": "2026-10-19T11:57:31.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T13:18:41.373Z",
+    "generatedAt": "2026-10-23T18:13:58.817Z",
     "count": 100
   }
 }
