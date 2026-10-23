@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "16a25ab7b35bbb49",
+      "title": "GAP swaps party founder for social worker ahead of polls",
+      "summary": "The Gambia Action Party (GAP) has entrusted its State House bid to Ba Samba Drammeh, handing the social worker and human rights advocate the party’s ticket for the December 5 presidential election, while party founder Musa Ousainou Yali Batchilly assumes the role of running ma...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gap-swaps-party-founder-for-social-worker-ahead-of-polls/",
+      "publishedAt": "2026-10-23T07:13:13.000Z",
+      "collectedAt": "2026-10-23T07:20:11.666Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d62d3ac4a5eaa0ee",
       "title": "Mayor Bensouda Says Gambians Have Right to Protest at State House Without Police Permit",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE and presidential candidate for Coalition 2026, has asserted that Gambians have a constitutional right to stage peaceful protests outside State House without obtaining a police permit. Speaking at a Coalition 2026 rally ...",
@@ -1709,52 +1733,6 @@
       "status": "published"
     },
     {
-      "id": "f3a1fe467d7860c7",
-      "title": "Former Niamina East Lawmaker Challenges Barrow’s Development Record, Urges Voters to Reject Him",
-      "summary": "By Fatou Sillah Omar Ceesay, a former National Assembly Member for Niamina East and a member of the opposition UNITE Party, has urged Gambians to vote against President Adama Barrow in the December 2026 presidential election, accusing his administration of failing to deliver o...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/former-niamina-east-lawmaker-challenges-barrows-development-record-urges-voters-to-reject-him/",
-      "publishedAt": "2026-10-17T18:58:53.000Z",
-      "collectedAt": "2026-10-17T20:27:29.282Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c74e3baa3448b28f",
-      "title": "GALA Will Stay Neutral, but I’ll March With UDP Over IEC Transparency, Touray Says",
-      "summary": "By Seedy Jobe Hakeem Touray, national coordinator of GALA, has pledged to personally join any street protest organized by the United Democratic Party (UDP) demanding greater transparency from the Independent Electoral Commission (IEC), while emphasizing that his organization w...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gala-will-stay-neutral-but-ill-march-with-udp-over-iec-transparency-touray-says/",
-      "publishedAt": "2026-10-17T17:35:13.000Z",
-      "collectedAt": "2026-10-17T20:27:29.282Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1763,7 +1741,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-23T00:32:10.637Z",
+      "collectedAt": "2026-10-23T07:20:11.269Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1779,7 +1757,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T00:32:31.909Z",
-    "count": 76
+    "generatedAt": "2026-10-23T07:20:17.503Z",
+    "count": 75
   }
 }

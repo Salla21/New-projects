@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "16a25ab7b35bbb49",
+      "title": "GAP swaps party founder for social worker ahead of polls",
+      "summary": "The Gambia Action Party (GAP) has entrusted its State House bid to Ba Samba Drammeh, handing the social worker and human rights advocate the party’s ticket for the December 5 presidential election, while party founder Musa Ousainou Yali Batchilly assumes the role of running ma...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gap-swaps-party-founder-for-social-worker-ahead-of-polls/",
+      "publishedAt": "2026-10-23T07:13:13.000Z",
+      "collectedAt": "2026-10-23T07:20:11.666Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "16f0702c57a110bc",
       "title": "Gambia Immigration Department Intercepts 125 Would-Be Migrants, Including 26 Minors",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 125 suspected irregular migrants, including 26 minors, in three separate operations, once again highlighting the involvement of children in attempts to undertake dangerous migration journeys. The intercep...",
@@ -241,7 +265,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T00:32:31.909Z",
-    "count": 10
+    "generatedAt": "2026-10-23T07:20:17.503Z",
+    "count": 11
   }
 }

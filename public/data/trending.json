@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "16a25ab7b35bbb49",
+      "title": "GAP swaps party founder for social worker ahead of polls",
+      "summary": "The Gambia Action Party (GAP) has entrusted its State House bid to Ba Samba Drammeh, handing the social worker and human rights advocate the party’s ticket for the December 5 presidential election, while party founder Musa Ousainou Yali Batchilly assumes the role of running ma...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gap-swaps-party-founder-for-social-worker-ahead-of-polls/",
+      "publishedAt": "2026-10-23T07:13:13.000Z",
+      "collectedAt": "2026-10-23T07:20:11.666Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d62d3ac4a5eaa0ee",
       "title": "Mayor Bensouda Says Gambians Have Right to Protest at State House Without Police Permit",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE and presidential candidate for Coalition 2026, has asserted that Gambians have a constitutional right to stage peaceful protests outside State House without obtaining a police permit. Speaking at a Coalition 2026 rally ...",
@@ -442,31 +466,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6403c792b0b8eb02",
-      "title": "Cubans in The Gambia Celebrate National Culture Day and Birth of National Anthem",
-      "summary": "By Nelson Manneh The Cuban community in The Gambia has marked Cuba’s National Culture Day, celebrating the country’s history, music and cultural identity while highlighting its historical ties with Africa and The Gambia. The Cuban Embassy and the Cuban Medical Brigade in The G...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/cubans-in-the-gambia-celebrate-national-culture-day-and-birth-of-national-anthem/",
-      "publishedAt": "2026-10-22T11:36:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T00:32:31.909Z",
+    "generatedAt": "2026-10-23T07:20:17.503Z",
     "count": 20
   }
 }
