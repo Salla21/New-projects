@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d62d3ac4a5eaa0ee",
+      "title": "Mayor Bensouda Says Gambians Have Right to Protest at State House Without Police Permit",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE and presidential candidate for Coalition 2026, has asserted that Gambians have a constitutional right to stage peaceful protests outside State House without obtaining a police permit. Speaking at a Coalition 2026 rally ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/mayor-bensouda-says-gambians-have-right-to-protest-at-state-house-without-police-permit/",
+      "publishedAt": "2026-10-23T00:21:37.000Z",
+      "collectedAt": "2026-10-23T00:32:27.752Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7a1e8183531d20f0",
+      "title": "Information Minister Announces Sign Language Interpretation for GRTS News, Plans Expansion",
+      "summary": "By Mama A. Touray The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, has briefed Parliament on the introduction of sign language interpretation on Gambia Radio and Television Services (GRTS) programmes. Dr. Ceesay was responding to a question rai...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/information-minister-announces-sign-language-interpretation-for-grts-news-plans-expansion/",
+      "publishedAt": "2026-10-22T21:52:30.000Z",
+      "collectedAt": "2026-10-23T00:32:10.787Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a44c072cead7a8f7",
       "title": "Government Withholds National Content Bill Pending Local Content Policy and Regulations",
       "summary": "By Mama A. Touray The Government of The Gambia, through the Minister of Trade, Regional Integration and Employment, Mod K. Ceesay, has put the National Content Bill on hold to allow for the development of a Local Content Policy and regulations alongside the proposed legislatio...",
@@ -1709,150 +1755,6 @@
       "status": "published"
     },
     {
-      "id": "47a5fb573b71667c",
-      "title": "Barrow’s Coalition Partners Bring No Real Electoral Support, UNITE’s Sanyang Claims",
-      "summary": "By Makutu Manneh Yaya Menteng Sanyang, deputy party leader for finance and administration of UNITE Party and National Assembly Member for Latrikunda Sabiji, has dismissed the ruling National People’s Party’s (NPP) expanding political alliance as a mere collection of politician...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrows-coalition-partners-bring-no-real-electoral-support-unites-sanyang-claims/",
-      "publishedAt": "2026-10-17T17:07:52.000Z",
-      "collectedAt": "2026-10-17T20:27:29.282Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1b12665fbeca901e",
-      "title": "“If Barrow Does Not Act, We Will”: GALA Warns Over Jammeh Assets Report",
-      "summary": "By Seedy Jobe Hakeem Touray, national coordinator of GALA, has warned that his organization will take further action if President Adama Barrow fails to respond to the National Assembly’s special select committee report on the sale of former President Yahya Jammeh’s assets by O...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/if-barrow-does-not-act-we-will-gala-warns-over-jammeh-assets-report/",
-      "publishedAt": "2026-10-17T17:00:44.000Z",
-      "collectedAt": "2026-10-17T20:27:29.282Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3173b574e4b1a2ac",
-      "title": "TALIB AHMED BENSOUDA: THE THIRD FORCE SET TO RESHAPE THE GAMBIAN ELECTION",
-      "summary": "By Tombong SaidyNational Treasurer, UNITE Party The wind of change is blowing, and Coalition 2026 is at the centre of a growing demand for political renewal. As The Gambia approaches the December 5, 2026 presidential election, Talib Ahmed Bensouda is emerging as the face of a ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/talib-ahmed-bensouda-the-third-force-set-to-reshape-the-gambian-election/",
-      "publishedAt": "2026-10-17T12:58:43.000Z",
-      "collectedAt": "2026-10-17T16:58:54.299Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "099f990c7e9a49ad",
-      "title": "Darboe Urges Opposition Voters to Back Candidates With a Realistic Chance of Winning",
-      "summary": "By Fatou Sillah Ousainu Darboe, leader of the United Democratic Party (UDP) and flagbearer of the Gambia First Coalition, has urged opposition supporters to vote for the candidates they believe have a realistic chance of winning, saying this could help bring about political ch...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-urges-opposition-voters-to-back-candidates-with-a-realistic-chance-of-winning/",
-      "publishedAt": "2026-10-16T19:35:29.000Z",
-      "collectedAt": "2026-10-16T20:53:50.050Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3fab9cf033dba843",
-      "title": "Barrow Did Not Defeat Jammeh, He Campaigned on Darboe’s Name, Says UDP’s Lamin Manneh",
-      "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party (UDP) deputy administrative secretary for external affairs, has said President Adama Barrow has no reason to underestimate UDP leader Ousainu Darboe ahead of the December election. He likened Darboe to a chicken in compar...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-did-not-defeat-jammeh-he-campaigned-on-darboes-name-says-udps-lamin-manneh/",
-      "publishedAt": "2026-10-16T19:16:47.000Z",
-      "collectedAt": "2026-10-16T20:53:50.050Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "993b6133ca80eb9f",
-      "title": "Darboe Keeps Protest, Legal Action on Table as UDP Presses IEC Over 14,000 Voters",
-      "summary": "By Fatou Sillah ANM Ousainu Darboe, leader of the United Democratic Party (UDP) and presidential candidate of the Gambia First Coalition, has not ruled out peaceful protests or legal action over discrepancies the party says it has identified in the Independent Electoral Commis...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-keeps-protest-legal-action-on-table-as-udp-presses-iec-over-14000-voters/",
-      "publishedAt": "2026-10-16T19:10:18.000Z",
-      "collectedAt": "2026-10-16T20:53:50.050Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1861,7 +1763,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-22T21:26:45.400Z",
+      "collectedAt": "2026-10-23T00:32:10.637Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1877,7 +1779,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T21:26:50.560Z",
-    "count": 80
+    "generatedAt": "2026-10-23T00:32:31.909Z",
+    "count": 76
   }
 }

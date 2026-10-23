@@ -183,53 +183,6 @@
       "status": "published"
     },
     {
-      "id": "91b0b8272d158b86",
-      "title": "Gambia Immigration Department Intercepts 102 Suspected Irregular Migrants in Three Operations",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 102 suspected irregular migrants in separate operations conducted in Brufut, Batokunku, and Jarra Japineh as part of its ongoing efforts to combat irregular migration and dismantle migrant-smuggling netwo...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-102-suspected-irregular-migrants-in-three-operations/",
-      "publishedAt": "2026-10-17T17:27:56.000Z",
-      "collectedAt": "2026-10-17T20:27:29.282Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3fab9cf033dba843",
-      "title": "Barrow Did Not Defeat Jammeh, He Campaigned on Darboe’s Name, Says UDP’s Lamin Manneh",
-      "summary": "By Seedy Jobe Lamin Manneh, the United Democratic Party (UDP) deputy administrative secretary for external affairs, has said President Adama Barrow has no reason to underestimate UDP leader Ousainu Darboe ahead of the December election. He likened Darboe to a chicken in compar...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-did-not-defeat-jammeh-he-campaigned-on-darboes-name-says-udps-lamin-manneh/",
-      "publishedAt": "2026-10-16T19:16:47.000Z",
-      "collectedAt": "2026-10-16T20:53:50.050Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -238,7 +191,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-22T21:26:45.400Z",
+      "collectedAt": "2026-10-23T00:32:10.637Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -252,7 +205,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-22T21:26:50.560Z",
-    "count": 11
+    "generatedAt": "2026-10-23T00:32:31.909Z",
+    "count": 9
   }
 }
