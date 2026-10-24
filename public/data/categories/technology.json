@@ -269,59 +269,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c22626c0ce27108f",
-      "title": "U.S. Ambassador Urges Greater Transparency to Attract American Investment in The Gambia",
-      "summary": "By Seedy Jobe The United States ambassador to The Gambia, Laurence Socha, has called for greater transparency and a predictable regulatory environment to attract American investment, identifying economic cooperation, electoral integrity, and security as key priorities in relat...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/u-s-ambassador-urges-greater-transparency-to-attract-american-investment-in-the-gambia/",
-      "publishedAt": "2026-10-19T18:00:13.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9d58cdd41446443b",
-      "title": "Sabally Predicts Barrow Sweep in Foni, Declares West Coast Region an NPP Stronghold",
-      "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has predicted a decisive victory for President Adama Barrow in the West Coast Region in the December 5 presidential election, declaring that the region is no longer a political battleground b...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sabally-predicts-barrow-sweep-in-foni-declares-west-coast-region-an-npp-stronghold/",
-      "publishedAt": "2026-10-19T17:11:32.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T15:46:27.081Z",
-    "count": 13
+    "generatedAt": "2026-10-24T18:45:54.030Z",
+    "count": 11
   }
 }

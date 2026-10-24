@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "840cf31473710328",
+      "title": "NAFAA Leader Criticizes Barrow Administration’s Record, Calls for Political Change",
+      "summary": "By Makutu Manneh Ousainou Allen, leader of the National Alliance for Accelerated Advancement Movement (NAFAA), has accused President Adama Barrow and his administration of failing to address the needs of Gambians, particularly young people, women, and residents of Farafenni. S...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nafaa-leader-criticizes-barrow-administrations-record-calls-for-political-change/",
+      "publishedAt": "2026-10-24T16:00:53.000Z",
+      "collectedAt": "2026-10-24T18:45:49.949Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c8a02750b5e6344f",
       "title": "Coalition 2026 promises term limits, diaspora voting and economic overhaul",
       "summary": "By Hadram Hydara Coalition 2026 has unveiled an ambitious election manifesto centred on constitutional reform, anti-corruption measures, diaspora voting and a sweeping economic transformation programme, as the opposition alliance seeks to position itself as an alternative to P...",
@@ -238,34 +262,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c0148e10b112368d",
-      "title": "New U.S. Ambassador Pledges Stronger Ties With the Gambia, Defends Trump’s Immigration Policies",
-      "summary": "By Seedy Jobe The new United States ambassador to The Gambia, Laurence Socha, has pledged to strengthen diplomatic relations between Washington and Banjul, emphasizing cooperation on security, economic development, and democratic governance while defending President Donald Tru...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/new-u-s-ambassador-pledges-stronger-ties-with-the-gambia-defends-trumps-immigration-policies/",
-      "publishedAt": "2026-10-19T17:36:35.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T15:46:27.081Z",
+    "generatedAt": "2026-10-24T18:45:54.030Z",
     "count": 11
   }
 }

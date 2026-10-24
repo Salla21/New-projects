@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "9336af5715ea651b",
+      "title": "Bojang warns of ‘retaliation’ over alleged opposition harassment",
+      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has warned that continued alleged harassment and unequal treatment of opposition figures could provoke a response from his party, as he called on authorities to ensure a level playing field ahead of the p...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bojang-warns-of-retaliation-over-alleged-opposition-harassment/",
+      "publishedAt": "2026-10-24T16:19:06.000Z",
+      "collectedAt": "2026-10-24T18:45:48.617Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "894127e661e033fc",
       "title": "The Missing Link in Gambian Football Administration",
       "summary": "Why strategic communication deserves a seat at the decision-making table By ML Drammeh Football administration is often discussed in terms of governance, financial management, technical development and infrastructure. These are essential to the growth of the game, yet another ...",
@@ -425,7 +448,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T15:46:27.081Z",
-    "count": 18
+    "generatedAt": "2026-10-24T18:45:54.030Z",
+    "count": 19
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "d53c5b5348a73119",
+      "title": "Barrow Appeals for URR Votes, Pledges 360 Kilometers of Roads After Election",
+      "summary": "By Makutu Manneh President Adama Barrow has urged residents of the Upper River Region (URR) to support his re-election bid in December, promising to construct 360 kilometers of roads in the region if he secures another term in office. Speaking at the inauguration of the Basse–...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-appeals-for-urr-votes-pledges-360-kilometers-of-roads-after-election/",
+      "publishedAt": "2026-10-24T16:07:37.000Z",
+      "collectedAt": "2026-10-24T18:45:49.949Z",
+      "region": "upper-river",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "98239d9d3a32a47c",
       "title": "‘We think of death when pregnancy comes’: NDP hears North Bank women’s healthcare concerns",
       "summary": "By Dawda Baldeh Women in The Gambia’s North Bank Region have voiced deep concerns over the state of healthcare services, describing childbirth as a frightening ordeal because of inadequate medical facilities, shortages of medicines and the absence of ambulances, as opposition ...",
@@ -530,103 +554,6 @@
       "status": "published"
     },
     {
-      "id": "c22626c0ce27108f",
-      "title": "U.S. Ambassador Urges Greater Transparency to Attract American Investment in The Gambia",
-      "summary": "By Seedy Jobe The United States ambassador to The Gambia, Laurence Socha, has called for greater transparency and a predictable regulatory environment to attract American investment, identifying economic cooperation, electoral integrity, and security as key priorities in relat...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/u-s-ambassador-urges-greater-transparency-to-attract-american-investment-in-the-gambia/",
-      "publishedAt": "2026-10-19T18:00:13.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9c68c8cb39d33df2",
-      "title": "Youth Minister Badjie Brands Bensouda KMC’s Worst-Performing Mayor, Questions Presidential Ambitions",
-      "summary": "By Makutu Manneh Bakary Y. Badjie, The Gambia’s Minister of Youth and Sports, has sharply criticized Kanifing Municipal Council (KMC) Mayor and UNITE Party leader Talib Ahmed Bensouda, describing him as the municipality’s worst-performing mayor despite presiding over what he c...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/youth-minister-badjie-brands-bensouda-kmcs-worst-performing-mayor-questions-presidential-ambitions/",
-      "publishedAt": "2026-10-19T17:15:15.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9d58cdd41446443b",
-      "title": "Sabally Predicts Barrow Sweep in Foni, Declares West Coast Region an NPP Stronghold",
-      "summary": "By Makutu Manneh Demba Sabally, Minister of Agriculture, Livestock and Food Security, has predicted a decisive victory for President Adama Barrow in the West Coast Region in the December 5 presidential election, declaring that the region is no longer a political battleground b...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sabally-predicts-barrow-sweep-in-foni-declares-west-coast-region-an-npp-stronghold/",
-      "publishedAt": "2026-10-19T17:11:32.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "082aa9d7dd874774",
-      "title": "‘Our Democracy Is Under Siege,’ Jobarteh Warns Journalists Ahead of Crucial Elections",
-      "summary": "By Seedy Jobe Human rights activist Madi Jobarteh has warned that The Gambia’s democracy remains under threat, urging journalists to confront corruption, abuse of power, and institutional failures through rigorous investigative reporting as the country approaches its 2026–2027...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/our-democracy-is-under-siege-jobarteh-warns-journalists-ahead-of-crucial-elections/",
-      "publishedAt": "2026-10-19T15:49:25.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -635,7 +562,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-24T15:46:00.528Z",
+      "collectedAt": "2026-10-24T18:45:48.139Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -658,7 +585,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-24T15:46:00.528Z",
+      "collectedAt": "2026-10-24T18:45:48.139Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -674,7 +601,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T15:46:27.081Z",
-    "count": 28
+    "generatedAt": "2026-10-24T18:45:54.030Z",
+    "count": 25
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "5d2042a8dcf9ea54",
+      "title": "NDP Leader Accuses Interior Minister of Intimidating Opposition, Warns Against Continued Harassment",
+      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party (NDP), has accused Interior Minister Abdoulie Sanyang of intimidating opposition parties and interfering with their political activities, warning that continued harassment could provoke a confrontation...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-leader-accuses-interior-minister-of-intimidating-opposition-warns-against-continued-harassment/",
+      "publishedAt": "2026-10-24T15:53:22.000Z",
+      "collectedAt": "2026-10-24T18:45:49.949Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f3feb7642e5d7afc",
       "title": "UDP’s Lamin Manneh, Rights Activist Madi Jobarteh Challenge IEC Over Voter Data Release",
       "summary": "By Makutu Makutu Lamin Manneh, the United Democratic Party’s (UDP) deputy administrative secretary for external affairs, and prominent human rights activist Madi Jobarteh have questioned the Independent Electoral Commission’s (IEC) decision to withhold raw voter registration d...",
@@ -167,7 +190,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-24T15:46:00.528Z",
+      "collectedAt": "2026-10-24T18:45:48.139Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -181,7 +204,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T15:46:27.081Z",
-    "count": 8
+    "generatedAt": "2026-10-24T18:45:54.030Z",
+    "count": 9
   }
 }
