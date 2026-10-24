@@ -115,6 +115,29 @@
       "status": "published"
     },
     {
+      "id": "cc9ab6ca4c7b2417",
+      "title": "Government Spent D785 Million on Diesel Subsidies Between March & September 2026",
+      "summary": "By Kebba AF Touray The Gambian government provided D785.13 million in subsidies for diesel and D42.46 million for petrol between March and September 2026 to reduce the impact of rising fuel prices, Finance Minister Seedy Keita has told the National Assembly. Mr Keita made the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-spent-d785-million-on-diesel-subsidies-between-march-september-2026/",
+      "publishedAt": "2026-10-23T19:00:00.000Z",
+      "collectedAt": "2026-10-24T10:43:46.453Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "73b307ae9d8ef37b",
       "title": "Assan Martin: Bensouda Is the Leader; Gambia Needs to Revive Economy, Create Jobs",
       "summary": "By Fatou Sillah Assan Martin, spokesperson for Coalition 2026, has described Talib Ahmed Bensouda as the leader The Gambia needs to revive its economy, create employment opportunities for young people, and address the country’s pressing development challenges. Speaking at a Co...",
@@ -2284,33 +2307,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4a84459e20464ebb",
-      "title": "Barrow Promises to Replicate Banjul’s Development in KMC if Given Another Mandate",
-      "summary": "By Makutu Manneh President Adama Barrow has pledged to transform the Kanifing Municipality, promising to replicate what he described as his administration’s development achievements in Banjul while urging voters to assess presidential candidates by their records in public offi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-promises-to-replicate-banjuls-development-in-kmc-if-given-another-mandate/",
-      "publishedAt": "2026-10-19T15:36:20.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T04:18:20.584Z",
+    "generatedAt": "2026-10-24T10:43:52.304Z",
     "count": 100
   }
 }
