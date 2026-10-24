@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "ab04bf57c118c353",
+      "title": "What do Post-December 2026 Presidential Elections Hold for the Democratic Future of The Gambia? Why We still need democratic reform",
+      "summary": "ANALYSIS By Andrew Mendy While voters successfully removed Jammeh’s long-standing autocratic regime through democratic means, the political elites who oversaw the democratic transition from 2017 to 2026 have, to some extent, failed to build and consolidate these gains. Barrow’...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/what-do-post-december-2026-presidential-elections-hold-for-the-democratic-future-of-the-gambia-why-we-still-need-democratic-reform/",
+      "publishedAt": "2026-10-24T19:43:22.000Z",
+      "collectedAt": "2026-10-24T22:23:30.240Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9336af5715ea651b",
       "title": "Bojang warns of ‘retaliation’ over alleged opposition harassment",
       "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has warned that continued alleged harassment and unequal treatment of opposition figures could provoke a response from his party, as he called on authorities to ensure a level playing field ahead of the p...",
@@ -258,7 +281,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T18:45:54.030Z",
-    "count": 11
+    "generatedAt": "2026-10-24T22:23:36.177Z",
+    "count": 12
   }
 }

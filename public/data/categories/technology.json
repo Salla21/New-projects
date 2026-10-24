@@ -244,35 +244,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d8c80e6bfc72b7ca",
-      "title": "Jammeh Loyalists Still Hold Command Positions, Gitteh Warns as He Defends ECOMIG Presence",
-      "summary": "By Fatou Sillah Ahmad Gitteh, a member of the ruling National People’s Party (NPP) and an adviser to the Minister of Digital Economy, has defended the continued deployment of the ECOWAS Mission in The Gambia (ECOMIG), warning that individuals loyal to former President Yahya Ja...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/jammeh-loyalists-still-hold-command-positions-gitteh-warns-as-he-defends-ecomig-presence/",
-      "publishedAt": "2026-10-19T19:32:37.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T18:45:54.030Z",
-    "count": 11
+    "generatedAt": "2026-10-24T22:23:36.177Z",
+    "count": 10
   }
 }

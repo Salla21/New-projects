@@ -481,79 +481,6 @@
       "status": "published"
     },
     {
-      "id": "8f087166b8161bd9",
-      "title": "Gibba Says No To Alliance’s Support Extends Beyond Foni, Rules Out Joining Barrow’s NPP",
-      "summary": "By Fatou Sillah Almameh Gibba, the National Assembly Member for Foni Kansala and flagbearer of the No To Alliance Movement, has dismissed suggestions that his movement’s political support is confined to Foni, insisting that it has established a nationwide following ahead of th...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gibba-says-no-to-alliances-support-extends-beyond-foni-rules-out-joining-barrows-npp/",
-      "publishedAt": "2026-10-19T21:27:21.000Z",
-      "collectedAt": "2026-10-19T23:32:25.266Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "db827d67a85cb0d9",
-      "title": "Sonko Threatens to Block President Faye’s Budget, Challenges Prime Minister to Public Debate",
-      "summary": "Published by: The Fatu Network Senegal’s National Assembly President Ousmane Sonko has warned that his PASTEF party will refuse to approve President Bassirou Diomaye Faye’s revised 2026 budget unless major changes are made. Sonko criticised proposed cuts to fuel subsidies, edu...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/sonko-threatens-to-block-president-fayes-budget-challenges-prime-minister-to-public-debate/",
-      "publishedAt": "2026-10-19T20:16:53.000Z",
-      "collectedAt": "2026-10-19T23:32:21.396Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d8c80e6bfc72b7ca",
-      "title": "Jammeh Loyalists Still Hold Command Positions, Gitteh Warns as He Defends ECOMIG Presence",
-      "summary": "By Fatou Sillah Ahmad Gitteh, a member of the ruling National People’s Party (NPP) and an adviser to the Minister of Digital Economy, has defended the continued deployment of the ECOWAS Mission in The Gambia (ECOMIG), warning that individuals loyal to former President Yahya Ja...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/jammeh-loyalists-still-hold-command-positions-gitteh-warns-as-he-defends-ecomig-presence/",
-      "publishedAt": "2026-10-19T19:32:37.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "94e72689ed22da8f",
       "title": "Why are young Gambians turning to laughing gas?",
       "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
@@ -562,7 +489,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-24T18:45:48.139Z",
+      "collectedAt": "2026-10-24T22:23:30.148Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -585,7 +512,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-24T18:45:48.139Z",
+      "collectedAt": "2026-10-24T22:23:30.148Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -601,7 +528,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T18:45:54.030Z",
-    "count": 25
+    "generatedAt": "2026-10-24T22:23:36.177Z",
+    "count": 22
   }
 }

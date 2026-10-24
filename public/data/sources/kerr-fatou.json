@@ -944,105 +944,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7d7fd14ed0f714e6",
-      "title": "Banjul North Lawmaker Defies Barrow’s Threat, Holds President Responsible for His Safety",
-      "summary": "By Staff Writer Banjul North National Assembly member Modou Lamin B. Bah has vowed not to be silenced after President Adama Barrow threatened him with severe consequences for participating in a youth-led protest at State House, which the president described as a treasonable of...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/banjul-north-lawmaker-defies-barrows-threat-holds-president-responsible-for-his-safety/",
-      "publishedAt": "2026-10-20T03:42:59.000Z",
-      "collectedAt": "2026-10-20T04:30:28.558Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8f087166b8161bd9",
-      "title": "Gibba Says No To Alliance’s Support Extends Beyond Foni, Rules Out Joining Barrow’s NPP",
-      "summary": "By Fatou Sillah Almameh Gibba, the National Assembly Member for Foni Kansala and flagbearer of the No To Alliance Movement, has dismissed suggestions that his movement’s political support is confined to Foni, insisting that it has established a nationwide following ahead of th...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gibba-says-no-to-alliances-support-extends-beyond-foni-rules-out-joining-barrows-npp/",
-      "publishedAt": "2026-10-19T21:27:21.000Z",
-      "collectedAt": "2026-10-19T23:32:25.266Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d8c80e6bfc72b7ca",
-      "title": "Jammeh Loyalists Still Hold Command Positions, Gitteh Warns as He Defends ECOMIG Presence",
-      "summary": "By Fatou Sillah Ahmad Gitteh, a member of the ruling National People’s Party (NPP) and an adviser to the Minister of Digital Economy, has defended the continued deployment of the ECOWAS Mission in The Gambia (ECOMIG), warning that individuals loyal to former President Yahya Ja...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/jammeh-loyalists-still-hold-command-positions-gitteh-warns-as-he-defends-ecomig-presence/",
-      "publishedAt": "2026-10-19T19:32:37.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c136476a29f67177",
-      "title": "Gibba Pledges to Facilitate Jammeh’s Return if No To Alliance Wins December Election",
-      "summary": "By Fatou Sillah Almameh Gibba, the National Assembly Member for Foni Kansala and presidential candidate of the No To Alliance Movement, has pledged to facilitate the return of former President Yahya Jammeh to The Gambia if his movement wins the December 5 presidential election...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gibba-pledges-to-facilitate-jammehs-return-if-no-to-alliance-wins-december-election/",
-      "publishedAt": "2026-10-19T19:18:21.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T18:45:54.030Z",
-    "count": 45
+    "generatedAt": "2026-10-24T22:23:36.177Z",
+    "count": 41
   }
 }

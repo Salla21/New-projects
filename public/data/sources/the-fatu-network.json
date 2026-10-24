@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "ab04bf57c118c353",
+      "title": "What do Post-December 2026 Presidential Elections Hold for the Democratic Future of The Gambia? Why We still need democratic reform",
+      "summary": "ANALYSIS By Andrew Mendy While voters successfully removed Jammeh’s long-standing autocratic regime through democratic means, the political elites who oversaw the democratic transition from 2017 to 2026 have, to some extent, failed to build and consolidate these gains. Barrow’...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/what-do-post-december-2026-presidential-elections-hold-for-the-democratic-future-of-the-gambia-why-we-still-need-democratic-reform/",
+      "publishedAt": "2026-10-24T19:43:22.000Z",
+      "collectedAt": "2026-10-24T22:23:30.240Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9336af5715ea651b",
       "title": "Bojang warns of ‘retaliation’ over alleged opposition harassment",
       "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has warned that continued alleged harassment and unequal treatment of opposition figures could provoke a response from his party, as he called on authorities to ensure a level playing field ahead of the p...",
@@ -398,57 +421,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "392f79696359c6da",
-      "title": "‘We Will Do Something You Will Never Forget Till You Die’: Barrow Warns Banjul NAM, Calls State House Protest ‘Treasonable Offense’",
-      "summary": "Written by: Dawda Baldeh President Adama Barrow has issued a stern warning to Banjul North National Assembly Member (NAM) Hon. Modou Lamin B. Bah, threatening him with unspecified consequences over his alleged involvement in a protest by children outside State House following ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/we-will-do-something-you-will-never-forget-till-you-die-barrow-warns-banjul-nam-calls-state-house-protest-treasonable-offense/",
-      "publishedAt": "2026-10-20T10:22:23.000Z",
-      "collectedAt": "2026-10-20T11:23:43.373Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "db827d67a85cb0d9",
-      "title": "Sonko Threatens to Block President Faye’s Budget, Challenges Prime Minister to Public Debate",
-      "summary": "Published by: The Fatu Network Senegal’s National Assembly President Ousmane Sonko has warned that his PASTEF party will refuse to approve President Bassirou Diomaye Faye’s revised 2026 budget unless major changes are made. Sonko criticised proposed cuts to fuel subsidies, edu...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/sonko-threatens-to-block-president-fayes-budget-challenges-prime-minister-to-public-debate/",
-      "publishedAt": "2026-10-19T20:16:53.000Z",
-      "collectedAt": "2026-10-19T23:32:21.396Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T18:45:54.030Z",
-    "count": 19
+    "generatedAt": "2026-10-24T22:23:36.177Z",
+    "count": 18
   }
 }
