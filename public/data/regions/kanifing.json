@@ -251,33 +251,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "685e04b12cb58886",
-      "title": "Court Dismisses UDP Agent Amie Sankanu’s Voter Objection against Ensa Jammeh",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Ensa Jammeh’s registration as a voter in Kololi, ruling that the evidence presented failed to establish that he was not a Gambian citizen or otherwise qualified to remain on the voters’ regist...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/court-dismisses-udp-agent-amie-sankanus-voter-objection-against-ensa-jammeh/",
-      "publishedAt": "2026-10-19T12:40:55.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T23:03:57.199Z",
-    "count": 12
+    "generatedAt": "2026-10-24T04:18:20.584Z",
+    "count": 11
   }
 }

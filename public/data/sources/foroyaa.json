@@ -847,77 +847,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "685e04b12cb58886",
-      "title": "Court Dismisses UDP Agent Amie Sankanu’s Voter Objection against Ensa Jammeh",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection challenging Ensa Jammeh’s registration as a voter in Kololi, ruling that the evidence presented failed to establish that he was not a Gambian citizen or otherwise qualified to remain on the voters’ regist...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/court-dismisses-udp-agent-amie-sankanus-voter-objection-against-ensa-jammeh/",
-      "publishedAt": "2026-10-19T12:40:55.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2522b970eb35e6c6",
-      "title": "Sanna Manjang Denies Torture Allegations",
-      "summary": "Says He Had No Role in Arrests of Complainants By Mariama Marong Alleged Jungler Sanna Manjang has denied taking part in the arrest and alleged torture of Tamsir Jasseh and military officer Yaya M.S. Darboe, telling the High Court in Banjul that he was stationed in Kanilai whe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/sanna-manjang-denies-torture-allegations/",
-      "publishedAt": "2026-10-19T12:37:39.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7266df8f73ca92e6",
-      "title": "USET Staff Threaten Strike Action Over Unpaid Salaries",
-      "summary": "By Madiba Singhateh The staff members of the University of Applied Science (USET) has warned that they will close all USET institutions in the country if their unpaid salaries and demands are not met. The warning, delivered at a tense press conference Thursday at USET’s Kanifi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/uset-staff-threaten-strike-action-over-unpaid-salaries/",
-      "publishedAt": "2026-10-19T12:25:58.000Z",
-      "collectedAt": "2026-10-19T19:47:10.713Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T23:03:57.199Z",
-    "count": 40
+    "generatedAt": "2026-10-24T04:18:20.584Z",
+    "count": 37
   }
 }

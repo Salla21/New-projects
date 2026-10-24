@@ -293,33 +293,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fd61825f51475466",
-      "title": "Journalism Must Not Become Stenography for the Powerful, Madi Jobarteh Warns",
-      "summary": "By Seedy Jobe Madi Jobarteh, executive director of the Edward Francis Small Centre for Rights and Justice (EFSCRJ), has warned that the digital space is becoming an increasingly dangerous battleground for electoral manipulation, urging Gambian journalists to strengthen their f...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/journalism-must-not-become-stenography-for-the-powerful-madi-jobarteh-warns/",
-      "publishedAt": "2026-10-19T15:10:06.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-23T23:03:57.199Z",
-    "count": 13
+    "generatedAt": "2026-10-24T04:18:20.584Z",
+    "count": 12
   }
 }
