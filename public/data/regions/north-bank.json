@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "98239d9d3a32a47c",
+      "title": "‘We think of death when pregnancy comes’: NDP hears North Bank women’s healthcare concerns",
+      "summary": "By Dawda Baldeh Women in The Gambia’s North Bank Region have voiced deep concerns over the state of healthcare services, describing childbirth as a frightening ordeal because of inadequate medical facilities, shortages of medicines and the absence of ambulances, as opposition ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-think-of-death-when-pregnancy-comes-ndp-hears-north-bank-womens-healthcare-concerns/",
+      "publishedAt": "2026-10-24T11:50:30.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0eb6247eceb1d795",
       "title": "“A Change of Government, but Not Yet a Change of System,” Says Barra Touray as APP Faction Joins Coalition 2026",
       "summary": "By Seedy Jobe A faction of the All Peoples Party (APP)-Sobeyaa has formally joined Coalition 2026, led by Mayor Talib Ahmed Bensouda, marking another political realignment ahead of The Gambia’s December presidential election. The faction formalized its membership on Thursday d...",
@@ -48,7 +72,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T10:43:52.304Z",
-    "count": 2
+    "generatedAt": "2026-10-24T15:46:27.081Z",
+    "count": 3
   }
 }

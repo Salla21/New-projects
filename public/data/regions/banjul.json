@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "5c5d7291dfdad2dd",
+      "title": "Sidia Jatta Calls for Systemic Change, Questions Persistent Hardship 61 Years After Independence",
+      "summary": "By Makutu Manneh Veteran Gambian politician Sidia Jatta has called on voters to use the December presidential election to reflect on the country’s political direction, questioning why economic hardship remains widespread more than six decades after independence despite success...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sidia-jatta-calls-for-systemic-change-questions-persistent-hardship-61-years-after-independence/",
+      "publishedAt": "2026-10-24T15:40:27.000Z",
+      "collectedAt": "2026-10-24T15:46:22.977Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "894127e661e033fc",
+      "title": "The Missing Link in Gambian Football Administration",
+      "summary": "Why strategic communication deserves a seat at the decision-making table By ML Drammeh Football administration is often discussed in terms of governance, financial management, technical development and infrastructure. These are essential to the growth of the game, yet another ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-missing-link-in-gambian-football-administration/",
+      "publishedAt": "2026-10-24T13:30:05.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d72ee3bd901b2b38",
+      "title": "Marriage Lesson #65 (literally 😅): What watching my parents for over 40 years has taught me about lasting love.",
+      "summary": "By RamaTulai People often ask me where my views on relationships come from. The truth? I’ve had front-row seats my entire life. Watching my parents has taught me a lot about what makes a marriage last. Some lessons are worth carrying forward. Others? We can learn from them wit...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/marriage-lesson-65-literally-%f0%9f%98%85-what-watching-my-parents-for-over-40-years-has-taught-me-about-lasting-love/",
+      "publishedAt": "2026-10-24T11:36:13.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "72764c5a4a8a8da7",
       "title": "Gambia Earmarks D1 Billion for Electricity Subsidy in 2027 Budget",
       "summary": "By Fatou Sillah The Gambia government has earmarked D1 billion in its proposed 2027 national budget to subsidize electricity tariffs, as the country grapples with persistent power outages and mounting challenges in the energy sector. The allocation was announced by the Ministe...",
@@ -1853,29 +1922,6 @@
       "status": "published"
     },
     {
-      "id": "4a84459e20464ebb",
-      "title": "Barrow Promises to Replicate Banjul’s Development in KMC if Given Another Mandate",
-      "summary": "By Makutu Manneh President Adama Barrow has pledged to transform the Kanifing Municipality, promising to replicate what he described as his administration’s development achievements in Banjul while urging voters to assess presidential candidates by their records in public offi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-promises-to-replicate-banjuls-development-in-kmc-if-given-another-mandate/",
-      "publishedAt": "2026-10-19T15:36:20.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1884,7 +1930,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-24T10:43:46.673Z",
+      "collectedAt": "2026-10-24T15:46:00.528Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1907,7 +1953,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-24T10:43:46.673Z",
+      "collectedAt": "2026-10-24T15:46:00.528Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1930,7 +1976,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-24T10:43:46.673Z",
+      "collectedAt": "2026-10-24T15:46:00.528Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1951,7 +1997,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-24T10:43:46.673Z",
+      "collectedAt": "2026-10-24T15:46:00.528Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1974,7 +2020,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-24T10:43:46.673Z",
+      "collectedAt": "2026-10-24T15:46:00.528Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1988,7 +2034,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T10:43:52.304Z",
-    "count": 86
+    "generatedAt": "2026-10-24T15:46:27.081Z",
+    "count": 88
   }
 }

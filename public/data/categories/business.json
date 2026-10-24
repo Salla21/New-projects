@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "98239d9d3a32a47c",
+      "title": "‘We think of death when pregnancy comes’: NDP hears North Bank women’s healthcare concerns",
+      "summary": "By Dawda Baldeh Women in The Gambia’s North Bank Region have voiced deep concerns over the state of healthcare services, describing childbirth as a frightening ordeal because of inadequate medical facilities, shortages of medicines and the absence of ambulances, as opposition ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-think-of-death-when-pregnancy-comes-ndp-hears-north-bank-womens-healthcare-concerns/",
+      "publishedAt": "2026-10-24T11:50:30.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c02723673a30e4be",
+      "title": "‘Our backs and ribs suffered’: Choya riders hail long-awaited road project",
+      "summary": "By Mama A. Touray Motorcycle riders and residents in Choya have welcomed the construction of a 20.5km road linking several communities in the Central River Region, saying the project will relieve years of poor road conditions, costly vehicle repairs, and high transport fares. ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/our-backs-and-ribs-suffered-choya-riders-hail-long-awaited-road-project/",
+      "publishedAt": "2026-10-24T11:16:20.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "central-river",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "72764c5a4a8a8da7",
       "title": "Gambia Earmarks D1 Billion for Electricity Subsidy in 2027 Budget",
       "summary": "By Fatou Sillah The Gambia government has earmarked D1 billion in its proposed 2027 national budget to subsidize electricity tariffs, as the country grapples with persistent power outages and mounting challenges in the energy sector. The allocation was announced by the Ministe...",
@@ -588,7 +635,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-24T10:43:46.673Z",
+      "collectedAt": "2026-10-24T15:46:00.528Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -611,7 +658,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-24T10:43:46.673Z",
+      "collectedAt": "2026-10-24T15:46:00.528Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -627,7 +674,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T10:43:52.304Z",
-    "count": 26
+    "generatedAt": "2026-10-24T15:46:27.081Z",
+    "count": 28
   }
 }

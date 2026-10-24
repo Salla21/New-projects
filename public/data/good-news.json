@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "5c5d7291dfdad2dd",
+      "title": "Sidia Jatta Calls for Systemic Change, Questions Persistent Hardship 61 Years After Independence",
+      "summary": "By Makutu Manneh Veteran Gambian politician Sidia Jatta has called on voters to use the December presidential election to reflect on the country’s political direction, questioning why economic hardship remains widespread more than six decades after independence despite success...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sidia-jatta-calls-for-systemic-change-questions-persistent-hardship-61-years-after-independence/",
+      "publishedAt": "2026-10-24T15:40:27.000Z",
+      "collectedAt": "2026-10-24T15:46:22.977Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "894127e661e033fc",
+      "title": "The Missing Link in Gambian Football Administration",
+      "summary": "Why strategic communication deserves a seat at the decision-making table By ML Drammeh Football administration is often discussed in terms of governance, financial management, technical development and infrastructure. These are essential to the growth of the game, yet another ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-missing-link-in-gambian-football-administration/",
+      "publishedAt": "2026-10-24T13:30:05.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e49d0efad1cd6e31",
       "title": "Barrow Promises 180 kilometres of Roads for Kanifing Municipality",
       "summary": "By Assan Bah President Adama Barrow has promised to oversee the construction of 180 kilometres of roads across Kanifing Municipality (KM), alongside improvements to water supply and the redevelopment of a football field in Manjai. The announcement followed appeals from residen...",
@@ -295,33 +343,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4a84459e20464ebb",
-      "title": "Barrow Promises to Replicate Banjul’s Development in KMC if Given Another Mandate",
-      "summary": "By Makutu Manneh President Adama Barrow has pledged to transform the Kanifing Municipality, promising to replicate what he described as his administration’s development achievements in Banjul while urging voters to assess presidential candidates by their records in public offi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-promises-to-replicate-banjuls-development-in-kmc-if-given-another-mandate/",
-      "publishedAt": "2026-10-19T15:36:20.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T10:43:52.304Z",
-    "count": 14
+    "generatedAt": "2026-10-24T15:46:27.081Z",
+    "count": 15
   }
 }

@@ -216,33 +216,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4a84459e20464ebb",
-      "title": "Barrow Promises to Replicate Banjul’s Development in KMC if Given Another Mandate",
-      "summary": "By Makutu Manneh President Adama Barrow has pledged to transform the Kanifing Municipality, promising to replicate what he described as his administration’s development achievements in Banjul while urging voters to assess presidential candidates by their records in public offi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-promises-to-replicate-banjuls-development-in-kmc-if-given-another-mandate/",
-      "publishedAt": "2026-10-19T15:36:20.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T10:43:52.304Z",
-    "count": 10
+    "generatedAt": "2026-10-24T15:46:27.081Z",
+    "count": 9
   }
 }

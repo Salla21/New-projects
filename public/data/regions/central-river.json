@@ -1,20 +1,22 @@
 {
   "items": [
     {
-      "id": "e7935c078d49a301",
-      "title": "Government Signs $14M Contract to Extend Electricity to 241 Communities in CRR, URR",
-      "summary": "By Assan Bah  The Government of The Gambia, through the National Water and Electricity Company (NAWEC), on Friday, 25 September 2026, signed a $14 million contract under the Additional Rural Electrification Project to extend electricity to 241 communities in Central River Regi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-signs-14m-contract-to-extend-electricity-to-241-communities-in-crr-urr/",
-      "publishedAt": "2026-09-29T14:38:41.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
+      "id": "c02723673a30e4be",
+      "title": "‘Our backs and ribs suffered’: Choya riders hail long-awaited road project",
+      "summary": "By Mama A. Touray Motorcycle riders and residents in Choya have welcomed the construction of a 20.5km road linking several communities in the Central River Region, saying the project will relieve years of poor road conditions, costly vehicle repairs, and high transport fares. ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/our-backs-and-ribs-suffered-choya-riders-hail-long-awaited-road-project/",
+      "publishedAt": "2026-10-24T11:16:20.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
       "region": "central-river",
-      "categories": [],
+      "categories": [
+        "business"
+      ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Sulayman Bah",
+      "author": "Hadram Hydara",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -23,7 +25,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-02T23:41:35.031Z",
+    "generatedAt": "2026-10-24T15:46:27.081Z",
     "count": 1
   }
 }

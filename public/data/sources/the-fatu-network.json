@@ -1,6 +1,99 @@
 {
   "items": [
     {
+      "id": "894127e661e033fc",
+      "title": "The Missing Link in Gambian Football Administration",
+      "summary": "Why strategic communication deserves a seat at the decision-making table By ML Drammeh Football administration is often discussed in terms of governance, financial management, technical development and infrastructure. These are essential to the growth of the game, yet another ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-missing-link-in-gambian-football-administration/",
+      "publishedAt": "2026-10-24T13:30:05.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "98239d9d3a32a47c",
+      "title": "‘We think of death when pregnancy comes’: NDP hears North Bank women’s healthcare concerns",
+      "summary": "By Dawda Baldeh Women in The Gambia’s North Bank Region have voiced deep concerns over the state of healthcare services, describing childbirth as a frightening ordeal because of inadequate medical facilities, shortages of medicines and the absence of ambulances, as opposition ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-think-of-death-when-pregnancy-comes-ndp-hears-north-bank-womens-healthcare-concerns/",
+      "publishedAt": "2026-10-24T11:50:30.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d72ee3bd901b2b38",
+      "title": "Marriage Lesson #65 (literally 😅): What watching my parents for over 40 years has taught me about lasting love.",
+      "summary": "By RamaTulai People often ask me where my views on relationships come from. The truth? I’ve had front-row seats my entire life. Watching my parents has taught me a lot about what makes a marriage last. Some lessons are worth carrying forward. Others? We can learn from them wit...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/marriage-lesson-65-literally-%f0%9f%98%85-what-watching-my-parents-for-over-40-years-has-taught-me-about-lasting-love/",
+      "publishedAt": "2026-10-24T11:36:13.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c02723673a30e4be",
+      "title": "‘Our backs and ribs suffered’: Choya riders hail long-awaited road project",
+      "summary": "By Mama A. Touray Motorcycle riders and residents in Choya have welcomed the construction of a 20.5km road linking several communities in the Central River Region, saying the project will relieve years of poor road conditions, costly vehicle repairs, and high transport fares. ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/our-backs-and-ribs-suffered-choya-riders-hail-long-awaited-road-project/",
+      "publishedAt": "2026-10-24T11:16:20.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "central-river",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4a9034f5bb85ed9f",
       "title": "A 1949 Law Is Still Running Our Murder Cases",
       "summary": "Isatou Fatty Deserved Better By Sarjo Barrow, Esq. No criminal justice system is perfect, even in advanced countries. With limited resources and little modern technology, our police deserve credit for the cases they solve. That is why a story shared this week on the What’s On ...",
@@ -332,7 +425,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T10:43:52.304Z",
-    "count": 14
+    "generatedAt": "2026-10-24T15:46:27.081Z",
+    "count": 18
   }
 }

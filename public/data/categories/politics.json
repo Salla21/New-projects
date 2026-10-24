@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "5c5d7291dfdad2dd",
+      "title": "Sidia Jatta Calls for Systemic Change, Questions Persistent Hardship 61 Years After Independence",
+      "summary": "By Makutu Manneh Veteran Gambian politician Sidia Jatta has called on voters to use the December presidential election to reflect on the country’s political direction, questioning why economic hardship remains widespread more than six decades after independence despite success...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sidia-jatta-calls-for-systemic-change-questions-persistent-hardship-61-years-after-independence/",
+      "publishedAt": "2026-10-24T15:40:27.000Z",
+      "collectedAt": "2026-10-24T15:46:22.977Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "894127e661e033fc",
+      "title": "The Missing Link in Gambian Football Administration",
+      "summary": "Why strategic communication deserves a seat at the decision-making table By ML Drammeh Football administration is often discussed in terms of governance, financial management, technical development and infrastructure. These are essential to the growth of the game, yet another ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-missing-link-in-gambian-football-administration/",
+      "publishedAt": "2026-10-24T13:30:05.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "98239d9d3a32a47c",
+      "title": "‘We think of death when pregnancy comes’: NDP hears North Bank women’s healthcare concerns",
+      "summary": "By Dawda Baldeh Women in The Gambia’s North Bank Region have voiced deep concerns over the state of healthcare services, describing childbirth as a frightening ordeal because of inadequate medical facilities, shortages of medicines and the absence of ambulances, as opposition ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/we-think-of-death-when-pregnancy-comes-ndp-hears-north-bank-womens-healthcare-concerns/",
+      "publishedAt": "2026-10-24T11:50:30.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0eb6247eceb1d795",
       "title": "“A Change of Government, but Not Yet a Change of System,” Says Barra Touray as APP Faction Joins Coalition 2026",
       "summary": "By Seedy Jobe A faction of the All Peoples Party (APP)-Sobeyaa has formally joined Coalition 2026, led by Mayor Talib Ahmed Bensouda, marking another political realignment ahead of The Gambia’s December presidential election. The faction formalized its membership on Thursday d...",
@@ -1715,29 +1787,6 @@
       "status": "published"
     },
     {
-      "id": "4a84459e20464ebb",
-      "title": "Barrow Promises to Replicate Banjul’s Development in KMC if Given Another Mandate",
-      "summary": "By Makutu Manneh President Adama Barrow has pledged to transform the Kanifing Municipality, promising to replicate what he described as his administration’s development achievements in Banjul while urging voters to assess presidential candidates by their records in public offi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-promises-to-replicate-banjuls-development-in-kmc-if-given-another-mandate/",
-      "publishedAt": "2026-10-19T15:36:20.000Z",
-      "collectedAt": "2026-10-19T19:47:12.550Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1746,7 +1795,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-24T10:43:46.673Z",
+      "collectedAt": "2026-10-24T15:46:00.528Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1762,7 +1811,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T10:43:52.304Z",
-    "count": 75
+    "generatedAt": "2026-10-24T15:46:27.081Z",
+    "count": 77
   }
 }

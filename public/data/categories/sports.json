@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "894127e661e033fc",
+      "title": "The Missing Link in Gambian Football Administration",
+      "summary": "Why strategic communication deserves a seat at the decision-making table By ML Drammeh Football administration is often discussed in terms of governance, financial management, technical development and infrastructure. These are essential to the growth of the game, yet another ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-missing-link-in-gambian-football-administration/",
+      "publishedAt": "2026-10-24T13:30:05.000Z",
+      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e49d0efad1cd6e31",
       "title": "Barrow Promises 180 kilometres of Roads for Kanifing Municipality",
       "summary": "By Assan Bah President Adama Barrow has promised to oversee the construction of 180 kilometres of roads across Kanifing Municipality (KM), alongside improvements to water supply and the redevelopment of a football field in Manjai. The announcement followed appeals from residen...",
@@ -98,7 +123,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T10:43:52.304Z",
-    "count": 4
+    "generatedAt": "2026-10-24T15:46:27.081Z",
+    "count": 5
   }
 }
