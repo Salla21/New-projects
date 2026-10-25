@@ -1734,29 +1734,6 @@
       "status": "published"
     },
     {
-      "id": "e0051d81e81650df",
-      "title": "IS WHAT’S ON GAMBIA CORRECT TO SAY HALIFA SALLAH WAS MAKING A COMEBACK?",
-      "summary": "This question was posed to Halifa Sallah and this is his answer: Sidia Jatta and myself are still protecting Team Gambia Grand Coalition 2026 and facing the media because of warrior journalists like those of What’s On Gambia. They are fighters against truth and propagators of ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/is-whats-on-gambia-correct-to-say-halifa-sallah-was-making-a-comeback/",
-      "publishedAt": "2026-10-20T12:42:19.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1765,7 +1742,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-25T04:18:18.627Z",
+      "collectedAt": "2026-10-25T11:09:15.166Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1781,7 +1758,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-25T04:18:23.664Z",
-    "count": 76
+    "generatedAt": "2026-10-25T11:09:23.491Z",
+    "count": 75
   }
 }

@@ -805,54 +805,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a43c9da946e70e4f",
-      "title": "Two charged over alleged $6,500 Cyprus travel scheme",
-      "summary": "By Louise Jobe Two Sierra Leonean nationals, Ousman Fullah and Mariama Karbo, have pleaded not guilty to charges of conspiracy and obtaining money by false pretence at Brikama Magistrates’ Court. They are alleged scammers using the name of QNET, a global direct-selling lifesty...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/two-charged-over-alleged-6500-cyprus-travel-scheme/",
-      "publishedAt": "2026-10-20T12:56:37.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e0051d81e81650df",
-      "title": "IS WHAT’S ON GAMBIA CORRECT TO SAY HALIFA SALLAH WAS MAKING A COMEBACK?",
-      "summary": "This question was posed to Halifa Sallah and this is his answer: Sidia Jatta and myself are still protecting Team Gambia Grand Coalition 2026 and facing the media because of warrior journalists like those of What’s On Gambia. They are fighters against truth and propagators of ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/is-whats-on-gambia-correct-to-say-halifa-sallah-was-making-a-comeback/",
-      "publishedAt": "2026-10-20T12:42:19.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-25T04:18:23.664Z",
-    "count": 37
+    "generatedAt": "2026-10-25T11:09:23.491Z",
+    "count": 35
   }
 }

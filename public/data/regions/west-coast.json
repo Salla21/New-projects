@@ -161,27 +161,6 @@
       "status": "published"
     },
     {
-      "id": "a43c9da946e70e4f",
-      "title": "Two charged over alleged $6,500 Cyprus travel scheme",
-      "summary": "By Louise Jobe Two Sierra Leonean nationals, Ousman Fullah and Mariama Karbo, have pleaded not guilty to charges of conspiracy and obtaining money by false pretence at Brikama Magistrates’ Court. They are alleged scammers using the name of QNET, a global direct-selling lifesty...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/two-charged-over-alleged-6500-cyprus-travel-scheme/",
-      "publishedAt": "2026-10-20T12:56:37.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f6861c48a452793d",
       "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
       "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
@@ -190,7 +169,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-25T04:18:18.627Z",
+      "collectedAt": "2026-10-25T11:09:15.166Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -204,7 +183,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-25T04:18:23.664Z",
-    "count": 9
+    "generatedAt": "2026-10-25T11:09:23.491Z",
+    "count": 8
   }
 }
