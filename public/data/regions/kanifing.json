@@ -250,33 +250,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "997b1ac6e3b6a8a2",
-      "title": "Court rejects Amie Sankanu’s challenge to Mai Ceesay’s voter registration",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed Amie Sankanu’s objection to Mai Ceesay’s voter registration, ruling that she did not provide enough evidence to show he was not entitled to remain on the voters’ list. Magistrate Isatou Jallow ordered that Ceesay’s na...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/court-rejects-amie-sankanus-challenge-to-mai-ceesays-voter-registration/",
-      "publishedAt": "2026-10-20T13:35:57.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-25T15:57:21.193Z",
-    "count": 12
+    "generatedAt": "2026-10-25T18:54:23.025Z",
+    "count": 11
   }
 }
