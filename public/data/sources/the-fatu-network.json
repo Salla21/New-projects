@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7b26118e84fa7886",
+      "title": "Bojang Labels Kandeh a ‘Sell-Out’ as Opposition Rift Deepens",
+      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has accused Gambia Democratic Congress (GDC) leader Mama Kandeh of abandoning his supporters for personal gain, following the opposition politician’s alignment with the ruling National People’s Party (NPP...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bojang-labels-kandeh-a-sell-out-as-opposition-rift-deepens/",
+      "publishedAt": "2026-10-25T13:12:16.000Z",
+      "collectedAt": "2026-10-25T15:57:15.839Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ab04bf57c118c353",
       "title": "What do Post-December 2026 Presidential Elections Hold for the Democratic Future of The Gambia? Why We still need democratic reform",
       "summary": "ANALYSIS By Andrew Mendy While voters successfully removed Jammeh’s long-standing autocratic regime through democratic means, the political elites who oversaw the democratic transition from 2017 to 2026 have, to some extent, failed to build and consolidate these gains. Barrow’...",
@@ -424,7 +448,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-25T11:09:23.491Z",
-    "count": 18
+    "generatedAt": "2026-10-25T15:57:21.193Z",
+    "count": 19
   }
 }

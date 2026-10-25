@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7b26118e84fa7886",
+      "title": "Bojang Labels Kandeh a ‘Sell-Out’ as Opposition Rift Deepens",
+      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has accused Gambia Democratic Congress (GDC) leader Mama Kandeh of abandoning his supporters for personal gain, following the opposition politician’s alignment with the ruling National People’s Party (NPP...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bojang-labels-kandeh-a-sell-out-as-opposition-rift-deepens/",
+      "publishedAt": "2026-10-25T13:12:16.000Z",
+      "collectedAt": "2026-10-25T15:57:15.839Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d53c5b5348a73119",
       "title": "Barrow Appeals for URR Votes, Pledges 360 Kilometers of Roads After Election",
       "summary": "By Makutu Manneh President Adama Barrow has urged residents of the Upper River Region (URR) to support his re-election bid in December, promising to construct 360 kilometers of roads in the region if he secures another term in office. Speaking at the inauguration of the Basse–...",
@@ -489,7 +513,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-25T11:09:15.166Z",
+      "collectedAt": "2026-10-25T15:57:15.754Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -512,7 +536,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-25T11:09:15.166Z",
+      "collectedAt": "2026-10-25T15:57:15.754Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -528,7 +552,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-25T11:09:23.491Z",
-    "count": 22
+    "generatedAt": "2026-10-25T15:57:21.193Z",
+    "count": 23
   }
 }
