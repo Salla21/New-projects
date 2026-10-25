@@ -385,31 +385,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "1157912d58627d09",
-      "title": "AFTER SEMLEX IS DATA SOVEREGNTY RESTORED?",
-      "summary": "Data sovereignty is required when the identity of citizens are gathered and stored to enable them to have national identity cards.                                                                                                                                                   ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/after-semlex-is-data-soveregnty-restored/",
-      "publishedAt": "2026-10-20T12:41:13.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T22:23:36.177Z",
-    "count": 18
+    "generatedAt": "2026-10-25T04:18:23.664Z",
+    "count": 17
   }
 }

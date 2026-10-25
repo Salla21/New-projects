@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "e8c27461eaeab6c9",
+      "title": "Bensouda Urges Barrow to Respect Jawara and Jammeh’s Development Legacies",
+      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has called on President Adama Barrow to stop diminishing the development records of his predecessors, Sir Dawda Kairaba Jawara and Yahya Jammeh, arguing that th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-urges-barrow-to-respect-jawara-and-jammehs-development-legacies/",
+      "publishedAt": "2026-10-25T01:46:46.000Z",
+      "collectedAt": "2026-10-25T04:18:19.590Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2507c743f6015fb9",
+      "title": "Bensouda Vows to End Foreign Military Protection of Presidency, Outlines Development Plans for Foni",
+      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of Kanifing Municipal Council, has pledged to end foreign military protection of the Gambian presidency if elected in December, saying the responsibility for safeguarding the country’s lead...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-end-foreign-military-protection-of-presidency-outlines-development-plans-for-foni/",
+      "publishedAt": "2026-10-25T01:11:35.000Z",
+      "collectedAt": "2026-10-25T04:18:19.590Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2e057199cac2a32b",
       "title": "PDOIS Secretary General Urges Gambians to Vote Based on Living Conditions in December Election",
       "summary": "By Makutu Manneh Suwaibou Touray, Secretary General of the People’s Democratic Organisation for Independence and Socialism (PDOIS) and an aspirant for the flagbearership of the Team Gambia Grand Coalition, has urged Gambians to assess their living conditions before casting the...",
@@ -947,7 +993,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T22:23:36.177Z",
-    "count": 41
+    "generatedAt": "2026-10-25T04:18:23.664Z",
+    "count": 43
   }
 }

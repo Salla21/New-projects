@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "e8c27461eaeab6c9",
+      "title": "Bensouda Urges Barrow to Respect Jawara and Jammeh’s Development Legacies",
+      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has called on President Adama Barrow to stop diminishing the development records of his predecessors, Sir Dawda Kairaba Jawara and Yahya Jammeh, arguing that th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-urges-barrow-to-respect-jawara-and-jammehs-development-legacies/",
+      "publishedAt": "2026-10-25T01:46:46.000Z",
+      "collectedAt": "2026-10-25T04:18:19.590Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2507c743f6015fb9",
+      "title": "Bensouda Vows to End Foreign Military Protection of Presidency, Outlines Development Plans for Foni",
+      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of Kanifing Municipal Council, has pledged to end foreign military protection of the Gambian presidency if elected in December, saying the responsibility for safeguarding the country’s lead...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-end-foreign-military-protection-of-presidency-outlines-development-plans-for-foni/",
+      "publishedAt": "2026-10-25T01:11:35.000Z",
+      "collectedAt": "2026-10-25T04:18:19.590Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ab04bf57c118c353",
       "title": "What do Post-December 2026 Presidential Elections Hold for the Democratic Future of The Gambia? Why We still need democratic reform",
       "summary": "ANALYSIS By Andrew Mendy While voters successfully removed Jammeh’s long-standing autocratic regime through democratic means, the political elites who oversaw the democratic transition from 2017 to 2026 have, to some extent, failed to build and consolidate these gains. Barrow’...",
@@ -2258,54 +2304,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a43c9da946e70e4f",
-      "title": "Two charged over alleged $6,500 Cyprus travel scheme",
-      "summary": "By Louise Jobe Two Sierra Leonean nationals, Ousman Fullah and Mariama Karbo, have pleaded not guilty to charges of conspiracy and obtaining money by false pretence at Brikama Magistrates’ Court. They are alleged scammers using the name of QNET, a global direct-selling lifesty...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/two-charged-over-alleged-6500-cyprus-travel-scheme/",
-      "publishedAt": "2026-10-20T12:56:37.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e0051d81e81650df",
-      "title": "IS WHAT’S ON GAMBIA CORRECT TO SAY HALIFA SALLAH WAS MAKING A COMEBACK?",
-      "summary": "This question was posed to Halifa Sallah and this is his answer: Sidia Jatta and myself are still protecting Team Gambia Grand Coalition 2026 and facing the media because of warrior journalists like those of What’s On Gambia. They are fighters against truth and propagators of ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/is-whats-on-gambia-correct-to-say-halifa-sallah-was-making-a-comeback/",
-      "publishedAt": "2026-10-20T12:42:19.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-24T22:23:36.177Z",
+    "generatedAt": "2026-10-25T04:18:23.664Z",
     "count": 100
   }
 }
