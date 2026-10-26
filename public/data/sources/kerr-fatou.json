@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "448cf20a3e646388",
+      "title": "UTG Students Protest Over Worsening Conditions at Faraba Campus, Threaten to Suspend Lectures",
+      "summary": "By Seedy Jobe The University of The Gambia Students’ Union (UTGSU) on Monday staged a protest at the university’s Peace Building campus in Kanifing, demanding urgent government intervention over deteriorating welfare conditions at the Faraba Banta campus and threatening to sus...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/utg-students-protest-over-worsening-conditions-at-faraba-campus-threaten-to-suspend-lectures/",
+      "publishedAt": "2026-10-26T16:57:18.000Z",
+      "collectedAt": "2026-10-26T19:50:21.787Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0f8b22b72ca623da",
+      "title": "“You Must Come Out and Take the Bullets. That’s Leadership,” Minister Gomez Tells Protesting UTG Students",
+      "summary": "By Seedy Jobe The Minister of Higher Education, Research, Science, and Technology, Professor Pierre Gomez, has pledged to address the grievances of University of The Gambia (UTG) students following a protest over deteriorating conditions at the university’s Faraba Banta campus...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/you-must-come-out-and-take-the-bullets-thats-leadership-minister-gomez-tells-protesting-utg-students/",
+      "publishedAt": "2026-10-26T16:47:59.000Z",
+      "collectedAt": "2026-10-26T19:50:21.787Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4b328a49402c4c2d",
       "title": "Bensouda Vows to Scrap Securiport Contract and End D1,000 Airport Security Fee",
       "summary": "By Staff Writer Talib Ahmed Bensouda, leader of Coalition 2026, has pledged to terminate the government’s controversial contract with Securiport and abolish the D1,000 airport security fee imposed on passengers arriving in and departing from The Gambia. Mr. Bensouda made the p...",
@@ -998,148 +1043,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "102244fef21aea95",
-      "title": "Dr. Ceesay Says Marching on State House Could Amount to Treason, Punishable by Death",
-      "summary": "By Fatou Sillah Gambia’s Information Minister, Dr. Ismaila Ceesay, has defended President Adama Barrow’s warning to the United Democratic Party lawmaker for Banjul North over a protest near State House, arguing that such demonstrations could be interpreted as an attempt to com...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-says-marching-on-state-house-could-amount-to-treason-punishable-by-death/",
-      "publishedAt": "2026-10-20T18:50:46.000Z",
-      "collectedAt": "2026-10-20T21:29:42.487Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "24e7de04367bb6c4",
-      "title": "Dr. Ceesay: Gambia’s Health Sector Now “One of the Best” in Subregion",
-      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, the minister of information, media, and broadcasting services, has described the country’s healthcare system as one of the best in the subregion, citing improvements in hospital infrastructure, ambulance services, and medical equipment under...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-gambias-health-sector-now-one-of-the-best-in-subregion/",
-      "publishedAt": "2026-10-20T18:38:19.000Z",
-      "collectedAt": "2026-10-20T21:29:42.487Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "04eb776e0d43172e",
-      "title": "Gambia Names Seven Athletes for Dakar Youth Olympics, Targets First Olympic Medal",
-      "summary": "By Seedy Jobe The Gambia National Olympic Committee (GNOC) says preparations are nearly complete for the 2026 Youth Olympic Games in Dakar, Senegal, where seven Gambian athletes will compete across five sports in pursuit of the country’s first Olympic medal. Muhammed L. Saidyk...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-names-seven-athletes-for-dakar-youth-olympics-targets-first-olympic-medal/",
-      "publishedAt": "2026-10-20T18:16:01.000Z",
-      "collectedAt": "2026-10-20T21:29:42.487Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "792c87ecfd726ddb",
-      "title": "Sallah: Team Gambia Not Competing With Rival Coalitions, Vows to Return National Wealth to Citizens",
-      "summary": "By Makutu Manneh Halifa Sallah, a veteran politician and one of the coordinators of the Team Gambia Grand Coalition, says the coalition is not competing with anyone and that its aim is to return the country’s wealth to the people. He was speaking on Monday at a Team Gambia pre...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sallah-team-gambia-not-competing-with-rival-coalitions-vows-to-return-national-wealth-to-citizens/",
-      "publishedAt": "2026-10-20T18:04:56.000Z",
-      "collectedAt": "2026-10-20T21:29:42.487Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0294430a610e9ff7",
-      "title": "Halifa Sallah Says Team Gambia Manifesto Will Prioritize Institutional Reform and Equitable Wealth Distribution",
-      "summary": "By Makutu Manneh Halifa Sallah, a veteran politician and coordinator of the Team Gambia Grand Coalition, has said the coalition’s forthcoming manifesto will prioritize institutional reform, public accountability, and the equitable distribution of national wealth as part of a b...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/halifa-sallah-says-team-gambia-manifesto-will-prioritize-institutional-reform-and-equitable-wealth-distribution/",
-      "publishedAt": "2026-10-20T17:13:52.000Z",
-      "collectedAt": "2026-10-20T21:29:42.487Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "fa389753a51d5135",
-      "title": "Halifa Sallah Says Team Gambia Will Consult Public Before Selecting Flagbearer to Avoid 2016 Mistakes",
-      "summary": "By Makutu Manneh Halifa Sallah, veteran politician and coordinator of the Team Gambia Grand Coalition, has said the alliance will consult Gambians before selecting its presidential flagbearer, seeking to avoid what he described as the mistakes of the 2016 opposition coalition....",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/halifa-sallah-says-team-gambia-will-consult-public-before-selecting-flagbearer-to-avoid-2016-mistakes/",
-      "publishedAt": "2026-10-20T16:45:27.000Z",
-      "collectedAt": "2026-10-20T16:47:07.748Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T12:43:00.594Z",
-    "count": 49
+    "generatedAt": "2026-10-26T19:50:25.917Z",
+    "count": 45
   }
 }

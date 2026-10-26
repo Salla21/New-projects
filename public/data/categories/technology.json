@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0f8b22b72ca623da",
+      "title": "“You Must Come Out and Take the Bullets. That’s Leadership,” Minister Gomez Tells Protesting UTG Students",
+      "summary": "By Seedy Jobe The Minister of Higher Education, Research, Science, and Technology, Professor Pierre Gomez, has pledged to address the grievances of University of The Gambia (UTG) students following a protest over deteriorating conditions at the university’s Faraba Banta campus...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/you-must-come-out-and-take-the-bullets-thats-leadership-minister-gomez-tells-protesting-utg-students/",
+      "publishedAt": "2026-10-26T16:47:59.000Z",
+      "collectedAt": "2026-10-26T19:50:21.787Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b377e7e08a8814cc",
       "title": "Darboe Says Decisive UDP Win in the West Coast Will Secure State House",
       "summary": "By Seedy Jobe The Secretary General and Party Leader of the United Democratic Party (UDP), A.N.M. Ousainu Darboe, has identified Brikama and the wider West Coast Region as crucial to his party’s presidential election ambitions, declaring that a decisive victory in the area wou...",
@@ -272,7 +296,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T12:43:00.594Z",
-    "count": 11
+    "generatedAt": "2026-10-26T19:50:25.917Z",
+    "count": 12
   }
 }

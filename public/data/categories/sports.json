@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "85430ea908361de0",
+      "title": "Young Scorpions Celebrate as Gambia Secures Another AFCON Qualification!",
+      "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ dressing room erupted in celebration after The Gambia defeated Sierra Leone 2-0 in Sunday’s West African Football Union (WAFU) Zone A semifinal in Mali, securing a place in Friday’s final against Guinea and qualification for...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/young-scorpions-celebrate-as-gambia-secures-another-afcon-qualification/",
+      "publishedAt": "2026-10-26T13:18:45.000Z",
+      "collectedAt": "2026-10-26T19:50:19.246Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "894127e661e033fc",
       "title": "The Missing Link in Gambian Football Administration",
       "summary": "Why strategic communication deserves a seat at the decision-making table By ML Drammeh Football administration is often discussed in terms of governance, financial management, technical development and infrastructure. These are essential to the growth of the game, yet another ...",
@@ -123,7 +146,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T12:43:00.594Z",
-    "count": 5
+    "generatedAt": "2026-10-26T19:50:25.917Z",
+    "count": 6
   }
 }

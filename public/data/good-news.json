@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "85430ea908361de0",
+      "title": "Young Scorpions Celebrate as Gambia Secures Another AFCON Qualification!",
+      "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ dressing room erupted in celebration after The Gambia defeated Sierra Leone 2-0 in Sunday’s West African Football Union (WAFU) Zone A semifinal in Mali, securing a place in Friday’s final against Guinea and qualification for...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/young-scorpions-celebrate-as-gambia-secures-another-afcon-qualification/",
+      "publishedAt": "2026-10-26T13:18:45.000Z",
+      "collectedAt": "2026-10-26T19:50:19.246Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9e184b54e393b4f2",
       "title": "Bensouda Pledges Tuition Support, Transport Solutions for UTG Students Under Coalition 2026 Government",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has pledged to address longstanding challenges facing students at the University of The Gambia (UTG), promising tuition assistance, improved public transporta...",
@@ -309,7 +332,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-21T07:26:33.411Z",
+      "collectedAt": "2026-10-26T19:50:18.684Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -320,33 +343,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "24e7de04367bb6c4",
-      "title": "Dr. Ceesay: Gambia’s Health Sector Now “One of the Best” in Subregion",
-      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, the minister of information, media, and broadcasting services, has described the country’s healthcare system as one of the best in the subregion, citing improvements in hospital infrastructure, ambulance services, and medical equipment under...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-gambias-health-sector-now-one-of-the-best-in-subregion/",
-      "publishedAt": "2026-10-20T18:38:19.000Z",
-      "collectedAt": "2026-10-20T21:29:42.487Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T12:43:00.594Z",
+    "generatedAt": "2026-10-26T19:50:25.917Z",
     "count": 15
   }
 }

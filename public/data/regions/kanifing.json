@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "5145758623f13daa",
+      "title": "Higher Education Ministry Responds to UTG Protests, Minister Gomez to Visit Faraba Campus",
+      "summary": "Written by: Seringe S.T. Touray The Ministry of Higher Education has promised further action following Monday’s major student protest at the University of The Gambia (UTG) in Kanifing, where hundreds demonstrated over worsening campus conditions and called for the resignation ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/higher-education-ministry-responds-to-utg-protests-minister-gomez-to-visit-faraba-campus/",
+      "publishedAt": "2026-10-26T19:10:20.000Z",
+      "collectedAt": "2026-10-26T19:50:19.246Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "448cf20a3e646388",
+      "title": "UTG Students Protest Over Worsening Conditions at Faraba Campus, Threaten to Suspend Lectures",
+      "summary": "By Seedy Jobe The University of The Gambia Students’ Union (UTGSU) on Monday staged a protest at the university’s Peace Building campus in Kanifing, demanding urgent government intervention over deteriorating welfare conditions at the Faraba Banta campus and threatening to sus...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/utg-students-protest-over-worsening-conditions-at-faraba-campus-threaten-to-suspend-lectures/",
+      "publishedAt": "2026-10-26T16:57:18.000Z",
+      "collectedAt": "2026-10-26T19:50:21.787Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "380db06bf2002b44",
       "title": "Final Results of the Revising Courts",
       "summary": "Basse, Brikama, Farafenni & Kanifing By Louise Jobe & Mariama Marong Revising court sittings have ended across The Gambia, with courts in different regions reviewing cases involving objections to voters’ registration and deciding whether the affected voters should remain on th...",
@@ -300,7 +344,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T12:43:00.594Z",
-    "count": 13
+    "generatedAt": "2026-10-26T19:50:25.917Z",
+    "count": 15
   }
 }
