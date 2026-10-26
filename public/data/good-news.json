@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9e184b54e393b4f2",
+      "title": "Bensouda Pledges Tuition Support, Transport Solutions for UTG Students Under Coalition 2026 Government",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has pledged to address longstanding challenges facing students at the University of The Gambia (UTG), promising tuition assistance, improved public transporta...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-tuition-support-transport-solutions-for-utg-students-under-coalition-2026-government/",
+      "publishedAt": "2026-10-26T00:15:32.000Z",
+      "collectedAt": "2026-10-26T04:24:57.285Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e8c27461eaeab6c9",
       "title": "Bensouda Urges Barrow to Respect Jawara and Jammeh’s Development Legacies",
       "summary": "By Seedy Jobe Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has called on President Adama Barrow to stop diminishing the development records of his predecessors, Sir Dawda Kairaba Jawara and Yahya Jammeh, arguing that th...",
@@ -368,7 +392,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-25T22:25:47.170Z",
-    "count": 16
+    "generatedAt": "2026-10-26T04:25:01.410Z",
+    "count": 17
   }
 }

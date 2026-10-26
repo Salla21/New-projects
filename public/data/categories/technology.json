@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "b377e7e08a8814cc",
+      "title": "Darboe Says Decisive UDP Win in the West Coast Will Secure State House",
+      "summary": "By Seedy Jobe The Secretary General and Party Leader of the United Democratic Party (UDP), A.N.M. Ousainu Darboe, has identified Brikama and the wider West Coast Region as crucial to his party’s presidential election ambitions, declaring that a decisive victory in the area wou...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-decisive-udp-win-in-the-west-coast-will-secure-state-house/",
+      "publishedAt": "2026-10-26T00:29:02.000Z",
+      "collectedAt": "2026-10-26T04:24:57.285Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "894127e661e033fc",
       "title": "The Missing Link in Gambian Football Administration",
       "summary": "Why strategic communication deserves a seat at the decision-making table By ML Drammeh Football administration is often discussed in terms of governance, financial management, technical development and infrastructure. These are essential to the growth of the game, yet another ...",
@@ -247,7 +272,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-25T22:25:47.170Z",
-    "count": 10
+    "generatedAt": "2026-10-26T04:25:01.410Z",
+    "count": 11
   }
 }
