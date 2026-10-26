@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ae056430751dd9e0",
+      "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-cites-markets-sports-facilities-and-waste-management-reforms/",
+      "publishedAt": "2026-10-26T22:11:41.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "85430ea908361de0",
       "title": "Young Scorpions Celebrate as Gambia Secures Another AFCON Qualification!",
       "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ dressing room erupted in celebration after The Gambia defeated Sierra Leone 2-0 in Sunday’s West African Football Union (WAFU) Zone A semifinal in Mali, securing a place in Friday’s final against Guinea and qualification for...",
@@ -332,7 +356,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -346,7 +370,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T19:50:25.917Z",
-    "count": 15
+    "generatedAt": "2026-10-26T23:45:42.811Z",
+    "count": 16
   }
 }

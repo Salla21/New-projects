@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "e8aeed0291dbc3dd",
+      "title": "Omar Sanyang Says GALA Serves Gambians, Not Opposition Political Parties",
+      "summary": "By Fatou Sillah Omar Sanyang, Secretary General of Gambians Against Looted Assets (GALA), has dismissed claims that the movement is advancing the interests of opposition political parties, insisting that its campaign is driven by a commitment to accountability and the interest...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/omar-sanyang-says-gala-serves-gambians-not-opposition-political-parties/",
+      "publishedAt": "2026-10-26T22:29:06.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ae056430751dd9e0",
+      "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-cites-markets-sports-facilities-and-waste-management-reforms/",
+      "publishedAt": "2026-10-26T22:11:41.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8a6a0ea78c96ec7a",
+      "title": "Sanyang Hails Coalition 2026 as Gambia’s Most Recognised Political Alliance, Rallies Support for Bensouda",
+      "summary": "By Fatou Sillah Yahya Menteng Sanyang, the National Assembly Member for Latrikunda Sabiji and Deputy Party Leader for Finance and Administration of the UNITE Party, has described Coalition 2026 as The Gambia’s most recognised political alliance, calling on political leaders an...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sanyang-hails-coalition-2026-as-gambias-most-recognised-political-alliance-rallies-support-for-bensouda/",
+      "publishedAt": "2026-10-26T20:58:05.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "508c02e37fd0408a",
+      "title": "MISPLACED PRIORITIES: Undervaluing Agriculture in the 2027 Budget",
+      "summary": "By Dr. Ousman Gajigo The Ministry of Finance has released the figures for the 2027 budget. As in previous years, there is much to criticize. For now, I will focus on the allocations to the Ministries of Agriculture and Foreign Affairs to illustrate the misplaced priorities and...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/misplaced-priorities-undervaluing-agriculture-in-the-2027-budget/",
+      "publishedAt": "2026-10-26T20:06:22.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5145758623f13daa",
       "title": "Higher Education Ministry Responds to UTG Protests, Minister Gomez to Visit Faraba Campus",
       "summary": "Written by: Seringe S.T. Touray The Ministry of Higher Education has promised further action following Monday’s major student protest at the University of The Gambia (UTG) in Kanifing, where hundreds demonstrated over worsening campus conditions and called for the resignation ...",
@@ -2226,101 +2320,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "96a36b31660af47f",
-      "title": "National Assembly Refers Bill on Legislative Powers and Immunities for Further Scrutiny",
-      "summary": "By Kebba A.F. Touray The National Assembly has referred the National Assembly Powers and Privileges Bill, 2026, to the Assembly Business Committee (ABC) for further consideration, following its presentation for a second reading by Majority Leader Billay G. Tunkara. The bill se...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/national-assembly-refers-bill-on-legislative-powers-and-immunities-for-further-scrutiny/",
-      "publishedAt": "2026-10-21T11:49:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c89fddb203a417b6",
-      "title": "National Assembly Considers Bill to Strengthen Environmental Protection",
-      "summary": "By Kebba A.F. Touray The National Assembly is considering legislation aimed at strengthening environmental protection, safeguarding natural resources and making individuals and organisations more accountable for activities that damage the environment. The National Environment ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/national-assembly-considers-bill-to-strengthen-environmental-protection/",
-      "publishedAt": "2026-10-21T11:44:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f0e24cd8655ce986",
-      "title": "Old Yundum Residents Seek Hospital, Football Stadiums and End to Jabang Land Disputes",
-      "summary": "By Assan Bah Residents of Old Yundum Constituency have appealed to the government to build a hospital, develop football stadiums and resolve long-standing land disputes in Jabang, as they called for further investment in roads, public safety and community facilities. The reque...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/old-yundum-residents-seek-hospital-football-stadiums-and-end-to-jabang-land-disputes/",
-      "publishedAt": "2026-10-21T11:40:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "09fa5cf8b2d44318",
-      "title": "Bitcoin Tower: Counter-Complaint Questions Whether Police Were Used Against Austrian Investors",
-      "summary": "𝘕𝘦𝘸 𝘊𝘰𝘶𝘯𝘵𝘦𝘳-𝘊𝘰𝘮𝘱𝘭𝘢𝘪𝘯𝘵 𝘙𝘢𝘪𝘴𝘦𝘴 𝘘𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴 𝘈𝘣𝘰𝘶𝘵 𝘵𝘩𝘦 𝘊𝘪𝘳𝘤𝘶𝘮𝘴𝘵𝘢𝘯𝘤𝘦𝘴 𝘉𝘦𝘩𝘪𝘯𝘥 𝘵𝘩𝘦 𝘊𝘳𝘪𝘮𝘪𝘯𝘢𝘭 𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘨𝘢𝘵𝘪𝘰𝘯 Austrian entrepreneur Manuel Stofleth-Mitterer has filed a counter-complaint against his busine...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-counter-complaint-questions-whether-police-were-used-against-austrian-investors/",
-      "publishedAt": "2026-10-21T10:59:26.000Z",
-      "collectedAt": "2026-10-21T13:43:10.775Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T19:50:25.917Z",
+    "generatedAt": "2026-10-26T23:45:42.811Z",
     "count": 100
   }
 }

@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "ae056430751dd9e0",
+      "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-cites-markets-sports-facilities-and-waste-management-reforms/",
+      "publishedAt": "2026-10-26T22:11:41.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8a6a0ea78c96ec7a",
+      "title": "Sanyang Hails Coalition 2026 as Gambia’s Most Recognised Political Alliance, Rallies Support for Bensouda",
+      "summary": "By Fatou Sillah Yahya Menteng Sanyang, the National Assembly Member for Latrikunda Sabiji and Deputy Party Leader for Finance and Administration of the UNITE Party, has described Coalition 2026 as The Gambia’s most recognised political alliance, calling on political leaders an...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sanyang-hails-coalition-2026-as-gambias-most-recognised-political-alliance-rallies-support-for-bensouda/",
+      "publishedAt": "2026-10-26T20:58:05.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "508c02e37fd0408a",
+      "title": "MISPLACED PRIORITIES: Undervaluing Agriculture in the 2027 Budget",
+      "summary": "By Dr. Ousman Gajigo The Ministry of Finance has released the figures for the 2027 budget. As in previous years, there is much to criticize. For now, I will focus on the allocations to the Ministries of Agriculture and Foreign Affairs to illustrate the misplaced priorities and...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/misplaced-priorities-undervaluing-agriculture-in-the-2027-budget/",
+      "publishedAt": "2026-10-26T20:06:22.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b5b570fd85efe9e7",
       "title": "LESSONS FROM THE REVISING COURTS",
       "summary": "We can learn two important lessons from the testimonies of witnesses during proceedings of the revising courts, which clearly indicate the need for electoral reform. They expose a broken system of registration of voters which can be abused by politicians, especially those in t...",
@@ -555,30 +626,6 @@
       "status": "published"
     },
     {
-      "id": "054a41521e52bebe",
-      "title": "NO NEED FOR THREATS",
-      "summary": "The presidential tour is an official engagement that is mandated by the Constitution of the Republic. It is meant to find out how the implementation of government policy impacts on the lives of the people in the country. It is also an opportunity for a government to explain it...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/no-need-for-threats/",
-      "publishedAt": "2026-10-21T10:33:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "bbc6204f2840fde3",
       "title": "Sister in Trouble After Bailing Thief Brother",
       "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
@@ -587,7 +634,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -610,7 +657,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -633,7 +680,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -649,7 +696,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T19:50:25.917Z",
-    "count": 27
+    "generatedAt": "2026-10-26T23:45:42.811Z",
+    "count": 29
   }
 }

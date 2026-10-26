@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "8a6a0ea78c96ec7a",
+      "title": "Sanyang Hails Coalition 2026 as Gambia’s Most Recognised Political Alliance, Rallies Support for Bensouda",
+      "summary": "By Fatou Sillah Yahya Menteng Sanyang, the National Assembly Member for Latrikunda Sabiji and Deputy Party Leader for Finance and Administration of the UNITE Party, has described Coalition 2026 as The Gambia’s most recognised political alliance, calling on political leaders an...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sanyang-hails-coalition-2026-as-gambias-most-recognised-political-alliance-rallies-support-for-bensouda/",
+      "publishedAt": "2026-10-26T20:58:05.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "508c02e37fd0408a",
+      "title": "MISPLACED PRIORITIES: Undervaluing Agriculture in the 2027 Budget",
+      "summary": "By Dr. Ousman Gajigo The Ministry of Finance has released the figures for the 2027 budget. As in previous years, there is much to criticize. For now, I will focus on the allocations to the Ministries of Agriculture and Foreign Affairs to illustrate the misplaced priorities and...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/misplaced-priorities-undervaluing-agriculture-in-the-2027-budget/",
+      "publishedAt": "2026-10-26T20:06:22.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0f8b22b72ca623da",
       "title": "“You Must Come Out and Take the Bullets. That’s Leadership,” Minister Gomez Tells Protesting UTG Students",
       "summary": "By Seedy Jobe The Minister of Higher Education, Research, Science, and Technology, Professor Pierre Gomez, has pledged to address the grievances of University of The Gambia (UTG) students following a protest over deteriorating conditions at the university’s Faraba Banta campus...",
@@ -1605,53 +1652,6 @@
       "status": "published"
     },
     {
-      "id": "d499c1ec6fc6951c",
-      "title": "WHAT DOES TEAM GAMBIA GRAND COALITION 2026 HAVE TO OFFER?",
-      "summary": "At a press conference held at Tamala Beach Resort, the leadership of Team Gambia Grand Coalition 2026 spelt out the mission, vision and promises of the Coalition. VISION A peaceful, sovereign and prosperous Gambia is in view where power owned, freely and fairly entrusted by fi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-does-team-gambia-grand-coalition-2026-have-to-offer/",
-      "publishedAt": "2026-10-21T10:35:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "054a41521e52bebe",
-      "title": "NO NEED FOR THREATS",
-      "summary": "The presidential tour is an official engagement that is mandated by the Constitution of the Republic. It is meant to find out how the implementation of government policy impacts on the lives of the people in the country. It is also an opportunity for a government to explain it...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/no-need-for-threats/",
-      "publishedAt": "2026-10-21T10:33:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "87aa3ae25ef1f542",
       "title": "Fula Gangstar Wants to Make Peace With Star Girl as Fans Wait for the Full Story!",
       "summary": "What really went wrong between Fula Gangstar and Star Girl? That is the question on the…\nThe post Fula Gangstar Wants to Make Peace With Star Girl as Fans Wait for the Full Story! appeared first on What's On Gambia.",
@@ -1660,7 +1660,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/fula-gangstar-wants-to-make-peace-with-star-girl-as-fans-wait-for-the-full-story/",
       "publishedAt": "2026-10-21T02:21:43.000Z",
-      "collectedAt": "2026-10-21T07:26:33.411Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1681,7 +1681,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1702,7 +1702,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1725,7 +1725,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1748,7 +1748,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1771,7 +1771,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
       "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1792,7 +1792,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1815,7 +1815,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/best-time-to-visit-the-gambia-weather-seasons-crowds-and-what-to-pack/",
       "publishedAt": "2026-10-01T04:50:10.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1829,7 +1829,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T19:50:25.917Z",
+    "generatedAt": "2026-10-26T23:45:42.811Z",
     "count": 79
   }
 }

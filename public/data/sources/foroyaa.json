@@ -781,57 +781,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d499c1ec6fc6951c",
-      "title": "WHAT DOES TEAM GAMBIA GRAND COALITION 2026 HAVE TO OFFER?",
-      "summary": "At a press conference held at Tamala Beach Resort, the leadership of Team Gambia Grand Coalition 2026 spelt out the mission, vision and promises of the Coalition. VISION A peaceful, sovereign and prosperous Gambia is in view where power owned, freely and fairly entrusted by fi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-does-team-gambia-grand-coalition-2026-have-to-offer/",
-      "publishedAt": "2026-10-21T10:35:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "054a41521e52bebe",
-      "title": "NO NEED FOR THREATS",
-      "summary": "The presidential tour is an official engagement that is mandated by the Constitution of the Republic. It is meant to find out how the implementation of government policy impacts on the lives of the people in the country. It is also an opportunity for a government to explain it...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/no-need-for-threats/",
-      "publishedAt": "2026-10-21T10:33:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T19:50:25.917Z",
-    "count": 36
+    "generatedAt": "2026-10-26T23:45:42.811Z",
+    "count": 34
   }
 }

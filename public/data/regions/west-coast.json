@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "e8aeed0291dbc3dd",
+      "title": "Omar Sanyang Says GALA Serves Gambians, Not Opposition Political Parties",
+      "summary": "By Fatou Sillah Omar Sanyang, Secretary General of Gambians Against Looted Assets (GALA), has dismissed claims that the movement is advancing the interests of opposition political parties, insisting that its campaign is driven by a commitment to accountability and the interest...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/omar-sanyang-says-gala-serves-gambians-not-opposition-political-parties/",
+      "publishedAt": "2026-10-26T22:29:06.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5d2042a8dcf9ea54",
       "title": "NDP Leader Accuses Interior Minister of Intimidating Opposition, Warns Against Continued Harassment",
       "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party (NDP), has accused Interior Minister Abdoulie Sanyang of intimidating opposition parties and interfering with their political activities, warning that continued harassment could provoke a confrontation...",
@@ -148,7 +171,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-21T07:26:33.411Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -169,7 +192,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -183,7 +206,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T19:50:25.917Z",
-    "count": 8
+    "generatedAt": "2026-10-26T23:45:42.811Z",
+    "count": 9
   }
 }

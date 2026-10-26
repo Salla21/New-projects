@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ae056430751dd9e0",
+      "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-cites-markets-sports-facilities-and-waste-management-reforms/",
+      "publishedAt": "2026-10-26T22:11:41.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5145758623f13daa",
       "title": "Higher Education Ministry Responds to UTG Protests, Minister Gomez to Visit Faraba Campus",
       "summary": "Written by: Seringe S.T. Touray The Ministry of Higher Education has promised further action following Monday’s major student protest at the University of The Gambia (UTG) in Kanifing, where hundreds demonstrated over worsening campus conditions and called for the resignation ...",
@@ -344,7 +368,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T19:50:25.917Z",
-    "count": 15
+    "generatedAt": "2026-10-26T23:45:42.811Z",
+    "count": 16
   }
 }

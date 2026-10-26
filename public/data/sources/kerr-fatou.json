@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "e8aeed0291dbc3dd",
+      "title": "Omar Sanyang Says GALA Serves Gambians, Not Opposition Political Parties",
+      "summary": "By Fatou Sillah Omar Sanyang, Secretary General of Gambians Against Looted Assets (GALA), has dismissed claims that the movement is advancing the interests of opposition political parties, insisting that its campaign is driven by a commitment to accountability and the interest...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/omar-sanyang-says-gala-serves-gambians-not-opposition-political-parties/",
+      "publishedAt": "2026-10-26T22:29:06.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ae056430751dd9e0",
+      "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-cites-markets-sports-facilities-and-waste-management-reforms/",
+      "publishedAt": "2026-10-26T22:11:41.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8a6a0ea78c96ec7a",
+      "title": "Sanyang Hails Coalition 2026 as Gambia’s Most Recognised Political Alliance, Rallies Support for Bensouda",
+      "summary": "By Fatou Sillah Yahya Menteng Sanyang, the National Assembly Member for Latrikunda Sabiji and Deputy Party Leader for Finance and Administration of the UNITE Party, has described Coalition 2026 as The Gambia’s most recognised political alliance, calling on political leaders an...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sanyang-hails-coalition-2026-as-gambias-most-recognised-political-alliance-rallies-support-for-bensouda/",
+      "publishedAt": "2026-10-26T20:58:05.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "508c02e37fd0408a",
+      "title": "MISPLACED PRIORITIES: Undervaluing Agriculture in the 2027 Budget",
+      "summary": "By Dr. Ousman Gajigo The Ministry of Finance has released the figures for the 2027 budget. As in previous years, there is much to criticize. For now, I will focus on the allocations to the Ministries of Agriculture and Foreign Affairs to illustrate the misplaced priorities and...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/misplaced-priorities-undervaluing-agriculture-in-the-2027-budget/",
+      "publishedAt": "2026-10-26T20:06:22.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "448cf20a3e646388",
       "title": "UTG Students Protest Over Worsening Conditions at Faraba Campus, Threaten to Suspend Lectures",
       "summary": "By Seedy Jobe The University of The Gambia Students’ Union (UTGSU) on Monday staged a protest at the university’s Peace Building campus in Kanifing, demanding urgent government intervention over deteriorating welfare conditions at the Faraba Banta campus and threatening to sus...",
@@ -1046,7 +1140,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T19:50:25.917Z",
-    "count": 45
+    "generatedAt": "2026-10-26T23:45:42.811Z",
+    "count": 49
   }
 }

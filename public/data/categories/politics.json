@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "e8aeed0291dbc3dd",
+      "title": "Omar Sanyang Says GALA Serves Gambians, Not Opposition Political Parties",
+      "summary": "By Fatou Sillah Omar Sanyang, Secretary General of Gambians Against Looted Assets (GALA), has dismissed claims that the movement is advancing the interests of opposition political parties, insisting that its campaign is driven by a commitment to accountability and the interest...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/omar-sanyang-says-gala-serves-gambians-not-opposition-political-parties/",
+      "publishedAt": "2026-10-26T22:29:06.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ae056430751dd9e0",
+      "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-cites-markets-sports-facilities-and-waste-management-reforms/",
+      "publishedAt": "2026-10-26T22:11:41.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8a6a0ea78c96ec7a",
+      "title": "Sanyang Hails Coalition 2026 as Gambia’s Most Recognised Political Alliance, Rallies Support for Bensouda",
+      "summary": "By Fatou Sillah Yahya Menteng Sanyang, the National Assembly Member for Latrikunda Sabiji and Deputy Party Leader for Finance and Administration of the UNITE Party, has described Coalition 2026 as The Gambia’s most recognised political alliance, calling on political leaders an...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sanyang-hails-coalition-2026-as-gambias-most-recognised-political-alliance-rallies-support-for-bensouda/",
+      "publishedAt": "2026-10-26T20:58:05.000Z",
+      "collectedAt": "2026-10-26T23:45:38.731Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5145758623f13daa",
       "title": "Higher Education Ministry Responds to UTG Protests, Minister Gomez to Visit Faraba Campus",
       "summary": "Written by: Seringe S.T. Touray The Ministry of Higher Education has promised further action following Monday’s major student protest at the University of The Gambia (UTG) in Kanifing, where hundreds demonstrated over worsening campus conditions and called for the resignation ...",
@@ -1787,53 +1858,6 @@
       "status": "published"
     },
     {
-      "id": "d499c1ec6fc6951c",
-      "title": "WHAT DOES TEAM GAMBIA GRAND COALITION 2026 HAVE TO OFFER?",
-      "summary": "At a press conference held at Tamala Beach Resort, the leadership of Team Gambia Grand Coalition 2026 spelt out the mission, vision and promises of the Coalition. VISION A peaceful, sovereign and prosperous Gambia is in view where power owned, freely and fairly entrusted by fi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-does-team-gambia-grand-coalition-2026-have-to-offer/",
-      "publishedAt": "2026-10-21T10:35:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "054a41521e52bebe",
-      "title": "NO NEED FOR THREATS",
-      "summary": "The presidential tour is an official engagement that is mandated by the Constitution of the Republic. It is meant to find out how the implementation of government policy impacts on the lives of the people in the country. It is also an opportunity for a government to explain it...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/no-need-for-threats/",
-      "publishedAt": "2026-10-21T10:33:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1842,7 +1866,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-26T19:50:18.684Z",
+      "collectedAt": "2026-10-26T23:45:35.984Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1858,7 +1882,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T19:50:25.917Z",
-    "count": 79
+    "generatedAt": "2026-10-26T23:45:42.811Z",
+    "count": 80
   }
 }
