@@ -311,34 +311,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "01e71cf8d0f42b7d",
-      "title": "Court orders IEC to remove Isatou Bah’s name from voter register",
-      "summary": "By Mariama Marong A magistrate has ordered Isatou Bah’s name removed from the voter register after immigration officials said they could not trace the serial number on the National Identity Card she used to register. Senior Magistrate Isatou Jallow made the ruling after hearin...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/court-orders-iec-to-remove-isatou-bahs-name-from-voter-register/",
-      "publishedAt": "2026-10-20T14:01:37.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T04:25:01.410Z",
-    "count": 14
+    "generatedAt": "2026-10-26T12:43:00.594Z",
+    "count": 13
   }
 }

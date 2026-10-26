@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "380db06bf2002b44",
+      "title": "Final Results of the Revising Courts",
+      "summary": "Basse, Brikama, Farafenni & Kanifing By Louise Jobe & Mariama Marong Revising court sittings have ended across The Gambia, with courts in different regions reviewing cases involving objections to voters’ registration and deciding whether the affected voters should remain on th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/final-results-of-the-revising-courts/",
+      "publishedAt": "2026-10-26T12:35:56.000Z",
+      "collectedAt": "2026-10-26T12:42:51.471Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9e184b54e393b4f2",
       "title": "Bensouda Pledges Tuition Support, Transport Solutions for UTG Students Under Coalition 2026 Government",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has pledged to address longstanding challenges facing students at the University of The Gambia (UTG), promising tuition assistance, improved public transporta...",
@@ -277,7 +300,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T04:25:01.410Z",
-    "count": 12
+    "generatedAt": "2026-10-26T12:43:00.594Z",
+    "count": 13
   }
 }

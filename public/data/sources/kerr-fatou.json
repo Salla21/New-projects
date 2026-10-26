@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4b328a49402c4c2d",
+      "title": "Bensouda Vows to Scrap Securiport Contract and End D1,000 Airport Security Fee",
+      "summary": "By Staff Writer Talib Ahmed Bensouda, leader of Coalition 2026, has pledged to terminate the government’s controversial contract with Securiport and abolish the D1,000 airport security fee imposed on passengers arriving in and departing from The Gambia. Mr. Bensouda made the p...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-scrap-securiport-contract-and-end-d1000-airport-security-fee/",
+      "publishedAt": "2026-10-26T05:02:08.000Z",
+      "collectedAt": "2026-10-26T12:42:56.482Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "066e2bcc3ade235b",
       "title": "Darboe Urges UDP Supporters to Set Aside Political Grudges and Win Over Opponents",
       "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), A.N.M. Ousainu Darboe, has urged his supporters to put aside political grudges and reach out to members of rival parties, stressing that winning over new supporters is essential to the p...",
@@ -1112,54 +1136,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "49250b71a3a5f82f",
-      "title": "Sidia Jatta Calls for Collective Action to Free Gambia From Poverty and Injustice",
-      "summary": "By Makutu Manneh Sidia Jatta, a veteran politician and coordinator of the Team Gambia Grand Coalition, has urged Gambians to take collective responsibility for tackling poverty, ignorance, and injustice, arguing that national transformation cannot be left to politicians alone....",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sidia-jatta-calls-for-collective-action-to-free-gambia-from-poverty-and-injustice/",
-      "publishedAt": "2026-10-20T16:26:43.000Z",
-      "collectedAt": "2026-10-20T16:47:07.748Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "93955073bb25eba5",
-      "title": "PAP Leader Says Party Will Not Sacrifice Integrity for Money or Political Appointments",
-      "summary": "By Seedy Jobe Ebrima Tabora Manneh, leader of the People’s Alliance Party (PAP), has vowed that his party will not compromise its principles for financial incentives or political appointments, insisting that integrity and honesty remain central to its political identity. Speak...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/pap-leader-says-party-will-not-sacrifice-integrity-for-money-or-political-appointments/",
-      "publishedAt": "2026-10-20T16:15:32.000Z",
-      "collectedAt": "2026-10-20T16:47:07.748Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T04:25:01.410Z",
-    "count": 50
+    "generatedAt": "2026-10-26T12:43:00.594Z",
+    "count": 49
   }
 }

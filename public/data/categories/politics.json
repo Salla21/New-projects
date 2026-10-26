@@ -1,6 +1,192 @@
 {
   "items": [
     {
+      "id": "380db06bf2002b44",
+      "title": "Final Results of the Revising Courts",
+      "summary": "Basse, Brikama, Farafenni & Kanifing By Louise Jobe & Mariama Marong Revising court sittings have ended across The Gambia, with courts in different regions reviewing cases involving objections to voters’ registration and deciding whether the affected voters should remain on th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/final-results-of-the-revising-courts/",
+      "publishedAt": "2026-10-26T12:35:56.000Z",
+      "collectedAt": "2026-10-26T12:42:51.471Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f54ce8566f608672",
+      "title": "Court Orders Bubacarr Baldeh’s Removal from Voter List",
+      "summary": "By Louise Jobe The Basse Revising Court has ordered the removal of Bubacarr Baldeh’s name from the voter list after finding that the Alkalo attestation he used for registration was defective. Senior Magistrate M. S. Dem delivered the judgment on 22 September 2026 in case numbe...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/court-orders-bubacarr-baldehs-removal-from-voter-list/",
+      "publishedAt": "2026-10-26T12:33:53.000Z",
+      "collectedAt": "2026-10-26T12:42:51.471Z",
+      "region": "upper-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f29cfb9f58bafeff",
+      "title": "Basse Court Orders Removal of Voter from Register Over Defective Birth Certificate",
+      "summary": "By Louise Jobe A magistrate at the Basse Revising Court has ordered the removal of a registered voter from the voter list after finding that the birth certificate presented during registration was not sealed by the Registrar of Births. Senior Magistrate M. S. Dem made the ruli...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/basse-court-orders-removal-of-voter-from-register-over-defective-birth-certificate/",
+      "publishedAt": "2026-10-26T12:24:30.000Z",
+      "collectedAt": "2026-10-26T12:42:51.471Z",
+      "region": "upper-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2f3019dd9f990a9f",
+      "title": "Basse Court Orders Removal of Voter in Tumana Constituency Over Unsigned Alkalo Attestation",
+      "summary": "By Louise Jobe A magistrate at the Basse Revising Court has ordered the removal of Maimuna Jawo from the voter list after finding that the attestation she used to register lacked the signature or thumbprint of the issuing Alkalo. Senior Magistrate M. S. Dem made the ruling on ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/basse-court-orders-removal-of-voter-in-tumana-constituency-over-unsigned-alkalo-attestation/",
+      "publishedAt": "2026-10-26T12:21:41.000Z",
+      "collectedAt": "2026-10-26T12:42:51.471Z",
+      "region": "upper-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "172d725ed7bf7719",
+      "title": "Government Spent D785 Million on Diesel Subsidies Between March & September 2026",
+      "summary": "By Kebba A.F. Touray The Government of The Gambia provided D785.13 million in subsidies for diesel and D42.46 million for petrol between March and September 2026 to reduce the impact of rising fuel prices, Finance Minister Seedy Keita has told the National Assembly. Mr Keita m...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-spent-d785-million-on-diesel-subsidies-between-march-september-2026-2/",
+      "publishedAt": "2026-10-26T12:12:10.000Z",
+      "collectedAt": "2026-10-26T12:42:51.471Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fc1689bfe6bdc0f3",
+      "title": "THE REVISING COURTS ARE DONE, WHAT IS NEXT?",
+      "summary": "From 8th April to 21st May the Independent Electoral Commission (IEC) conducted a supplementary registration of voters to enable those who were not registered in 2021 to be registered as voters which would enable them to vote at presidential, national assembly, mayoral/chairpe...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-revising-courts-are-done-what-is-next/",
+      "publishedAt": "2026-10-26T11:45:25.000Z",
+      "collectedAt": "2026-10-26T12:42:51.471Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b5b570fd85efe9e7",
+      "title": "LESSONS FROM THE REVISING COURTS",
+      "summary": "We can learn two important lessons from the testimonies of witnesses during proceedings of the revising courts, which clearly indicate the need for electoral reform. They expose a broken system of registration of voters which can be abused by politicians, especially those in t...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/lessons-from-the-revising-courts/",
+      "publishedAt": "2026-10-26T11:44:16.000Z",
+      "collectedAt": "2026-10-26T12:42:51.471Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4b328a49402c4c2d",
+      "title": "Bensouda Vows to Scrap Securiport Contract and End D1,000 Airport Security Fee",
+      "summary": "By Staff Writer Talib Ahmed Bensouda, leader of Coalition 2026, has pledged to terminate the government’s controversial contract with Securiport and abolish the D1,000 airport security fee imposed on passengers arriving in and departing from The Gambia. Mr. Bensouda made the p...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-scrap-securiport-contract-and-end-d1000-airport-security-fee/",
+      "publishedAt": "2026-10-26T05:02:08.000Z",
+      "collectedAt": "2026-10-26T12:42:56.482Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "066e2bcc3ade235b",
       "title": "Darboe Urges UDP Supporters to Set Aside Political Grudges and Win Over Opponents",
       "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), A.N.M. Ousainu Darboe, has urged his supporters to put aside political grudges and reach out to members of rival parties, stressing that winning over new supporters is essential to the p...",
@@ -1716,145 +1902,6 @@
       "status": "published"
     },
     {
-      "id": "49250b71a3a5f82f",
-      "title": "Sidia Jatta Calls for Collective Action to Free Gambia From Poverty and Injustice",
-      "summary": "By Makutu Manneh Sidia Jatta, a veteran politician and coordinator of the Team Gambia Grand Coalition, has urged Gambians to take collective responsibility for tackling poverty, ignorance, and injustice, arguing that national transformation cannot be left to politicians alone....",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sidia-jatta-calls-for-collective-action-to-free-gambia-from-poverty-and-injustice/",
-      "publishedAt": "2026-10-20T16:26:43.000Z",
-      "collectedAt": "2026-10-20T16:47:07.748Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e4a8facb5023a67f",
-      "title": "“Team Gambia is Prepared to Give Gambia a New Start with Clean Hands”",
-      "summary": "By Yankuba Jallow Honourable Halifa Sallah, one of the coordinators of the Team Gambia Grand Coalition, said the group is preparing to contest the December 2026 presidential election and wants to “give Gambia a new start with clean hands”. Speaking at a press conference held a...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/team-gambia-is-prepared-to-give-gambia-a-new-start-with-clean-hands/",
-      "publishedAt": "2026-10-20T14:08:49.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a86785042784a01b",
-      "title": "Sidia Jatta says poverty and injustice have grown despite 61 years of promises",
-      "summary": "By Yankuba Jallow Team Gambia Grand Coalition coordinator Sidia Jatta said poverty and injustice have increased in The Gambia despite decades of promises by successive governments to tackle them. Speaking at a press conference on 19 October 2026, Honourable Jatta said the coal...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/sidia-jatta-says-poverty-and-injustice-have-grown-despite-61-years-of-promises/",
-      "publishedAt": "2026-10-20T14:08:16.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3a223c44df74e9d8",
-      "title": "Marakissa Ward Residents Call for Feeder Roads, Electricity & Skills Centres",
-      "summary": "By Assan Bah Residents of Marakissa Ward in the West Coast Region have appealed to President Adama Barrow’s government to improve feeder roads, extend electricity to unserved communities and provide more development projects. The appeals were made on Wednesday, 14 October, dur...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/marakissa-ward-residents-call-for-feeder-roads-electricity-skills-centres/",
-      "publishedAt": "2026-10-20T14:07:09.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "01e71cf8d0f42b7d",
-      "title": "Court orders IEC to remove Isatou Bah’s name from voter register",
-      "summary": "By Mariama Marong A magistrate has ordered Isatou Bah’s name removed from the voter register after immigration officials said they could not trace the serial number on the National Identity Card she used to register. Senior Magistrate Isatou Jallow made the ruling after hearin...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/court-orders-iec-to-remove-isatou-bahs-name-from-voter-register/",
-      "publishedAt": "2026-10-20T14:01:37.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "aedb22b2e950cb87",
-      "title": "Court rejects Bubacarr Jaiteh’s challenge to Mandou Jallow’s voter registration",
-      "summary": "By Mariama Marong The Brusubi Revising Court has dismissed Bubacarr Jaiteh’s objection to Mandou Jallow’s voter registration, ruling that Jaiteh did not prove Jallow was ineligible to remain on the voters’ list. Magistrate Mam Samba Jallow said Jaiteh had not shown that Jallow...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/court-rejects-bubacarr-jaitehs-challenge-to-mandou-jallows-voter-registration/",
-      "publishedAt": "2026-10-20T13:58:24.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1863,7 +1910,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-26T04:24:51.049Z",
+      "collectedAt": "2026-10-26T12:42:51.658Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1879,7 +1926,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T04:25:01.410Z",
-    "count": 80
+    "generatedAt": "2026-10-26T12:43:00.594Z",
+    "count": 82
   }
 }

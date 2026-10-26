@@ -343,56 +343,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a86785042784a01b",
-      "title": "Sidia Jatta says poverty and injustice have grown despite 61 years of promises",
-      "summary": "By Yankuba Jallow Team Gambia Grand Coalition coordinator Sidia Jatta said poverty and injustice have increased in The Gambia despite decades of promises by successive governments to tackle them. Speaking at a press conference on 19 October 2026, Honourable Jatta said the coal...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/sidia-jatta-says-poverty-and-injustice-have-grown-despite-61-years-of-promises/",
-      "publishedAt": "2026-10-20T14:08:16.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3a223c44df74e9d8",
-      "title": "Marakissa Ward Residents Call for Feeder Roads, Electricity & Skills Centres",
-      "summary": "By Assan Bah Residents of Marakissa Ward in the West Coast Region have appealed to President Adama Barrow’s government to improve feeder roads, extend electricity to unserved communities and provide more development projects. The appeals were made on Wednesday, 14 October, dur...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/marakissa-ward-residents-call-for-feeder-roads-electricity-skills-centres/",
-      "publishedAt": "2026-10-20T14:07:09.000Z",
-      "collectedAt": "2026-10-20T16:46:01.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T04:25:01.410Z",
-    "count": 17
+    "generatedAt": "2026-10-26T12:43:00.594Z",
+    "count": 15
   }
 }
