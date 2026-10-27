@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "31780dc8015b74f3",
+      "title": "‘85.9% of Gambian Domestic Workers Work without Written Contracts’",
+      "summary": "By Mariama Marong  Dr. Fatima Diallo, the executive director of the Centre for Research and Action for Development and Human Rights (CRADESC), said 85.9 per cent of domestic workers in The Gambia work without written employment contracts; thus exposing them to legal insecurity...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/85-9-of-gambian-domestic-workers-work-without-written-contracts/",
+      "publishedAt": "2026-10-27T14:07:09.000Z",
+      "collectedAt": "2026-10-27T17:54:06.295Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ae056430751dd9e0",
       "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
@@ -610,7 +633,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-27T11:57:50.469Z",
+      "collectedAt": "2026-10-27T17:54:06.492Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -633,7 +656,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-27T11:57:50.469Z",
+      "collectedAt": "2026-10-27T17:54:06.492Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -656,7 +679,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-27T11:57:50.469Z",
+      "collectedAt": "2026-10-27T17:54:06.492Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -672,7 +695,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T11:58:09.302Z",
-    "count": 28
+    "generatedAt": "2026-10-27T17:54:24.684Z",
+    "count": 29
   }
 }

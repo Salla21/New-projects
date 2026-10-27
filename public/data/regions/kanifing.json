@@ -298,77 +298,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d0b92f73b560efcb",
-      "title": "Woman Jailed for Three Years for Stealing Three-Day-Old Baby",
-      "summary": "By Mariama Marong A woman has been sentenced to three years in prison for stealing a three-day-old baby, with the court ordering her to pay D100,000 in compensation to the child’s parents. The sentence was handed down by Magistrate Bittaye at the Bundung Magistrates’ Court aft...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/woman-jailed-for-three-years-for-stealing-three-day-old-baby/",
-      "publishedAt": "2026-10-21T12:00:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c8dbb9cee53fd1de",
-      "title": "Revising Court Rejects Challenge to Modou Dalla’s Voter Registration in Kololi",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Modou Dalla’s voter registration, ruling that the objector failed to provide sufficient evidence to prove that he was not a Gambian citizen. In a judgment delivered by Magistrate Isatou Jallow, the cou...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/revising-court-rejects-challenge-to-modou-dallas-voter-registration-in-kololi/",
-      "publishedAt": "2026-10-21T11:59:10.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b8c805089d157995",
-      "title": "Kanifing Court Rejects Challenge to Isatou Bah’s Voter Registration",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Isatou Bah’s voter registration, ruling that the evidence presented was insufficient to prove that she was not a Gambian citizen. The ruling, delivered by Magistrate Mam Samba Jallow at the Brusubi Rev...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/kanifing-court-rejects-challenge-to-isatou-bahs-voter-registration/",
-      "publishedAt": "2026-10-21T11:56:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T11:58:09.302Z",
-    "count": 16
+    "generatedAt": "2026-10-27T17:54:24.684Z",
+    "count": 13
   }
 }

@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "754cc6f3e65553fb",
+      "title": "More Border Pillars Discovered in Sandu District",
+      "summary": "By Hatab Nyang Updates from the National Centre for Arts and Culture (NCAC), the Joint Technical Teams of the Boundary Commissions of The Gambia and Senegal, have reached the Fourth Priority Area of their demarcation exercise in Sandu, in the Upper River Region. Here, the long...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/more-border-pillars-discovered-in-sandu-district/",
+      "publishedAt": "2026-10-27T14:09:26.000Z",
+      "collectedAt": "2026-10-27T17:54:06.295Z",
+      "region": "upper-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9d1cb4759ede754b",
+      "title": "Nigerian Woman Challenges 21-Year Sentence for Human Trafficking in The Gambia",
+      "summary": "By Mariama Marong A Nigerian woman sentenced to 21 years in prison for human trafficking in The Gambia has appealed against her conviction and sentence at the High Court in Banjul. Obanla Damilola Beatrice’s appeal is before Justice Sonia, following her conviction on 28 March ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nigerian-woman-challenges-21-year-sentence-for-human-trafficking-in-the-gambia/",
+      "publishedAt": "2026-10-27T13:01:01.000Z",
+      "collectedAt": "2026-10-27T17:54:06.295Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0f8b22b72ca623da",
       "title": "“You Must Come Out and Take the Bullets. That’s Leadership,” Minister Gomez Tells Protesting UTG Students",
       "summary": "By Seedy Jobe The Minister of Higher Education, Research, Science, and Technology, Professor Pierre Gomez, has pledged to address the grievances of University of The Gambia (UTG) students following a protest over deteriorating conditions at the university’s Faraba Banta campus...",
@@ -269,34 +315,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ba3fed1a7ec9960d",
-      "title": "Reparations Commission Confirms Receiving $2.57 Million from United States",
-      "summary": "Press Release, BANJUL, THE GAMBIA, 20 October 2026 – The Gambia Reparations Commission is pleased to inform victims, survivors and the public that it has received a total of USD 2,573,414.10 (Two Million, Five Hundred and Seventy-Three Thousand, Four Hundred and Fourteen Unite...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/reparations-commission-confirms-receiving-2-57-million-from-united-states/",
-      "publishedAt": "2026-10-21T11:53:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T11:58:09.302Z",
-    "count": 12
+    "generatedAt": "2026-10-27T17:54:24.684Z",
+    "count": 13
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "754cc6f3e65553fb",
+      "title": "More Border Pillars Discovered in Sandu District",
+      "summary": "By Hatab Nyang Updates from the National Centre for Arts and Culture (NCAC), the Joint Technical Teams of the Boundary Commissions of The Gambia and Senegal, have reached the Fourth Priority Area of their demarcation exercise in Sandu, in the Upper River Region. Here, the long...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/more-border-pillars-discovered-in-sandu-district/",
+      "publishedAt": "2026-10-27T14:09:26.000Z",
+      "collectedAt": "2026-10-27T17:54:06.295Z",
+      "region": "upper-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f54ce8566f608672",
       "title": "Court Orders Bubacarr Baldeh’s Removal from Voter List",
       "summary": "By Louise Jobe The Basse Revising Court has ordered the removal of Bubacarr Baldeh’s name from the voter list after finding that the Alkalo attestation he used for registration was defective. Senior Magistrate M. S. Dem delivered the judgment on 22 September 2026 in case numbe...",
@@ -118,7 +141,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T11:58:09.302Z",
-    "count": 5
+    "generatedAt": "2026-10-27T17:54:24.684Z",
+    "count": 6
   }
 }
