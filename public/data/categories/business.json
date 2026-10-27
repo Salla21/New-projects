@@ -602,30 +602,6 @@
       "status": "published"
     },
     {
-      "id": "f0e24cd8655ce986",
-      "title": "Old Yundum Residents Seek Hospital, Football Stadiums and End to Jabang Land Disputes",
-      "summary": "By Assan Bah Residents of Old Yundum Constituency have appealed to the government to build a hospital, develop football stadiums and resolve long-standing land disputes in Jabang, as they called for further investment in roads, public safety and community facilities. The reque...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/old-yundum-residents-seek-hospital-football-stadiums-and-end-to-jabang-land-disputes/",
-      "publishedAt": "2026-10-21T11:40:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "bbc6204f2840fde3",
       "title": "Sister in Trouble After Bailing Thief Brother",
       "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
@@ -634,7 +610,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-26T23:45:35.984Z",
+      "collectedAt": "2026-10-27T04:41:32.237Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -657,7 +633,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-26T23:45:35.984Z",
+      "collectedAt": "2026-10-27T04:41:32.237Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -680,7 +656,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
       "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-26T23:45:35.984Z",
+      "collectedAt": "2026-10-27T04:41:32.237Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -696,7 +672,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T23:45:42.811Z",
-    "count": 29
+    "generatedAt": "2026-10-27T04:42:41.574Z",
+    "count": 28
   }
 }

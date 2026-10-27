@@ -1812,52 +1812,6 @@
       "status": "published"
     },
     {
-      "id": "96a36b31660af47f",
-      "title": "National Assembly Refers Bill on Legislative Powers and Immunities for Further Scrutiny",
-      "summary": "By Kebba A.F. Touray The National Assembly has referred the National Assembly Powers and Privileges Bill, 2026, to the Assembly Business Committee (ABC) for further consideration, following its presentation for a second reading by Majority Leader Billay G. Tunkara. The bill se...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/national-assembly-refers-bill-on-legislative-powers-and-immunities-for-further-scrutiny/",
-      "publishedAt": "2026-10-21T11:49:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c89fddb203a417b6",
-      "title": "National Assembly Considers Bill to Strengthen Environmental Protection",
-      "summary": "By Kebba A.F. Touray The National Assembly is considering legislation aimed at strengthening environmental protection, safeguarding natural resources and making individuals and organisations more accountable for activities that damage the environment. The National Environment ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/national-assembly-considers-bill-to-strengthen-environmental-protection/",
-      "publishedAt": "2026-10-21T11:44:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1866,7 +1820,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-26T23:45:35.984Z",
+      "collectedAt": "2026-10-27T04:41:32.237Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1882,7 +1836,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-26T23:45:42.811Z",
-    "count": 80
+    "generatedAt": "2026-10-27T04:42:41.574Z",
+    "count": 78
   }
 }
