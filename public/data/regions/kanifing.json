@@ -254,54 +254,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4cbdd812e38536bc",
-      "title": "MRC Gambia Highlights Research Achievements, Contributions to Public Health at Annual Open Day",
-      "summary": "By Makutu Manneh The Medical Research Council Unit, The Gambia (MRCG), at the London School of Hygiene and Tropical Medicine, held its annual Open Day on Wednesday at its Fajara campus, showcasing scientific achievements and the institution’s contributions to public health in ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mrc-gambia-highlights-research-achievements-contributions-to-public-health-at-annual-open-day/",
-      "publishedAt": "2026-10-21T21:59:05.000Z",
-      "collectedAt": "2026-10-21T23:10:42.402Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "40b51f8437bca97f",
-      "title": "UNITE Coordinator Says Barrow Is “Losing Grip” of the Country, Not Just KMC",
-      "summary": "By Makutu Manneh Habib Ceesay, National Coordinator of the UNITE Party, has said President Adama Barrow is losing his grip on the country, not only on the Kanifing Municipality. Speaking on Kerr Fatou’s Politic Kachaa show, Mr. Ceesay said presidential addresses are expected t...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/unite-coordinator-says-barrow-is-losing-grip-of-the-country-not-just-kmc/",
-      "publishedAt": "2026-10-21T21:49:57.000Z",
-      "collectedAt": "2026-10-21T23:10:42.402Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T17:54:24.684Z",
-    "count": 13
+    "generatedAt": "2026-10-27T22:03:48.862Z",
+    "count": 11
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "93d18af4fd6b7c6b",
+      "title": "NDP Leader Urges Brikama Ba Residents to Vote for Candidates Who Will Defend Their Rights",
+      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party (NDP), has urged residents of Brikama Ba to support his party in the upcoming elections, promising that NDP representatives would champion their rights and address their concerns in the National Assemb...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-leader-urges-brikama-ba-residents-to-vote-for-candidates-who-will-defend-their-rights/",
+      "publishedAt": "2026-10-27T18:20:42.000Z",
+      "collectedAt": "2026-10-27T22:03:44.727Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e8aeed0291dbc3dd",
       "title": "Omar Sanyang Says GALA Serves Gambians, Not Opposition Political Parties",
       "summary": "By Fatou Sillah Omar Sanyang, Secretary General of Gambians Against Looted Assets (GALA), has dismissed claims that the movement is advancing the interests of opposition political parties, insisting that its campaign is driven by a commitment to accountability and the interest...",
@@ -117,52 +141,6 @@
       "status": "published"
     },
     {
-      "id": "f6369398fca67e4c",
-      "title": "Political Analyst Juwara Warns Barrow Against Invoking Jammeh-Era Repression",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara has cautioned President Adama Barrow against invoking the repressive practices of former President Yahya Jammeh when responding to citizens demanding government accountability, warning that such rhetoric undermines democratic pro...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-warns-barrow-against-invoking-jammeh-era-repression/",
-      "publishedAt": "2026-10-21T21:35:46.000Z",
-      "collectedAt": "2026-10-21T23:10:42.402Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "57945061c00603c8",
-      "title": "Analyst Warns Barrow Risks Losing Development Focus After a Decade in Power",
-      "summary": "By Makutu MannehPolitical analyst Lamin Juwara has warned that President Adama Barrow risks shifting his focus from national development to consolidating political power if he remains in office beyond a decade, a trend he said has undermined democratic governance across Africa...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/analyst-warns-barrow-risks-losing-development-focus-after-a-decade-in-power/",
-      "publishedAt": "2026-10-21T21:30:17.000Z",
-      "collectedAt": "2026-10-21T23:10:42.402Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -171,7 +149,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-27T17:54:06.492Z",
+      "collectedAt": "2026-10-27T22:03:42.511Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -192,7 +170,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
       "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-27T17:54:06.492Z",
+      "collectedAt": "2026-10-27T22:03:42.511Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -206,7 +184,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T17:54:24.684Z",
-    "count": 9
+    "generatedAt": "2026-10-27T22:03:48.862Z",
+    "count": 8
   }
 }

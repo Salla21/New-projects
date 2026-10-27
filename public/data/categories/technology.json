@@ -290,35 +290,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7010ee41af4dfa56",
-      "title": "Trade Minister Rules Out Ban on Bottled Water Imports, Pledges Support for Local Producers",
-      "summary": "By Fatou Sillah The Gambia’s Minister of Trade, Industry, Regional Integration and Employment, Mod K. Ceesay, has ruled out banning imported bottled water to protect domestic manufacturers, arguing that such restrictions would undermine the country’s participation in regional ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/trade-minister-rules-out-ban-on-bottled-water-imports-pledges-support-for-local-producers/",
-      "publishedAt": "2026-10-21T22:10:00.000Z",
-      "collectedAt": "2026-10-21T23:10:42.402Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T17:54:24.684Z",
-    "count": 13
+    "generatedAt": "2026-10-27T22:03:48.862Z",
+    "count": 12
   }
 }

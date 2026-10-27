@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "f441adc5333f3d0d",
+      "title": "Banjul Mayor Rohey Lowe Seeks Court Order to Halt Commission Findings as State Challenges Appeal",
+      "summary": "Banjul Mayor Rohey Malick Lowe has asked The Gambia’s Court of Appeal to suspend the adverse findings and recommendations made against her by the Commission of Inquiry into Local Government Councils, as the Attorney General challenges her application, arguing that it is premat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/banjul-mayor-rohey-lowe-seeks-court-order-to-halt-commission-findings-as-state-challenges-appeal/",
+      "publishedAt": "2026-10-27T18:16:29.000Z",
+      "collectedAt": "2026-10-27T22:03:44.727Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0d94d73e76909491",
       "title": "Barrow Inaugurates Over 104km of Roads in URR and LRR, Promises Development Across Gambia",
       "summary": "Written by: Mama A. Touray President Adama Barrow has inaugurated more than 104 kilometres of roads in the Upper River Region (URR) and Lower River Region (LRR), promising to extend infrastructure development to communities across The Gambia. The two government-funded projects...",
@@ -305,27 +326,6 @@
       "status": "published"
     },
     {
-      "id": "4cbdd812e38536bc",
-      "title": "MRC Gambia Highlights Research Achievements, Contributions to Public Health at Annual Open Day",
-      "summary": "By Makutu Manneh The Medical Research Council Unit, The Gambia (MRCG), at the London School of Hygiene and Tropical Medicine, held its annual Open Day on Wednesday at its Fajara campus, showcasing scientific achievements and the institution’s contributions to public health in ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mrc-gambia-highlights-research-achievements-contributions-to-public-health-at-annual-open-day/",
-      "publishedAt": "2026-10-21T21:59:05.000Z",
-      "collectedAt": "2026-10-21T23:10:42.402Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -334,7 +334,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-27T17:54:06.492Z",
+      "collectedAt": "2026-10-27T22:03:42.511Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -348,7 +348,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T17:54:24.684Z",
+    "generatedAt": "2026-10-27T22:03:48.862Z",
     "count": 15
   }
 }

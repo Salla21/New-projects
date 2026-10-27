@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "7682f67631ad4b68",
+      "title": "“President Barrow Has Never Been Angry at Citizens,” Mballow Says as He Claims NPP Support Is Growing in KMC",
+      "summary": "By Seedy Jobe Presidential Adviser Saihou Mballow has defended President Adama Barrow against accusations that he threatened citizens during his recent Meet the People Tour in Banjul, insisting that the president’s remarks were misunderstood and that he has never expressed ang...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-has-never-been-angry-at-citizens-mballow-says-as-he-claims-npp-support-is-growing-in-kmc/",
+      "publishedAt": "2026-10-27T19:31:09.000Z",
+      "collectedAt": "2026-10-27T22:03:44.727Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "066e2bcc3ade235b",
       "title": "Darboe Urges UDP Supporters to Set Aside Political Grudges and Win Over Opponents",
       "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), A.N.M. Ousainu Darboe, has urged his supporters to put aside political grudges and reach out to members of rival parties, stressing that winning over new supporters is essential to the p...",
@@ -239,34 +264,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6982aa2df02983e3",
-      "title": "SSHFC Introduces Taye Sama Social Security Scheme to Women Gardeners in Abuko",
-      "summary": "By Fatou Sillah The Social Security and Housing Finance Corporation (SSHFC) on Wednesday introduced its Taye Sama social security scheme to women gardeners in Abuko, as part of efforts to extend financial protection to workers in The Gambia’s informal economy. The initiative, ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sshfc-introduces-taye-sama-social-security-scheme-to-women-gardeners-in-abuko/",
-      "publishedAt": "2026-10-21T22:18:54.000Z",
-      "collectedAt": "2026-10-21T23:10:42.402Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T17:54:24.684Z",
+    "generatedAt": "2026-10-27T22:03:48.862Z",
     "count": 11
   }
 }
