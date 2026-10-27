@@ -1,6 +1,121 @@
 {
   "items": [
     {
+      "id": "bfc32c2a9dc25a70",
+      "title": "“Our Lawmakers Have Failed This Country,” NDP Leader Kebba Madi Bojang Says",
+      "summary": "Written by: Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has accused The Gambia’s National Assembly of failing to protect citizens and hold the government accountable, promising major legal and institutional reforms if elected president. Speaking at a ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/our-lawmakers-have-failed-this-country-ndp-leader-kebba-madi-bojang-says/",
+      "publishedAt": "2026-10-27T11:03:00.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0d94d73e76909491",
+      "title": "Barrow Inaugurates Over 104km of Roads in URR and LRR, Promises Development Across Gambia",
+      "summary": "Written by: Mama A. Touray President Adama Barrow has inaugurated more than 104 kilometres of roads in the Upper River Region (URR) and Lower River Region (LRR), promising to extend infrastructure development to communities across The Gambia. The two government-funded projects...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-inaugurates-over-104km-of-roads-in-urr-and-lrr-promises-development-across-gambia/",
+      "publishedAt": "2026-10-27T10:56:51.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
+      "region": "lower-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d3fc36d39cfe425b",
+      "title": "Gambia Climbs in Global Rule of Law Rankings but Remains Below 2020 Position",
+      "summary": "Written by: Seringe S.T. Touray The Gambia has climbed three places in the latest Rule of Law Index published by the World Justice Project (WJP), an independent international organisation that measures the rule of law worldwide. The country ranks 86th out of 143 countries in 2...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-climbs-in-global-rule-of-law-rankings-but-remains-below-2020-position/",
+      "publishedAt": "2026-10-27T10:41:53.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fb63ade5b1322b74",
+      "title": "IS THE POLITICS OF ISSUES GAINING PROMINENCE?",
+      "summary": "At a given time, there were forbidden exchanges between the opposition and the ruling coalition manifesting themselves in the form of subterfuges, tirades, mudslinging and what not. Such exchanges are contrary to the code of ethics of the IEC. Only politicians who have nothing...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-the-politics-of-issues-gaining-prominence/",
+      "publishedAt": "2026-10-27T09:14:23.000Z",
+      "collectedAt": "2026-10-27T11:57:50.175Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1fd6d88faaa07720",
+      "title": "CITIZENSHIP ISSUE MUST BE RESOLVED",
+      "summary": "Many people believe that they are citizens while they are not. Being born in The Gambia does not automatically make you a citizen of The Gambia. One of your grand parents or parents must have been born in The Gambia, if you were born before the 1997 Constitution came into forc...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/citizenship-issue-must-be-resolved/",
+      "publishedAt": "2026-10-27T09:13:10.000Z",
+      "collectedAt": "2026-10-27T11:57:50.175Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e8aeed0291dbc3dd",
       "title": "Omar Sanyang Says GALA Serves Gambians, Not Opposition Political Parties",
       "summary": "By Fatou Sillah Omar Sanyang, Secretary General of Gambians Against Looted Assets (GALA), has dismissed claims that the movement is advancing the interests of opposition political parties, insisting that its campaign is driven by a commitment to accountability and the interest...",
@@ -320,81 +435,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fc1689bfe6bdc0f3",
-      "title": "THE REVISING COURTS ARE DONE, WHAT IS NEXT?",
-      "summary": "From 8th April to 21st May the Independent Electoral Commission (IEC) conducted a supplementary registration of voters to enable those who were not registered in 2021 to be registered as voters which would enable them to vote at presidential, national assembly, mayoral/chairpe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-revising-courts-are-done-what-is-next/",
-      "publishedAt": "2026-10-26T11:45:25.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b5b570fd85efe9e7",
-      "title": "LESSONS FROM THE REVISING COURTS",
-      "summary": "We can learn two important lessons from the testimonies of witnesses during proceedings of the revising courts, which clearly indicate the need for electoral reform. They expose a broken system of registration of voters which can be abused by politicians, especially those in t...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/lessons-from-the-revising-courts/",
-      "publishedAt": "2026-10-26T11:44:16.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4b328a49402c4c2d",
-      "title": "Bensouda Vows to Scrap Securiport Contract and End D1,000 Airport Security Fee",
-      "summary": "By Staff Writer Talib Ahmed Bensouda, leader of Coalition 2026, has pledged to terminate the government’s controversial contract with Securiport and abolish the D1,000 airport security fee imposed on passengers arriving in and departing from The Gambia. Mr. Bensouda made the p...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-scrap-securiport-contract-and-end-d1000-airport-security-fee/",
-      "publishedAt": "2026-10-26T05:02:08.000Z",
-      "collectedAt": "2026-10-26T12:42:56.482Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T04:42:41.574Z",
-    "count": 17
+    "generatedAt": "2026-10-27T11:58:09.302Z",
+    "count": 19
   }
 }

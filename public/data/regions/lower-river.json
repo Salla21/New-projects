@@ -1,31 +1,31 @@
 {
   "items": [
     {
-      "id": "0bdbf5f755f14d52",
-      "title": "Drivers in Soma Raise Alarm Over Fuel Costs, Senegambia Bridge Toll",
-      "summary": "By Eliman Sowe Commercial drivers in Soma have raised concerns over rising fuel prices, the cost of crossing the Senegambia Bridge and what they describe as unequal treatment of different types of public transport vehicles. Drivers who spoke to Hilltop FM said the rising cost ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/drivers-in-soma-raise-alarm-over-fuel-costs-senegambia-bridge-toll/",
-      "publishedAt": "2026-09-29T14:40:50.000Z",
-      "collectedAt": "2026-09-29T16:27:45.418Z",
+      "id": "0d94d73e76909491",
+      "title": "Barrow Inaugurates Over 104km of Roads in URR and LRR, Promises Development Across Gambia",
+      "summary": "Written by: Mama A. Touray President Adama Barrow has inaugurated more than 104 kilometres of roads in the Upper River Region (URR) and Lower River Region (LRR), promising to extend infrastructure development to communities across The Gambia. The two government-funded projects...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-inaugurates-over-104km-of-roads-in-urr-and-lrr-promises-development-across-gambia/",
+      "publishedAt": "2026-10-27T10:56:51.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
       "region": "lower-river",
       "categories": [
-        "business"
+        "politics"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Sulayman Bah",
+      "author": "Seringe S.T. Touray",
       "language": "en",
-      "isGoodNews": false,
+      "isGoodNews": true,
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T11:30:35.981Z",
+    "generatedAt": "2026-10-27T11:58:09.302Z",
     "count": 1
   }
 }

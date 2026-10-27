@@ -1,6 +1,121 @@
 {
   "items": [
     {
+      "id": "bfc32c2a9dc25a70",
+      "title": "“Our Lawmakers Have Failed This Country,” NDP Leader Kebba Madi Bojang Says",
+      "summary": "Written by: Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has accused The Gambia’s National Assembly of failing to protect citizens and hold the government accountable, promising major legal and institutional reforms if elected president. Speaking at a ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/our-lawmakers-have-failed-this-country-ndp-leader-kebba-madi-bojang-says/",
+      "publishedAt": "2026-10-27T11:03:00.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0d94d73e76909491",
+      "title": "Barrow Inaugurates Over 104km of Roads in URR and LRR, Promises Development Across Gambia",
+      "summary": "Written by: Mama A. Touray President Adama Barrow has inaugurated more than 104 kilometres of roads in the Upper River Region (URR) and Lower River Region (LRR), promising to extend infrastructure development to communities across The Gambia. The two government-funded projects...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-inaugurates-over-104km-of-roads-in-urr-and-lrr-promises-development-across-gambia/",
+      "publishedAt": "2026-10-27T10:56:51.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
+      "region": "lower-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d3fc36d39cfe425b",
+      "title": "Gambia Climbs in Global Rule of Law Rankings but Remains Below 2020 Position",
+      "summary": "Written by: Seringe S.T. Touray The Gambia has climbed three places in the latest Rule of Law Index published by the World Justice Project (WJP), an independent international organisation that measures the rule of law worldwide. The country ranks 86th out of 143 countries in 2...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-climbs-in-global-rule-of-law-rankings-but-remains-below-2020-position/",
+      "publishedAt": "2026-10-27T10:41:53.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fb63ade5b1322b74",
+      "title": "IS THE POLITICS OF ISSUES GAINING PROMINENCE?",
+      "summary": "At a given time, there were forbidden exchanges between the opposition and the ruling coalition manifesting themselves in the form of subterfuges, tirades, mudslinging and what not. Such exchanges are contrary to the code of ethics of the IEC. Only politicians who have nothing...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-the-politics-of-issues-gaining-prominence/",
+      "publishedAt": "2026-10-27T09:14:23.000Z",
+      "collectedAt": "2026-10-27T11:57:50.175Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1fd6d88faaa07720",
+      "title": "CITIZENSHIP ISSUE MUST BE RESOLVED",
+      "summary": "Many people believe that they are citizens while they are not. Being born in The Gambia does not automatically make you a citizen of The Gambia. One of your grand parents or parents must have been born in The Gambia, if you were born before the 1997 Constitution came into forc...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/citizenship-issue-must-be-resolved/",
+      "publishedAt": "2026-10-27T09:13:10.000Z",
+      "collectedAt": "2026-10-27T11:57:50.175Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e8aeed0291dbc3dd",
       "title": "Omar Sanyang Says GALA Serves Gambians, Not Opposition Political Parties",
       "summary": "By Fatou Sillah Omar Sanyang, Secretary General of Gambians Against Looted Assets (GALA), has dismissed claims that the movement is advancing the interests of opposition political parties, insisting that its campaign is driven by a commitment to accountability and the interest...",
@@ -2205,125 +2320,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "33f20bedc3e9046c",
-      "title": "Darboe Reiterates One-Term Pledge: “That Is My Covenant With Gambians”",
-      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and leader Ousainou Darboe has reiterated his pledge to serve only one term if elected president in December, saying he will preside over a free and fair election and step down. Mr. Darboe made the remarks on Wednes...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-reiterates-one-term-pledge-that-is-my-covenant-with-gambians/",
-      "publishedAt": "2026-10-21T16:06:50.000Z",
-      "collectedAt": "2026-10-21T18:34:15.768Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d0b92f73b560efcb",
-      "title": "Woman Jailed for Three Years for Stealing Three-Day-Old Baby",
-      "summary": "By Mariama Marong A woman has been sentenced to three years in prison for stealing a three-day-old baby, with the court ordering her to pay D100,000 in compensation to the child’s parents. The sentence was handed down by Magistrate Bittaye at the Bundung Magistrates’ Court aft...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/woman-jailed-for-three-years-for-stealing-three-day-old-baby/",
-      "publishedAt": "2026-10-21T12:00:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c8dbb9cee53fd1de",
-      "title": "Revising Court Rejects Challenge to Modou Dalla’s Voter Registration in Kololi",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Modou Dalla’s voter registration, ruling that the objector failed to provide sufficient evidence to prove that he was not a Gambian citizen. In a judgment delivered by Magistrate Isatou Jallow, the cou...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/revising-court-rejects-challenge-to-modou-dallas-voter-registration-in-kololi/",
-      "publishedAt": "2026-10-21T11:59:10.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b8c805089d157995",
-      "title": "Kanifing Court Rejects Challenge to Isatou Bah’s Voter Registration",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Isatou Bah’s voter registration, ruling that the evidence presented was insufficient to prove that she was not a Gambian citizen. The ruling, delivered by Magistrate Mam Samba Jallow at the Brusubi Rev...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/kanifing-court-rejects-challenge-to-isatou-bahs-voter-registration/",
-      "publishedAt": "2026-10-21T11:56:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ba3fed1a7ec9960d",
-      "title": "Reparations Commission Confirms Receiving $2.57 Million from United States",
-      "summary": "Press Release, BANJUL, THE GAMBIA, 20 October 2026 – The Gambia Reparations Commission is pleased to inform victims, survivors and the public that it has received a total of USD 2,573,414.10 (Two Million, Five Hundred and Seventy-Three Thousand, Four Hundred and Fourteen Unite...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/reparations-commission-confirms-receiving-2-57-million-from-united-states/",
-      "publishedAt": "2026-10-21T11:53:00.000Z",
-      "collectedAt": "2026-10-21T18:34:04.691Z",
-      "region": "banjul",
-      "categories": [
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T04:42:41.574Z",
+    "generatedAt": "2026-10-27T11:58:09.302Z",
     "count": 100
   }
 }

@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "bfc32c2a9dc25a70",
+      "title": "“Our Lawmakers Have Failed This Country,” NDP Leader Kebba Madi Bojang Says",
+      "summary": "Written by: Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has accused The Gambia’s National Assembly of failing to protect citizens and hold the government accountable, promising major legal and institutional reforms if elected president. Speaking at a ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/our-lawmakers-have-failed-this-country-ndp-leader-kebba-madi-bojang-says/",
+      "publishedAt": "2026-10-27T11:03:00.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0d94d73e76909491",
+      "title": "Barrow Inaugurates Over 104km of Roads in URR and LRR, Promises Development Across Gambia",
+      "summary": "Written by: Mama A. Touray President Adama Barrow has inaugurated more than 104 kilometres of roads in the Upper River Region (URR) and Lower River Region (LRR), promising to extend infrastructure development to communities across The Gambia. The two government-funded projects...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-inaugurates-over-104km-of-roads-in-urr-and-lrr-promises-development-across-gambia/",
+      "publishedAt": "2026-10-27T10:56:51.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
+      "region": "lower-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d3fc36d39cfe425b",
+      "title": "Gambia Climbs in Global Rule of Law Rankings but Remains Below 2020 Position",
+      "summary": "Written by: Seringe S.T. Touray The Gambia has climbed three places in the latest Rule of Law Index published by the World Justice Project (WJP), an independent international organisation that measures the rule of law worldwide. The country ranks 86th out of 143 countries in 2...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-climbs-in-global-rule-of-law-rankings-but-remains-below-2020-position/",
+      "publishedAt": "2026-10-27T10:41:53.000Z",
+      "collectedAt": "2026-10-27T11:57:50.890Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5145758623f13daa",
       "title": "Higher Education Ministry Responds to UTG Protests, Minister Gomez to Visit Faraba Campus",
       "summary": "Written by: Seringe S.T. Touray The Ministry of Higher Education has promised further action following Monday’s major student protest at the University of The Gambia (UTG) in Kanifing, where hundreds demonstrated over worsening campus conditions and called for the resignation ...",
@@ -473,7 +542,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T04:42:41.574Z",
-    "count": 20
+    "generatedAt": "2026-10-27T11:58:09.302Z",
+    "count": 23
   }
 }
