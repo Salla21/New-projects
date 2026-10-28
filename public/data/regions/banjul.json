@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "3f8a6985fc45d680",
+      "title": "Government, GPU Continue Talks on Proposed Media Regulations, Ceesay Says",
+      "summary": "By Fatou Sillah The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, has said the government is continuing consultations with the Gambia Press Union (GPU) over proposed media regulations that have raised concerns among journalists and media organiz...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/government-gpu-continue-talks-on-proposed-media-regulations-ceesay-says/",
+      "publishedAt": "2026-10-28T21:39:34.000Z",
+      "collectedAt": "2026-10-28T23:58:24.949Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "109c2f3dc0331b37",
       "title": "Bitcoin Tower: Where Did the Missing D13 Million Go?",
       "summary": "Written by: Seringe S.T. Touray A new criminal complaint has raised fresh questions over D18 million recorded as development fees connected to The Gambia Tourism Board (GTBoard), after an independent audit found supporting receipts for only D5 million. Documentation supporting...",
@@ -1690,52 +1713,6 @@
       "status": "published"
     },
     {
-      "id": "fe7126c4bc28e8d1",
-      "title": "Almameh Gibba Says No-to-Alliance Will Not Make Jammeh a Condition for Opposition Coalition",
-      "summary": "By Makutu Manneh Almameh Gibba, leader of the No-to-Alliance movement and National Assembly member for Foni Kansala, has said the movement will not make the inclusion of former President Yahya Jammeh a precondition for joining an opposition coalition ahead of The Gambia’s pres...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/almameh-gibba-says-no-to-alliance-will-not-make-jammeh-a-condition-for-opposition-coalition/",
-      "publishedAt": "2026-10-22T19:53:13.000Z",
-      "collectedAt": "2026-10-22T21:26:46.487Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8b306234777e2658",
-      "title": "True Ownership of APRC Will Be Determined When Jammeh Returns, Gibba Says",
-      "summary": "By Makutu Manneh Almameh Gibba, the National Assembly member for Foni Kansala and flagbearer of the No-To-Alliance movement, has said the question of who legitimately controls the Alliance for Patriotic Reorientation and Construction (APRC) will be settled when former Presiden...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/true-ownership-of-aprc-will-be-determined-when-jammeh-returns-gibba-says/",
-      "publishedAt": "2026-10-22T19:44:53.000Z",
-      "collectedAt": "2026-10-22T21:26:46.487Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "87aa3ae25ef1f542",
       "title": "Fula Gangstar Wants to Make Peace With Star Girl as Fans Wait for the Full Story!",
       "summary": "What really went wrong between Fula Gangstar and Star Girl? That is the question on the…\nThe post Fula Gangstar Wants to Make Peace With Star Girl as Fans Wait for the Full Story! appeared first on What's On Gambia.",
@@ -1744,7 +1721,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/fula-gangstar-wants-to-make-peace-with-star-girl-as-fans-wait-for-the-full-story/",
       "publishedAt": "2026-10-21T02:21:43.000Z",
-      "collectedAt": "2026-10-28T19:26:15.705Z",
+      "collectedAt": "2026-10-28T23:58:22.891Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1765,7 +1742,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-28T19:26:15.705Z",
+      "collectedAt": "2026-10-28T23:58:22.891Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1786,7 +1763,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-28T19:26:15.705Z",
+      "collectedAt": "2026-10-28T23:58:22.891Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1809,7 +1786,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-28T19:26:15.705Z",
+      "collectedAt": "2026-10-28T23:58:22.891Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1832,7 +1809,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-28T19:26:15.705Z",
+      "collectedAt": "2026-10-28T23:58:22.891Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1848,7 +1825,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T19:26:21.361Z",
-    "count": 80
+    "generatedAt": "2026-10-28T23:58:29.007Z",
+    "count": 79
   }
 }

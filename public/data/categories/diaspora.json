@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "9db088204be1d884",
+      "title": "Gambia Immigration Department Intercepts 222 Suspected Irregular Migrants in Faraba and Sanyang",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 222 suspected irregular migrants in separate operations in Faraba and Sanyang, in the West Coast Region, as authorities intensify efforts to combat irregular migration. In a statement issued following the...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-222-suspected-irregular-migrants-in-faraba-and-sanyang/",
+      "publishedAt": "2026-10-28T21:31:05.000Z",
+      "collectedAt": "2026-10-28T23:58:24.949Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "74863db117530ee4",
       "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
       "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
@@ -196,7 +219,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T19:26:21.361Z",
-    "count": 8
+    "generatedAt": "2026-10-28T23:58:29.007Z",
+    "count": 9
   }
 }

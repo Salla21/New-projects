@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "0d63f6febaf320bc",
+      "title": "Bensouda: Coalition 2026 Will Remove Barrow at the Polls, Pledges Governance and Security Reforms",
+      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of Kanifing, has expressed confidence that his coalition will defeat President Adama Barrow in the December 5 presidential election, accusing the incumbent of reneging on promises to limit ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-coalition-2026-will-remove-barrow-at-the-polls-pledges-governance-and-security-reforms/",
+      "publishedAt": "2026-10-28T23:47:16.000Z",
+      "collectedAt": "2026-10-28T23:58:24.949Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "74863db117530ee4",
       "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
       "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
@@ -281,7 +304,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T19:26:21.361Z",
-    "count": 12
+    "generatedAt": "2026-10-28T23:58:29.007Z",
+    "count": 13
   }
 }

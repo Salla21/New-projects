@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "93697b69427ebc6e",
+      "title": "Political Analyst Juwara Predicts Tough Presidential Race for Barrow",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted a closely contested presidential election on December 5, warning that President Adama Barrow faces a difficult re-election battle amid shifting political dynamics. Speaking on Kerr Fatou’s Politic Kaacha show, Mr. J...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-predicts-tough-presidential-race-for-barrow/",
+      "publishedAt": "2026-10-28T21:45:49.000Z",
+      "collectedAt": "2026-10-28T23:58:24.949Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "edc22de0a8e3d8e2",
+      "title": "Juwara Calls for Reform of Law Restricting Parties From Challenging Ineligible Voters",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has called for reforms to The Gambia’s electoral laws, arguing that restrictions preventing political parties from directly challenging the eligibility of registered voters in court undermine the integrity of the electoral proces...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/juwara-calls-for-reform-of-law-restricting-parties-from-challenging-ineligible-voters/",
+      "publishedAt": "2026-10-28T21:08:21.000Z",
+      "collectedAt": "2026-10-28T23:58:24.949Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0ba30e01b3e22351",
       "title": "Cuba Denounces U.S. ‘Energy Siege’ as ‘Genocide’",
       "summary": "By Nelson Manneh  The Cuban Ambassador to The Gambia, Carmelina Ramirez Rodriguez, has strongly condemned the ongoing United States economic blockade against Cuba, labelling the restrictive measures an “act of genocide” specifically designed to orchestrate an energy siege on t...",
@@ -219,7 +267,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T19:26:21.361Z",
-    "count": 9
+    "generatedAt": "2026-10-28T23:58:29.007Z",
+    "count": 11
   }
 }
