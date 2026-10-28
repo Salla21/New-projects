@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b2b15408866d1b74",
+      "title": "Fishermen Call for Urgent Action to Protect Gambia’s Fish Stocks",
+      "summary": "By Madiba Singhateh Fishermen in The Gambia have called for stronger enforcement of fisheries laws and measures to stop illegal fishing and protect the country’s marine resources. The call was made at a two-day conference in Kanifing, which ended on 22 October 2026. Fishermen ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/fishermen-call-for-urgent-action-to-protect-gambias-fish-stocks/",
+      "publishedAt": "2026-10-28T12:19:00.000Z",
+      "collectedAt": "2026-10-28T12:35:40.529Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ae056430751dd9e0",
       "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
@@ -257,7 +280,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T05:17:47.824Z",
-    "count": 11
+    "generatedAt": "2026-10-28T12:36:18.598Z",
+    "count": 12
   }
 }

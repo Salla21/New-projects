@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "c98209e294f8855d",
+      "title": "‘Selective Cooperation Is Impunity by Another Name’ – Justice Minister Jallow Warns ICC Members",
+      "summary": "Written by: Dawda Baldeh The Gambia’s Justice Minister, Dawda Jallow, has warned that selective or delayed cooperation with the International Criminal Court (ICC) undermines accountability and allows perpetrators of serious international crimes to escape justice. “Cooperation ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/selective-cooperation-is-impunity-by-another-name-justice-minister-jallow-warns-icc-members/",
+      "publishedAt": "2026-10-28T11:18:52.000Z",
+      "collectedAt": "2026-10-28T12:35:41.382Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a524747a06ba6e4c",
+      "title": "Three-Year-Old Footballer at Centre of Row After Scoring 10 Goals in 12 Minutes",
+      "summary": "By Dawda Baldeh A three-year-old footballer in Florida has become the focus of an online controversy after his family was asked to leave a youth soccer match following a remarkable goal-scoring performance. According to his parents, Nevada, who was enrolled in an introductory ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/three-year-old-footballer-at-centre-of-row-after-scoring-10-goals-in-12-minutes/",
+      "publishedAt": "2026-10-28T11:04:51.000Z",
+      "collectedAt": "2026-10-28T12:35:41.382Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "05bc13125c1e13a3",
+      "title": "German Embassy backs Bright Stars show to promote peaceful elections",
+      "summary": "By Hadram Hydara The German Embassy in Banjul is supporting Bright Stars Entertainment as the main sponsor of its upcoming “Ranha Bissap” show as part of efforts to promote peaceful democratic participation ahead of The Gambia’s elections on December 5. The show is expected to...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/german-embassy-backs-bright-stars-show-to-promote-peaceful-elections/",
+      "publishedAt": "2026-10-28T10:52:50.000Z",
+      "collectedAt": "2026-10-28T12:35:41.382Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "06c74a51208cdbcd",
+      "title": "D59 Billion Govt. Budget Advances Without Debate",
+      "summary": "Written by: Seringe ST Touray Not a single National Assembly Member spoke when lawmakers were given the opportunity to debate the government’s proposed D59.24 billion budget for 2027 on Monday, allowing the bill to advance through its second reading without discussion. The sit...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/d59-billion-govt-budget-advances-without-debate/",
+      "publishedAt": "2026-10-28T10:09:14.000Z",
+      "collectedAt": "2026-10-28T12:35:41.382Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bfc32c2a9dc25a70",
       "title": "“Our Lawmakers Have Failed This Country,” NDP Leader Kebba Madi Bojang Says",
       "summary": "Written by: Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has accused The Gambia’s National Assembly of failing to protect citizens and hold the government accountable, promising major legal and institutional reforms if elected president. Speaking at a ...",
@@ -470,7 +564,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T05:17:47.824Z",
-    "count": 20
+    "generatedAt": "2026-10-28T12:36:18.598Z",
+    "count": 24
   }
 }

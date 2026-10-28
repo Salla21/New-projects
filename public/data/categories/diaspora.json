@@ -216,34 +216,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2bbd3b8376907ba1",
-      "title": "Guinean Man Sentenced to Eight Years for Raping 15-Year-Old Student",
-      "summary": "By Louise Jobe A Guinean national has been sentenced to eight years in prison for raping a 15-year-old grade nine student in the West Coast Region, after the court heard that the girl was about eight months pregnant. Yunusa Jaiteh was sentenced by Magistrate A. Darboe at the B...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/guinean-man-sentenced-to-eight-years-for-raping-15-year-old-student/",
-      "publishedAt": "2026-10-22T11:34:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T05:17:47.824Z",
-    "count": 10
+    "generatedAt": "2026-10-28T12:36:18.598Z",
+    "count": 9
   }
 }

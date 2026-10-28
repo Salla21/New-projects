@@ -373,101 +373,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "315a3327882835f7",
-      "title": "Trade Minister Rules Out Water Import Ban, Calls for Industry Expansion",
-      "summary": "By Kebba A.F. Touray The Gambia Government has no plans to restrict the importation of bottled water, Trade Minister Mod K. Ceesay has told the National Assembly, while encouraging local producers to expand their production capacity and explore markets across the region. Mr Ce...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/trade-minister-rules-out-water-import-ban-calls-for-industry-expansion/",
-      "publishedAt": "2026-10-22T11:48:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0885a31a8d46c945",
-      "title": "Ebrima Bah jailed for six years for raping 16-year-old girl",
-      "summary": "By Louise Jobe A man has been sentenced to six years in prison for raping a 16-year-old girl after using physical force against her. Ebrima Bah pleaded guilty to one count of rape, contrary to section 3(1) of the Sexual Offences Act 2013. He was sentenced on Tuesday, 20 Octobe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/ebrima-bah-jailed-for-six-years-for-raping-16-year-old-girl/",
-      "publishedAt": "2026-10-22T11:41:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6403c792b0b8eb02",
-      "title": "Cubans in The Gambia Celebrate National Culture Day and Birth of National Anthem",
-      "summary": "By Nelson Manneh The Cuban community in The Gambia has marked Cuba’s National Culture Day, celebrating the country’s history, music and cultural identity while highlighting its historical ties with Africa and The Gambia. The Cuban Embassy and the Cuban Medical Brigade in The G...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/cubans-in-the-gambia-celebrate-national-culture-day-and-birth-of-national-anthem/",
-      "publishedAt": "2026-10-22T11:36:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2bbd3b8376907ba1",
-      "title": "Guinean Man Sentenced to Eight Years for Raping 15-Year-Old Student",
-      "summary": "By Louise Jobe A Guinean national has been sentenced to eight years in prison for raping a 15-year-old grade nine student in the West Coast Region, after the court heard that the girl was about eight months pregnant. Yunusa Jaiteh was sentenced by Magistrate A. Darboe at the B...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/guinean-man-sentenced-to-eight-years-for-raping-15-year-old-student/",
-      "publishedAt": "2026-10-22T11:34:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T05:17:47.824Z",
-    "count": 20
+    "generatedAt": "2026-10-28T12:36:18.598Z",
+    "count": 16
   }
 }

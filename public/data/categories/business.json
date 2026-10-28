@@ -1,6 +1,127 @@
 {
   "items": [
     {
+      "id": "7caf3f57984c42a5",
+      "title": "UTG to Resume Lectures Today After Minister Gomez’s Intervention",
+      "summary": "University Takes  Steps to Address Student Grievances By Nelson Manneh Lectures at the University of The Gambia (UTG) are expected to resume on Wednesday after the university’s management announced steps to address student complaints about transport, food, water and internet a...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/utg-to-resume-lectures-today-after-minister-gomezs-intervention/",
+      "publishedAt": "2026-10-28T12:31:00.000Z",
+      "collectedAt": "2026-10-28T12:35:40.529Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a8955e316f09fff9",
+      "title": "National Assembly Approves D48.599 Billion Budget for 2027",
+      "summary": "By Kebba A.F. Touray The National Assembly of The Gambia has approved D48.599 billion in government spending for the 2027 fiscal year, covering the period from 1 January to 31 December 2027. The approval was made on Tuesday, 27 October 2026, by the Committee of Supply, also kn...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/national-assembly-approves-d48-599-billion-budget-for-2027/",
+      "publishedAt": "2026-10-28T12:24:00.000Z",
+      "collectedAt": "2026-10-28T12:35:40.529Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "05bc13125c1e13a3",
+      "title": "German Embassy backs Bright Stars show to promote peaceful elections",
+      "summary": "By Hadram Hydara The German Embassy in Banjul is supporting Bright Stars Entertainment as the main sponsor of its upcoming “Ranha Bissap” show as part of efforts to promote peaceful democratic participation ahead of The Gambia’s elections on December 5. The show is expected to...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/german-embassy-backs-bright-stars-show-to-promote-peaceful-elections/",
+      "publishedAt": "2026-10-28T10:52:50.000Z",
+      "collectedAt": "2026-10-28T12:35:41.382Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "06c74a51208cdbcd",
+      "title": "D59 Billion Govt. Budget Advances Without Debate",
+      "summary": "Written by: Seringe ST Touray Not a single National Assembly Member spoke when lawmakers were given the opportunity to debate the government’s proposed D59.24 billion budget for 2027 on Monday, allowing the bill to advance through its second reading without discussion. The sit...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/d59-billion-govt-budget-advances-without-debate/",
+      "publishedAt": "2026-10-28T10:09:14.000Z",
+      "collectedAt": "2026-10-28T12:35:41.382Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "56fe6a41448baacd",
+      "title": "EDUCATION IS A RIGHT, NOT A PRIVILEGE FOR THE FEW",
+      "summary": "Education is key to development and must be accessible to all and sundry. The 1997 Constitution recognizes this. It states in section 30 that, “All persons shall have the right to equal educational opportunities and facilities and with a view to achieving the full realisation ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/education-is-a-right-not-a-privilege-for-the-few/",
+      "publishedAt": "2026-10-28T09:04:00.000Z",
+      "collectedAt": "2026-10-28T12:35:40.529Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -623,31 +744,6 @@
       "status": "published"
     },
     {
-      "id": "315a3327882835f7",
-      "title": "Trade Minister Rules Out Water Import Ban, Calls for Industry Expansion",
-      "summary": "By Kebba A.F. Touray The Gambia Government has no plans to restrict the importation of bottled water, Trade Minister Mod K. Ceesay has told the National Assembly, while encouraging local producers to expand their production capacity and explore markets across the region. Mr Ce...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/trade-minister-rules-out-water-import-ban-calls-for-industry-expansion/",
-      "publishedAt": "2026-10-22T11:48:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "bbc6204f2840fde3",
       "title": "Sister in Trouble After Bailing Thief Brother",
       "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
@@ -656,7 +752,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-28T05:17:42.528Z",
+      "collectedAt": "2026-10-28T12:35:40.888Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -679,7 +775,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-28T05:17:42.528Z",
+      "collectedAt": "2026-10-28T12:35:40.888Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -695,7 +791,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T05:17:47.824Z",
-    "count": 29
+    "generatedAt": "2026-10-28T12:36:18.598Z",
+    "count": 33
   }
 }

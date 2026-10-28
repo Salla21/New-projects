@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "0ba30e01b3e22351",
+      "title": "Cuba Denounces U.S. ‘Energy Siege’ as ‘Genocide’",
+      "summary": "By Nelson Manneh  The Cuban Ambassador to The Gambia, Carmelina Ramirez Rodriguez, has strongly condemned the ongoing United States economic blockade against Cuba, labelling the restrictive measures an “act of genocide” specifically designed to orchestrate an energy siege on t...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/cuba-denounces-u-s-energy-siege-as-genocide/",
+      "publishedAt": "2026-10-28T12:34:00.000Z",
+      "collectedAt": "2026-10-28T12:35:40.529Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7caf3f57984c42a5",
+      "title": "UTG to Resume Lectures Today After Minister Gomez’s Intervention",
+      "summary": "University Takes  Steps to Address Student Grievances By Nelson Manneh Lectures at the University of The Gambia (UTG) are expected to resume on Wednesday after the university’s management announced steps to address student complaints about transport, food, water and internet a...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/utg-to-resume-lectures-today-after-minister-gomezs-intervention/",
+      "publishedAt": "2026-10-28T12:31:00.000Z",
+      "collectedAt": "2026-10-28T12:35:40.529Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "754cc6f3e65553fb",
       "title": "More Border Pillars Discovered in Sandu District",
       "summary": "By Hatab Nyang Updates from the National Centre for Arts and Culture (NCAC), the Joint Technical Teams of the Boundary Commissions of The Gambia and Senegal, have reached the Fourth Priority Area of their demarcation exercise in Sandu, in the Upper River Region. Here, the long...",
@@ -218,35 +266,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "315a3327882835f7",
-      "title": "Trade Minister Rules Out Water Import Ban, Calls for Industry Expansion",
-      "summary": "By Kebba A.F. Touray The Gambia Government has no plans to restrict the importation of bottled water, Trade Minister Mod K. Ceesay has told the National Assembly, while encouraging local producers to expand their production capacity and explore markets across the region. Mr Ce...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/trade-minister-rules-out-water-import-ban-calls-for-industry-expansion/",
-      "publishedAt": "2026-10-22T11:48:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T05:17:47.824Z",
-    "count": 10
+    "generatedAt": "2026-10-28T12:36:18.598Z",
+    "count": 11
   }
 }

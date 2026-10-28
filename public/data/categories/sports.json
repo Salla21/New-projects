@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "a524747a06ba6e4c",
+      "title": "Three-Year-Old Footballer at Centre of Row After Scoring 10 Goals in 12 Minutes",
+      "summary": "By Dawda Baldeh A three-year-old footballer in Florida has become the focus of an online controversy after his family was asked to leave a youth soccer match following a remarkable goal-scoring performance. According to his parents, Nevada, who was enrolled in an introductory ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/three-year-old-footballer-at-centre-of-row-after-scoring-10-goals-in-12-minutes/",
+      "publishedAt": "2026-10-28T11:04:51.000Z",
+      "collectedAt": "2026-10-28T12:35:41.382Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "85430ea908361de0",
       "title": "Young Scorpions Celebrate as Gambia Secures Another AFCON Qualification!",
       "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ dressing room erupted in celebration after The Gambia defeated Sierra Leone 2-0 in Sunday’s West African Football Union (WAFU) Zone A semifinal in Mali, securing a place in Friday’s final against Guinea and qualification for...",
@@ -74,7 +97,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T05:17:47.824Z",
-    "count": 3
+    "generatedAt": "2026-10-28T12:36:18.598Z",
+    "count": 4
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "91369ec99440f304",
+      "title": "Government Launches D25 Million Student Loan Scheme to Expand Access to Higher Education",
+      "summary": "By Ndey Sowe The Government of The Gambia has launched the Students Revolving Loan Scheme (SRLS), awarding D25 million in loans to the first beneficiaries to help students overcome financial barriers to higher education. The scheme and its Endowment Fund were launched on Tuesd...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-launches-d25-million-student-loan-scheme-to-expand-access-to-higher-education/",
+      "publishedAt": "2026-10-28T12:28:00.000Z",
+      "collectedAt": "2026-10-28T12:35:40.529Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f441adc5333f3d0d",
       "title": "Banjul Mayor Rohey Lowe Seeks Court Order to Halt Commission Findings as State Challenges Appeal",
       "summary": "Banjul Mayor Rohey Malick Lowe has asked The Gambia’s Court of Appeal to suspend the adverse findings and recommendations made against her by the Commission of Inquiry into Local Government Councils, as the Attorney General challenges her application, arguing that it is premat...",
@@ -281,27 +302,6 @@
       "status": "published"
     },
     {
-      "id": "6403c792b0b8eb02",
-      "title": "Cubans in The Gambia Celebrate National Culture Day and Birth of National Anthem",
-      "summary": "By Nelson Manneh The Cuban community in The Gambia has marked Cuba’s National Culture Day, celebrating the country’s history, music and cultural identity while highlighting its historical ties with Africa and The Gambia. The Cuban Embassy and the Cuban Medical Brigade in The G...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/cubans-in-the-gambia-celebrate-national-culture-day-and-birth-of-national-anthem/",
-      "publishedAt": "2026-10-22T11:36:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -310,7 +310,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-28T05:17:42.528Z",
+      "collectedAt": "2026-10-28T12:35:40.888Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -324,7 +324,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T05:17:47.824Z",
+    "generatedAt": "2026-10-28T12:36:18.598Z",
     "count": 14
   }
 }
