@@ -9,7 +9,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -32,7 +32,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -45,31 +45,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b24e187e8ed7b4cf",
-      "title": "Jakob Gambiano Confirms Nyancho’s Return to The Gambia",
-      "summary": "British-Gambian music promoter Jakob Gambiano has confirmed that Afro-Manding star Nyancho will soon return to The…\nThe post Jakob Gambiano Confirms Nyancho’s Return to The Gambia appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/jakob-gambiano-confirms-nyanchos-return-to-the-gambia/",
-      "publishedAt": "2026-10-07T02:53:55.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T22:03:48.862Z",
-    "count": 3
+    "generatedAt": "2026-10-28T05:17:47.824Z",
+    "count": 2
   }
 }

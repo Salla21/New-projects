@@ -1,29 +1,6 @@
 {
   "items": [
     {
-      "id": "bb96878cdaaeb32f",
-      "title": "Interior Minister Says Police Cannot Arrest Every Politician Over Divisive Remarks",
-      "summary": "By Fatou Sillah Gambia’s Interior Minister, Abdoulie Sanyang, has defended the police’s approach to inflammatory political rhetoric, saying authorities cannot arrest every politician who makes divisive remarks and are instead prioritizing dialogue to ease tensions ahead of the...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/interior-minister-says-police-cannot-arrest-every-politician-over-divisive-remarks/",
-      "publishedAt": "2026-10-21T22:31:30.000Z",
-      "collectedAt": "2026-10-21T23:10:42.402Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -32,7 +9,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -53,7 +30,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/fula-gangstar-wants-to-make-peace-with-star-girl-as-fans-wait-for-the-full-story/",
       "publishedAt": "2026-10-21T02:21:43.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -74,7 +51,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -95,7 +72,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -111,7 +88,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T22:03:48.862Z",
-    "count": 5
+    "generatedAt": "2026-10-28T05:17:47.824Z",
+    "count": 4
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "0fc306e42fa41a00",
+      "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
+      "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
+      "publishedAt": "2026-10-28T03:03:43.000Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7682f67631ad4b68",
       "title": "“President Barrow Has Never Been Angry at Citizens,” Mballow Says as He Claims NPP Support Is Growing in KMC",
       "summary": "By Seedy Jobe Presidential Adviser Saihou Mballow has defended President Adama Barrow against accusations that he threatened citizens during his recent Meet the People Tour in Banjul, insisting that the president’s remarks were misunderstood and that he has never expressed ang...",
@@ -633,7 +656,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -656,7 +679,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -669,33 +692,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "05ead3b24ccf582a",
-      "title": "Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel",
-      "summary": "The Gambia looks easy to navigate on a map. The country is narrow, the main tourism…\nThe post Getting Around The Gambia: Airport Transfers, Taxis, Ferries, Driving and Upcountry Travel appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/getting-around-the-gambia-airport-transfers-taxis-ferries-driving-and-upcountry-travel/",
-      "publishedAt": "2026-10-01T04:55:28.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Gainde",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T22:03:48.862Z",
+    "generatedAt": "2026-10-28T05:17:47.824Z",
     "count": 29
   }
 }

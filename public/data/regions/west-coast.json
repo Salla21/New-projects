@@ -94,53 +94,6 @@
       "status": "published"
     },
     {
-      "id": "d7afed2174025298",
-      "title": "New GFF President Kemo Ceesay Oversees Football Projects as Gambian Youth Teams Deliver Results",
-      "summary": "Written by: Seringe S.T. Touray Gambia Football Federation (GFF) President Kemo Ceesay has led a nationwide inspection of football development projects, just weeks after taking office on September 3rd, succeeding Lamin Kaba Bajo, who headed the federation for 12 years. Accompa...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/new-gff-president-kemo-ceesay-oversees-football-projects-as-gambian-youth-teams-deliver-results/",
-      "publishedAt": "2026-10-22T10:37:09.000Z",
-      "collectedAt": "2026-10-22T11:39:17.667Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bb96878cdaaeb32f",
-      "title": "Interior Minister Says Police Cannot Arrest Every Politician Over Divisive Remarks",
-      "summary": "By Fatou Sillah Gambia’s Interior Minister, Abdoulie Sanyang, has defended the police’s approach to inflammatory political rhetoric, saying authorities cannot arrest every politician who makes divisive remarks and are instead prioritizing dialogue to ease tensions ahead of the...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/interior-minister-says-police-cannot-arrest-every-politician-over-divisive-remarks/",
-      "publishedAt": "2026-10-21T22:31:30.000Z",
-      "collectedAt": "2026-10-21T23:10:42.402Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -149,7 +102,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
+      "collectedAt": "2026-10-28T05:17:42.528Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -160,31 +113,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f6861c48a452793d",
-      "title": "Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham",
-      "summary": "Londoners looking for a more hands-on connection to Gambian culture have a date to mark: Chef…\nThe post  Learn Gambian Cooking in London: Lamin’s October 23 Migrateful Class in Peckham appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/learn-gambian-cooking-in-london-lamins-october-23-migrateful-class-in-peckham/",
-      "publishedAt": "2026-10-01T04:46:21.000Z",
-      "collectedAt": "2026-10-27T22:03:42.511Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Gainde",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-27T22:03:48.862Z",
-    "count": 8
+    "generatedAt": "2026-10-28T05:17:47.824Z",
+    "count": 5
   }
 }
