@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "74863db117530ee4",
+      "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
+      "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/young-people-should-not-have-to-leave-to-succeed-mayor-bensouda-launches-migrant-support-hub/",
+      "publishedAt": "2026-10-28T13:04:33.000Z",
+      "collectedAt": "2026-10-28T19:26:15.929Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7682f67631ad4b68",
       "title": "“President Barrow Has Never Been Angry at Citizens,” Mballow Says as He Claims NPP Support Is Growing in KMC",
       "summary": "By Seedy Jobe Presidential Adviser Saihou Mballow has defended President Adama Barrow against accusations that he threatened citizens during his recent Meet the People Tour in Banjul, insisting that the president’s remarks were misunderstood and that he has never expressed ang...",
@@ -169,57 +193,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "16f0702c57a110bc",
-      "title": "Gambia Immigration Department Intercepts 125 Would-Be Migrants, Including 26 Minors",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 125 suspected irregular migrants, including 26 minors, in three separate operations, once again highlighting the involvement of children in attempts to undertake dangerous migration journeys. The intercep...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-125-would-be-migrants-including-26-minors/",
-      "publishedAt": "2026-10-22T17:40:48.000Z",
-      "collectedAt": "2026-10-22T21:26:46.487Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "133578e4c64ad677",
-      "title": "Darboe Vows to End Corruption, Wasteful Spending, and Ethnic Division if Elected President",
-      "summary": "By Seedy Jobe United Democratic Party (UDP) leader Ousainu Darboe has pledged to end corruption, wasteful public spending and ethnic division if elected president in the December 5 presidential election, accusing President Adama Barrow’s administration of perpetuating practice...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-vows-to-end-corruption-wasteful-spending-and-ethnic-division-if-elected-president/",
-      "publishedAt": "2026-10-22T16:53:18.000Z",
-      "collectedAt": "2026-10-22T17:04:19.273Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T12:36:18.598Z",
-    "count": 9
+    "generatedAt": "2026-10-28T19:26:21.361Z",
+    "count": 8
   }
 }

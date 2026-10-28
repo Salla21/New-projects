@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "74863db117530ee4",
+      "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
+      "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/young-people-should-not-have-to-leave-to-succeed-mayor-bensouda-launches-migrant-support-hub/",
+      "publishedAt": "2026-10-28T13:04:33.000Z",
+      "collectedAt": "2026-10-28T19:26:15.929Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b2b15408866d1b74",
       "title": "Fishermen Call for Urgent Action to Protect Gambia’s Fish Stocks",
       "summary": "By Madiba Singhateh Fishermen in The Gambia have called for stronger enforcement of fisheries laws and measures to stop illegal fishing and protect the country’s marine resources. The call was made at a two-day conference in Kanifing, which ended on 22 October 2026. Fishermen ...",
@@ -254,33 +278,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5110becaaa233ec4",
-      "title": "Kanifing Revising Court Dismisses Objection to Abdoulie Bah’s Voter Registration",
-      "summary": "By Mariama Marong The Kanifing Revising Court has dismissed an objection to Abdoulie Bah’s voter registration, ruling that suspicion alone cannot establish that a person is not a Gambian citizen. Magistrate Isatou Jallow delivered the ruling after considering an objection file...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/kanifing-revising-court-dismisses-objection-to-abdoulie-bahs-voter-registration/",
-      "publishedAt": "2026-10-22T12:05:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T12:36:18.598Z",
+    "generatedAt": "2026-10-28T19:26:21.361Z",
     "count": 12
   }
 }

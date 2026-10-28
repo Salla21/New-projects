@@ -216,60 +216,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "14c3def7098e8303",
-      "title": "Government rules out bottled water import ban, cites ECOWAS trade obligations",
-      "summary": "By Mama A. Touray The Gambian government has no plans to restrict or ban bottled water imports, Trade Minister Mod K. Ceesay has told parliament, arguing that regional trade rules prevent member states from closing their markets to goods produced within the ECOWAS bloc. Ceesay...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/government-rules-out-bottled-water-import-ban-cites-ecowas-trade-obligations/",
-      "publishedAt": "2026-10-22T18:23:25.000Z",
-      "collectedAt": "2026-10-22T21:26:45.591Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4dc403317a5a65c7",
-      "title": "Barrow Highlights Skills Training, Mini-Stadium Renovation and Water Projects During Banjul Visit",
-      "summary": "By Assan Bah President Adama Barrow has highlighted skills training, sports infrastructure and access to clean water as key areas of development during a series of visits to projects in Banjul. The President visited the Crab Island Technical and Vocational Education and Traini...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/barrow-highlights-skills-training-mini-stadium-renovation-and-water-projects-during-banjul-visit/",
-      "publishedAt": "2026-10-22T11:51:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T12:36:18.598Z",
-    "count": 11
+    "generatedAt": "2026-10-28T19:26:21.361Z",
+    "count": 9
   }
 }

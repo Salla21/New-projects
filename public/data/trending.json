@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "109c2f3dc0331b37",
+      "title": "Bitcoin Tower: Where Did the Missing D13 Million Go?",
+      "summary": "Written by: Seringe S.T. Touray A new criminal complaint has raised fresh questions over D18 million recorded as development fees connected to The Gambia Tourism Board (GTBoard), after an independent audit found supporting receipts for only D5 million. Documentation supporting...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-where-did-the-missing-d13-million-go/",
+      "publishedAt": "2026-10-28T14:16:29.000Z",
+      "collectedAt": "2026-10-28T19:26:15.929Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "74863db117530ee4",
+      "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
+      "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/young-people-should-not-have-to-leave-to-succeed-mayor-bensouda-launches-migrant-support-hub/",
+      "publishedAt": "2026-10-28T13:04:33.000Z",
+      "collectedAt": "2026-10-28T19:26:15.929Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0ba30e01b3e22351",
       "title": "Cuba Denounces U.S. ‘Energy Siege’ as ‘Genocide’",
       "summary": "By Nelson Manneh  The Cuban Ambassador to The Gambia, Carmelina Ramirez Rodriguez, has strongly condemned the ongoing United States economic blockade against Cuba, labelling the restrictive measures an “act of genocide” specifically designed to orchestrate an energy siege on t...",
@@ -392,80 +439,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "897586ff2a094193",
-      "title": "Halifa Sallah Urges Wuli Voters to Put Ideas Above Emotions Ahead of December Election",
-      "summary": "By Makutu Manneh Halifa Sallah, veteran Gambian politician and one of the architects of the Team Gambia Grand Coalition 2026, has urged residents of Wuli to make informed electoral choices based on ideas and policies rather than emotions or political loyalties. Speaking at a c...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/halifa-sallah-urges-wuli-voters-to-put-ideas-above-emotions-ahead-of-december-election/",
-      "publishedAt": "2026-10-27T19:24:52.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "802e6494ae84b37d",
-      "title": "National Assembly Approves D48.6 Billion Budget for 2027, With Debt Servicing Taking Largest Share",
-      "summary": "By Fatou Sillah The National Assembly on Tuesday passed the 2027 Appropriation Bill, approving D48.6 billion in government expenditure for the coming financial year, with debt servicing accounting for the largest share of the approved allocations. According to the approved bud...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/national-assembly-approves-d48-6-billion-budget-for-2027-with-debt-servicing-taking-largest-share/",
-      "publishedAt": "2026-10-27T19:16:32.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "129c4735784023c1",
-      "title": "Dr. Ceesay Condemns Students’ Treatment of Him During UTG Protest, Calls Actions Unacceptable",
-      "summary": "By Fatou Sillah Minister of Information, Media and Broadcasting Services Dr. Ismaila Ceesay has condemned the treatment he received from some University of The Gambia (UTG) students during Monday’s protest, describing their actions as unacceptable. Speaking in an interview wit...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-condemns-students-treatment-of-him-during-utg-protest-calls-actions-unacceptable/",
-      "publishedAt": "2026-10-27T18:47:56.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T12:36:18.598Z",
-    "count": 20
+    "generatedAt": "2026-10-28T19:26:21.361Z",
+    "count": 19
   }
 }

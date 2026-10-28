@@ -71,29 +71,6 @@
       "status": "published"
     },
     {
-      "id": "f3feb7642e5d7afc",
-      "title": "UDP’s Lamin Manneh, Rights Activist Madi Jobarteh Challenge IEC Over Voter Data Release",
-      "summary": "By Makutu Makutu Lamin Manneh, the United Democratic Party’s (UDP) deputy administrative secretary for external affairs, and prominent human rights activist Madi Jobarteh have questioned the Independent Electoral Commission’s (IEC) decision to withhold raw voter registration d...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-lamin-manneh-rights-activist-madi-jobarteh-challenge-iec-over-voter-data-release/",
-      "publishedAt": "2026-10-22T17:24:13.000Z",
-      "collectedAt": "2026-10-22T21:26:46.487Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -102,7 +79,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-28T12:35:40.888Z",
+      "collectedAt": "2026-10-28T19:26:15.705Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -116,7 +93,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T12:36:18.598Z",
-    "count": 5
+    "generatedAt": "2026-10-28T19:26:21.361Z",
+    "count": 4
   }
 }

@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "109c2f3dc0331b37",
+      "title": "Bitcoin Tower: Where Did the Missing D13 Million Go?",
+      "summary": "Written by: Seringe S.T. Touray A new criminal complaint has raised fresh questions over D18 million recorded as development fees connected to The Gambia Tourism Board (GTBoard), after an independent audit found supporting receipts for only D5 million. Documentation supporting...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-where-did-the-missing-d13-million-go/",
+      "publishedAt": "2026-10-28T14:16:29.000Z",
+      "collectedAt": "2026-10-28T19:26:15.929Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "74863db117530ee4",
+      "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
+      "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/young-people-should-not-have-to-leave-to-succeed-mayor-bensouda-launches-migrant-support-hub/",
+      "publishedAt": "2026-10-28T13:04:33.000Z",
+      "collectedAt": "2026-10-28T19:26:15.929Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "91369ec99440f304",
       "title": "Government Launches D25 Million Student Loan Scheme to Expand Access to Higher Education",
       "summary": "By Ndey Sowe The Government of The Gambia has launched the Students Revolving Loan Scheme (SRLS), awarding D25 million in loans to the first beneficiaries to help students overcome financial barriers to higher education. The scheme and its Endowment Fund were launched on Tuesd...",
@@ -279,29 +326,6 @@
       "status": "published"
     },
     {
-      "id": "c4724bb2b4085551",
-      "title": "Coalition 2026 Unveils Manifesto, Pledges Emergency Measures to Tackle Cost of Living",
-      "summary": "By Seedy Jobe Coalition 2026, led by Banjul Mayor Talib Ahmed Bensouda, launched its election manifesto on Thursday at the Atlantic Hotel in Banjul, outlining an ambitious agenda to address the rising cost of living, strengthen national security, reform public institutions, an...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/coalition-2026-unveils-manifesto-pledges-emergency-measures-to-tackle-cost-of-living/",
-      "publishedAt": "2026-10-22T17:35:40.000Z",
-      "collectedAt": "2026-10-22T21:26:46.487Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -310,7 +334,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-28T12:35:40.888Z",
+      "collectedAt": "2026-10-28T19:26:15.705Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -324,7 +348,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T12:36:18.598Z",
-    "count": 14
+    "generatedAt": "2026-10-28T19:26:21.361Z",
+    "count": 15
   }
 }

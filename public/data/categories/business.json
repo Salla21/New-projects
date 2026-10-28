@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "109c2f3dc0331b37",
+      "title": "Bitcoin Tower: Where Did the Missing D13 Million Go?",
+      "summary": "Written by: Seringe S.T. Touray A new criminal complaint has raised fresh questions over D18 million recorded as development fees connected to The Gambia Tourism Board (GTBoard), after an independent audit found supporting receipts for only D5 million. Documentation supporting...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-where-did-the-missing-d13-million-go/",
+      "publishedAt": "2026-10-28T14:16:29.000Z",
+      "collectedAt": "2026-10-28T19:26:15.929Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "74863db117530ee4",
+      "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
+      "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/young-people-should-not-have-to-leave-to-succeed-mayor-bensouda-launches-migrant-support-hub/",
+      "publishedAt": "2026-10-28T13:04:33.000Z",
+      "collectedAt": "2026-10-28T19:26:15.929Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7caf3f57984c42a5",
       "title": "UTG to Resume Lectures Today After Minister Gomez’s Intervention",
       "summary": "University Takes  Steps to Address Student Grievances By Nelson Manneh Lectures at the University of The Gambia (UTG) are expected to resume on Wednesday after the university’s management announced steps to address student complaints about transport, food, water and internet a...",
@@ -694,56 +741,6 @@
       "status": "published"
     },
     {
-      "id": "14c3def7098e8303",
-      "title": "Government rules out bottled water import ban, cites ECOWAS trade obligations",
-      "summary": "By Mama A. Touray The Gambian government has no plans to restrict or ban bottled water imports, Trade Minister Mod K. Ceesay has told parliament, arguing that regional trade rules prevent member states from closing their markets to goods produced within the ECOWAS bloc. Ceesay...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/government-rules-out-bottled-water-import-ban-cites-ecowas-trade-obligations/",
-      "publishedAt": "2026-10-22T18:23:25.000Z",
-      "collectedAt": "2026-10-22T21:26:45.591Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4dc403317a5a65c7",
-      "title": "Barrow Highlights Skills Training, Mini-Stadium Renovation and Water Projects During Banjul Visit",
-      "summary": "By Assan Bah President Adama Barrow has highlighted skills training, sports infrastructure and access to clean water as key areas of development during a series of visits to projects in Banjul. The President visited the Crab Island Technical and Vocational Education and Traini...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/barrow-highlights-skills-training-mini-stadium-renovation-and-water-projects-during-banjul-visit/",
-      "publishedAt": "2026-10-22T11:51:00.000Z",
-      "collectedAt": "2026-10-22T17:04:15.944Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "bbc6204f2840fde3",
       "title": "Sister in Trouble After Bailing Thief Brother",
       "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
@@ -752,7 +749,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-28T12:35:40.888Z",
+      "collectedAt": "2026-10-28T19:26:15.705Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -775,7 +772,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-28T12:35:40.888Z",
+      "collectedAt": "2026-10-28T19:26:15.705Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -791,7 +788,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T12:36:18.598Z",
+    "generatedAt": "2026-10-28T19:26:21.361Z",
     "count": 33
   }
 }
