@@ -1,6 +1,127 @@
 {
   "items": [
     {
+      "id": "69932cbc4cd4f3fd",
+      "title": "EU Pledges Long-Term Duty-Free Access as Africa Trade Hits €357 Billion",
+      "summary": "Trade Increases from €236 billion in 2016 to €357 billion in 2025 By Yankuba Jallow The European Union has reaffirmed its long-term commitment to Africa’s least-developed countries, promising to keep their exports flowing into the European market without tariffs or quotas as t...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/eu-pledges-long-term-duty-free-access-as-africa-trade-hits-e357-billion/",
+      "publishedAt": "2026-10-29T12:20:20.000Z",
+      "collectedAt": "2026-10-29T12:46:09.166Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a0f64845d93c475b",
+      "title": "Nyanga Bantaba & Saller Sports Threaten Legal Action Over Fake Scorpions Jerseys",
+      "summary": "By Nelson Manneh Nyanga Bantaba and Saller Sports, the official merchandisers and kit manufacturers of The Gambia’s national football teams, have threatened legal action against individuals and businesses producing or selling counterfeit Scorpions jerseys. The warning comes ah...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nyanga-bantaba-saller-sports-threaten-legal-action-over-fake-scorpions-jerseys/",
+      "publishedAt": "2026-10-29T11:51:59.000Z",
+      "collectedAt": "2026-10-29T12:46:09.166Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8fbb04e8d3d6c826",
+      "title": "National Assembly Questions Finance Minister Over D872m SSHFC Bus Loan",
+      "summary": "By Kebba A.F. Touray Lawmakers have questioned Finance Minister Seedy Keita over the repayment of a D872 million loan advanced by the Social Security and Housing Finance Corporation (SSHFC) to the government for the procurement of buses for the Gambia Transport Service Company...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/national-assembly-questions-finance-minister-over-d872m-sshfc-bus-loan/",
+      "publishedAt": "2026-10-29T11:48:26.000Z",
+      "collectedAt": "2026-10-29T12:46:09.166Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2e58e9cd3a3f214c",
+      "title": "WHAT ARE THE QUALIFICATIONS FOR ELECTION AS PRESIDENT?",
+      "summary": "Nomination of presidential candidates commences just five days from now and it is important that both candidate and electorate should be au fait with the qualifications and disqualifications of a candidate. The Constitution has listed the qualifications of a candidate for pres...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-are-the-qualifications-for-election-as-president/",
+      "publishedAt": "2026-10-29T10:41:19.000Z",
+      "collectedAt": "2026-10-29T12:46:09.166Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "67a676dea9f0c9bb",
+      "title": "NOMINATION OF CANDIDATES JUST DAYS AWAY",
+      "summary": "Nomination of candidates commences in five days’ time, 3rd November 2026 and ends on 14th November, 2026. In the final moments will there be any further movement in the coalition landscape? Time will tell. Candidates and their parties, movements and supporters are busy prepari...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nomination-of-candidates-just-days-away/",
+      "publishedAt": "2026-10-29T10:39:56.000Z",
+      "collectedAt": "2026-10-29T12:46:09.166Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "109c2f3dc0331b37",
       "title": "Bitcoin Tower: Where Did the Missing D13 Million Go?",
       "summary": "Written by: Seringe S.T. Touray A new criminal complaint has raised fresh questions over D18 million recorded as development fees connected to The Gambia Tourism Board (GTBoard), after an independent audit found supporting receipts for only D5 million. Documentation supporting...",
@@ -669,22 +790,45 @@
       "status": "published"
     },
     {
-      "id": "24147cafb3e63ab7",
-      "title": "‘We Are Eating Rice Meant for Horses’: Kebba Madi Bojang Slams Gov’t Over Substandard Imports, Vows Agricultural Revival",
-      "summary": "Written by: Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang opened his nationwide tour in Essau village with criticism of the government’s agricultural policies, accusing the authorities of neglecting ordinary Gambians and leaving them dependent on substa...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/we-are-eating-rice-meant-for-horses-kebba-madi-bojang-slams-govt-over-substandard-imports-vows-agricultural-revival/",
-      "publishedAt": "2026-10-23T10:28:51.000Z",
-      "collectedAt": "2026-10-23T13:18:36.027Z",
-      "region": "north-bank",
+      "id": "bbc6204f2840fde3",
+      "title": "Sister in Trouble After Bailing Thief Brother",
+      "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
+      "publishedAt": "2026-10-21T02:09:37.000Z",
+      "collectedAt": "2026-10-29T12:46:09.508Z",
+      "region": "banjul",
       "categories": [
         "business"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
+      "author": "Lamin Saidy",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "94e72689ed22da8f",
+      "title": "Why are young Gambians turning to laughing gas?",
+      "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
+      "publishedAt": "2026-10-07T02:57:36.000Z",
+      "collectedAt": "2026-10-29T12:46:09.508Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Lamin Saidy",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -693,7 +837,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T05:35:27.459Z",
-    "count": 29
+    "generatedAt": "2026-10-29T12:46:16.286Z",
+    "count": 35
   }
 }

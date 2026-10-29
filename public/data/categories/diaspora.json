@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "69932cbc4cd4f3fd",
+      "title": "EU Pledges Long-Term Duty-Free Access as Africa Trade Hits €357 Billion",
+      "summary": "Trade Increases from €236 billion in 2016 to €357 billion in 2025 By Yankuba Jallow The European Union has reaffirmed its long-term commitment to Africa’s least-developed countries, promising to keep their exports flowing into the European market without tariffs or quotas as t...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/eu-pledges-long-term-duty-free-access-as-africa-trade-hits-e357-billion/",
+      "publishedAt": "2026-10-29T12:20:20.000Z",
+      "collectedAt": "2026-10-29T12:46:09.166Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d6867d377516827f",
+      "title": "Darboe Promises 24-Hour Hospital Electricity, Better Healthcare if Elected President",
+      "summary": "Written by: Seringe S.T. Touray United Democratic Party (UDP) leader Ousainou Darboe has promised uninterrupted, 24-hour electricity for hospitals across The Gambia if elected president, as concerns persist over power outages at health facilities. Among the cases that drew pub...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-promises-24-hour-hospital-electricity-better-healthcare-if-elected-president/",
+      "publishedAt": "2026-10-29T11:39:59.000Z",
+      "collectedAt": "2026-10-29T12:46:09.973Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9db088204be1d884",
       "title": "Gambia Immigration Department Intercepts 222 Suspected Irregular Migrants in Faraba and Sanyang",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 222 suspected irregular migrants in separate operations in Faraba and Sanyang, in the West Coast Region, as authorities intensify efforts to combat irregular migration. In a statement issued following the...",
@@ -195,7 +244,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T05:35:27.459Z",
-    "count": 8
+    "generatedAt": "2026-10-29T12:46:16.286Z",
+    "count": 10
   }
 }

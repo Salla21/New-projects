@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "3fa64c76b08d6a8c",
+      "title": "19 Sierra Leoneans Seek Leniency Over Two-Year Sentence",
+      "summary": "By Mariama Marong Nineteen Sierra Leonean nationals sentenced to two years in prison for forcible detainer have appealed to the High Court for leniency, asking the court to reduce their sentences following their conviction over the occupation of a compound in Brusubi. The appe...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/19-sierra-leoneans-seek-leniency-over-two-year-sentence/",
+      "publishedAt": "2026-10-29T12:12:03.000Z",
+      "collectedAt": "2026-10-29T12:46:09.166Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "93697b69427ebc6e",
       "title": "Political Analyst Juwara Predicts Tough Presidential Race for Barrow",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted a closely contested presidential election on December 5, warning that President Adama Barrow faces a difficult re-election battle amid shifting political dynamics. Speaking on Kerr Fatou’s Politic Kaacha show, Mr. J...",
@@ -242,7 +265,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T05:35:27.459Z",
-    "count": 10
+    "generatedAt": "2026-10-29T12:46:16.286Z",
+    "count": 11
   }
 }

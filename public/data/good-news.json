@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "7e56524f4300ed40",
+      "title": "Gambia’s Malaria Deaths Fall From 70 in 2024 to 19 in 2025",
+      "summary": "Estimated 25,000 People Living With HIV/AIDS By Kebba A.F. Touray The Gambia recorded a decline in malaria deaths in 2025, with fatalities falling from 70 in 2024 to 19, according to Minister of Health, Dr Ahmed Lamin Samateh. The minister told the National Assembly on Wednesd...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambias-malaria-deaths-fall-from-70-in-2024-to-19-in-2025/",
+      "publishedAt": "2026-10-29T12:06:28.000Z",
+      "collectedAt": "2026-10-29T12:46:09.166Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "109c2f3dc0331b37",
       "title": "Bitcoin Tower: Where Did the Missing D13 Million Go?",
       "summary": "Written by: Seringe S.T. Touray A new criminal complaint has raised fresh questions over D18 million recorded as development fees connected to The Gambia Tourism Board (GTBoard), after an independent audit found supporting receipts for only D5 million. Documentation supporting...",
@@ -324,10 +347,31 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
+    },
+    {
+      "id": "8d7c0ba9c85e332c",
+      "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
+      "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
+      "publishedAt": "2026-10-21T02:16:54.000Z",
+      "collectedAt": "2026-10-29T12:46:09.508Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T05:35:27.459Z",
-    "count": 14
+    "generatedAt": "2026-10-29T12:46:16.286Z",
+    "count": 16
   }
 }

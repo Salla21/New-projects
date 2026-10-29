@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "a0f64845d93c475b",
+      "title": "Nyanga Bantaba & Saller Sports Threaten Legal Action Over Fake Scorpions Jerseys",
+      "summary": "By Nelson Manneh Nyanga Bantaba and Saller Sports, the official merchandisers and kit manufacturers of The Gambia’s national football teams, have threatened legal action against individuals and businesses producing or selling counterfeit Scorpions jerseys. The warning comes ah...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nyanga-bantaba-saller-sports-threaten-legal-action-over-fake-scorpions-jerseys/",
+      "publishedAt": "2026-10-29T11:51:59.000Z",
+      "collectedAt": "2026-10-29T12:46:09.166Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a524747a06ba6e4c",
       "title": "Three-Year-Old Footballer at Centre of Row After Scoring 10 Goals in 12 Minutes",
       "summary": "By Dawda Baldeh A three-year-old footballer in Florida has become the focus of an online controversy after his family was asked to leave a youth soccer match following a remarkable goal-scoring performance. According to his parents, Nevada, who was enrolled in an introductory ...",
@@ -97,7 +121,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T05:35:27.459Z",
-    "count": 4
+    "generatedAt": "2026-10-29T12:46:16.286Z",
+    "count": 5
   }
 }
