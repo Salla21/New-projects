@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "275d9d56397495e8",
+      "title": "Yakumba’s Nest Foundation Donates 50 Packs of Gloves to Banjulinding Health center",
+      "summary": "Yakumba’s Nest Foundation today donated 50 packs of gloves to Banjulinding Health center following concerns raised about a shortage of gloves at the facility. The donation came after Mr Sheriff Njie who appeared on Kuwonku TV and claimed that his brother’s wife had been referr...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/yakumbas-nest-foundation-donates-50-packs-of-gloves-to-banjulinding-health-center/",
+      "publishedAt": "2026-10-29T18:03:05.000Z",
+      "collectedAt": "2026-10-29T19:30:00.324Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0d9692ec36456caa",
+      "title": "Barrow Witnesses Signing of US$169 Million Solar Energy Deal to Boost Gambia’s Electricity Supply",
+      "summary": "Published by: The Fatu Network President Adama Barrow witnessed the signing of a US$169 million solar energy agreement at State House yesterday, a major investment expected to expand The Gambia’s electricity supply and reduce dependence on expensive fuel-powered generation. Th...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-witnesses-signing-of-us169-million-solar-energy-deal-to-boost-gambias-electricity-supply/",
+      "publishedAt": "2026-10-29T16:13:09.000Z",
+      "collectedAt": "2026-10-29T19:30:00.324Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7e56524f4300ed40",
       "title": "Gambia’s Malaria Deaths Fall From 70 in 2024 to 19 in 2025",
       "summary": "Estimated 25,000 People Living With HIV/AIDS By Kebba A.F. Touray The Gambia recorded a decline in malaria deaths in 2025, with fatalities falling from 70 in 2024 to 19, according to Minister of Health, Dr Ahmed Lamin Samateh. The minister told the National Assembly on Wednesd...",
@@ -325,30 +370,6 @@
       "status": "published"
     },
     {
-      "id": "e49d0efad1cd6e31",
-      "title": "Barrow Promises 180 kilometres of Roads for Kanifing Municipality",
-      "summary": "By Assan Bah President Adama Barrow has promised to oversee the construction of 180 kilometres of roads across Kanifing Municipality (KM), alongside improvements to water supply and the redevelopment of a football field in Manjai. The announcement followed appeals from residen...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/barrow-promises-180-kilometres-of-roads-for-kanifing-municipality/",
-      "publishedAt": "2026-10-23T12:05:00.000Z",
-      "collectedAt": "2026-10-23T13:18:35.189Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -357,7 +378,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-29T12:46:09.508Z",
+      "collectedAt": "2026-10-29T19:29:59.857Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -371,7 +392,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T12:46:16.286Z",
-    "count": 16
+    "generatedAt": "2026-10-29T19:32:47.469Z",
+    "count": 17
   }
 }

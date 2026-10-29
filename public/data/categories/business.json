@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "0d9692ec36456caa",
+      "title": "Barrow Witnesses Signing of US$169 Million Solar Energy Deal to Boost Gambia’s Electricity Supply",
+      "summary": "Published by: The Fatu Network President Adama Barrow witnessed the signing of a US$169 million solar energy agreement at State House yesterday, a major investment expected to expand The Gambia’s electricity supply and reduce dependence on expensive fuel-powered generation. Th...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-witnesses-signing-of-us169-million-solar-energy-deal-to-boost-gambias-electricity-supply/",
+      "publishedAt": "2026-10-29T16:13:09.000Z",
+      "collectedAt": "2026-10-29T19:30:00.324Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3d552eb5b37656e9",
+      "title": "Bensouda Promises to Scrap D1,000 Airport Fee, Terminate Securiport Agreement if Elected",
+      "summary": "Written by: Seringe S.T. Touray Kanifing Mayor and UNITE presidential candidate Talib Ahmed Bensouda has promised to abolish The Gambia’s controversial D1,000 airport security fee and terminate the government’s agreement with US-based company Securiport if elected president. T...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-promises-to-scrap-d1000-airport-fee-terminate-securiport-agreement-if-elected/",
+      "publishedAt": "2026-10-29T13:19:14.000Z",
+      "collectedAt": "2026-10-29T19:30:00.324Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "69932cbc4cd4f3fd",
       "title": "EU Pledges Long-Term Duty-Free Access as Africa Trade Hits €357 Billion",
       "summary": "Trade Increases from €236 billion in 2016 to €357 billion in 2025 By Yankuba Jallow The European Union has reaffirmed its long-term commitment to Africa’s least-developed countries, promising to keep their exports flowing into the European market without tariffs or quotas as t...",
@@ -719,77 +767,6 @@
       "status": "published"
     },
     {
-      "id": "73b307ae9d8ef37b",
-      "title": "Assan Martin: Bensouda Is the Leader; Gambia Needs to Revive Economy, Create Jobs",
-      "summary": "By Fatou Sillah Assan Martin, spokesperson for Coalition 2026, has described Talib Ahmed Bensouda as the leader The Gambia needs to revive its economy, create employment opportunities for young people, and address the country’s pressing development challenges. Speaking at a Co...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/assan-martin-bensouda-is-the-leader-gambia-needs-to-revive-economy-create-jobs/",
-      "publishedAt": "2026-10-23T18:44:06.000Z",
-      "collectedAt": "2026-10-23T23:03:53.112Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "79b408ce0eccd2f3",
-      "title": "Infrastructure drive raises hopes, but rural communities say hunger remains",
-      "summary": "By Nelson Manneh New roads, expanded electricity networks and modern public facilities are changing parts of The Gambia, but residents in some rural communities say the projects have yet to address their most urgent needs: food, farming support, affordable living costs and rel...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/infrastructure-drive-raises-hopes-but-rural-communities-say-hunger-remains/",
-      "publishedAt": "2026-10-23T12:11:00.000Z",
-      "collectedAt": "2026-10-23T13:18:35.189Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bead05d6eb415b9a",
-      "title": "Coalition 2026 Unveils 66-Point Manifesto, Promises Reforms on Cost of Living, Jobs & Governance",
-      "summary": "By Yankuba Jallow Talib Ahmed Bensouda, the mayor of Kanifing Municipality and flag bearer of Coalition 2026, has unveiled a 66-point manifesto promising reforms in the cost of living, public accountability, healthcare, education, security, agriculture and employment if the co...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/coalition-2026-unveils-66-point-manifesto-promises-reforms-on-cost-of-living-jobs-governance/",
-      "publishedAt": "2026-10-23T11:57:00.000Z",
-      "collectedAt": "2026-10-23T13:18:35.189Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "bbc6204f2840fde3",
       "title": "Sister in Trouble After Bailing Thief Brother",
       "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
@@ -798,7 +775,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-29T12:46:09.508Z",
+      "collectedAt": "2026-10-29T19:29:59.857Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -821,7 +798,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-29T12:46:09.508Z",
+      "collectedAt": "2026-10-29T19:29:59.857Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -837,7 +814,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T12:46:16.286Z",
-    "count": 35
+    "generatedAt": "2026-10-29T19:32:47.469Z",
+    "count": 34
   }
 }

@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "aaf3ff3f200479fb",
+      "title": "Bensouda Accuses Barrow Government of Politically Blocking Waste Project, Only to Sign Similar Deal Five Years Later",
+      "summary": "Written by: Seringe S.T. Touray Kanifing Mayor and UNITE presidential candidate Talib Ahmed Bensouda has accused President Adama Barrow’s government of blocking a major waste management project with Ghana’s Jospong Group five years ago, only to sign a US$46 million agreement w...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-accuses-barrow-government-of-politically-blocking-waste-project-only-to-sign-similar-deal-five-years-later/",
+      "publishedAt": "2026-10-29T15:21:14.000Z",
+      "collectedAt": "2026-10-29T19:30:00.324Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3d552eb5b37656e9",
+      "title": "Bensouda Promises to Scrap D1,000 Airport Fee, Terminate Securiport Agreement if Elected",
+      "summary": "Written by: Seringe S.T. Touray Kanifing Mayor and UNITE presidential candidate Talib Ahmed Bensouda has promised to abolish The Gambia’s controversial D1,000 airport security fee and terminate the government’s agreement with US-based company Securiport if elected president. T...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-promises-to-scrap-d1000-airport-fee-terminate-securiport-agreement-if-elected/",
+      "publishedAt": "2026-10-29T13:19:14.000Z",
+      "collectedAt": "2026-10-29T19:30:00.324Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0d63f6febaf320bc",
       "title": "Bensouda: Coalition 2026 Will Remove Barrow at the Polls, Pledges Governance and Security Reforms",
       "summary": "By Seedy Jobe Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of Kanifing, has expressed confidence that his coalition will defeat President Adama Barrow in the December 5 presidential election, accusing the incumbent of reneging on promises to limit ...",
@@ -230,81 +277,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f80263a018f7a349",
-      "title": "Only One Case Succeeds Before Magistrate Isatou Jallow After 65 Voter Objections",
-      "summary": "By Mariama Marong Sixty-four out of sixty-five voter objection cases brought before the Kanifing Revising Court presided over by Senior Magistrate Isatou Jallow-Sowe did not succeed. Magistrate Jallow has concluded hearing all the cases assigned to her. The revising courts beg...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/only-one-case-succeeds-before-magistrate-isatou-jallow-after-65-voter-objections/",
-      "publishedAt": "2026-10-23T12:16:00.000Z",
-      "collectedAt": "2026-10-23T13:18:35.189Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e49d0efad1cd6e31",
-      "title": "Barrow Promises 180 kilometres of Roads for Kanifing Municipality",
-      "summary": "By Assan Bah President Adama Barrow has promised to oversee the construction of 180 kilometres of roads across Kanifing Municipality (KM), alongside improvements to water supply and the redevelopment of a football field in Manjai. The announcement followed appeals from residen...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/barrow-promises-180-kilometres-of-roads-for-kanifing-municipality/",
-      "publishedAt": "2026-10-23T12:05:00.000Z",
-      "collectedAt": "2026-10-23T13:18:35.189Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bead05d6eb415b9a",
-      "title": "Coalition 2026 Unveils 66-Point Manifesto, Promises Reforms on Cost of Living, Jobs & Governance",
-      "summary": "By Yankuba Jallow Talib Ahmed Bensouda, the mayor of Kanifing Municipality and flag bearer of Coalition 2026, has unveiled a 66-point manifesto promising reforms in the cost of living, public accountability, healthcare, education, security, agriculture and employment if the co...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/coalition-2026-unveils-66-point-manifesto-promises-reforms-on-cost-of-living-jobs-governance/",
-      "publishedAt": "2026-10-23T11:57:00.000Z",
-      "collectedAt": "2026-10-23T13:18:35.189Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T12:46:16.286Z",
-    "count": 13
+    "generatedAt": "2026-10-29T19:32:47.469Z",
+    "count": 12
   }
 }

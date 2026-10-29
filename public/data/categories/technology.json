@@ -238,34 +238,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4a9034f5bb85ed9f",
-      "title": "A 1949 Law Is Still Running Our Murder Cases",
-      "summary": "Isatou Fatty Deserved Better By Sarjo Barrow, Esq. No criminal justice system is perfect, even in advanced countries. With limited resources and little modern technology, our police deserve credit for the cases they solve. That is why a story shared this week on the What’s On ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/a-1949-law-is-still-running-our-murder-cases/",
-      "publishedAt": "2026-10-23T17:47:46.000Z",
-      "collectedAt": "2026-10-23T18:13:52.440Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T12:46:16.286Z",
-    "count": 11
+    "generatedAt": "2026-10-29T19:32:47.469Z",
+    "count": 10
   }
 }

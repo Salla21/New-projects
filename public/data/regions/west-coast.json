@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "57386a89bea71919",
+      "title": "Gambia Steps Up Efforts to Reform Mental Health Care",
+      "summary": "By Kebba A.F. Touray The Gambia is taking steps to strengthen its legal and policy framework for mental health as authorities face continuing challenges in caring for people with mental health conditions found living on the streets. Health Minister Dr Ahmed Lamin Samateh told ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-steps-up-efforts-to-reform-mental-health-care/",
+      "publishedAt": "2026-10-29T12:30:00.000Z",
+      "collectedAt": "2026-10-29T19:29:59.441Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "93697b69427ebc6e",
       "title": "Political Analyst Juwara Predicts Tough Presidential Race for Barrow",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted a closely contested presidential election on December 5, warning that President Adama Barrow faces a difficult re-election battle amid shifting political dynamics. Speaking on Kerr Fatou’s Politic Kaacha show, Mr. J...",
@@ -173,7 +196,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-29T12:46:09.508Z",
+      "collectedAt": "2026-10-29T19:29:59.857Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -187,7 +210,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T12:46:16.286Z",
-    "count": 8
+    "generatedAt": "2026-10-29T19:32:47.469Z",
+    "count": 9
   }
 }
