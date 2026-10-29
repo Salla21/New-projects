@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "2bf133c575a2e06a",
+      "title": "United States Slaps Fresh Sanctions on President Paul Kagame’s Government Over Alleged Support for Congo Rebels",
+      "summary": "Written by: Seringe S.T. Touray The United States has imposed sanctions on President Paul Kagame’s Rwandan government, accusing its military of deploying thousands of troops into neighbouring Democratic Republic of Congo and helping armed M23 fighters seize cities and mineral-...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/united-states-slaps-fresh-sanctions-on-president-paul-kagames-government-over-alleged-support-for-congo-rebels/",
+      "publishedAt": "2026-10-29T20:51:42.000Z",
+      "collectedAt": "2026-10-29T23:53:47.619Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3bc6b41fa3a24bf8",
       "title": "Barrow Oversees US$46 Million Waste Management Deal, Plans to Close Bakoteh Dumpsite",
       "summary": "Written by: Seringe S.T. Touray President Adama Barrow has overseen the signing of a US$46 million waste management agreement with Ghana’s Jospong Group, with plans to close the Bakoteh dumpsite, establish modern waste treatment facilities and create thousands of jobs for Gamb...",
@@ -244,7 +269,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T19:32:47.469Z",
-    "count": 10
+    "generatedAt": "2026-10-29T23:54:05.377Z",
+    "count": 11
   }
 }

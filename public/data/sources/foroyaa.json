@@ -786,33 +786,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "cc9ab6ca4c7b2417",
-      "title": "Government Spent D785 Million on Diesel Subsidies Between March & September 2026",
-      "summary": "By Kebba AF Touray The Gambian government provided D785.13 million in subsidies for diesel and D42.46 million for petrol between March and September 2026 to reduce the impact of rising fuel prices, Finance Minister Seedy Keita has told the National Assembly. Mr Keita made the ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-spent-d785-million-on-diesel-subsidies-between-march-september-2026/",
-      "publishedAt": "2026-10-23T19:00:00.000Z",
-      "collectedAt": "2026-10-24T10:43:46.453Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T19:32:47.469Z",
-    "count": 35
+    "generatedAt": "2026-10-29T23:54:05.377Z",
+    "count": 34
   }
 }

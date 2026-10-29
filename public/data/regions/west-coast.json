@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "5a7f3d656e688a7f",
+      "title": "Health Minister Urges Compassion, End to HIV Stigma",
+      "summary": "By Fatou Sillah The Minister of Health, Dr. Ahmadou Lamin Samateh, has called for greater compassion and an end to discrimination against people living with HIV, stressing that everyone affected by the virus deserves dignity, medical care, and support, regardless of how they c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/health-minister-urges-compassion-end-to-hiv-stigma/",
+      "publishedAt": "2026-10-29T23:35:34.000Z",
+      "collectedAt": "2026-10-29T23:54:01.214Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "57386a89bea71919",
       "title": "Gambia Steps Up Efforts to Reform Mental Health Care",
       "summary": "By Kebba A.F. Touray The Gambia is taking steps to strengthen its legal and policy framework for mental health as authorities face continuing challenges in caring for people with mental health conditions found living on the streets. Health Minister Dr Ahmed Lamin Samateh told ...",
@@ -196,7 +220,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-29T19:29:59.857Z",
+      "collectedAt": "2026-10-29T23:53:47.316Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -210,7 +234,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T19:32:47.469Z",
-    "count": 9
+    "generatedAt": "2026-10-29T23:54:05.377Z",
+    "count": 10
   }
 }
