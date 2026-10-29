@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "092c959e0056f45f",
+      "title": "Bensouda: Barrow Government Turned Down My Jospong Waste Plan Five Years Ago for Political Reasons",
+      "summary": "By Seedy Jobe Coalition 2026 presidential candidate Talib Ahmed Bensouda has accused President Adama Barrow’s administration of rejecting a proposal to address The Gambia’s waste management crisis five years ago for political reasons, claiming that the government has now turne...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-barrow-government-turned-down-my-jospong-proposal-because-i-am-opposition/",
+      "publishedAt": "2026-10-29T00:43:57.000Z",
+      "collectedAt": "2026-10-29T05:35:23.347Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0d63f6febaf320bc",
       "title": "Bensouda: Coalition 2026 Will Remove Barrow at the Polls, Pledges Governance and Security Reforms",
       "summary": "By Seedy Jobe Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of Kanifing, has expressed confidence that his coalition will defeat President Adama Barrow in the December 5 presidential election, accusing the incumbent of reneging on promises to limit ...",
@@ -955,33 +978,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d62d3ac4a5eaa0ee",
-      "title": "Mayor Bensouda Says Gambians Have Right to Protest at State House Without Police Permit",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE and presidential candidate for Coalition 2026, has asserted that Gambians have a constitutional right to stage peaceful protests outside State House without obtaining a police permit. Speaking at a Coalition 2026 rally ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mayor-bensouda-says-gambians-have-right-to-protest-at-state-house-without-police-permit/",
-      "publishedAt": "2026-10-23T00:21:37.000Z",
-      "collectedAt": "2026-10-23T00:32:27.752Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T23:58:29.007Z",
+    "generatedAt": "2026-10-29T05:35:27.459Z",
     "count": 42
   }
 }

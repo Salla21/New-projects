@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "092c959e0056f45f",
+      "title": "Bensouda: Barrow Government Turned Down My Jospong Waste Plan Five Years Ago for Political Reasons",
+      "summary": "By Seedy Jobe Coalition 2026 presidential candidate Talib Ahmed Bensouda has accused President Adama Barrow’s administration of rejecting a proposal to address The Gambia’s waste management crisis five years ago for political reasons, claiming that the government has now turne...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-barrow-government-turned-down-my-jospong-proposal-because-i-am-opposition/",
+      "publishedAt": "2026-10-29T00:43:57.000Z",
+      "collectedAt": "2026-10-29T05:35:23.347Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0d63f6febaf320bc",
       "title": "Bensouda: Coalition 2026 Will Remove Barrow at the Polls, Pledges Governance and Security Reforms",
       "summary": "By Seedy Jobe Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of Kanifing, has expressed confidence that his coalition will defeat President Adama Barrow in the December 5 presidential election, accusing the incumbent of reneging on promises to limit ...",
@@ -2293,33 +2316,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "24147cafb3e63ab7",
-      "title": "‘We Are Eating Rice Meant for Horses’: Kebba Madi Bojang Slams Gov’t Over Substandard Imports, Vows Agricultural Revival",
-      "summary": "Written by: Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang opened his nationwide tour in Essau village with criticism of the government’s agricultural policies, accusing the authorities of neglecting ordinary Gambians and leaving them dependent on substa...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/we-are-eating-rice-meant-for-horses-kebba-madi-bojang-slams-govt-over-substandard-imports-vows-agricultural-revival/",
-      "publishedAt": "2026-10-23T10:28:51.000Z",
-      "collectedAt": "2026-10-23T13:18:36.027Z",
-      "region": "north-bank",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T23:58:29.007Z",
+    "generatedAt": "2026-10-29T05:35:27.459Z",
     "count": 100
   }
 }

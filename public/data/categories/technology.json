@@ -239,35 +239,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "aa273b8da1d4bf79",
-      "title": "A REPORT ON THE GROUND OF TEAM GAMBIA GRAND COALITION 2026 TOUR",
-      "summary": "This paper has emphasised that the 2026 presidential election is likely to be decided on which side the silent voters of The Gambia are like to take. It is surprising that the results of December 2026 election are becoming more difficult to predict as coalitions evolve and cha...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/a-report-on-the-ground-of-team-gambia-grand-coalition-2026-tour/",
-      "publishedAt": "2026-10-23T08:45:49.000Z",
-      "collectedAt": "2026-10-23T13:18:35.189Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T23:58:29.007Z",
-    "count": 11
+    "generatedAt": "2026-10-29T05:35:27.459Z",
+    "count": 10
   }
 }

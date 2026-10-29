@@ -512,81 +512,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "16a25ab7b35bbb49",
-      "title": "GAP swaps party founder for social worker ahead of polls",
-      "summary": "The Gambia Action Party (GAP) has entrusted its State House bid to Ba Samba Drammeh, handing the social worker and human rights advocate the party’s ticket for the December 5 presidential election, while party founder Musa Ousainou Yali Batchilly assumes the role of running ma...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gap-swaps-party-founder-for-social-worker-ahead-of-polls/",
-      "publishedAt": "2026-10-23T07:13:13.000Z",
-      "collectedAt": "2026-10-23T07:20:11.666Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7a1e8183531d20f0",
-      "title": "Information Minister Announces Sign Language Interpretation for GRTS News, Plans Expansion",
-      "summary": "By Mama A. Touray The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, has briefed Parliament on the introduction of sign language interpretation on Gambia Radio and Television Services (GRTS) programmes. Dr. Ceesay was responding to a question rai...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/information-minister-announces-sign-language-interpretation-for-grts-news-plans-expansion/",
-      "publishedAt": "2026-10-22T21:52:30.000Z",
-      "collectedAt": "2026-10-23T00:32:10.787Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a44c072cead7a8f7",
-      "title": "Government Withholds National Content Bill Pending Local Content Policy and Regulations",
-      "summary": "By Mama A. Touray The Government of The Gambia, through the Minister of Trade, Regional Integration and Employment, Mod K. Ceesay, has put the National Content Bill on hold to allow for the development of a Local Content Policy and regulations alongside the proposed legislatio...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/government-withholds-national-content-bill-pending-local-content-policy-and-regulations/",
-      "publishedAt": "2026-10-22T20:59:42.000Z",
-      "collectedAt": "2026-10-22T21:26:45.591Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T23:58:29.007Z",
-    "count": 25
+    "generatedAt": "2026-10-29T05:35:27.459Z",
+    "count": 22
   }
 }

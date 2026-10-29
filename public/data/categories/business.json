@@ -690,105 +690,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "aa273b8da1d4bf79",
-      "title": "A REPORT ON THE GROUND OF TEAM GAMBIA GRAND COALITION 2026 TOUR",
-      "summary": "This paper has emphasised that the 2026 presidential election is likely to be decided on which side the silent voters of The Gambia are like to take. It is surprising that the results of December 2026 election are becoming more difficult to predict as coalitions evolve and cha...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/a-report-on-the-ground-of-team-gambia-grand-coalition-2026-tour/",
-      "publishedAt": "2026-10-23T08:45:49.000Z",
-      "collectedAt": "2026-10-23T13:18:35.189Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a44c072cead7a8f7",
-      "title": "Government Withholds National Content Bill Pending Local Content Policy and Regulations",
-      "summary": "By Mama A. Touray The Government of The Gambia, through the Minister of Trade, Regional Integration and Employment, Mod K. Ceesay, has put the National Content Bill on hold to allow for the development of a Local Content Policy and regulations alongside the proposed legislatio...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/government-withholds-national-content-bill-pending-local-content-policy-and-regulations/",
-      "publishedAt": "2026-10-22T20:59:42.000Z",
-      "collectedAt": "2026-10-22T21:26:45.591Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bbc6204f2840fde3",
-      "title": "Sister in Trouble After Bailing Thief Brother",
-      "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
-      "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-28T23:58:22.891Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Saidy",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "94e72689ed22da8f",
-      "title": "Why are young Gambians turning to laughing gas?",
-      "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
-      "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-28T23:58:22.891Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Saidy",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-28T23:58:29.007Z",
-    "count": 33
+    "generatedAt": "2026-10-29T05:35:27.459Z",
+    "count": 29
   }
 }
