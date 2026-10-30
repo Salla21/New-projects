@@ -114,34 +114,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d53c5b5348a73119",
-      "title": "Barrow Appeals for URR Votes, Pledges 360 Kilometers of Roads After Election",
-      "summary": "By Makutu Manneh President Adama Barrow has urged residents of the Upper River Region (URR) to support his re-election bid in December, promising to construct 360 kilometers of roads in the region if he secures another term in office. Speaking at the inauguration of the Basse–...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-appeals-for-urr-votes-pledges-360-kilometers-of-roads-after-election/",
-      "publishedAt": "2026-10-24T16:07:37.000Z",
-      "collectedAt": "2026-10-24T18:45:49.949Z",
-      "region": "upper-river",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T23:54:05.377Z",
-    "count": 6
+    "generatedAt": "2026-10-30T05:26:32.146Z",
+    "count": 5
   }
 }

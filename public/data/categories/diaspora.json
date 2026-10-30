@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "dcd9a79eb58ddfa3",
+      "title": "Gambia Immigration Department Intercepts 62 Suspected Irregular Migrants in Tanji and Brufut Ghana Town",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 62 suspected irregular migrants, including six minors, during a joint operation in Tanji and Brufut Ghana Town on Wednesday, October 28, 2026. According to a statement issued by the department, the operat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-62-suspected-irregular-migrants-in-tanji-and-brufut-ghana-town/",
+      "publishedAt": "2026-10-30T00:06:04.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2bf133c575a2e06a",
       "title": "United States Slaps Fresh Sanctions on President Paul Kagame’s Government Over Alleged Support for Congo Rebels",
       "summary": "Written by: Seringe S.T. Touray The United States has imposed sanctions on President Paul Kagame’s Rwandan government, accusing its military of deploying thousands of troops into neighbouring Democratic Republic of Congo and helping armed M23 fighters seize cities and mineral-...",
@@ -242,34 +265,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "840cf31473710328",
-      "title": "NAFAA Leader Criticizes Barrow Administration’s Record, Calls for Political Change",
-      "summary": "By Makutu Manneh Ousainou Allen, leader of the National Alliance for Accelerated Advancement Movement (NAFAA), has accused President Adama Barrow and his administration of failing to address the needs of Gambians, particularly young people, women, and residents of Farafenni. S...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nafaa-leader-criticizes-barrow-administrations-record-calls-for-political-change/",
-      "publishedAt": "2026-10-24T16:00:53.000Z",
-      "collectedAt": "2026-10-24T18:45:49.949Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T23:54:05.377Z",
+    "generatedAt": "2026-10-30T05:26:32.146Z",
     "count": 11
   }
 }

@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "dcd9a79eb58ddfa3",
+      "title": "Gambia Immigration Department Intercepts 62 Suspected Irregular Migrants in Tanji and Brufut Ghana Town",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 62 suspected irregular migrants, including six minors, during a joint operation in Tanji and Brufut Ghana Town on Wednesday, October 28, 2026. According to a statement issued by the department, the operat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-62-suspected-irregular-migrants-in-tanji-and-brufut-ghana-town/",
+      "publishedAt": "2026-10-30T00:06:04.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a711086c9a7c0267",
+      "title": "IGP Touray Warns Against Electoral Violence, Says Political Affiliation Offers No Immunity From Prosecution",
+      "summary": "By Seedy Jobe The Inspector General of Police, Seedy Mucktarr Touray, has warned against violence and intimidation ahead of The Gambia’s December 5 presidential election, declaring that political affiliation will not shield anyone from prosecution for criminal conduct. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/igp-touray-warns-against-electoral-violence-says-political-affiliation-offers-no-immunity-from-prosecution/",
+      "publishedAt": "2026-10-29T23:59:21.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b8409dcfd8c2618a",
+      "title": "GPU Trains Over 100 Journalists, Steps Up Election Safety Efforts",
+      "summary": "By Seedy Jobe The Gambia Press Union (GPU) has trained more than 100 journalists in election reporting and safety as part of preparations for the December 5 presidential election, while intensifying engagements with security forces and political parties to prevent attacks and ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gpu-trains-over-100-journalists-steps-up-election-safety-efforts/",
+      "publishedAt": "2026-10-29T23:56:26.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f187ade4f9151d44",
       "title": "GPU Secretary General Urges Media to Prioritize Issues, Combat Hate Speech Ahead of December Election",
       "summary": "By Seedy Jobe The Secretary General of the Gambia Press Union (GPU), Modou S. Joof, has urged journalists to take a more proactive role in shaping public discourse ahead of the December 5 presidential election, calling for issue-based reporting that scrutinizes political promi...",
@@ -2252,79 +2322,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2507c743f6015fb9",
-      "title": "Bensouda Vows to End Foreign Military Protection of Presidency, Outlines Development Plans for Foni",
-      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of Kanifing Municipal Council, has pledged to end foreign military protection of the Gambian presidency if elected in December, saying the responsibility for safeguarding the country’s lead...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-end-foreign-military-protection-of-presidency-outlines-development-plans-for-foni/",
-      "publishedAt": "2026-10-25T01:11:35.000Z",
-      "collectedAt": "2026-10-25T04:18:19.590Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ab04bf57c118c353",
-      "title": "What do Post-December 2026 Presidential Elections Hold for the Democratic Future of The Gambia? Why We still need democratic reform",
-      "summary": "ANALYSIS By Andrew Mendy While voters successfully removed Jammeh’s long-standing autocratic regime through democratic means, the political elites who oversaw the democratic transition from 2017 to 2026 have, to some extent, failed to build and consolidate these gains. Barrow’...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/what-do-post-december-2026-presidential-elections-hold-for-the-democratic-future-of-the-gambia-why-we-still-need-democratic-reform/",
-      "publishedAt": "2026-10-24T19:43:22.000Z",
-      "collectedAt": "2026-10-24T22:23:30.240Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9336af5715ea651b",
-      "title": "Bojang warns of ‘retaliation’ over alleged opposition harassment",
-      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has warned that continued alleged harassment and unequal treatment of opposition figures could provoke a response from his party, as he called on authorities to ensure a level playing field ahead of the p...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bojang-warns-of-retaliation-over-alleged-opposition-harassment/",
-      "publishedAt": "2026-10-24T16:19:06.000Z",
-      "collectedAt": "2026-10-24T18:45:48.617Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T23:54:05.377Z",
+    "generatedAt": "2026-10-30T05:26:32.146Z",
     "count": 100
   }
 }

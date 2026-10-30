@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "dcd9a79eb58ddfa3",
+      "title": "Gambia Immigration Department Intercepts 62 Suspected Irregular Migrants in Tanji and Brufut Ghana Town",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 62 suspected irregular migrants, including six minors, during a joint operation in Tanji and Brufut Ghana Town on Wednesday, October 28, 2026. According to a statement issued by the department, the operat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-62-suspected-irregular-migrants-in-tanji-and-brufut-ghana-town/",
+      "publishedAt": "2026-10-30T00:06:04.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a711086c9a7c0267",
+      "title": "IGP Touray Warns Against Electoral Violence, Says Political Affiliation Offers No Immunity From Prosecution",
+      "summary": "By Seedy Jobe The Inspector General of Police, Seedy Mucktarr Touray, has warned against violence and intimidation ahead of The Gambia’s December 5 presidential election, declaring that political affiliation will not shield anyone from prosecution for criminal conduct. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/igp-touray-warns-against-electoral-violence-says-political-affiliation-offers-no-immunity-from-prosecution/",
+      "publishedAt": "2026-10-29T23:59:21.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b8409dcfd8c2618a",
+      "title": "GPU Trains Over 100 Journalists, Steps Up Election Safety Efforts",
+      "summary": "By Seedy Jobe The Gambia Press Union (GPU) has trained more than 100 journalists in election reporting and safety as part of preparations for the December 5 presidential election, while intensifying engagements with security forces and political parties to prevent attacks and ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gpu-trains-over-100-journalists-steps-up-election-safety-efforts/",
+      "publishedAt": "2026-10-29T23:56:26.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f187ade4f9151d44",
       "title": "GPU Secretary General Urges Media to Prioritize Issues, Combat Hate Speech Ahead of December Election",
       "summary": "By Seedy Jobe The Secretary General of the Gambia Press Union (GPU), Modou S. Joof, has urged journalists to take a more proactive role in shaping public discourse ahead of the December 5 presidential election, calling for issue-based reporting that scrutinizes political promi...",
@@ -397,80 +467,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3fa64c76b08d6a8c",
-      "title": "19 Sierra Leoneans Seek Leniency Over Two-Year Sentence",
-      "summary": "By Mariama Marong Nineteen Sierra Leonean nationals sentenced to two years in prison for forcible detainer have appealed to the High Court for leniency, asking the court to reduce their sentences following their conviction over the occupation of a compound in Brusubi. The appe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/19-sierra-leoneans-seek-leniency-over-two-year-sentence/",
-      "publishedAt": "2026-10-29T12:12:03.000Z",
-      "collectedAt": "2026-10-29T12:46:09.166Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7e56524f4300ed40",
-      "title": "Gambia’s Malaria Deaths Fall From 70 in 2024 to 19 in 2025",
-      "summary": "Estimated 25,000 People Living With HIV/AIDS By Kebba A.F. Touray The Gambia recorded a decline in malaria deaths in 2025, with fatalities falling from 70 in 2024 to 19, according to Minister of Health, Dr Ahmed Lamin Samateh. The minister told the National Assembly on Wednesd...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambias-malaria-deaths-fall-from-70-in-2024-to-19-in-2025/",
-      "publishedAt": "2026-10-29T12:06:28.000Z",
-      "collectedAt": "2026-10-29T12:46:09.166Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a0f64845d93c475b",
-      "title": "Nyanga Bantaba & Saller Sports Threaten Legal Action Over Fake Scorpions Jerseys",
-      "summary": "By Nelson Manneh Nyanga Bantaba and Saller Sports, the official merchandisers and kit manufacturers of The Gambia’s national football teams, have threatened legal action against individuals and businesses producing or selling counterfeit Scorpions jerseys. The warning comes ah...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/nyanga-bantaba-saller-sports-threaten-legal-action-over-fake-scorpions-jerseys/",
-      "publishedAt": "2026-10-29T11:51:59.000Z",
-      "collectedAt": "2026-10-29T12:46:09.166Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T23:54:05.377Z",
+    "generatedAt": "2026-10-30T05:26:32.146Z",
     "count": 20
   }
 }

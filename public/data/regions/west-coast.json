@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "dcd9a79eb58ddfa3",
+      "title": "Gambia Immigration Department Intercepts 62 Suspected Irregular Migrants in Tanji and Brufut Ghana Town",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 62 suspected irregular migrants, including six minors, during a joint operation in Tanji and Brufut Ghana Town on Wednesday, October 28, 2026. According to a statement issued by the department, the operat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-62-suspected-irregular-migrants-in-tanji-and-brufut-ghana-town/",
+      "publishedAt": "2026-10-30T00:06:04.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "west-coast",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5a7f3d656e688a7f",
       "title": "Health Minister Urges Compassion, End to HIV Stigma",
       "summary": "By Fatou Sillah The Minister of Health, Dr. Ahmadou Lamin Samateh, has called for greater compassion and an end to discrimination against people living with HIV, stressing that everyone affected by the virus deserves dignity, medical care, and support, regardless of how they c...",
@@ -189,29 +212,6 @@
       "status": "published"
     },
     {
-      "id": "5d2042a8dcf9ea54",
-      "title": "NDP Leader Accuses Interior Minister of Intimidating Opposition, Warns Against Continued Harassment",
-      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party (NDP), has accused Interior Minister Abdoulie Sanyang of intimidating opposition parties and interfering with their political activities, warning that continued harassment could provoke a confrontation...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndp-leader-accuses-interior-minister-of-intimidating-opposition-warns-against-continued-harassment/",
-      "publishedAt": "2026-10-24T15:53:22.000Z",
-      "collectedAt": "2026-10-24T18:45:49.949Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -220,7 +220,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-29T23:53:47.316Z",
+      "collectedAt": "2026-10-30T05:26:25.936Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -234,7 +234,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T23:54:05.377Z",
+    "generatedAt": "2026-10-30T05:26:32.146Z",
     "count": 10
   }
 }

@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "a711086c9a7c0267",
+      "title": "IGP Touray Warns Against Electoral Violence, Says Political Affiliation Offers No Immunity From Prosecution",
+      "summary": "By Seedy Jobe The Inspector General of Police, Seedy Mucktarr Touray, has warned against violence and intimidation ahead of The Gambia’s December 5 presidential election, declaring that political affiliation will not shield anyone from prosecution for criminal conduct. Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/igp-touray-warns-against-electoral-violence-says-political-affiliation-offers-no-immunity-from-prosecution/",
+      "publishedAt": "2026-10-29T23:59:21.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b8409dcfd8c2618a",
+      "title": "GPU Trains Over 100 Journalists, Steps Up Election Safety Efforts",
+      "summary": "By Seedy Jobe The Gambia Press Union (GPU) has trained more than 100 journalists in election reporting and safety as part of preparations for the December 5 presidential election, while intensifying engagements with security forces and political parties to prevent attacks and ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gpu-trains-over-100-journalists-steps-up-election-safety-efforts/",
+      "publishedAt": "2026-10-29T23:56:26.000Z",
+      "collectedAt": "2026-10-30T05:26:28.026Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f187ade4f9151d44",
       "title": "GPU Secretary General Urges Media to Prioritize Issues, Combat Hate Speech Ahead of December Election",
       "summary": "By Seedy Jobe The Secretary General of the Gambia Press Union (GPU), Modou S. Joof, has urged journalists to take a more proactive role in shaping public discourse ahead of the December 5 presidential election, calling for issue-based reporting that scrutinizes political promi...",
@@ -658,7 +705,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T23:54:05.377Z",
-    "count": 28
+    "generatedAt": "2026-10-30T05:26:32.146Z",
+    "count": 30
   }
 }

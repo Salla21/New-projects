@@ -69,35 +69,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "894127e661e033fc",
-      "title": "The Missing Link in Gambian Football Administration",
-      "summary": "Why strategic communication deserves a seat at the decision-making table By ML Drammeh Football administration is often discussed in terms of governance, financial management, technical development and infrastructure. These are essential to the growth of the game, yet another ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/the-missing-link-in-gambian-football-administration/",
-      "publishedAt": "2026-10-24T13:30:05.000Z",
-      "collectedAt": "2026-10-24T15:46:00.620Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T23:54:05.377Z",
-    "count": 4
+    "generatedAt": "2026-10-30T05:26:32.146Z",
+    "count": 3
   }
 }
