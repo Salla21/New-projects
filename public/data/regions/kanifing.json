@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "fa3e8e0b95eb50cc",
+      "title": "Djeliba Leisure Group, Qcell Sign Fiber Agreement to Strengthen Connectivity in Tourism Sector",
+      "summary": "By Seedy Jobe Djeliba Leisure Group and Qcell on Friday signed a corporate fiber agreement aimed at improving connectivity and digital services across The Gambia’s tourism sector. The signing ceremony took place at the Barracuda Beach restaurant at Kombo Beach Resort in Kotu. ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/djeliba-leisure-group-qcell-sign-fiber-agreement-to-strengthen-connectivity-in-tourism-sector/",
+      "publishedAt": "2026-10-30T22:14:16.000Z",
+      "collectedAt": "2026-10-30T23:37:30.299Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "aaf3ff3f200479fb",
       "title": "Bensouda Accuses Barrow Government of Politically Blocking Waste Project, Only to Sign Similar Deal Five Years Later",
       "summary": "Written by: Seringe S.T. Touray Kanifing Mayor and UNITE presidential candidate Talib Ahmed Bensouda has accused President Adama Barrow’s government of blocking a major waste management project with Ghana’s Jospong Group five years ago, only to sign a US$46 million agreement w...",
@@ -210,7 +234,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T19:07:11.114Z",
-    "count": 9
+    "generatedAt": "2026-10-30T23:37:34.414Z",
+    "count": 10
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "5ecca4f5695c5f00",
+      "title": "Waste Management Is a Shared Responsibility, Says BAC Chairman Darboe",
+      "summary": "By Seedy Jobe The Chairman of the Brikama Area Council (BAC), Yankuba Darboe, has said that the success of waste management in The Gambia depends on community participation and cannot be left to government institutions and private companies alone. Mr. Darboe made the remarks a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/waste-management-is-a-shared-responsibility-says-bac-chairman-darboe/",
+      "publishedAt": "2026-10-30T21:41:38.000Z",
+      "collectedAt": "2026-10-30T23:37:30.299Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "412c05658c618321",
       "title": "Gov’t orders sanctions, criminal referrals over BAC financial irregularities",
       "summary": "By Hadram Hydara The government of The Gambia has endorsed a series of suspensions, criminal investigations, disciplinary measures and recovery proceedings following findings of widespread financial irregularities at Brikama Area Council, while clearing the council’s principal...",
@@ -359,7 +382,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-30T19:07:02.778Z",
+      "collectedAt": "2026-10-30T23:37:28.203Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -373,7 +396,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T19:07:11.114Z",
-    "count": 16
+    "generatedAt": "2026-10-30T23:37:34.414Z",
+    "count": 17
   }
 }

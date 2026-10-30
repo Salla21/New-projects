@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "5ecca4f5695c5f00",
+      "title": "Waste Management Is a Shared Responsibility, Says BAC Chairman Darboe",
+      "summary": "By Seedy Jobe The Chairman of the Brikama Area Council (BAC), Yankuba Darboe, has said that the success of waste management in The Gambia depends on community participation and cannot be left to government institutions and private companies alone. Mr. Darboe made the remarks a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/waste-management-is-a-shared-responsibility-says-bac-chairman-darboe/",
+      "publishedAt": "2026-10-30T21:41:38.000Z",
+      "collectedAt": "2026-10-30T23:37:30.299Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9a2221b34b2c52ae",
+      "title": "NPP Government Lacks Clear Employment Strategy, Says UNITE Deputy Leader Yaya Sanyang",
+      "summary": "By Seedy Jobe Yaya Menteng Sanyang, National Assembly Member for Latrikunda Sabiji and UNITE party’s deputy leader for Finance and Administration, has criticized the Barrow administration’s approach to job creation, accusing the government of lacking a coherent and realistic e...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/npp-government-lacks-clear-employment-strategy-says-unite-deputy-leader-yaya-sanyang/",
+      "publishedAt": "2026-10-30T21:28:53.000Z",
+      "collectedAt": "2026-10-30T23:37:30.299Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8fc8574e6d0f9a74",
       "title": "Gambian Vice President Says Zoomlion Deal Will Transform Waste Management",
       "summary": "Published by: The Fatu Network Vice President of The Gambia, His Excellency Mohammed B.S. Jallow, has hailed the signing of a landmark integrated waste management project concession agreement between the Government of The Gambia and Zoomlion Gambia Integrated Waste Solutions L...",
@@ -1716,150 +1763,6 @@
       "status": "published"
     },
     {
-      "id": "172d725ed7bf7719",
-      "title": "Government Spent D785 Million on Diesel Subsidies Between March & September 2026",
-      "summary": "By Kebba A.F. Touray The Government of The Gambia provided D785.13 million in subsidies for diesel and D42.46 million for petrol between March and September 2026 to reduce the impact of rising fuel prices, Finance Minister Seedy Keita has told the National Assembly. Mr Keita m...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-spent-d785-million-on-diesel-subsidies-between-march-september-2026-2/",
-      "publishedAt": "2026-10-26T12:12:10.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "fc1689bfe6bdc0f3",
-      "title": "THE REVISING COURTS ARE DONE, WHAT IS NEXT?",
-      "summary": "From 8th April to 21st May the Independent Electoral Commission (IEC) conducted a supplementary registration of voters to enable those who were not registered in 2021 to be registered as voters which would enable them to vote at presidential, national assembly, mayoral/chairpe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-revising-courts-are-done-what-is-next/",
-      "publishedAt": "2026-10-26T11:45:25.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b5b570fd85efe9e7",
-      "title": "LESSONS FROM THE REVISING COURTS",
-      "summary": "We can learn two important lessons from the testimonies of witnesses during proceedings of the revising courts, which clearly indicate the need for electoral reform. They expose a broken system of registration of voters which can be abused by politicians, especially those in t...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/lessons-from-the-revising-courts/",
-      "publishedAt": "2026-10-26T11:44:16.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4b328a49402c4c2d",
-      "title": "Bensouda Vows to Scrap Securiport Contract and End D1,000 Airport Security Fee",
-      "summary": "By Staff Writer Talib Ahmed Bensouda, leader of Coalition 2026, has pledged to terminate the government’s controversial contract with Securiport and abolish the D1,000 airport security fee imposed on passengers arriving in and departing from The Gambia. Mr. Bensouda made the p...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-scrap-securiport-contract-and-end-d1000-airport-security-fee/",
-      "publishedAt": "2026-10-26T05:02:08.000Z",
-      "collectedAt": "2026-10-26T12:42:56.482Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "066e2bcc3ade235b",
-      "title": "Darboe Urges UDP Supporters to Set Aside Political Grudges and Win Over Opponents",
-      "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), A.N.M. Ousainu Darboe, has urged his supporters to put aside political grudges and reach out to members of rival parties, stressing that winning over new supporters is essential to the p...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-urges-udp-supporters-to-set-aside-political-grudges-and-win-over-opponents/",
-      "publishedAt": "2026-10-26T00:32:07.000Z",
-      "collectedAt": "2026-10-26T04:24:57.285Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b377e7e08a8814cc",
-      "title": "Darboe Says Decisive UDP Win in the West Coast Will Secure State House",
-      "summary": "By Seedy Jobe The Secretary General and Party Leader of the United Democratic Party (UDP), A.N.M. Ousainu Darboe, has identified Brikama and the wider West Coast Region as crucial to his party’s presidential election ambitions, declaring that a decisive victory in the area wou...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-decisive-udp-win-in-the-west-coast-will-secure-state-house/",
-      "publishedAt": "2026-10-26T00:29:02.000Z",
-      "collectedAt": "2026-10-26T04:24:57.285Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1868,7 +1771,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-30T19:07:02.778Z",
+      "collectedAt": "2026-10-30T23:37:28.203Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1884,7 +1787,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T19:07:11.114Z",
-    "count": 80
+    "generatedAt": "2026-10-30T23:37:34.414Z",
+    "count": 76
   }
 }

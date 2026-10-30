@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "c38a50bd59ee268a",
+      "title": "Investigation Reveals Why Gambia’s $165 Million Sinohydro Power Plant Deal Collapsed",
+      "summary": "Written by: Dawda Baldeh An investigation by Gambian news outlet The Republic has revealed how a $165 million agreement to build a major power plant in The Gambia collapsed after the government failed to secure the financing needed to implement the project, leaving behind unan...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/investigation-reveals-why-gambias-165-million-sinohydro-power-plant-deal-collapsed/",
+      "publishedAt": "2026-10-30T19:11:17.000Z",
+      "collectedAt": "2026-10-30T23:37:28.361Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "412c05658c618321",
       "title": "Gov’t orders sanctions, criminal referrals over BAC financial irregularities",
       "summary": "By Hadram Hydara The government of The Gambia has endorsed a series of suspensions, criminal investigations, disciplinary measures and recovery proceedings following findings of widespread financial irregularities at Brikama Area Council, while clearing the council’s principal...",
@@ -622,7 +643,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T19:07:11.114Z",
-    "count": 27
+    "generatedAt": "2026-10-30T23:37:34.414Z",
+    "count": 28
   }
 }
