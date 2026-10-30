@@ -242,33 +242,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e37ab4b2adaedd03",
-      "title": "Gambia Immigration Department Intercepts 229 Suspected Migrants in Two-Day Coastal Operations",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 229 suspected irregular migrants and arrested eight alleged smugglers and facilitators during separate operations along the West Coast Region coastline on October 23 and 24, 2026. According to the departm...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-229-suspected-migrants-in-two-day-coastal-operations/",
-      "publishedAt": "2026-10-26T00:09:22.000Z",
-      "collectedAt": "2026-10-26T04:24:57.285Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T12:37:43.444Z",
-    "count": 11
+    "generatedAt": "2026-10-30T19:07:11.114Z",
+    "count": 10
   }
 }

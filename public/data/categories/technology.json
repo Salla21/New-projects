@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "71e40a4bab70eb0e",
+      "title": "22 African Heads of State Join AU Chairperson at Russia-Africa Summit in Moscow",
+      "summary": "By Yankuba Jallow Twenty-two African countries are represented by their heads of state at the third Russia-Africa Summit in Moscow, where Russian President Vladimir Putin and African leaders are seeking to strengthen cooperation in trade, energy, agriculture, security, technol...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/22-african-heads-of-state-join-au-chairperson-at-russia-africa-summit-in-moscow/",
+      "publishedAt": "2026-10-30T12:40:00.000Z",
+      "collectedAt": "2026-10-30T19:07:02.403Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "77a696228eab1a23",
       "title": "Man jailed for seven months after stabbing brother in chest",
       "summary": "By Louise Jobe A magistrate in The Gambia has sentenced a man to seven months in prison after he admitted that he tried to kill his brother by stabbing him with a knife. Basiru Sumareh was convicted of attempted murder by Magistrate A. Darboe at the Brikama Magistrates’ Court ...",
@@ -264,7 +289,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T12:37:43.444Z",
-    "count": 11
+    "generatedAt": "2026-10-30T19:07:11.114Z",
+    "count": 12
   }
 }

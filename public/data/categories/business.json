@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "b9edb569e9cb9523",
+      "title": "Former BAC CEO Modou Jonga faces suspension, economic crime proceedings",
+      "summary": "By Hadram Hydara The Gambian government has accepted recommendations to suspend former Brikama Area Council chief executive officer Modou Jonga and pursue economic crime proceedings against him over alleged financial mismanagement and the misuse of millions of dalasis in counc...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/former-bac-ceo-modou-jonga-faces-suspension-economic-crime-proceedings/",
+      "publishedAt": "2026-10-30T13:31:21.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "71e40a4bab70eb0e",
+      "title": "22 African Heads of State Join AU Chairperson at Russia-Africa Summit in Moscow",
+      "summary": "By Yankuba Jallow Twenty-two African countries are represented by their heads of state at the third Russia-Africa Summit in Moscow, where Russian President Vladimir Putin and African leaders are seeking to strengthen cooperation in trade, energy, agriculture, security, technol...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/22-african-heads-of-state-join-au-chairperson-at-russia-africa-summit-in-moscow/",
+      "publishedAt": "2026-10-30T12:40:00.000Z",
+      "collectedAt": "2026-10-30T19:07:02.403Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5fc95e2a1727e8f4",
       "title": "IS NUP SUPPORTING TEAM GAMBIA 2026 OR UNITE?",
       "summary": "According to a statement given by the leader of NUP Dr Lamin J. Darboe he has openly called for all Gambians to support the candidate for Team Gambia Grand Coalition 2026. The political landscape of The Gambia is therefore being redrawn and all Gambians should have a critical ...",
@@ -770,77 +818,6 @@
       "status": "published"
     },
     {
-      "id": "9e184b54e393b4f2",
-      "title": "Bensouda Pledges Tuition Support, Transport Solutions for UTG Students Under Coalition 2026 Government",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has pledged to address longstanding challenges facing students at the University of The Gambia (UTG), promising tuition assistance, improved public transporta...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-tuition-support-transport-solutions-for-utg-students-under-coalition-2026-government/",
-      "publishedAt": "2026-10-26T00:15:32.000Z",
-      "collectedAt": "2026-10-26T04:24:57.285Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "be7bbf76abedc6f8",
-      "title": "Halifa Sallah Calls for Local Control of Tax Revenue, Says Gambians Have Power to End Poverty",
-      "summary": "By Makutu Manneh Veteran Gambian politician Halifa Sallah has called for greater local control over tax revenue, arguing that communities should retain the taxes they collect to finance their own development rather than depend on decisions made by the central government. Speak...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/halifa-sallah-calls-for-local-control-of-tax-revenue-says-gambians-have-power-to-end-poverty/",
-      "publishedAt": "2026-10-26T00:06:23.000Z",
-      "collectedAt": "2026-10-26T04:24:57.285Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7b26118e84fa7886",
-      "title": "Bojang Labels Kandeh a ‘Sell-Out’ as Opposition Rift Deepens",
-      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has accused Gambia Democratic Congress (GDC) leader Mama Kandeh of abandoning his supporters for personal gain, following the opposition politician’s alignment with the ruling National People’s Party (NPP...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bojang-labels-kandeh-a-sell-out-as-opposition-rift-deepens/",
-      "publishedAt": "2026-10-25T13:12:16.000Z",
-      "collectedAt": "2026-10-25T15:57:15.839Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "bbc6204f2840fde3",
       "title": "Sister in Trouble After Bailing Thief Brother",
       "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
@@ -849,7 +826,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-30T12:37:36.595Z",
+      "collectedAt": "2026-10-30T19:07:02.778Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -872,7 +849,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-30T12:37:36.595Z",
+      "collectedAt": "2026-10-30T19:07:02.778Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -888,7 +865,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T12:37:43.444Z",
-    "count": 37
+    "generatedAt": "2026-10-30T19:07:11.114Z",
+    "count": 36
   }
 }

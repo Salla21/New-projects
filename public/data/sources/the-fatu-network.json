@@ -1,6 +1,117 @@
 {
   "items": [
     {
+      "id": "412c05658c618321",
+      "title": "Gov’t orders sanctions, criminal referrals over BAC financial irregularities",
+      "summary": "By Hadram Hydara The government of The Gambia has endorsed a series of suspensions, criminal investigations, disciplinary measures and recovery proceedings following findings of widespread financial irregularities at Brikama Area Council, while clearing the council’s principal...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/govt-orders-sanctions-criminal-referrals-over-bac-financial-irregularities/",
+      "publishedAt": "2026-10-30T17:14:55.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b9edb569e9cb9523",
+      "title": "Former BAC CEO Modou Jonga faces suspension, economic crime proceedings",
+      "summary": "By Hadram Hydara The Gambian government has accepted recommendations to suspend former Brikama Area Council chief executive officer Modou Jonga and pursue economic crime proceedings against him over alleged financial mismanagement and the misuse of millions of dalasis in counc...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/former-bac-ceo-modou-jonga-faces-suspension-economic-crime-proceedings/",
+      "publishedAt": "2026-10-30T13:31:21.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8fc8574e6d0f9a74",
+      "title": "Gambian Vice President Says Zoomlion Deal Will Transform Waste Management",
+      "summary": "Published by: The Fatu Network Vice President of The Gambia, His Excellency Mohammed B.S. Jallow, has hailed the signing of a landmark integrated waste management project concession agreement between the Government of The Gambia and Zoomlion Gambia Integrated Waste Solutions L...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambian-vice-president-says-zoomlion-deal-will-transform-waste-management/",
+      "publishedAt": "2026-10-30T13:27:14.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "213a07e0a9358a06",
+      "title": "Gov’t orders probe into former BAC chairman Sheriffo Sonko",
+      "summary": "By Hadram Hydara The Gambian government has ordered an economic crimes investigation into former Brikama Area Council chairman Sheriffo Sonko, following findings that linked him to alleged financial irregularities, unlawful procurement practices and governance failures at the ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/govt-orders-probe-into-former-bac-chairman-sheriffo-sonko/",
+      "publishedAt": "2026-10-30T13:13:18.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "aef4f6ad2149068c",
+      "title": "Government of Gambia and Zoomlion Signs Landmark Integrated Waste Management Concession Agreement",
+      "summary": "Published by: The Fatu Network Government of the Republic of The Gambia and Zoomlion Gambia Integrated Waste Solutions Limited, a subsidiary of the Jospong Group of Companies, have officially signed a landmark concession agreement and cut sod for the construction of The Gambia...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/government-of-gambia-and-zoomlion-signs-landmark-integrated-waste-management-concession-agreement/",
+      "publishedAt": "2026-10-30T12:51:43.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c818c7567e60f0d3",
       "title": "Police Investigate Suspected Stabbing Death of 86-Year-Old German National in The Gambia",
       "summary": "Written by: Seringe S.T. Touray Police in The Gambia have launched an investigation into the suspected killing of an 86-year-old German national found dead at his residence on Monday, October 26th, with injuries believed to be stab wounds. According to a statement issued this ...",
@@ -508,34 +619,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7b26118e84fa7886",
-      "title": "Bojang Labels Kandeh a ‘Sell-Out’ as Opposition Rift Deepens",
-      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has accused Gambia Democratic Congress (GDC) leader Mama Kandeh of abandoning his supporters for personal gain, following the opposition politician’s alignment with the ruling National People’s Party (NPP...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bojang-labels-kandeh-a-sell-out-as-opposition-rift-deepens/",
-      "publishedAt": "2026-10-25T13:12:16.000Z",
-      "collectedAt": "2026-10-25T15:57:15.839Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T12:37:43.444Z",
-    "count": 23
+    "generatedAt": "2026-10-30T19:07:11.114Z",
+    "count": 27
   }
 }

@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "412c05658c618321",
+      "title": "Gov’t orders sanctions, criminal referrals over BAC financial irregularities",
+      "summary": "By Hadram Hydara The government of The Gambia has endorsed a series of suspensions, criminal investigations, disciplinary measures and recovery proceedings following findings of widespread financial irregularities at Brikama Area Council, while clearing the council’s principal...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/govt-orders-sanctions-criminal-referrals-over-bac-financial-irregularities/",
+      "publishedAt": "2026-10-30T17:14:55.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b9edb569e9cb9523",
+      "title": "Former BAC CEO Modou Jonga faces suspension, economic crime proceedings",
+      "summary": "By Hadram Hydara The Gambian government has accepted recommendations to suspend former Brikama Area Council chief executive officer Modou Jonga and pursue economic crime proceedings against him over alleged financial mismanagement and the misuse of millions of dalasis in counc...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/former-bac-ceo-modou-jonga-faces-suspension-economic-crime-proceedings/",
+      "publishedAt": "2026-10-30T13:31:21.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "213a07e0a9358a06",
+      "title": "Gov’t orders probe into former BAC chairman Sheriffo Sonko",
+      "summary": "By Hadram Hydara The Gambian government has ordered an economic crimes investigation into former Brikama Area Council chairman Sheriffo Sonko, following findings that linked him to alleged financial irregularities, unlawful procurement practices and governance failures at the ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/govt-orders-probe-into-former-bac-chairman-sheriffo-sonko/",
+      "publishedAt": "2026-10-30T13:13:18.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c818c7567e60f0d3",
       "title": "Police Investigate Suspected Stabbing Death of 86-Year-Old German National in The Gambia",
       "summary": "Written by: Seringe S.T. Touray Police in The Gambia have launched an investigation into the suspected killing of an 86-year-old German national found dead at his residence on Monday, October 26th, with injuries believed to be stab wounds. According to a statement issued this ...",
@@ -249,53 +316,6 @@
       "status": "published"
     },
     {
-      "id": "9e184b54e393b4f2",
-      "title": "Bensouda Pledges Tuition Support, Transport Solutions for UTG Students Under Coalition 2026 Government",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has pledged to address longstanding challenges facing students at the University of The Gambia (UTG), promising tuition assistance, improved public transporta...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-tuition-support-transport-solutions-for-utg-students-under-coalition-2026-government/",
-      "publishedAt": "2026-10-26T00:15:32.000Z",
-      "collectedAt": "2026-10-26T04:24:57.285Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e8c27461eaeab6c9",
-      "title": "Bensouda Urges Barrow to Respect Jawara and Jammeh’s Development Legacies",
-      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the mayor of Kanifing Municipality and presidential candidate of Coalition 2026, has called on President Adama Barrow to stop diminishing the development records of his predecessors, Sir Dawda Kairaba Jawara and Yahya Jammeh, arguing that th...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-urges-barrow-to-respect-jawara-and-jammehs-development-legacies/",
-      "publishedAt": "2026-10-25T01:46:46.000Z",
-      "collectedAt": "2026-10-25T04:18:19.590Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -304,7 +324,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-30T12:37:36.595Z",
+      "collectedAt": "2026-10-30T19:07:02.778Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -318,7 +338,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T12:37:43.444Z",
-    "count": 14
+    "generatedAt": "2026-10-30T19:07:11.114Z",
+    "count": 15
   }
 }

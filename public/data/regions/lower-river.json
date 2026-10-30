@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "709b3193df379c0b",
+      "title": "Gambia Signs $169 Million Deal for Soma Solar Park Expansion",
+      "summary": "Government signs US$169 million Soma Solar Park agreements with Solaris Africa Ltd In the presence of His Excellency President Adama Barrow, the Government of The Gambia today signed agreements with Solaris Africa Ltd, a company of Mark Cables FZE, for Phase 2 of the Soma Sola...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-signs-169-million-deal-for-soma-solar-park-expansion/",
+      "publishedAt": "2026-10-30T12:57:00.000Z",
+      "collectedAt": "2026-10-30T19:07:02.403Z",
+      "region": "lower-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0d94d73e76909491",
       "title": "Barrow Inaugurates Over 104km of Roads in URR and LRR, Promises Development Across Gambia",
       "summary": "Written by: Mama A. Touray President Adama Barrow has inaugurated more than 104 kilometres of roads in the Upper River Region (URR) and Lower River Region (LRR), promising to extend infrastructure development to communities across The Gambia. The two government-funded projects...",
@@ -25,7 +48,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T12:37:43.444Z",
-    "count": 1
+    "generatedAt": "2026-10-30T19:07:11.114Z",
+    "count": 2
   }
 }

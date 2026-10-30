@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "412c05658c618321",
+      "title": "Gov’t orders sanctions, criminal referrals over BAC financial irregularities",
+      "summary": "By Hadram Hydara The government of The Gambia has endorsed a series of suspensions, criminal investigations, disciplinary measures and recovery proceedings following findings of widespread financial irregularities at Brikama Area Council, while clearing the council’s principal...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/govt-orders-sanctions-criminal-referrals-over-bac-financial-irregularities/",
+      "publishedAt": "2026-10-30T17:14:55.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b9edb569e9cb9523",
+      "title": "Former BAC CEO Modou Jonga faces suspension, economic crime proceedings",
+      "summary": "By Hadram Hydara The Gambian government has accepted recommendations to suspend former Brikama Area Council chief executive officer Modou Jonga and pursue economic crime proceedings against him over alleged financial mismanagement and the misuse of millions of dalasis in counc...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/former-bac-ceo-modou-jonga-faces-suspension-economic-crime-proceedings/",
+      "publishedAt": "2026-10-30T13:31:21.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "213a07e0a9358a06",
+      "title": "Gov’t orders probe into former BAC chairman Sheriffo Sonko",
+      "summary": "By Hadram Hydara The Gambian government has ordered an economic crimes investigation into former Brikama Area Council chairman Sheriffo Sonko, following findings that linked him to alleged financial irregularities, unlawful procurement practices and governance failures at the ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/govt-orders-probe-into-former-bac-chairman-sheriffo-sonko/",
+      "publishedAt": "2026-10-30T13:13:18.000Z",
+      "collectedAt": "2026-10-30T19:07:02.892Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "77a696228eab1a23",
       "title": "Man jailed for seven months after stabbing brother in chest",
       "summary": "By Louise Jobe A magistrate in The Gambia has sentenced a man to seven months in prison after he admitted that he tried to kill his brother by stabbing him with a knife. Basiru Sumareh was convicted of attempted murder by Magistrate A. Darboe at the Brikama Magistrates’ Court ...",
@@ -292,7 +359,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-30T12:37:36.595Z",
+      "collectedAt": "2026-10-30T19:07:02.778Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -306,7 +373,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T12:37:43.444Z",
-    "count": 13
+    "generatedAt": "2026-10-30T19:07:11.114Z",
+    "count": 16
   }
 }
