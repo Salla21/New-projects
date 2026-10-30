@@ -935,33 +935,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2507c743f6015fb9",
-      "title": "Bensouda Vows to End Foreign Military Protection of Presidency, Outlines Development Plans for Foni",
-      "summary": "By Seedy Jobe Talib Ahmed Bensouda, the Coalition 2026 presidential candidate and mayor of Kanifing Municipal Council, has pledged to end foreign military protection of the Gambian presidency if elected in December, saying the responsibility for safeguarding the country’s lead...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-end-foreign-military-protection-of-presidency-outlines-development-plans-for-foni/",
-      "publishedAt": "2026-10-25T01:11:35.000Z",
-      "collectedAt": "2026-10-25T04:18:19.590Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T05:26:32.146Z",
-    "count": 41
+    "generatedAt": "2026-10-30T12:37:43.444Z",
+    "count": 40
   }
 }

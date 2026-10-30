@@ -1,6 +1,166 @@
 {
   "items": [
     {
+      "id": "77a696228eab1a23",
+      "title": "Man jailed for seven months after stabbing brother in chest",
+      "summary": "By Louise Jobe A magistrate in The Gambia has sentenced a man to seven months in prison after he admitted that he tried to kill his brother by stabbing him with a knife. Basiru Sumareh was convicted of attempted murder by Magistrate A. Darboe at the Brikama Magistrates’ Court ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/man-jailed-for-seven-months-after-stabbing-brother-in-chest/",
+      "publishedAt": "2026-10-30T12:35:00.000Z",
+      "collectedAt": "2026-10-30T12:37:36.262Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d1aef9c21df369e1",
+      "title": "Court fines man after hitting sister in face with stone",
+      "summary": "By Louise Jobe A man has been fined D20,000 after admitting to hitting his sister in the face with a stone during an argument involving his wife. Bakary Kanteh was convicted of assault causing actual bodily harm by Magistrate A. Darboe at the Brikama Magistrates’ Court on Thur...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/court-fines-man-after-hitting-sister-in-face-with-stone/",
+      "publishedAt": "2026-10-30T12:33:00.000Z",
+      "collectedAt": "2026-10-30T12:37:36.262Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e6beae35386a36a1",
+      "title": "Could Jospong Group finally rescue The Gambia’s waste problems?",
+      "summary": "By Madiba Singhateh For years, waste has been one of The Gambia’s most visible environmental problems. Across the Greater Banjul Area, plastic bags and bottles can be seen along roadsides, in gutters, open spaces and waterways. In some communities, rubbish is dumped wherever p...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/could-jospong-group-finally-rescue-the-gambias-waste-problems/",
+      "publishedAt": "2026-10-30T12:27:00.000Z",
+      "collectedAt": "2026-10-30T12:37:36.262Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "73414dd38e65bd18",
+      "title": "ECO currency expected to replace national currencies, Finance Minister says",
+      "summary": "By Kebba A.F. Touray The proposed ECO single currency for West Africa is expected to replace the national currencies of countries that join the scheme, Gambia’s Finance Minister has told parliament. Finance Minister Seedy K.M. Keita made the statement on Wednesday, 28 October ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/eco-currency-expected-to-replace-national-currencies-finance-minister-says/",
+      "publishedAt": "2026-10-30T12:20:00.000Z",
+      "collectedAt": "2026-10-30T12:37:36.262Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c818c7567e60f0d3",
+      "title": "Police Investigate Suspected Stabbing Death of 86-Year-Old German National in The Gambia",
+      "summary": "Written by: Seringe S.T. Touray Police in The Gambia have launched an investigation into the suspected killing of an 86-year-old German national found dead at his residence on Monday, October 26th, with injuries believed to be stab wounds. According to a statement issued this ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/police-investigate-suspected-stabbing-death-of-86-year-old-german-national-in-the-gambia/",
+      "publishedAt": "2026-10-30T09:25:20.000Z",
+      "collectedAt": "2026-10-30T12:37:37.099Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5fc95e2a1727e8f4",
+      "title": "IS NUP SUPPORTING TEAM GAMBIA 2026 OR UNITE?",
+      "summary": "According to a statement given by the leader of NUP Dr Lamin J. Darboe he has openly called for all Gambians to support the candidate for Team Gambia Grand Coalition 2026. The political landscape of The Gambia is therefore being redrawn and all Gambians should have a critical ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-nup-supporting-team-gambia-2026-or-unite/",
+      "publishedAt": "2026-10-30T09:15:20.000Z",
+      "collectedAt": "2026-10-30T12:37:36.262Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "abefd07be2e6c3ff",
+      "title": "THE NOMINATION OF CANDIDATES IS ALMOST AT HAND",
+      "summary": "Four days from now the nomination of candidates will begin. It will last until the 14th of November, 2026. It is not clear how many candidates will submit their nomination papers. The Constitution and the Elections Act do not speak the same language. However, the IEC has issue...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-nomination-of-candidates-is-almost-at-hand/",
+      "publishedAt": "2026-10-30T09:11:50.000Z",
+      "collectedAt": "2026-10-30T12:37:36.262Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "dcd9a79eb58ddfa3",
       "title": "Gambia Immigration Department Intercepts 62 Suspected Irregular Migrants in Tanji and Brufut Ghana Town",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 62 suspected irregular migrants, including six minors, during a joint operation in Tanji and Brufut Ghana Town on Wednesday, October 28, 2026. According to a statement issued by the department, the operat...",
@@ -25,7 +185,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T05:26:32.146Z",
-    "count": 1
+    "generatedAt": "2026-10-30T12:37:43.444Z",
+    "count": 8
   }
 }

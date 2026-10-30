@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "77a696228eab1a23",
+      "title": "Man jailed for seven months after stabbing brother in chest",
+      "summary": "By Louise Jobe A magistrate in The Gambia has sentenced a man to seven months in prison after he admitted that he tried to kill his brother by stabbing him with a knife. Basiru Sumareh was convicted of attempted murder by Magistrate A. Darboe at the Brikama Magistrates’ Court ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/man-jailed-for-seven-months-after-stabbing-brother-in-chest/",
+      "publishedAt": "2026-10-30T12:35:00.000Z",
+      "collectedAt": "2026-10-30T12:37:36.262Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d1aef9c21df369e1",
+      "title": "Court fines man after hitting sister in face with stone",
+      "summary": "By Louise Jobe A man has been fined D20,000 after admitting to hitting his sister in the face with a stone during an argument involving his wife. Bakary Kanteh was convicted of assault causing actual bodily harm by Magistrate A. Darboe at the Brikama Magistrates’ Court on Thur...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/court-fines-man-after-hitting-sister-in-face-with-stone/",
+      "publishedAt": "2026-10-30T12:33:00.000Z",
+      "collectedAt": "2026-10-30T12:37:36.262Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3fa64c76b08d6a8c",
       "title": "19 Sierra Leoneans Seek Leniency Over Two-Year Sentence",
       "summary": "By Mariama Marong Nineteen Sierra Leonean nationals sentenced to two years in prison for forcible detainer have appealed to the High Court for leniency, asking the court to reduce their sentences following their conviction over the occupation of a compound in Brusubi. The appe...",
@@ -216,7 +264,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T05:26:32.146Z",
-    "count": 9
+    "generatedAt": "2026-10-30T12:37:43.444Z",
+    "count": 11
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "c818c7567e60f0d3",
+      "title": "Police Investigate Suspected Stabbing Death of 86-Year-Old German National in The Gambia",
+      "summary": "Written by: Seringe S.T. Touray Police in The Gambia have launched an investigation into the suspected killing of an 86-year-old German national found dead at his residence on Monday, October 26th, with injuries believed to be stab wounds. According to a statement issued this ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/police-investigate-suspected-stabbing-death-of-86-year-old-german-national-in-the-gambia/",
+      "publishedAt": "2026-10-30T09:25:20.000Z",
+      "collectedAt": "2026-10-30T12:37:37.099Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "275d9d56397495e8",
       "title": "Yakumba’s Nest Foundation Donates 50 Packs of Gloves to Banjulinding Health center",
       "summary": "Yakumba’s Nest Foundation today donated 50 packs of gloves to Banjulinding Health center following concerns raised about a shortage of gloves at the facility. The donation came after Mr Sheriff Njie who appeared on Kuwonku TV and claimed that his brother’s wife had been referr...",
@@ -275,29 +296,6 @@
       "status": "published"
     },
     {
-      "id": "ab04bf57c118c353",
-      "title": "What do Post-December 2026 Presidential Elections Hold for the Democratic Future of The Gambia? Why We still need democratic reform",
-      "summary": "ANALYSIS By Andrew Mendy While voters successfully removed Jammeh’s long-standing autocratic regime through democratic means, the political elites who oversaw the democratic transition from 2017 to 2026 have, to some extent, failed to build and consolidate these gains. Barrow’...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/what-do-post-december-2026-presidential-elections-hold-for-the-democratic-future-of-the-gambia-why-we-still-need-democratic-reform/",
-      "publishedAt": "2026-10-24T19:43:22.000Z",
-      "collectedAt": "2026-10-24T22:23:30.240Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -306,7 +304,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-30T05:26:25.936Z",
+      "collectedAt": "2026-10-30T12:37:36.595Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -320,7 +318,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T05:26:32.146Z",
+    "generatedAt": "2026-10-30T12:37:43.444Z",
     "count": 14
   }
 }

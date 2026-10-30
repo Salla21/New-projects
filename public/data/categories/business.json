@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "5fc95e2a1727e8f4",
+      "title": "IS NUP SUPPORTING TEAM GAMBIA 2026 OR UNITE?",
+      "summary": "According to a statement given by the leader of NUP Dr Lamin J. Darboe he has openly called for all Gambians to support the candidate for Team Gambia Grand Coalition 2026. The political landscape of The Gambia is therefore being redrawn and all Gambians should have a critical ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-nup-supporting-team-gambia-2026-or-unite/",
+      "publishedAt": "2026-10-30T09:15:20.000Z",
+      "collectedAt": "2026-10-30T12:37:36.262Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b8409dcfd8c2618a",
       "title": "GPU Trains Over 100 Journalists, Steps Up Election Safety Efforts",
       "summary": "By Seedy Jobe The Gambia Press Union (GPU) has trained more than 100 journalists in election reporting and safety as part of preparations for the December 5 presidential election, while intensifying engagements with security forces and political parties to prevent attacks and ...",
@@ -825,7 +849,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-30T05:26:25.936Z",
+      "collectedAt": "2026-10-30T12:37:36.595Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -848,7 +872,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-30T05:26:25.936Z",
+      "collectedAt": "2026-10-30T12:37:36.595Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -864,7 +888,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T05:26:32.146Z",
-    "count": 36
+    "generatedAt": "2026-10-30T12:37:43.444Z",
+    "count": 37
   }
 }
