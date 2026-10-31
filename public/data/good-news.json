@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d4a904ad7580ae6a",
+      "title": "3 leadership and feminine energy lessons we can learn from Marine Le Pen of France 🇫🇷",
+      "summary": "By RamaTulai On 25 October this week, Marine Le Pen stood before thousands of supporters in Orléans, France, launching her 2027 presidential campaign with a speech promising a new direction and a national renewal. Now, before anyone panics, this isn’t a political endorsement. ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/3-leadership-and-feminine-energy-lessons-we-can-learn-from-marine-le-pen-of-france-%f0%9f%87%ab%f0%9f%87%b7/",
+      "publishedAt": "2026-10-31T11:27:32.000Z",
+      "collectedAt": "2026-10-31T12:07:37.522Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d6bf25c426017216",
+      "title": "Nurse Nyima Named Female Health Practitioner of the Year",
+      "summary": "By Dawda Baldeh Registered Nurse Nyima Sanyang, widely known as Nurse Nyima, has been named Female Health Practitioner of the Year 2026 at the National Women & Girls Awards organised by Treasure Girls Initiative Africa. The award recognises her contributions to healthcare deli...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/nurse-nyima-named-female-health-practitioner-of-the-year/",
+      "publishedAt": "2026-10-31T10:58:47.000Z",
+      "collectedAt": "2026-10-31T12:07:37.522Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b692d7b6b05fc644",
       "title": "Darboe Accuses Government of Witch Hunt Against UDP Councils Over White Paper",
       "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and party leader ANM Ousainu Darboe has condemned the government’s White Paper on the Local Government Commission of Inquiry report, describing its recommendations as a politically motivated witch hunt targeting opp...",
@@ -393,7 +439,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-31T05:13:55.695Z",
+      "collectedAt": "2026-10-31T12:07:37.244Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -407,7 +453,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T05:14:01.350Z",
-    "count": 18
+    "generatedAt": "2026-10-31T12:07:43.656Z",
+    "count": 20
   }
 }

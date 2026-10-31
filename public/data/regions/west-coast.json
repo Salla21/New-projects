@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "id": "d6bf25c426017216",
+      "title": "Nurse Nyima Named Female Health Practitioner of the Year",
+      "summary": "By Dawda Baldeh Registered Nurse Nyima Sanyang, widely known as Nurse Nyima, has been named Female Health Practitioner of the Year 2026 at the National Women & Girls Awards organised by Treasure Girls Initiative Africa. The award recognises her contributions to healthcare deli...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/nurse-nyima-named-female-health-practitioner-of-the-year/",
+      "publishedAt": "2026-10-31T10:58:47.000Z",
+      "collectedAt": "2026-10-31T12:07:37.522Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9fe0e91ee878dcb4",
+      "title": "Rural Islamic School Struggles to Pay Teachers as 150 Students Face Challenging Learning Conditions",
+      "summary": "By Dawda Baldeh An Islamic school in Brikama-ba is struggling to pay teachers’ salaries and complete a long-awaited electricity installation, raising concerns about learning conditions for more than 150 students who depend on the institution for their education. Fathal Islamic...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/rural-islamic-school-struggles-to-pay-teachers-as-150-students-face-challenging-learning-conditions/",
+      "publishedAt": "2026-10-31T10:48:20.000Z",
+      "collectedAt": "2026-10-31T12:07:37.522Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fd461104815d3c2f",
+      "title": "Acumen Encourages Gambian Entrepreneurs to Join Green Rise Africa Fellowship",
+      "summary": "By Mama A. Touray Acumen has hosted an information session for Gambian entrepreneurs in Kololi, encouraging them to apply for its Green Rise Africa Fellowship, a programme aimed at supporting businesses that create jobs and strengthen Africa’s growing green economy. The event,...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/acumen-encourages-gambian-entrepreneurs-to-join-green-rise-africa-fellowship/",
+      "publishedAt": "2026-10-31T10:33:35.000Z",
+      "collectedAt": "2026-10-31T12:07:37.522Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5ecca4f5695c5f00",
       "title": "Waste Management Is a Shared Responsibility, Says BAC Chairman Darboe",
       "summary": "By Seedy Jobe The Chairman of the Brikama Area Council (BAC), Yankuba Darboe, has said that the success of waste management in The Gambia depends on community participation and cannot be left to government institutions and private companies alone. Mr. Darboe made the remarks a...",
@@ -382,7 +447,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-10-31T05:13:55.695Z",
+      "collectedAt": "2026-10-31T12:07:37.244Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -396,7 +461,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T05:14:01.350Z",
-    "count": 17
+    "generatedAt": "2026-10-31T12:07:43.656Z",
+    "count": 20
   }
 }
