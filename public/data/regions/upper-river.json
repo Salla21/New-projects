@@ -22,79 +22,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f54ce8566f608672",
-      "title": "Court Orders Bubacarr Baldeh’s Removal from Voter List",
-      "summary": "By Louise Jobe The Basse Revising Court has ordered the removal of Bubacarr Baldeh’s name from the voter list after finding that the Alkalo attestation he used for registration was defective. Senior Magistrate M. S. Dem delivered the judgment on 22 September 2026 in case numbe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/court-orders-bubacarr-baldehs-removal-from-voter-list/",
-      "publishedAt": "2026-10-26T12:33:53.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f29cfb9f58bafeff",
-      "title": "Basse Court Orders Removal of Voter from Register Over Defective Birth Certificate",
-      "summary": "By Louise Jobe A magistrate at the Basse Revising Court has ordered the removal of a registered voter from the voter list after finding that the birth certificate presented during registration was not sealed by the Registrar of Births. Senior Magistrate M. S. Dem made the ruli...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/basse-court-orders-removal-of-voter-from-register-over-defective-birth-certificate/",
-      "publishedAt": "2026-10-26T12:24:30.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2f3019dd9f990a9f",
-      "title": "Basse Court Orders Removal of Voter in Tumana Constituency Over Unsigned Alkalo Attestation",
-      "summary": "By Louise Jobe A magistrate at the Basse Revising Court has ordered the removal of Maimuna Jawo from the voter list after finding that the attestation she used to register lacked the signature or thumbprint of the issuing Alkalo. Senior Magistrate M. S. Dem made the ruling on ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/basse-court-orders-removal-of-voter-in-tumana-constituency-over-unsigned-alkalo-attestation/",
-      "publishedAt": "2026-10-26T12:21:41.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T23:37:34.414Z",
-    "count": 4
+    "generatedAt": "2026-10-31T05:14:01.350Z",
+    "count": 1
   }
 }

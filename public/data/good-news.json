@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "b692d7b6b05fc644",
+      "title": "Darboe Accuses Government of Witch Hunt Against UDP Councils Over White Paper",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and party leader ANM Ousainu Darboe has condemned the government’s White Paper on the Local Government Commission of Inquiry report, describing its recommendations as a politically motivated witch hunt targeting opp...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-accuses-government-of-witch-hunt-against-udp-councils-over-white-paper/",
+      "publishedAt": "2026-10-31T00:41:39.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1235ea7309f5cd80",
       "title": "IMF Flags High Cost of Doing Business in The Gambia Despite Strong Reform Performance",
       "summary": "By Makutu Manneh The International Monetary Fund (IMF) has identified the high cost of doing business in The Gambia as a major obstacle to attracting private investment, even as the country records strong performance under its reform programme. Eva Jenkner, who led the IMF mis...",
@@ -360,29 +385,6 @@
       "status": "published"
     },
     {
-      "id": "85430ea908361de0",
-      "title": "Young Scorpions Celebrate as Gambia Secures Another AFCON Qualification!",
-      "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ dressing room erupted in celebration after The Gambia defeated Sierra Leone 2-0 in Sunday’s West African Football Union (WAFU) Zone A semifinal in Mali, securing a place in Friday’s final against Guinea and qualification for...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/young-scorpions-celebrate-as-gambia-secures-another-afcon-qualification/",
-      "publishedAt": "2026-10-26T13:18:45.000Z",
-      "collectedAt": "2026-10-26T19:50:19.246Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -391,7 +393,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-30T23:37:28.203Z",
+      "collectedAt": "2026-10-31T05:13:55.695Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -405,7 +407,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T23:37:34.414Z",
+    "generatedAt": "2026-10-31T05:14:01.350Z",
     "count": 18
   }
 }

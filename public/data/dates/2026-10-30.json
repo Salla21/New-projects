@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "1d3b087fae09e07a",
+      "title": "Bensouda Accuses Government of Altering Local Government Commission Report, Questions Legality of Its Release",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and Coalition 2026 presidential candidate, has accused the government of inserting additional information into the Local Government Commission of Inquiry report before making it public, alleging that the published...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-accuses-government-of-altering-local-government-commission-report-questions-legality-of-its-release/",
+      "publishedAt": "2026-10-30T23:56:52.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "faa30e1073d40ad5",
+      "title": "Gambia Set to Receive Additional $28 Million as IMF Reaches Staff-Level Agreement",
+      "summary": "By Makutu Manneh The Gambia is poised to receive an additional $28 million in financing from the International Monetary Fund (IMF) following a staff-level agreement on the latest reviews of the country’s economic reform and climate resilience programs. The agreement, equivalen...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-set-to-receive-additional-28-million-as-imf-reaches-staff-level-agreement/",
+      "publishedAt": "2026-10-30T23:49:54.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1ef9128d8c429f2d",
+      "title": "Gambia on Track to Complete Two Back-to-Back IMF Programmes, Finance Minister Says",
+      "summary": "By Makutu Manneh The Gambia is on course to make history by completing two consecutive Extended Credit Facility (ECF) programmes, according to Minister of Finance and Economic Affairs Seedy Keita. Speaking at a press conference on Friday, Keita discussed the International Mone...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-on-track-to-complete-two-back-to-back-imf-programmes-finance-minister-says/",
+      "publishedAt": "2026-10-30T23:39:45.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1235ea7309f5cd80",
       "title": "IMF Flags High Cost of Doing Business in The Gambia Despite Strong Reform Performance",
       "summary": "By Makutu Manneh The International Monetary Fund (IMF) has identified the high cost of doing business in The Gambia as a major obstacle to attracting private investment, even as the country records strong performance under its reform programme. Eva Jenkner, who led the IMF mis...",
@@ -459,7 +527,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T23:37:34.414Z",
-    "count": 20
+    "generatedAt": "2026-10-31T05:14:01.350Z",
+    "count": 23
   }
 }

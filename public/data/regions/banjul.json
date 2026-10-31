@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "id": "b692d7b6b05fc644",
+      "title": "Darboe Accuses Government of Witch Hunt Against UDP Councils Over White Paper",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and party leader ANM Ousainu Darboe has condemned the government’s White Paper on the Local Government Commission of Inquiry report, describing its recommendations as a politically motivated witch hunt targeting opp...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-accuses-government-of-witch-hunt-against-udp-councils-over-white-paper/",
+      "publishedAt": "2026-10-31T00:41:39.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4985fdf7213284c6",
+      "title": "Bensouda Warns of Return to Dictatorship Under Barrow, Accuses Government of Selective Accountability",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has warned that The Gambia risks sliding back into dictatorship under President Adama Barrow, accusing the president of abandoning the democratic principles he once ch...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-warns-of-return-to-dictatorship-under-barrow-accuses-government-of-selective-accountability/",
+      "publishedAt": "2026-10-31T00:07:38.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1d3b087fae09e07a",
+      "title": "Bensouda Accuses Government of Altering Local Government Commission Report, Questions Legality of Its Release",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and Coalition 2026 presidential candidate, has accused the government of inserting additional information into the Local Government Commission of Inquiry report before making it public, alleging that the published...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-accuses-government-of-altering-local-government-commission-report-questions-legality-of-its-release/",
+      "publishedAt": "2026-10-30T23:56:52.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "faa30e1073d40ad5",
+      "title": "Gambia Set to Receive Additional $28 Million as IMF Reaches Staff-Level Agreement",
+      "summary": "By Makutu Manneh The Gambia is poised to receive an additional $28 million in financing from the International Monetary Fund (IMF) following a staff-level agreement on the latest reviews of the country’s economic reform and climate resilience programs. The agreement, equivalen...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-set-to-receive-additional-28-million-as-imf-reaches-staff-level-agreement/",
+      "publishedAt": "2026-10-30T23:49:54.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1ef9128d8c429f2d",
+      "title": "Gambia on Track to Complete Two Back-to-Back IMF Programmes, Finance Minister Says",
+      "summary": "By Makutu Manneh The Gambia is on course to make history by completing two consecutive Extended Credit Facility (ECF) programmes, according to Minister of Finance and Economic Affairs Seedy Keita. Speaking at a press conference on Friday, Keita discussed the International Mone...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-on-track-to-complete-two-back-to-back-imf-programmes-finance-minister-says/",
+      "publishedAt": "2026-10-30T23:39:45.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1235ea7309f5cd80",
       "title": "IMF Flags High Cost of Doing Business in The Gambia Despite Strong Reform Performance",
       "summary": "By Makutu Manneh The International Monetary Fund (IMF) has identified the high cost of doing business in The Gambia as a major obstacle to attracting private investment, even as the country records strong performance under its reform programme. Eva Jenkner, who led the IMF mis...",
@@ -1664,29 +1781,6 @@
       "status": "published"
     },
     {
-      "id": "85430ea908361de0",
-      "title": "Young Scorpions Celebrate as Gambia Secures Another AFCON Qualification!",
-      "summary": "Written by: Seringe S.T. Touray The Young Scorpions’ dressing room erupted in celebration after The Gambia defeated Sierra Leone 2-0 in Sunday’s West African Football Union (WAFU) Zone A semifinal in Mali, securing a place in Friday’s final against Guinea and qualification for...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/young-scorpions-celebrate-as-gambia-secures-another-afcon-qualification/",
-      "publishedAt": "2026-10-26T13:18:45.000Z",
-      "collectedAt": "2026-10-26T19:50:19.246Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "87aa3ae25ef1f542",
       "title": "Fula Gangstar Wants to Make Peace With Star Girl as Fans Wait for the Full Story!",
       "summary": "What really went wrong between Fula Gangstar and Star Girl? That is the question on the…\nThe post Fula Gangstar Wants to Make Peace With Star Girl as Fans Wait for the Full Story! appeared first on What's On Gambia.",
@@ -1695,7 +1789,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/fula-gangstar-wants-to-make-peace-with-star-girl-as-fans-wait-for-the-full-story/",
       "publishedAt": "2026-10-21T02:21:43.000Z",
-      "collectedAt": "2026-10-30T23:37:28.203Z",
+      "collectedAt": "2026-10-31T05:13:55.695Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1716,7 +1810,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-30T23:37:28.203Z",
+      "collectedAt": "2026-10-31T05:13:55.695Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1737,7 +1831,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-30T23:37:28.203Z",
+      "collectedAt": "2026-10-31T05:13:55.695Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1760,7 +1854,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-30T23:37:28.203Z",
+      "collectedAt": "2026-10-31T05:13:55.695Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1783,7 +1877,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-30T23:37:28.203Z",
+      "collectedAt": "2026-10-31T05:13:55.695Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1799,7 +1893,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T23:37:34.414Z",
-    "count": 78
+    "generatedAt": "2026-10-31T05:14:01.350Z",
+    "count": 82
   }
 }

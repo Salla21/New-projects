@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "id": "b692d7b6b05fc644",
+      "title": "Darboe Accuses Government of Witch Hunt Against UDP Councils Over White Paper",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and party leader ANM Ousainu Darboe has condemned the government’s White Paper on the Local Government Commission of Inquiry report, describing its recommendations as a politically motivated witch hunt targeting opp...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-accuses-government-of-witch-hunt-against-udp-councils-over-white-paper/",
+      "publishedAt": "2026-10-31T00:41:39.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4985fdf7213284c6",
+      "title": "Bensouda Warns of Return to Dictatorship Under Barrow, Accuses Government of Selective Accountability",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has warned that The Gambia risks sliding back into dictatorship under President Adama Barrow, accusing the president of abandoning the democratic principles he once ch...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-warns-of-return-to-dictatorship-under-barrow-accuses-government-of-selective-accountability/",
+      "publishedAt": "2026-10-31T00:07:38.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1d3b087fae09e07a",
+      "title": "Bensouda Accuses Government of Altering Local Government Commission Report, Questions Legality of Its Release",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and Coalition 2026 presidential candidate, has accused the government of inserting additional information into the Local Government Commission of Inquiry report before making it public, alleging that the published...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-accuses-government-of-altering-local-government-commission-report-questions-legality-of-its-release/",
+      "publishedAt": "2026-10-30T23:56:52.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1ef9128d8c429f2d",
+      "title": "Gambia on Track to Complete Two Back-to-Back IMF Programmes, Finance Minister Says",
+      "summary": "By Makutu Manneh The Gambia is on course to make history by completing two consecutive Extended Credit Facility (ECF) programmes, according to Minister of Finance and Economic Affairs Seedy Keita. Speaking at a press conference on Friday, Keita discussed the International Mone...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-on-track-to-complete-two-back-to-back-imf-programmes-finance-minister-says/",
+      "publishedAt": "2026-10-30T23:39:45.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5ecca4f5695c5f00",
       "title": "Waste Management Is a Shared Responsibility, Says BAC Chairman Darboe",
       "summary": "By Seedy Jobe The Chairman of the Brikama Area Council (BAC), Yankuba Darboe, has said that the success of waste management in The Gambia depends on community participation and cannot be left to government institutions and private companies alone. Mr. Darboe made the remarks a...",
@@ -1671,98 +1767,6 @@
       "status": "published"
     },
     {
-      "id": "380db06bf2002b44",
-      "title": "Final Results of the Revising Courts",
-      "summary": "Basse, Brikama, Farafenni & Kanifing By Louise Jobe & Mariama Marong Revising court sittings have ended across The Gambia, with courts in different regions reviewing cases involving objections to voters’ registration and deciding whether the affected voters should remain on th...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/final-results-of-the-revising-courts/",
-      "publishedAt": "2026-10-26T12:35:56.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f54ce8566f608672",
-      "title": "Court Orders Bubacarr Baldeh’s Removal from Voter List",
-      "summary": "By Louise Jobe The Basse Revising Court has ordered the removal of Bubacarr Baldeh’s name from the voter list after finding that the Alkalo attestation he used for registration was defective. Senior Magistrate M. S. Dem delivered the judgment on 22 September 2026 in case numbe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/court-orders-bubacarr-baldehs-removal-from-voter-list/",
-      "publishedAt": "2026-10-26T12:33:53.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f29cfb9f58bafeff",
-      "title": "Basse Court Orders Removal of Voter from Register Over Defective Birth Certificate",
-      "summary": "By Louise Jobe A magistrate at the Basse Revising Court has ordered the removal of a registered voter from the voter list after finding that the birth certificate presented during registration was not sealed by the Registrar of Births. Senior Magistrate M. S. Dem made the ruli...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/basse-court-orders-removal-of-voter-from-register-over-defective-birth-certificate/",
-      "publishedAt": "2026-10-26T12:24:30.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2f3019dd9f990a9f",
-      "title": "Basse Court Orders Removal of Voter in Tumana Constituency Over Unsigned Alkalo Attestation",
-      "summary": "By Louise Jobe A magistrate at the Basse Revising Court has ordered the removal of Maimuna Jawo from the voter list after finding that the attestation she used to register lacked the signature or thumbprint of the issuing Alkalo. Senior Magistrate M. S. Dem made the ruling on ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/basse-court-orders-removal-of-voter-in-tumana-constituency-over-unsigned-alkalo-attestation/",
-      "publishedAt": "2026-10-26T12:21:41.000Z",
-      "collectedAt": "2026-10-26T12:42:51.471Z",
-      "region": "upper-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1771,7 +1775,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-30T23:37:28.203Z",
+      "collectedAt": "2026-10-31T05:13:55.695Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1787,7 +1791,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T23:37:34.414Z",
+    "generatedAt": "2026-10-31T05:14:01.350Z",
     "count": 76
   }
 }

@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "b692d7b6b05fc644",
+      "title": "Darboe Accuses Government of Witch Hunt Against UDP Councils Over White Paper",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and party leader ANM Ousainu Darboe has condemned the government’s White Paper on the Local Government Commission of Inquiry report, describing its recommendations as a politically motivated witch hunt targeting opp...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-accuses-government-of-witch-hunt-against-udp-councils-over-white-paper/",
+      "publishedAt": "2026-10-31T00:41:39.000Z",
+      "collectedAt": "2026-10-31T05:13:57.292Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "dcd9a79eb58ddfa3",
       "title": "Gambia Immigration Department Intercepts 62 Suspected Irregular Migrants in Tanji and Brufut Ghana Town",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 62 suspected irregular migrants, including six minors, during a joint operation in Tanji and Brufut Ghana Town on Wednesday, October 28, 2026. According to a statement issued by the department, the operat...",
@@ -195,7 +220,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-30T23:37:34.414Z",
-    "count": 8
+    "generatedAt": "2026-10-31T05:14:01.350Z",
+    "count": 9
   }
 }
