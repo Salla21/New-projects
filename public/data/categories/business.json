@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1c5f40e2baf78593",
+      "title": "Barrow Plans Major Market and Garage at Bakoteh Dumpsite",
+      "summary": "By Makutu Manneh President Adama Barrow has announced plans to transform the Bakoteh dumpsite into a major commercial hub, featuring what he described as the largest market and garage in The Gambia and Africa. The proposed development, he said, would accommodate the relocation...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-plans-major-market-and-garage-at-bakoteh-dumpsite/",
+      "publishedAt": "2026-10-31T21:17:57.000Z",
+      "collectedAt": "2026-10-31T23:17:04.362Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "08e68a0e3b77f3fe",
       "title": "Gambia Partners Senegalese Fintech Firm to Tackle Revenue Leakages",
       "summary": "By Dawda Baldeh The Gambian government has signed a 10-year agreement with Senegal-based fintech company InTouch aimed at strengthening revenue collection, improving transparency and reducing tax evasion, beginning with the country’s growing online gaming sector. Under the agr...",
@@ -874,7 +898,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-31T18:25:43.640Z",
+      "collectedAt": "2026-10-31T23:17:00.057Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -897,7 +921,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-31T18:25:43.640Z",
+      "collectedAt": "2026-10-31T23:17:00.057Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -913,7 +937,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T18:25:49.494Z",
-    "count": 38
+    "generatedAt": "2026-10-31T23:17:08.498Z",
+    "count": 39
   }
 }

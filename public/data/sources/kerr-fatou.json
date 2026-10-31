@@ -1,6 +1,99 @@
 {
   "items": [
     {
+      "id": "c1d98fb7abf303ea",
+      "title": "Bensouda Warns IEC Against Political Interference, Accuses Barrow of Trying to Block His Candidacy",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has called on the Independent Electoral Commission (IEC) to safeguard its independence and resist political interference ahead of The Gambia’s December 5 presidential ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-warns-iec-against-political-interference-accuses-barrow-of-trying-to-block-his-candidacy/",
+      "publishedAt": "2026-10-31T23:16:39.000Z",
+      "collectedAt": "2026-10-31T23:17:04.362Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0164b44e0d8b732f",
+      "title": "GFC-UDP Alliance Cites Decade of Governance Failures, Pledges Constitutional and Institutional Reforms",
+      "summary": "By Seedy Jobe The Gambia First Coalition (GFC)-UDP-led alliance has outlined what it describes as a decade of governance failures under President Adama Barrow’s administration, pledging sweeping constitutional, institutional, and economic reforms aimed at restoring public conf...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gfc-udp-alliance-cites-decade-of-governance-failures-pledges-constitutional-and-institutional-reforms/",
+      "publishedAt": "2026-10-31T22:48:22.000Z",
+      "collectedAt": "2026-10-31T23:17:04.362Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1c5f40e2baf78593",
+      "title": "Barrow Plans Major Market and Garage at Bakoteh Dumpsite",
+      "summary": "By Makutu Manneh President Adama Barrow has announced plans to transform the Bakoteh dumpsite into a major commercial hub, featuring what he described as the largest market and garage in The Gambia and Africa. The proposed development, he said, would accommodate the relocation...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-plans-major-market-and-garage-at-bakoteh-dumpsite/",
+      "publishedAt": "2026-10-31T21:17:57.000Z",
+      "collectedAt": "2026-10-31T23:17:04.362Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5a4e39002d793da1",
+      "title": "Barrow Promises Uninterrupted Electricity, Lower Tariffs After Signing $160 Million Solar Deal",
+      "summary": "By Makutu Manneh President Adama Barrow has pledged to ensure an uninterrupted electricity supply and reduce electricity tariffs following the signing of a $160 million solar energy contract, which he described as the largest of its kind in The Gambia’s history. The president ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-promises-uninterrupted-electricity-lower-tariffs-after-signing-160-million-solar-deal/",
+      "publishedAt": "2026-10-31T21:13:26.000Z",
+      "collectedAt": "2026-10-31T23:17:04.362Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8bcf373f0475bcd2",
       "title": "GFC-UDP-Led Alliance Pledges Inclusive Government, Rejects Ethnic Politics",
       "summary": "By Seedy Jobe The coalition led by the UDP has reaffirmed its collective endorsement of a joint manifesto, which a senior partner described as the product of inclusive and thorough consultation. Bolong Sonko, Chief of Staff of Gambia For All (GFA), spoke on behalf of the coali...",
@@ -892,7 +985,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T18:25:49.494Z",
-    "count": 38
+    "generatedAt": "2026-10-31T23:17:08.498Z",
+    "count": 42
   }
 }

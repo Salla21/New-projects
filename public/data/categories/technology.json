@@ -309,33 +309,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9d1cb4759ede754b",
-      "title": "Nigerian Woman Challenges 21-Year Sentence for Human Trafficking in The Gambia",
-      "summary": "By Mariama Marong A Nigerian woman sentenced to 21 years in prison for human trafficking in The Gambia has appealed against her conviction and sentence at the High Court in Banjul. Obanla Damilola Beatrice’s appeal is before Justice Sonia, following her conviction on 28 March ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/nigerian-woman-challenges-21-year-sentence-for-human-trafficking-in-the-gambia/",
-      "publishedAt": "2026-10-27T13:01:01.000Z",
-      "collectedAt": "2026-10-27T17:54:06.295Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T18:25:49.494Z",
-    "count": 14
+    "generatedAt": "2026-10-31T23:17:08.498Z",
+    "count": 13
   }
 }

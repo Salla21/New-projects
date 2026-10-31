@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "bd0b09240138bcfb",
+      "title": "Investigation Uncovers Questionable Land Allocations to President Barrow, Family and Business Amid Allegations of Elite Favouritism",
+      "summary": "Written by: Seringe S.T. Touray A prime piece of government land in Fajara, valued at D40 million, was allocated to President Adama Barrow’s private property business, Majum, just three months after car dealers were ordered to vacate part of the area during a government road-c...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/investigation-uncovers-questionable-land-allocations-to-president-barrow-family-and-business-amid-allegations-of-elite-favouritism/",
+      "publishedAt": "2026-10-31T19:31:38.000Z",
+      "collectedAt": "2026-10-31T23:17:00.400Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fa3e8e0b95eb50cc",
       "title": "Djeliba Leisure Group, Qcell Sign Fiber Agreement to Strengthen Connectivity in Tourism Sector",
       "summary": "By Seedy Jobe Djeliba Leisure Group and Qcell on Friday signed a corporate fiber agreement aimed at improving connectivity and digital services across The Gambia’s tourism sector. The signing ceremony took place at the Barracuda Beach restaurant at Kombo Beach Resort in Kotu. ...",
@@ -143,7 +166,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T18:25:49.494Z",
-    "count": 6
+    "generatedAt": "2026-10-31T23:17:08.498Z",
+    "count": 7
   }
 }

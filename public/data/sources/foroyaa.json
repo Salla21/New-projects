@@ -654,100 +654,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9ba9aa13994bf6e9",
-      "title": "Former UTG Lecturer Renews Warning Over Faraba Campus Challenges",
-      "summary": "A former lecturer at the University of The Gambia (UTG), Dr Alieu Gibba, has renewed his criticism of the relocation of academic staff and students to the university’s Faraba campus. He said basic services were not fully available when the move took place. Dr Gibba said he had...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/former-utg-lecturer-renews-warning-over-faraba-campus-challenges/",
-      "publishedAt": "2026-10-27T13:51:46.000Z",
-      "collectedAt": "2026-10-27T17:54:06.295Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f374a391f9f4bdb4",
-      "title": "‘We Might Have Oil, But We Have Not Discovered Oil’ – Minister Says",
-      "summary": "By Assan Bah The Minister of Petroleum, Energy and Mines Minister Nani Juwara has said that The Gambia may have oil, but the government has yet to confirm a discovery that can be produced and sold commercially.  “Yes, we might have oil, but we have not discovered oil,” Mr Juwa...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/we-might-have-oil-but-we-have-not-discovered-oil-minister-says/",
-      "publishedAt": "2026-10-27T13:03:52.000Z",
-      "collectedAt": "2026-10-27T17:54:06.295Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9d1cb4759ede754b",
-      "title": "Nigerian Woman Challenges 21-Year Sentence for Human Trafficking in The Gambia",
-      "summary": "By Mariama Marong A Nigerian woman sentenced to 21 years in prison for human trafficking in The Gambia has appealed against her conviction and sentence at the High Court in Banjul. Obanla Damilola Beatrice’s appeal is before Justice Sonia, following her conviction on 28 March ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/nigerian-woman-challenges-21-year-sentence-for-human-trafficking-in-the-gambia/",
-      "publishedAt": "2026-10-27T13:01:01.000Z",
-      "collectedAt": "2026-10-27T17:54:06.295Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8cc7ef6af44837e8",
-      "title": "Professor Gomez Receives Petition from Protesting UTG Students",
-      "summary": "Promises to Address Welfare Concerns By Nelson Manneh The Minister of Higher Education Professor Pierre Gomez has promised to address student welfare problems at the University of The Gambia (UTG) after students staged a peaceful demonstration at the Chancery head office in Ka...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/professor-gomez-receives-petition-from-protesting-utg-students/",
-      "publishedAt": "2026-10-27T12:38:35.000Z",
-      "collectedAt": "2026-10-27T17:54:06.295Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T18:25:49.494Z",
-    "count": 32
+    "generatedAt": "2026-10-31T23:17:08.498Z",
+    "count": 28
   }
 }

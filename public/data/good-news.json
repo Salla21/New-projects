@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "b428f4a1837129e4",
+      "title": "President Barrow Accused of Interfering in State Land Audit Amid Revelations of Multiple Land Allocations to Him and His Private Business",
+      "summary": "Written by: Seringe S.T. Touray President Adama Barrow allegedly pressured former Auditor General Modou Ceesay to halt an investigation into government land allocations, including an audit covering a period in which the President himself received state land, according to a new...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-accused-of-interfering-in-state-land-audit-amid-revelations-of-multiple-land-allocations-to-him-and-his-private-business/",
+      "publishedAt": "2026-10-31T20:35:04.000Z",
+      "collectedAt": "2026-10-31T23:17:00.400Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bd0b09240138bcfb",
+      "title": "Investigation Uncovers Questionable Land Allocations to President Barrow, Family and Business Amid Allegations of Elite Favouritism",
+      "summary": "Written by: Seringe S.T. Touray A prime piece of government land in Fajara, valued at D40 million, was allocated to President Adama Barrow’s private property business, Majum, just three months after car dealers were ordered to vacate part of the area during a government road-c...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/investigation-uncovers-questionable-land-allocations-to-president-barrow-family-and-business-amid-allegations-of-elite-favouritism/",
+      "publishedAt": "2026-10-31T19:31:38.000Z",
+      "collectedAt": "2026-10-31T23:17:00.400Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2f99e91e49093c4b",
       "title": "Darboe Unveils Gambia First Coalition Manifesto, Pledges One-Term Presidency and Sweeping Reforms",
       "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), ANM Ousainou Darboe, has formally launched the Gambia First Alliance (GFA)-UDP-led coalition’s manifesto, outlining an ambitious agenda for economic recovery, constitutional reform, impr...",
@@ -432,29 +478,6 @@
       "status": "published"
     },
     {
-      "id": "0d94d73e76909491",
-      "title": "Barrow Inaugurates Over 104km of Roads in URR and LRR, Promises Development Across Gambia",
-      "summary": "Written by: Mama A. Touray President Adama Barrow has inaugurated more than 104 kilometres of roads in the Upper River Region (URR) and Lower River Region (LRR), promising to extend infrastructure development to communities across The Gambia. The two government-funded projects...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/barrow-inaugurates-over-104km-of-roads-in-urr-and-lrr-promises-development-across-gambia/",
-      "publishedAt": "2026-10-27T10:56:51.000Z",
-      "collectedAt": "2026-10-27T11:57:50.890Z",
-      "region": "lower-river",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -463,7 +486,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-10-31T18:25:43.640Z",
+      "collectedAt": "2026-10-31T23:17:00.057Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -477,7 +500,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T18:25:49.494Z",
-    "count": 21
+    "generatedAt": "2026-10-31T23:17:08.498Z",
+    "count": 22
   }
 }
