@@ -390,56 +390,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fb63ade5b1322b74",
-      "title": "IS THE POLITICS OF ISSUES GAINING PROMINENCE?",
-      "summary": "At a given time, there were forbidden exchanges between the opposition and the ruling coalition manifesting themselves in the form of subterfuges, tirades, mudslinging and what not. Such exchanges are contrary to the code of ethics of the IEC. Only politicians who have nothing...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/is-the-politics-of-issues-gaining-prominence/",
-      "publishedAt": "2026-10-27T09:14:23.000Z",
-      "collectedAt": "2026-10-27T11:57:50.175Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1fd6d88faaa07720",
-      "title": "CITIZENSHIP ISSUE MUST BE RESOLVED",
-      "summary": "Many people believe that they are citizens while they are not. Being born in The Gambia does not automatically make you a citizen of The Gambia. One of your grand parents or parents must have been born in The Gambia, if you were born before the 1997 Constitution came into forc...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/citizenship-issue-must-be-resolved/",
-      "publishedAt": "2026-10-27T09:13:10.000Z",
-      "collectedAt": "2026-10-27T11:57:50.175Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T12:07:43.656Z",
-    "count": 19
+    "generatedAt": "2026-10-31T18:25:49.494Z",
+    "count": 17
   }
 }

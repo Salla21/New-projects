@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "08e68a0e3b77f3fe",
+      "title": "Gambia Partners Senegalese Fintech Firm to Tackle Revenue Leakages",
+      "summary": "By Dawda Baldeh The Gambian government has signed a 10-year agreement with Senegal-based fintech company InTouch aimed at strengthening revenue collection, improving transparency and reducing tax evasion, beginning with the country’s growing online gaming sector. Under the agr...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-partners-senegalese-fintech-firm-to-tackle-revenue-leakages/",
+      "publishedAt": "2026-10-31T12:19:10.000Z",
+      "collectedAt": "2026-10-31T18:25:44.031Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d4a904ad7580ae6a",
       "title": "3 leadership and feminine energy lessons we can learn from Marine Le Pen of France 🇫🇷",
       "summary": "By RamaTulai On 25 October this week, Marine Le Pen stood before thousands of supporters in Orléans, France, launching her 2027 presidential campaign with a speech promising a new direction and a national renewal. Now, before anyone panics, this isn’t a political endorsement. ...",
@@ -842,30 +866,6 @@
       "status": "published"
     },
     {
-      "id": "ae056430751dd9e0",
-      "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-cites-markets-sports-facilities-and-waste-management-reforms/",
-      "publishedAt": "2026-10-26T22:11:41.000Z",
-      "collectedAt": "2026-10-26T23:45:38.731Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "bbc6204f2840fde3",
       "title": "Sister in Trouble After Bailing Thief Brother",
       "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
@@ -874,7 +874,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-10-31T12:07:37.244Z",
+      "collectedAt": "2026-10-31T18:25:43.640Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -897,7 +897,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-10-31T12:07:37.244Z",
+      "collectedAt": "2026-10-31T18:25:43.640Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -913,7 +913,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T12:07:43.656Z",
+    "generatedAt": "2026-10-31T18:25:49.494Z",
     "count": 38
   }
 }

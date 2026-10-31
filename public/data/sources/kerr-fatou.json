@@ -1,6 +1,101 @@
 {
   "items": [
     {
+      "id": "8bcf373f0475bcd2",
+      "title": "GFC-UDP-Led Alliance Pledges Inclusive Government, Rejects Ethnic Politics",
+      "summary": "By Seedy Jobe The coalition led by the UDP has reaffirmed its collective endorsement of a joint manifesto, which a senior partner described as the product of inclusive and thorough consultation. Bolong Sonko, Chief of Staff of Gambia For All (GFA), spoke on behalf of the coali...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gfc-udp-led-alliance-pledges-inclusive-government-rejects-ethnic-politics/",
+      "publishedAt": "2026-10-31T17:05:58.000Z",
+      "collectedAt": "2026-10-31T18:25:45.384Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2f99e91e49093c4b",
+      "title": "Darboe Unveils Gambia First Coalition Manifesto, Pledges One-Term Presidency and Sweeping Reforms",
+      "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), ANM Ousainou Darboe, has formally launched the Gambia First Alliance (GFA)-UDP-led coalition’s manifesto, outlining an ambitious agenda for economic recovery, constitutional reform, impr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-unveils-gambia-first-coalition-manifesto-pledges-one-term-presidency-and-sweeping-reforms/",
+      "publishedAt": "2026-10-31T16:56:08.000Z",
+      "collectedAt": "2026-10-31T18:25:45.384Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "11657c6a5bac6cd0",
+      "title": "Darboe Raises Alarm Over Illegal Fishing, Pledges to Protect Gambia’s Waters and Create Jobs",
+      "summary": "By Seedy Jobe ANM Ousainu Darboe, Secretary General and Party Leader of the United Democratic Party (UDP), has raised concerns over illegal fishing in Gambian waters, accusing foreign trawlers of exploiting the country’s marine resources while contributing little to the local ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-raises-alarm-over-illegal-fishing-pledges-to-protect-gambias-waters-and-create-jobs/",
+      "publishedAt": "2026-10-31T16:44:48.000Z",
+      "collectedAt": "2026-10-31T18:25:45.384Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e4cb71e2355c9c14",
+      "title": "Darboe Pledges Better Pay, Working Conditions for Security Personnel Under UDP Government",
+      "summary": "By Seedy Jobe The Secretary General and party leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has pledged to improve salaries, working conditions, and welfare for members of The Gambia’s security services if elected president in the December 5 presidential ele...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-better-pay-working-conditions-for-security-personnel-under-udp-government/",
+      "publishedAt": "2026-10-31T16:39:21.000Z",
+      "collectedAt": "2026-10-31T18:25:45.384Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b692d7b6b05fc644",
       "title": "Darboe Accuses Government of Witch Hunt Against UDP Councils Over White Paper",
       "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and party leader ANM Ousainu Darboe has condemned the government’s White Paper on the Local Government Commission of Inquiry report, describing its recommendations as a politically motivated witch hunt targeting opp...",
@@ -794,57 +889,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e8aeed0291dbc3dd",
-      "title": "Omar Sanyang Says GALA Serves Gambians, Not Opposition Political Parties",
-      "summary": "By Fatou Sillah Omar Sanyang, Secretary General of Gambians Against Looted Assets (GALA), has dismissed claims that the movement is advancing the interests of opposition political parties, insisting that its campaign is driven by a commitment to accountability and the interest...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/omar-sanyang-says-gala-serves-gambians-not-opposition-political-parties/",
-      "publishedAt": "2026-10-26T22:29:06.000Z",
-      "collectedAt": "2026-10-26T23:45:38.731Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ae056430751dd9e0",
-      "title": "Bensouda Defends Record as KMC Mayor, Cites Markets, Sports Facilities, and Waste Management Reforms",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, Mayor of the Kanifing Municipal Council (KMC) and presidential candidate of Coalition 2026, has defended his record in office, pointing to investments in public infrastructure, sports facilities and waste management as evidence of his admi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-defends-record-as-kmc-mayor-cites-markets-sports-facilities-and-waste-management-reforms/",
-      "publishedAt": "2026-10-26T22:11:41.000Z",
-      "collectedAt": "2026-10-26T23:45:38.731Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T12:07:43.656Z",
-    "count": 36
+    "generatedAt": "2026-10-31T18:25:49.494Z",
+    "count": 38
   }
 }

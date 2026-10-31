@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "1cc6d3c35d29fe3e",
+      "title": "Bitcoin Tower: Six Million Euros Missing – or a Story Full of Contradictions?",
+      "summary": "Written by: Seringe S.T. Touray Further Criminal Complaint Against Ebrima Solomon Tamba and Marcel van Andel Raises Questions About Public Fraud Allegations, Contradictory Statements and the Role of the Gambian Police How can allegations involving more than six million euros b...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-six-million-euros-missing-or-a-story-full-of-contradictions/",
+      "publishedAt": "2026-10-31T16:49:57.000Z",
+      "collectedAt": "2026-10-31T18:25:44.031Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "08e68a0e3b77f3fe",
+      "title": "Gambia Partners Senegalese Fintech Firm to Tackle Revenue Leakages",
+      "summary": "By Dawda Baldeh The Gambian government has signed a 10-year agreement with Senegal-based fintech company InTouch aimed at strengthening revenue collection, improving transparency and reducing tax evasion, beginning with the country’s growing online gaming sector. Under the agr...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-partners-senegalese-fintech-firm-to-tackle-revenue-leakages/",
+      "publishedAt": "2026-10-31T12:19:10.000Z",
+      "collectedAt": "2026-10-31T18:25:44.031Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4985fdf7213284c6",
       "title": "Bensouda Warns of Return to Dictatorship Under Barrow, Accuses Government of Selective Accountability",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has warned that The Gambia risks sliding back into dictatorship under President Adama Barrow, accusing the president of abandoning the democratic principles he once ch...",
@@ -288,7 +335,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T12:07:43.656Z",
-    "count": 12
+    "generatedAt": "2026-10-31T18:25:49.494Z",
+    "count": 14
   }
 }
