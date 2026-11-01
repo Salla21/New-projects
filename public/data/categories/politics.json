@@ -1701,76 +1701,6 @@
       "status": "published"
     },
     {
-      "id": "93d18af4fd6b7c6b",
-      "title": "NDP Leader Urges Brikama Ba Residents to Vote for Candidates Who Will Defend Their Rights",
-      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party (NDP), has urged residents of Brikama Ba to support his party in the upcoming elections, promising that NDP representatives would champion their rights and address their concerns in the National Assemb...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndp-leader-urges-brikama-ba-residents-to-vote-for-candidates-who-will-defend-their-rights/",
-      "publishedAt": "2026-10-27T18:20:42.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "07f2b8332a4c7c80",
-      "title": "Sidia Jatta Blames Gambia’s Persistent Poverty on Repeated Political Choices",
-      "summary": "By Makutu Manneh Veteran Gambian politician Sidia Jatta, one of the initiators of the Team Gambia Grand Coalition, has expressed concern over the country’s persistent poverty 61 years after independence, arguing that repeated political choices have contributed to its failure t...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sidia-jatta-blames-gambias-persistent-poverty-on-repeated-political-choices/",
-      "publishedAt": "2026-10-27T17:53:12.000Z",
-      "collectedAt": "2026-10-27T17:54:20.603Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "38859296450fe416",
-      "title": "Objectors Lose 16 Out of 17 Cases Filed Before Brusubi Revising Court",
-      "summary": "By Mariama Marong The Brusubi Revising Court has ruled in favour of voters in 16 out of 17 voter registration objection cases heard by Magistrate Mam Samba Jallow. Of the 17 cases, one was decided in favour of an objector, while another was struck out. In the case of Tijan Boj...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/objectors-lose-16-out-of-17-cases-filed-before-brusubi-revising-court/",
-      "publishedAt": "2026-10-27T14:15:14.000Z",
-      "collectedAt": "2026-10-27T17:54:06.295Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "96a18377d48f69eb",
       "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
       "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
@@ -1779,7 +1709,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-10-31T23:17:00.057Z",
+      "collectedAt": "2026-11-01T05:41:19.289Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1795,7 +1725,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T23:17:08.498Z",
-    "count": 76
+    "generatedAt": "2026-11-01T05:41:25.326Z",
+    "count": 73
   }
 }
