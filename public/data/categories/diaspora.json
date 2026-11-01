@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "5627bfdb8d2f32b3",
+      "title": "Darboe Vows Crackdown on Hate Speech, Says Tribalism Has No Place in The Gambia",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader and Secretary General ANM Ousainu Darboe has pledged to confront tribalism and hate speech if elected president, warning that ethnic divisions pose a serious threat to national unity and peaceful coexistence in The Gambia.Spea...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-vows-crackdown-on-hate-speech-says-tribalism-has-no-place-in-the-gambia/",
+      "publishedAt": "2026-11-01T19:24:57.000Z",
+      "collectedAt": "2026-11-01T23:28:58.910Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2f99e91e49093c4b",
       "title": "Darboe Unveils Gambia First Coalition Manifesto, Pledges One-Term Presidency and Sweeping Reforms",
       "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), ANM Ousainou Darboe, has formally launched the Gambia First Alliance (GFA)-UDP-led coalition’s manifesto, outlining an ambitious agenda for economic recovery, constitutional reform, impr...",
@@ -313,35 +337,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7682f67631ad4b68",
-      "title": "“President Barrow Has Never Been Angry at Citizens,” Mballow Says as He Claims NPP Support Is Growing in KMC",
-      "summary": "By Seedy Jobe Presidential Adviser Saihou Mballow has defended President Adama Barrow against accusations that he threatened citizens during his recent Meet the People Tour in Banjul, insisting that the president’s remarks were misunderstood and that he has never expressed ang...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/president-barrow-has-never-been-angry-at-citizens-mballow-says-as-he-claims-npp-support-is-growing-in-kmc/",
-      "publishedAt": "2026-10-27T19:31:09.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T18:51:05.491Z",
+    "generatedAt": "2026-11-01T23:29:02.990Z",
     "count": 14
   }
 }

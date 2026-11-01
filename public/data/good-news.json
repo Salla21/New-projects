@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "5661682eb34cf7ff",
+      "title": "State Land Records List Three Properties for President Barrow, Raising Questions Over Allocation Policy",
+      "summary": "By Staff Writer A newly released list of state land allocations identifies President Adama Barrow as the recipient of three residential properties, two in Brufut and one in Fajara, raising questions about whether the allocations are consistent with the Ministry of Lands’ repor...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/state-land-records-list-three-properties-for-president-barrow-raising-questions-over-allocation-policy/",
+      "publishedAt": "2026-11-01T19:21:02.000Z",
+      "collectedAt": "2026-11-01T23:28:58.910Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2ababdfc727a3108",
       "title": "Bensouda Pledges to Suspend Foreign Fishing Trawler Licences, Support Local Fishermen",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE Party and Coalition 2026 presidential candidate, has pledged to suspend fishing licences issued to foreign trawlers if elected president, promising to protect local fishermen and expand investment in the country’s fishing i...",
@@ -510,7 +533,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-01T18:50:59.159Z",
+      "collectedAt": "2026-11-01T23:28:57.268Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -524,7 +547,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T18:51:05.491Z",
-    "count": 23
+    "generatedAt": "2026-11-01T23:29:02.990Z",
+    "count": 24
   }
 }

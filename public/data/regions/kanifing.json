@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "5661682eb34cf7ff",
+      "title": "State Land Records List Three Properties for President Barrow, Raising Questions Over Allocation Policy",
+      "summary": "By Staff Writer A newly released list of state land allocations identifies President Adama Barrow as the recipient of three residential properties, two in Brufut and one in Fajara, raising questions about whether the allocations are consistent with the Ministry of Lands’ repor...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/state-land-records-list-three-properties-for-president-barrow-raising-questions-over-allocation-policy/",
+      "publishedAt": "2026-11-01T19:21:02.000Z",
+      "collectedAt": "2026-11-01T23:28:58.910Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bd0b09240138bcfb",
       "title": "Investigation Uncovers Questionable Land Allocations to President Barrow, Family and Business Amid Allegations of Elite Favouritism",
       "summary": "Written by: Seringe S.T. Touray A prime piece of government land in Fajara, valued at D40 million, was allocated to President Adama Barrow’s private property business, Majum, just three months after car dealers were ordered to vacate part of the area during a government road-c...",
@@ -166,7 +189,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T18:51:05.491Z",
-    "count": 7
+    "generatedAt": "2026-11-01T23:29:02.990Z",
+    "count": 8
   }
 }
