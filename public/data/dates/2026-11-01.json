@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "id": "68a89460be5ecf53",
+      "title": "Gambia Labour Party Joins NDP-Led Alliance Ahead of December Election",
+      "summary": "By Makutu Manneh The Gambia Labour Party (GLP) has formally joined the National Democratic Party (NDP)-led Alliance ahead of the December 5 presidential election, expanding the coalition to four political entities as opposition parties intensify efforts to consolidate support....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-labour-party-joins-ndp-led-alliance-ahead-of-december-election/",
+      "publishedAt": "2026-11-01T17:33:21.000Z",
+      "collectedAt": "2026-11-01T18:51:01.398Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4c9b07af208084c8",
+      "title": "NPP Women Raise D2.5 Million for Barrow’s Presidential Nomination, Exceeding Required Fee",
+      "summary": "By Makutu Manneh Women from the National People’s Party (NPP) and its allied parties have presented D2.5 million to President Adama Barrow to support his nomination for the December 5 presidential election, raising more than twice the D1 million required nomination fee.Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/npp-women-raise-d2-5-million-for-barrows-presidential-nomination-exceeding-required-fee/",
+      "publishedAt": "2026-11-01T17:19:32.000Z",
+      "collectedAt": "2026-11-01T18:51:01.398Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2ababdfc727a3108",
+      "title": "Bensouda Pledges to Suspend Foreign Fishing Trawler Licences, Support Local Fishermen",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE Party and Coalition 2026 presidential candidate, has pledged to suspend fishing licences issued to foreign trawlers if elected president, promising to protect local fishermen and expand investment in the country’s fishing i...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-suspend-foreign-fishing-trawler-licences-support-local-fishermen/",
+      "publishedAt": "2026-11-01T17:14:12.000Z",
+      "collectedAt": "2026-11-01T18:51:01.398Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b4bc44f09ce1f286",
+      "title": "Bojang Vows Agricultural Revival Within Three Months if Elected",
+      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has pledged to revive The Gambia’s agricultural sector and tackle the country’s food security challenges within three months if elected president in December. Addressing supporters at a political rally in...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bojang-vows-agricultural-revival-within-three-months-if-elected/",
+      "publishedAt": "2026-11-01T15:13:51.000Z",
+      "collectedAt": "2026-11-01T18:50:59.240Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "974bc2269996911c",
       "title": "National Summit and Awards Celebrate Women’s Leadership and Girls’ Empowerment",
       "summary": "Women leaders, young girls and development advocates from across The Gambia, as well as delegates from Liberia and Sierra Leone, gathered in Banjul this week for the 2026 National Girls Summit and National Women and Girls Awards. The two-day event, organised by Treasure Girls ...",
@@ -46,7 +142,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T13:05:26.619Z",
-    "count": 2
+    "generatedAt": "2026-11-01T18:51:05.491Z",
+    "count": 6
   }
 }

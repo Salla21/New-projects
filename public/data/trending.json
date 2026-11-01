@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "id": "68a89460be5ecf53",
+      "title": "Gambia Labour Party Joins NDP-Led Alliance Ahead of December Election",
+      "summary": "By Makutu Manneh The Gambia Labour Party (GLP) has formally joined the National Democratic Party (NDP)-led Alliance ahead of the December 5 presidential election, expanding the coalition to four political entities as opposition parties intensify efforts to consolidate support....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-labour-party-joins-ndp-led-alliance-ahead-of-december-election/",
+      "publishedAt": "2026-11-01T17:33:21.000Z",
+      "collectedAt": "2026-11-01T18:51:01.398Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4c9b07af208084c8",
+      "title": "NPP Women Raise D2.5 Million for Barrow’s Presidential Nomination, Exceeding Required Fee",
+      "summary": "By Makutu Manneh Women from the National People’s Party (NPP) and its allied parties have presented D2.5 million to President Adama Barrow to support his nomination for the December 5 presidential election, raising more than twice the D1 million required nomination fee.Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/npp-women-raise-d2-5-million-for-barrows-presidential-nomination-exceeding-required-fee/",
+      "publishedAt": "2026-11-01T17:19:32.000Z",
+      "collectedAt": "2026-11-01T18:51:01.398Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2ababdfc727a3108",
+      "title": "Bensouda Pledges to Suspend Foreign Fishing Trawler Licences, Support Local Fishermen",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE Party and Coalition 2026 presidential candidate, has pledged to suspend fishing licences issued to foreign trawlers if elected president, promising to protect local fishermen and expand investment in the country’s fishing i...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-suspend-foreign-fishing-trawler-licences-support-local-fishermen/",
+      "publishedAt": "2026-11-01T17:14:12.000Z",
+      "collectedAt": "2026-11-01T18:51:01.398Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b4bc44f09ce1f286",
+      "title": "Bojang Vows Agricultural Revival Within Three Months if Elected",
+      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has pledged to revive The Gambia’s agricultural sector and tackle the country’s food security challenges within three months if elected president in December. Addressing supporters at a political rally in...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bojang-vows-agricultural-revival-within-three-months-if-elected/",
+      "publishedAt": "2026-11-01T15:13:51.000Z",
+      "collectedAt": "2026-11-01T18:50:59.240Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "974bc2269996911c",
       "title": "National Summit and Awards Celebrate Women’s Leadership and Girls’ Empowerment",
       "summary": "Women leaders, young girls and development advocates from across The Gambia, as well as delegates from Liberia and Sierra Leone, gathered in Banjul this week for the 2026 National Girls Summit and National Women and Girls Awards. The two-day event, organised by Treasure Girls ...",
@@ -182,152 +278,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "8bcf373f0475bcd2",
-      "title": "GFC-UDP-Led Alliance Pledges Inclusive Government, Rejects Ethnic Politics",
-      "summary": "By Seedy Jobe The coalition led by the UDP has reaffirmed its collective endorsement of a joint manifesto, which a senior partner described as the product of inclusive and thorough consultation. Bolong Sonko, Chief of Staff of Gambia For All (GFA), spoke on behalf of the coali...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gfc-udp-led-alliance-pledges-inclusive-government-rejects-ethnic-politics/",
-      "publishedAt": "2026-10-31T17:05:58.000Z",
-      "collectedAt": "2026-10-31T18:25:45.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2f99e91e49093c4b",
-      "title": "Darboe Unveils Gambia First Coalition Manifesto, Pledges One-Term Presidency and Sweeping Reforms",
-      "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), ANM Ousainou Darboe, has formally launched the Gambia First Alliance (GFA)-UDP-led coalition’s manifesto, outlining an ambitious agenda for economic recovery, constitutional reform, impr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-unveils-gambia-first-coalition-manifesto-pledges-one-term-presidency-and-sweeping-reforms/",
-      "publishedAt": "2026-10-31T16:56:08.000Z",
-      "collectedAt": "2026-10-31T18:25:45.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1cc6d3c35d29fe3e",
-      "title": "Bitcoin Tower: Six Million Euros Missing – or a Story Full of Contradictions?",
-      "summary": "Written by: Seringe S.T. Touray Further Criminal Complaint Against Ebrima Solomon Tamba and Marcel van Andel Raises Questions About Public Fraud Allegations, Contradictory Statements and the Role of the Gambian Police How can allegations involving more than six million euros b...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-six-million-euros-missing-or-a-story-full-of-contradictions/",
-      "publishedAt": "2026-10-31T16:49:57.000Z",
-      "collectedAt": "2026-10-31T18:25:44.031Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "11657c6a5bac6cd0",
-      "title": "Darboe Raises Alarm Over Illegal Fishing, Pledges to Protect Gambia’s Waters and Create Jobs",
-      "summary": "By Seedy Jobe ANM Ousainu Darboe, Secretary General and Party Leader of the United Democratic Party (UDP), has raised concerns over illegal fishing in Gambian waters, accusing foreign trawlers of exploiting the country’s marine resources while contributing little to the local ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-raises-alarm-over-illegal-fishing-pledges-to-protect-gambias-waters-and-create-jobs/",
-      "publishedAt": "2026-10-31T16:44:48.000Z",
-      "collectedAt": "2026-10-31T18:25:45.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e4cb71e2355c9c14",
-      "title": "Darboe Pledges Better Pay, Working Conditions for Security Personnel Under UDP Government",
-      "summary": "By Seedy Jobe The Secretary General and party leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has pledged to improve salaries, working conditions, and welfare for members of The Gambia’s security services if elected president in the December 5 presidential ele...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-better-pay-working-conditions-for-security-personnel-under-udp-government/",
-      "publishedAt": "2026-10-31T16:39:21.000Z",
-      "collectedAt": "2026-10-31T18:25:45.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "11679d920f6af7cc",
-      "title": "Darboe pledges one-term presidency, return of 2020 Constitution in Alliance Manifesto",
-      "summary": "By Hadram Hydara Opposition presidential candidate A.N.M. Ousainu Darboe has pledged to serve only one five-year term, take a 20% pay cut and reintroduce the stalled 2020 Draft Constitution if elected, as the GFC/UDP-led Alliance unveiled its manifesto ahead of the December 20...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-pledges-one-term-presidency-return-of-2020-constitution-in-alliance-manifesto/",
-      "publishedAt": "2026-10-31T16:31:02.000Z",
-      "collectedAt": "2026-10-31T18:25:44.031Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T13:05:26.619Z",
-    "count": 14
+    "generatedAt": "2026-11-01T18:51:05.491Z",
+    "count": 12
   }
 }

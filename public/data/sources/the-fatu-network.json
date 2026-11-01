@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "b4bc44f09ce1f286",
+      "title": "Bojang Vows Agricultural Revival Within Three Months if Elected",
+      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has pledged to revive The Gambia’s agricultural sector and tackle the country’s food security challenges within three months if elected president in December. Addressing supporters at a political rally in...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bojang-vows-agricultural-revival-within-three-months-if-elected/",
+      "publishedAt": "2026-11-01T15:13:51.000Z",
+      "collectedAt": "2026-11-01T18:50:59.240Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "974bc2269996911c",
       "title": "National Summit and Awards Celebrate Women’s Leadership and Girls’ Empowerment",
       "summary": "Women leaders, young girls and development advocates from across The Gambia, as well as delegates from Liberia and Sierra Leone, gathered in Banjul this week for the 2026 National Girls Summit and National Women and Girls Awards. The two-day event, organised by Treasure Girls ...",
@@ -779,7 +803,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T13:05:26.619Z",
-    "count": 34
+    "generatedAt": "2026-11-01T18:51:05.491Z",
+    "count": 35
   }
 }

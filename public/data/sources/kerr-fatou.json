@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "68a89460be5ecf53",
+      "title": "Gambia Labour Party Joins NDP-Led Alliance Ahead of December Election",
+      "summary": "By Makutu Manneh The Gambia Labour Party (GLP) has formally joined the National Democratic Party (NDP)-led Alliance ahead of the December 5 presidential election, expanding the coalition to four political entities as opposition parties intensify efforts to consolidate support....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-labour-party-joins-ndp-led-alliance-ahead-of-december-election/",
+      "publishedAt": "2026-11-01T17:33:21.000Z",
+      "collectedAt": "2026-11-01T18:51:01.398Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4c9b07af208084c8",
+      "title": "NPP Women Raise D2.5 Million for Barrow’s Presidential Nomination, Exceeding Required Fee",
+      "summary": "By Makutu Manneh Women from the National People’s Party (NPP) and its allied parties have presented D2.5 million to President Adama Barrow to support his nomination for the December 5 presidential election, raising more than twice the D1 million required nomination fee.Speakin...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/npp-women-raise-d2-5-million-for-barrows-presidential-nomination-exceeding-required-fee/",
+      "publishedAt": "2026-11-01T17:19:32.000Z",
+      "collectedAt": "2026-11-01T18:51:01.398Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2ababdfc727a3108",
+      "title": "Bensouda Pledges to Suspend Foreign Fishing Trawler Licences, Support Local Fishermen",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE Party and Coalition 2026 presidential candidate, has pledged to suspend fishing licences issued to foreign trawlers if elected president, promising to protect local fishermen and expand investment in the country’s fishing i...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-suspend-foreign-fishing-trawler-licences-support-local-fishermen/",
+      "publishedAt": "2026-11-01T17:14:12.000Z",
+      "collectedAt": "2026-11-01T18:51:01.398Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c1d98fb7abf303ea",
       "title": "Bensouda Warns IEC Against Political Interference, Accuses Barrow of Trying to Block His Candidacy",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has called on the Independent Electoral Commission (IEC) to safeguard its independence and resist political interference ahead of The Gambia’s December 5 presidential ...",
@@ -867,57 +939,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "802e6494ae84b37d",
-      "title": "National Assembly Approves D48.6 Billion Budget for 2027, With Debt Servicing Taking Largest Share",
-      "summary": "By Fatou Sillah The National Assembly on Tuesday passed the 2027 Appropriation Bill, approving D48.6 billion in government expenditure for the coming financial year, with debt servicing accounting for the largest share of the approved allocations. According to the approved bud...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/national-assembly-approves-d48-6-billion-budget-for-2027-with-debt-servicing-taking-largest-share/",
-      "publishedAt": "2026-10-27T19:16:32.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "129c4735784023c1",
-      "title": "Dr. Ceesay Condemns Students’ Treatment of Him During UTG Protest, Calls Actions Unacceptable",
-      "summary": "By Fatou Sillah Minister of Information, Media and Broadcasting Services Dr. Ismaila Ceesay has condemned the treatment he received from some University of The Gambia (UTG) students during Monday’s protest, describing their actions as unacceptable. Speaking in an interview wit...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-condemns-students-treatment-of-him-during-utg-protest-calls-actions-unacceptable/",
-      "publishedAt": "2026-10-27T18:47:56.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T13:05:26.619Z",
-    "count": 39
+    "generatedAt": "2026-11-01T18:51:05.491Z",
+    "count": 40
   }
 }

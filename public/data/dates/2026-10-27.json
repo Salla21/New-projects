@@ -47,57 +47,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "802e6494ae84b37d",
-      "title": "National Assembly Approves D48.6 Billion Budget for 2027, With Debt Servicing Taking Largest Share",
-      "summary": "By Fatou Sillah The National Assembly on Tuesday passed the 2027 Appropriation Bill, approving D48.6 billion in government expenditure for the coming financial year, with debt servicing accounting for the largest share of the approved allocations. According to the approved bud...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/national-assembly-approves-d48-6-billion-budget-for-2027-with-debt-servicing-taking-largest-share/",
-      "publishedAt": "2026-10-27T19:16:32.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "129c4735784023c1",
-      "title": "Dr. Ceesay Condemns Students’ Treatment of Him During UTG Protest, Calls Actions Unacceptable",
-      "summary": "By Fatou Sillah Minister of Information, Media and Broadcasting Services Dr. Ismaila Ceesay has condemned the treatment he received from some University of The Gambia (UTG) students during Monday’s protest, describing their actions as unacceptable. Speaking in an interview wit...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-condemns-students-treatment-of-him-during-utg-protest-calls-actions-unacceptable/",
-      "publishedAt": "2026-10-27T18:47:56.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T13:05:26.619Z",
-    "count": 4
+    "generatedAt": "2026-11-01T18:51:05.491Z",
+    "count": 2
   }
 }
