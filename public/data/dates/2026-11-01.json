@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "974bc2269996911c",
+      "title": "National Summit and Awards Celebrate Women’s Leadership and Girls’ Empowerment",
+      "summary": "Women leaders, young girls and development advocates from across The Gambia, as well as delegates from Liberia and Sierra Leone, gathered in Banjul this week for the 2026 National Girls Summit and National Women and Girls Awards. The two-day event, organised by Treasure Girls ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/national-summit-and-awards-celebrate-womens-leadership-and-girls-empowerment/",
+      "publishedAt": "2026-11-01T10:45:17.000Z",
+      "collectedAt": "2026-11-01T13:05:21.319Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a4fc1d38ea1ff3f4",
+      "title": "Fishermen seek election pledge to protect Gambia’s fisheries",
+      "summary": "By Dawda Baldeh A coalition of fishermen and civil society groups is planning to ask all presidential candidates to sign a fisheries protection charter ahead of December’s election, in a bid to place the future of The Gambia’s fishing industry at the centre of the political de...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/fishermen-seek-election-pledge-to-protect-gambias-fisheries/",
+      "publishedAt": "2026-11-01T10:22:17.000Z",
+      "collectedAt": "2026-11-01T13:05:21.319Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-01T13:05:26.619Z",
+    "count": 2
+  }
+}

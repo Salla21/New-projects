@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "974bc2269996911c",
+      "title": "National Summit and Awards Celebrate Women’s Leadership and Girls’ Empowerment",
+      "summary": "Women leaders, young girls and development advocates from across The Gambia, as well as delegates from Liberia and Sierra Leone, gathered in Banjul this week for the 2026 National Girls Summit and National Women and Girls Awards. The two-day event, organised by Treasure Girls ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/national-summit-and-awards-celebrate-womens-leadership-and-girls-empowerment/",
+      "publishedAt": "2026-11-01T10:45:17.000Z",
+      "collectedAt": "2026-11-01T13:05:21.319Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a4fc1d38ea1ff3f4",
+      "title": "Fishermen seek election pledge to protect Gambia’s fisheries",
+      "summary": "By Dawda Baldeh A coalition of fishermen and civil society groups is planning to ask all presidential candidates to sign a fisheries protection charter ahead of December’s election, in a bid to place the future of The Gambia’s fishing industry at the centre of the political de...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/fishermen-seek-election-pledge-to-protect-gambias-fisheries/",
+      "publishedAt": "2026-11-01T10:22:17.000Z",
+      "collectedAt": "2026-11-01T13:05:21.319Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c1d98fb7abf303ea",
       "title": "Bensouda Warns IEC Against Political Interference, Accuses Barrow of Trying to Block His Candidacy",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has called on the Independent Electoral Commission (IEC) to safeguard its independence and resist political interference ahead of The Gambia’s December 5 presidential ...",
@@ -2274,57 +2318,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "802e6494ae84b37d",
-      "title": "National Assembly Approves D48.6 Billion Budget for 2027, With Debt Servicing Taking Largest Share",
-      "summary": "By Fatou Sillah The National Assembly on Tuesday passed the 2027 Appropriation Bill, approving D48.6 billion in government expenditure for the coming financial year, with debt servicing accounting for the largest share of the approved allocations. According to the approved bud...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/national-assembly-approves-d48-6-billion-budget-for-2027-with-debt-servicing-taking-largest-share/",
-      "publishedAt": "2026-10-27T19:16:32.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "129c4735784023c1",
-      "title": "Dr. Ceesay Condemns Students’ Treatment of Him During UTG Protest, Calls Actions Unacceptable",
-      "summary": "By Fatou Sillah Minister of Information, Media and Broadcasting Services Dr. Ismaila Ceesay has condemned the treatment he received from some University of The Gambia (UTG) students during Monday’s protest, describing their actions as unacceptable. Speaking in an interview wit...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-condemns-students-treatment-of-him-during-utg-protest-calls-actions-unacceptable/",
-      "publishedAt": "2026-10-27T18:47:56.000Z",
-      "collectedAt": "2026-10-27T22:03:44.727Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T05:41:25.326Z",
+    "generatedAt": "2026-11-01T13:05:26.619Z",
     "count": 100
   }
 }

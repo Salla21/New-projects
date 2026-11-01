@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "974bc2269996911c",
+      "title": "National Summit and Awards Celebrate Women’s Leadership and Girls’ Empowerment",
+      "summary": "Women leaders, young girls and development advocates from across The Gambia, as well as delegates from Liberia and Sierra Leone, gathered in Banjul this week for the 2026 National Girls Summit and National Women and Girls Awards. The two-day event, organised by Treasure Girls ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/national-summit-and-awards-celebrate-womens-leadership-and-girls-empowerment/",
+      "publishedAt": "2026-11-01T10:45:17.000Z",
+      "collectedAt": "2026-11-01T13:05:21.319Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b428f4a1837129e4",
       "title": "President Barrow Accused of Interfering in State Land Audit Amid Revelations of Multiple Land Allocations to Him and His Private Business",
       "summary": "Written by: Seringe S.T. Touray President Adama Barrow allegedly pressured former Auditor General Modou Ceesay to halt an investigation into government land allocations, including an audit covering a period in which the President himself received state land, according to a new...",
@@ -465,7 +486,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-01T05:41:19.289Z",
+      "collectedAt": "2026-11-01T13:05:20.880Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -479,7 +500,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T05:41:25.326Z",
-    "count": 21
+    "generatedAt": "2026-11-01T13:05:26.619Z",
+    "count": 22
   }
 }
