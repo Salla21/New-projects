@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "4f97332fae584616",
+      "title": "Government Orders Economic Crimes Investigation into KMC Mayor Bensouda",
+      "summary": "The Gambia government has accepted the recommendations of the Local Government Commission of Inquiry and directed the Inspector General of Police (IGP) to investigate Kanifing Municipal Council Mayor Talib Ahmed Bensouda over alleged economic crimes linked to the Mbalit projec...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-orders-economic-crimes-investigation-into-kmc-mayor-bensouda/",
+      "publishedAt": "2026-11-02T15:31:06.000Z",
+      "collectedAt": "2026-11-02T23:24:45.208Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "38536ec989feb3c2",
       "title": "Government publishes findings & recommendations of local Government Commission of Inquiry",
       "summary": "Former KMC CEO Sainabou Sonko faces suspension and investigation recommends bribery & corruption proceedings against her Former Kanifing Municipal Council chief executive officer (CEO) Sainabou Martin Sonko is to face disciplinary proceedings and investigations over payments, ...",
@@ -160,57 +181,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "74863db117530ee4",
-      "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
-      "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/young-people-should-not-have-to-leave-to-succeed-mayor-bensouda-launches-migrant-support-hub/",
-      "publishedAt": "2026-10-28T13:04:33.000Z",
-      "collectedAt": "2026-10-28T19:26:15.929Z",
-      "region": "kanifing",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b2b15408866d1b74",
-      "title": "Fishermen Call for Urgent Action to Protect Gambia’s Fish Stocks",
-      "summary": "By Madiba Singhateh Fishermen in The Gambia have called for stronger enforcement of fisheries laws and measures to stop illegal fishing and protect the country’s marine resources. The call was made at a two-day conference in Kanifing, which ended on 22 October 2026. Fishermen ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/fishermen-call-for-urgent-action-to-protect-gambias-fish-stocks/",
-      "publishedAt": "2026-10-28T12:19:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T15:28:54.859Z",
-    "count": 9
+    "generatedAt": "2026-11-02T23:24:51.267Z",
+    "count": 8
   }
 }

@@ -214,106 +214,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "93697b69427ebc6e",
-      "title": "Political Analyst Juwara Predicts Tough Presidential Race for Barrow",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted a closely contested presidential election on December 5, warning that President Adama Barrow faces a difficult re-election battle amid shifting political dynamics. Speaking on Kerr Fatou’s Politic Kaacha show, Mr. J...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-predicts-tough-presidential-race-for-barrow/",
-      "publishedAt": "2026-10-28T21:45:49.000Z",
-      "collectedAt": "2026-10-28T23:58:24.949Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "edc22de0a8e3d8e2",
-      "title": "Juwara Calls for Reform of Law Restricting Parties From Challenging Ineligible Voters",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara has called for reforms to The Gambia’s electoral laws, arguing that restrictions preventing political parties from directly challenging the eligibility of registered voters in court undermine the integrity of the electoral proces...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/juwara-calls-for-reform-of-law-restricting-parties-from-challenging-ineligible-voters/",
-      "publishedAt": "2026-10-28T21:08:21.000Z",
-      "collectedAt": "2026-10-28T23:58:24.949Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0ba30e01b3e22351",
-      "title": "Cuba Denounces U.S. ‘Energy Siege’ as ‘Genocide’",
-      "summary": "By Nelson Manneh  The Cuban Ambassador to The Gambia, Carmelina Ramirez Rodriguez, has strongly condemned the ongoing United States economic blockade against Cuba, labelling the restrictive measures an “act of genocide” specifically designed to orchestrate an energy siege on t...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/cuba-denounces-u-s-energy-siege-as-genocide/",
-      "publishedAt": "2026-10-28T12:34:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7caf3f57984c42a5",
-      "title": "UTG to Resume Lectures Today After Minister Gomez’s Intervention",
-      "summary": "University Takes  Steps to Address Student Grievances By Nelson Manneh Lectures at the University of The Gambia (UTG) are expected to resume on Wednesday after the university’s management announced steps to address student complaints about transport, food, water and internet a...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/utg-to-resume-lectures-today-after-minister-gomezs-intervention/",
-      "publishedAt": "2026-10-28T12:31:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T15:28:54.859Z",
-    "count": 13
+    "generatedAt": "2026-11-02T23:24:51.267Z",
+    "count": 9
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "c9bbf4c85ab327ce",
+      "title": "Minister Juwara Says 2027 Budget Cut Will Not Derail Gambia’s Electrification Drive",
+      "summary": "By Makutu Manneh The Minister of Petroleum, Energy and Mines, Nani Juwara, has assured Gambians that the reduction in his ministry’s 2027 budget allocation will not affect ongoing efforts to achieve universal electricity access across the country. Speaking at the MansaKunda To...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/minister-juwara-says-2027-budget-cut-will-not-derail-gambias-electrification-drive/",
+      "publishedAt": "2026-11-02T19:32:58.000Z",
+      "collectedAt": "2026-11-02T23:24:47.135Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "85ff37b7a6204da0",
       "title": "QCell, Djeliba Leisure Group Partner to Strengthen Digital Connectivity in Tourism Sector",
       "summary": "By Ndey Sowe QCell Company Limited and Djeliba Leisure Group have entered into a strategic corporate fibre agreement aimed at strengthening high-speed internet connectivity across five hotel properties and enhancing hospitality services, visitor experiences and support the gro...",
@@ -818,102 +842,6 @@
       "status": "published"
     },
     {
-      "id": "109c2f3dc0331b37",
-      "title": "Bitcoin Tower: Where Did the Missing D13 Million Go?",
-      "summary": "Written by: Seringe S.T. Touray A new criminal complaint has raised fresh questions over D18 million recorded as development fees connected to The Gambia Tourism Board (GTBoard), after an independent audit found supporting receipts for only D5 million. Documentation supporting...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-where-did-the-missing-d13-million-go/",
-      "publishedAt": "2026-10-28T14:16:29.000Z",
-      "collectedAt": "2026-10-28T19:26:15.929Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "74863db117530ee4",
-      "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
-      "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/young-people-should-not-have-to-leave-to-succeed-mayor-bensouda-launches-migrant-support-hub/",
-      "publishedAt": "2026-10-28T13:04:33.000Z",
-      "collectedAt": "2026-10-28T19:26:15.929Z",
-      "region": "kanifing",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7caf3f57984c42a5",
-      "title": "UTG to Resume Lectures Today After Minister Gomez’s Intervention",
-      "summary": "University Takes  Steps to Address Student Grievances By Nelson Manneh Lectures at the University of The Gambia (UTG) are expected to resume on Wednesday after the university’s management announced steps to address student complaints about transport, food, water and internet a...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/utg-to-resume-lectures-today-after-minister-gomezs-intervention/",
-      "publishedAt": "2026-10-28T12:31:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a8955e316f09fff9",
-      "title": "National Assembly Approves D48.599 Billion Budget for 2027",
-      "summary": "By Kebba A.F. Touray The National Assembly of The Gambia has approved D48.599 billion in government spending for the 2027 fiscal year, covering the period from 1 January to 31 December 2027. The approval was made on Tuesday, 27 October 2026, by the Committee of Supply, also kn...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/national-assembly-approves-d48-599-billion-budget-for-2027/",
-      "publishedAt": "2026-10-28T12:24:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -922,7 +850,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-02T15:28:48.730Z",
+      "collectedAt": "2026-11-02T23:24:45.515Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -945,7 +873,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-11-02T15:28:48.730Z",
+      "collectedAt": "2026-11-02T23:24:45.515Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -968,7 +896,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-11-02T15:28:48.730Z",
+      "collectedAt": "2026-11-02T23:24:45.515Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -984,7 +912,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T15:28:54.859Z",
-    "count": 41
+    "generatedAt": "2026-11-02T23:24:51.267Z",
+    "count": 38
   }
 }

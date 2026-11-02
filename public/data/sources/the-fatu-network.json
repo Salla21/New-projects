@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "2985040d161c059e",
+      "title": "Who Guards the Ballot—and the Taxpayer?",
+      "summary": "OPINION By Sarjo Barrow, Esq. This week, presidential aspirants will line up at the Independent Electoral Commission to file nomination papers for the Dec. 5 election. According to local online papers, the IEC has scheduled slots for 27 of them: 12 party candidates and 15 inde...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/who-guards-the-ballot-and-the-taxpayer/",
+      "publishedAt": "2026-11-02T17:51:15.000Z",
+      "collectedAt": "2026-11-02T23:24:45.778Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "645af900d0490dc6",
       "title": "Fishermen Demand Action on Illegal Fishing, Corruption and Declining Fish Stocks",
       "summary": "By Dawda Baldeh Fishermen and fish vendors have called for urgent government action to tackle illegal fishing, alleged corruption and declining fish stocks, warning that continued inaction threatens livelihoods and the future of The Gambia’s fishing industry. Speaking during d...",
@@ -748,57 +771,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "109c2f3dc0331b37",
-      "title": "Bitcoin Tower: Where Did the Missing D13 Million Go?",
-      "summary": "Written by: Seringe S.T. Touray A new criminal complaint has raised fresh questions over D18 million recorded as development fees connected to The Gambia Tourism Board (GTBoard), after an independent audit found supporting receipts for only D5 million. Documentation supporting...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-where-did-the-missing-d13-million-go/",
-      "publishedAt": "2026-10-28T14:16:29.000Z",
-      "collectedAt": "2026-10-28T19:26:15.929Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "74863db117530ee4",
-      "title": "‘Young People Should Not Have to Leave to Succeed’ – Mayor Bensouda Launches Migrant Support Hub",
-      "summary": "Written by: Seringe S.T. Touray The Kanifing Municipal Council (KMC), under Mayor Talib Ahmed Bensouda, has launched a Migrant Resilience Hub to help Gambians returning from abroad rebuild their lives through entrepreneurship, skills development and business support. The initi...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/young-people-should-not-have-to-leave-to-succeed-mayor-bensouda-launches-migrant-support-hub/",
-      "publishedAt": "2026-10-28T13:04:33.000Z",
-      "collectedAt": "2026-10-28T19:26:15.929Z",
-      "region": "kanifing",
-      "categories": [
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T15:28:54.859Z",
-    "count": 35
+    "generatedAt": "2026-11-02T23:24:51.267Z",
+    "count": 34
   }
 }
