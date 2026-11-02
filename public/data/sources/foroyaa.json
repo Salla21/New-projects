@@ -538,57 +538,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "13521b8a1068ef78",
-      "title": "WHAT WILL HAPPEN IF THERE ARE 25 PRESIDENTIAL CANDIDATES?",
-      "summary": "We have been informed by the Independent Electoral Commission (IEC) that nomination forms were collected by 13 individuals and 12 political parties. If all 25 become candidates, the IEC will have a herculean task in providing 25 ballot boxes for each polling booth. The voter w...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-will-happen-if-there-are-25-presidential-candidates/",
-      "publishedAt": "2026-10-28T09:06:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "56fe6a41448baacd",
-      "title": "EDUCATION IS A RIGHT, NOT A PRIVILEGE FOR THE FEW",
-      "summary": "Education is key to development and must be accessible to all and sundry. The 1997 Constitution recognizes this. It states in section 30 that, “All persons shall have the right to equal educational opportunities and facilities and with a view to achieving the full realisation ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/education-is-a-right-not-a-privilege-for-the-few/",
-      "publishedAt": "2026-10-28T09:04:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T23:29:02.990Z",
-    "count": 25
+    "generatedAt": "2026-11-02T05:38:43.348Z",
+    "count": 23
   }
 }

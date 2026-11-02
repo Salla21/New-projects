@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0f7586fb494c381c",
+      "title": "NDP Leader Urges Gambians to Vote for Change to End Economic Hardship",
+      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party (NDP), has urged Gambians to use the December 5 presidential election to bring an end to the economic hardships facing the country, calling on voters to support leaders who understand their struggles a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-leader-urges-gambians-to-vote-for-change-to-end-economic-hardship/",
+      "publishedAt": "2026-11-02T02:18:58.000Z",
+      "collectedAt": "2026-11-02T05:38:39.217Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "68a89460be5ecf53",
       "title": "Gambia Labour Party Joins NDP-Led Alliance Ahead of December Election",
       "summary": "By Makutu Manneh The Gambia Labour Party (GLP) has formally joined the National Democratic Party (NDP)-led Alliance ahead of the December 5 presidential election, expanding the coalition to four political entities as opposition parties intensify efforts to consolidate support....",
@@ -819,54 +843,6 @@
       "status": "published"
     },
     {
-      "id": "06c74a51208cdbcd",
-      "title": "D59 Billion Govt. Budget Advances Without Debate",
-      "summary": "Written by: Seringe ST Touray Not a single National Assembly Member spoke when lawmakers were given the opportunity to debate the government’s proposed D59.24 billion budget for 2027 on Monday, allowing the bill to advance through its second reading without discussion. The sit...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/d59-billion-govt-budget-advances-without-debate/",
-      "publishedAt": "2026-10-28T10:09:14.000Z",
-      "collectedAt": "2026-10-28T12:35:41.382Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "56fe6a41448baacd",
-      "title": "EDUCATION IS A RIGHT, NOT A PRIVILEGE FOR THE FEW",
-      "summary": "Education is key to development and must be accessible to all and sundry. The 1997 Constitution recognizes this. It states in section 30 that, “All persons shall have the right to equal educational opportunities and facilities and with a view to achieving the full realisation ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/education-is-a-right-not-a-privilege-for-the-few/",
-      "publishedAt": "2026-10-28T09:04:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -875,7 +851,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-01T23:28:57.268Z",
+      "collectedAt": "2026-11-02T05:38:37.979Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -898,7 +874,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-11-01T23:28:57.268Z",
+      "collectedAt": "2026-11-02T05:38:37.979Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -921,7 +897,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-11-01T23:28:57.268Z",
+      "collectedAt": "2026-11-02T05:38:37.979Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -937,7 +913,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T23:29:02.990Z",
-    "count": 39
+    "generatedAt": "2026-11-02T05:38:43.348Z",
+    "count": 38
   }
 }

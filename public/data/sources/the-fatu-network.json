@@ -776,34 +776,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "06c74a51208cdbcd",
-      "title": "D59 Billion Govt. Budget Advances Without Debate",
-      "summary": "Written by: Seringe ST Touray Not a single National Assembly Member spoke when lawmakers were given the opportunity to debate the government’s proposed D59.24 billion budget for 2027 on Monday, allowing the bill to advance through its second reading without discussion. The sit...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/d59-billion-govt-budget-advances-without-debate/",
-      "publishedAt": "2026-10-28T10:09:14.000Z",
-      "collectedAt": "2026-10-28T12:35:41.382Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T23:29:02.990Z",
-    "count": 35
+    "generatedAt": "2026-11-02T05:38:43.348Z",
+    "count": 34
   }
 }

@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "34efbea9d7e6f94a",
+      "title": "Bensouda Claims He Rejected NPP Offers of Ministerial Posts and 2026 Presidential Candidacy",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE Party and presidential candidate of Coalition 2026, has claimed that he rejected several attempts by senior government officials to persuade him to join the ruling National People’s Party (NPP), including offers of minister...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-claims-he-rejected-npp-offers-of-ministerial-posts-and-2026-presidential-candidacy/",
+      "publishedAt": "2026-11-02T02:33:03.000Z",
+      "collectedAt": "2026-11-02T05:38:39.217Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0f7586fb494c381c",
+      "title": "NDP Leader Urges Gambians to Vote for Change to End Economic Hardship",
+      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party (NDP), has urged Gambians to use the December 5 presidential election to bring an end to the economic hardships facing the country, calling on voters to support leaders who understand their struggles a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-leader-urges-gambians-to-vote-for-change-to-end-economic-hardship/",
+      "publishedAt": "2026-11-02T02:18:58.000Z",
+      "collectedAt": "2026-11-02T05:38:39.217Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bfd0dc3828e83ef7",
+      "title": "Ebrima Dibba Warns Against Bensouda’s Disqualification, Says Coalition 2026 Will Resist Any Attempt to Bar His Candidacy",
+      "summary": "By Fatou Sillah Ebrima Dibba, national president of the UNITE Party, has warned that Coalition 2026 will resist any attempt to disqualify its presidential candidate, Talib Ahmed Bensouda, from the December 5 election, declaring that the coalition will not accept his exclusion ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ebrima-dibba-warns-against-bensoudas-disqualification-says-coalition-2026-will-resist-any-attempt-to-bar-his-candidacy/",
+      "publishedAt": "2026-11-02T02:11:54.000Z",
+      "collectedAt": "2026-11-02T05:38:39.217Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "673d47ee5894f0ad",
       "title": "Gambian Diplomat in Morocco Warns Consular Cards Do Not Grant Residency",
       "summary": "By Seedy Jobe The First Secretary at The Gambia’s Embassy in Rabat, Saikou Marong, has identified documentation difficulties as the most pressing challenge facing Gambians living in Morocco, warning that consular identification cards issued by the embassy do not confer legal r...",
@@ -1004,7 +1074,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T23:29:02.990Z",
-    "count": 43
+    "generatedAt": "2026-11-02T05:38:43.348Z",
+    "count": 46
   }
 }

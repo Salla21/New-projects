@@ -397,77 +397,6 @@
       "status": "published"
     },
     {
-      "id": "06c74a51208cdbcd",
-      "title": "D59 Billion Govt. Budget Advances Without Debate",
-      "summary": "Written by: Seringe ST Touray Not a single National Assembly Member spoke when lawmakers were given the opportunity to debate the government’s proposed D59.24 billion budget for 2027 on Monday, allowing the bill to advance through its second reading without discussion. The sit...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/d59-billion-govt-budget-advances-without-debate/",
-      "publishedAt": "2026-10-28T10:09:14.000Z",
-      "collectedAt": "2026-10-28T12:35:41.382Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "13521b8a1068ef78",
-      "title": "WHAT WILL HAPPEN IF THERE ARE 25 PRESIDENTIAL CANDIDATES?",
-      "summary": "We have been informed by the Independent Electoral Commission (IEC) that nomination forms were collected by 13 individuals and 12 political parties. If all 25 become candidates, the IEC will have a herculean task in providing 25 ballot boxes for each polling booth. The voter w...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-will-happen-if-there-are-25-presidential-candidates/",
-      "publishedAt": "2026-10-28T09:06:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "56fe6a41448baacd",
-      "title": "EDUCATION IS A RIGHT, NOT A PRIVILEGE FOR THE FEW",
-      "summary": "Education is key to development and must be accessible to all and sundry. The 1997 Constitution recognizes this. It states in section 30 that, “All persons shall have the right to equal educational opportunities and facilities and with a view to achieving the full realisation ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/education-is-a-right-not-a-privilege-for-the-few/",
-      "publishedAt": "2026-10-28T09:04:00.000Z",
-      "collectedAt": "2026-10-28T12:35:40.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "e071d1dae983bba6",
       "title": "Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why?",
       "summary": "Since President Adama Barrow came to power in 2017, the prices of many food commodities in…\nThe post Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why? appeared first on What's On Gambia.",
@@ -476,7 +405,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-10-28T05:17:42.528Z",
+      "collectedAt": "2026-11-02T05:38:37.979Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -499,7 +428,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambian-music-goes-boring-no-beef-no-drama-no-buzz/",
       "publishedAt": "2026-10-28T03:09:34.000Z",
-      "collectedAt": "2026-10-28T05:17:42.528Z",
+      "collectedAt": "2026-11-02T05:38:37.979Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -520,7 +449,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/busumbala-tailor-arrested-over-alleged-grpe-of-apprentice/",
       "publishedAt": "2026-10-28T03:06:08.000Z",
-      "collectedAt": "2026-11-01T23:28:57.268Z",
+      "collectedAt": "2026-11-02T05:38:37.979Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -541,7 +470,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-01T23:28:57.268Z",
+      "collectedAt": "2026-11-02T05:38:37.979Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -557,7 +486,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-01T23:29:02.990Z",
-    "count": 24
+    "generatedAt": "2026-11-02T05:38:43.348Z",
+    "count": 21
   }
 }
