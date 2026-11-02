@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "51dbc3c897d4dfda",
+      "title": "PRESIDENTIAL DEBATE NEEDED FOR 2026",
+      "summary": "There is need for presidential candidates to engage in a debate on what their political parties have to offer the Gambian people. This is the way to help the country to move from the politics of caricature and usage of derogatory remarks to downgrade opponents and embrace the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/presidential-debate-needed-for-2026/",
+      "publishedAt": "2026-11-02T11:40:00.000Z",
+      "collectedAt": "2026-11-02T15:28:48.267Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5627bfdb8d2f32b3",
       "title": "Darboe Vows Crackdown on Hate Speech, Says Tribalism Has No Place in The Gambia",
       "summary": "By Seedy Jobe United Democratic Party (UDP) leader and Secretary General ANM Ousainu Darboe has pledged to confront tribalism and hate speech if elected president, warning that ethnic divisions pose a serious threat to national unity and peaceful coexistence in The Gambia.Spea...",
@@ -340,7 +364,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T05:38:43.348Z",
-    "count": 14
+    "generatedAt": "2026-11-02T15:28:54.859Z",
+    "count": 15
   }
 }

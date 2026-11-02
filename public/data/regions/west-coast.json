@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "5430953e3e5b2aad",
+      "title": "Senior Lawyer Lamin J. Darboe Selected as Team Gambia Grand Coalition Candidate",
+      "summary": "By Demba Bah Senior lawyer Lamin J. Darboe has been selected as the candidate of the Team Gambia Grand Coalition following a nationwide tour marked by community engagements, spot meetings and rallies across the country. The Presidential Committee of the Coalition unanimously a...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/senior-lawyer-lamin-j-darboe-selected-as-team-gambia-grand-coalition-candidate/",
+      "publishedAt": "2026-11-02T12:45:25.000Z",
+      "collectedAt": "2026-11-02T15:28:48.267Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d6bf25c426017216",
       "title": "Nurse Nyima Named Female Health Practitioner of the Year",
       "summary": "By Dawda Baldeh Registered Nurse Nyima Sanyang, widely known as Nurse Nyima, has been named Female Health Practitioner of the Year 2026 at the National Women & Girls Awards organised by Treasure Girls Initiative Africa. The award recognises her contributions to healthcare deli...",
@@ -400,7 +423,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-02T05:38:37.979Z",
+      "collectedAt": "2026-11-02T15:28:48.730Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -414,7 +437,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T05:38:43.348Z",
-    "count": 18
+    "generatedAt": "2026-11-02T15:28:54.859Z",
+    "count": 19
   }
 }

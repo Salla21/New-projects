@@ -1,6 +1,170 @@
 {
   "items": [
     {
+      "id": "23e00a02a71dcb96",
+      "title": "GPU Warns Politicians Against Hate Speech Ahead of December Election",
+      "summary": "By Dawda Baldeh The Gambia Press Union (GPU) has warned political parties and presidential candidates against hate speech, intimidation and misinformation ahead of the December 5 presidential election, urging stakeholders to protect the country’s democratic process. GPU Presid...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gpu-warns-politicians-against-hate-speech-ahead-of-december-election/",
+      "publishedAt": "2026-11-02T14:00:45.000Z",
+      "collectedAt": "2026-11-02T15:28:49.061Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5430953e3e5b2aad",
+      "title": "Senior Lawyer Lamin J. Darboe Selected as Team Gambia Grand Coalition Candidate",
+      "summary": "By Demba Bah Senior lawyer Lamin J. Darboe has been selected as the candidate of the Team Gambia Grand Coalition following a nationwide tour marked by community engagements, spot meetings and rallies across the country. The Presidential Committee of the Coalition unanimously a...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/senior-lawyer-lamin-j-darboe-selected-as-team-gambia-grand-coalition-candidate/",
+      "publishedAt": "2026-11-02T12:45:25.000Z",
+      "collectedAt": "2026-11-02T15:28:48.267Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "aac02e4694e48260",
+      "title": "IEC Opens 15-Day Window to Replace Lost or Damaged Voter Cards",
+      "summary": "By Nelson Manneh The Independent Electoral Commission (IEC) has officially launched a 15-day nationwide exercise allowing Gambians to replace lost, damaged, or mutilated voter cards.  The window runs from November 1 to November 15, 2026, as the upcoming electoral cycle approac...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-opens-15-day-window-to-replace-lost-or-damaged-voter-cards/",
+      "publishedAt": "2026-11-02T12:09:33.000Z",
+      "collectedAt": "2026-11-02T15:28:48.267Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "63ebe56836357695",
+      "title": "TWO MAJOR REPORTS PUT GAMBIAN POLITICAL LEADERS UNDER SCRUTINY OVER PUBLIC RESOURCES",
+      "summary": "Written by: Seringe S.T. Touray Two major publications released within a day of each other have raised serious questions about the management of public resources involving President Adama Barrow, members of his family and political circle, and prominent local government offici...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/two-major-reports-put-gambian-political-leaders-under-scrutiny-over-public-resources/",
+      "publishedAt": "2026-11-02T12:07:10.000Z",
+      "collectedAt": "2026-11-02T15:28:49.061Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7c61a29667e4ea4c",
+      "title": "Minister Kinteh Hails Women’s Support for Barrow, Reaffirms Commitment to Women’s Empowerment",
+      "summary": "By Ndey Sowe The Minister of Gender, Children and Social Welfare, Hon. Fatou Kinteh, has congratulated President Adama Barrow following a D2.5 million contribution by the National People’s Party (NPP) Women’s Wing and its alliance partners towards supporting his nomination pro...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/minister-kinteh-hails-womens-support-for-barrow-reaffirms-commitment-to-womens-empowerment/",
+      "publishedAt": "2026-11-02T12:04:15.000Z",
+      "collectedAt": "2026-11-02T15:28:48.267Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "df49ba2ed883ff6b",
+      "title": "IS THERE ANY ARPARTHEID IN THE ISRAELI PARLIAMENT?",
+      "summary": "The Israeli state should be based on sovereign citizenship where no person is discriminated on the basis of colour, gender, race, religion, language or other factors. Arabs and Jews are all citizens of Israel. Jews can be found in many countries where Arab is the lingua franca...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-there-any-arpartheid-in-the-israeli-parliament/",
+      "publishedAt": "2026-11-02T11:41:13.000Z",
+      "collectedAt": "2026-11-02T15:28:48.267Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "51dbc3c897d4dfda",
+      "title": "PRESIDENTIAL DEBATE NEEDED FOR 2026",
+      "summary": "There is need for presidential candidates to engage in a debate on what their political parties have to offer the Gambian people. This is the way to help the country to move from the politics of caricature and usage of derogatory remarks to downgrade opponents and embrace the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/presidential-debate-needed-for-2026/",
+      "publishedAt": "2026-11-02T11:40:00.000Z",
+      "collectedAt": "2026-11-02T15:28:48.267Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "34efbea9d7e6f94a",
       "title": "Bensouda Claims He Rejected NPP Offers of Ministerial Posts and 2026 Presidential Candidacy",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE Party and presidential candidate of Coalition 2026, has claimed that he rejected several attempts by senior government officials to persuade him to join the ruling National People’s Party (NPP), including offers of minister...",
@@ -1701,53 +1865,6 @@
       "status": "published"
     },
     {
-      "id": "c98209e294f8855d",
-      "title": "‘Selective Cooperation Is Impunity by Another Name’ – Justice Minister Jallow Warns ICC Members",
-      "summary": "Written by: Dawda Baldeh The Gambia’s Justice Minister, Dawda Jallow, has warned that selective or delayed cooperation with the International Criminal Court (ICC) undermines accountability and allows perpetrators of serious international crimes to escape justice. “Cooperation ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/selective-cooperation-is-impunity-by-another-name-justice-minister-jallow-warns-icc-members/",
-      "publishedAt": "2026-10-28T11:18:52.000Z",
-      "collectedAt": "2026-10-28T12:35:41.382Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "05bc13125c1e13a3",
-      "title": "German Embassy backs Bright Stars show to promote peaceful elections",
-      "summary": "By Hadram Hydara The German Embassy in Banjul is supporting Bright Stars Entertainment as the main sponsor of its upcoming “Ranha Bissap” show as part of efforts to promote peaceful democratic participation ahead of The Gambia’s elections on December 5. The show is expected to...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/german-embassy-backs-bright-stars-show-to-promote-peaceful-elections/",
-      "publishedAt": "2026-10-28T10:52:50.000Z",
-      "collectedAt": "2026-10-28T12:35:41.382Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "e071d1dae983bba6",
       "title": "Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why?",
       "summary": "Since President Adama Barrow came to power in 2017, the prices of many food commodities in…\nThe post Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why? appeared first on What's On Gambia.",
@@ -1756,7 +1873,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-02T05:38:37.979Z",
+      "collectedAt": "2026-11-02T15:28:48.730Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1779,7 +1896,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
       "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-11-02T05:38:37.979Z",
+      "collectedAt": "2026-11-02T15:28:48.730Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1795,7 +1912,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T05:38:43.348Z",
-    "count": 76
+    "generatedAt": "2026-11-02T15:28:54.859Z",
+    "count": 81
   }
 }

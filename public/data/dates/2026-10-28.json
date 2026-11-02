@@ -327,76 +327,6 @@
       "status": "published"
     },
     {
-      "id": "c98209e294f8855d",
-      "title": "‘Selective Cooperation Is Impunity by Another Name’ – Justice Minister Jallow Warns ICC Members",
-      "summary": "Written by: Dawda Baldeh The Gambia’s Justice Minister, Dawda Jallow, has warned that selective or delayed cooperation with the International Criminal Court (ICC) undermines accountability and allows perpetrators of serious international crimes to escape justice. “Cooperation ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/selective-cooperation-is-impunity-by-another-name-justice-minister-jallow-warns-icc-members/",
-      "publishedAt": "2026-10-28T11:18:52.000Z",
-      "collectedAt": "2026-10-28T12:35:41.382Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a524747a06ba6e4c",
-      "title": "Three-Year-Old Footballer at Centre of Row After Scoring 10 Goals in 12 Minutes",
-      "summary": "By Dawda Baldeh A three-year-old footballer in Florida has become the focus of an online controversy after his family was asked to leave a youth soccer match following a remarkable goal-scoring performance. According to his parents, Nevada, who was enrolled in an introductory ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/three-year-old-footballer-at-centre-of-row-after-scoring-10-goals-in-12-minutes/",
-      "publishedAt": "2026-10-28T11:04:51.000Z",
-      "collectedAt": "2026-10-28T12:35:41.382Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "05bc13125c1e13a3",
-      "title": "German Embassy backs Bright Stars show to promote peaceful elections",
-      "summary": "By Hadram Hydara The German Embassy in Banjul is supporting Bright Stars Entertainment as the main sponsor of its upcoming “Ranha Bissap” show as part of efforts to promote peaceful democratic participation ahead of The Gambia’s elections on December 5. The show is expected to...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/german-embassy-backs-bright-stars-show-to-promote-peaceful-elections/",
-      "publishedAt": "2026-10-28T10:52:50.000Z",
-      "collectedAt": "2026-10-28T12:35:41.382Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "e071d1dae983bba6",
       "title": "Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why?",
       "summary": "Since President Adama Barrow came to power in 2017, the prices of many food commodities in…\nThe post Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why? appeared first on What's On Gambia.",
@@ -405,7 +335,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-02T05:38:37.979Z",
+      "collectedAt": "2026-11-02T15:28:48.730Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -428,7 +358,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambian-music-goes-boring-no-beef-no-drama-no-buzz/",
       "publishedAt": "2026-10-28T03:09:34.000Z",
-      "collectedAt": "2026-11-02T05:38:37.979Z",
+      "collectedAt": "2026-11-02T15:28:48.730Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -449,7 +379,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/busumbala-tailor-arrested-over-alleged-grpe-of-apprentice/",
       "publishedAt": "2026-10-28T03:06:08.000Z",
-      "collectedAt": "2026-11-02T05:38:37.979Z",
+      "collectedAt": "2026-11-02T15:28:48.730Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -470,7 +400,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-02T05:38:37.979Z",
+      "collectedAt": "2026-11-02T15:28:48.730Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -486,7 +416,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T05:38:43.348Z",
-    "count": 21
+    "generatedAt": "2026-11-02T15:28:54.859Z",
+    "count": 18
   }
 }

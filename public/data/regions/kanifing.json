@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "38536ec989feb3c2",
+      "title": "Government publishes findings & recommendations of local Government Commission of Inquiry",
+      "summary": "Former KMC CEO Sainabou Sonko faces suspension and investigation recommends bribery & corruption proceedings against her Former Kanifing Municipal Council chief executive officer (CEO) Sainabou Martin Sonko is to face disciplinary proceedings and investigations over payments, ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/government-publishes-findings-recommendations-of-local-government-commission-of-inquiry/",
+      "publishedAt": "2026-11-02T12:16:16.000Z",
+      "collectedAt": "2026-11-02T15:28:48.267Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5661682eb34cf7ff",
       "title": "State Land Records List Three Properties for President Barrow, Raising Questions Over Allocation Policy",
       "summary": "By Staff Writer A newly released list of state land allocations identifies President Adama Barrow as the recipient of three residential properties, two in Brufut and one in Fajara, raising questions about whether the allocations are consistent with the Ministry of Lands’ repor...",
@@ -189,7 +210,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T05:38:43.348Z",
-    "count": 8
+    "generatedAt": "2026-11-02T15:28:54.859Z",
+    "count": 9
   }
 }
