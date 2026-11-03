@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "cbe857daff23dd9f",
+      "title": "GAP Flagbearer Bassamba Drammeh Withdraws From Presidential Race, Endorses UDP’s Ousainou Darboe",
+      "summary": "By Seedy Jobe Gambia Action Party (GAP) flagbearer Bassamba Drammeh has ended his bid for the presidency and endorsed the United Democratic Party (UDP) and its leader, Ousainou Darboe, ahead of the 5 December presidential election. Drammeh announced the decision at a press con...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gap-leader-bassamba-drammeh-withdraws-from-presidential-race-endorses-udps-ousainou-darboe/",
+      "publishedAt": "2026-11-03T21:11:12.000Z",
+      "collectedAt": "2026-11-03T23:09:24.887Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "da831eb96c6dd0b9",
       "title": "Gambia Immigration Department Intercepts 117 Suspected Irregular Migrants in Gunjur",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 117 suspected irregular migrants along the beach at Gunjur Sambuya in the West Coast Region, as authorities intensify efforts to curb irregular migration. The interception, carried out on Sunday, was cond...",
@@ -291,7 +315,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-03T16:07:17.312Z",
-    "count": 12
+    "generatedAt": "2026-11-03T23:09:28.989Z",
+    "count": 13
   }
 }

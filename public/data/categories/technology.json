@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "d4746d7634b16583",
+      "title": "“What Has Never Happened Will Not Happen Here,” Dibba Warns Against Bensouda’s Disqualification",
+      "summary": "By Seedy Jobe Ebrima Dibba, national president of the UNITE Party, has warned against any attempt to disqualify Coalition 2026 presidential candidate Talib Ahmed Bensouda from the December 5 election, describing such a move as an act of dictatorship that his party would refuse...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/what-has-never-happened-will-not-happen-here-dibba-warns-against-bensoudas-disqualification/",
+      "publishedAt": "2026-11-03T17:38:06.000Z",
+      "collectedAt": "2026-11-03T23:09:24.887Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d0f34b3b89a31621",
+      "title": "Joint-Border commission finds colonial boundary pegs in Sandu",
+      "summary": "By Hatab Nyang Boundary teams from The Gambia and Senegal have found four colonial-era markers in Sandu District as work continues to identify and clarify parts of the border between the two countries. The National Council for Arts and Culture (NCAC) said the search was carrie...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/joint-border-commission-finds-colonial-boundary-pegs-in-sandu/",
+      "publishedAt": "2026-11-03T12:50:59.000Z",
+      "collectedAt": "2026-11-03T23:09:14.248Z",
+      "region": "upper-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "85ff37b7a6204da0",
       "title": "QCell, Djeliba Leisure Group Partner to Strengthen Digital Connectivity in Tourism Sector",
       "summary": "By Ndey Sowe QCell Company Limited and Djeliba Leisure Group have entered into a strategic corporate fibre agreement aimed at strengthening high-speed internet connectivity across five hotel properties and enhancing hospitality services, visitor experiences and support the gro...",
@@ -194,7 +241,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-03T16:07:17.312Z",
-    "count": 8
+    "generatedAt": "2026-11-03T23:09:28.989Z",
+    "count": 10
   }
 }

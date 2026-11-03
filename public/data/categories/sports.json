@@ -1,32 +1,31 @@
 {
   "items": [
     {
-      "id": "a0f64845d93c475b",
-      "title": "Nyanga Bantaba & Saller Sports Threaten Legal Action Over Fake Scorpions Jerseys",
-      "summary": "By Nelson Manneh Nyanga Bantaba and Saller Sports, the official merchandisers and kit manufacturers of The Gambia’s national football teams, have threatened legal action against individuals and businesses producing or selling counterfeit Scorpions jerseys. The warning comes ah...",
+      "id": "d757e80cb7d36b7a",
+      "title": "Inquiry finds gaps in KMC procurements as three officials face different outcomes",
+      "summary": "A former Kanifing Municipal Council procurement manager is to face disciplinary proceedings over gaps in procurement records, while the Government has cleared a former colleague who said she resisted improper instructions. A third officer, Yankuba Njie, also faces disciplinary...",
       "sourceId": "foroyaa",
       "sourceName": "Foroyaa",
       "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/nyanga-bantaba-saller-sports-threaten-legal-action-over-fake-scorpions-jerseys/",
-      "publishedAt": "2026-10-29T11:51:59.000Z",
-      "collectedAt": "2026-10-29T12:46:09.166Z",
-      "region": "banjul",
+      "originalUrl": "https://foroyaa.net/inquiry-finds-gaps-in-kmc-procurements-as-three-officials-face-different-outcomes/",
+      "publishedAt": "2026-11-03T13:23:42.000Z",
+      "collectedAt": "2026-11-03T23:09:14.248Z",
+      "region": "kanifing",
       "categories": [
-        "business",
         "sports"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Sulayman Bah",
       "language": "en",
-      "isGoodNews": false,
+      "isGoodNews": true,
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T23:24:51.267Z",
+    "generatedAt": "2026-11-03T23:09:28.989Z",
     "count": 1
   }
 }

@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "2326693ef35cc1c2",
+      "title": "KMC cashier faces audit of over D140 million in payments without matching vouchers",
+      "summary": "A former Kanifing Municipal Council cashier is facing a forensic audit after an inquiry found that more than D140m in cheques cashed in his name could not be matched to supporting vouchers. Saihou Sabally told the Commission of Inquiry that he cashed cheques authorised by the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kmc-cashier-faces-audit-of-over-d140-million-in-payments-without-matching-vouchers/",
+      "publishedAt": "2026-11-03T13:34:52.000Z",
+      "collectedAt": "2026-11-03T23:09:14.248Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d757e80cb7d36b7a",
+      "title": "Inquiry finds gaps in KMC procurements as three officials face different outcomes",
+      "summary": "A former Kanifing Municipal Council procurement manager is to face disciplinary proceedings over gaps in procurement records, while the Government has cleared a former colleague who said she resisted improper instructions. A third officer, Yankuba Njie, also faces disciplinary...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/inquiry-finds-gaps-in-kmc-procurements-as-three-officials-face-different-outcomes/",
+      "publishedAt": "2026-11-03T13:23:42.000Z",
+      "collectedAt": "2026-11-03T23:09:14.248Z",
+      "region": "kanifing",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4f97332fae584616",
       "title": "Government Orders Economic Crimes Investigation into KMC Mayor Bensouda",
       "summary": "The Gambia government has accepted the recommendations of the Local Government Commission of Inquiry and directed the Inspector General of Police (IGP) to investigate Kanifing Municipal Council Mayor Talib Ahmed Bensouda over alleged economic crimes linked to the Mbalit projec...",
@@ -114,7 +160,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-03T16:07:17.312Z",
-    "count": 5
+    "generatedAt": "2026-11-03T23:09:28.989Z",
+    "count": 7
   }
 }

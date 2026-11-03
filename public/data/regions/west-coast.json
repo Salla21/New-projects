@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "b5d9c27210c43e3b",
+      "title": "APC Presidential Aspirant Sima Files Nomination, Pledges Development-Focused First 100 Days",
+      "summary": "By Makutu Manneh Momodou Lamin Sima, presidential aspirant for the Alliance of Progressive Citizens (APC), formally submitted his nomination papers to the Independent Electoral Commission (IEC) on Tuesday, pledging to prioritize institutional reforms and national development d...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/apc-presidential-aspirant-sima-files-nomination-pledges-development-focused-first-100-days/",
+      "publishedAt": "2026-11-03T17:49:08.000Z",
+      "collectedAt": "2026-11-03T23:09:24.887Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fb5ce300d869c1a7",
+      "title": "SPOTLIGHT: Muhammed Alamin Trawally’s Vision to Make The Gambia an International Hub for Peace",
+      "summary": "Published by: The Fatu Network Muhammed Alamin Trawally is a Gambian peace advocate, policy entrepreneur, law student and founder of the Gambia Peace Project, an initiative seeking to position The Gambia as a leading African centre for peacebuilding, responsible citizenship, s...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/spotlight-muhammed-alamin-trawallys-vision-to-make-the-gambia-an-international-hub-for-peace/",
+      "publishedAt": "2026-11-03T17:33:31.000Z",
+      "collectedAt": "2026-11-03T23:09:14.621Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cd3210ba0770e953",
       "title": "UDP’s Sanneh: Civil Service Promotions Must Be Based on Merit, Not Party Loyalty",
       "summary": "By Fatou Sillah Lamin J.K. Sanneh, Deputy Administrative Secretary for Social Affairs and Fundraising of the United Democratic Party (UDP), has called for civil service promotions to be based on merit, competence, and performance rather than political affiliation. Speaking in ...",
@@ -399,7 +445,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-03T16:06:26.916Z",
+      "collectedAt": "2026-11-03T23:09:14.520Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -413,7 +459,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-03T16:07:17.312Z",
-    "count": 18
+    "generatedAt": "2026-11-03T23:09:28.989Z",
+    "count": 20
   }
 }

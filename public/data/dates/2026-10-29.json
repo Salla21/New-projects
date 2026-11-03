@@ -301,34 +301,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0d9692ec36456caa",
-      "title": "Barrow Witnesses Signing of US$169 Million Solar Energy Deal to Boost Gambia’s Electricity Supply",
-      "summary": "Published by: The Fatu Network President Adama Barrow witnessed the signing of a US$169 million solar energy agreement at State House yesterday, a major investment expected to expand The Gambia’s electricity supply and reduce dependence on expensive fuel-powered generation. Th...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/barrow-witnesses-signing-of-us169-million-solar-energy-deal-to-boost-gambias-electricity-supply/",
-      "publishedAt": "2026-10-29T16:13:09.000Z",
-      "collectedAt": "2026-10-29T19:30:00.324Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-03T16:07:17.312Z",
-    "count": 14
+    "generatedAt": "2026-11-03T23:09:28.989Z",
+    "count": 13
   }
 }

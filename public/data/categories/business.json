@@ -1,6 +1,124 @@
 {
   "items": [
     {
+      "id": "51e4c72223d982c6",
+      "title": "Coalition 2026 Threatens Street Protests if Bensouda Is Barred From Presidential Election",
+      "summary": "By Fatou Sillah Assan Martin, spokesperson for Coalition 2026, has warned that the coalition will mobilize supporters for street protests if authorities attempt to prevent its presidential candidate, Talib Ahmed Bensouda, from contesting the December 5 presidential election. S...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/coalition-2026-threatens-street-protests-if-bensouda-is-barred-from-presidential-election/",
+      "publishedAt": "2026-11-03T21:05:09.000Z",
+      "collectedAt": "2026-11-03T23:09:24.887Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "39321238d926b267",
+      "title": "UNITE Now Gambia’s Largest Political Party, Ebrima Dibba Claims Following Nationwide Tour",
+      "summary": "By Seedy Jobe Ebrima Dibba, national president of the United for Integrity, Transformation and Equality (UNITE) Party, has claimed that the party’s recent nationwide tour has established it as the largest political organization in The Gambia, citing growing public support and ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/unite-now-gambias-largest-political-party-ebrima-dibba-claims-following-nationwide-tour/",
+      "publishedAt": "2026-11-03T17:32:12.000Z",
+      "collectedAt": "2026-11-03T23:09:24.887Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8ca0e88b72847828",
+      "title": "UNITE Legal Secretary Aziz Bensouda Alleges Government Altered Commission Report to Undermine Talib’s Candidacy",
+      "summary": "Written by: Seringe S.T. Touray UNITE Legal Secretary Aziz Bensouda has challenged the government’s White Paper on the Local Government Commission of Inquiry, alleging that it deliberately misrepresents the commission’s findings to create confusion and potentially prevent Tali...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/unite-legal-secretary-aziz-bensouda-alleges-government-altered-commission-report-to-undermine-talibs-candidacy/",
+      "publishedAt": "2026-11-03T16:57:20.000Z",
+      "collectedAt": "2026-11-03T23:09:14.621Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2326693ef35cc1c2",
+      "title": "KMC cashier faces audit of over D140 million in payments without matching vouchers",
+      "summary": "A former Kanifing Municipal Council cashier is facing a forensic audit after an inquiry found that more than D140m in cheques cashed in his name could not be matched to supporting vouchers. Saihou Sabally told the Commission of Inquiry that he cashed cheques authorised by the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kmc-cashier-faces-audit-of-over-d140-million-in-payments-without-matching-vouchers/",
+      "publishedAt": "2026-11-03T13:34:52.000Z",
+      "collectedAt": "2026-11-03T23:09:14.248Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a2128bdccbea0276",
+      "title": "WHO IS DISQUALIFIED BY THE CONSTITUTION TO CONTEST A PRESIDENTIAL ELECTION?",
+      "summary": "Nomination starts today and it is important to point out those who will not be qualified to stand as candidates. The Constitution states in section 90 that no person shall be qualified for election as president or a member of The National Assembly if he or she— “(a) holds the ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/who-is-disqualified-by-the-constitution-to-contest-a-presidential-election/",
+      "publishedAt": "2026-11-03T12:06:23.000Z",
+      "collectedAt": "2026-11-03T23:09:14.248Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b3d512bfd6b4c59a",
       "title": "Bensouda Pledges to Review Sanyang Seaport Deal, Raises Concerns Over Displacement and Fishing Livelihoods",
       "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has pledged to review the government’s proposed Sanyang seaport agreement if elected president on December 5, raising concerns about the project’s potential impact on ...",
@@ -720,30 +838,6 @@
       "status": "published"
     },
     {
-      "id": "0d9692ec36456caa",
-      "title": "Barrow Witnesses Signing of US$169 Million Solar Energy Deal to Boost Gambia’s Electricity Supply",
-      "summary": "Published by: The Fatu Network President Adama Barrow witnessed the signing of a US$169 million solar energy agreement at State House yesterday, a major investment expected to expand The Gambia’s electricity supply and reduce dependence on expensive fuel-powered generation. Th...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/barrow-witnesses-signing-of-us169-million-solar-energy-deal-to-boost-gambias-electricity-supply/",
-      "publishedAt": "2026-10-29T16:13:09.000Z",
-      "collectedAt": "2026-10-29T19:30:00.324Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -752,7 +846,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-03T16:06:26.916Z",
+      "collectedAt": "2026-11-03T23:09:14.520Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -775,7 +869,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-11-03T16:06:26.916Z",
+      "collectedAt": "2026-11-03T23:09:14.520Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -798,7 +892,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-11-03T16:06:26.916Z",
+      "collectedAt": "2026-11-03T23:09:14.520Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -814,7 +908,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-03T16:07:17.312Z",
-    "count": 34
+    "generatedAt": "2026-11-03T23:09:28.989Z",
+    "count": 38
   }
 }
