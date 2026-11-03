@@ -391,29 +391,6 @@
       "status": "published"
     },
     {
-      "id": "57386a89bea71919",
-      "title": "Gambia Steps Up Efforts to Reform Mental Health Care",
-      "summary": "By Kebba A.F. Touray The Gambia is taking steps to strengthen its legal and policy framework for mental health as authorities face continuing challenges in caring for people with mental health conditions found living on the streets. Health Minister Dr Ahmed Lamin Samateh told ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-steps-up-efforts-to-reform-mental-health-care/",
-      "publishedAt": "2026-10-29T12:30:00.000Z",
-      "collectedAt": "2026-10-29T19:29:59.441Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -422,7 +399,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-03T06:18:59.443Z",
+      "collectedAt": "2026-11-03T16:06:26.916Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -436,7 +413,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-03T06:19:05.199Z",
-    "count": 19
+    "generatedAt": "2026-11-03T16:07:17.312Z",
+    "count": 18
   }
 }

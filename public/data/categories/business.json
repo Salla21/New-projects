@@ -744,55 +744,6 @@
       "status": "published"
     },
     {
-      "id": "3d552eb5b37656e9",
-      "title": "Bensouda Promises to Scrap D1,000 Airport Fee, Terminate Securiport Agreement if Elected",
-      "summary": "Written by: Seringe S.T. Touray Kanifing Mayor and UNITE presidential candidate Talib Ahmed Bensouda has promised to abolish The Gambia’s controversial D1,000 airport security fee and terminate the government’s agreement with US-based company Securiport if elected president. T...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bensouda-promises-to-scrap-d1000-airport-fee-terminate-securiport-agreement-if-elected/",
-      "publishedAt": "2026-10-29T13:19:14.000Z",
-      "collectedAt": "2026-10-29T19:30:00.324Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "69932cbc4cd4f3fd",
-      "title": "EU Pledges Long-Term Duty-Free Access as Africa Trade Hits €357 Billion",
-      "summary": "Trade Increases from €236 billion in 2016 to €357 billion in 2025 By Yankuba Jallow The European Union has reaffirmed its long-term commitment to Africa’s least-developed countries, promising to keep their exports flowing into the European market without tariffs or quotas as t...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/eu-pledges-long-term-duty-free-access-as-africa-trade-hits-e357-billion/",
-      "publishedAt": "2026-10-29T12:20:20.000Z",
-      "collectedAt": "2026-10-29T12:46:09.166Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -801,7 +752,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-03T06:18:59.443Z",
+      "collectedAt": "2026-11-03T16:06:26.916Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -824,7 +775,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
       "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-11-03T06:18:59.443Z",
+      "collectedAt": "2026-11-03T16:06:26.916Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -847,7 +798,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
       "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-11-03T06:18:59.443Z",
+      "collectedAt": "2026-11-03T16:06:26.916Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -863,7 +814,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-03T06:19:05.199Z",
-    "count": 36
+    "generatedAt": "2026-11-03T16:07:17.312Z",
+    "count": 34
   }
 }

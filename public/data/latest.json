@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "2569499ef6f25c7b",
+      "title": "The IEC Checks Nominations. It Does Not Interpret the Constitution.",
+      "summary": "ANALYSIS By Sarjo Barrow, Esq. Nominations for the December 5 presidential election open on November 3. One question hangs over them: will the Independent Electoral Commission (IEC) accept the papers of the KMC Mayor, who was adversely named in the Local Government Commission ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-iec-checks-nominations-it-does-not-interpret-the-constitution/",
+      "publishedAt": "2026-11-03T10:27:25.000Z",
+      "collectedAt": "2026-11-03T16:06:27.100Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cd3210ba0770e953",
       "title": "UDP’s Sanneh: Civil Service Promotions Must Be Based on Merit, Not Party Loyalty",
       "summary": "By Fatou Sillah Lamin J.K. Sanneh, Deputy Administrative Secretary for Social Affairs and Fundraising of the United Democratic Party (UDP), has called for civil service promotions to be based on merit, competence, and performance rather than political affiliation. Speaking in ...",
@@ -2273,34 +2296,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0d9692ec36456caa",
-      "title": "Barrow Witnesses Signing of US$169 Million Solar Energy Deal to Boost Gambia’s Electricity Supply",
-      "summary": "Published by: The Fatu Network President Adama Barrow witnessed the signing of a US$169 million solar energy agreement at State House yesterday, a major investment expected to expand The Gambia’s electricity supply and reduce dependence on expensive fuel-powered generation. Th...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/barrow-witnesses-signing-of-us169-million-solar-energy-deal-to-boost-gambias-electricity-supply/",
-      "publishedAt": "2026-10-29T16:13:09.000Z",
-      "collectedAt": "2026-10-29T19:30:00.324Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-03T06:19:05.199Z",
+    "generatedAt": "2026-11-03T16:07:17.312Z",
     "count": 100
   }
 }
