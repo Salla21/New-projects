@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "id": "c40c01def9772e18",
+      "title": "UDP Official Accuses IEC of Failing to Ensure Credibility In Elections",
+      "summary": "By Fatou Sillah Lamin J.K. Sanneh, the United Democratic Party’s (UDP) Deputy Administrative Secretary for Social Affairs and Fundraising, has accused the Independent Electoral Commission (IEC) of failing to safeguard the credibility of the electoral process ahead of the 2026 ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-official-accuses-iec-of-failing-to-ensure-credible-elections/",
+      "publishedAt": "2026-11-02T23:57:22.000Z",
+      "collectedAt": "2026-11-03T06:19:01.082Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9c56298e2e0dd1f4",
+      "title": "Gambia Signs Contracts to Distribute 7,800 LPG Cylinders Under $300,000 ECOWAS Initiative",
+      "summary": "By Makutu Manneh The Government of The Gambia, through the Ministry of Petroleum, Energy and Mines (MoPEM), has signed two contracts for the procurement and distribution of 7,800 filled liquefied petroleum gas (LPG) cylinders to selected households across the country as part o...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-signs-contracts-to-distribute-7800-lpg-cylinders-under-300000-ecowas-initiative/",
+      "publishedAt": "2026-11-02T23:45:09.000Z",
+      "collectedAt": "2026-11-03T06:19:01.082Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b3d512bfd6b4c59a",
+      "title": "Bensouda Pledges to Review Sanyang Seaport Deal, Raises Concerns Over Displacement and Fishing Livelihoods",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has pledged to review the government’s proposed Sanyang seaport agreement if elected president on December 5, raising concerns about the project’s potential impact on ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-review-sanyang-seaport-deal-raises-concerns-over-displacement-and-fishing-livelihoods/",
+      "publishedAt": "2026-11-02T23:40:25.000Z",
+      "collectedAt": "2026-11-03T06:19:01.082Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f69f5c2ba4752cf2",
+      "title": "PF Initiative Launches Kepar Support Group to Strengthen Support for Women and Girls",
+      "summary": "By Seedy Jobe The Paradise Foundation Initiative (PFI) has launched the Kepar Support Group, a community-based initiative designed to provide a safe and supportive environment for women and girls to share their experiences, seek guidance, and access emotional and psychosocial ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/pf-initiative-launches-kepar-support-group-to-strengthen-support-for-women-and-girls/",
+      "publishedAt": "2026-11-02T23:29:55.000Z",
+      "collectedAt": "2026-11-03T06:19:01.082Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "38f4dfaef7475175",
       "title": "UNITE Accuses Barrow Government of Misrepresenting Commission Findings to Undermine Bensouda’s Presidential Candidacy",
       "summary": "By Staff Writer The Unite for Integrity, Transformation and Equality (UNITE) Party has accused President Adama Barrow’s administration of deliberately misrepresenting findings of the Local Government Commission of Inquiry in an attempt to undermine the presidential candidacy o...",
@@ -641,7 +732,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T23:24:51.267Z",
-    "count": 28
+    "generatedAt": "2026-11-03T06:19:05.199Z",
+    "count": 32
   }
 }

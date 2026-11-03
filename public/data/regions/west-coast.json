@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "cd3210ba0770e953",
+      "title": "UDP’s Sanneh: Civil Service Promotions Must Be Based on Merit, Not Party Loyalty",
+      "summary": "By Fatou Sillah Lamin J.K. Sanneh, Deputy Administrative Secretary for Social Affairs and Fundraising of the United Democratic Party (UDP), has called for civil service promotions to be based on merit, competence, and performance rather than political affiliation. Speaking in ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udps-sanneh-civil-service-promotions-must-be-based-on-merit-not-party-loyalty/",
+      "publishedAt": "2026-11-03T00:03:39.000Z",
+      "collectedAt": "2026-11-03T06:19:01.082Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c40c01def9772e18",
+      "title": "UDP Official Accuses IEC of Failing to Ensure Credibility In Elections",
+      "summary": "By Fatou Sillah Lamin J.K. Sanneh, the United Democratic Party’s (UDP) Deputy Administrative Secretary for Social Affairs and Fundraising, has accused the Independent Electoral Commission (IEC) of failing to safeguard the credibility of the electoral process ahead of the 2026 ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-official-accuses-iec-of-failing-to-ensure-credible-elections/",
+      "publishedAt": "2026-11-02T23:57:22.000Z",
+      "collectedAt": "2026-11-03T06:19:01.082Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b3d512bfd6b4c59a",
+      "title": "Bensouda Pledges to Review Sanyang Seaport Deal, Raises Concerns Over Displacement and Fishing Livelihoods",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has pledged to review the government’s proposed Sanyang seaport agreement if elected president on December 5, raising concerns about the project’s potential impact on ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-review-sanyang-seaport-deal-raises-concerns-over-displacement-and-fishing-livelihoods/",
+      "publishedAt": "2026-11-02T23:40:25.000Z",
+      "collectedAt": "2026-11-03T06:19:01.082Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "da831eb96c6dd0b9",
       "title": "Gambia Immigration Department Intercepts 117 Suspected Irregular Migrants in Gunjur",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 117 suspected irregular migrants along the beach at Gunjur Sambuya in the West Coast Region, as authorities intensify efforts to curb irregular migration. The interception, carried out on Sunday, was cond...",
@@ -352,7 +422,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-02T23:24:45.515Z",
+      "collectedAt": "2026-11-03T06:18:59.443Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -366,7 +436,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-02T23:24:51.267Z",
-    "count": 16
+    "generatedAt": "2026-11-03T06:19:05.199Z",
+    "count": 19
   }
 }
