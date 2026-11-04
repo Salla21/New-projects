@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "3fea82042be088ff",
+      "title": "DEMOCRATS SEIZE CONTROL OF US CONGRESS AS TRUMP SUFFERS SWEEPING MIDTERM DEFEATS",
+      "summary": "Written by: Seringe S.T. Touray President Donald Trump and his Republican Party have suffered major political setbacks in Tuesday’s US midterm elections, with Democrats capturing control of both the Senate and House of Representatives after securing historic victories across s...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/democrats-seize-control-of-us-congress-as-trump-suffers-sweeping-midterm-defeats/",
+      "publishedAt": "2026-11-04T10:21:09.000Z",
+      "collectedAt": "2026-11-04T14:18:12.542Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "434861903ad39ab1",
+      "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
+      "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
+      "publishedAt": "2026-11-04T06:16:52.000Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Lamin Saidy",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d4746d7634b16583",
       "title": "“What Has Never Happened Will Not Happen Here,” Dibba Warns Against Bensouda’s Disqualification",
       "summary": "By Seedy Jobe Ebrima Dibba, national president of the UNITE Party, has warned against any attempt to disqualify Coalition 2026 presidential candidate Talib Ahmed Bensouda from the December 5 election, describing such a move as an act of dictatorship that his party would refuse...",
@@ -168,7 +216,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T05:54:55.083Z",
-    "count": 7
+    "generatedAt": "2026-11-04T14:18:18.427Z",
+    "count": 9
   }
 }

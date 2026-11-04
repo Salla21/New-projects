@@ -9,7 +9,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -30,7 +30,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/fula-gangstar-wants-to-make-peace-with-star-girl-as-fans-wait-for-the-full-story/",
       "publishedAt": "2026-10-21T02:21:43.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -51,7 +51,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -62,33 +62,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "bbc6204f2840fde3",
-      "title": "Sister in Trouble After Bailing Thief Brother",
-      "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
-      "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Saidy",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T05:54:55.083Z",
-    "count": 4
+    "generatedAt": "2026-11-04T14:18:18.427Z",
+    "count": 3
   }
 }

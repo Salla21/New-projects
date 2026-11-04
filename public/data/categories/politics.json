@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "3fea82042be088ff",
+      "title": "DEMOCRATS SEIZE CONTROL OF US CONGRESS AS TRUMP SUFFERS SWEEPING MIDTERM DEFEATS",
+      "summary": "Written by: Seringe S.T. Touray President Donald Trump and his Republican Party have suffered major political setbacks in Tuesday’s US midterm elections, with Democrats capturing control of both the Senate and House of Representatives after securing historic victories across s...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/democrats-seize-control-of-us-congress-as-trump-suffers-sweeping-midterm-defeats/",
+      "publishedAt": "2026-11-04T10:21:09.000Z",
+      "collectedAt": "2026-11-04T14:18:12.542Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "434861903ad39ab1",
+      "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
+      "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
+      "publishedAt": "2026-11-04T06:16:52.000Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Lamin Saidy",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4c2c3f79fd5576fd",
       "title": "Lands Minister Defends Allocation to Barrow’s Company, Says President Received Only One Plot",
       "summary": "By Makutu Manneh Hamat N.K. Bah, Minister of Lands, Regional Government and Religious Affairs, has defended the allocation of state land to a company associated with President Adama Barrow, insisting that the company is entitled to land under the same conditions as other busin...",
@@ -1579,30 +1627,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "96a18377d48f69eb",
-      "title": "Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali",
-      "summary": "A young mother, Isatou Jallow, was allegedly assaulted by her sister-in-law in Nema Alkali, leaving her…\nThe post Woman Allegedly Assaulted by Sister-in-Law in Nema Alkali appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/woman-allegedly-assaulted-by-sister-in-law-in-nema-alkali/",
-      "publishedAt": "2026-10-07T03:11:29.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1618,7 +1643,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T05:54:55.083Z",
-    "count": 69
+    "generatedAt": "2026-11-04T14:18:18.427Z",
+    "count": 70
   }
 }

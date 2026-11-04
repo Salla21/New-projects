@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "7df537de5df55004",
+      "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
+      "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
+      "publishedAt": "2026-11-04T06:20:12.000Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b5d9c27210c43e3b",
       "title": "APC Presidential Aspirant Sima Files Nomination, Pledges Development-Focused First 100 Days",
       "summary": "By Makutu Manneh Momodou Lamin Sima, presidential aspirant for the Alliance of Progressive Citizens (APC), formally submitted his nomination papers to the Independent Electoral Commission (IEC) on Tuesday, pledging to prioritize institutional reforms and national development d...",
@@ -326,7 +347,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -340,7 +361,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T05:54:55.083Z",
-    "count": 15
+    "generatedAt": "2026-11-04T14:18:18.427Z",
+    "count": 16
   }
 }

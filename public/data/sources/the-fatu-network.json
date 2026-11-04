@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3fea82042be088ff",
+      "title": "DEMOCRATS SEIZE CONTROL OF US CONGRESS AS TRUMP SUFFERS SWEEPING MIDTERM DEFEATS",
+      "summary": "Written by: Seringe S.T. Touray President Donald Trump and his Republican Party have suffered major political setbacks in Tuesday’s US midterm elections, with Democrats capturing control of both the Senate and House of Representatives after securing historic victories across s...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/democrats-seize-control-of-us-congress-as-trump-suffers-sweeping-midterm-defeats/",
+      "publishedAt": "2026-11-04T10:21:09.000Z",
+      "collectedAt": "2026-11-04T14:18:12.542Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "fb5ce300d869c1a7",
       "title": "SPOTLIGHT: Muhammed Alamin Trawally’s Vision to Make The Gambia an International Hub for Peace",
       "summary": "Published by: The Fatu Network Muhammed Alamin Trawally is a Gambian peace advocate, policy entrepreneur, law student and founder of the Gambia Peace Project, an initiative seeking to position The Gambia as a leading African centre for peacebuilding, responsible citizenship, s...",
@@ -613,7 +637,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T05:54:55.083Z",
-    "count": 27
+    "generatedAt": "2026-11-04T14:18:18.427Z",
+    "count": 28
   }
 }

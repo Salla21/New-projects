@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "57a0f91f5809e6a9",
+      "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
+      "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
+      "publishedAt": "2026-11-04T06:26:19.000Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Lamin Saidy",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "51e4c72223d982c6",
       "title": "Coalition 2026 Threatens Street Protests if Bensouda Is Barred From Presidential Election",
       "summary": "By Fatou Sillah Assan Martin, spokesperson for Coalition 2026, has warned that the coalition will mobilize supporters for street protests if authorities attempt to prevent its presidential candidate, Talib Ahmed Bensouda, from contesting the December 5 presidential election. S...",
@@ -652,7 +675,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
+      "collectedAt": "2026-11-04T14:18:12.402Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -665,56 +688,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "bbc6204f2840fde3",
-      "title": "Sister in Trouble After Bailing Thief Brother",
-      "summary": "A young woman is reportedly in hot water after bailing her brother, Muhammed Jassey, who allegedly…\nThe post Sister in Trouble After Bailing Thief Brother appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/sister-in-trouble-after-bailing-thief-brother/",
-      "publishedAt": "2026-10-21T02:09:37.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Saidy",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "94e72689ed22da8f",
-      "title": "Why are young Gambians turning to laughing gas?",
-      "summary": "An increasing number of young people, particularly in the Greater Banjul Area, are reportedly turning to…\nThe post Why are young Gambians turning to laughing gas? appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/why-are-young-gambians-turning-to-laughing-gas/",
-      "publishedAt": "2026-10-07T02:57:36.000Z",
-      "collectedAt": "2026-11-04T05:54:48.531Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Saidy",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T05:54:55.083Z",
-    "count": 30
+    "generatedAt": "2026-11-04T14:18:18.427Z",
+    "count": 29
   }
 }
