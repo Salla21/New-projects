@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "744cd488fb01ded8",
+      "title": "Democratic Party (DP) Leader Yusupha Dumbuya Pledges Rent Caps, Cuts in Government Spending",
+      "summary": "By Dawda Baldeh Yusupha Dumbuya, leader of the opposition Democratic Party (DP), has pledged to introduce strict rent caps and cut wasteful government spending to ease the financial burden on ordinary Gambians and revive the country’s economy. Dumbuya made the promises this af...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/democratic-party-dp-leader-yusupha-dumbuya-pledges-rent-caps-cuts-in-government-spending/",
+      "publishedAt": "2026-11-04T18:36:19.000Z",
+      "collectedAt": "2026-11-04T21:48:54.039Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3fea82042be088ff",
       "title": "DEMOCRATS SEIZE CONTROL OF US CONGRESS AS TRUMP SUFFERS SWEEPING MIDTERM DEFEATS",
       "summary": "Written by: Seringe S.T. Touray President Donald Trump and his Republican Party have suffered major political setbacks in Tuesday’s US midterm elections, with Democrats capturing control of both the Senate and House of Representatives after securing historic victories across s...",
@@ -216,7 +241,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T14:18:18.427Z",
-    "count": 9
+    "generatedAt": "2026-11-04T21:49:02.810Z",
+    "count": 10
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b738a1c677b45d35",
+      "title": "Hamat Bah says local government inquiry was not meant to target Mayor Talib Bensouda",
+      "summary": "By Ndey Sowe Hamat N.K. Bah, the Minister of Regional Government, Lands and Religious Affairs has rejected claims that a commission of inquiry was set up to target the current Kanifing Municipal Council mayor, Talib Ahmed Bensouda. The Local Government Commission of Inquiry in...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/hamat-bah-says-local-government-inquiry-was-not-meant-to-target-mayor-talib-bensouda/",
+      "publishedAt": "2026-11-04T11:34:00.000Z",
+      "collectedAt": "2026-11-04T21:48:53.529Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2326693ef35cc1c2",
       "title": "KMC cashier faces audit of over D140 million in payments without matching vouchers",
       "summary": "A former Kanifing Municipal Council cashier is facing a forensic audit after an inquiry found that more than D140m in cheques cashed in his name could not be matched to supporting vouchers. Saihou Sabally told the Commission of Inquiry that he cashed cheques authorised by the ...",
@@ -160,7 +183,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T14:18:18.427Z",
-    "count": 7
+    "generatedAt": "2026-11-04T21:49:02.810Z",
+    "count": 8
   }
 }

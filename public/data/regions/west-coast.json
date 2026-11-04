@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "777e844015277e4c",
+      "title": "Juwara Questions Barrow’s Anti-Corruption Commitment, Alleges Selective Targeting of Political Opponents",
+      "summary": "By Seedy Jobe Political analyst Lamin Juwara has questioned President Adama Barrow’s commitment to fighting corruption, accusing his administration of selectively using the findings of the Local Government Commission of Inquiry to target political opponents while overlooking b...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/juwara-questions-barrows-anti-corruption-commitment-alleges-selective-targeting-of-political-opponents/",
+      "publishedAt": "2026-11-04T17:52:50.000Z",
+      "collectedAt": "2026-11-04T21:48:58.763Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "06cf9a897e7cbce0",
+      "title": "Pregnant woman remanded over alleged killing of nine-year-old girl",
+      "summary": "By Louise Jobe A pregnant woman has been remanded at Mile Two Central Prison after pleading not guilty to murdering a nine-year-old girl in Sutu-Sinjang village, the Brikama Magistrates’ Court has heard. Natoma Taal appeared before Magistrate A. Mendy on Monday, 2 November. Sh...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/pregnant-woman-remanded-over-alleged-killing-of-nine-year-old-girl/",
+      "publishedAt": "2026-11-04T11:46:00.000Z",
+      "collectedAt": "2026-11-04T21:48:53.529Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "943052e0e7b9b907",
+      "title": "IEC asks APC flagbearer Modou Lamin Sima to provide original citizenship document",
+      "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) flagbearer Modou Lamin Sima has submitted nomination papers to contest The Gambia’s 5 December presidential election, but the Independent Electoral Commission (IEC) has asked him to provide an original document proving hi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-asks-apc-flagbearer-modou-lamin-sima-to-provide-original-citizenship-document/",
+      "publishedAt": "2026-11-04T11:43:00.000Z",
+      "collectedAt": "2026-11-04T21:48:53.529Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7df537de5df55004",
       "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
       "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
@@ -293,52 +360,6 @@
       "status": "published"
     },
     {
-      "id": "b9edb569e9cb9523",
-      "title": "Former BAC CEO Modou Jonga faces suspension, economic crime proceedings",
-      "summary": "By Hadram Hydara The Gambian government has accepted recommendations to suspend former Brikama Area Council chief executive officer Modou Jonga and pursue economic crime proceedings against him over alleged financial mismanagement and the misuse of millions of dalasis in counc...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/former-bac-ceo-modou-jonga-faces-suspension-economic-crime-proceedings/",
-      "publishedAt": "2026-10-30T13:31:21.000Z",
-      "collectedAt": "2026-10-30T19:07:02.892Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "213a07e0a9358a06",
-      "title": "Gov’t orders probe into former BAC chairman Sheriffo Sonko",
-      "summary": "By Hadram Hydara The Gambian government has ordered an economic crimes investigation into former Brikama Area Council chairman Sheriffo Sonko, following findings that linked him to alleged financial irregularities, unlawful procurement practices and governance failures at the ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/govt-orders-probe-into-former-bac-chairman-sheriffo-sonko/",
-      "publishedAt": "2026-10-30T13:13:18.000Z",
-      "collectedAt": "2026-10-30T19:07:02.892Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -347,7 +368,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-04T14:18:12.402Z",
+      "collectedAt": "2026-11-04T21:48:53.887Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -361,7 +382,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T14:18:18.427Z",
-    "count": 16
+    "generatedAt": "2026-11-04T21:49:02.810Z",
+    "count": 17
   }
 }

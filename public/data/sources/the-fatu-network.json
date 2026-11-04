@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "744cd488fb01ded8",
+      "title": "Democratic Party (DP) Leader Yusupha Dumbuya Pledges Rent Caps, Cuts in Government Spending",
+      "summary": "By Dawda Baldeh Yusupha Dumbuya, leader of the opposition Democratic Party (DP), has pledged to introduce strict rent caps and cut wasteful government spending to ease the financial burden on ordinary Gambians and revive the country’s economy. Dumbuya made the promises this af...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/democratic-party-dp-leader-yusupha-dumbuya-pledges-rent-caps-cuts-in-government-spending/",
+      "publishedAt": "2026-11-04T18:36:19.000Z",
+      "collectedAt": "2026-11-04T21:48:54.039Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3fea82042be088ff",
       "title": "DEMOCRATS SEIZE CONTROL OF US CONGRESS AS TRUMP SUFFERS SWEEPING MIDTERM DEFEATS",
       "summary": "Written by: Seringe S.T. Touray President Donald Trump and his Republican Party have suffered major political setbacks in Tuesday’s US midterm elections, with Democrats capturing control of both the Senate and House of Representatives after securing historic victories across s...",
@@ -565,79 +590,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b9edb569e9cb9523",
-      "title": "Former BAC CEO Modou Jonga faces suspension, economic crime proceedings",
-      "summary": "By Hadram Hydara The Gambian government has accepted recommendations to suspend former Brikama Area Council chief executive officer Modou Jonga and pursue economic crime proceedings against him over alleged financial mismanagement and the misuse of millions of dalasis in counc...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/former-bac-ceo-modou-jonga-faces-suspension-economic-crime-proceedings/",
-      "publishedAt": "2026-10-30T13:31:21.000Z",
-      "collectedAt": "2026-10-30T19:07:02.892Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8fc8574e6d0f9a74",
-      "title": "Gambian Vice President Says Zoomlion Deal Will Transform Waste Management",
-      "summary": "Published by: The Fatu Network Vice President of The Gambia, His Excellency Mohammed B.S. Jallow, has hailed the signing of a landmark integrated waste management project concession agreement between the Government of The Gambia and Zoomlion Gambia Integrated Waste Solutions L...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambian-vice-president-says-zoomlion-deal-will-transform-waste-management/",
-      "publishedAt": "2026-10-30T13:27:14.000Z",
-      "collectedAt": "2026-10-30T19:07:02.892Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "213a07e0a9358a06",
-      "title": "Gov’t orders probe into former BAC chairman Sheriffo Sonko",
-      "summary": "By Hadram Hydara The Gambian government has ordered an economic crimes investigation into former Brikama Area Council chairman Sheriffo Sonko, following findings that linked him to alleged financial irregularities, unlawful procurement practices and governance failures at the ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/govt-orders-probe-into-former-bac-chairman-sheriffo-sonko/",
-      "publishedAt": "2026-10-30T13:13:18.000Z",
-      "collectedAt": "2026-10-30T19:07:02.892Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T14:18:18.427Z",
-    "count": 28
+    "generatedAt": "2026-11-04T21:49:02.810Z",
+    "count": 26
   }
 }

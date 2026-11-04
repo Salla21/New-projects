@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "943052e0e7b9b907",
+      "title": "IEC asks APC flagbearer Modou Lamin Sima to provide original citizenship document",
+      "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) flagbearer Modou Lamin Sima has submitted nomination papers to contest The Gambia’s 5 December presidential election, but the Independent Electoral Commission (IEC) has asked him to provide an original document proving hi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-asks-apc-flagbearer-modou-lamin-sima-to-provide-original-citizenship-document/",
+      "publishedAt": "2026-11-04T11:43:00.000Z",
+      "collectedAt": "2026-11-04T21:48:53.529Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b5d9c27210c43e3b",
       "title": "APC Presidential Aspirant Sima Files Nomination, Pledges Development-Focused First 100 Days",
       "summary": "By Makutu Manneh Momodou Lamin Sima, presidential aspirant for the Alliance of Progressive Citizens (APC), formally submitted his nomination papers to the Independent Electoral Commission (IEC) on Tuesday, pledging to prioritize institutional reforms and national development d...",
@@ -589,52 +612,6 @@
       "status": "published"
     },
     {
-      "id": "b9edb569e9cb9523",
-      "title": "Former BAC CEO Modou Jonga faces suspension, economic crime proceedings",
-      "summary": "By Hadram Hydara The Gambian government has accepted recommendations to suspend former Brikama Area Council chief executive officer Modou Jonga and pursue economic crime proceedings against him over alleged financial mismanagement and the misuse of millions of dalasis in counc...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/former-bac-ceo-modou-jonga-faces-suspension-economic-crime-proceedings/",
-      "publishedAt": "2026-10-30T13:31:21.000Z",
-      "collectedAt": "2026-10-30T19:07:02.892Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "213a07e0a9358a06",
-      "title": "Gov’t orders probe into former BAC chairman Sheriffo Sonko",
-      "summary": "By Hadram Hydara The Gambian government has ordered an economic crimes investigation into former Brikama Area Council chairman Sheriffo Sonko, following findings that linked him to alleged financial irregularities, unlawful procurement practices and governance failures at the ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/govt-orders-probe-into-former-bac-chairman-sheriffo-sonko/",
-      "publishedAt": "2026-10-30T13:13:18.000Z",
-      "collectedAt": "2026-10-30T19:07:02.892Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -643,7 +620,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-04T14:18:12.402Z",
+      "collectedAt": "2026-11-04T21:48:53.887Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -657,7 +634,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T14:18:18.427Z",
-    "count": 29
+    "generatedAt": "2026-11-04T21:49:02.810Z",
+    "count": 28
   }
 }
