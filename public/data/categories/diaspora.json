@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "ea344d6b0eed59b1",
+      "title": "EU Deploys Election Observers Across The Gambia Ahead of December Presidential Election",
+      "summary": "By Seedy Jobe The European Union Election Observation Mission (EU EOM) has officially launched its monitoring of The Gambia’s December 5, 2026, presidential election, deploying observers across the country to assess the electoral process. The mission was formally launched on T...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/eu-deploys-election-observers-across-the-gambia-ahead-of-december-presidential-election/",
+      "publishedAt": "2026-11-05T19:37:36.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c2caf53d697ece19",
+      "title": "Darboe Pledges ECOMIG Withdrawal, Diaspora Seats in National Assembly",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and presidential candidate ANM Ousainu Darboe has pledged to oversee a carefully planned withdrawal of the ECOWAS Mission in The Gambia (ECOMIG) and introduce parliamentary representation for Gambians living abroad ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-ecomig-withdrawal-diaspora-seats-in-national-assembly/",
+      "publishedAt": "2026-11-05T19:18:20.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "695f26c695a2aba2",
       "title": "Barrow Rallies Supporters for Nomination, Makes Fresh Appeal to Darboe to Join NPP",
       "summary": "By Makutu Manneh President Adama Barrow has urged his supporters to turn out in large numbers for his presidential nomination on November 10, while renewing his invitation to United Democratic Party (UDP) leader Ousainu Darboe to join the ruling National People’s Party (NPP) G...",
@@ -143,106 +191,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2f99e91e49093c4b",
-      "title": "Darboe Unveils Gambia First Coalition Manifesto, Pledges One-Term Presidency and Sweeping Reforms",
-      "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), ANM Ousainou Darboe, has formally launched the Gambia First Alliance (GFA)-UDP-led coalition’s manifesto, outlining an ambitious agenda for economic recovery, constitutional reform, impr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-unveils-gambia-first-coalition-manifesto-pledges-one-term-presidency-and-sweeping-reforms/",
-      "publishedAt": "2026-10-31T16:56:08.000Z",
-      "collectedAt": "2026-10-31T18:25:45.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "11657c6a5bac6cd0",
-      "title": "Darboe Raises Alarm Over Illegal Fishing, Pledges to Protect Gambia’s Waters and Create Jobs",
-      "summary": "By Seedy Jobe ANM Ousainu Darboe, Secretary General and Party Leader of the United Democratic Party (UDP), has raised concerns over illegal fishing in Gambian waters, accusing foreign trawlers of exploiting the country’s marine resources while contributing little to the local ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-raises-alarm-over-illegal-fishing-pledges-to-protect-gambias-waters-and-create-jobs/",
-      "publishedAt": "2026-10-31T16:44:48.000Z",
-      "collectedAt": "2026-10-31T18:25:45.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e4cb71e2355c9c14",
-      "title": "Darboe Pledges Better Pay, Working Conditions for Security Personnel Under UDP Government",
-      "summary": "By Seedy Jobe The Secretary General and party leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has pledged to improve salaries, working conditions, and welfare for members of The Gambia’s security services if elected president in the December 5 presidential ele...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-better-pay-working-conditions-for-security-personnel-under-udp-government/",
-      "publishedAt": "2026-10-31T16:39:21.000Z",
-      "collectedAt": "2026-10-31T18:25:45.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "11679d920f6af7cc",
-      "title": "Darboe pledges one-term presidency, return of 2020 Constitution in Alliance Manifesto",
-      "summary": "By Hadram Hydara Opposition presidential candidate A.N.M. Ousainu Darboe has pledged to serve only one five-year term, take a 20% pay cut and reintroduce the stalled 2020 Draft Constitution if elected, as the GFC/UDP-led Alliance unveiled its manifesto ahead of the December 20...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-pledges-one-term-presidency-return-of-2020-constitution-in-alliance-manifesto/",
-      "publishedAt": "2026-10-31T16:31:02.000Z",
-      "collectedAt": "2026-10-31T18:25:44.031Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T12:07:42.549Z",
-    "count": 10
+    "generatedAt": "2026-11-05T21:00:00.774Z",
+    "count": 8
   }
 }

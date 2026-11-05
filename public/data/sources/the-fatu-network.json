@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "4355854e573a16df",
+      "title": "President Barrow Rejects UNITE’s Claims, Defends Timing of Inquiry White Paper Publication",
+      "summary": "Written by: Dawda Baldeh President Adama Barrow has rejected allegations of political bias surrounding the publication of the Government’s White Paper on the Local Government Commission of Inquiry, maintaining that the decision was made in accordance with constitutional requir...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-rejects-unites-claims-defends-timing-of-inquiry-white-paper-publication/",
+      "publishedAt": "2026-11-05T20:35:10.000Z",
+      "collectedAt": "2026-11-05T20:59:49.738Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "55e4096b15b6271d",
+      "title": "WAREF Abandons Presidential Ambitions, Endorses Barrow Ahead of December",
+      "summary": "Published by: The Fatu Network The Alliance for Reorientation and Economic Force (WAREF), led by Modou Lamin Bah, has endorsed President Adama Barrow and joined the ruling National People’s Party (NPP)-led Grand Alliance ahead of December. Bah, whose movement previously unveil...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/waref-abandons-presidential-ambitions-endorses-barrow-ahead-of-december/",
+      "publishedAt": "2026-11-05T17:44:59.000Z",
+      "collectedAt": "2026-11-05T20:59:49.738Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "701df9f22c9ae52f",
       "title": "International Lawyer Ousman M’Bai Takes Government to Court Over Controversial Airport Security Fee",
       "summary": "Published by: The Fatu Network Gambian international lawyer Ousman F. M’Bai has filed a legal challenge before the High Court of The Gambia over the controversial Airport Security Fee Scheme at Banjul International Airport, questioning its legality, financial transparency and ...",
@@ -411,127 +457,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b428f4a1837129e4",
-      "title": "President Barrow Accused of Interfering in State Land Audit Amid Revelations of Multiple Land Allocations to Him and His Private Business",
-      "summary": "Written by: Seringe S.T. Touray President Adama Barrow allegedly pressured former Auditor General Modou Ceesay to halt an investigation into government land allocations, including an audit covering a period in which the President himself received state land, according to a new...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-accused-of-interfering-in-state-land-audit-amid-revelations-of-multiple-land-allocations-to-him-and-his-private-business/",
-      "publishedAt": "2026-10-31T20:35:04.000Z",
-      "collectedAt": "2026-10-31T23:17:00.400Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bd0b09240138bcfb",
-      "title": "Investigation Uncovers Questionable Land Allocations to President Barrow, Family and Business Amid Allegations of Elite Favouritism",
-      "summary": "Written by: Seringe S.T. Touray A prime piece of government land in Fajara, valued at D40 million, was allocated to President Adama Barrow’s private property business, Majum, just three months after car dealers were ordered to vacate part of the area during a government road-c...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/investigation-uncovers-questionable-land-allocations-to-president-barrow-family-and-business-amid-allegations-of-elite-favouritism/",
-      "publishedAt": "2026-10-31T19:31:38.000Z",
-      "collectedAt": "2026-10-31T23:17:00.400Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1cc6d3c35d29fe3e",
-      "title": "Bitcoin Tower: Six Million Euros Missing – or a Story Full of Contradictions?",
-      "summary": "Written by: Seringe S.T. Touray Further Criminal Complaint Against Ebrima Solomon Tamba and Marcel van Andel Raises Questions About Public Fraud Allegations, Contradictory Statements and the Role of the Gambian Police How can allegations involving more than six million euros b...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bitcoin-tower-six-million-euros-missing-or-a-story-full-of-contradictions/",
-      "publishedAt": "2026-10-31T16:49:57.000Z",
-      "collectedAt": "2026-10-31T18:25:44.031Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "11679d920f6af7cc",
-      "title": "Darboe pledges one-term presidency, return of 2020 Constitution in Alliance Manifesto",
-      "summary": "By Hadram Hydara Opposition presidential candidate A.N.M. Ousainu Darboe has pledged to serve only one five-year term, take a 20% pay cut and reintroduce the stalled 2020 Draft Constitution if elected, as the GFC/UDP-led Alliance unveiled its manifesto ahead of the December 20...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-pledges-one-term-presidency-return-of-2020-constitution-in-alliance-manifesto/",
-      "publishedAt": "2026-10-31T16:31:02.000Z",
-      "collectedAt": "2026-10-31T18:25:44.031Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "08e68a0e3b77f3fe",
-      "title": "Gambia Partners Senegalese Fintech Firm to Tackle Revenue Leakages",
-      "summary": "By Dawda Baldeh The Gambian government has signed a 10-year agreement with Senegal-based fintech company InTouch aimed at strengthening revenue collection, improving transparency and reducing tax evasion, beginning with the country’s growing online gaming sector. Under the agr...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-partners-senegalese-fintech-firm-to-tackle-revenue-leakages/",
-      "publishedAt": "2026-10-31T12:19:10.000Z",
-      "collectedAt": "2026-10-31T18:25:44.031Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T12:07:42.549Z",
-    "count": 23
+    "generatedAt": "2026-11-05T21:00:00.774Z",
+    "count": 20
   }
 }

@@ -1,6 +1,238 @@
 {
   "items": [
     {
+      "id": "4355854e573a16df",
+      "title": "President Barrow Rejects UNITE’s Claims, Defends Timing of Inquiry White Paper Publication",
+      "summary": "Written by: Dawda Baldeh President Adama Barrow has rejected allegations of political bias surrounding the publication of the Government’s White Paper on the Local Government Commission of Inquiry, maintaining that the decision was made in accordance with constitutional requir...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-rejects-unites-claims-defends-timing-of-inquiry-white-paper-publication/",
+      "publishedAt": "2026-11-05T20:35:10.000Z",
+      "collectedAt": "2026-11-05T20:59:49.738Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "29c070875c193984",
+      "title": "KMC Rejects Government Recommendation to Remove Mayor Talib Bensouda",
+      "summary": "By Fatou Sillah The Kanifing Municipal Council (KMC) has rejected the government’s recommendation to initiate proceedings for the removal of Mayor Talib Ahmed Bensouda, arguing that the government’s White Paper does not provide sufficient grounds for such action. The decision ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kmc-rejects-government-recommendation-to-remove-mayor-talib-bensouda/",
+      "publishedAt": "2026-11-05T20:03:51.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4ff4fabcce715c58",
+      "title": "President Barrow Dismisses Dumbuya’s Rent Subsidy Pledge as Unrealistic and Deceptive",
+      "summary": "By Makutu Manneh President Adama Barrow has criticized Democratic Party presidential aspirant Yusupha A. Dumbuya’s proposal to subsidize rent for Gambians, describing the pledge as unrealistic and an attempt to mislead voters ahead of the December presidential election. Speaki...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-dismisses-dumbuyas-rent-subsidy-pledge-as-unrealistic-and-deceptive/",
+      "publishedAt": "2026-11-05T19:41:31.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ea344d6b0eed59b1",
+      "title": "EU Deploys Election Observers Across The Gambia Ahead of December Presidential Election",
+      "summary": "By Seedy Jobe The European Union Election Observation Mission (EU EOM) has officially launched its monitoring of The Gambia’s December 5, 2026, presidential election, deploying observers across the country to assess the electoral process. The mission was formally launched on T...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/eu-deploys-election-observers-across-the-gambia-ahead-of-december-presidential-election/",
+      "publishedAt": "2026-11-05T19:37:36.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e2101db2b7dc243f",
+      "title": "GALA Slams Government’s Six-Month Silence on Jammeh Assets Report",
+      "summary": "By Seedy Jobe Gambians Against Looted Assets (GALA) has criticized the government for its failure to publicly respond to the National Assembly’s Special Select Committee report on the sale and disposal of former President Yahya Jammeh’s assets, six months after its submission....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gala-slams-governments-six-month-silence-on-jammeh-assets-report/",
+      "publishedAt": "2026-11-05T19:32:06.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "51f0997be1cf6b07",
+      "title": "Essa Bokarr Sey Predicts Peaceful Transfer of Power, Dismisses Candidate Disqualification Fears",
+      "summary": "By Seedy Jobe Former Gambian diplomat and Coalition 2026 member Essa Bokarr Sey has expressed confidence that all presidential aspirants will be cleared to contest the December 5 election, predicting a peaceful transfer of power through the ballot box. In a video message addre...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/essa-bokarr-sey-predicts-peaceful-transfer-of-power-dismisses-candidate-disqualification-fears/",
+      "publishedAt": "2026-11-05T19:23:38.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c2caf53d697ece19",
+      "title": "Darboe Pledges ECOMIG Withdrawal, Diaspora Seats in National Assembly",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and presidential candidate ANM Ousainu Darboe has pledged to oversee a carefully planned withdrawal of the ECOWAS Mission in The Gambia (ECOMIG) and introduce parliamentary representation for Gambians living abroad ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-ecomig-withdrawal-diaspora-seats-in-national-assembly/",
+      "publishedAt": "2026-11-05T19:18:20.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "84594d696d35594f",
+      "title": "Dr. Ceesay Denies Attorney General Visited IEC, Rejects Claims of Electoral Interference",
+      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, Minister of Information, Media and Broadcasting Services, has dismissed allegations that Attorney General and Minister of Justice Dr. Dawda Jallow visited the Independent Electoral Commission (IEC), insisting that he has never been to the el...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-denies-attorney-general-visited-iec-rejects-claims-of-electoral-interference/",
+      "publishedAt": "2026-11-05T19:10:22.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d7fbea7f296c3a7c",
+      "title": "NDP-Led Alliance Pledges Referral Hospital in Every Region by 2031",
+      "summary": "By Fatou Sillah The National Democratic Party (NDP) and its alliance partners have pledged to establish at least one well-equipped referral healthcare facility in every region of The Gambia by 2031 as part of their joint presidential manifesto. The manifesto, launched on Wedne...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-led-alliance-pledges-referral-hospital-in-every-region-by-2031/",
+      "publishedAt": "2026-11-05T19:03:50.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "55e4096b15b6271d",
+      "title": "WAREF Abandons Presidential Ambitions, Endorses Barrow Ahead of December",
+      "summary": "Published by: The Fatu Network The Alliance for Reorientation and Economic Force (WAREF), led by Modou Lamin Bah, has endorsed President Adama Barrow and joined the ruling National People’s Party (NPP)-led Grand Alliance ahead of December. Bah, whose movement previously unveil...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/waref-abandons-presidential-ambitions-endorses-barrow-ahead-of-december/",
+      "publishedAt": "2026-11-05T17:44:59.000Z",
+      "collectedAt": "2026-11-05T20:59:49.738Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "427df279b784212d",
       "title": "TEAM GAMBIA GRAND COALITION 2026 ANNOUNCES DR. LAWYER LAMIN J. DARBOE AS PRESIDENTIAL FLAGBEARER",
       "summary": "On Tuesday, 3 November 2026, the Coalition Executive Committee officially concluded its stringent scrutiny of the conduct of the elections of its flagbearer for the December 5, 2026 Presidential elections and has unanimously resolved that the credibility of the exercise and th...",
@@ -278,7 +510,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T12:07:42.549Z",
-    "count": 12
+    "generatedAt": "2026-11-05T21:00:00.774Z",
+    "count": 22
   }
 }

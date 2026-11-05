@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "29c070875c193984",
+      "title": "KMC Rejects Government Recommendation to Remove Mayor Talib Bensouda",
+      "summary": "By Fatou Sillah The Kanifing Municipal Council (KMC) has rejected the government’s recommendation to initiate proceedings for the removal of Mayor Talib Ahmed Bensouda, arguing that the government’s White Paper does not provide sufficient grounds for such action. The decision ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kmc-rejects-government-recommendation-to-remove-mayor-talib-bensouda/",
+      "publishedAt": "2026-11-05T20:03:51.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b738a1c677b45d35",
       "title": "Hamat Bah says local government inquiry was not meant to target Mayor Talib Bensouda",
       "summary": "By Ndey Sowe Hamat N.K. Bah, the Minister of Regional Government, Lands and Religious Affairs has rejected claims that a commission of inquiry was set up to target the current Kanifing Municipal Council mayor, Talib Ahmed Bensouda. The Local Government Commission of Inquiry in...",
@@ -133,33 +154,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "bd0b09240138bcfb",
-      "title": "Investigation Uncovers Questionable Land Allocations to President Barrow, Family and Business Amid Allegations of Elite Favouritism",
-      "summary": "Written by: Seringe S.T. Touray A prime piece of government land in Fajara, valued at D40 million, was allocated to President Adama Barrow’s private property business, Majum, just three months after car dealers were ordered to vacate part of the area during a government road-c...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/investigation-uncovers-questionable-land-allocations-to-president-barrow-family-and-business-amid-allegations-of-elite-favouritism/",
-      "publishedAt": "2026-10-31T19:31:38.000Z",
-      "collectedAt": "2026-10-31T23:17:00.400Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T12:07:42.549Z",
+    "generatedAt": "2026-11-05T21:00:00.774Z",
     "count": 7
   }
 }

@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "29c070875c193984",
+      "title": "KMC Rejects Government Recommendation to Remove Mayor Talib Bensouda",
+      "summary": "By Fatou Sillah The Kanifing Municipal Council (KMC) has rejected the government’s recommendation to initiate proceedings for the removal of Mayor Talib Ahmed Bensouda, arguing that the government’s White Paper does not provide sufficient grounds for such action. The decision ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/kmc-rejects-government-recommendation-to-remove-mayor-talib-bensouda/",
+      "publishedAt": "2026-11-05T20:03:51.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ea344d6b0eed59b1",
+      "title": "EU Deploys Election Observers Across The Gambia Ahead of December Presidential Election",
+      "summary": "By Seedy Jobe The European Union Election Observation Mission (EU EOM) has officially launched its monitoring of The Gambia’s December 5, 2026, presidential election, deploying observers across the country to assess the electoral process. The mission was formally launched on T...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/eu-deploys-election-observers-across-the-gambia-ahead-of-december-presidential-election/",
+      "publishedAt": "2026-11-05T19:37:36.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d7fbea7f296c3a7c",
+      "title": "NDP-Led Alliance Pledges Referral Hospital in Every Region by 2031",
+      "summary": "By Fatou Sillah The National Democratic Party (NDP) and its alliance partners have pledged to establish at least one well-equipped referral healthcare facility in every region of The Gambia by 2031 as part of their joint presidential manifesto. The manifesto, launched on Wedne...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-led-alliance-pledges-referral-hospital-in-every-region-by-2031/",
+      "publishedAt": "2026-11-05T19:03:50.000Z",
+      "collectedAt": "2026-11-05T20:59:56.572Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "26c8ae571f49d279",
       "title": "NDP Unveils Plan for 150,000 Jobs and Food Self-Sufficiency Ahead of Election",
       "summary": "By Dawda Baldeh The opposition National Democratic Party (NDP) has launched its manifesto for the December presidential election, promising to create 150,000 jobs, boost domestic food production and pursue what it describes as “economic and cultural sovereignty” for The Gambia...",
@@ -428,100 +496,6 @@
       "status": "published"
     },
     {
-      "id": "b428f4a1837129e4",
-      "title": "President Barrow Accused of Interfering in State Land Audit Amid Revelations of Multiple Land Allocations to Him and His Private Business",
-      "summary": "Written by: Seringe S.T. Touray President Adama Barrow allegedly pressured former Auditor General Modou Ceesay to halt an investigation into government land allocations, including an audit covering a period in which the President himself received state land, according to a new...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-accused-of-interfering-in-state-land-audit-amid-revelations-of-multiple-land-allocations-to-him-and-his-private-business/",
-      "publishedAt": "2026-10-31T20:35:04.000Z",
-      "collectedAt": "2026-10-31T23:17:00.400Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "bd0b09240138bcfb",
-      "title": "Investigation Uncovers Questionable Land Allocations to President Barrow, Family and Business Amid Allegations of Elite Favouritism",
-      "summary": "Written by: Seringe S.T. Touray A prime piece of government land in Fajara, valued at D40 million, was allocated to President Adama Barrow’s private property business, Majum, just three months after car dealers were ordered to vacate part of the area during a government road-c...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/investigation-uncovers-questionable-land-allocations-to-president-barrow-family-and-business-amid-allegations-of-elite-favouritism/",
-      "publishedAt": "2026-10-31T19:31:38.000Z",
-      "collectedAt": "2026-10-31T23:17:00.400Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2f99e91e49093c4b",
-      "title": "Darboe Unveils Gambia First Coalition Manifesto, Pledges One-Term Presidency and Sweeping Reforms",
-      "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), ANM Ousainou Darboe, has formally launched the Gambia First Alliance (GFA)-UDP-led coalition’s manifesto, outlining an ambitious agenda for economic recovery, constitutional reform, impr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-unveils-gambia-first-coalition-manifesto-pledges-one-term-presidency-and-sweeping-reforms/",
-      "publishedAt": "2026-10-31T16:56:08.000Z",
-      "collectedAt": "2026-10-31T18:25:45.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e4cb71e2355c9c14",
-      "title": "Darboe Pledges Better Pay, Working Conditions for Security Personnel Under UDP Government",
-      "summary": "By Seedy Jobe The Secretary General and party leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has pledged to improve salaries, working conditions, and welfare for members of The Gambia’s security services if elected president in the December 5 presidential ele...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-better-pay-working-conditions-for-security-personnel-under-udp-government/",
-      "publishedAt": "2026-10-31T16:39:21.000Z",
-      "collectedAt": "2026-10-31T18:25:45.384Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -530,7 +504,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-05T12:07:24.286Z",
+      "collectedAt": "2026-11-05T20:59:49.548Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -544,7 +518,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T12:07:42.549Z",
-    "count": 24
+    "generatedAt": "2026-11-05T21:00:00.774Z",
+    "count": 23
   }
 }

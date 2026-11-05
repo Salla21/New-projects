@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "55e4096b15b6271d",
+      "title": "WAREF Abandons Presidential Ambitions, Endorses Barrow Ahead of December",
+      "summary": "Published by: The Fatu Network The Alliance for Reorientation and Economic Force (WAREF), led by Modou Lamin Bah, has endorsed President Adama Barrow and joined the ruling National People’s Party (NPP)-led Grand Alliance ahead of December. Bah, whose movement previously unveil...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/waref-abandons-presidential-ambitions-endorses-barrow-ahead-of-december/",
+      "publishedAt": "2026-11-05T17:44:59.000Z",
+      "collectedAt": "2026-11-05T20:59:49.738Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "427df279b784212d",
       "title": "TEAM GAMBIA GRAND COALITION 2026 ANNOUNCES DR. LAWYER LAMIN J. DARBOE AS PRESIDENTIAL FLAGBEARER",
       "summary": "On Tuesday, 3 November 2026, the Coalition Executive Committee officially concluded its stringent scrutiny of the conduct of the elections of its flagbearer for the December 5, 2026 Presidential elections and has unanimously resolved that the credibility of the exercise and th...",
@@ -328,7 +351,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-05T12:07:24.286Z",
+      "collectedAt": "2026-11-05T20:59:49.548Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -342,7 +365,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T12:07:42.549Z",
-    "count": 15
+    "generatedAt": "2026-11-05T21:00:00.774Z",
+    "count": 16
   }
 }
