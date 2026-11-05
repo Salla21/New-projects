@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "26c8ae571f49d279",
+      "title": "NDP Unveils Plan for 150,000 Jobs and Food Self-Sufficiency Ahead of Election",
+      "summary": "By Dawda Baldeh The opposition National Democratic Party (NDP) has launched its manifesto for the December presidential election, promising to create 150,000 jobs, boost domestic food production and pursue what it describes as “economic and cultural sovereignty” for The Gambia...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ndp-unveils-plan-for-150000-jobs-and-food-self-sufficiency-ahead-of-election/",
+      "publishedAt": "2026-11-05T11:45:47.000Z",
+      "collectedAt": "2026-11-05T12:07:24.616Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9e46ab9a9b3024f6",
+      "title": "Former BAC Chairman Sheriffo Sonko referred for public-service fitness review",
+      "summary": "The government has ordered an investigation into former Brikama Area Council chairman Sheriffo Sonko over reported financial losses and irregular spending during his time in office. It has also asked the Auditor General to consider recovering public funds, including festive pa...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/former-bac-chairman-sheriffo-sonko-referred-for-public-service-fitness-review/",
+      "publishedAt": "2026-11-05T11:37:00.000Z",
+      "collectedAt": "2026-11-05T12:07:23.899Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "31046afd530fff33",
+      "title": "Putin Awards Prestigious Pushkin Medal to Gambian Diplomat Momodou Lamin Manga at Kremlin",
+      "summary": "Published by: The Fatu Network Russian President Vladimir Putin has awarded the prestigious Pushkin Medal to Gambian diplomat Momodou Lamin Manga, Russia’s Honorary Consul in The Gambia, during a state ceremony at the Kremlin in Moscow on Wednesday, November 4. According to th...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/putin-awards-prestigious-pushkin-medal-to-gambian-diplomat-momodou-lamin-manga-at-kremlin/",
+      "publishedAt": "2026-11-05T09:18:31.000Z",
+      "collectedAt": "2026-11-05T12:07:24.616Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "943052e0e7b9b907",
       "title": "IEC asks APC flagbearer Modou Lamin Sima to provide original citizenship document",
       "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) flagbearer Modou Lamin Sima has submitted nomination papers to contest The Gambia’s 5 December presidential election, but the Independent Electoral Commission (IEC) has asked him to provide an original document proving hi...",
@@ -461,7 +530,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-05T02:10:13.498Z",
+      "collectedAt": "2026-11-05T12:07:24.286Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -475,7 +544,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T02:10:19.483Z",
-    "count": 21
+    "generatedAt": "2026-11-05T12:07:42.549Z",
+    "count": 24
   }
 }

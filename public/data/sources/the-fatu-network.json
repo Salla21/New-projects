@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "701df9f22c9ae52f",
+      "title": "International Lawyer Ousman M’Bai Takes Government to Court Over Controversial Airport Security Fee",
+      "summary": "Published by: The Fatu Network Gambian international lawyer Ousman F. M’Bai has filed a legal challenge before the High Court of The Gambia over the controversial Airport Security Fee Scheme at Banjul International Airport, questioning its legality, financial transparency and ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/international-lawyer-ousman-mbai-takes-government-to-court-over-controversial-airport-security-fee/",
+      "publishedAt": "2026-11-05T11:48:11.000Z",
+      "collectedAt": "2026-11-05T12:07:24.616Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "26c8ae571f49d279",
+      "title": "NDP Unveils Plan for 150,000 Jobs and Food Self-Sufficiency Ahead of Election",
+      "summary": "By Dawda Baldeh The opposition National Democratic Party (NDP) has launched its manifesto for the December presidential election, promising to create 150,000 jobs, boost domestic food production and pursue what it describes as “economic and cultural sovereignty” for The Gambia...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ndp-unveils-plan-for-150000-jobs-and-food-self-sufficiency-ahead-of-election/",
+      "publishedAt": "2026-11-05T11:45:47.000Z",
+      "collectedAt": "2026-11-05T12:07:24.616Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "31046afd530fff33",
+      "title": "Putin Awards Prestigious Pushkin Medal to Gambian Diplomat Momodou Lamin Manga at Kremlin",
+      "summary": "Published by: The Fatu Network Russian President Vladimir Putin has awarded the prestigious Pushkin Medal to Gambian diplomat Momodou Lamin Manga, Russia’s Honorary Consul in The Gambia, during a state ceremony at the Kremlin in Moscow on Wednesday, November 4. According to th...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/putin-awards-prestigious-pushkin-medal-to-gambian-diplomat-momodou-lamin-manga-at-kremlin/",
+      "publishedAt": "2026-11-05T09:18:31.000Z",
+      "collectedAt": "2026-11-05T12:07:24.616Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "744cd488fb01ded8",
       "title": "Democratic Party (DP) Leader Yusupha Dumbuya Pledges Rent Caps, Cuts in Government Spending",
       "summary": "By Dawda Baldeh Yusupha Dumbuya, leader of the opposition Democratic Party (DP), has pledged to introduce strict rent caps and cut wasteful government spending to ease the financial burden on ordinary Gambians and revive the country’s economy. Dumbuya made the promises this af...",
@@ -461,7 +531,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T02:10:19.483Z",
-    "count": 20
+    "generatedAt": "2026-11-05T12:07:42.549Z",
+    "count": 23
   }
 }

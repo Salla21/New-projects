@@ -1,6 +1,213 @@
 {
   "items": [
     {
+      "id": "aadacfc59d5446ed",
+      "title": "IEC asks Democratic Party presidential aspirant Yusufa Dumbuya to correct nomination papers",
+      "summary": "By Mariama Marong The Independent Electoral Commission has asked Democratic Party presidential aspirant Yusufa A. Dumbuya to correct inconsistencies in his nomination papers and provide proof that he paid the required nomination fee. IEC chairman Joseph Colley said officials f...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-asks-democratic-party-presidential-aspirant-yusufa-dumbuya-to-correct-nomination-papers/",
+      "publishedAt": "2026-11-05T11:50:00.000Z",
+      "collectedAt": "2026-11-05T12:07:23.899Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "701df9f22c9ae52f",
+      "title": "International Lawyer Ousman M’Bai Takes Government to Court Over Controversial Airport Security Fee",
+      "summary": "Published by: The Fatu Network Gambian international lawyer Ousman F. M’Bai has filed a legal challenge before the High Court of The Gambia over the controversial Airport Security Fee Scheme at Banjul International Airport, questioning its legality, financial transparency and ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/international-lawyer-ousman-mbai-takes-government-to-court-over-controversial-airport-security-fee/",
+      "publishedAt": "2026-11-05T11:48:11.000Z",
+      "collectedAt": "2026-11-05T12:07:24.616Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "26c8ae571f49d279",
+      "title": "NDP Unveils Plan for 150,000 Jobs and Food Self-Sufficiency Ahead of Election",
+      "summary": "By Dawda Baldeh The opposition National Democratic Party (NDP) has launched its manifesto for the December presidential election, promising to create 150,000 jobs, boost domestic food production and pursue what it describes as “economic and cultural sovereignty” for The Gambia...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ndp-unveils-plan-for-150000-jobs-and-food-self-sufficiency-ahead-of-election/",
+      "publishedAt": "2026-11-05T11:45:47.000Z",
+      "collectedAt": "2026-11-05T12:07:24.616Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "66b8942ec01bf52e",
+      "title": "Justice Ministry Rejects UNITE’s ‘False’ Claim That LGCI Report Was Altered",
+      "summary": "The Ministry of Justice has strongly denied UNITE’s allegation that the Local Government Commission of Inquiry report was changed after it was submitted to the government, describing the claim as “entirely false”. In a press release issued on 4 November, the Attorney General’s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/justice-ministry-rejects-unites-false-claim-that-lgci-report-was-altered/",
+      "publishedAt": "2026-11-05T11:43:00.000Z",
+      "collectedAt": "2026-11-05T12:07:23.899Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6c21fd3301b9e865",
+      "title": "Dr Isatou Touray submits presidential nomination papers to IEC",
+      "summary": "By Mariama Marong Former Gambian Vice-President Dr Isatou Touray submitted her nomination papers to the Independent Electoral Commission (IEC) on Wednesday, but the commission says her candidacy is still subject to final checks. IEC chairman Joseph Colley said Touray had met s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/dr-isatou-touray-submits-presidential-nomination-papers-to-iec/",
+      "publishedAt": "2026-11-05T11:39:00.000Z",
+      "collectedAt": "2026-11-05T12:07:23.899Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "991468a30dbf6761",
+      "title": "IEC Chairman Says Gambia Action Party Withdraws Nomination",
+      "summary": "By Mariama Marong The Chairman of the Independent Electoral Commission (IEC), Joseph Colley, on Wednesday said the Gambia Action Party (GAP) will not proceed with its scheduled nomination after the commission received a letter from the party saying it would not be available. T...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-chairman-says-gambia-action-party-withdraws-nomination/",
+      "publishedAt": "2026-11-05T11:35:00.000Z",
+      "collectedAt": "2026-11-05T12:07:23.899Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e2aa048cf945af9e",
+      "title": "Democrats take control of United States Congress with major victories",
+      "summary": "By Yankuba Jallow The Democratic Party has made significant gains in Tuesday’s United States midterm elections, taking control of both chambers of Congress in a result that could influence the country’s political direction over the next two years. The outcome represents an imp...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/democrats-take-control-of-united-states-congress-with-major-victories/",
+      "publishedAt": "2026-11-05T11:27:00.000Z",
+      "collectedAt": "2026-11-05T12:07:23.899Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "cfddb4ca8b858d10",
+      "title": "IS THE POLICY OF DISHING OUT MONEY SUSTAINABLE?",
+      "summary": "Gambians should remember the era of the coup period when a Malian businessman Foutanga Sissoho used to be followed by people queuing to get fish money at his residence daily. In the same vein people used to line up to pick packets of biscuits thrown to the crown by the former ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/is-the-policy-of-dishhing-out-money-sustainable/",
+      "publishedAt": "2026-11-05T09:16:00.000Z",
+      "collectedAt": "2026-11-05T12:07:23.899Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "442c275bb79be302",
+      "title": "FOCUS ON NOMINATION",
+      "summary": "On November 3, 2026 the country began to follow the nomination of those who aspire to be the president of the Republic of The Gambia. One woman and three men have so far submitted their nomination papers. All of them have been asked to go back and regularize some of their nomi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/focus-on-nomination/",
+      "publishedAt": "2026-11-05T09:14:00.000Z",
+      "collectedAt": "2026-11-05T12:07:23.899Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "744cd488fb01ded8",
       "title": "Democratic Party (DP) Leader Yusupha Dumbuya Pledges Rent Caps, Cuts in Government Spending",
       "summary": "By Dawda Baldeh Yusupha Dumbuya, leader of the opposition Democratic Party (DP), has pledged to introduce strict rent caps and cut wasteful government spending to ease the financial burden on ordinary Gambians and revive the country’s economy. Dumbuya made the promises this af...",
@@ -1873,7 +2080,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-05T02:10:13.498Z",
+      "collectedAt": "2026-11-05T12:07:24.286Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1896,7 +2103,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambian-music-goes-boring-no-beef-no-drama-no-buzz/",
       "publishedAt": "2026-10-28T03:09:34.000Z",
-      "collectedAt": "2026-11-05T02:10:13.498Z",
+      "collectedAt": "2026-11-05T12:07:24.286Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1917,7 +2124,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/busumbala-tailor-arrested-over-alleged-grpe-of-apprentice/",
       "publishedAt": "2026-10-28T03:06:08.000Z",
-      "collectedAt": "2026-11-05T02:10:13.498Z",
+      "collectedAt": "2026-11-05T12:07:24.286Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1938,7 +2145,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-05T02:10:13.498Z",
+      "collectedAt": "2026-11-05T12:07:24.286Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1961,7 +2168,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/fula-gangstar-wants-to-make-peace-with-star-girl-as-fans-wait-for-the-full-story/",
       "publishedAt": "2026-10-21T02:21:43.000Z",
-      "collectedAt": "2026-11-05T02:10:13.498Z",
+      "collectedAt": "2026-11-05T12:07:24.286Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1982,7 +2189,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-05T02:10:13.498Z",
+      "collectedAt": "2026-11-05T12:07:24.286Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1996,7 +2203,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T02:10:19.483Z",
-    "count": 87
+    "generatedAt": "2026-11-05T12:07:42.549Z",
+    "count": 96
   }
 }

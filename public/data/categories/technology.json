@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e2aa048cf945af9e",
+      "title": "Democrats take control of United States Congress with major victories",
+      "summary": "By Yankuba Jallow The Democratic Party has made significant gains in Tuesday’s United States midterm elections, taking control of both chambers of Congress in a result that could influence the country’s political direction over the next two years. The outcome represents an imp...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/democrats-take-control-of-united-states-congress-with-major-victories/",
+      "publishedAt": "2026-11-05T11:27:00.000Z",
+      "collectedAt": "2026-11-05T12:07:23.899Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "744cd488fb01ded8",
       "title": "Democratic Party (DP) Leader Yusupha Dumbuya Pledges Rent Caps, Cuts in Government Spending",
       "summary": "By Dawda Baldeh Yusupha Dumbuya, leader of the opposition Democratic Party (DP), has pledged to introduce strict rent caps and cut wasteful government spending to ease the financial burden on ordinary Gambians and revive the country’s economy. Dumbuya made the promises this af...",
@@ -193,7 +217,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T02:10:19.483Z",
-    "count": 8
+    "generatedAt": "2026-11-05T12:07:42.549Z",
+    "count": 9
   }
 }
