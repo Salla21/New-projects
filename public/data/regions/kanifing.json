@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "d0cc7f983fceda9d",
+      "title": "Old Bakau Councillor Accuses Government of Discrediting KMC General Council in White Paper",
+      "summary": "By Fatou Sillah Old Bakau Ward Councillor Lamin Dibba has criticised the government’s White Paper on the findings of the Local Government Commission of Inquiry, accusing the government of unfairly targeting the Kanifing Municipal Council (KMC) General Council and Mayor Talib A...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/old-bakau-councillor-accuses-government-of-discrediting-kmc-general-council-in-white-paper/",
+      "publishedAt": "2026-11-06T00:01:00.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "29c070875c193984",
       "title": "KMC Rejects Government Recommendation to Remove Mayor Talib Bensouda",
       "summary": "By Fatou Sillah The Kanifing Municipal Council (KMC) has rejected the government’s recommendation to initiate proceedings for the removal of Mayor Talib Ahmed Bensouda, arguing that the government’s White Paper does not provide sufficient grounds for such action. The decision ...",
@@ -131,33 +152,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5661682eb34cf7ff",
-      "title": "State Land Records List Three Properties for President Barrow, Raising Questions Over Allocation Policy",
-      "summary": "By Staff Writer A newly released list of state land allocations identifies President Adama Barrow as the recipient of three residential properties, two in Brufut and one in Fajara, raising questions about whether the allocations are consistent with the Ministry of Lands’ repor...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/state-land-records-list-three-properties-for-president-barrow-raising-questions-over-allocation-policy/",
-      "publishedAt": "2026-11-01T19:21:02.000Z",
-      "collectedAt": "2026-11-01T23:28:58.910Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T21:00:00.774Z",
+    "generatedAt": "2026-11-06T02:14:06.694Z",
     "count": 7
   }
 }

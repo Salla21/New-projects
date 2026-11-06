@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9ac01f4855e38abd",
+      "title": "Independent Aspirant Alieu Sowe Defends Presidential Readiness Despite Expired ID, Missing Deposit",
+      "summary": "By Makutu Manneh Independent presidential aspirant Alieu Sowe has defended his readiness to lead The Gambia after facing questions over his arrival at the Independent Electoral Commission (IEC) for nomination with an expired national identity card, no passport, and without the...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/independent-aspirant-alieu-sowe-defends-presidential-readiness-despite-expired-id-missing-deposit/",
+      "publishedAt": "2026-11-05T23:42:37.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e2101db2b7dc243f",
       "title": "GALA Slams Government’s Six-Month Silence on Jammeh Assets Report",
       "summary": "By Seedy Jobe Gambians Against Looted Assets (GALA) has criticized the government for its failure to publicly respond to the National Assembly’s Special Select Committee report on the sale and disposal of former President Yahya Jammeh’s assets, six months after its submission....",
@@ -524,102 +548,6 @@
       "status": "published"
     },
     {
-      "id": "68a89460be5ecf53",
-      "title": "Gambia Labour Party Joins NDP-Led Alliance Ahead of December Election",
-      "summary": "By Makutu Manneh The Gambia Labour Party (GLP) has formally joined the National Democratic Party (NDP)-led Alliance ahead of the December 5 presidential election, expanding the coalition to four political entities as opposition parties intensify efforts to consolidate support....",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-labour-party-joins-ndp-led-alliance-ahead-of-december-election/",
-      "publishedAt": "2026-11-01T17:33:21.000Z",
-      "collectedAt": "2026-11-01T18:51:01.398Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4c9b07af208084c8",
-      "title": "NPP Women Raise D2.5 Million for Barrow’s Presidential Nomination, Exceeding Required Fee",
-      "summary": "By Makutu Manneh Women from the National People’s Party (NPP) and its allied parties have presented D2.5 million to President Adama Barrow to support his nomination for the December 5 presidential election, raising more than twice the D1 million required nomination fee.Speakin...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/npp-women-raise-d2-5-million-for-barrows-presidential-nomination-exceeding-required-fee/",
-      "publishedAt": "2026-11-01T17:19:32.000Z",
-      "collectedAt": "2026-11-01T18:51:01.398Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2ababdfc727a3108",
-      "title": "Bensouda Pledges to Suspend Foreign Fishing Trawler Licences, Support Local Fishermen",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE Party and Coalition 2026 presidential candidate, has pledged to suspend fishing licences issued to foreign trawlers if elected president, promising to protect local fishermen and expand investment in the country’s fishing i...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-suspend-foreign-fishing-trawler-licences-support-local-fishermen/",
-      "publishedAt": "2026-11-01T17:14:12.000Z",
-      "collectedAt": "2026-11-01T18:51:01.398Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b4bc44f09ce1f286",
-      "title": "Bojang Vows Agricultural Revival Within Three Months if Elected",
-      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has pledged to revive The Gambia’s agricultural sector and tackle the country’s food security challenges within three months if elected president in December. Addressing supporters at a political rally in...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bojang-vows-agricultural-revival-within-three-months-if-elected/",
-      "publishedAt": "2026-11-01T15:13:51.000Z",
-      "collectedAt": "2026-11-01T18:50:59.240Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -628,7 +556,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-05T20:59:49.548Z",
+      "collectedAt": "2026-11-06T02:14:01.122Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -644,7 +572,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T21:00:00.774Z",
-    "count": 27
+    "generatedAt": "2026-11-06T02:14:06.694Z",
+    "count": 24
   }
 }

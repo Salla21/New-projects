@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "a33eb78dfef98e31",
+      "title": "NBP Presidential Aspirant Ansu Sanneh Urges IEC to Ensure Fair, Transparent Elections",
+      "summary": "By Makutu Manneh Ansu Sanneh, presidential aspirant for the National Builders Party (NBP), has urged the Independent Electoral Commission (IEC) to uphold fairness, transparency, and independence in conducting The Gambia’s forthcoming presidential election. Speaking to journali...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nbp-presidential-aspirant-ansu-sanneh-urges-iec-to-ensure-fair-transparent-elections/",
+      "publishedAt": "2026-11-05T23:48:10.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9ac01f4855e38abd",
+      "title": "Independent Aspirant Alieu Sowe Defends Presidential Readiness Despite Expired ID, Missing Deposit",
+      "summary": "By Makutu Manneh Independent presidential aspirant Alieu Sowe has defended his readiness to lead The Gambia after facing questions over his arrival at the Independent Electoral Commission (IEC) for nomination with an expired national identity card, no passport, and without the...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/independent-aspirant-alieu-sowe-defends-presidential-readiness-despite-expired-id-missing-deposit/",
+      "publishedAt": "2026-11-05T23:42:37.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4355854e573a16df",
       "title": "President Barrow Rejects UNITE’s Claims, Defends Timing of Inquiry White Paper Publication",
       "summary": "Written by: Dawda Baldeh President Adama Barrow has rejected allegations of political bias surrounding the publication of the Government’s White Paper on the Local Government Commission of Inquiry, maintaining that the decision was made in accordance with constitutional requir...",
@@ -510,7 +557,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T21:00:00.774Z",
-    "count": 22
+    "generatedAt": "2026-11-06T02:14:06.694Z",
+    "count": 24
   }
 }

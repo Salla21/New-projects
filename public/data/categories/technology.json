@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "0860ea47565093ab",
+      "title": "AQA Opens New Institute to Train Laboratory and Pharmacy Technicians in The Gambia",
+      "summary": "By Makutu Manneh The AQA Institute of Diagnostics and Allied Health Sciences (AIDAHs) was officially inaugurated on Thursday at AQA Headquarters, marking a new initiative to address the growing demand for qualified laboratory and pharmacy technicians in The Gambia. Established...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/aqa-opens-new-institute-to-train-laboratory-and-pharmacy-technicians-in-the-gambia/",
+      "publishedAt": "2026-11-06T00:17:20.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "51f0997be1cf6b07",
       "title": "Essa Bokarr Sey Predicts Peaceful Transfer of Power, Dismisses Candidate Disqualification Fears",
       "summary": "By Seedy Jobe Former Gambian diplomat and Coalition 2026 member Essa Bokarr Sey has expressed confidence that all presidential aspirants will be cleared to contest the December 5 election, predicting a peaceful transfer of power through the ballot box. In a video message addre...",
@@ -194,7 +217,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T21:00:00.774Z",
-    "count": 8
+    "generatedAt": "2026-11-06T02:14:06.694Z",
+    "count": 9
   }
 }

@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "id": "0860ea47565093ab",
+      "title": "AQA Opens New Institute to Train Laboratory and Pharmacy Technicians in The Gambia",
+      "summary": "By Makutu Manneh The AQA Institute of Diagnostics and Allied Health Sciences (AIDAHs) was officially inaugurated on Thursday at AQA Headquarters, marking a new initiative to address the growing demand for qualified laboratory and pharmacy technicians in The Gambia. Established...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/aqa-opens-new-institute-to-train-laboratory-and-pharmacy-technicians-in-the-gambia/",
+      "publishedAt": "2026-11-06T00:17:20.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d0cc7f983fceda9d",
+      "title": "Old Bakau Councillor Accuses Government of Discrediting KMC General Council in White Paper",
+      "summary": "By Fatou Sillah Old Bakau Ward Councillor Lamin Dibba has criticised the government’s White Paper on the findings of the Local Government Commission of Inquiry, accusing the government of unfairly targeting the Kanifing Municipal Council (KMC) General Council and Mayor Talib A...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/old-bakau-councillor-accuses-government-of-discrediting-kmc-general-council-in-white-paper/",
+      "publishedAt": "2026-11-06T00:01:00.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a33eb78dfef98e31",
+      "title": "NBP Presidential Aspirant Ansu Sanneh Urges IEC to Ensure Fair, Transparent Elections",
+      "summary": "By Makutu Manneh Ansu Sanneh, presidential aspirant for the National Builders Party (NBP), has urged the Independent Electoral Commission (IEC) to uphold fairness, transparency, and independence in conducting The Gambia’s forthcoming presidential election. Speaking to journali...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/nbp-presidential-aspirant-ansu-sanneh-urges-iec-to-ensure-fair-transparent-elections/",
+      "publishedAt": "2026-11-05T23:48:10.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9ac01f4855e38abd",
+      "title": "Independent Aspirant Alieu Sowe Defends Presidential Readiness Despite Expired ID, Missing Deposit",
+      "summary": "By Makutu Manneh Independent presidential aspirant Alieu Sowe has defended his readiness to lead The Gambia after facing questions over his arrival at the Independent Electoral Commission (IEC) for nomination with an expired national identity card, no passport, and without the...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/independent-aspirant-alieu-sowe-defends-presidential-readiness-despite-expired-id-missing-deposit/",
+      "publishedAt": "2026-11-05T23:42:37.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4355854e573a16df",
       "title": "President Barrow Rejects UNITE’s Claims, Defends Timing of Inquiry White Paper Publication",
       "summary": "Written by: Dawda Baldeh President Adama Barrow has rejected allegations of political bias surrounding the publication of the Government’s White Paper on the Local Government Commission of Inquiry, maintaining that the decision was made in accordance with constitutional requir...",
@@ -370,103 +461,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9e46ab9a9b3024f6",
-      "title": "Former BAC Chairman Sheriffo Sonko referred for public-service fitness review",
-      "summary": "The government has ordered an investigation into former Brikama Area Council chairman Sheriffo Sonko over reported financial losses and irregular spending during his time in office. It has also asked the Auditor General to consider recovering public funds, including festive pa...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/former-bac-chairman-sheriffo-sonko-referred-for-public-service-fitness-review/",
-      "publishedAt": "2026-11-05T11:37:00.000Z",
-      "collectedAt": "2026-11-05T12:07:23.899Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "991468a30dbf6761",
-      "title": "IEC Chairman Says Gambia Action Party Withdraws Nomination",
-      "summary": "By Mariama Marong The Chairman of the Independent Electoral Commission (IEC), Joseph Colley, on Wednesday said the Gambia Action Party (GAP) will not proceed with its scheduled nomination after the commission received a letter from the party saying it would not be available. T...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-chairman-says-gambia-action-party-withdraws-nomination/",
-      "publishedAt": "2026-11-05T11:35:00.000Z",
-      "collectedAt": "2026-11-05T12:07:23.899Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e2aa048cf945af9e",
-      "title": "Democrats take control of United States Congress with major victories",
-      "summary": "By Yankuba Jallow The Democratic Party has made significant gains in Tuesday’s United States midterm elections, taking control of both chambers of Congress in a result that could influence the country’s political direction over the next two years. The outcome represents an imp...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/democrats-take-control-of-united-states-congress-with-major-victories/",
-      "publishedAt": "2026-11-05T11:27:00.000Z",
-      "collectedAt": "2026-11-05T12:07:23.899Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "31046afd530fff33",
-      "title": "Putin Awards Prestigious Pushkin Medal to Gambian Diplomat Momodou Lamin Manga at Kremlin",
-      "summary": "Published by: The Fatu Network Russian President Vladimir Putin has awarded the prestigious Pushkin Medal to Gambian diplomat Momodou Lamin Manga, Russia’s Honorary Consul in The Gambia, during a state ceremony at the Kremlin in Moscow on Wednesday, November 4. According to th...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/putin-awards-prestigious-pushkin-medal-to-gambian-diplomat-momodou-lamin-manga-at-kremlin/",
-      "publishedAt": "2026-11-05T09:18:31.000Z",
-      "collectedAt": "2026-11-05T12:07:24.616Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-05T21:00:00.774Z",
+    "generatedAt": "2026-11-06T02:14:06.694Z",
     "count": 20
   }
 }

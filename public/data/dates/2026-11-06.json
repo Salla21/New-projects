@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "0860ea47565093ab",
+      "title": "AQA Opens New Institute to Train Laboratory and Pharmacy Technicians in The Gambia",
+      "summary": "By Makutu Manneh The AQA Institute of Diagnostics and Allied Health Sciences (AIDAHs) was officially inaugurated on Thursday at AQA Headquarters, marking a new initiative to address the growing demand for qualified laboratory and pharmacy technicians in The Gambia. Established...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/aqa-opens-new-institute-to-train-laboratory-and-pharmacy-technicians-in-the-gambia/",
+      "publishedAt": "2026-11-06T00:17:20.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d0cc7f983fceda9d",
+      "title": "Old Bakau Councillor Accuses Government of Discrediting KMC General Council in White Paper",
+      "summary": "By Fatou Sillah Old Bakau Ward Councillor Lamin Dibba has criticised the government’s White Paper on the findings of the Local Government Commission of Inquiry, accusing the government of unfairly targeting the Kanifing Municipal Council (KMC) General Council and Mayor Talib A...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/old-bakau-councillor-accuses-government-of-discrediting-kmc-general-council-in-white-paper/",
+      "publishedAt": "2026-11-06T00:01:00.000Z",
+      "collectedAt": "2026-11-06T02:14:02.546Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-06T02:14:06.694Z",
+    "count": 2
+  }
+}
