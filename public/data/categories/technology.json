@@ -190,34 +190,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "85ff37b7a6204da0",
-      "title": "QCell, Djeliba Leisure Group Partner to Strengthen Digital Connectivity in Tourism Sector",
-      "summary": "By Ndey Sowe QCell Company Limited and Djeliba Leisure Group have entered into a strategic corporate fibre agreement aimed at strengthening high-speed internet connectivity across five hotel properties and enhancing hospitality services, visitor experiences and support the gro...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/qcell-djeliba-leisure-group-partner-to-strengthen-digital-connectivity-in-tourism-sector/",
-      "publishedAt": "2026-11-02T12:30:43.000Z",
-      "collectedAt": "2026-11-02T15:28:48.267Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T11:59:21.733Z",
-    "count": 9
+    "generatedAt": "2026-11-06T19:17:36.259Z",
+    "count": 8
   }
 }

@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "5d0ac69acb9ad3c3",
+      "title": "Publication Day! The Buzz Has Gone Global!",
+      "summary": "By Momodou Ndow It is finally here! The wait is over, and the buzz is officially GLOBAL! The Mischievous Mosquitoes of Banjul have officially landed on the world stage! What began as a story rooted in the streets of Banjul, The Gambia, has taken flight beyond borders, carrying...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/publication-day-the-buzz-has-gone-global/",
+      "publishedAt": "2026-11-06T18:15:46.000Z",
+      "collectedAt": "2026-11-06T19:17:29.154Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e0b1cba67939f0bb",
+      "title": "NDP Leader Kebba Madi Bojang Promises System Reform After Submitting Nomination",
+      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has formally submitted his nomination credentials to the Independent Electoral Commission (IEC), declaring his intent to challenge the status quo and deliver systemic reform. ​Accompanied by key party sup...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ndp-leader-kebba-madi-bojang-promises-system-reform-after-submitting-nomination/",
+      "publishedAt": "2026-11-06T17:51:57.000Z",
+      "collectedAt": "2026-11-06T19:17:29.154Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "107d95527ad62228",
+      "title": "A New Thinking for Gambian Football: Why football clubs must move beyond fixtures and results to embrace storytelling as strategy",
+      "summary": "Why football clubs must move beyond fixtures and results to embrace storytelling as strategy By ML Drammeh What if the most powerful tool in Gambian football sits not on the pitch, but in the hands of the person who tells the club’s story? While coaches chase tactics and playe...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/a-new-thinking-for-gambian-football-why-football-clubs-must-move-beyond-fixtures-and-results-to-embrace-storytelling-as-strategy/",
+      "publishedAt": "2026-11-06T17:24:51.000Z",
+      "collectedAt": "2026-11-06T19:17:29.154Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2caa50ee94afa9ca",
       "title": "APC Pledges Unemployment Benefits and Expanded Welfare Support if Elected",
       "summary": "By Dawda Baldeh The leader of the Alliance of Progressive Citizens (APC), Modou Lamin Sima, has pledged to expand The Gambia’s social protection system, introducing unemployment support, transport schemes and additional benefits for retirees if elected president in December. S...",
@@ -389,34 +456,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "63ebe56836357695",
-      "title": "TWO MAJOR REPORTS PUT GAMBIAN POLITICAL LEADERS UNDER SCRUTINY OVER PUBLIC RESOURCES",
-      "summary": "Written by: Seringe S.T. Touray Two major publications released within a day of each other have raised serious questions about the management of public resources involving President Adama Barrow, members of his family and political circle, and prominent local government offici...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/two-major-reports-put-gambian-political-leaders-under-scrutiny-over-public-resources/",
-      "publishedAt": "2026-11-02T12:07:10.000Z",
-      "collectedAt": "2026-11-02T15:28:49.061Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T11:59:21.733Z",
-    "count": 18
+    "generatedAt": "2026-11-06T19:17:36.259Z",
+    "count": 20
   }
 }
