@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "2caa50ee94afa9ca",
+      "title": "APC Pledges Unemployment Benefits and Expanded Welfare Support if Elected",
+      "summary": "By Dawda Baldeh The leader of the Alliance of Progressive Citizens (APC), Modou Lamin Sima, has pledged to expand The Gambia’s social protection system, introducing unemployment support, transport schemes and additional benefits for retirees if elected president in December. S...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/apc-pledges-unemployment-benefits-and-expanded-welfare-support-if-elected/",
+      "publishedAt": "2026-11-06T11:34:46.000Z",
+      "collectedAt": "2026-11-06T11:59:14.422Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7536b431d84b166e",
+      "title": "Justice Ministry Reportedly Orders Police Probe Into Bensouda, Lowe, Sanneh, Other Local Officials Amid Security Concerns",
+      "summary": "By Staff Writer The Ministry of Justice has directed the Inspector General of Police to establish an investigative panel to question Kanifing Municipal Council Mayor Talib Ahmed Bensouda and several other local government officials adversely mentioned in the government’s White...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/justice-ministry-reportedly-orders-police-probe-into-bensouda-lowe-sanneh-other-local-officials-amid-security-concerns/",
+      "publishedAt": "2026-11-06T06:51:14.000Z",
+      "collectedAt": "2026-11-06T11:59:17.631Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9ac01f4855e38abd",
       "title": "Independent Aspirant Alieu Sowe Defends Presidential Readiness Despite Expired ID, Missing Deposit",
       "summary": "By Makutu Manneh Independent presidential aspirant Alieu Sowe has defended his readiness to lead The Gambia after facing questions over his arrival at the Independent Electoral Commission (IEC) for nomination with an expired national identity card, no passport, and without the...",
@@ -524,30 +571,6 @@
       "status": "published"
     },
     {
-      "id": "0f7586fb494c381c",
-      "title": "NDP Leader Urges Gambians to Vote for Change to End Economic Hardship",
-      "summary": "By Makutu Manneh Kebba Madi Bojang, leader of the National Democratic Party (NDP), has urged Gambians to use the December 5 presidential election to bring an end to the economic hardships facing the country, calling on voters to support leaders who understand their struggles a...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndp-leader-urges-gambians-to-vote-for-change-to-end-economic-hardship/",
-      "publishedAt": "2026-11-02T02:18:58.000Z",
-      "collectedAt": "2026-11-02T05:38:39.217Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -556,7 +579,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-06T02:14:01.122Z",
+      "collectedAt": "2026-11-06T11:59:14.138Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -572,7 +595,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T02:14:06.694Z",
-    "count": 24
+    "generatedAt": "2026-11-06T11:59:21.733Z",
+    "count": 25
   }
 }

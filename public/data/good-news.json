@@ -1,6 +1,118 @@
 {
   "items": [
     {
+      "id": "cd81ef5f0cf8a67d",
+      "title": "Fatoumata Jawara Honoured with Girls Champion Award at National Women and Girls Awards",
+      "summary": "Fatoumata Jawara, Founder and Chief Executive Officer of Maa Foundation for Women (MFW), has been honoured with the Girls Champion Award at the National Women and Girls Awards, in recognition of her outstanding commitment to advancing the rights, welfare and empowerment of gir...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/fatoumata-jawara-honoured-with-girls-champion-award-at-national-women-and-girls-awards/",
+      "publishedAt": "2026-11-06T11:36:00.000Z",
+      "collectedAt": "2026-11-06T11:59:13.905Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2caa50ee94afa9ca",
+      "title": "APC Pledges Unemployment Benefits and Expanded Welfare Support if Elected",
+      "summary": "By Dawda Baldeh The leader of the Alliance of Progressive Citizens (APC), Modou Lamin Sima, has pledged to expand The Gambia’s social protection system, introducing unemployment support, transport schemes and additional benefits for retirees if elected president in December. S...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/apc-pledges-unemployment-benefits-and-expanded-welfare-support-if-elected/",
+      "publishedAt": "2026-11-06T11:34:46.000Z",
+      "collectedAt": "2026-11-06T11:59:14.422Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d8743d32d8b459ed",
+      "title": "China-Trained Doctors Allege Unfair Treatment by Medical and Dental Council",
+      "summary": "35+ Doctors Leave for US, Morocco & Beyond By Yankuba Jallow More than 35 Gambian medical graduates trained in China told Foroyaa that prolonged licensing delays are preventing them from working in the country’s health system, despite completing their studies and clinical trai...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/china-trained-doctors-allege-unfair-treatment-by-medical-and-dental-council/",
+      "publishedAt": "2026-11-06T11:34:00.000Z",
+      "collectedAt": "2026-11-06T11:59:13.905Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9c7318e3f0596e6e",
+      "title": "Dr Lamin J. Darboe says Team Gambia Grand Coalition promises nation-building, economic growth & reforms",
+      "summary": "By Yankuba Jallow & Demba Bah The Team Gambia Grand Coalition flag bearer says a government led by the group would focus on national rebuilding, economic growth and institutional reform. Dr Lamin J. Darboe, the flag bearer of Team Gambia Grand Coalition 2026, says he would ser...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/dr-lamin-j-darboe-says-team-gambia-grand-coalition-promises-nation-building-economic-growth-reforms/",
+      "publishedAt": "2026-11-06T10:18:59.000Z",
+      "collectedAt": "2026-11-06T11:59:13.905Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7536b431d84b166e",
+      "title": "Justice Ministry Reportedly Orders Police Probe Into Bensouda, Lowe, Sanneh, Other Local Officials Amid Security Concerns",
+      "summary": "By Staff Writer The Ministry of Justice has directed the Inspector General of Police to establish an investigative panel to question Kanifing Municipal Council Mayor Talib Ahmed Bensouda and several other local government officials adversely mentioned in the government’s White...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/justice-ministry-reportedly-orders-police-probe-into-bensouda-lowe-sanneh-other-local-officials-amid-security-concerns/",
+      "publishedAt": "2026-11-06T06:51:14.000Z",
+      "collectedAt": "2026-11-06T11:59:17.631Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0860ea47565093ab",
       "title": "AQA Opens New Institute to Train Laboratory and Pharmacy Technicians in The Gambia",
       "summary": "By Makutu Manneh The AQA Institute of Diagnostics and Allied Health Sciences (AIDAHs) was officially inaugurated on Thursday at AQA Headquarters, marking a new initiative to address the growing demand for qualified laboratory and pharmacy technicians in The Gambia. Established...",
@@ -459,7 +571,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-06T02:14:01.122Z",
+      "collectedAt": "2026-11-06T11:59:14.138Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -473,7 +585,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T02:14:06.694Z",
-    "count": 21
+    "generatedAt": "2026-11-06T11:59:21.733Z",
+    "count": 26
   }
 }

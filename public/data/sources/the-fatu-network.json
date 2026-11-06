@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "2caa50ee94afa9ca",
+      "title": "APC Pledges Unemployment Benefits and Expanded Welfare Support if Elected",
+      "summary": "By Dawda Baldeh The leader of the Alliance of Progressive Citizens (APC), Modou Lamin Sima, has pledged to expand The Gambia’s social protection system, introducing unemployment support, transport schemes and additional benefits for retirees if elected president in December. S...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/apc-pledges-unemployment-benefits-and-expanded-welfare-support-if-elected/",
+      "publishedAt": "2026-11-06T11:34:46.000Z",
+      "collectedAt": "2026-11-06T11:59:14.422Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4355854e573a16df",
       "title": "President Barrow Rejects UNITE’s Claims, Defends Timing of Inquiry White Paper Publication",
       "summary": "Written by: Dawda Baldeh President Adama Barrow has rejected allegations of political bias surrounding the publication of the Government’s White Paper on the Local Government Commission of Inquiry, maintaining that the decision was made in accordance with constitutional requir...",
@@ -392,7 +416,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T02:14:06.694Z",
-    "count": 17
+    "generatedAt": "2026-11-06T11:59:21.733Z",
+    "count": 18
   }
 }

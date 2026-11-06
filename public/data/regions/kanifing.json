@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "7536b431d84b166e",
+      "title": "Justice Ministry Reportedly Orders Police Probe Into Bensouda, Lowe, Sanneh, Other Local Officials Amid Security Concerns",
+      "summary": "By Staff Writer The Ministry of Justice has directed the Inspector General of Police to establish an investigative panel to question Kanifing Municipal Council Mayor Talib Ahmed Bensouda and several other local government officials adversely mentioned in the government’s White...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/justice-ministry-reportedly-orders-police-probe-into-bensouda-lowe-sanneh-other-local-officials-amid-security-concerns/",
+      "publishedAt": "2026-11-06T06:51:14.000Z",
+      "collectedAt": "2026-11-06T11:59:17.631Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d0cc7f983fceda9d",
       "title": "Old Bakau Councillor Accuses Government of Discrediting KMC General Council in White Paper",
       "summary": "By Fatou Sillah Old Bakau Ward Councillor Lamin Dibba has criticised the government’s White Paper on the findings of the Local Government Commission of Inquiry, accusing the government of unfairly targeting the Kanifing Municipal Council (KMC) General Council and Mayor Talib A...",
@@ -155,7 +178,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T02:14:06.694Z",
-    "count": 7
+    "generatedAt": "2026-11-06T11:59:21.733Z",
+    "count": 8
   }
 }
