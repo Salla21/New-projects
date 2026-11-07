@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "6ad2b284861121ca",
+      "title": "BAC Chairman Says Council Has Awarded Over 1,000 Scholarships, Pledges Expansion to KMC Under UDP Government",
+      "summary": "By Seedy Jobe Brikama Area Council (BAC) Chairman Yankuba Darboe has disclosed that more than 1,000 students have benefited from the council’s scholarship programme since its introduction in 2024, highlighting the initiative as part of efforts to expand access to higher educat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bac-chairman-says-council-has-awarded-over-1000-scholarships-pledges-expansion-to-kmc-under-udp-government/",
+      "publishedAt": "2026-11-06T23:50:27.000Z",
+      "collectedAt": "2026-11-07T00:03:02.901Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "aed5fb2d6e479f05",
+      "title": "NDP Presidential Aspirant Kebba Bojang Says Community Development Record Sets Him Apart From Rivals",
+      "summary": "By Makutu Manneh Kebba Bojang, presidential aspirant for the National Democratic Party (NDP), has said his record of community development and personal investment in public welfare distinguishes him from other candidates seeking the presidency in the December 5 election. Speak...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-presidential-aspirant-kebba-bojang-says-community-development-record-sets-him-apart-from-rivals/",
+      "publishedAt": "2026-11-06T22:58:41.000Z",
+      "collectedAt": "2026-11-07T00:03:02.901Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cd81ef5f0cf8a67d",
       "title": "Fatoumata Jawara Honoured with Girls Champion Award at National Women and Girls Awards",
       "summary": "Fatoumata Jawara, Founder and Chief Executive Officer of Maa Foundation for Women (MFW), has been honoured with the Girls Champion Award at the National Women and Girls Awards, in recognition of her outstanding commitment to advancing the rights, welfare and empowerment of gir...",
@@ -389,92 +436,6 @@
       "status": "published"
     },
     {
-      "id": "6d8f53dda7f652d1",
-      "title": "Government Orders Suspension & Investigation of BCC Ex-CEO Batchilly",
-      "summary": "The Gambian government has ordered the immediate suspension of former Banjul City Council Chief Executive Officer Mustapha Amara Batchilly and directed the Inspector General of Police to investigate him over alleged unlawful financial transactions during his time at the counci...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-orders-suspension-investigation-of-bcc-ex-ceo-batchilly/",
-      "publishedAt": "2026-11-02T15:40:16.000Z",
-      "collectedAt": "2026-11-02T23:24:45.208Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "db47d6f12e19041b",
-      "title": "Government Orders Economic Crimes Investigation into Banjul Mayor Rohey Malick Lowe",
-      "summary": "The Government of The Gambia has accepted recommendations for economic crime proceedings against Banjul City Council Mayoress Roheyatou Malick Lowe and has directed the Inspector General of Police (IGP) to investigate allegations involving public funds, procurement and a confl...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-orders-economic-crimes-investigation-into-banjul-mayor-rohey-malick-lowe/",
-      "publishedAt": "2026-11-02T15:37:13.000Z",
-      "collectedAt": "2026-11-02T23:24:45.208Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4f97332fae584616",
-      "title": "Government Orders Economic Crimes Investigation into KMC Mayor Bensouda",
-      "summary": "The Gambia government has accepted the recommendations of the Local Government Commission of Inquiry and directed the Inspector General of Police (IGP) to investigate Kanifing Municipal Council Mayor Talib Ahmed Bensouda over alleged economic crimes linked to the Mbalit projec...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-orders-economic-crimes-investigation-into-kmc-mayor-bensouda/",
-      "publishedAt": "2026-11-02T15:31:06.000Z",
-      "collectedAt": "2026-11-02T23:24:45.208Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3367f268e232f630",
-      "title": "Gambia, MRC Unit honoured for research that helped transform global malaria control",
-      "summary": "By Hadram Hydara The Gambia’s Ministry of Health and the MRC Unit The Gambia at the London School of Hygiene & Tropical Medicine (MRCG) have been awarded the 2026 Edinburgh Prize for Global Health Impact in recognition of research that helped establish insecticide-treated bed ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-mrc-unit-honoured-for-research-that-helped-transform-global-malaria-control/",
-      "publishedAt": "2026-11-02T13:48:41.000Z",
-      "collectedAt": "2026-11-02T15:28:49.061Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -483,7 +444,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-06T19:17:28.870Z",
+      "collectedAt": "2026-11-07T00:03:01.470Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -497,7 +458,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T19:17:36.259Z",
-    "count": 22
+    "generatedAt": "2026-11-07T00:03:06.982Z",
+    "count": 20
   }
 }

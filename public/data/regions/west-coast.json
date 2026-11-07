@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "6ad2b284861121ca",
+      "title": "BAC Chairman Says Council Has Awarded Over 1,000 Scholarships, Pledges Expansion to KMC Under UDP Government",
+      "summary": "By Seedy Jobe Brikama Area Council (BAC) Chairman Yankuba Darboe has disclosed that more than 1,000 students have benefited from the council’s scholarship programme since its introduction in 2024, highlighting the initiative as part of efforts to expand access to higher educat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bac-chairman-says-council-has-awarded-over-1000-scholarships-pledges-expansion-to-kmc-under-udp-government/",
+      "publishedAt": "2026-11-06T23:50:27.000Z",
+      "collectedAt": "2026-11-07T00:03:02.901Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2caa50ee94afa9ca",
       "title": "APC Pledges Unemployment Benefits and Expanded Welfare Support if Elected",
       "summary": "By Dawda Baldeh The leader of the Alliance of Progressive Citizens (APC), Modou Lamin Sima, has pledged to expand The Gambia’s social protection system, introducing unemployment support, transport schemes and additional benefits for retirees if elected president in December. S...",
@@ -421,7 +444,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-06T19:17:28.870Z",
+      "collectedAt": "2026-11-07T00:03:01.470Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -435,7 +458,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T19:17:36.259Z",
-    "count": 19
+    "generatedAt": "2026-11-07T00:03:06.982Z",
+    "count": 20
   }
 }

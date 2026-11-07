@@ -814,75 +814,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6d8f53dda7f652d1",
-      "title": "Government Orders Suspension & Investigation of BCC Ex-CEO Batchilly",
-      "summary": "The Gambian government has ordered the immediate suspension of former Banjul City Council Chief Executive Officer Mustapha Amara Batchilly and directed the Inspector General of Police to investigate him over alleged unlawful financial transactions during his time at the counci...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-orders-suspension-investigation-of-bcc-ex-ceo-batchilly/",
-      "publishedAt": "2026-11-02T15:40:16.000Z",
-      "collectedAt": "2026-11-02T23:24:45.208Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "db47d6f12e19041b",
-      "title": "Government Orders Economic Crimes Investigation into Banjul Mayor Rohey Malick Lowe",
-      "summary": "The Government of The Gambia has accepted recommendations for economic crime proceedings against Banjul City Council Mayoress Roheyatou Malick Lowe and has directed the Inspector General of Police (IGP) to investigate allegations involving public funds, procurement and a confl...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-orders-economic-crimes-investigation-into-banjul-mayor-rohey-malick-lowe/",
-      "publishedAt": "2026-11-02T15:37:13.000Z",
-      "collectedAt": "2026-11-02T23:24:45.208Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "4f97332fae584616",
-      "title": "Government Orders Economic Crimes Investigation into KMC Mayor Bensouda",
-      "summary": "The Gambia government has accepted the recommendations of the Local Government Commission of Inquiry and directed the Inspector General of Police (IGP) to investigate Kanifing Municipal Council Mayor Talib Ahmed Bensouda over alleged economic crimes linked to the Mbalit projec...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-orders-economic-crimes-investigation-into-kmc-mayor-bensouda/",
-      "publishedAt": "2026-11-02T15:31:06.000Z",
-      "collectedAt": "2026-11-02T23:24:45.208Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T19:17:36.259Z",
-    "count": 39
+    "generatedAt": "2026-11-07T00:03:06.982Z",
+    "count": 36
   }
 }

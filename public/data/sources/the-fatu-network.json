@@ -391,75 +391,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "645af900d0490dc6",
-      "title": "Fishermen Demand Action on Illegal Fishing, Corruption and Declining Fish Stocks",
-      "summary": "By Dawda Baldeh Fishermen and fish vendors have called for urgent government action to tackle illegal fishing, alleged corruption and declining fish stocks, warning that continued inaction threatens livelihoods and the future of The Gambia’s fishing industry. Speaking during d...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/fishermen-demand-action-on-illegal-fishing-corruption-and-declining-fish-stocks/",
-      "publishedAt": "2026-11-02T14:45:24.000Z",
-      "collectedAt": "2026-11-02T15:28:49.061Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "23e00a02a71dcb96",
-      "title": "GPU Warns Politicians Against Hate Speech Ahead of December Election",
-      "summary": "By Dawda Baldeh The Gambia Press Union (GPU) has warned political parties and presidential candidates against hate speech, intimidation and misinformation ahead of the December 5 presidential election, urging stakeholders to protect the country’s democratic process. GPU Presid...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gpu-warns-politicians-against-hate-speech-ahead-of-december-election/",
-      "publishedAt": "2026-11-02T14:00:45.000Z",
-      "collectedAt": "2026-11-02T15:28:49.061Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3367f268e232f630",
-      "title": "Gambia, MRC Unit honoured for research that helped transform global malaria control",
-      "summary": "By Hadram Hydara The Gambia’s Ministry of Health and the MRC Unit The Gambia at the London School of Hygiene & Tropical Medicine (MRCG) have been awarded the 2026 Edinburgh Prize for Global Health Impact in recognition of research that helped establish insecticide-treated bed ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-mrc-unit-honoured-for-research-that-helped-transform-global-malaria-control/",
-      "publishedAt": "2026-11-02T13:48:41.000Z",
-      "collectedAt": "2026-11-02T15:28:49.061Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T19:17:36.259Z",
-    "count": 20
+    "generatedAt": "2026-11-07T00:03:06.982Z",
+    "count": 17
   }
 }

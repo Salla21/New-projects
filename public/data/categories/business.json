@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "aed5fb2d6e479f05",
+      "title": "NDP Presidential Aspirant Kebba Bojang Says Community Development Record Sets Him Apart From Rivals",
+      "summary": "By Makutu Manneh Kebba Bojang, presidential aspirant for the National Democratic Party (NDP), has said his record of community development and personal investment in public welfare distinguishes him from other candidates seeking the presidency in the December 5 election. Speak...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-presidential-aspirant-kebba-bojang-says-community-development-record-sets-him-apart-from-rivals/",
+      "publishedAt": "2026-11-06T22:58:41.000Z",
+      "collectedAt": "2026-11-07T00:03:02.901Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "acbca11df1276964",
       "title": "Bensouda Pledges Greater Autonomy and Resources for Local Councils if Elected President",
       "summary": "By Fatou Sillah Outgoing Kanifing Municipal Council (KMC) Mayor Talib Ahmed Bensouda has pledged to strengthen local government authorities by granting them greater autonomy, adequate funding, and institutional support if elected president. Bensouda said local councils are bes...",
@@ -532,7 +556,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-06T19:17:28.870Z",
+      "collectedAt": "2026-11-07T00:03:01.470Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -548,7 +572,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T19:17:36.259Z",
-    "count": 23
+    "generatedAt": "2026-11-07T00:03:06.982Z",
+    "count": 24
   }
 }

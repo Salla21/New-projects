@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "f427bc40367fbfc2",
+      "title": "Bensouda Urges Incoming KMC Leadership to Complete Unfinished Development Projects",
+      "summary": "By Fatou Sillah Former Kanifing Municipal Council (KMC) Mayor Talib Ahmed Bensouda has urged the council’s incoming leadership to prioritize the completion of several development projects initiated during his administration, saying many are nearing completion. Speaking at a pr...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-urges-incoming-kmc-leadership-to-complete-unfinished-development-projects/",
+      "publishedAt": "2026-11-06T22:34:33.000Z",
+      "collectedAt": "2026-11-07T00:03:02.901Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "acbca11df1276964",
       "title": "Bensouda Pledges Greater Autonomy and Resources for Local Councils if Elected President",
       "summary": "By Fatou Sillah Outgoing Kanifing Municipal Council (KMC) Mayor Talib Ahmed Bensouda has pledged to strengthen local government authorities by granting them greater autonomy, adequate funding, and institutional support if elected president. Bensouda said local councils are bes...",
@@ -157,31 +178,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4f97332fae584616",
-      "title": "Government Orders Economic Crimes Investigation into KMC Mayor Bensouda",
-      "summary": "The Gambia government has accepted the recommendations of the Local Government Commission of Inquiry and directed the Inspector General of Police (IGP) to investigate Kanifing Municipal Council Mayor Talib Ahmed Bensouda over alleged economic crimes linked to the Mbalit projec...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/government-orders-economic-crimes-investigation-into-kmc-mayor-bensouda/",
-      "publishedAt": "2026-11-02T15:31:06.000Z",
-      "collectedAt": "2026-11-02T23:24:45.208Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-06T19:17:36.259Z",
+    "generatedAt": "2026-11-07T00:03:06.982Z",
     "count": 8
   }
 }
