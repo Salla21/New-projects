@@ -368,33 +368,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2985040d161c059e",
-      "title": "Who Guards the Ballot—and the Taxpayer?",
-      "summary": "OPINION By Sarjo Barrow, Esq. This week, presidential aspirants will line up at the Independent Electoral Commission to file nomination papers for the Dec. 5 election. According to local online papers, the IEC has scheduled slots for 27 of them: 12 party candidates and 15 inde...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/who-guards-the-ballot-and-the-taxpayer/",
-      "publishedAt": "2026-11-02T17:51:15.000Z",
-      "collectedAt": "2026-11-02T23:24:45.778Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T00:03:06.982Z",
-    "count": 17
+    "generatedAt": "2026-11-07T08:38:35.199Z",
+    "count": 16
   }
 }

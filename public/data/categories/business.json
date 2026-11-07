@@ -524,30 +524,6 @@
       "status": "published"
     },
     {
-      "id": "c9bbf4c85ab327ce",
-      "title": "Minister Juwara Says 2027 Budget Cut Will Not Derail Gambia’s Electrification Drive",
-      "summary": "By Makutu Manneh The Minister of Petroleum, Energy and Mines, Nani Juwara, has assured Gambians that the reduction in his ministry’s 2027 budget allocation will not affect ongoing efforts to achieve universal electricity access across the country. Speaking at the MansaKunda To...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/minister-juwara-says-2027-budget-cut-will-not-derail-gambias-electrification-drive/",
-      "publishedAt": "2026-11-02T19:32:58.000Z",
-      "collectedAt": "2026-11-02T23:24:47.135Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -556,7 +532,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-07T00:03:01.470Z",
+      "collectedAt": "2026-11-07T08:38:28.433Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -572,7 +548,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T00:03:06.982Z",
-    "count": 24
+    "generatedAt": "2026-11-07T08:38:35.199Z",
+    "count": 23
   }
 }

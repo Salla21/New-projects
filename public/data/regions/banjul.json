@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3d6fd69352d8e8a4",
+      "title": "Darboe Says Barrow’s Call for Continuity Means More Corruption, Hardship, and Broken Promises",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader Ousainu Darboe has urged residents of Dippa Kunda to reject President Adama Barrow’s call for continuity, arguing that another term under the incumbent would mean continued corruption, economic hardship, and unfulfilled promis...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-barrows-call-for-continuity-means-more-corruption-hardship-and-broken-promises/",
+      "publishedAt": "2026-11-07T00:41:43.000Z",
+      "collectedAt": "2026-11-07T08:38:31.094Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "44d797db3f4fe9c0",
       "title": "Political Analyst Biran Gai Warns of Rising Tensions Ahead of December Election",
       "summary": "By Makutu Manneh Biran Gai, a political analyst and lecturer in political science at the University of The Gambia, has warned that the country is navigating an increasingly complex political environment ahead of the December 5 presidential election, raising concerns about poli...",
@@ -1659,122 +1683,6 @@
       "status": "published"
     },
     {
-      "id": "c9bbf4c85ab327ce",
-      "title": "Minister Juwara Says 2027 Budget Cut Will Not Derail Gambia’s Electrification Drive",
-      "summary": "By Makutu Manneh The Minister of Petroleum, Energy and Mines, Nani Juwara, has assured Gambians that the reduction in his ministry’s 2027 budget allocation will not affect ongoing efforts to achieve universal electricity access across the country. Speaking at the MansaKunda To...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/minister-juwara-says-2027-budget-cut-will-not-derail-gambias-electrification-drive/",
-      "publishedAt": "2026-11-02T19:32:58.000Z",
-      "collectedAt": "2026-11-02T23:24:47.135Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3aac457280e193bb",
-      "title": "Police Assure Readiness for Presidential Nominations, Announce Road Closures Around IEC",
-      "summary": "By Seedy Jobe The Gambia Police Force has assured the public of its readiness to provide security for the upcoming presidential nomination exercise, scheduled to begin on Tuesday, as authorities announce extensive security measures and road closures around the Independent Elec...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/police-assure-readiness-for-presidential-nominations-announce-road-closures-around-iec/",
-      "publishedAt": "2026-11-02T19:28:00.000Z",
-      "collectedAt": "2026-11-02T23:24:47.135Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c2f3f6b19748dd14",
-      "title": "UDP Youth Leader Calls December 5 Election Defining Moment, Accuses Barrow of Seeking Third Term to Evade Accountability",
-      "summary": "By Seedy Jobe Hagi Suwaneh, the National Youth President of the United Democratic Party (UDP), has described the December 5, 2026, presidential election as a defining moment for The Gambia, urging voters to reject President Adama Barrow’s bid for a third term and unite against...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-calls-december-5-election-defining-moment-accuses-barrow-of-seeking-third-term-to-evade-accountability/",
-      "publishedAt": "2026-11-02T19:20:07.000Z",
-      "collectedAt": "2026-11-02T23:24:47.135Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2985040d161c059e",
-      "title": "Who Guards the Ballot—and the Taxpayer?",
-      "summary": "OPINION By Sarjo Barrow, Esq. This week, presidential aspirants will line up at the Independent Electoral Commission to file nomination papers for the Dec. 5 election. According to local online papers, the IEC has scheduled slots for 27 of them: 12 party candidates and 15 inde...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/who-guards-the-ballot-and-the-taxpayer/",
-      "publishedAt": "2026-11-02T17:51:15.000Z",
-      "collectedAt": "2026-11-02T23:24:45.778Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0edb3f98fe98d107",
-      "title": "IEC Finalizes Voter Register at 1.14 Million, Sets Dates for Presidential Nominations",
-      "summary": "By Seedy Jobe The Independent Electoral Commission (IEC) has finalized the national voter register for the December 5 presidential election, confirming 1,146,474 registered voters and announcing the completion of key electoral preparations, including the revision of voter list...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/iec-finalizes-voter-register-at-1-14-million-sets-dates-for-presidential-nominations/",
-      "publishedAt": "2026-11-02T16:26:51.000Z",
-      "collectedAt": "2026-11-02T23:24:47.135Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "e071d1dae983bba6",
       "title": "Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why?",
       "summary": "Since President Adama Barrow came to power in 2017, the prices of many food commodities in…\nThe post Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why? appeared first on What's On Gambia.",
@@ -1783,7 +1691,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-07T00:03:01.470Z",
+      "collectedAt": "2026-11-07T08:38:28.433Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1806,7 +1714,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambian-music-goes-boring-no-beef-no-drama-no-buzz/",
       "publishedAt": "2026-10-28T03:09:34.000Z",
-      "collectedAt": "2026-11-07T00:03:01.470Z",
+      "collectedAt": "2026-11-07T08:38:28.433Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1827,7 +1735,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/busumbala-tailor-arrested-over-alleged-grpe-of-apprentice/",
       "publishedAt": "2026-10-28T03:06:08.000Z",
-      "collectedAt": "2026-11-07T00:03:01.470Z",
+      "collectedAt": "2026-11-07T08:38:28.433Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1848,7 +1756,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-07T00:03:01.470Z",
+      "collectedAt": "2026-11-07T08:38:28.433Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1871,7 +1779,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/fula-gangstar-wants-to-make-peace-with-star-girl-as-fans-wait-for-the-full-story/",
       "publishedAt": "2026-10-21T02:21:43.000Z",
-      "collectedAt": "2026-11-07T00:03:01.470Z",
+      "collectedAt": "2026-11-07T08:38:28.433Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1892,7 +1800,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-07T00:03:01.470Z",
+      "collectedAt": "2026-11-07T08:38:28.433Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1906,7 +1814,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T00:03:06.982Z",
-    "count": 83
+    "generatedAt": "2026-11-07T08:38:35.199Z",
+    "count": 79
   }
 }

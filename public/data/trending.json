@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3d6fd69352d8e8a4",
+      "title": "Darboe Says Barrow’s Call for Continuity Means More Corruption, Hardship, and Broken Promises",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader Ousainu Darboe has urged residents of Dippa Kunda to reject President Adama Barrow’s call for continuity, arguing that another term under the incumbent would mean continued corruption, economic hardship, and unfulfilled promis...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-barrows-call-for-continuity-means-more-corruption-hardship-and-broken-promises/",
+      "publishedAt": "2026-11-07T00:41:43.000Z",
+      "collectedAt": "2026-11-07T08:38:31.094Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6ad2b284861121ca",
       "title": "BAC Chairman Says Council Has Awarded Over 1,000 Scholarships, Pledges Expansion to KMC Under UDP Government",
       "summary": "By Seedy Jobe Brikama Area Council (BAC) Chairman Yankuba Darboe has disclosed that more than 1,000 students have benefited from the council’s scholarship programme since its introduction in 2024, highlighting the initiative as part of efforts to expand access to higher educat...",
@@ -433,33 +457,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "aa791fae1838cef1",
-      "title": "HAS HALIFA SALLAH SELECTED LAMIN J. DARBOE AS FLAGBEARER OF TEAM GAMBIA?",
-      "summary": "This question was posed to Halifa Sallah and he gave the following answer. It should be noted that all Gambians were called upon by Halifa Sallah and Sidia Jatta to participate in the dialogue and consultation to review the political climate in country and build consensus on h...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/has-halifa-sallah-selected-lamin-j-darboe-as-flagbearer-of-team-gambia/",
-      "publishedAt": "2026-11-06T09:57:27.000Z",
-      "collectedAt": "2026-11-06T11:59:13.905Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T00:03:06.982Z",
+    "generatedAt": "2026-11-07T08:38:35.199Z",
     "count": 20
   }
 }

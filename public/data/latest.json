@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3d6fd69352d8e8a4",
+      "title": "Darboe Says Barrow’s Call for Continuity Means More Corruption, Hardship, and Broken Promises",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader Ousainu Darboe has urged residents of Dippa Kunda to reject President Adama Barrow’s call for continuity, arguing that another term under the incumbent would mean continued corruption, economic hardship, and unfulfilled promis...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-barrows-call-for-continuity-means-more-corruption-hardship-and-broken-promises/",
+      "publishedAt": "2026-11-07T00:41:43.000Z",
+      "collectedAt": "2026-11-07T08:38:31.094Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6ad2b284861121ca",
       "title": "BAC Chairman Says Council Has Awarded Over 1,000 Scholarships, Pledges Expansion to KMC Under UDP Government",
       "summary": "By Seedy Jobe Brikama Area Council (BAC) Chairman Yankuba Darboe has disclosed that more than 1,000 students have benefited from the council’s scholarship programme since its introduction in 2024, highlighting the initiative as part of efforts to expand access to higher educat...",
@@ -2270,34 +2294,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7f101bc637f9a46a",
-      "title": "Darboe Pledges to Restore Dignity and Profitability to Farming Under UDP-Led Government",
-      "summary": "By Seedy Jobe The Secretary General and Party Leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has pledged to transform The Gambia’s agricultural sector into a profitable and respected profession, promising improved access to quality seeds, modern farming equip...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-to-restore-dignity-and-profitability-to-farming-under-udp-led-government/",
-      "publishedAt": "2026-11-02T19:37:52.000Z",
-      "collectedAt": "2026-11-02T23:24:47.135Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T00:03:06.982Z",
+    "generatedAt": "2026-11-07T08:38:35.199Z",
     "count": 100
   }
 }
