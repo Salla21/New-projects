@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b8cc40f056b283ae",
+      "title": "Sis… When was the last time you actually played?",
+      "summary": "By RamaTulai Sis…..WHEN WAS THE LAST TIME YOU ACTUALLY PLAYED?? Not performed, delivered, led or solved problems. Just… played. Somewhere between back-to-back deadlines, high-stakes reports, and carrying the weight of our teams’ dreams, many of us have become so deeply wired f...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sis-when-was-the-last-time-you-actually-played/",
+      "publishedAt": "2026-11-07T11:53:50.000Z",
+      "collectedAt": "2026-11-07T16:15:58.158Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3d6fd69352d8e8a4",
       "title": "Darboe Says Barrow’s Call for Continuity Means More Corruption, Hardship, and Broken Promises",
       "summary": "By Seedy Jobe United Democratic Party (UDP) leader Ousainu Darboe has urged residents of Dippa Kunda to reject President Adama Barrow’s call for continuity, arguing that another term under the incumbent would mean continued corruption, economic hardship, and unfulfilled promis...",
@@ -2271,33 +2294,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "da831eb96c6dd0b9",
-      "title": "Gambia Immigration Department Intercepts 117 Suspected Irregular Migrants in Gunjur",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 117 suspected irregular migrants along the beach at Gunjur Sambuya in the West Coast Region, as authorities intensify efforts to curb irregular migration. The interception, carried out on Sunday, was cond...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-117-suspected-irregular-migrants-in-gunjur/",
-      "publishedAt": "2026-11-02T20:11:13.000Z",
-      "collectedAt": "2026-11-02T23:24:47.135Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T08:38:35.199Z",
+    "generatedAt": "2026-11-07T16:16:03.650Z",
     "count": 100
   }
 }

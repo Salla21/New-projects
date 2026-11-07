@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b8cc40f056b283ae",
+      "title": "Sis… When was the last time you actually played?",
+      "summary": "By RamaTulai Sis…..WHEN WAS THE LAST TIME YOU ACTUALLY PLAYED?? Not performed, delivered, led or solved problems. Just… played. Somewhere between back-to-back deadlines, high-stakes reports, and carrying the weight of our teams’ dreams, many of us have become so deeply wired f...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sis-when-was-the-last-time-you-actually-played/",
+      "publishedAt": "2026-11-07T11:53:50.000Z",
+      "collectedAt": "2026-11-07T16:15:58.158Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5d0ac69acb9ad3c3",
       "title": "Publication Day! The Buzz Has Gone Global!",
       "summary": "By Momodou Ndow It is finally here! The wait is over, and the buzz is officially GLOBAL! The Mischievous Mosquitoes of Banjul have officially landed on the world stage! What began as a story rooted in the streets of Banjul, The Gambia, has taken flight beyond borders, carrying...",
@@ -371,7 +394,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T08:38:35.199Z",
-    "count": 16
+    "generatedAt": "2026-11-07T16:16:03.650Z",
+    "count": 17
   }
 }
