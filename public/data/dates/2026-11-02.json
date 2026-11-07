@@ -136,33 +136,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "da831eb96c6dd0b9",
-      "title": "Gambia Immigration Department Intercepts 117 Suspected Irregular Migrants in Gunjur",
-      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 117 suspected irregular migrants along the beach at Gunjur Sambuya in the West Coast Region, as authorities intensify efforts to curb irregular migration. The interception, carried out on Sunday, was cond...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-immigration-department-intercepts-117-suspected-irregular-migrants-in-gunjur/",
-      "publishedAt": "2026-11-02T20:11:13.000Z",
-      "collectedAt": "2026-11-02T23:24:47.135Z",
-      "region": "west-coast",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T16:16:03.650Z",
-    "count": 7
+    "generatedAt": "2026-11-07T21:42:19.972Z",
+    "count": 6
   }
 }

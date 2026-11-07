@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "f25a0688c9f36589",
+      "title": "President Barrow Pledges To Consider Release Of Jailed Drifters",
+      "summary": "By Makutu Manneh  President Adama Barrow has pledged to consider the release of drifters currently in prison, stating that they were jailed to learn a lesson and not because they are hated. He made the pledge during a meeting with the Gambia Motorsports Association on Friday a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-pledges-to-consider-release-of-jailed-drifters/",
+      "publishedAt": "2026-11-07T18:54:51.000Z",
+      "collectedAt": "2026-11-07T21:42:15.884Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5de06a026e0f8860",
+      "title": "Barrow Gives D500,000 to Drifters, Warns Against Opposition Politicians",
+      "summary": "By Makutu Manneh President Adama Barrow has presented D500,000 to a group of young motorsport enthusiasts, popularly known as drifters, who visited him at State House on Friday. He urged them to work closely with the government and cautioned against what he described as attemp...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-gives-d500000-to-drifters-warns-against-opposition-politicians/",
+      "publishedAt": "2026-11-07T18:19:33.000Z",
+      "collectedAt": "2026-11-07T21:42:15.884Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1df4a76fb6b7705a",
+      "title": "From Police Crackdowns to Presidential Convoy: Barrow Invites Car Drifters to Nomination",
+      "summary": "By Makutu Manneh President Adama Barrow has invited members of the Gambia Motorsports Association to join his convoy when he submits his nomination papers to the Independent Electoral Commission (IEC) on Tuesday, November 10, marking a striking shift in the government’s engage...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/from-police-crackdowns-to-presidential-convoy-barrow-invites-car-drifters-to-nomination/",
+      "publishedAt": "2026-11-07T18:08:49.000Z",
+      "collectedAt": "2026-11-07T21:42:15.884Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b8cc40f056b283ae",
       "title": "Sis… When was the last time you actually played?",
       "summary": "By RamaTulai Sis…..WHEN WAS THE LAST TIME YOU ACTUALLY PLAYED?? Not performed, delivered, led or solved problems. Just… played. Somewhere between back-to-back deadlines, high-stakes reports, and carrying the weight of our teams’ dreams, many of us have become so deeply wired f...",
@@ -545,33 +617,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0fc306e42fa41a00",
-      "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
-      "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
-      "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-07T16:15:57.812Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T16:16:03.650Z",
-    "count": 24
+    "generatedAt": "2026-11-07T21:42:19.972Z",
+    "count": 26
   }
 }
