@@ -572,55 +572,31 @@
       "status": "published"
     },
     {
-      "id": "b3d512bfd6b4c59a",
-      "title": "Bensouda Pledges to Review Sanyang Seaport Deal, Raises Concerns Over Displacement and Fishing Livelihoods",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has pledged to review the government’s proposed Sanyang seaport agreement if elected president on December 5, raising concerns about the project’s potential impact on ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-to-review-sanyang-seaport-deal-raises-concerns-over-displacement-and-fishing-livelihoods/",
-      "publishedAt": "2026-11-02T23:40:25.000Z",
-      "collectedAt": "2026-11-03T06:19:01.082Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f69f5c2ba4752cf2",
-      "title": "PF Initiative Launches Kepar Support Group to Strengthen Support for Women and Girls",
-      "summary": "By Seedy Jobe The Paradise Foundation Initiative (PFI) has launched the Kepar Support Group, a community-based initiative designed to provide a safe and supportive environment for women and girls to share their experiences, seek guidance, and access emotional and psychosocial ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/pf-initiative-launches-kepar-support-group-to-strengthen-support-for-women-and-girls/",
-      "publishedAt": "2026-11-02T23:29:55.000Z",
-      "collectedAt": "2026-11-03T06:19:01.082Z",
+      "id": "0fc306e42fa41a00",
+      "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
+      "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
+      "publishedAt": "2026-10-28T03:03:43.000Z",
+      "collectedAt": "2026-11-08T01:17:19.679Z",
       "region": "banjul",
       "categories": [
         "business"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Seedy Jobe",
+      "author": "Eddy Jatta",
       "language": "en",
-      "isGoodNews": true,
+      "isGoodNews": false,
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T21:42:19.972Z",
-    "count": 26
+    "generatedAt": "2026-11-08T01:17:26.087Z",
+    "count": 25
   }
 }
