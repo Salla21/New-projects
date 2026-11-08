@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6d3f4a4fb1829df7",
+      "title": "The IEC Can Check Credentials Without Questioning Dignity",
+      "summary": "OPINION By Sarjo Barrow, Esq. The nomination period is perhaps the most delicate stage of any election. For a country still finding its feet after years of dictatorship, how public institutions treat people seeking office matters. The Independent Electoral Commission (IEC) mus...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-iec-can-check-credentials-without-questioning-dignity/",
+      "publishedAt": "2026-11-08T13:50:32.000Z",
+      "collectedAt": "2026-11-08T16:36:26.853Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0860ea47565093ab",
       "title": "AQA Opens New Institute to Train Laboratory and Pharmacy Technicians in The Gambia",
       "summary": "By Makutu Manneh The AQA Institute of Diagnostics and Allied Health Sciences (AIDAHs) was officially inaugurated on Thursday at AQA Headquarters, marking a new initiative to address the growing demand for qualified laboratory and pharmacy technicians in The Gambia. Established...",
@@ -193,7 +217,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-08T08:52:24.530Z",
-    "count": 8
+    "generatedAt": "2026-11-08T16:36:33.157Z",
+    "count": 9
   }
 }

@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "6d3f4a4fb1829df7",
+      "title": "The IEC Can Check Credentials Without Questioning Dignity",
+      "summary": "OPINION By Sarjo Barrow, Esq. The nomination period is perhaps the most delicate stage of any election. For a country still finding its feet after years of dictatorship, how public institutions treat people seeking office matters. The Independent Electoral Commission (IEC) mus...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-iec-can-check-credentials-without-questioning-dignity/",
+      "publishedAt": "2026-11-08T13:50:32.000Z",
+      "collectedAt": "2026-11-08T16:36:26.853Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d482d933f765b3e7",
+      "title": "Yellow Wave Prepares to Storm IEC",
+      "summary": "UDP Finalizes Darboe’s Nomination Papers Ahead of Key Electoral Milestone A vibrant sea of yellow banners and chanting crowds lined Bertil Harding Highway outside the United Democratic Party (UDP) secretariat, as the main opposition party finalized logistics and documentation ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/yellow-wave-prepares-to-storm-iec/",
+      "publishedAt": "2026-11-08T13:41:53.000Z",
+      "collectedAt": "2026-11-08T16:36:26.853Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eb83ddf25fa9e281",
       "title": "Mayor Lowe Urges Women to Vote for Change, Citing Killings, Migrant Deaths, and Water Shortages",
       "summary": "By Seedy Jobe Banjul Mayor Rohey Malick Lowe has urged Gambian women and young people to use their votes to demand change, citing growing concerns over insecurity, deaths along irregular migration routes and inadequate access to basic services.Speaking at a United Democratic P...",
@@ -2253,56 +2300,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2569499ef6f25c7b",
-      "title": "The IEC Checks Nominations. It Does Not Interpret the Constitution.",
-      "summary": "ANALYSIS By Sarjo Barrow, Esq. Nominations for the December 5 presidential election open on November 3. One question hangs over them: will the Independent Electoral Commission (IEC) accept the papers of the KMC Mayor, who was adversely named in the Local Government Commission ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/the-iec-checks-nominations-it-does-not-interpret-the-constitution/",
-      "publishedAt": "2026-11-03T10:27:25.000Z",
-      "collectedAt": "2026-11-03T16:06:27.100Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cd3210ba0770e953",
-      "title": "UDP’s Sanneh: Civil Service Promotions Must Be Based on Merit, Not Party Loyalty",
-      "summary": "By Fatou Sillah Lamin J.K. Sanneh, Deputy Administrative Secretary for Social Affairs and Fundraising of the United Democratic Party (UDP), has called for civil service promotions to be based on merit, competence, and performance rather than political affiliation. Speaking in ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-sanneh-civil-service-promotions-must-be-based-on-merit-not-party-loyalty/",
-      "publishedAt": "2026-11-03T00:03:39.000Z",
-      "collectedAt": "2026-11-03T06:19:01.082Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-08T08:52:24.530Z",
+    "generatedAt": "2026-11-08T16:36:33.157Z",
     "count": 100
   }
 }
