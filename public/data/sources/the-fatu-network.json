@@ -415,33 +415,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2569499ef6f25c7b",
-      "title": "The IEC Checks Nominations. It Does Not Interpret the Constitution.",
-      "summary": "ANALYSIS By Sarjo Barrow, Esq. Nominations for the December 5 presidential election open on November 3. One question hangs over them: will the Independent Electoral Commission (IEC) accept the papers of the KMC Mayor, who was adversely named in the Local Government Commission ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/the-iec-checks-nominations-it-does-not-interpret-the-constitution/",
-      "publishedAt": "2026-11-03T10:27:25.000Z",
-      "collectedAt": "2026-11-03T16:06:27.100Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-08T16:36:33.157Z",
-    "count": 19
+    "generatedAt": "2026-11-08T21:56:03.741Z",
+    "count": 18
   }
 }

@@ -1001,33 +1001,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "cd3210ba0770e953",
-      "title": "UDP’s Sanneh: Civil Service Promotions Must Be Based on Merit, Not Party Loyalty",
-      "summary": "By Fatou Sillah Lamin J.K. Sanneh, Deputy Administrative Secretary for Social Affairs and Fundraising of the United Democratic Party (UDP), has called for civil service promotions to be based on merit, competence, and performance rather than political affiliation. Speaking in ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udps-sanneh-civil-service-promotions-must-be-based-on-merit-not-party-loyalty/",
-      "publishedAt": "2026-11-03T00:03:39.000Z",
-      "collectedAt": "2026-11-03T06:19:01.082Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-08T16:36:33.157Z",
-    "count": 44
+    "generatedAt": "2026-11-08T21:56:03.741Z",
+    "count": 43
   }
 }
