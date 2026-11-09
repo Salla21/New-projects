@@ -1,6 +1,119 @@
 {
   "items": [
     {
+      "id": "792589c222e28e14",
+      "title": "Local Government Service Commission Suspends Four Council CEOs Following White Paper Findings",
+      "summary": "Staff Writer The Local Government Service Commission (LGSC) has initiated a sweeping disciplinary crackdown across the country’s local government administration, issuing formal suspension letters to Chief Executive Officers across multiple councils, including those of Banjul, ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/local-government-service-commission-suspends-four-council-ceos-following-white-paper-findings/",
+      "publishedAt": "2026-11-09T02:45:35.000Z",
+      "collectedAt": "2026-11-09T09:34:46.441Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "538311c42150be36",
+      "title": "Barrow Pledges to Address Dippa Kunda’s Decades-Long Development Needs by 2031",
+      "summary": "By Seedy Jobe President Adama Barrow has pledged to address decades of unmet development needs in Dippa Kunda between 2027 and 2031, promising residents that his administration would prioritize the community in its next phase of development projects. Speaking at a National Peo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-pledges-to-address-dippa-kundas-decades-long-development-needs-by-2031/",
+      "publishedAt": "2026-11-09T02:36:14.000Z",
+      "collectedAt": "2026-11-09T09:34:46.441Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5eb1c59f94182c4d",
+      "title": "PAP’s Manneh Submits Nomination Papers, Says Barrow Government Is Taking Gambia Nowhere",
+      "summary": "By Makutu Manneh Ebrima Tabora Manneh, leader of the People’s Alliance Party (PAP), on Sunday submitted his nomination papers to the Independent Electoral Commission (IEC) ahead of the December 5 presidential election, criticizing President Adama Barrow’s administration for wh...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/paps-manneh-submits-nomination-papers-says-barrow-government-is-taking-gambia-nowhere/",
+      "publishedAt": "2026-11-09T02:27:00.000Z",
+      "collectedAt": "2026-11-09T09:34:46.441Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2dd8967b0bf9344c",
+      "title": "Bensouda Says Coalition 2026 Will Contest December Election Under UNITE Party Colours",
+      "summary": "By Fatou Sillah Coalition 2026 presidential candidate Talib Ahmed Bensouda has announced that all political parties within the coalition have agreed to contest the December 5 presidential election under the colours of the UNITE Party, describing the decision as a demonstration...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-coalition-2026-will-contest-december-election-under-unite-party-colours/",
+      "publishedAt": "2026-11-09T02:19:50.000Z",
+      "collectedAt": "2026-11-09T09:34:46.441Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "754e1f934d4ea8c7",
+      "title": "Education Minister Drammeh Urges Dippa Kunda Women to Turn Out in Large Numbers for Barrow",
+      "summary": "By Seedy Jobe The Minister of Basic and Secondary Education, Dr. Habibatou Drammeh, has called on women in Dippa Kunda and surrounding communities to turn out in large numbers and vote for President Adama Barrow in the December 5 presidential election, citing his administratio...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/education-minister-drammeh-urges-dippa-kunda-women-to-turn-out-in-large-numbers-for-barrow/",
+      "publishedAt": "2026-11-09T02:11:30.000Z",
+      "collectedAt": "2026-11-09T09:34:46.441Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6d3f4a4fb1829df7",
       "title": "The IEC Can Check Credentials Without Questioning Dignity",
       "summary": "OPINION By Sarjo Barrow, Esq. The nomination period is perhaps the most delicate stage of any election. For a country still finding its feet after years of dictatorship, how public institutions treat people seeking office matters. The Independent Electoral Commission (IEC) mus...",
@@ -1766,7 +1879,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-09T01:35:57.884Z",
+      "collectedAt": "2026-11-09T09:34:44.962Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1789,7 +1902,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambian-music-goes-boring-no-beef-no-drama-no-buzz/",
       "publishedAt": "2026-10-28T03:09:34.000Z",
-      "collectedAt": "2026-11-09T01:35:57.884Z",
+      "collectedAt": "2026-11-09T09:34:44.962Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1810,7 +1923,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/busumbala-tailor-arrested-over-alleged-grpe-of-apprentice/",
       "publishedAt": "2026-10-28T03:06:08.000Z",
-      "collectedAt": "2026-11-09T01:35:57.884Z",
+      "collectedAt": "2026-11-09T09:34:44.962Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1831,7 +1944,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-09T01:35:57.884Z",
+      "collectedAt": "2026-11-09T09:34:44.962Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1854,7 +1967,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/fula-gangstar-wants-to-make-peace-with-star-girl-as-fans-wait-for-the-full-story/",
       "publishedAt": "2026-10-21T02:21:43.000Z",
-      "collectedAt": "2026-11-09T01:35:57.884Z",
+      "collectedAt": "2026-11-09T09:34:44.962Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1875,7 +1988,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-09T01:35:57.884Z",
+      "collectedAt": "2026-11-09T09:34:44.962Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1889,7 +2002,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T01:36:16.805Z",
-    "count": 82
+    "generatedAt": "2026-11-09T09:34:50.550Z",
+    "count": 87
   }
 }
