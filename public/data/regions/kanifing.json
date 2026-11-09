@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "5ac797f1976160b3",
+      "title": "Bensouda steps down as KMC mayor ahead of presidential election",
+      "summary": "By Ndey Sowe Talib Ahmed Bensouda has resigned as mayor of Kanifing Municipal Council, ending more than eight years in office as he prepares for the next stage of his public service through the December 5 presidential election. Bensouda announced his voluntary departure in a f...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/bensouda-steps-down-as-kmc-mayor-ahead-of-presidential-election/",
+      "publishedAt": "2026-11-09T11:57:47.000Z",
+      "collectedAt": "2026-11-09T20:37:52.481Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f13f322b625d695a",
+      "title": "Talib Bensouda says inquiry findings will not stop his presidential bid",
+      "summary": "By Nelson Manneh Talib Ahmed Bensouda says findings against him by the Local Government Commission of Inquiry (LGCI) will not prevent him from contesting the December 5 presidential election. The former Kanifing Municipal Council mayor made the statement on Saturday, November ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/talib-bensouda-says-inquiry-findings-will-not-stop-his-presidential-bid/",
+      "publishedAt": "2026-11-09T11:43:14.000Z",
+      "collectedAt": "2026-11-09T20:37:52.481Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f427bc40367fbfc2",
       "title": "Bensouda Urges Incoming KMC Leadership to Complete Unfinished Development Projects",
       "summary": "By Fatou Sillah Former Kanifing Municipal Council (KMC) Mayor Talib Ahmed Bensouda has urged the council’s incoming leadership to prioritize the completion of several development projects initiated during his administration, saying many are nearing completion. Speaking at a pr...",
@@ -181,7 +227,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T09:34:50.550Z",
-    "count": 8
+    "generatedAt": "2026-11-09T20:38:03.421Z",
+    "count": 10
   }
 }

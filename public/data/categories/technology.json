@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "4c2babe436ae148e",
+      "title": "Ousman Sillah represents Africa at global TVET conference in Brazil",
+      "summary": "Hon. Ousman Sillah, Secretary General of the Sub-Saharan Africa Skills and Apprenticeship Stakeholders Network (SASASNET), represented Africa on a panel at a global conference on technical and vocational education and training (TVET) in São Paulo, Brazil. The UNESCO-UNEVOC con...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/ousman-sillah-represents-africa-at-global-tvet-conference-in-brazil/",
+      "publishedAt": "2026-11-09T11:33:17.000Z",
+      "collectedAt": "2026-11-09T20:37:52.481Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6d3f4a4fb1829df7",
       "title": "The IEC Can Check Credentials Without Questioning Dignity",
       "summary": "OPINION By Sarjo Barrow, Esq. The nomination period is perhaps the most delicate stage of any election. For a country still finding its feet after years of dictatorship, how public institutions treat people seeking office matters. The Independent Electoral Commission (IEC) mus...",
@@ -191,33 +214,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d0f34b3b89a31621",
-      "title": "Joint-Border commission finds colonial boundary pegs in Sandu",
-      "summary": "By Hatab Nyang Boundary teams from The Gambia and Senegal have found four colonial-era markers in Sandu District as work continues to identify and clarify parts of the border between the two countries. The National Council for Arts and Culture (NCAC) said the search was carrie...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/joint-border-commission-finds-colonial-boundary-pegs-in-sandu/",
-      "publishedAt": "2026-11-03T12:50:59.000Z",
-      "collectedAt": "2026-11-03T23:09:14.248Z",
-      "region": "upper-river",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T09:34:50.550Z",
+    "generatedAt": "2026-11-09T20:38:03.421Z",
     "count": 9
   }
 }

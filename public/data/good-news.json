@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "95fc248b7b14c480",
+      "title": "Gambia Participates Launches AI-Powered Marble Elections App to Enhance Electoral Transparency",
+      "summary": "By Makutu Manneh Gambia Participates has launched an upgraded version of its Marble Elections App, incorporating artificial intelligence (AI) to improve access to electoral information, enhance transparency, and strengthen public confidence in The Gambia’s electoral process. T...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-participates-launches-ai-powered-marble-elections-app-to-enhance-electoral-transparency/",
+      "publishedAt": "2026-11-09T18:55:59.000Z",
+      "collectedAt": "2026-11-09T20:37:59.285Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "888ff59c88fb3d07",
+      "title": "Gambia Launches New Tourism Policy, Investment Strategy, and National Brand Identity",
+      "summary": "By Makutu Manneh The Gambia has unveiled a new National Tourism Policy and Strategy, a marketing and investment promotion framework, six priority investment projects and a national tourism brand logo as part of a broader effort to diversify the sector, attract investment and s...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-launches-new-tourism-policy-investment-strategy-and-national-brand-identity/",
+      "publishedAt": "2026-11-09T18:49:31.000Z",
+      "collectedAt": "2026-11-09T20:37:59.285Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d482d933f765b3e7",
       "title": "Yellow Wave Prepares to Storm IEC",
       "summary": "UDP Finalizes Darboe’s Nomination Papers Ahead of Key Electoral Milestone A vibrant sea of yellow banners and chanting crowds lined Bertil Harding Highway outside the United Democratic Party (UDP) secretariat, as the main opposition party finalized logistics and documentation ...",
@@ -420,7 +466,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-09T09:34:44.962Z",
+      "collectedAt": "2026-11-09T20:37:52.732Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -434,7 +480,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T09:34:50.550Z",
-    "count": 19
+    "generatedAt": "2026-11-09T20:38:03.421Z",
+    "count": 21
   }
 }

@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "52d4ee037d9e1eb5",
+      "title": "Darboe Submits Final Presidential Nomination Papers, Pledges One Term to Deliver Reforms",
+      "summary": "By Makutu Manneh Veteran opposition leader Ousainu Darboe has announced that Monday’s submission of his presidential nomination papers to the Independent Electoral Commission (IEC) will be his last, marking a significant moment in a political career spanning three decades at t...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-submits-final-presidential-nomination-papers-pledges-one-term-to-deliver-reforms/",
+      "publishedAt": "2026-11-09T18:22:18.000Z",
+      "collectedAt": "2026-11-09T20:37:59.285Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "864c18eaa37a6139",
+      "title": "Darboe Urges Gambians, Journalists to Study Constitution Over One-Term Pledge",
+      "summary": "Written by: Dawda Baldeh United Democratic Party (UDP) leader Ousainou Darboe has urged Gambians, including journalists, to familiarise themselves with the country’s Constitution, stressing the importance of understanding its provisions before drawing conclusions on political ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-urges-gambians-journalists-to-study-constitution-over-one-term-pledge/",
+      "publishedAt": "2026-11-09T11:23:24.000Z",
+      "collectedAt": "2026-11-09T20:37:52.974Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eb83ddf25fa9e281",
       "title": "Mayor Lowe Urges Women to Vote for Change, Citing Killings, Migrant Deaths, and Water Shortages",
       "summary": "By Seedy Jobe Banjul Mayor Rohey Malick Lowe has urged Gambian women and young people to use their votes to demand change, citing growing concerns over insecurity, deaths along irregular migration routes and inadequate access to basic services.Speaking at a United Democratic P...",
@@ -171,7 +220,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T09:34:50.550Z",
-    "count": 7
+    "generatedAt": "2026-11-09T20:38:03.421Z",
+    "count": 9
   }
 }

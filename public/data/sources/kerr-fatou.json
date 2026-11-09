@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "id": "95fc248b7b14c480",
+      "title": "Gambia Participates Launches AI-Powered Marble Elections App to Enhance Electoral Transparency",
+      "summary": "By Makutu Manneh Gambia Participates has launched an upgraded version of its Marble Elections App, incorporating artificial intelligence (AI) to improve access to electoral information, enhance transparency, and strengthen public confidence in The Gambia’s electoral process. T...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-participates-launches-ai-powered-marble-elections-app-to-enhance-electoral-transparency/",
+      "publishedAt": "2026-11-09T18:55:59.000Z",
+      "collectedAt": "2026-11-09T20:37:59.285Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "888ff59c88fb3d07",
+      "title": "Gambia Launches New Tourism Policy, Investment Strategy, and National Brand Identity",
+      "summary": "By Makutu Manneh The Gambia has unveiled a new National Tourism Policy and Strategy, a marketing and investment promotion framework, six priority investment projects and a national tourism brand logo as part of a broader effort to diversify the sector, attract investment and s...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-launches-new-tourism-policy-investment-strategy-and-national-brand-identity/",
+      "publishedAt": "2026-11-09T18:49:31.000Z",
+      "collectedAt": "2026-11-09T20:37:59.285Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c9d66fedd8240390",
+      "title": "President Barrow Receives New Chinese Ambassador, Pledges Stronger Bilateral Ties",
+      "summary": "By Makutu Manneh President Adama Barrow has received the newly appointed Chinese Ambassador to The Gambia, Xiao Yewen, at the State House in Banjul, reaffirming his government’s commitment to strengthening diplomatic relations and expanding cooperation between the two countrie...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-receives-new-chinese-ambassador-pledges-stronger-bilateral-ties/",
+      "publishedAt": "2026-11-09T18:43:15.000Z",
+      "collectedAt": "2026-11-09T20:37:59.285Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ef8c93e7d94f7c5c",
+      "title": "Independent Aspirant Abdou Dampha Submits Nomination Papers, Pledges Politics of Hope",
+      "summary": "By Makutu Manneh Independent presidential aspirant Abdou Dampha on Monday submitted his nomination papers to the Independent Electoral Commission (IEC), pledging to promote a politics of hope, economic inclusion, and equal opportunity ahead of The Gambia’s December 5 president...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/independent-aspirant-abdou-dampha-submits-nomination-papers-pledges-politics-of-hope/",
+      "publishedAt": "2026-11-09T18:29:06.000Z",
+      "collectedAt": "2026-11-09T20:37:59.285Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "52d4ee037d9e1eb5",
+      "title": "Darboe Submits Final Presidential Nomination Papers, Pledges One Term to Deliver Reforms",
+      "summary": "By Makutu Manneh Veteran opposition leader Ousainu Darboe has announced that Monday’s submission of his presidential nomination papers to the Independent Electoral Commission (IEC) will be his last, marking a significant moment in a political career spanning three decades at t...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-submits-final-presidential-nomination-papers-pledges-one-term-to-deliver-reforms/",
+      "publishedAt": "2026-11-09T18:22:18.000Z",
+      "collectedAt": "2026-11-09T20:37:59.285Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "792589c222e28e14",
       "title": "Local Government Service Commission Suspends Four Council CEOs Following White Paper Findings",
       "summary": "Staff Writer The Local Government Service Commission (LGSC) has initiated a sweeping disciplinary crackdown across the country’s local government administration, issuing formal suspension letters to Chief Executive Officers across multiple councils, including those of Banjul, ...",
@@ -1117,7 +1234,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T09:34:50.550Z",
-    "count": 48
+    "generatedAt": "2026-11-09T20:38:03.421Z",
+    "count": 53
   }
 }

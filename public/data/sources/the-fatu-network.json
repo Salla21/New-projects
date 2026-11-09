@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "864c18eaa37a6139",
+      "title": "Darboe Urges Gambians, Journalists to Study Constitution Over One-Term Pledge",
+      "summary": "Written by: Dawda Baldeh United Democratic Party (UDP) leader Ousainou Darboe has urged Gambians, including journalists, to familiarise themselves with the country’s Constitution, stressing the importance of understanding its provisions before drawing conclusions on political ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-urges-gambians-journalists-to-study-constitution-over-one-term-pledge/",
+      "publishedAt": "2026-11-09T11:23:24.000Z",
+      "collectedAt": "2026-11-09T20:37:52.974Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6d3f4a4fb1829df7",
       "title": "The IEC Can Check Credentials Without Questioning Dignity",
       "summary": "OPINION By Sarjo Barrow, Esq. The nomination period is perhaps the most delicate stage of any election. For a country still finding its feet after years of dictatorship, how public institutions treat people seeking office matters. The Independent Electoral Commission (IEC) mus...",
@@ -418,7 +443,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T09:34:50.550Z",
-    "count": 18
+    "generatedAt": "2026-11-09T20:38:03.421Z",
+    "count": 19
   }
 }
