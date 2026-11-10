@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "7e62a6050c807f9c",
+      "title": "Farmers Urge Better Prices as Groundnut Harvest Improves",
+      "summary": "By Lamin Fatty What began as a season of fear and sleepless nights for farmers in parts of The Gambia is turning into a period of hope as the groundnut harvest gets underway. Farmers in the Upper River Region (URR) and Central River Region (CRR) say the rains came late, then s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/farmers-urge-better-prices-as-groundnut-harvest-improves/",
+      "publishedAt": "2026-11-10T12:25:18.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "661bd605642b0a65",
+      "title": "Commuters report higher fares and long waits during nomination period",
+      "summary": "By Nelson Manneh Commuters at Brikama car park say they are facing higher fares and long waits as people travel to attend presidential nomination events. The nomination period for the December 5, 2026 election runs from November 3 to 14. The Independent Electoral Commission is...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/commuters-report-higher-fares-and-long-waits-during-nomination-period/",
+      "publishedAt": "2026-11-10T11:38:00.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c40950c364c2049c",
       "title": "Lamin J. Darboe Pledges New Constitution Within 18 Months, Rules Out Second Term",
       "summary": "By Fatou Sillah Lamin J. Darboe, presidential candidate of Team Gambia Coalition, has pledged to introduce a new constitution within 18 months of taking office if elected, promising to establish a two-term presidential limit and strengthen safeguards against the concentration ...",
@@ -328,7 +373,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-10T04:02:44.317Z",
+      "collectedAt": "2026-11-10T14:46:15.025Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -342,7 +387,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T04:02:56.407Z",
-    "count": 15
+    "generatedAt": "2026-11-10T14:46:21.032Z",
+    "count": 17
   }
 }

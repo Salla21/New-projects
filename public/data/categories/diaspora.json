@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6c0cf22934fbd1b0",
+      "title": "Lawyer Ousainou Darboe submits all required nomination documents",
+      "summary": "By Mariama Marong United Democratic Party leader Ousainou Darboe has submitted all documents required for his presidential nomination, Independent Electoral Commission chairperson Joseph Colley says. Darboe filed his papers ahead of the December 5, 2026 election. The IEC’s nom...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/lawyer-ousainou-darboe-submits-all-required-nomination-documents/",
+      "publishedAt": "2026-11-10T11:50:26.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a5ba26282871fcf5",
       "title": "“You Can Imitate Us, but You Cannot Match Us,” Darboe Tells Political Rivals",
       "summary": "By Seedy Jobe United Democratic Party (UDP) leader and GFC-UDP alliance presidential candidate Ousainu Darboe has declared that political rivals may attempt to imitate his alliance but cannot match its strength, authenticity, or popular support. Speaking on Monday at the allia...",
@@ -218,34 +242,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "cbe857daff23dd9f",
-      "title": "GAP Flagbearer Bassamba Drammeh Withdraws From Presidential Race, Endorses UDP’s Ousainou Darboe",
-      "summary": "By Seedy Jobe Gambia Action Party (GAP) flagbearer Bassamba Drammeh has ended his bid for the presidency and endorsed the United Democratic Party (UDP) and its leader, Ousainou Darboe, ahead of the 5 December presidential election. Drammeh announced the decision at a press con...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gap-leader-bassamba-drammeh-withdraws-from-presidential-race-endorses-udps-ousainou-darboe/",
-      "publishedAt": "2026-11-03T21:11:12.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T04:02:56.407Z",
+    "generatedAt": "2026-11-10T14:46:21.032Z",
     "count": 10
   }
 }

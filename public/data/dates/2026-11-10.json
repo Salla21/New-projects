@@ -1,6 +1,238 @@
 {
   "items": [
     {
+      "id": "7e62a6050c807f9c",
+      "title": "Farmers Urge Better Prices as Groundnut Harvest Improves",
+      "summary": "By Lamin Fatty What began as a season of fear and sleepless nights for farmers in parts of The Gambia is turning into a period of hope as the groundnut harvest gets underway. Farmers in the Upper River Region (URR) and Central River Region (CRR) say the rains came late, then s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/farmers-urge-better-prices-as-groundnut-harvest-improves/",
+      "publishedAt": "2026-11-10T12:25:18.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "205cf3e7c8d2a8d9",
+      "title": "IEC says 12 presidential aspirants submit papers as six withdraw",
+      "summary": "By Mariama Marong Twelve of 18 presidential aspirants submitted nomination papers by Monday, November 9, while six withdrew from the process, the Independent Electoral Commission (IEC) says. IEC chairperson Joseph Colley said the nomination period began on November 3 and will ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-says-12-presidential-aspirants-submit-papers-as-six-withdraw/",
+      "publishedAt": "2026-11-10T12:24:23.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "58945da8d8ea2db4",
+      "title": "Gambia Bar Association calls on Judiciary to hear its case challenging constitutionality of Chief Justice’s appointment",
+      "summary": "Press release: 9 November 2026 FAILURE TO ASSIGN CONSTITUTIONAL SUIT CHALLENGING THE APPOINTMENT OF THE CHIEF JUSTICE The Gambia Bar Association (GBA) expresses its gravest concern and profound disappointment over the continued failure of the Judiciary to assign or take any me...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-bar-association-calls-on-judiciary-to-hear-its-case-challenging-constitutionality-of-chief-justices-appointment/",
+      "publishedAt": "2026-11-10T12:15:03.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6c0cf22934fbd1b0",
+      "title": "Lawyer Ousainou Darboe submits all required nomination documents",
+      "summary": "By Mariama Marong United Democratic Party leader Ousainou Darboe has submitted all documents required for his presidential nomination, Independent Electoral Commission chairperson Joseph Colley says. Darboe filed his papers ahead of the December 5, 2026 election. The IEC’s nom...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/lawyer-ousainou-darboe-submits-all-required-nomination-documents/",
+      "publishedAt": "2026-11-10T11:50:26.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "661bd605642b0a65",
+      "title": "Commuters report higher fares and long waits during nomination period",
+      "summary": "By Nelson Manneh Commuters at Brikama car park say they are facing higher fares and long waits as people travel to attend presidential nomination events. The nomination period for the December 5, 2026 election runs from November 3 to 14. The Independent Electoral Commission is...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/commuters-report-higher-fares-and-long-waits-during-nomination-period/",
+      "publishedAt": "2026-11-10T11:38:00.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2ca693820baf4688",
+      "title": "GRA & WCO draft new rules for post-clearance customs audits",
+      "summary": "By Ndey Sowe The Gambia Revenue Authority (GRA) and the World Customs Organization (WCO) have begun work on regulations and an operational manual for post-clearance audits, a system that checks customs compliance after imported goods have been released. The five-day workshop, ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gra-wco-draft-new-rules-for-post-clearance-customs-audits/",
+      "publishedAt": "2026-11-10T11:33:21.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7046d8afef1a97bf",
+      "title": "The Law Already Provides a Way Forward: Moving the Chief Justice Case Without the Chief Justice",
+      "summary": "ANALYSIS Sarjo Barrow, Esq. On July 31, 2026, the Gambia Bar Association filed a suit in the Supreme Court asking whether Chief Justice Edi M.O. Faal meets the constitutional qualifications for his office. According to the Bar’s public statement of November 9, the case has yet...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-law-already-provides-a-way-forward-moving-the-chief-justice-case-without-the-chief-justice/",
+      "publishedAt": "2026-11-10T11:30:34.000Z",
+      "collectedAt": "2026-11-10T14:46:15.241Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "60ff467aa9a99ed6",
+      "title": "WHAT ARE THE NEW TAX MEASURES FOR 2027?",
+      "summary": "(PART 2) Every year, the Government reviews the tax measures in place and comes up with new measures to revise or introduce new tax measures which would require the approval of the National Assembly. We have already dealt with three of them in the last edition. Below are the r...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-are-the-new-tax-measures-for-2027/",
+      "publishedAt": "2026-11-10T11:22:09.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2f551efbd0b1b60a",
+      "title": "PRESIDENTIAL ELECTION: THE MOMENTUM IS ON",
+      "summary": "On December 5, 2026, Gambians will either be on the same page or turn a new page. That is for the Gambian electorate to decide. If the turnout during nomination is to go by, loyal party supporters are in the minority. They are yet to be able to fill a football field. We have t...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/presidential-election-the-momentum-is-on/",
+      "publishedAt": "2026-11-10T11:20:40.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "152175938a3fa2d5",
+      "title": "€165,000 Debt: When a Private Loan Raises Questions About Legal Certainty in The Gambia",
+      "summary": "Written by: Seringe S.T. Touray A new lawsuit against Ebrima Solomon Tamba, a Gambian businessman and shareholder in Kasumai Real Estate, the company behind Bitcoin Tower and The Edge apartment developments with Austrian investors, raises questions about contracts, property ri...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/e165000-debt-when-a-private-loan-raises-questions-about-legal-certainty-in-the-gambia/",
+      "publishedAt": "2026-11-10T09:22:40.000Z",
+      "collectedAt": "2026-11-10T14:46:15.241Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c40950c364c2049c",
       "title": "Lamin J. Darboe Pledges New Constitution Within 18 Months, Rules Out Second Term",
       "summary": "By Fatou Sillah Lamin J. Darboe, presidential candidate of Team Gambia Coalition, has pledged to introduce a new constitution within 18 months of taking office if elected, promising to establish a two-term presidential limit and strengthen safeguards against the concentration ...",
@@ -50,7 +282,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T04:02:56.407Z",
-    "count": 2
+    "generatedAt": "2026-11-10T14:46:21.032Z",
+    "count": 12
   }
 }

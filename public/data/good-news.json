@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "7e62a6050c807f9c",
+      "title": "Farmers Urge Better Prices as Groundnut Harvest Improves",
+      "summary": "By Lamin Fatty What began as a season of fear and sleepless nights for farmers in parts of The Gambia is turning into a period of hope as the groundnut harvest gets underway. Farmers in the Upper River Region (URR) and Central River Region (CRR) say the rains came late, then s...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/farmers-urge-better-prices-as-groundnut-harvest-improves/",
+      "publishedAt": "2026-11-10T12:25:18.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "152175938a3fa2d5",
+      "title": "€165,000 Debt: When a Private Loan Raises Questions About Legal Certainty in The Gambia",
+      "summary": "Written by: Seringe S.T. Touray A new lawsuit against Ebrima Solomon Tamba, a Gambian businessman and shareholder in Kasumai Real Estate, the company behind Bitcoin Tower and The Edge apartment developments with Austrian investors, raises questions about contracts, property ri...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/e165000-debt-when-a-private-loan-raises-questions-about-legal-certainty-in-the-gambia/",
+      "publishedAt": "2026-11-10T09:22:40.000Z",
+      "collectedAt": "2026-11-10T14:46:15.241Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "95fc248b7b14c480",
       "title": "Gambia Participates Launches AI-Powered Marble Elections App to Enhance Electoral Transparency",
       "summary": "By Makutu Manneh Gambia Participates has launched an upgraded version of its Marble Elections App, incorporating artificial intelligence (AI) to improve access to electoral information, enhance transparency, and strengthen public confidence in The Gambia’s electoral process. T...",
@@ -420,7 +464,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-10T04:02:44.317Z",
+      "collectedAt": "2026-11-10T14:46:15.025Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -434,7 +478,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T04:02:56.407Z",
-    "count": 19
+    "generatedAt": "2026-11-10T14:46:21.032Z",
+    "count": 21
   }
 }

@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "661bd605642b0a65",
+      "title": "Commuters report higher fares and long waits during nomination period",
+      "summary": "By Nelson Manneh Commuters at Brikama car park say they are facing higher fares and long waits as people travel to attend presidential nomination events. The nomination period for the December 5, 2026 election runs from November 3 to 14. The Independent Electoral Commission is...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/commuters-report-higher-fares-and-long-waits-during-nomination-period/",
+      "publishedAt": "2026-11-10T11:38:00.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2ca693820baf4688",
+      "title": "GRA & WCO draft new rules for post-clearance customs audits",
+      "summary": "By Ndey Sowe The Gambia Revenue Authority (GRA) and the World Customs Organization (WCO) have begun work on regulations and an operational manual for post-clearance audits, a system that checks customs compliance after imported goods have been released. The five-day workshop, ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gra-wco-draft-new-rules-for-post-clearance-customs-audits/",
+      "publishedAt": "2026-11-10T11:33:21.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2f551efbd0b1b60a",
+      "title": "PRESIDENTIAL ELECTION: THE MOMENTUM IS ON",
+      "summary": "On December 5, 2026, Gambians will either be on the same page or turn a new page. That is for the Gambian electorate to decide. If the turnout during nomination is to go by, loyal party supporters are in the minority. They are yet to be able to fill a football field. We have t...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/presidential-election-the-momentum-is-on/",
+      "publishedAt": "2026-11-10T11:20:40.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a5ba26282871fcf5",
       "title": "“You Can Imitate Us, but You Cannot Match Us,” Darboe Tells Political Rivals",
       "summary": "By Seedy Jobe United Democratic Party (UDP) leader and GFC-UDP alliance presidential candidate Ousainu Darboe has declared that political rivals may attempt to imitate his alliance but cannot match its strength, authenticity, or popular support. Speaking on Monday at the allia...",
@@ -575,30 +647,6 @@
       "status": "published"
     },
     {
-      "id": "51e4c72223d982c6",
-      "title": "Coalition 2026 Threatens Street Protests if Bensouda Is Barred From Presidential Election",
-      "summary": "By Fatou Sillah Assan Martin, spokesperson for Coalition 2026, has warned that the coalition will mobilize supporters for street protests if authorities attempt to prevent its presidential candidate, Talib Ahmed Bensouda, from contesting the December 5 presidential election. S...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/coalition-2026-threatens-street-protests-if-bensouda-is-barred-from-presidential-election/",
-      "publishedAt": "2026-11-03T21:05:09.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -607,7 +655,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-10T04:02:44.317Z",
+      "collectedAt": "2026-11-10T14:46:15.025Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -623,7 +671,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T04:02:56.407Z",
-    "count": 26
+    "generatedAt": "2026-11-10T14:46:21.032Z",
+    "count": 28
   }
 }

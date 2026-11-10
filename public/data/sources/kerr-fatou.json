@@ -1066,81 +1066,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4c2c3f79fd5576fd",
-      "title": "Lands Minister Defends Allocation to Barrow’s Company, Says President Received Only One Plot",
-      "summary": "By Makutu Manneh Hamat N.K. Bah, Minister of Lands, Regional Government and Religious Affairs, has defended the allocation of state land to a company associated with President Adama Barrow, insisting that the company is entitled to land under the same conditions as other busin...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lands-minister-defends-allocation-to-barrows-company-says-president-received-only-one-plot/",
-      "publishedAt": "2026-11-03T21:16:40.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cbe857daff23dd9f",
-      "title": "GAP Flagbearer Bassamba Drammeh Withdraws From Presidential Race, Endorses UDP’s Ousainou Darboe",
-      "summary": "By Seedy Jobe Gambia Action Party (GAP) flagbearer Bassamba Drammeh has ended his bid for the presidency and endorsed the United Democratic Party (UDP) and its leader, Ousainou Darboe, ahead of the 5 December presidential election. Drammeh announced the decision at a press con...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gap-leader-bassamba-drammeh-withdraws-from-presidential-race-endorses-udps-ousainou-darboe/",
-      "publishedAt": "2026-11-03T21:11:12.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "51e4c72223d982c6",
-      "title": "Coalition 2026 Threatens Street Protests if Bensouda Is Barred From Presidential Election",
-      "summary": "By Fatou Sillah Assan Martin, spokesperson for Coalition 2026, has warned that the coalition will mobilize supporters for street protests if authorities attempt to prevent its presidential candidate, Talib Ahmed Bensouda, from contesting the December 5 presidential election. S...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/coalition-2026-threatens-street-protests-if-bensouda-is-barred-from-presidential-election/",
-      "publishedAt": "2026-11-03T21:05:09.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T04:02:56.407Z",
-    "count": 49
+    "generatedAt": "2026-11-10T14:46:21.032Z",
+    "count": 46
   }
 }

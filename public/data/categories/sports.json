@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "2f551efbd0b1b60a",
+      "title": "PRESIDENTIAL ELECTION: THE MOMENTUM IS ON",
+      "summary": "On December 5, 2026, Gambians will either be on the same page or turn a new page. That is for the Gambian electorate to decide. If the turnout during nomination is to go by, loyal party supporters are in the minority. They are yet to be able to fill a football field. We have t...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/presidential-election-the-momentum-is-on/",
+      "publishedAt": "2026-11-10T11:20:40.000Z",
+      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "107d95527ad62228",
       "title": "A New Thinking for Gambian Football: Why football clubs must move beyond fixtures and results to embrace storytelling as strategy",
       "summary": "Why football clubs must move beyond fixtures and results to embrace storytelling as strategy By ML Drammeh What if the most powerful tool in Gambian football sits not on the pitch, but in the hands of the person who tells the club’s story? While coaches chase tactics and playe...",
@@ -25,7 +50,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T04:02:56.407Z",
-    "count": 1
+    "generatedAt": "2026-11-10T14:46:21.032Z",
+    "count": 2
   }
 }
