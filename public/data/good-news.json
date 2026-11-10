@@ -412,52 +412,6 @@
       "status": "published"
     },
     {
-      "id": "b5d9c27210c43e3b",
-      "title": "APC Presidential Aspirant Sima Files Nomination, Pledges Development-Focused First 100 Days",
-      "summary": "By Makutu Manneh Momodou Lamin Sima, presidential aspirant for the Alliance of Progressive Citizens (APC), formally submitted his nomination papers to the Independent Electoral Commission (IEC) on Tuesday, pledging to prioritize institutional reforms and national development d...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/apc-presidential-aspirant-sima-files-nomination-pledges-development-focused-first-100-days/",
-      "publishedAt": "2026-11-03T17:49:08.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d757e80cb7d36b7a",
-      "title": "Inquiry finds gaps in KMC procurements as three officials face different outcomes",
-      "summary": "A former Kanifing Municipal Council procurement manager is to face disciplinary proceedings over gaps in procurement records, while the Government has cleared a former colleague who said she resisted improper instructions. A third officer, Yankuba Njie, also faces disciplinary...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/inquiry-finds-gaps-in-kmc-procurements-as-three-officials-face-different-outcomes/",
-      "publishedAt": "2026-11-03T13:23:42.000Z",
-      "collectedAt": "2026-11-03T23:09:14.248Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -466,7 +420,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-09T20:37:52.732Z",
+      "collectedAt": "2026-11-10T04:02:44.317Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -480,7 +434,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T20:38:03.421Z",
-    "count": 21
+    "generatedAt": "2026-11-10T04:02:56.407Z",
+    "count": 19
   }
 }

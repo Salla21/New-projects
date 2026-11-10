@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "a5ba26282871fcf5",
+      "title": "“You Can Imitate Us, but You Cannot Match Us,” Darboe Tells Political Rivals",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader and GFC-UDP alliance presidential candidate Ousainu Darboe has declared that political rivals may attempt to imitate his alliance but cannot match its strength, authenticity, or popular support. Speaking on Monday at the allia...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/you-can-imitate-us-but-you-cannot-match-us-darboe-tells-political-rivals/",
+      "publishedAt": "2026-11-10T00:55:32.000Z",
+      "collectedAt": "2026-11-10T04:02:52.265Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "888ff59c88fb3d07",
       "title": "Gambia Launches New Tourism Policy, Investment Strategy, and National Brand Identity",
       "summary": "By Makutu Manneh The Gambia has unveiled a new National Tourism Policy and Strategy, a marketing and investment promotion framework, six priority investment projects and a national tourism brand logo as part of a broader effort to diversify the sector, attract investment and s...",
@@ -574,76 +599,6 @@
       "status": "published"
     },
     {
-      "id": "39321238d926b267",
-      "title": "UNITE Now Gambia’s Largest Political Party, Ebrima Dibba Claims Following Nationwide Tour",
-      "summary": "By Seedy Jobe Ebrima Dibba, national president of the United for Integrity, Transformation and Equality (UNITE) Party, has claimed that the party’s recent nationwide tour has established it as the largest political organization in The Gambia, citing growing public support and ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/unite-now-gambias-largest-political-party-ebrima-dibba-claims-following-nationwide-tour/",
-      "publishedAt": "2026-11-03T17:32:12.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8ca0e88b72847828",
-      "title": "UNITE Legal Secretary Aziz Bensouda Alleges Government Altered Commission Report to Undermine Talib’s Candidacy",
-      "summary": "Written by: Seringe S.T. Touray UNITE Legal Secretary Aziz Bensouda has challenged the government’s White Paper on the Local Government Commission of Inquiry, alleging that it deliberately misrepresents the commission’s findings to create confusion and potentially prevent Tali...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/unite-legal-secretary-aziz-bensouda-alleges-government-altered-commission-report-to-undermine-talibs-candidacy/",
-      "publishedAt": "2026-11-03T16:57:20.000Z",
-      "collectedAt": "2026-11-03T23:09:14.621Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2326693ef35cc1c2",
-      "title": "KMC cashier faces audit of over D140 million in payments without matching vouchers",
-      "summary": "A former Kanifing Municipal Council cashier is facing a forensic audit after an inquiry found that more than D140m in cheques cashed in his name could not be matched to supporting vouchers. Saihou Sabally told the Commission of Inquiry that he cashed cheques authorised by the ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/kmc-cashier-faces-audit-of-over-d140-million-in-payments-without-matching-vouchers/",
-      "publishedAt": "2026-11-03T13:34:52.000Z",
-      "collectedAt": "2026-11-03T23:09:14.248Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "0fc306e42fa41a00",
       "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
       "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
@@ -652,7 +607,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-09T20:37:52.732Z",
+      "collectedAt": "2026-11-10T04:02:44.317Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -668,7 +623,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T20:38:03.421Z",
-    "count": 28
+    "generatedAt": "2026-11-10T04:02:56.407Z",
+    "count": 26
   }
 }

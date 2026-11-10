@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "a5ba26282871fcf5",
+      "title": "“You Can Imitate Us, but You Cannot Match Us,” Darboe Tells Political Rivals",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader and GFC-UDP alliance presidential candidate Ousainu Darboe has declared that political rivals may attempt to imitate his alliance but cannot match its strength, authenticity, or popular support. Speaking on Monday at the allia...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/you-can-imitate-us-but-you-cannot-match-us-darboe-tells-political-rivals/",
+      "publishedAt": "2026-11-10T00:55:32.000Z",
+      "collectedAt": "2026-11-10T04:02:52.265Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "52d4ee037d9e1eb5",
       "title": "Darboe Submits Final Presidential Nomination Papers, Pledges One Term to Deliver Reforms",
       "summary": "By Makutu Manneh Veteran opposition leader Ousainu Darboe has announced that Monday’s submission of his presidential nomination papers to the Independent Electoral Commission (IEC) will be his last, marking a significant moment in a political career spanning three decades at t...",
@@ -220,7 +245,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T20:38:03.421Z",
-    "count": 9
+    "generatedAt": "2026-11-10T04:02:56.407Z",
+    "count": 10
   }
 }

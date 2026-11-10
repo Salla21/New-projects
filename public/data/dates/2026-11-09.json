@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "bbd23260fa34ad1e",
+      "title": "Gambian journalist Sheriff Bojang Jr named among Africa’s 50 influential media voices",
+      "summary": "Gambian journalist Sheriff Bojang Jr has been named among 50 media personalities recognised in the 2026 Africa Media Power 50, a pan-African initiative celebrating journalists, editors, broadcasters and media entrepreneurs shaping the continent’s public conversation. The list,...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambian-journalist-sheriff-bojang-jr-named-among-africas-50-influential-media-voices/",
+      "publishedAt": "2026-11-09T22:52:00.000Z",
+      "collectedAt": "2026-11-10T04:02:52.265Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "46aebc01eb9a0eb3",
+      "title": "Mustapha Jadama wins Gambia’s first Olympic medal",
+      "summary": "By Momodou Jarju Young Gambian athlete Mustapha Jadama  Monday won a silver medal in the final of the men’s 400m at the Dakar 2026 Youth Olympic Games at the Complex Iba Mar Diop, Senegal. With the win, Jadama made history by becoming the first Gambian to win an Olympic medal ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/mustapha-jadama-wins-gambias-first-olympic-medal/",
+      "publishedAt": "2026-11-09T21:06:25.000Z",
+      "collectedAt": "2026-11-10T04:02:43.996Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "95fc248b7b14c480",
       "title": "Gambia Participates Launches AI-Powered Marble Elections App to Enhance Electoral Transparency",
       "summary": "By Makutu Manneh Gambia Participates has launched an upgraded version of its Marble Elections App, incorporating artificial intelligence (AI) to improve access to electoral information, enhance transparency, and strengthen public confidence in The Gambia’s electoral process. T...",
@@ -465,7 +507,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T20:38:03.421Z",
-    "count": 20
+    "generatedAt": "2026-11-10T04:02:56.407Z",
+    "count": 22
   }
 }

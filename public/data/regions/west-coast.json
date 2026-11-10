@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "c40950c364c2049c",
+      "title": "Lamin J. Darboe Pledges New Constitution Within 18 Months, Rules Out Second Term",
+      "summary": "By Fatou Sillah Lamin J. Darboe, presidential candidate of Team Gambia Coalition, has pledged to introduce a new constitution within 18 months of taking office if elected, promising to establish a two-term presidential limit and strengthen safeguards against the concentration ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-j-darboe-pledges-new-constitution-within-18-months-rules-out-second-term/",
+      "publishedAt": "2026-11-10T01:01:03.000Z",
+      "collectedAt": "2026-11-10T04:02:52.265Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6ad2b284861121ca",
       "title": "BAC Chairman Says Council Has Awarded Over 1,000 Scholarships, Pledges Expansion to KMC Under UDP Government",
       "summary": "By Seedy Jobe Brikama Area Council (BAC) Chairman Yankuba Darboe has disclosed that more than 1,000 students have benefited from the council’s scholarship programme since its introduction in 2024, highlighting the initiative as part of efforts to expand access to higher educat...",
@@ -297,52 +320,6 @@
       "status": "published"
     },
     {
-      "id": "b5d9c27210c43e3b",
-      "title": "APC Presidential Aspirant Sima Files Nomination, Pledges Development-Focused First 100 Days",
-      "summary": "By Makutu Manneh Momodou Lamin Sima, presidential aspirant for the Alliance of Progressive Citizens (APC), formally submitted his nomination papers to the Independent Electoral Commission (IEC) on Tuesday, pledging to prioritize institutional reforms and national development d...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/apc-presidential-aspirant-sima-files-nomination-pledges-development-focused-first-100-days/",
-      "publishedAt": "2026-11-03T17:49:08.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "fb5ce300d869c1a7",
-      "title": "SPOTLIGHT: Muhammed Alamin Trawally’s Vision to Make The Gambia an International Hub for Peace",
-      "summary": "Published by: The Fatu Network Muhammed Alamin Trawally is a Gambian peace advocate, policy entrepreneur, law student and founder of the Gambia Peace Project, an initiative seeking to position The Gambia as a leading African centre for peacebuilding, responsible citizenship, s...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/spotlight-muhammed-alamin-trawallys-vision-to-make-the-gambia-an-international-hub-for-peace/",
-      "publishedAt": "2026-11-03T17:33:31.000Z",
-      "collectedAt": "2026-11-03T23:09:14.621Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "98b8ee0bd6e69465",
       "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
       "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
@@ -351,7 +328,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-09T20:37:52.732Z",
+      "collectedAt": "2026-11-10T04:02:44.317Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -365,7 +342,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T20:38:03.421Z",
-    "count": 16
+    "generatedAt": "2026-11-10T04:02:56.407Z",
+    "count": 15
   }
 }

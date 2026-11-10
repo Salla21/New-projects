@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "c40950c364c2049c",
+      "title": "Lamin J. Darboe Pledges New Constitution Within 18 Months, Rules Out Second Term",
+      "summary": "By Fatou Sillah Lamin J. Darboe, presidential candidate of Team Gambia Coalition, has pledged to introduce a new constitution within 18 months of taking office if elected, promising to establish a two-term presidential limit and strengthen safeguards against the concentration ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-j-darboe-pledges-new-constitution-within-18-months-rules-out-second-term/",
+      "publishedAt": "2026-11-10T01:01:03.000Z",
+      "collectedAt": "2026-11-10T04:02:52.265Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a5ba26282871fcf5",
+      "title": "“You Can Imitate Us, but You Cannot Match Us,” Darboe Tells Political Rivals",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader and GFC-UDP alliance presidential candidate Ousainu Darboe has declared that political rivals may attempt to imitate his alliance but cannot match its strength, authenticity, or popular support. Speaking on Monday at the allia...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/you-can-imitate-us-but-you-cannot-match-us-darboe-tells-political-rivals/",
+      "publishedAt": "2026-11-10T00:55:32.000Z",
+      "collectedAt": "2026-11-10T04:02:52.265Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "95fc248b7b14c480",
       "title": "Gambia Participates Launches AI-Powered Marble Elections App to Enhance Electoral Transparency",
       "summary": "By Makutu Manneh Gambia Participates has launched an upgraded version of its Marble Elections App, incorporating artificial intelligence (AI) to improve access to electoral information, enhance transparency, and strengthen public confidence in The Gambia’s electoral process. T...",
@@ -1828,261 +1876,6 @@
       "status": "published"
     },
     {
-      "id": "a18e1bc2851b6212",
-      "title": "Aziz Bensouda Accuses Government of Distorting Commission Findings to Undermine Talib’s Candidacy",
-      "summary": "By Fatou Sillah Abdul Aziz Bensouda, Secretary for Legal and Constitutional Affairs of UNITE Party, has accused the government of misrepresenting the findings of the Local Government Commission of Inquiry in its White Paper, alleging that the document was deliberately presente...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/aziz-bensouda-accuses-government-of-distorting-commission-findings-to-undermine-talibs-candidacy/",
-      "publishedAt": "2026-11-03T20:58:11.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5232007a492443aa",
-      "title": "Sait Matty Jaw Urges Public Scrutiny of Presidential Nominations, Warns of Challenges Ahead",
-      "summary": "By Seedy Jobe Sait Matty Jaw, Executive Director of the Centre for Research and Policy Development, has urged Gambians to closely monitor the presidential nomination process, describing it as a critical stage in ensuring credible, transparent, and inclusive elections. Speaking...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sait-matty-jaw-urges-public-scrutiny-of-presidential-nominations-warns-of-challenges-ahead/",
-      "publishedAt": "2026-11-03T20:42:07.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "89f803388472e4f5",
-      "title": "Dr. Ceesay Denies Government Rushed White Paper to Block Bensouda’s Presidential Bid",
-      "summary": "By Fatou Sillah The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, has dismissed allegations that the government deliberately expedited the publication of its White Paper on the Local Government Commission of Inquiry to prevent Coalition 2026 pre...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-denies-government-rushed-white-paper-to-block-bensoudas-presidential-bid/",
-      "publishedAt": "2026-11-03T17:58:06.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b5d9c27210c43e3b",
-      "title": "APC Presidential Aspirant Sima Files Nomination, Pledges Development-Focused First 100 Days",
-      "summary": "By Makutu Manneh Momodou Lamin Sima, presidential aspirant for the Alliance of Progressive Citizens (APC), formally submitted his nomination papers to the Independent Electoral Commission (IEC) on Tuesday, pledging to prioritize institutional reforms and national development d...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/apc-presidential-aspirant-sima-files-nomination-pledges-development-focused-first-100-days/",
-      "publishedAt": "2026-11-03T17:49:08.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d4746d7634b16583",
-      "title": "“What Has Never Happened Will Not Happen Here,” Dibba Warns Against Bensouda’s Disqualification",
-      "summary": "By Seedy Jobe Ebrima Dibba, national president of the UNITE Party, has warned against any attempt to disqualify Coalition 2026 presidential candidate Talib Ahmed Bensouda from the December 5 election, describing such a move as an act of dictatorship that his party would refuse...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/what-has-never-happened-will-not-happen-here-dibba-warns-against-bensoudas-disqualification/",
-      "publishedAt": "2026-11-03T17:38:06.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "fb5ce300d869c1a7",
-      "title": "SPOTLIGHT: Muhammed Alamin Trawally’s Vision to Make The Gambia an International Hub for Peace",
-      "summary": "Published by: The Fatu Network Muhammed Alamin Trawally is a Gambian peace advocate, policy entrepreneur, law student and founder of the Gambia Peace Project, an initiative seeking to position The Gambia as a leading African centre for peacebuilding, responsible citizenship, s...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/spotlight-muhammed-alamin-trawallys-vision-to-make-the-gambia-an-international-hub-for-peace/",
-      "publishedAt": "2026-11-03T17:33:31.000Z",
-      "collectedAt": "2026-11-03T23:09:14.621Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "39321238d926b267",
-      "title": "UNITE Now Gambia’s Largest Political Party, Ebrima Dibba Claims Following Nationwide Tour",
-      "summary": "By Seedy Jobe Ebrima Dibba, national president of the United for Integrity, Transformation and Equality (UNITE) Party, has claimed that the party’s recent nationwide tour has established it as the largest political organization in The Gambia, citing growing public support and ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/unite-now-gambias-largest-political-party-ebrima-dibba-claims-following-nationwide-tour/",
-      "publishedAt": "2026-11-03T17:32:12.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "790d5640e154d11f",
-      "title": "Independent Aspirant Salieu Jallow Vows to Freeze Top Officials’ Salaries, Raise Civil Servants’ Pay",
-      "summary": "By Makutu Manneh Independent presidential aspirant Salieu Jallow has pledged to freeze the salaries of senior government officials while increasing wages for lower-paid civil servants if elected president in the December 5 election, promising to address income inequality and i...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/independent-aspirant-salieu-jallow-submits-presidential-nomination-vows-to-represent-struggling-gambians/",
-      "publishedAt": "2026-11-03T17:16:27.000Z",
-      "collectedAt": "2026-11-03T23:09:24.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e63265b36c213c5d",
-      "title": "AIP Leader Yiramang Darboe Withdraws from December Presidential Race Over British Citizenship",
-      "summary": "Written by: Hadram Hydara All Inclusive Party (AIP) leader Yiramang Darboe withdrew from December’s presidential election this morning after failing to complete the renunciation of his British citizenship in time to meet The Gambia’s constitutional requirements. Section 62(2) ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/aip-leader-yiramang-darboe-withdraws-from-december-presidential-race-over-british-citizenship/",
-      "publishedAt": "2026-11-03T17:15:40.000Z",
-      "collectedAt": "2026-11-03T23:09:14.621Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1007f63f2340d73a",
-      "title": "IEC Registers 1.14 million voters across 730 registration centres",
-      "summary": "The Independent Electoral Commission says its voter registers contain 1,146,474 registered voters across 53 constituencies, 730 registration centres and 1,773 polling stations. Chairman Joseph Colley gave the regional figures at a press conference. Banjul has three constituenc...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-registers-1-14-million-voters-across-730-registration-centres/",
-      "publishedAt": "2026-11-03T13:40:11.000Z",
-      "collectedAt": "2026-11-03T23:09:14.248Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "01de1e1c37f70a26",
-      "title": "IEC removes 165 names from voter register after objections",
-      "summary": "Gambia Now Has 1,146,474 Registered Voters The Chairman of the Independent Electoral Commission (IEC), Joseph Colley, said they removed 165 names from the 2026 voter register after revising court-upheld objections to their registration. The Commission received 1,694 objections...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-removes-165-names-from-voter-register-after-objections/",
-      "publishedAt": "2026-11-03T13:20:22.000Z",
-      "collectedAt": "2026-11-03T23:09:14.248Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "e071d1dae983bba6",
       "title": "Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why?",
       "summary": "Since President Adama Barrow came to power in 2017, the prices of many food commodities in…\nThe post Everything Is Getting More Expensive, But Bag of Salt Remains D200 — Why? appeared first on What's On Gambia.",
@@ -2091,7 +1884,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-09T20:37:52.732Z",
+      "collectedAt": "2026-11-10T04:02:44.317Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2107,7 +1900,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T20:38:03.421Z",
-    "count": 90
+    "generatedAt": "2026-11-10T04:02:56.407Z",
+    "count": 81
   }
 }

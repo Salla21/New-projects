@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "46aebc01eb9a0eb3",
+      "title": "Mustapha Jadama wins Gambia’s first Olympic medal",
+      "summary": "By Momodou Jarju Young Gambian athlete Mustapha Jadama  Monday won a silver medal in the final of the men’s 400m at the Dakar 2026 Youth Olympic Games at the Complex Iba Mar Diop, Senegal. With the win, Jadama made history by becoming the first Gambian to win an Olympic medal ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/mustapha-jadama-wins-gambias-first-olympic-medal/",
+      "publishedAt": "2026-11-09T21:06:25.000Z",
+      "collectedAt": "2026-11-10T04:02:43.996Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5103354374224952",
       "title": "NUP gives up presidential nomination slot after joining Team Gambia Grand Coalition",
       "summary": "By Nelson Manneh The National Unity Party (NUP) has withdrawn its presidential nomination slot for the 2026 election after joining the Team Gambia Coalition, the Independent Electoral Commission (IEC) says. IEC chairperson Commissioner Joseph Colley told journalists on Saturda...",
@@ -818,102 +839,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "1007f63f2340d73a",
-      "title": "IEC Registers 1.14 million voters across 730 registration centres",
-      "summary": "The Independent Electoral Commission says its voter registers contain 1,146,474 registered voters across 53 constituencies, 730 registration centres and 1,773 polling stations. Chairman Joseph Colley gave the regional figures at a press conference. Banjul has three constituenc...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-registers-1-14-million-voters-across-730-registration-centres/",
-      "publishedAt": "2026-11-03T13:40:11.000Z",
-      "collectedAt": "2026-11-03T23:09:14.248Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2326693ef35cc1c2",
-      "title": "KMC cashier faces audit of over D140 million in payments without matching vouchers",
-      "summary": "A former Kanifing Municipal Council cashier is facing a forensic audit after an inquiry found that more than D140m in cheques cashed in his name could not be matched to supporting vouchers. Saihou Sabally told the Commission of Inquiry that he cashed cheques authorised by the ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/kmc-cashier-faces-audit-of-over-d140-million-in-payments-without-matching-vouchers/",
-      "publishedAt": "2026-11-03T13:34:52.000Z",
-      "collectedAt": "2026-11-03T23:09:14.248Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d757e80cb7d36b7a",
-      "title": "Inquiry finds gaps in KMC procurements as three officials face different outcomes",
-      "summary": "A former Kanifing Municipal Council procurement manager is to face disciplinary proceedings over gaps in procurement records, while the Government has cleared a former colleague who said she resisted improper instructions. A third officer, Yankuba Njie, also faces disciplinary...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/inquiry-finds-gaps-in-kmc-procurements-as-three-officials-face-different-outcomes/",
-      "publishedAt": "2026-11-03T13:23:42.000Z",
-      "collectedAt": "2026-11-03T23:09:14.248Z",
-      "region": "kanifing",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "01de1e1c37f70a26",
-      "title": "IEC removes 165 names from voter register after objections",
-      "summary": "Gambia Now Has 1,146,474 Registered Voters The Chairman of the Independent Electoral Commission (IEC), Joseph Colley, said they removed 165 names from the 2026 voter register after revising court-upheld objections to their registration. The Commission received 1,694 objections...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-removes-165-names-from-voter-register-after-objections/",
-      "publishedAt": "2026-11-03T13:20:22.000Z",
-      "collectedAt": "2026-11-03T23:09:14.248Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-09T20:38:03.421Z",
-    "count": 40
+    "generatedAt": "2026-11-10T04:02:56.407Z",
+    "count": 37
   }
 }
