@@ -372,34 +372,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3fea82042be088ff",
-      "title": "DEMOCRATS SEIZE CONTROL OF US CONGRESS AS TRUMP SUFFERS SWEEPING MIDTERM DEFEATS",
-      "summary": "Written by: Seringe S.T. Touray President Donald Trump and his Republican Party have suffered major political setbacks in Tuesday’s US midterm elections, with Democrats capturing control of both the Senate and House of Representatives after securing historic victories across s...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/democrats-seize-control-of-us-congress-as-trump-suffers-sweeping-midterm-defeats/",
-      "publishedAt": "2026-11-04T10:21:09.000Z",
-      "collectedAt": "2026-11-04T14:18:12.542Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T14:46:21.032Z",
-    "count": 17
+    "generatedAt": "2026-11-10T21:46:06.294Z",
+    "count": 16
   }
 }

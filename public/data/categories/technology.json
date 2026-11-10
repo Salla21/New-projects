@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "084fed8259f1c7a0",
+      "title": "Dr. Ceesay Calls UDP a ‘Serial Loser,’ Predicts 60 Percent Victory for Barrow",
+      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, Minister of Information, Media and Broadcasting Services, has described the opposition United Democratic Party (UDP) as a “serial loser,” mocking its record of electoral defeats since 1996 and expressing confidence that President Adama Barro...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-calls-udp-a-serial-loser-predicts-60-percent-victory-for-barrow/",
+      "publishedAt": "2026-11-10T18:58:46.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4c2babe436ae148e",
       "title": "Ousman Sillah represents Africa at global TVET conference in Brazil",
       "summary": "Hon. Ousman Sillah, Secretary General of the Sub-Saharan Africa Skills and Apprenticeship Stakeholders Network (SASASNET), represented Africa on a panel at a global conference on technical and vocational education and training (TVET) in São Paulo, Brazil. The UNESCO-UNEVOC con...",
@@ -144,30 +168,6 @@
       "status": "published"
     },
     {
-      "id": "3fea82042be088ff",
-      "title": "DEMOCRATS SEIZE CONTROL OF US CONGRESS AS TRUMP SUFFERS SWEEPING MIDTERM DEFEATS",
-      "summary": "Written by: Seringe S.T. Touray President Donald Trump and his Republican Party have suffered major political setbacks in Tuesday’s US midterm elections, with Democrats capturing control of both the Senate and House of Representatives after securing historic victories across s...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/democrats-seize-control-of-us-congress-as-trump-suffers-sweeping-midterm-defeats/",
-      "publishedAt": "2026-11-04T10:21:09.000Z",
-      "collectedAt": "2026-11-04T14:18:12.542Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -176,7 +176,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-10T14:46:15.025Z",
+      "collectedAt": "2026-11-10T21:45:32.549Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -193,7 +193,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T14:46:21.032Z",
+    "generatedAt": "2026-11-10T21:46:06.294Z",
     "count": 8
   }
 }

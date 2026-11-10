@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "4a0e3f330bf3294c",
+      "title": "Scorpions depart Gambia for Ivory Coast ahead of Afcon qualifiers",
+      "summary": "By Momodou Jarju The Gambia’s Scorpions Tuesday departed the country to Bouaké via Abidjan where they will face Ivory Coast on Thursday in Matchday 3 of the TotalEnergies CAF Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers. Head Coach Johnathan McKinstry named a final 25-...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/scorpions-depart-gambia-for-ivory-coast-ahead-of-afcon-qualifiers/",
+      "publishedAt": "2026-11-10T16:56:32.000Z",
+      "collectedAt": "2026-11-10T21:45:32.387Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7e62a6050c807f9c",
       "title": "Farmers Urge Better Prices as Groundnut Harvest Improves",
       "summary": "By Lamin Fatty What began as a season of fear and sleepless nights for farmers in parts of The Gambia is turning into a period of hope as the groundnut harvest gets underway. Farmers in the Upper River Region (URR) and Central River Region (CRR) say the rains came late, then s...",
@@ -866,169 +889,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "06cf9a897e7cbce0",
-      "title": "Pregnant woman remanded over alleged killing of nine-year-old girl",
-      "summary": "By Louise Jobe A pregnant woman has been remanded at Mile Two Central Prison after pleading not guilty to murdering a nine-year-old girl in Sutu-Sinjang village, the Brikama Magistrates’ Court has heard. Natoma Taal appeared before Magistrate A. Mendy on Monday, 2 November. Sh...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/pregnant-woman-remanded-over-alleged-killing-of-nine-year-old-girl/",
-      "publishedAt": "2026-11-04T11:46:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "943052e0e7b9b907",
-      "title": "IEC asks APC flagbearer Modou Lamin Sima to provide original citizenship document",
-      "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) flagbearer Modou Lamin Sima has submitted nomination papers to contest The Gambia’s 5 December presidential election, but the Independent Electoral Commission (IEC) has asked him to provide an original document proving hi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-asks-apc-flagbearer-modou-lamin-sima-to-provide-original-citizenship-document/",
-      "publishedAt": "2026-11-04T11:43:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2e59925fdd0204cd",
-      "title": "Independent Candidate Salieu Jallow unable to complete presidential nomination after failing to deposit D1 Million",
-      "summary": "By Nelson Manneh Independent presidential aspirant Salieu Jallow was unable to complete his nomination on Tuesday after failing to provide proof that he had paid the required D1m deposit to the Independent Electoral Commission (IEC). Jallow appeared at the IEC on 3 November, t...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/independent-candidate-salieu-jallow-unable-to-complete-presidential-nomination-after-failing-to-deposit-d1-million/",
-      "publishedAt": "2026-11-04T11:40:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b738a1c677b45d35",
-      "title": "Hamat Bah says local government inquiry was not meant to target Mayor Talib Bensouda",
-      "summary": "By Ndey Sowe Hamat N.K. Bah, the Minister of Regional Government, Lands and Religious Affairs has rejected claims that a commission of inquiry was set up to target the current Kanifing Municipal Council mayor, Talib Ahmed Bensouda. The Local Government Commission of Inquiry in...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/hamat-bah-says-local-government-inquiry-was-not-meant-to-target-mayor-talib-bensouda/",
-      "publishedAt": "2026-11-04T11:34:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1a79f189c308c2dd",
-      "title": "UNITE Party says government white paper misrepresents local government inquiry findings",
-      "summary": "By Ndey Sowe UNITE has accused the government of misrepresenting a commission of inquiry report in a white paper published shortly before the nomination of the party’s presidential candidate, Mayor Talib Ahmed Bensouda. At a press conference, Abdul Aziz Bensouda, the party’s s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/unite-party-says-government-white-paper-misrepresents-local-government-inquiry-findings/",
-      "publishedAt": "2026-11-04T11:22:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8065d3ec2ae633ce",
-      "title": "IS THERE AN OFFICIAL REPORT FROM TEAM GAMBIA ON SELECTION OF FLAGBEARER?",
-      "summary": "As we go to press, we have not received any official report on how their flagbearer election process was conducted and whether the outcome circulating in social media is factual. Foroyaa is waiting for the official version the Team Gambia Grand Coalition 2026 selection process...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/is-there-an-official-report-from-team-gambia-on-selection-of-flagbearer/",
-      "publishedAt": "2026-11-04T09:11:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "787aa01f13b26c4a",
-      "title": "THE NEED TO DO AWAY WITH ADMINISTRATIVE COURTS",
-      "summary": "A genuine democratic society should not allow the executive to establish Quadri judicial administrative courts. Commissions of inquiry should be mere means of addressing allegations of administrative misconduct that may end up in the suspension or dismissal of persons appointe...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-need-to-do-away-with-administrative-courts/",
-      "publishedAt": "2026-11-04T09:09:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T14:46:21.032Z",
-    "count": 45
+    "generatedAt": "2026-11-10T21:46:06.294Z",
+    "count": 39
   }
 }

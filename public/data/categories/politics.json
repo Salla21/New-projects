@@ -1,6 +1,147 @@
 {
   "items": [
     {
+      "id": "466ccd33c9e177a6",
+      "title": "Lamin J. Darboe Says Credibility of Team Gambia Coordinators Influenced His Decision to Join Coalition",
+      "summary": "By Fatou Sillah Lamin J. Darboe, flagbearer of the Gambia First Coalition, has said the credibility and integrity of Halifa Sallah and Sidia Jatta, coordinators of Team Gambia Grand Coalition 2026, were decisive factors in his decision to join the political alliance. Speaking ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-j-darboe-says-credibility-of-team-gambia-coordinators-influenced-his-decision-to-join-coalition/",
+      "publishedAt": "2026-11-10T19:34:23.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2177cdcd6e11a1b0",
+      "title": "Independent Presidential Aspirant Papa Secka Calls for National Reset as He Submits Nomination Papers",
+      "summary": "By Makutu Manneh Independent presidential aspirant Papa Secka has called for a national reset, pledging to promote transparency, accountability and greater Gambian ownership of the country’s resources as he submitted his nomination papers to the Independent Electoral Commissio...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/independent-presidential-aspirant-papa-secka-calls-for-national-reset-as-he-submits-nomination-papers/",
+      "publishedAt": "2026-11-10T19:26:33.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f9448ba32842f406",
+      "title": "Barrow Files Nomination Papers, Pledges New Constitution With Term Limits if NPP Secures Assembly Majority",
+      "summary": "By Makutu Manneh President Adama Barrow on Tuesday submitted his nomination papers to the Independent Electoral Commission (IEC) ahead of the December 5 presidential election, pledging to introduce a new constitution with presidential term limits if his party secures the parli...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-files-nomination-papers-pledges-new-constitution-with-term-limits-if-npp-secures-assembly-majority/",
+      "publishedAt": "2026-11-10T19:21:47.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e70d02ae437516a3",
+      "title": "Dr. Ceesay Defends Barrow’s Invitation to Outlaws, Calls It a Privilege for Young People",
+      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, Minister of Information, Media and Broadcasting Services, has defended President Adama Barrow’s invitation to members of the Outlaws motorsports group to accompany him to his presidential nomination, describing the gesture as a rare privileg...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-defends-barrows-invitation-to-outlaws-calls-it-a-privilege-for-young-people/",
+      "publishedAt": "2026-11-10T19:03:58.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "084fed8259f1c7a0",
+      "title": "Dr. Ceesay Calls UDP a ‘Serial Loser,’ Predicts 60 Percent Victory for Barrow",
+      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, Minister of Information, Media and Broadcasting Services, has described the opposition United Democratic Party (UDP) as a “serial loser,” mocking its record of electoral defeats since 1996 and expressing confidence that President Adama Barro...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-calls-udp-a-serial-loser-predicts-60-percent-victory-for-barrow/",
+      "publishedAt": "2026-11-10T18:58:46.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "255846f801f78897",
+      "title": "December 5 Election Offers Chance to Restore Gambia’s Lost Glory, Says Saho",
+      "summary": "By Seedy Jobe Sulayman Saho, the National Assembly Member for Central Badibou and National Organizing Secretary of the United Democratic Party (UDP), has described the December 5 presidential election as an opportunity to renew hope, restore national unity, and reclaim what he...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/december-5-election-offers-chance-to-restore-gambias-lost-glory-says-saho/",
+      "publishedAt": "2026-11-10T18:53:23.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "205cf3e7c8d2a8d9",
       "title": "IEC says 12 presidential aspirants submit papers as six withdraw",
       "summary": "By Mariama Marong Twelve of 18 presidential aspirants submitted nomination papers by Monday, November 9, while six withdrew from the process, the Independent Electoral Commission (IEC) says. IEC chairperson Joseph Colley said the nomination period began on November 3 and will ...",
@@ -1828,147 +1969,6 @@
       "status": "published"
     },
     {
-      "id": "943052e0e7b9b907",
-      "title": "IEC asks APC flagbearer Modou Lamin Sima to provide original citizenship document",
-      "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) flagbearer Modou Lamin Sima has submitted nomination papers to contest The Gambia’s 5 December presidential election, but the Independent Electoral Commission (IEC) has asked him to provide an original document proving hi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-asks-apc-flagbearer-modou-lamin-sima-to-provide-original-citizenship-document/",
-      "publishedAt": "2026-11-04T11:43:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2e59925fdd0204cd",
-      "title": "Independent Candidate Salieu Jallow unable to complete presidential nomination after failing to deposit D1 Million",
-      "summary": "By Nelson Manneh Independent presidential aspirant Salieu Jallow was unable to complete his nomination on Tuesday after failing to provide proof that he had paid the required D1m deposit to the Independent Electoral Commission (IEC). Jallow appeared at the IEC on 3 November, t...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/independent-candidate-salieu-jallow-unable-to-complete-presidential-nomination-after-failing-to-deposit-d1-million/",
-      "publishedAt": "2026-11-04T11:40:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b738a1c677b45d35",
-      "title": "Hamat Bah says local government inquiry was not meant to target Mayor Talib Bensouda",
-      "summary": "By Ndey Sowe Hamat N.K. Bah, the Minister of Regional Government, Lands and Religious Affairs has rejected claims that a commission of inquiry was set up to target the current Kanifing Municipal Council mayor, Talib Ahmed Bensouda. The Local Government Commission of Inquiry in...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/hamat-bah-says-local-government-inquiry-was-not-meant-to-target-mayor-talib-bensouda/",
-      "publishedAt": "2026-11-04T11:34:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1a79f189c308c2dd",
-      "title": "UNITE Party says government white paper misrepresents local government inquiry findings",
-      "summary": "By Ndey Sowe UNITE has accused the government of misrepresenting a commission of inquiry report in a white paper published shortly before the nomination of the party’s presidential candidate, Mayor Talib Ahmed Bensouda. At a press conference, Abdul Aziz Bensouda, the party’s s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/unite-party-says-government-white-paper-misrepresents-local-government-inquiry-findings/",
-      "publishedAt": "2026-11-04T11:22:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3fea82042be088ff",
-      "title": "DEMOCRATS SEIZE CONTROL OF US CONGRESS AS TRUMP SUFFERS SWEEPING MIDTERM DEFEATS",
-      "summary": "Written by: Seringe S.T. Touray President Donald Trump and his Republican Party have suffered major political setbacks in Tuesday’s US midterm elections, with Democrats capturing control of both the Senate and House of Representatives after securing historic victories across s...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/democrats-seize-control-of-us-congress-as-trump-suffers-sweeping-midterm-defeats/",
-      "publishedAt": "2026-11-04T10:21:09.000Z",
-      "collectedAt": "2026-11-04T14:18:12.542Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8065d3ec2ae633ce",
-      "title": "IS THERE AN OFFICIAL REPORT FROM TEAM GAMBIA ON SELECTION OF FLAGBEARER?",
-      "summary": "As we go to press, we have not received any official report on how their flagbearer election process was conducted and whether the outcome circulating in social media is factual. Foroyaa is waiting for the official version the Team Gambia Grand Coalition 2026 selection process...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/is-there-an-official-report-from-team-gambia-on-selection-of-flagbearer/",
-      "publishedAt": "2026-11-04T09:11:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -1977,7 +1977,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-10T14:46:15.025Z",
+      "collectedAt": "2026-11-10T21:45:32.549Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2001,7 +2001,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-10T14:46:15.025Z",
+      "collectedAt": "2026-11-10T21:45:32.549Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2017,7 +2017,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T14:46:21.032Z",
+    "generatedAt": "2026-11-10T21:46:06.294Z",
     "count": 86
   }
 }

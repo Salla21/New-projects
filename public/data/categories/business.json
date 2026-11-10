@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "0c9f96648bc3c789",
+      "title": "Juwara Says Propaganda Drives Gambian Politics, Warns Against Equating Rally Crowds With Electoral Support",
+      "summary": "By Seedy Jobe Political analyst Lamin Juwara has described propaganda as a driving force in Gambian politics, arguing that the growing competition among political parties over rally attendance is more about shaping public perception than demonstrating actual electoral strength...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/juwara-says-propaganda-drives-gambian-politics-warns-against-equating-rally-crowds-with-electoral-support/",
+      "publishedAt": "2026-11-10T19:16:10.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e70d02ae437516a3",
+      "title": "Dr. Ceesay Defends Barrow’s Invitation to Outlaws, Calls It a Privilege for Young People",
+      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, Minister of Information, Media and Broadcasting Services, has defended President Adama Barrow’s invitation to members of the Outlaws motorsports group to accompany him to his presidential nomination, describing the gesture as a rare privileg...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-defends-barrows-invitation-to-outlaws-calls-it-a-privilege-for-young-people/",
+      "publishedAt": "2026-11-10T19:03:58.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "255846f801f78897",
+      "title": "December 5 Election Offers Chance to Restore Gambia’s Lost Glory, Says Saho",
+      "summary": "By Seedy Jobe Sulayman Saho, the National Assembly Member for Central Badibou and National Organizing Secretary of the United Democratic Party (UDP), has described the December 5 presidential election as an opportunity to renew hope, restore national unity, and reclaim what he...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/december-5-election-offers-chance-to-restore-gambias-lost-glory-says-saho/",
+      "publishedAt": "2026-11-10T18:53:23.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "661bd605642b0a65",
       "title": "Commuters report higher fares and long waits during nomination period",
       "summary": "By Nelson Manneh Commuters at Brikama car park say they are facing higher fares and long waits as people travel to attend presidential nomination events. The nomination period for the December 5, 2026 election runs from November 3 to 14. The Independent Electoral Commission is...",
@@ -576,54 +647,6 @@
       "status": "published"
     },
     {
-      "id": "1a79f189c308c2dd",
-      "title": "UNITE Party says government white paper misrepresents local government inquiry findings",
-      "summary": "By Ndey Sowe UNITE has accused the government of misrepresenting a commission of inquiry report in a white paper published shortly before the nomination of the party’s presidential candidate, Mayor Talib Ahmed Bensouda. At a press conference, Abdul Aziz Bensouda, the party’s s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/unite-party-says-government-white-paper-misrepresents-local-government-inquiry-findings/",
-      "publishedAt": "2026-11-04T11:22:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8065d3ec2ae633ce",
-      "title": "IS THERE AN OFFICIAL REPORT FROM TEAM GAMBIA ON SELECTION OF FLAGBEARER?",
-      "summary": "As we go to press, we have not received any official report on how their flagbearer election process was conducted and whether the outcome circulating in social media is factual. Foroyaa is waiting for the official version the Team Gambia Grand Coalition 2026 selection process...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/is-there-an-official-report-from-team-gambia-on-selection-of-flagbearer/",
-      "publishedAt": "2026-11-04T09:11:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -632,7 +655,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-04T14:18:12.402Z",
+      "collectedAt": "2026-11-10T21:45:32.549Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -655,7 +678,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-10T14:46:15.025Z",
+      "collectedAt": "2026-11-10T21:45:32.549Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -671,7 +694,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T14:46:21.032Z",
-    "count": 28
+    "generatedAt": "2026-11-10T21:46:06.294Z",
+    "count": 29
   }
 }

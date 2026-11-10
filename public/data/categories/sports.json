@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "4a0e3f330bf3294c",
+      "title": "Scorpions depart Gambia for Ivory Coast ahead of Afcon qualifiers",
+      "summary": "By Momodou Jarju The Gambia’s Scorpions Tuesday departed the country to Bouaké via Abidjan where they will face Ivory Coast on Thursday in Matchday 3 of the TotalEnergies CAF Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers. Head Coach Johnathan McKinstry named a final 25-...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/scorpions-depart-gambia-for-ivory-coast-ahead-of-afcon-qualifiers/",
+      "publishedAt": "2026-11-10T16:56:32.000Z",
+      "collectedAt": "2026-11-10T21:45:32.387Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2f551efbd0b1b60a",
       "title": "PRESIDENTIAL ELECTION: THE MOMENTUM IS ON",
       "summary": "On December 5, 2026, Gambians will either be on the same page or turn a new page. That is for the Gambian electorate to decide. If the turnout during nomination is to go by, loyal party supporters are in the minority. They are yet to be able to fill a football field. We have t...",
@@ -50,7 +73,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T14:46:21.032Z",
-    "count": 2
+    "generatedAt": "2026-11-10T21:46:06.294Z",
+    "count": 3
   }
 }

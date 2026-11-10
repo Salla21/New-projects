@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "084fed8259f1c7a0",
+      "title": "Dr. Ceesay Calls UDP a ‘Serial Loser,’ Predicts 60 Percent Victory for Barrow",
+      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, Minister of Information, Media and Broadcasting Services, has described the opposition United Democratic Party (UDP) as a “serial loser,” mocking its record of electoral defeats since 1996 and expressing confidence that President Adama Barro...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-calls-udp-a-serial-loser-predicts-60-percent-victory-for-barrow/",
+      "publishedAt": "2026-11-10T18:58:46.000Z",
+      "collectedAt": "2026-11-10T21:46:02.190Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7e62a6050c807f9c",
       "title": "Farmers Urge Better Prices as Groundnut Harvest Improves",
       "summary": "By Lamin Fatty What began as a season of fear and sleepless nights for farmers in parts of The Gambia is turning into a period of hope as the groundnut harvest gets underway. Farmers in the Upper River Region (URR) and Central River Region (CRR) say the rains came late, then s...",
@@ -433,29 +457,6 @@
       "status": "published"
     },
     {
-      "id": "943052e0e7b9b907",
-      "title": "IEC asks APC flagbearer Modou Lamin Sima to provide original citizenship document",
-      "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) flagbearer Modou Lamin Sima has submitted nomination papers to contest The Gambia’s 5 December presidential election, but the Independent Electoral Commission (IEC) has asked him to provide an original document proving hi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-asks-apc-flagbearer-modou-lamin-sima-to-provide-original-citizenship-document/",
-      "publishedAt": "2026-11-04T11:43:00.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -464,7 +465,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-10T14:46:15.025Z",
+      "collectedAt": "2026-11-10T21:45:32.549Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -478,7 +479,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T14:46:21.032Z",
+    "generatedAt": "2026-11-10T21:46:06.294Z",
     "count": 21
   }
 }
