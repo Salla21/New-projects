@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "daab7b542f595dde",
+      "title": "Barrow Says He Fears No Rival in December Presidential Election",
+      "summary": "By Makutu Manneh President Adama Barrow has declared that he is not intimidated by any of his opponents in the December 5 presidential election, expressing confidence in his ability to secure another victory. Speaking at a rally in Buffer Zone shortly after submitting his nomi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-says-he-fears-no-rival-in-december-presidential-election/",
+      "publishedAt": "2026-11-10T23:24:17.000Z",
+      "collectedAt": "2026-11-11T01:49:38.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "45a8b5a373ed59a0",
+      "title": "Barrow Pledges Major Road Projects, Predicts Record Victory in December Election",
+      "summary": "By Makutu Manneh President Adama Barrow has announced plans to construct two major roads, including a six-lane dual carriageway along Kairaba Avenue, as he rallied supporters shortly after submitting his nomination papers to the Independent Electoral Commission (IEC) on Tuesda...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-pledges-major-road-projects-predicts-record-victory-in-december-election/",
+      "publishedAt": "2026-11-10T22:31:10.000Z",
+      "collectedAt": "2026-11-11T01:49:38.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "466ccd33c9e177a6",
       "title": "Lamin J. Darboe Says Credibility of Team Gambia Coordinators Influenced His Decision to Join Coalition",
       "summary": "By Fatou Sillah Lamin J. Darboe, flagbearer of the Gambia First Coalition, has said the credibility and integrity of Halifa Sallah and Sidia Jatta, coordinators of Team Gambia Grand Coalition 2026, were decisive factors in his decision to join the political alliance. Speaking ...",
@@ -469,7 +518,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T21:46:06.294Z",
-    "count": 20
+    "generatedAt": "2026-11-11T01:49:42.392Z",
+    "count": 22
   }
 }

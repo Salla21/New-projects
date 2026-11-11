@@ -847,52 +847,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fc08b6128b6187a8",
-      "title": "Quranic teacher jailed for 10 years for raping 13-year-old boy",
-      "summary": "By Mariama Marong A Quranic teacher has been sentenced to 10 years in prison after a magistrate found him guilty of raping a 13-year-old boy who was in his care at a religious school, known as a daara. Muhammed Jassey was also ordered to pay D400,000 in compensation to the vic...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/quranic-teacher-jailed-for-10-years-for-raping-13-year-old-boy/",
-      "publishedAt": "2026-11-04T13:26:54.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "24ec9052b5c00da8",
-      "title": "Court says Dr Jagne’s attempt to strike out ex-Africmed worker’s defamation suit is premature",
-      "summary": "The High Court in Banjul has dismissed an application by Africmed International Hospital chief executive officer (CEO) Dr Omar Jagne to strike out a defamation case brought by his former employee, Amadou Kabba. Justice Oduma ruled on 3 November that Kabba’s claims raise issues...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/court-says-dr-jagnes-attempt-to-strike-out-ex-africmed-workers-defamation-suit-is-premature/",
-      "publishedAt": "2026-11-04T13:23:39.000Z",
-      "collectedAt": "2026-11-04T21:48:53.529Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T21:46:06.294Z",
-    "count": 39
+    "generatedAt": "2026-11-11T01:49:42.392Z",
+    "count": 37
   }
 }

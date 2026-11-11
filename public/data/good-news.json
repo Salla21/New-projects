@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "45a8b5a373ed59a0",
+      "title": "Barrow Pledges Major Road Projects, Predicts Record Victory in December Election",
+      "summary": "By Makutu Manneh President Adama Barrow has announced plans to construct two major roads, including a six-lane dual carriageway along Kairaba Avenue, as he rallied supporters shortly after submitting his nomination papers to the Independent Electoral Commission (IEC) on Tuesda...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-pledges-major-road-projects-predicts-record-victory-in-december-election/",
+      "publishedAt": "2026-11-10T22:31:10.000Z",
+      "collectedAt": "2026-11-11T01:49:38.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "084fed8259f1c7a0",
       "title": "Dr. Ceesay Calls UDP a ‘Serial Loser,’ Predicts 60 Percent Victory for Barrow",
       "summary": "By Fatou Sillah Dr. Ismaila Ceesay, Minister of Information, Media and Broadcasting Services, has described the opposition United Democratic Party (UDP) as a “serial loser,” mocking its record of electoral defeats since 1996 and expressing confidence that President Adama Barro...",
@@ -465,7 +490,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-10T21:45:32.549Z",
+      "collectedAt": "2026-11-11T01:49:35.708Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -479,7 +504,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T21:46:06.294Z",
-    "count": 21
+    "generatedAt": "2026-11-11T01:49:42.392Z",
+    "count": 22
   }
 }

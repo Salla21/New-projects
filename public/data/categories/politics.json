@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "daab7b542f595dde",
+      "title": "Barrow Says He Fears No Rival in December Presidential Election",
+      "summary": "By Makutu Manneh President Adama Barrow has declared that he is not intimidated by any of his opponents in the December 5 presidential election, expressing confidence in his ability to secure another victory. Speaking at a rally in Buffer Zone shortly after submitting his nomi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-says-he-fears-no-rival-in-december-presidential-election/",
+      "publishedAt": "2026-11-10T23:24:17.000Z",
+      "collectedAt": "2026-11-11T01:49:38.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "45a8b5a373ed59a0",
+      "title": "Barrow Pledges Major Road Projects, Predicts Record Victory in December Election",
+      "summary": "By Makutu Manneh President Adama Barrow has announced plans to construct two major roads, including a six-lane dual carriageway along Kairaba Avenue, as he rallied supporters shortly after submitting his nomination papers to the Independent Electoral Commission (IEC) on Tuesda...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-pledges-major-road-projects-predicts-record-victory-in-december-election/",
+      "publishedAt": "2026-11-10T22:31:10.000Z",
+      "collectedAt": "2026-11-11T01:49:38.282Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "466ccd33c9e177a6",
       "title": "Lamin J. Darboe Says Credibility of Team Gambia Coordinators Influenced His Decision to Join Coalition",
       "summary": "By Fatou Sillah Lamin J. Darboe, flagbearer of the Gambia First Coalition, has said the credibility and integrity of Halifa Sallah and Sidia Jatta, coordinators of Team Gambia Grand Coalition 2026, were decisive factors in his decision to join the political alliance. Speaking ...",
@@ -1827,148 +1876,6 @@
       "status": "published"
     },
     {
-      "id": "744cd488fb01ded8",
-      "title": "Democratic Party (DP) Leader Yusupha Dumbuya Pledges Rent Caps, Cuts in Government Spending",
-      "summary": "By Dawda Baldeh Yusupha Dumbuya, leader of the opposition Democratic Party (DP), has pledged to introduce strict rent caps and cut wasteful government spending to ease the financial burden on ordinary Gambians and revive the country’s economy. Dumbuya made the promises this af...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/democratic-party-dp-leader-yusupha-dumbuya-pledges-rent-caps-cuts-in-government-spending/",
-      "publishedAt": "2026-11-04T18:36:19.000Z",
-      "collectedAt": "2026-11-04T21:48:54.039Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "777e844015277e4c",
-      "title": "Juwara Questions Barrow’s Anti-Corruption Commitment, Alleges Selective Targeting of Political Opponents",
-      "summary": "By Seedy Jobe Political analyst Lamin Juwara has questioned President Adama Barrow’s commitment to fighting corruption, accusing his administration of selectively using the findings of the Local Government Commission of Inquiry to target political opponents while overlooking b...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/juwara-questions-barrows-anti-corruption-commitment-alleges-selective-targeting-of-political-opponents/",
-      "publishedAt": "2026-11-04T17:52:50.000Z",
-      "collectedAt": "2026-11-04T21:48:58.763Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "34c06b21240db0af",
-      "title": "NAWEC Promises End to Accumulated Water Bills as Smart Meter Rollout Expands",
-      "summary": "By Seedy Jobe The National Water and Electricity Company (NAWEC) has assured customers that persistent problems with delayed water bills and unexpected accumulated charges will soon be resolved as the utility company expands its smart meter installation programme. Speaking dur...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/nawec-promises-end-to-accumulated-water-bills-as-smart-meter-rollout-expands/",
-      "publishedAt": "2026-11-04T17:30:50.000Z",
-      "collectedAt": "2026-11-04T21:48:58.763Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "695f26c695a2aba2",
-      "title": "Barrow Rallies Supporters for Nomination, Makes Fresh Appeal to Darboe to Join NPP",
-      "summary": "By Makutu Manneh President Adama Barrow has urged his supporters to turn out in large numbers for his presidential nomination on November 10, while renewing his invitation to United Democratic Party (UDP) leader Ousainu Darboe to join the ruling National People’s Party (NPP) G...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-rallies-supporters-for-nomination-makes-fresh-appeal-to-darboe-to-join-npp/",
-      "publishedAt": "2026-11-04T17:08:26.000Z",
-      "collectedAt": "2026-11-04T21:48:58.763Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b0de01b5215e100d",
-      "title": "From Barrow’s Deputy to His Challenger: Former Vice President Isatou Touray Files Presidential Nomination",
-      "summary": "By Makutu Manneh Former Vice President Dr. Isatou Touray has formally submitted her nomination papers to contest the December 5 presidential election, setting the stage for a political contest against President Adama Barrow, under whom she once served as the country’s second-h...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/from-barrows-deputy-to-his-challenger-former-vice-president-isatou-touray-files-presidential-nomination/",
-      "publishedAt": "2026-11-04T17:01:23.000Z",
-      "collectedAt": "2026-11-04T21:48:58.763Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2ccac6ca12da1b25",
-      "title": "Dumbuya Pledges Two-Term Presidential Limit Within 90 Days, Rent Subsidies as He Files Nomination Papers",
-      "summary": "By Makutu Manneh Yusupha A. Dumbuya, presidential aspirant for the Democratic Party, has formally submitted his nomination papers to the Independent Electoral Commission (IEC) ahead of the December 5 presidential election, pledging to introduce a constitutional two-term presid...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dumbuya-pledges-two-term-presidential-limit-within-90-days-rent-subsidies-as-he-files-nomination-papers/",
-      "publishedAt": "2026-11-04T16:55:44.000Z",
-      "collectedAt": "2026-11-04T21:48:58.763Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -1977,7 +1884,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-10T21:45:32.549Z",
+      "collectedAt": "2026-11-11T01:49:35.708Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2001,7 +1908,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-10T21:45:32.549Z",
+      "collectedAt": "2026-11-11T01:49:35.708Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2017,7 +1924,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T21:46:06.294Z",
-    "count": 86
+    "generatedAt": "2026-11-11T01:49:42.392Z",
+    "count": 82
   }
 }

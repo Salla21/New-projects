@@ -323,29 +323,6 @@
       "status": "published"
     },
     {
-      "id": "777e844015277e4c",
-      "title": "Juwara Questions Barrow’s Anti-Corruption Commitment, Alleges Selective Targeting of Political Opponents",
-      "summary": "By Seedy Jobe Political analyst Lamin Juwara has questioned President Adama Barrow’s commitment to fighting corruption, accusing his administration of selectively using the findings of the Local Government Commission of Inquiry to target political opponents while overlooking b...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/juwara-questions-barrows-anti-corruption-commitment-alleges-selective-targeting-of-political-opponents/",
-      "publishedAt": "2026-11-04T17:52:50.000Z",
-      "collectedAt": "2026-11-04T21:48:58.763Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7df537de5df55004",
       "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
       "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
@@ -354,7 +331,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-10T21:45:32.549Z",
+      "collectedAt": "2026-11-11T01:49:35.708Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -375,7 +352,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-10T21:45:32.549Z",
+      "collectedAt": "2026-11-11T01:49:35.708Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -389,7 +366,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-10T21:46:06.294Z",
-    "count": 17
+    "generatedAt": "2026-11-11T01:49:42.392Z",
+    "count": 16
   }
 }
