@@ -803,54 +803,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "cfddb4ca8b858d10",
-      "title": "IS THE POLICY OF DISHING OUT MONEY SUSTAINABLE?",
-      "summary": "Gambians should remember the era of the coup period when a Malian businessman Foutanga Sissoho used to be followed by people queuing to get fish money at his residence daily. In the same vein people used to line up to pick packets of biscuits thrown to the crown by the former ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/is-the-policy-of-dishhing-out-money-sustainable/",
-      "publishedAt": "2026-11-05T09:16:00.000Z",
-      "collectedAt": "2026-11-05T12:07:23.899Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "442c275bb79be302",
-      "title": "FOCUS ON NOMINATION",
-      "summary": "On November 3, 2026 the country began to follow the nomination of those who aspire to be the president of the Republic of The Gambia. One woman and three men have so far submitted their nomination papers. All of them have been asked to go back and regularize some of their nomi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/focus-on-nomination/",
-      "publishedAt": "2026-11-05T09:14:00.000Z",
-      "collectedAt": "2026-11-05T12:07:23.899Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T01:49:42.392Z",
-    "count": 37
+    "generatedAt": "2026-11-11T09:14:14.026Z",
+    "count": 35
   }
 }

@@ -1853,29 +1853,6 @@
       "status": "published"
     },
     {
-      "id": "442c275bb79be302",
-      "title": "FOCUS ON NOMINATION",
-      "summary": "On November 3, 2026 the country began to follow the nomination of those who aspire to be the president of the Republic of The Gambia. One woman and three men have so far submitted their nomination papers. All of them have been asked to go back and regularize some of their nomi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/focus-on-nomination/",
-      "publishedAt": "2026-11-05T09:14:00.000Z",
-      "collectedAt": "2026-11-05T12:07:23.899Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -1884,7 +1861,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-11T01:49:35.708Z",
+      "collectedAt": "2026-11-11T09:14:05.589Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1908,7 +1885,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-11T01:49:35.708Z",
+      "collectedAt": "2026-11-11T09:14:05.589Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1924,7 +1901,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T01:49:42.392Z",
-    "count": 82
+    "generatedAt": "2026-11-11T09:14:14.026Z",
+    "count": 81
   }
 }
