@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "d624cc5ca677111f",
+      "title": "Gambia, Guinea and Senegal Share Honours at Sub-Regional Tennis Tournament",
+      "summary": "By Ndey Sowe The Gambia, Guinea and Senegal have emerged among the top performers at the GUTA/ERCA/BYSDC Under-14 Sub-Regional Tennis Tournament, which brought together young boys and girls from the participating countries for three days of competition. The tournament, organis...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gambia-guinea-and-senegal-share-honours-at-sub-regional-tennis-tournament/",
+      "publishedAt": "2026-11-11T13:26:44.000Z",
+      "collectedAt": "2026-11-11T17:51:06.036Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4a0e3f330bf3294c",
       "title": "Scorpions depart Gambia for Ivory Coast ahead of Afcon qualifiers",
       "summary": "By Momodou Jarju The Gambia’s Scorpions Tuesday departed the country to Bouaké via Abidjan where they will face Ivory Coast on Thursday in Matchday 3 of the TotalEnergies CAF Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers. Head Coach Johnathan McKinstry named a final 25-...",
@@ -73,7 +96,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T09:14:14.026Z",
-    "count": 3
+    "generatedAt": "2026-11-11T17:51:16.239Z",
+    "count": 4
   }
 }

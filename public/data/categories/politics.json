@@ -1,6 +1,171 @@
 {
   "items": [
     {
+      "id": "6d48582776594210",
+      "title": "UTG Formally Notifies Herbert Robinson of Contract Non-Renewal, Demands Comprehensive Handover",
+      "summary": "By Yankuba Jallow The University of The Gambia’s Governing Council has formally notified Vice-Chancellor Professor Herbert Robinson that his contract will not be renewed when it expires, citing shortcomings in leadership, financial management and institutional governance. In a...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/utg-formally-notifies-herbert-robinson-of-contract-non-renewal-demands-comprehensive-handover/",
+      "publishedAt": "2026-11-11T12:57:35.000Z",
+      "collectedAt": "2026-11-11T17:51:06.036Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c537ed540788c842",
+      "title": "UTG Governing Council Resolves Not to Renew Vice-Chancellor Herbert Robinson’s Contract",
+      "summary": "By Yankuba Jallow The University of The Gambia’s Governing Council has resolved not to renew Professor Herbert Robinson’s contract as Vice-Chancellor when his current term expires, citing shortcomings in leadership, financial management and institutional governance. The decisi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/utg-governing-council-resolves-not-to-renew-vice-chancellor-herbert-robinsons-contract/",
+      "publishedAt": "2026-11-11T12:53:58.000Z",
+      "collectedAt": "2026-11-11T17:51:06.036Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "acbb65fadb415548",
+      "title": "Barrow Files Nomination Papers for Third Term Bid",
+      "summary": "Promises New Constitution By Nelson Manneh President Adama Barrow has formally submitted his nomination papers to contest The Gambia’s presidential election for a third term, accompanied by Cabinet ministers, senior government officials, executive members of the NPP-led allian...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/barrow-files-nomination-papers-for-third-term-bid/",
+      "publishedAt": "2026-11-11T12:45:49.000Z",
+      "collectedAt": "2026-11-11T17:51:06.036Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d5156cfa22aa2faa",
+      "title": "African descendants renew call for citizenship in The Gambia",
+      "summary": "Nyancho Kujabi says she was overjoyed after hearing a report that United Democratic Party leader Ousainou Darboe had pledged to help African descendants of slavery integrate into The Gambia. “I leapt out of bed in sheer joy,” said Kujabi, founder of Blaxit and COAD. “After yea...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/african-descendants-renew-call-for-citizenship-in-the-gambia/",
+      "publishedAt": "2026-11-11T12:28:51.000Z",
+      "collectedAt": "2026-11-11T17:51:06.036Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "dfaed3c4279d7ecc",
+      "title": "WHY ARE 27 POLITICAL PARTIES REGISTERED?",
+      "summary": "This is a question many are asking as parties prepare for the presidential election scheduled for 5th December, 2026. A two-million-dalasi registration fee and 10,000 endorsements  of are very stringent measures for the registration of political parties. Foroyaa will interview...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/why-are-27-political-parties-registered/",
+      "publishedAt": "2026-11-11T12:23:30.000Z",
+      "collectedAt": "2026-11-11T17:51:06.036Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ff957d9a33a43a0c",
+      "title": "NOMINATION OF CANDIDATES UNDER SCRUTINY",
+      "summary": "Suspense is the order of the day as aspirants wait for the IEC for acceptance or rejection of their application to stand as presidential candidates in the December 5 presidential election. It is not clear who the candidates would be. However, the country seems to be focusing o...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nomination-of-candidates-under-scrutiny/",
+      "publishedAt": "2026-11-11T12:22:02.000Z",
+      "collectedAt": "2026-11-11T17:51:06.036Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1de1406bafff2718",
+      "title": "Darboe Pledges Citizenship for African Descendants",
+      "summary": "Opposition United Democratic Party (UDP) leader and presidential candidate Ousainu Darboe has pledged to grant Gambian citizenship to descendants of enslaved Africans who wish to return to The Gambia and make it their home. Darboe said a UDP government would facilitate the rei...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-pledges-citizenship-for-african-descendants/",
+      "publishedAt": "2026-11-11T12:06:51.000Z",
+      "collectedAt": "2026-11-11T17:51:06.666Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "daab7b542f595dde",
       "title": "Barrow Says He Fears No Rival in December Presidential Election",
       "summary": "By Makutu Manneh President Adama Barrow has declared that he is not intimidated by any of his opponents in the December 5 presidential election, expressing confidence in his ability to secure another victory. Speaking at a rally in Buffer Zone shortly after submitting his nomi...",
@@ -1861,7 +2026,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-11T09:14:05.589Z",
+      "collectedAt": "2026-11-11T17:51:06.203Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1885,7 +2050,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-11T09:14:05.589Z",
+      "collectedAt": "2026-11-11T17:51:06.203Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1901,7 +2066,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T09:14:14.026Z",
-    "count": 81
+    "generatedAt": "2026-11-11T17:51:16.239Z",
+    "count": 88
   }
 }

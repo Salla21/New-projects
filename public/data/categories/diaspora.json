@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "d5156cfa22aa2faa",
+      "title": "African descendants renew call for citizenship in The Gambia",
+      "summary": "Nyancho Kujabi says she was overjoyed after hearing a report that United Democratic Party leader Ousainou Darboe had pledged to help African descendants of slavery integrate into The Gambia. “I leapt out of bed in sheer joy,” said Kujabi, founder of Blaxit and COAD. “After yea...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/african-descendants-renew-call-for-citizenship-in-the-gambia/",
+      "publishedAt": "2026-11-11T12:28:51.000Z",
+      "collectedAt": "2026-11-11T17:51:06.036Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1de1406bafff2718",
+      "title": "Darboe Pledges Citizenship for African Descendants",
+      "summary": "Opposition United Democratic Party (UDP) leader and presidential candidate Ousainu Darboe has pledged to grant Gambian citizenship to descendants of enslaved Africans who wish to return to The Gambia and make it their home. Darboe said a UDP government would facilitate the rei...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-pledges-citizenship-for-african-descendants/",
+      "publishedAt": "2026-11-11T12:06:51.000Z",
+      "collectedAt": "2026-11-11T17:51:06.666Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6c0cf22934fbd1b0",
       "title": "Lawyer Ousainou Darboe submits all required nomination documents",
       "summary": "By Mariama Marong United Democratic Party leader Ousainou Darboe has submitted all documents required for his presidential nomination, Independent Electoral Commission chairperson Joseph Colley says. Darboe filed his papers ahead of the December 5, 2026 election. The IEC’s nom...",
@@ -220,7 +269,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T09:14:14.026Z",
-    "count": 9
+    "generatedAt": "2026-11-11T17:51:16.239Z",
+    "count": 11
   }
 }

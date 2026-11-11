@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1de1406bafff2718",
+      "title": "Darboe Pledges Citizenship for African Descendants",
+      "summary": "Opposition United Democratic Party (UDP) leader and presidential candidate Ousainu Darboe has pledged to grant Gambian citizenship to descendants of enslaved Africans who wish to return to The Gambia and make it their home. Darboe said a UDP government would facilitate the rei...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-pledges-citizenship-for-african-descendants/",
+      "publishedAt": "2026-11-11T12:06:51.000Z",
+      "collectedAt": "2026-11-11T17:51:06.666Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7046d8afef1a97bf",
       "title": "The Law Already Provides a Way Forward: Moving the Chief Justice Case Without the Chief Justice",
       "summary": "ANALYSIS Sarjo Barrow, Esq. On July 31, 2026, the Gambia Bar Association filed a suit in the Supreme Court asking whether Chief Justice Edi M.O. Faal meets the constitutional qualifications for his office. According to the Bar’s public statement of November 9, the case has yet...",
@@ -350,7 +374,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T09:14:14.026Z",
-    "count": 15
+    "generatedAt": "2026-11-11T17:51:16.239Z",
+    "count": 16
   }
 }

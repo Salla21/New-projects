@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "a7737027dc4f3a64",
+      "title": "IFC Partners with Salam Financial Services to Expand Access to Finance for MSMEs & Women Entrepreneurs in The Gambia",
+      "summary": "Banjul, The Gambia, November 10, 2026; To help expand access to finance for small and women-owned businesses in underserved areas, boost private sector growth, and support job creation in The Gambia, the International Finance Corporation (IFC), a member of the World Bank Group...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/ifc-partners-with-salam-financial-services-to-expand-access-to-finance-for-msmes-women-entrepreneurs-in-the-gambia/",
+      "publishedAt": "2026-11-11T12:50:18.000Z",
+      "collectedAt": "2026-11-11T17:51:06.036Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "45a8b5a373ed59a0",
       "title": "Barrow Pledges Major Road Projects, Predicts Record Victory in December Election",
       "summary": "By Makutu Manneh President Adama Barrow has announced plans to construct two major roads, including a six-lane dual carriageway along Kairaba Avenue, as he rallied supporters shortly after submitting his nomination papers to the Independent Electoral Commission (IEC) on Tuesda...",
@@ -490,7 +513,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-11T09:14:05.589Z",
+      "collectedAt": "2026-11-11T17:51:06.203Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -504,7 +527,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T09:14:14.026Z",
-    "count": 22
+    "generatedAt": "2026-11-11T17:51:16.239Z",
+    "count": 23
   }
 }
