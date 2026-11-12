@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1bf248f497cddb06",
+      "title": "Germany marks Unity Day in Gambia with call for democracy, national unity",
+      "summary": "Germany’s ambassador to The Gambia and the country’s foreign minister have used celebrations marking the Day of German Unity to highlight the importance of democracy, freedom and national reconciliation, describing them as values that continue to shape both countries’ historie...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/germany-marks-unity-day-in-gambia-with-call-for-democracy-national-unity/",
+      "publishedAt": "2026-11-11T19:28:17.000Z",
+      "collectedAt": "2026-11-12T00:27:06.827Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1de1406bafff2718",
       "title": "Darboe Pledges Citizenship for African Descendants",
       "summary": "Opposition United Democratic Party (UDP) leader and presidential candidate Ousainu Darboe has pledged to grant Gambian citizenship to descendants of enslaved Africans who wish to return to The Gambia and make it their home. Darboe said a UDP government would facilitate the rei...",
@@ -278,103 +302,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "55e4096b15b6271d",
-      "title": "WAREF Abandons Presidential Ambitions, Endorses Barrow Ahead of December",
-      "summary": "Published by: The Fatu Network The Alliance for Reorientation and Economic Force (WAREF), led by Modou Lamin Bah, has endorsed President Adama Barrow and joined the ruling National People’s Party (NPP)-led Grand Alliance ahead of December. Bah, whose movement previously unveil...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/waref-abandons-presidential-ambitions-endorses-barrow-ahead-of-december/",
-      "publishedAt": "2026-11-05T17:44:59.000Z",
-      "collectedAt": "2026-11-05T20:59:49.738Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "701df9f22c9ae52f",
-      "title": "International Lawyer Ousman M’Bai Takes Government to Court Over Controversial Airport Security Fee",
-      "summary": "Published by: The Fatu Network Gambian international lawyer Ousman F. M’Bai has filed a legal challenge before the High Court of The Gambia over the controversial Airport Security Fee Scheme at Banjul International Airport, questioning its legality, financial transparency and ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/international-lawyer-ousman-mbai-takes-government-to-court-over-controversial-airport-security-fee/",
-      "publishedAt": "2026-11-05T11:48:11.000Z",
-      "collectedAt": "2026-11-05T12:07:24.616Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "26c8ae571f49d279",
-      "title": "NDP Unveils Plan for 150,000 Jobs and Food Self-Sufficiency Ahead of Election",
-      "summary": "By Dawda Baldeh The opposition National Democratic Party (NDP) has launched its manifesto for the December presidential election, promising to create 150,000 jobs, boost domestic food production and pursue what it describes as “economic and cultural sovereignty” for The Gambia...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ndp-unveils-plan-for-150000-jobs-and-food-self-sufficiency-ahead-of-election/",
-      "publishedAt": "2026-11-05T11:45:47.000Z",
-      "collectedAt": "2026-11-05T12:07:24.616Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "31046afd530fff33",
-      "title": "Putin Awards Prestigious Pushkin Medal to Gambian Diplomat Momodou Lamin Manga at Kremlin",
-      "summary": "Published by: The Fatu Network Russian President Vladimir Putin has awarded the prestigious Pushkin Medal to Gambian diplomat Momodou Lamin Manga, Russia’s Honorary Consul in The Gambia, during a state ceremony at the Kremlin in Moscow on Wednesday, November 4. According to th...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/putin-awards-prestigious-pushkin-medal-to-gambian-diplomat-momodou-lamin-manga-at-kremlin/",
-      "publishedAt": "2026-11-05T09:18:31.000Z",
-      "collectedAt": "2026-11-05T12:07:24.616Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T17:51:16.239Z",
-    "count": 16
+    "generatedAt": "2026-11-12T00:27:14.909Z",
+    "count": 13
   }
 }

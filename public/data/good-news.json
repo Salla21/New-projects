@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "ed7185bd96a105c0",
+      "title": "Sima Urges Gambians to Vote on Policies, Not Crowd Size or Party Loyalty",
+      "summary": "By Fatou Sillah Modou Lamin Sima, leader of the Alliance for Progressive Citizens (APC) and an independent presidential candidate, has urged Gambians to prioritize candidates’ policies and proposed solutions over crowd size, political loyalty, and partisan enthusiasm when voti...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/sima-urges-gambians-to-vote-on-policies-not-crowd-size-or-party-loyalty/",
+      "publishedAt": "2026-11-11T18:39:37.000Z",
+      "collectedAt": "2026-11-12T00:27:10.812Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a7737027dc4f3a64",
       "title": "IFC Partners with Salam Financial Services to Expand Access to Finance for MSMEs & Women Entrepreneurs in The Gambia",
       "summary": "Banjul, The Gambia, November 10, 2026; To help expand access to finance for small and women-owned businesses in underserved areas, boost private sector growth, and support job creation in The Gambia, the International Finance Corporation (IFC), a member of the World Bank Group...",
@@ -436,75 +459,6 @@
       "status": "published"
     },
     {
-      "id": "26c8ae571f49d279",
-      "title": "NDP Unveils Plan for 150,000 Jobs and Food Self-Sufficiency Ahead of Election",
-      "summary": "By Dawda Baldeh The opposition National Democratic Party (NDP) has launched its manifesto for the December presidential election, promising to create 150,000 jobs, boost domestic food production and pursue what it describes as “economic and cultural sovereignty” for The Gambia...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ndp-unveils-plan-for-150000-jobs-and-food-self-sufficiency-ahead-of-election/",
-      "publishedAt": "2026-11-05T11:45:47.000Z",
-      "collectedAt": "2026-11-05T12:07:24.616Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9e46ab9a9b3024f6",
-      "title": "Former BAC Chairman Sheriffo Sonko referred for public-service fitness review",
-      "summary": "The government has ordered an investigation into former Brikama Area Council chairman Sheriffo Sonko over reported financial losses and irregular spending during his time in office. It has also asked the Auditor General to consider recovering public funds, including festive pa...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/former-bac-chairman-sheriffo-sonko-referred-for-public-service-fitness-review/",
-      "publishedAt": "2026-11-05T11:37:00.000Z",
-      "collectedAt": "2026-11-05T12:07:23.899Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "31046afd530fff33",
-      "title": "Putin Awards Prestigious Pushkin Medal to Gambian Diplomat Momodou Lamin Manga at Kremlin",
-      "summary": "Published by: The Fatu Network Russian President Vladimir Putin has awarded the prestigious Pushkin Medal to Gambian diplomat Momodou Lamin Manga, Russia’s Honorary Consul in The Gambia, during a state ceremony at the Kremlin in Moscow on Wednesday, November 4. According to th...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/putin-awards-prestigious-pushkin-medal-to-gambian-diplomat-momodou-lamin-manga-at-kremlin/",
-      "publishedAt": "2026-11-05T09:18:31.000Z",
-      "collectedAt": "2026-11-05T12:07:24.616Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -513,7 +467,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-11T17:51:06.203Z",
+      "collectedAt": "2026-11-12T00:27:06.711Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -527,7 +481,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T17:51:16.239Z",
-    "count": 23
+    "generatedAt": "2026-11-12T00:27:14.909Z",
+    "count": 21
   }
 }

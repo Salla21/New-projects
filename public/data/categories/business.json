@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1bf248f497cddb06",
+      "title": "Germany marks Unity Day in Gambia with call for democracy, national unity",
+      "summary": "Germany’s ambassador to The Gambia and the country’s foreign minister have used celebrations marking the Day of German Unity to highlight the importance of democracy, freedom and national reconciliation, describing them as values that continue to shape both countries’ historie...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/germany-marks-unity-day-in-gambia-with-call-for-democracy-national-unity/",
+      "publishedAt": "2026-11-11T19:28:17.000Z",
+      "collectedAt": "2026-11-12T00:27:06.827Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "524d7bbfd8376b0a",
       "title": "Gambia Validates $60 Million Employment Programme to Create Jobs & Reduce Poverty",
       "summary": "By Mariama Marong The Government of The Gambia has begun a national validation process for a proposed $60 million Public Employment Programme (PEPP), aimed at creating jobs, promoting decent work and improving livelihoods across the country. The two-day validation workshop bri...",
@@ -647,76 +671,6 @@
       "status": "published"
     },
     {
-      "id": "701df9f22c9ae52f",
-      "title": "International Lawyer Ousman M’Bai Takes Government to Court Over Controversial Airport Security Fee",
-      "summary": "Published by: The Fatu Network Gambian international lawyer Ousman F. M’Bai has filed a legal challenge before the High Court of The Gambia over the controversial Airport Security Fee Scheme at Banjul International Airport, questioning its legality, financial transparency and ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/international-lawyer-ousman-mbai-takes-government-to-court-over-controversial-airport-security-fee/",
-      "publishedAt": "2026-11-05T11:48:11.000Z",
-      "collectedAt": "2026-11-05T12:07:24.616Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "66b8942ec01bf52e",
-      "title": "Justice Ministry Rejects UNITE’s ‘False’ Claim That LGCI Report Was Altered",
-      "summary": "The Ministry of Justice has strongly denied UNITE’s allegation that the Local Government Commission of Inquiry report was changed after it was submitted to the government, describing the claim as “entirely false”. In a press release issued on 4 November, the Attorney General’s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/justice-ministry-rejects-unites-false-claim-that-lgci-report-was-altered/",
-      "publishedAt": "2026-11-05T11:43:00.000Z",
-      "collectedAt": "2026-11-05T12:07:23.899Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9e46ab9a9b3024f6",
-      "title": "Former BAC Chairman Sheriffo Sonko referred for public-service fitness review",
-      "summary": "The government has ordered an investigation into former Brikama Area Council chairman Sheriffo Sonko over reported financial losses and irregular spending during his time in office. It has also asked the Auditor General to consider recovering public funds, including festive pa...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/former-bac-chairman-sheriffo-sonko-referred-for-public-service-fitness-review/",
-      "publishedAt": "2026-11-05T11:37:00.000Z",
-      "collectedAt": "2026-11-05T12:07:23.899Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -725,7 +679,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-11T17:51:06.203Z",
+      "collectedAt": "2026-11-12T00:27:06.711Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -748,7 +702,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-11T17:51:06.203Z",
+      "collectedAt": "2026-11-12T00:27:06.711Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -764,7 +718,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-11T17:51:16.239Z",
-    "count": 32
+    "generatedAt": "2026-11-12T00:27:14.909Z",
+    "count": 30
   }
 }
