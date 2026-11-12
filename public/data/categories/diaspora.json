@@ -242,34 +242,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c2caf53d697ece19",
-      "title": "Darboe Pledges ECOMIG Withdrawal, Diaspora Seats in National Assembly",
-      "summary": "By Seedy Jobe United Democratic Party (UDP) Secretary General and presidential candidate ANM Ousainu Darboe has pledged to oversee a carefully planned withdrawal of the ECOWAS Mission in The Gambia (ECOMIG) and introduce parliamentary representation for Gambians living abroad ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-ecomig-withdrawal-diaspora-seats-in-national-assembly/",
-      "publishedAt": "2026-11-05T19:18:20.000Z",
-      "collectedAt": "2026-11-05T20:59:56.572Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T00:27:14.909Z",
-    "count": 11
+    "generatedAt": "2026-11-12T09:40:49.859Z",
+    "count": 10
   }
 }

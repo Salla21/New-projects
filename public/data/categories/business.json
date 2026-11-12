@@ -647,30 +647,6 @@
       "status": "published"
     },
     {
-      "id": "e2101db2b7dc243f",
-      "title": "GALA Slams Government’s Six-Month Silence on Jammeh Assets Report",
-      "summary": "By Seedy Jobe Gambians Against Looted Assets (GALA) has criticized the government for its failure to publicly respond to the National Assembly’s Special Select Committee report on the sale and disposal of former President Yahya Jammeh’s assets, six months after its submission....",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gala-slams-governments-six-month-silence-on-jammeh-assets-report/",
-      "publishedAt": "2026-11-05T19:32:06.000Z",
-      "collectedAt": "2026-11-05T20:59:56.572Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -679,7 +655,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-12T00:27:06.711Z",
+      "collectedAt": "2026-11-12T09:40:44.440Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -702,7 +678,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-12T00:27:06.711Z",
+      "collectedAt": "2026-11-12T09:40:44.440Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -718,7 +694,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T00:27:14.909Z",
-    "count": 30
+    "generatedAt": "2026-11-12T09:40:49.859Z",
+    "count": 29
   }
 }

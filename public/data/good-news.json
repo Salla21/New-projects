@@ -436,29 +436,6 @@
       "status": "published"
     },
     {
-      "id": "d7fbea7f296c3a7c",
-      "title": "NDP-Led Alliance Pledges Referral Hospital in Every Region by 2031",
-      "summary": "By Fatou Sillah The National Democratic Party (NDP) and its alliance partners have pledged to establish at least one well-equipped referral healthcare facility in every region of The Gambia by 2031 as part of their joint presidential manifesto. The manifesto, launched on Wedne...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/ndp-led-alliance-pledges-referral-hospital-in-every-region-by-2031/",
-      "publishedAt": "2026-11-05T19:03:50.000Z",
-      "collectedAt": "2026-11-05T20:59:56.572Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -467,7 +444,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-12T00:27:06.711Z",
+      "collectedAt": "2026-11-12T09:40:44.440Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -481,7 +458,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T00:27:14.909Z",
-    "count": 21
+    "generatedAt": "2026-11-12T09:40:49.859Z",
+    "count": 20
   }
 }
