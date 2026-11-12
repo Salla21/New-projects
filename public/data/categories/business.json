@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "3521cfb1f155a51f",
+      "title": "GCCI urges investment and stronger business ties to unlock economic growth",
+      "summary": "By Ndey Sowe The Gambia Chamber of Commerce and Industry (GCCI) has called for closer cooperation among government, businesses and development partners to expand investment and strengthen the country’s economy. The call came at the GCCI Private Sector Forum 2026, held at Bakad...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gcci-urges-investment-and-stronger-business-ties-to-unlock-economic-growth/",
+      "publishedAt": "2026-11-12T11:05:57.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1bf248f497cddb06",
       "title": "Germany marks Unity Day in Gambia with call for democracy, national unity",
       "summary": "Germany’s ambassador to The Gambia and the country’s foreign minister have used celebrations marking the Day of German Unity to highlight the importance of democracy, freedom and national reconciliation, describing them as values that continue to shape both countries’ historie...",
@@ -655,7 +678,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-12T09:40:44.440Z",
+      "collectedAt": "2026-11-12T18:04:46.844Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -678,7 +701,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-12T09:40:44.440Z",
+      "collectedAt": "2026-11-12T18:04:46.844Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -694,7 +717,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T09:40:49.859Z",
-    "count": 29
+    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "count": 30
   }
 }

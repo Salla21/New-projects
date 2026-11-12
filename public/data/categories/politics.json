@@ -1,6 +1,191 @@
 {
   "items": [
     {
+      "id": "b30cf6651dbaef77",
+      "title": "NDP Confident Bojang Will Be Cleared, Says IEC Has No Grounds to Reject His Candidacy",
+      "summary": "By Seedy Jobe The National Democratic Party (NDP) has expressed confidence that its presidential candidate, Kebba Madi Bojang, will be cleared to contest the December 5 presidential election, insisting that it has submitted all required documentation and that the Independent E...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-confident-bojang-will-be-cleared-says-iec-has-no-grounds-to-reject-his-candidacy/",
+      "publishedAt": "2026-11-12T17:59:37.000Z",
+      "collectedAt": "2026-11-12T18:04:59.421Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e796c322c2c11424",
+      "title": "Germany urges free, Fair Gambian elections as December poll nears",
+      "summary": "By Hadram Hydara Germany has called on all actors involved in The Gambia’s presidential election to uphold democratic principles, remain impartial and ensure that the 5 December vote is conducted peacefully and fairly. Addressing guests at Germany’s National Day celebration at...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/germany-urges-free-fair-gambian-elections-as-december-poll-nears/",
+      "publishedAt": "2026-11-12T12:10:54.000Z",
+      "collectedAt": "2026-11-12T18:04:47.364Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ff53de2baa94c2b1",
+      "title": "Lamin J. Darbo submits presidential nomination papers backed by Team Gambia Grand Coalition",
+      "summary": "By Yankuba Jallow Lamin J. Darbo has submitted his nomination papers to contest the December 5 presidential election, presenting himself as an independent candidate backed by the Team Gambia Grand Coalition. Darbo arrived at the Independent Electoral Commission’s Election Hous...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/lamin-j-darbo-submits-presidential-nomination-papers-backed-by-team-gambia-grand-coalition/",
+      "publishedAt": "2026-11-12T11:22:09.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b1df9fee3b35ee3c",
+      "title": "ChildFund urges candidates to put children’s rights in election manifestos",
+      "summary": "By Ndey Sowe ChildFund International The Gambia is urging political parties and presidential candidates to make children’s rights, safety and welfare a priority in their plans for the December 2026 election. Nfamara Dabo, the organisation’s interim country director, made the c...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/childfund-urges-candidates-to-put-childrens-rights-in-election-manifestos/",
+      "publishedAt": "2026-11-12T11:21:54.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f6c5753003db947e",
+      "title": "IEC says 18 presidential aspirants submit papers, nine withdraw",
+      "summary": "Only Barrow, Darboe & Talib submitted all required  papers By Nelson Manneh Eighteen of the 27 people who collected nomination papers for the December 5 presidential election had submitted them to the Independent Electoral Commission (IEC) by the end of the ninth day of nomina...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-says-18-presidential-aspirants-submit-papers-nine-withdraw/",
+      "publishedAt": "2026-11-12T11:18:42.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "639ed4f659094716",
+      "title": "Honourable Almameh Gibba submits nomination papers, pledges national reconciliation",
+      "summary": "By Yankuba Jallow Honourable Almameh Gibba, the presidential candidate for the APRC No-Alliance faction, has submitted his nomination papers to the Independent Electoral Commission (IEC). The Independent Electoral Commission (IEC) received his nomination documents on Wednesday...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/honourable-almameh-gibba-submits-nomination-papers-pledges-national-reconciliation/",
+      "publishedAt": "2026-11-12T10:58:50.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "92abad163847288b",
+      "title": "WHAT WILL HAPPEN IF ALL 18 PRESIDENTIAL ASPIRANTS ARE NOMINATED?",
+      "summary": "Each candidate is entitled to a ballot box and all the ballot boxes must be in a polling booth, that is, eighteen ballot boxes if you have eighteen candidates. This would lead to much higher cost and greater logistical problem for the IEC. Furthermore, how will these ballot bo...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-will-happen-if-all-18-presidential-aspirants-are-nominated/",
+      "publishedAt": "2026-11-12T10:18:03.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d41f347b99f122fb",
+      "title": "NOMINATION IS OVER: ALL EYES NOW ON IEC",
+      "summary": "Twenty-seven presidential aspirants collected nomination papers from the IEC but only eighteen submitted their nomination papers. The remaining nine withdrew. The IEC is to scrutinise the documents and affirm whether the candidates have a minimum five thousand nominators natio...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nomination-is-over-all-eyes-now-on-iec/",
+      "publishedAt": "2026-11-12T10:09:52.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "57b0af6f74860d99",
       "title": "Team Gambia’s Lamin J. Darboe Pledges Law-Based, Transparent Governance as He Files Nomination Papers",
       "summary": "By Makutu Manneh Lamin J. Darboe, the presidential aspirant of the Team Gambia Grand Coalition, has pledged to establish a government founded on the rule of law, transparency, and respect for citizens’ dignity if elected president in the December 5 presidential election. Mr. D...",
@@ -1815,7 +2000,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-12T09:40:44.440Z",
+      "collectedAt": "2026-11-12T18:04:46.844Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1839,7 +2024,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-12T09:40:44.440Z",
+      "collectedAt": "2026-11-12T18:04:46.844Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1855,7 +2040,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T09:40:49.859Z",
-    "count": 79
+    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "count": 87
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "70eb9b6ffef28886",
+      "title": "BST Galaxy Appoints New Technical Director",
+      "summary": "By Momodou Jarju The Gambia’s first division league side BST Galaxy Football Club Wednesday announced the appointment of Sheikh Adama Joof as their new Technical Director. His appointment comes ahead of the 2026/27 The Gambia Football Federation (GFF) football season. The club...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/bst-galaxy-appoints-new-technical-director/",
+      "publishedAt": "2026-11-12T10:05:59.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "daab7b542f595dde",
       "title": "Barrow Says He Fears No Rival in December Presidential Election",
       "summary": "By Makutu Manneh President Adama Barrow has declared that he is not intimidated by any of his opponents in the December 5 presidential election, expressing confidence in his ability to secure another victory. Speaking at a rally in Buffer Zone shortly after submitting his nomi...",
@@ -152,7 +176,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-12T09:40:44.440Z",
+      "collectedAt": "2026-11-12T18:04:46.844Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -169,7 +193,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T09:40:49.859Z",
-    "count": 7
+    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "count": 8
   }
 }

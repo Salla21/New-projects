@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b30cf6651dbaef77",
+      "title": "NDP Confident Bojang Will Be Cleared, Says IEC Has No Grounds to Reject His Candidacy",
+      "summary": "By Seedy Jobe The National Democratic Party (NDP) has expressed confidence that its presidential candidate, Kebba Madi Bojang, will be cleared to contest the December 5 presidential election, insisting that it has submitted all required documentation and that the Independent E...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/ndp-confident-bojang-will-be-cleared-says-iec-has-no-grounds-to-reject-his-candidacy/",
+      "publishedAt": "2026-11-12T17:59:37.000Z",
+      "collectedAt": "2026-11-12T18:04:59.421Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "57b0af6f74860d99",
       "title": "Team Gambia’s Lamin J. Darboe Pledges Law-Based, Transparent Governance as He Files Nomination Papers",
       "summary": "By Makutu Manneh Lamin J. Darboe, the presidential aspirant of the Team Gambia Grand Coalition, has pledged to establish a government founded on the rule of law, transparency, and respect for citizens’ dignity if elected president in the December 5 presidential election. Mr. D...",
@@ -1139,7 +1162,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T09:40:49.859Z",
-    "count": 49
+    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "count": 50
   }
 }

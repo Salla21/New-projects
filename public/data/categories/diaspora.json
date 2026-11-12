@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "87ef8c36c91c79e4",
+      "title": "UK and The Gambia Honour Fallen Heroes at Annual Remembrance Service",
+      "summary": "Press release – The British High Commission in Banjul joined the Government of The Gambia, members of the armed and security services, religious leaders, diplomats, veterans and members of the public to commemorate those who made the ultimate sacrifice in the two World Wars an...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/uk-and-the-gambia-honour-fallen-heroes-at-annual-remembrance-service/",
+      "publishedAt": "2026-11-12T10:55:26.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "fd4b32f203351f87",
+      "title": "Amnesty Accuses UN Peacekeepers of Failing to Prevent Massacre That Killed 213 in South Sudan",
+      "summary": "Published by: The Fatu Network The United Nations is facing serious accusations from Amnesty International, which says UN peacekeepers received advance warnings of a deadly attack in South Sudan but failed to take sufficient action to prevent a massacre that left at least 213 ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/amnesty-accuses-un-peacekeepers-of-failing-to-prevent-massacre-that-killed-213-in-south-sudan/",
+      "publishedAt": "2026-11-12T10:43:32.000Z",
+      "collectedAt": "2026-11-12T18:04:47.364Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d41f347b99f122fb",
+      "title": "NOMINATION IS OVER: ALL EYES NOW ON IEC",
+      "summary": "Twenty-seven presidential aspirants collected nomination papers from the IEC but only eighteen submitted their nomination papers. The remaining nine withdrew. The IEC is to scrutinise the documents and affirm whether the candidates have a minimum five thousand nominators natio...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nomination-is-over-all-eyes-now-on-iec/",
+      "publishedAt": "2026-11-12T10:09:52.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d5156cfa22aa2faa",
       "title": "African descendants renew call for citizenship in The Gambia",
       "summary": "Nyancho Kujabi says she was overjoyed after hearing a report that United Democratic Party leader Ousainou Darboe had pledged to help African descendants of slavery integrate into The Gambia. “I leapt out of bed in sheer joy,” said Kujabi, founder of Blaxit and COAD. “After yea...",
@@ -245,7 +315,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T09:40:49.859Z",
-    "count": 10
+    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "count": 13
   }
 }

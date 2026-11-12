@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "ff53de2baa94c2b1",
+      "title": "Lamin J. Darbo submits presidential nomination papers backed by Team Gambia Grand Coalition",
+      "summary": "By Yankuba Jallow Lamin J. Darbo has submitted his nomination papers to contest the December 5 presidential election, presenting himself as an independent candidate backed by the Team Gambia Grand Coalition. Darbo arrived at the Independent Electoral Commission’s Election Hous...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/lamin-j-darbo-submits-presidential-nomination-papers-backed-by-team-gambia-grand-coalition/",
+      "publishedAt": "2026-11-12T11:22:09.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "57b0af6f74860d99",
       "title": "Team Gambia’s Lamin J. Darboe Pledges Law-Based, Transparent Governance as He Files Nomination Papers",
       "summary": "By Makutu Manneh Lamin J. Darboe, the presidential aspirant of the Team Gambia Grand Coalition, has pledged to establish a government founded on the rule of law, transparency, and respect for citizens’ dignity if elected president in the December 5 presidential election. Mr. D...",
@@ -285,7 +308,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-12T09:40:44.440Z",
+      "collectedAt": "2026-11-12T18:04:46.844Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -306,7 +329,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-12T09:40:44.440Z",
+      "collectedAt": "2026-11-12T18:04:46.844Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -320,7 +343,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T09:40:49.859Z",
-    "count": 14
+    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "count": 15
   }
 }

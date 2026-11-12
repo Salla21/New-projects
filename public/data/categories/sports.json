@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "19aa10c8cb0521c5",
+      "title": "Afcon Qualifiers: Scorpions in Bouake ahead of tonight’s clash against Ivory Coast",
+      "summary": "By Momodou Jarju The Gambia’s Scorpions landed in Abidjan on Tuesday as they brace-up for today’s encounter against one of the continent’s heavyweights Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers. The match will take place in Bouake at...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/afcon-qualifiers-scorpions-in-bouake-ahead-of-tonights-clash-against-ivory-coast/",
+      "publishedAt": "2026-11-12T15:50:28.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "70eb9b6ffef28886",
+      "title": "BST Galaxy Appoints New Technical Director",
+      "summary": "By Momodou Jarju The Gambia’s first division league side BST Galaxy Football Club Wednesday announced the appointment of Sheikh Adama Joof as their new Technical Director. His appointment comes ahead of the 2026/27 The Gambia Football Federation (GFF) football season. The club...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/bst-galaxy-appoints-new-technical-director/",
+      "publishedAt": "2026-11-12T10:05:59.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "technology",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d624cc5ca677111f",
       "title": "Gambia, Guinea and Senegal Share Honours at Sub-Regional Tennis Tournament",
       "summary": "By Ndey Sowe The Gambia, Guinea and Senegal have emerged among the top performers at the GUTA/ERCA/BYSDC Under-14 Sub-Regional Tennis Tournament, which brought together young boys and girls from the participating countries for three days of competition. The tournament, organis...",
@@ -96,7 +143,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T09:40:49.859Z",
-    "count": 4
+    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "count": 6
   }
 }

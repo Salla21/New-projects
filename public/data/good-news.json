@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "3521cfb1f155a51f",
+      "title": "GCCI urges investment and stronger business ties to unlock economic growth",
+      "summary": "By Ndey Sowe The Gambia Chamber of Commerce and Industry (GCCI) has called for closer cooperation among government, businesses and development partners to expand investment and strengthen the country’s economy. The call came at the GCCI Private Sector Forum 2026, held at Bakad...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/gcci-urges-investment-and-stronger-business-ties-to-unlock-economic-growth/",
+      "publishedAt": "2026-11-12T11:05:57.000Z",
+      "collectedAt": "2026-11-12T18:04:45.823Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ed7185bd96a105c0",
       "title": "Sima Urges Gambians to Vote on Policies, Not Crowd Size or Party Loyalty",
       "summary": "By Fatou Sillah Modou Lamin Sima, leader of the Alliance for Progressive Citizens (APC) and an independent presidential candidate, has urged Gambians to prioritize candidates’ policies and proposed solutions over crowd size, political loyalty, and partisan enthusiasm when voti...",
@@ -444,7 +467,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-12T09:40:44.440Z",
+      "collectedAt": "2026-11-12T18:04:46.844Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -458,7 +481,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T09:40:49.859Z",
-    "count": 20
+    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "count": 21
   }
 }
