@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4af808ff53eee86e",
+      "title": "GID Intercepts 200 Suspected Irregular Migrants in Two-Day Operations",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 200 suspected irregular migrants in two separate operations conducted across the North Bank and West Coast Regions over two days. According to the department, the operations were carried out by its Migrat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gid-intercepts-200-suspected-irregular-migrants-in-two-day-operations/",
+      "publishedAt": "2026-11-12T23:06:03.000Z",
+      "collectedAt": "2026-11-13T01:00:20.293Z",
+      "region": "north-bank",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3521cfb1f155a51f",
       "title": "GCCI urges investment and stronger business ties to unlock economic growth",
       "summary": "By Ndey Sowe The Gambia Chamber of Commerce and Industry (GCCI) has called for closer cooperation among government, businesses and development partners to expand investment and strengthen the country’s economy. The call came at the GCCI Private Sector Forum 2026, held at Bakad...",
@@ -623,53 +647,6 @@
       "status": "published"
     },
     {
-      "id": "7536b431d84b166e",
-      "title": "Justice Ministry Reportedly Orders Police Probe Into Bensouda, Lowe, Sanneh, Other Local Officials Amid Security Concerns",
-      "summary": "By Staff Writer The Ministry of Justice has directed the Inspector General of Police to establish an investigative panel to question Kanifing Municipal Council Mayor Talib Ahmed Bensouda and several other local government officials adversely mentioned in the government’s White...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/justice-ministry-reportedly-orders-police-probe-into-bensouda-lowe-sanneh-other-local-officials-amid-security-concerns/",
-      "publishedAt": "2026-11-06T06:51:14.000Z",
-      "collectedAt": "2026-11-06T11:59:17.631Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9ac01f4855e38abd",
-      "title": "Independent Aspirant Alieu Sowe Defends Presidential Readiness Despite Expired ID, Missing Deposit",
-      "summary": "By Makutu Manneh Independent presidential aspirant Alieu Sowe has defended his readiness to lead The Gambia after facing questions over his arrival at the Independent Electoral Commission (IEC) for nomination with an expired national identity card, no passport, and without the...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/independent-aspirant-alieu-sowe-defends-presidential-readiness-despite-expired-id-missing-deposit/",
-      "publishedAt": "2026-11-05T23:42:37.000Z",
-      "collectedAt": "2026-11-06T02:14:02.546Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -678,7 +655,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-12T18:04:46.844Z",
+      "collectedAt": "2026-11-13T01:00:11.179Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -701,7 +678,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-12T18:04:46.844Z",
+      "collectedAt": "2026-11-13T01:00:11.179Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -717,7 +694,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T18:05:03.552Z",
-    "count": 30
+    "generatedAt": "2026-11-13T01:00:24.366Z",
+    "count": 29
   }
 }

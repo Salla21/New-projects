@@ -90,75 +90,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7536b431d84b166e",
-      "title": "Justice Ministry Reportedly Orders Police Probe Into Bensouda, Lowe, Sanneh, Other Local Officials Amid Security Concerns",
-      "summary": "By Staff Writer The Ministry of Justice has directed the Inspector General of Police to establish an investigative panel to question Kanifing Municipal Council Mayor Talib Ahmed Bensouda and several other local government officials adversely mentioned in the government’s White...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/justice-ministry-reportedly-orders-police-probe-into-bensouda-lowe-sanneh-other-local-officials-amid-security-concerns/",
-      "publishedAt": "2026-11-06T06:51:14.000Z",
-      "collectedAt": "2026-11-06T11:59:17.631Z",
-      "region": "kanifing",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d0cc7f983fceda9d",
-      "title": "Old Bakau Councillor Accuses Government of Discrediting KMC General Council in White Paper",
-      "summary": "By Fatou Sillah Old Bakau Ward Councillor Lamin Dibba has criticised the government’s White Paper on the findings of the Local Government Commission of Inquiry, accusing the government of unfairly targeting the Kanifing Municipal Council (KMC) General Council and Mayor Talib A...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/old-bakau-councillor-accuses-government-of-discrediting-kmc-general-council-in-white-paper/",
-      "publishedAt": "2026-11-06T00:01:00.000Z",
-      "collectedAt": "2026-11-06T02:14:02.546Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "29c070875c193984",
-      "title": "KMC Rejects Government Recommendation to Remove Mayor Talib Bensouda",
-      "summary": "By Fatou Sillah The Kanifing Municipal Council (KMC) has rejected the government’s recommendation to initiate proceedings for the removal of Mayor Talib Ahmed Bensouda, arguing that the government’s White Paper does not provide sufficient grounds for such action. The decision ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/kmc-rejects-government-recommendation-to-remove-mayor-talib-bensouda/",
-      "publishedAt": "2026-11-05T20:03:51.000Z",
-      "collectedAt": "2026-11-05T20:59:56.572Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T18:05:03.552Z",
-    "count": 7
+    "generatedAt": "2026-11-13T01:00:24.366Z",
+    "count": 4
   }
 }

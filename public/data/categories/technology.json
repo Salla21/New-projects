@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6b8487000ce5c242",
+      "title": "Minister Gomez Dismisses Claims Government Is Responsible for UTG Salary Delays",
+      "summary": "By Fatou Sillah The Minister of Higher Education, Research, Science and Technology, Professor Pierre Gomez, has dismissed claims that the government is responsible for delays in salary payments to staff at the University of The Gambia (UTG), insisting that the responsibility r...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/minister-gomez-dismisses-claims-government-is-responsible-for-utg-salary-delays/",
+      "publishedAt": "2026-11-12T23:10:22.000Z",
+      "collectedAt": "2026-11-13T01:00:20.293Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "70eb9b6ffef28886",
       "title": "BST Galaxy Appoints New Technical Director",
       "summary": "By Momodou Jarju The Gambia’s first division league side BST Galaxy Football Club Wednesday announced the appointment of Sheikh Adama Joof as their new Technical Director. His appointment comes ahead of the 2026/27 The Gambia Football Federation (GFF) football season. The club...",
@@ -145,29 +169,6 @@
       "status": "published"
     },
     {
-      "id": "0860ea47565093ab",
-      "title": "AQA Opens New Institute to Train Laboratory and Pharmacy Technicians in The Gambia",
-      "summary": "By Makutu Manneh The AQA Institute of Diagnostics and Allied Health Sciences (AIDAHs) was officially inaugurated on Thursday at AQA Headquarters, marking a new initiative to address the growing demand for qualified laboratory and pharmacy technicians in The Gambia. Established...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/aqa-opens-new-institute-to-train-laboratory-and-pharmacy-technicians-in-the-gambia/",
-      "publishedAt": "2026-11-06T00:17:20.000Z",
-      "collectedAt": "2026-11-06T02:14:02.546Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -176,7 +177,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-12T18:04:46.844Z",
+      "collectedAt": "2026-11-13T01:00:11.179Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -193,7 +194,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "generatedAt": "2026-11-13T01:00:24.366Z",
     "count": 8
   }
 }

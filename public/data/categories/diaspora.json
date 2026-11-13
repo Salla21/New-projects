@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "4af808ff53eee86e",
+      "title": "GID Intercepts 200 Suspected Irregular Migrants in Two-Day Operations",
+      "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 200 suspected irregular migrants in two separate operations conducted across the North Bank and West Coast Regions over two days. According to the department, the operations were carried out by its Migrat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gid-intercepts-200-suspected-irregular-migrants-in-two-day-operations/",
+      "publishedAt": "2026-11-12T23:06:03.000Z",
+      "collectedAt": "2026-11-13T01:00:20.293Z",
+      "region": "north-bank",
+      "categories": [
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "91693c388c1223aa",
+      "title": "Political Analyst Juwara Challenges Barrow’s Comparison of Gambia With UK, Germany on Term Limits",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has challenged President Adama Barrow’s comparison of The Gambia with the United Kingdom and Germany on presidential term limits, arguing that such comparisons must also consider the quality of governance and living standards enj...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-challenges-barrows-comparison-of-gambia-with-uk-germany-on-term-limits/",
+      "publishedAt": "2026-11-12T21:16:51.000Z",
+      "collectedAt": "2026-11-13T01:00:20.293Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "87ef8c36c91c79e4",
       "title": "UK and The Gambia Honour Fallen Heroes at Annual Remembrance Service",
       "summary": "Press release – The British High Commission in Banjul joined the Government of The Gambia, members of the armed and security services, religious leaders, diplomats, veterans and members of the public to commemorate those who made the ultimate sacrifice in the two World Wars an...",
@@ -288,34 +336,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ea344d6b0eed59b1",
-      "title": "EU Deploys Election Observers Across The Gambia Ahead of December Presidential Election",
-      "summary": "By Seedy Jobe The European Union Election Observation Mission (EU EOM) has officially launched its monitoring of The Gambia’s December 5, 2026, presidential election, deploying observers across the country to assess the electoral process. The mission was formally launched on T...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/eu-deploys-election-observers-across-the-gambia-ahead-of-december-presidential-election/",
-      "publishedAt": "2026-11-05T19:37:36.000Z",
-      "collectedAt": "2026-11-05T20:59:56.572Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T18:05:03.552Z",
-    "count": 13
+    "generatedAt": "2026-11-13T01:00:24.366Z",
+    "count": 14
   }
 }

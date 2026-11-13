@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "cbe7253923bcaeda",
+      "title": "SOCIAL SECURITY AND HOUSING FINANCE CORPORATION (SSHFC)",
+      "summary": "END OF YEAR PROMOTIONAL LAND SALES Nafugan Housing Estate The Social Security and Housing Finance Corporation (SSHFC) is pleased to announce promotional plot sales at Nafugan Housing Estate, the Corporation’s first rural housing estate in The Gambia. Location: Nafugan Housing ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/social-security-and-housing-finance-corporation-sshfc/",
+      "publishedAt": "2026-11-12T19:36:43.000Z",
+      "collectedAt": "2026-11-13T01:00:11.291Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e796c322c2c11424",
       "title": "Germany urges free, Fair Gambian elections as December poll nears",
       "summary": "By Hadram Hydara Germany has called on all actors involved in The Gambia’s presidential election to uphold democratic principles, remain impartial and ensure that the 5 December vote is conducted peacefully and fairly. Addressing guests at Germany’s National Day celebration at...",
@@ -346,33 +367,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4355854e573a16df",
-      "title": "President Barrow Rejects UNITE’s Claims, Defends Timing of Inquiry White Paper Publication",
-      "summary": "Written by: Dawda Baldeh President Adama Barrow has rejected allegations of political bias surrounding the publication of the Government’s White Paper on the Local Government Commission of Inquiry, maintaining that the decision was made in accordance with constitutional requir...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-rejects-unites-claims-defends-timing-of-inquiry-white-paper-publication/",
-      "publishedAt": "2026-11-05T20:35:10.000Z",
-      "collectedAt": "2026-11-05T20:59:49.738Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-12T18:05:03.552Z",
+    "generatedAt": "2026-11-13T01:00:24.366Z",
     "count": 16
   }
 }
