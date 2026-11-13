@@ -1,6 +1,193 @@
 {
   "items": [
     {
+      "id": "aa3bcbac13b7c056",
+      "title": "IEC accepts five presidential nominations, rejects two candidates",
+      "summary": "Kebba Madi Bojang’s candidature rejected By Nelson Manneh The Independent Electoral Commission (IEC) has accepted the nomination papers of five presidential candidates for the December 5 election and rejected the submissions of two others, according to its latest update. The a...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-accepts-five-presidential-nominations-rejects-two-candidates/",
+      "publishedAt": "2026-11-13T12:14:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f22a8f4fb021d05f",
+      "title": "Kebba Madi Bojang to challenge IEC’s rejection of his nomination",
+      "summary": "By Yankuba Jallow National Democratic Party flagbearer Kebba Madi Bojang says he will ask his lawyers to challenge the Independent Electoral Commission’s rejection of his presidential nomination. The IEC rejected Bojang’s candidature over a discrepancy between the date of birt...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kebba-madi-bojang-to-challenge-iecs-rejection-of-his-nomination/",
+      "publishedAt": "2026-11-13T12:09:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "39413698c15e7ded",
+      "title": "NAWEC and Dutch utility launch water services partnership",
+      "summary": "By Mariama Marong The National Water and Electricity Company (NAWEC) has launched a two-year partnership with Dutch water utility VEI to improve water services in The Gambia. The Water Operators Partnership, which could be extended by 12 months, will support the exchange of te...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nawec-and-dutch-utility-launch-water-services-partnership/",
+      "publishedAt": "2026-11-13T12:03:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f4b852c728f8dfc6",
+      "title": "Political parties sign Janjabureh Peace Accord ahead of election",
+      "summary": "By Mariama Marong Political parties and national and international stakeholders have signed a revised peace accord ahead of The Gambia’s December 5 presidential election, pledging to support peaceful, inclusive and credible polls. The signing took place on Thursday, November 1...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/political-parties-sign-janjabureh-peace-accord-ahead-of-election/",
+      "publishedAt": "2026-11-13T12:01:40.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0561a6015674f2a6",
+      "title": "Honourable Halifa Sallah urges parties to uphold peace and democratic values",
+      "summary": "By Mariama Marong Veteran politician Halifa Sallah has urged political parties to uphold peace, unity and equal rights ahead of the December 5 presidential election, saying leaders can govern only with the consent and cooperation of the people. Speaking at the signing of the r...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/honourable-halifa-sallah-urges-parties-to-uphold-peace-and-democratic-values/",
+      "publishedAt": "2026-11-13T11:55:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1f5571a7835a1b69",
+      "title": "The steep price of power for Gambian women",
+      "summary": "By Talibeh Hydara, Ndey Sowe & Isatou Colley Adama Bah lives in a two-bedroom house in Sukuta, a large suburban town and a political powerhouse in the West Coast Region. On the walls of her parlour, framed family pictures hang next to those of her party leader, Ousainu Darboe....",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-steep-price-of-power-for-gambian-women/",
+      "publishedAt": "2026-11-13T11:50:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "24d96591294e5ba2",
+      "title": "WILL CANDIDATES AND POLITICAL PARTIES OBSERVE THE IEC CODE OF ETHICS DURING THE CAMPAIGN?",
+      "summary": "The IEC does have a code of ethics for political parties and candidates which stipulate how they should conduct themselves during campaign. Will the candidates abide by this code during the campaign? If they do, we should have a smooth election. The following is part of the Co...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/will-candidates-and-political-parties-observe-the-iec-code-of-ethics-during-the-campaign/",
+      "publishedAt": "2026-11-13T11:46:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8eaa8c6a80792ff6",
+      "title": "THE CLOCK IS TICKING",
+      "summary": "The clock is ticking. Soon the first stage of the election cycle (presidential nomination will be over. By tomorrow, 14th November, the remaining eleven aspiring candidates who have issues to sort out will know their fate, that is, whether their nomination will be accepted. Th...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-clock-is-ticking/",
+      "publishedAt": "2026-11-13T11:42:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "19aa10c8cb0521c5",
       "title": "Afcon Qualifiers: Scorpions in Bouake ahead of tonight’s clash against Ivory Coast",
       "summary": "By Momodou Jarju The Gambia’s Scorpions landed in Abidjan on Tuesday as they brace-up for today’s encounter against one of the continent’s heavyweights Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers. The match will take place in Bouake at...",
@@ -903,7 +1090,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T17:38:35.149Z",
-    "count": 39
+    "generatedAt": "2026-11-13T23:28:03.909Z",
+    "count": 47
   }
 }

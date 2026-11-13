@@ -1,6 +1,125 @@
 {
   "items": [
     {
+      "id": "e4d3ebd1ce6b0265",
+      "title": "Transport Union President Urges Drivers to Prioritise Safety During Presidential Campaign",
+      "summary": "By Fatou Sillah The President of The Gambia Transport Union, Omar Ceesay, has urged commercial drivers to prioritize passenger safety and comply with road traffic regulations as political parties prepare to begin campaigning ahead of the December 5 presidential election. Mr. C...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/transport-union-president-urges-drivers-to-prioritise-safety-during-presidential-campaign/",
+      "publishedAt": "2026-11-13T22:36:51.000Z",
+      "collectedAt": "2026-11-13T23:27:59.774Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "184ccfecb81bda40",
+      "title": "UDP Youth Leader Accuses NPP of Spending Millions to Create Illusion of Popular Support",
+      "summary": "By Seedy Jobe Hagi Suwaneh, National Youth President of the United Democratic Party (UDP), has accused the ruling National People’s Party (NPP) of spending millions of dalasis to mobilize crowds for political events, alleging that the party is more concerned with projecting an...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-accuses-npp-of-spending-millions-to-create-illusion-of-popular-support/",
+      "publishedAt": "2026-11-13T21:15:30.000Z",
+      "collectedAt": "2026-11-13T23:27:59.774Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a61f3f22bcb6f66e",
+      "title": "Tabax Reewmi, UNITE to Formalize Political Alliance Ahead of December Election",
+      "summary": "By Staff Writer Tabax Reewmi and the Unite for National Integrity, Transformation and Equality (UNITE) are set to formalize a political alliance on Saturday, November 14, as opposition groups intensify efforts to consolidate support ahead of The Gambia’s December 5 presidentia...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/tabax-reewmi-unite-to-formalize-political-alliance-ahead-of-december-election/",
+      "publishedAt": "2026-11-13T19:06:23.000Z",
+      "collectedAt": "2026-11-13T23:27:59.774Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Staff Writer",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "39413698c15e7ded",
+      "title": "NAWEC and Dutch utility launch water services partnership",
+      "summary": "By Mariama Marong The National Water and Electricity Company (NAWEC) has launched a two-year partnership with Dutch water utility VEI to improve water services in The Gambia. The Water Operators Partnership, which could be extended by 12 months, will support the exchange of te...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nawec-and-dutch-utility-launch-water-services-partnership/",
+      "publishedAt": "2026-11-13T12:03:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f4b852c728f8dfc6",
+      "title": "Political parties sign Janjabureh Peace Accord ahead of election",
+      "summary": "By Mariama Marong Political parties and national and international stakeholders have signed a revised peace accord ahead of The Gambia’s December 5 presidential election, pledging to support peaceful, inclusive and credible polls. The signing took place on Thursday, November 1...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/political-parties-sign-janjabureh-peace-accord-ahead-of-election/",
+      "publishedAt": "2026-11-13T12:01:40.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1583cb0060fa6804",
       "title": "Germany expands support for police reform, justice and investment in Gambia",
       "summary": "By Hadram Hydara Germany and The Gambia have reaffirmed their expanding partnership, with both countries highlighting growing cooperation in democratic governance, security reform, economic development and investment. Speaking during Germany’s National Day celebrations on Tues...",
@@ -599,54 +718,6 @@
       "status": "published"
     },
     {
-      "id": "acbca11df1276964",
-      "title": "Bensouda Pledges Greater Autonomy and Resources for Local Councils if Elected President",
-      "summary": "By Fatou Sillah Outgoing Kanifing Municipal Council (KMC) Mayor Talib Ahmed Bensouda has pledged to strengthen local government authorities by granting them greater autonomy, adequate funding, and institutional support if elected president. Bensouda said local councils are bes...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-greater-autonomy-and-resources-for-local-councils-if-elected-president/",
-      "publishedAt": "2026-11-06T18:05:48.000Z",
-      "collectedAt": "2026-11-06T19:17:32.151Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5843353e7e491959",
-      "title": "Gambia Bar Association Official Criticizes Delayed Release of Local Government Commission Report",
-      "summary": "By Seedy Jobe The Secretary General of the Gambia Bar Association, Lawyer Abdoulie Fatty, has criticized the delayed publication of the Local Government Commission of Inquiry report, arguing that the handling of the process undermined fair hearing, transparency, and public con...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-bar-association-official-criticizes-delayed-release-of-local-government-commission-report/",
-      "publishedAt": "2026-11-06T17:56:28.000Z",
-      "collectedAt": "2026-11-06T19:17:32.151Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -655,7 +726,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-13T17:38:20.491Z",
+      "collectedAt": "2026-11-13T23:27:56.721Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -678,7 +749,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-13T17:38:20.491Z",
+      "collectedAt": "2026-11-13T23:27:56.721Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -694,7 +765,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T17:38:35.149Z",
-    "count": 29
+    "generatedAt": "2026-11-13T23:28:03.909Z",
+    "count": 32
   }
 }

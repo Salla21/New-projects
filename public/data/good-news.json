@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "39413698c15e7ded",
+      "title": "NAWEC and Dutch utility launch water services partnership",
+      "summary": "By Mariama Marong The National Water and Electricity Company (NAWEC) has launched a two-year partnership with Dutch water utility VEI to improve water services in The Gambia. The Water Operators Partnership, which could be extended by 12 months, will support the exchange of te...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/nawec-and-dutch-utility-launch-water-services-partnership/",
+      "publishedAt": "2026-11-13T12:03:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1583cb0060fa6804",
       "title": "Germany expands support for police reform, justice and investment in Gambia",
       "summary": "By Hadram Hydara Germany and The Gambia have reaffirmed their expanding partnership, with both countries highlighting growing cooperation in democratic governance, security reform, economic development and investment. Speaking during Germany’s National Day celebrations on Tues...",
@@ -334,7 +357,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-13T17:38:20.491Z",
+      "collectedAt": "2026-11-13T23:27:56.721Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -348,7 +371,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T17:38:35.149Z",
-    "count": 15
+    "generatedAt": "2026-11-13T23:28:03.909Z",
+    "count": 16
   }
 }

@@ -344,31 +344,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5d0ac69acb9ad3c3",
-      "title": "Publication Day! The Buzz Has Gone Global!",
-      "summary": "By Momodou Ndow It is finally here! The wait is over, and the buzz is officially GLOBAL! The Mischievous Mosquitoes of Banjul have officially landed on the world stage! What began as a story rooted in the streets of Banjul, The Gambia, has taken flight beyond borders, carrying...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/publication-day-the-buzz-has-gone-global/",
-      "publishedAt": "2026-11-06T18:15:46.000Z",
-      "collectedAt": "2026-11-06T19:17:29.154Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T17:38:35.149Z",
-    "count": 16
+    "generatedAt": "2026-11-13T23:28:03.909Z",
+    "count": 15
   }
 }

@@ -113,79 +113,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5d0ac69acb9ad3c3",
-      "title": "Publication Day! The Buzz Has Gone Global!",
-      "summary": "By Momodou Ndow It is finally here! The wait is over, and the buzz is officially GLOBAL! The Mischievous Mosquitoes of Banjul have officially landed on the world stage! What began as a story rooted in the streets of Banjul, The Gambia, has taken flight beyond borders, carrying...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/publication-day-the-buzz-has-gone-global/",
-      "publishedAt": "2026-11-06T18:15:46.000Z",
-      "collectedAt": "2026-11-06T19:17:29.154Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "acbca11df1276964",
-      "title": "Bensouda Pledges Greater Autonomy and Resources for Local Councils if Elected President",
-      "summary": "By Fatou Sillah Outgoing Kanifing Municipal Council (KMC) Mayor Talib Ahmed Bensouda has pledged to strengthen local government authorities by granting them greater autonomy, adequate funding, and institutional support if elected president. Bensouda said local councils are bes...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-greater-autonomy-and-resources-for-local-councils-if-elected-president/",
-      "publishedAt": "2026-11-06T18:05:48.000Z",
-      "collectedAt": "2026-11-06T19:17:32.151Z",
-      "region": "kanifing",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5843353e7e491959",
-      "title": "Gambia Bar Association Official Criticizes Delayed Release of Local Government Commission Report",
-      "summary": "By Seedy Jobe The Secretary General of the Gambia Bar Association, Lawyer Abdoulie Fatty, has criticized the delayed publication of the Local Government Commission of Inquiry report, arguing that the handling of the process undermined fair hearing, transparency, and public con...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-bar-association-official-criticizes-delayed-release-of-local-government-commission-report/",
-      "publishedAt": "2026-11-06T17:56:28.000Z",
-      "collectedAt": "2026-11-06T19:17:32.151Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T17:38:35.149Z",
-    "count": 8
+    "generatedAt": "2026-11-13T23:28:03.909Z",
+    "count": 5
   }
 }

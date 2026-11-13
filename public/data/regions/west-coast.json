@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "1f5571a7835a1b69",
+      "title": "The steep price of power for Gambian women",
+      "summary": "By Talibeh Hydara, Ndey Sowe & Isatou Colley Adama Bah lives in a two-bedroom house in Sukuta, a large suburban town and a political powerhouse in the West Coast Region. On the walls of her parlour, framed family pictures hang next to those of her party leader, Ousainu Darboe....",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-steep-price-of-power-for-gambian-women/",
+      "publishedAt": "2026-11-13T11:50:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "91693c388c1223aa",
       "title": "Political Analyst Juwara Challenges Barrow’s Comparison of Gambia With UK, Germany on Term Limits",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has challenged President Adama Barrow’s comparison of The Gambia with the United Kingdom and Germany on presidential term limits, arguing that such comparisons must also consider the quality of governance and living standards enj...",
@@ -239,7 +264,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-13T17:38:20.491Z",
+      "collectedAt": "2026-11-13T23:27:56.721Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -260,7 +285,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-13T17:38:20.491Z",
+      "collectedAt": "2026-11-13T23:27:56.721Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -274,7 +299,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T17:38:35.149Z",
-    "count": 12
+    "generatedAt": "2026-11-13T23:28:03.909Z",
+    "count": 13
   }
 }

@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "1f5571a7835a1b69",
+      "title": "The steep price of power for Gambian women",
+      "summary": "By Talibeh Hydara, Ndey Sowe & Isatou Colley Adama Bah lives in a two-bedroom house in Sukuta, a large suburban town and a political powerhouse in the West Coast Region. On the walls of her parlour, framed family pictures hang next to those of her party leader, Ousainu Darboe....",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-steep-price-of-power-for-gambian-women/",
+      "publishedAt": "2026-11-13T11:50:00.000Z",
+      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6b8487000ce5c242",
       "title": "Minister Gomez Dismisses Claims Government Is Responsible for UTG Salary Delays",
       "summary": "By Fatou Sillah The Minister of Higher Education, Research, Science and Technology, Professor Pierre Gomez, has dismissed claims that the government is responsible for delays in salary payments to staff at the University of The Gambia (UTG), insisting that the responsibility r...",
@@ -177,7 +202,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-13T17:38:20.491Z",
+      "collectedAt": "2026-11-13T23:27:56.721Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -194,7 +219,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T17:38:35.149Z",
-    "count": 8
+    "generatedAt": "2026-11-13T23:28:03.909Z",
+    "count": 9
   }
 }
