@@ -1118,33 +1118,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c2a92f59d1b73494",
-      "title": "Marr Nyang Warns Elections Can Be Won or Stolen Long Before Polling Day",
-      "summary": "By Seedy Jobe Marr Nyang, Executive Director of Gambia Participates, has warned that the credibility of The Gambia’s upcoming presidential election will depend not only on what happens on polling day but also on the integrity of the processes leading up to it. Speaking on Kerr...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/marr-nyang-warns-elections-can-be-won-or-stolen-long-before-polling-day/",
-      "publishedAt": "2026-11-06T17:36:05.000Z",
-      "collectedAt": "2026-11-06T19:17:32.151Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T01:00:24.366Z",
-    "count": 49
+    "generatedAt": "2026-11-13T09:26:32.760Z",
+    "count": 48
   }
 }

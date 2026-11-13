@@ -297,80 +297,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e0b1cba67939f0bb",
-      "title": "NDP Leader Kebba Madi Bojang Promises System Reform After Submitting Nomination",
-      "summary": "By Dawda Baldeh National Democratic Party (NDP) leader Kebba Madi Bojang has formally submitted his nomination credentials to the Independent Electoral Commission (IEC), declaring his intent to challenge the status quo and deliver systemic reform. ​Accompanied by key party sup...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ndp-leader-kebba-madi-bojang-promises-system-reform-after-submitting-nomination/",
-      "publishedAt": "2026-11-06T17:51:57.000Z",
-      "collectedAt": "2026-11-06T19:17:29.154Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "107d95527ad62228",
-      "title": "A New Thinking for Gambian Football: Why football clubs must move beyond fixtures and results to embrace storytelling as strategy",
-      "summary": "Why football clubs must move beyond fixtures and results to embrace storytelling as strategy By ML Drammeh What if the most powerful tool in Gambian football sits not on the pitch, but in the hands of the person who tells the club’s story? While coaches chase tactics and playe...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/a-new-thinking-for-gambian-football-why-football-clubs-must-move-beyond-fixtures-and-results-to-embrace-storytelling-as-strategy/",
-      "publishedAt": "2026-11-06T17:24:51.000Z",
-      "collectedAt": "2026-11-06T19:17:29.154Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2caa50ee94afa9ca",
-      "title": "APC Pledges Unemployment Benefits and Expanded Welfare Support if Elected",
-      "summary": "By Dawda Baldeh The leader of the Alliance of Progressive Citizens (APC), Modou Lamin Sima, has pledged to expand The Gambia’s social protection system, introducing unemployment support, transport schemes and additional benefits for retirees if elected president in December. S...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/apc-pledges-unemployment-benefits-and-expanded-welfare-support-if-elected/",
-      "publishedAt": "2026-11-06T11:34:46.000Z",
-      "collectedAt": "2026-11-06T11:59:14.422Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T01:00:24.366Z",
-    "count": 16
+    "generatedAt": "2026-11-13T09:26:32.760Z",
+    "count": 13
   }
 }

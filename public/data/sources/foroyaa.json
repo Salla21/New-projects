@@ -900,101 +900,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "fc321f2b033b4ca4",
-      "title": "Gambia Labour Party Leader Bakusa Dukureh Faces Citizenship Question During IEC Nomination",
-      "summary": "By Ndey Sowe Gambia Labour Party leader Bakusa Dukureh has been asked by the Independent Electoral Commission (IEC) to address concerns about his American citizenship during the presidential nomination process, according to information provided about his filing. Dukureh appear...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-labour-party-leader-bakusa-dukureh-faces-citizenship-question-during-iec-nomination/",
-      "publishedAt": "2026-11-06T11:48:00.000Z",
-      "collectedAt": "2026-11-06T11:59:13.905Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5d9ac1aec7067f0d",
-      "title": "Former army major Alieu Sowe submits presidential nomination as independent aspirant",
-      "summary": "Sowe did not pay D1 Million By Ndey Sowe Former army major Alieu Sowe has submitted nomination papers to the Independent Electoral Commission (IEC) for the December 5 presidential elections, but his application still has outstanding requirements. Sowe appeared before the commi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/former-army-major-alieu-sowe-submits-presidential-nomination-as-independent-aspirant/",
-      "publishedAt": "2026-11-06T11:44:00.000Z",
-      "collectedAt": "2026-11-06T11:59:13.905Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a885d0c462569ab1",
-      "title": "IEC queries Ansu Sanneh’s nomination papers as he claims the residency rule is six months",
-      "summary": "By Ndey Sowe National Builders Party leader Ansu Sanneh has submitted nomination papers to the Independent Electoral Commission (IEC), but the commission is still checking some of his documents and information. Sanneh appeared before the IEC on Thursday, 5 November, ahead of t...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-queries-ansu-sannehs-nomination-papers-as-he-claims-the-residency-rule-is-six-months/",
-      "publishedAt": "2026-11-06T11:38:00.000Z",
-      "collectedAt": "2026-11-06T11:59:13.905Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cd81ef5f0cf8a67d",
-      "title": "Fatoumata Jawara Honoured with Girls Champion Award at National Women and Girls Awards",
-      "summary": "Fatoumata Jawara, Founder and Chief Executive Officer of Maa Foundation for Women (MFW), has been honoured with the Girls Champion Award at the National Women and Girls Awards, in recognition of her outstanding commitment to advancing the rights, welfare and empowerment of gir...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/fatoumata-jawara-honoured-with-girls-champion-award-at-national-women-and-girls-awards/",
-      "publishedAt": "2026-11-06T11:36:00.000Z",
-      "collectedAt": "2026-11-06T11:59:13.905Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T01:00:24.366Z",
-    "count": 43
+    "generatedAt": "2026-11-13T09:26:32.760Z",
+    "count": 39
   }
 }
