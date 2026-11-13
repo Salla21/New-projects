@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1583cb0060fa6804",
+      "title": "Germany expands support for police reform, justice and investment in Gambia",
+      "summary": "By Hadram Hydara Germany and The Gambia have reaffirmed their expanding partnership, with both countries highlighting growing cooperation in democratic governance, security reform, economic development and investment. Speaking during Germany’s National Day celebrations on Tues...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/germany-expands-support-for-police-reform-justice-and-investment-in-gambia/",
+      "publishedAt": "2026-11-13T11:56:22.000Z",
+      "collectedAt": "2026-11-13T17:38:20.837Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4af808ff53eee86e",
       "title": "GID Intercepts 200 Suspected Irregular Migrants in Two-Day Operations",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 200 suspected irregular migrants in two separate operations conducted across the North Bank and West Coast Regions over two days. According to the department, the operations were carried out by its Migrat...",
@@ -631,7 +655,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-13T09:26:27.158Z",
+      "collectedAt": "2026-11-13T17:38:20.491Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -654,7 +678,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-13T09:26:27.158Z",
+      "collectedAt": "2026-11-13T17:38:20.491Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -670,7 +694,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T09:26:32.760Z",
-    "count": 28
+    "generatedAt": "2026-11-13T17:38:35.149Z",
+    "count": 29
   }
 }

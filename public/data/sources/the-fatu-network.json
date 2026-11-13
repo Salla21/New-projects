@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "e8773bf05e758c66",
+      "title": "President Barrow Swears In Justice Naceesay Sallah-Wadda to the Supreme Court",
+      "summary": "PRESS RELEASE Acting on the powers vested in him by section 138(2) of the 1997 Constitution of The Gambia, His Excellency President Adama Barrow today presided over the swearing-in of Honourable Naceesay Sallah-Wadda as a Justice of the Supreme Court of The Gambia. President B...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-swears-in-justice-naceesay-sallah-wadda-to-the-supreme-court/",
+      "publishedAt": "2026-11-13T13:29:04.000Z",
+      "collectedAt": "2026-11-13T17:38:20.837Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9c666f676b7006df",
+      "title": "The last few years have been a lot",
+      "summary": "PERSPECTIVE By Mariame Cisse And sometimes, when people hear my story, they ask me: “How do you do it? How do you raise six children, navigate so many challenges, and still find the strength to pursue your dreams?” The truth is… I’ve had to learn how to keep going, even when l...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-last-few-years-have-been-a-lot/",
+      "publishedAt": "2026-11-13T12:27:02.000Z",
+      "collectedAt": "2026-11-13T17:38:20.837Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1583cb0060fa6804",
+      "title": "Germany expands support for police reform, justice and investment in Gambia",
+      "summary": "By Hadram Hydara Germany and The Gambia have reaffirmed their expanding partnership, with both countries highlighting growing cooperation in democratic governance, security reform, economic development and investment. Speaking during Germany’s National Day celebrations on Tues...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/germany-expands-support-for-police-reform-justice-and-investment-in-gambia/",
+      "publishedAt": "2026-11-13T11:56:22.000Z",
+      "collectedAt": "2026-11-13T17:38:20.837Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cbe7253923bcaeda",
       "title": "SOCIAL SECURITY AND HOUSING FINANCE CORPORATION (SSHFC)",
       "summary": "END OF YEAR PROMOTIONAL LAND SALES Nafugan Housing Estate The Social Security and Housing Finance Corporation (SSHFC) is pleased to announce promotional plot sales at Nafugan Housing Estate, the Corporation’s first rural housing estate in The Gambia. Location: Nafugan Housing ...",
@@ -300,7 +368,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T09:26:32.760Z",
-    "count": 13
+    "generatedAt": "2026-11-13T17:38:35.149Z",
+    "count": 16
   }
 }

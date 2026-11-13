@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "e8773bf05e758c66",
+      "title": "President Barrow Swears In Justice Naceesay Sallah-Wadda to the Supreme Court",
+      "summary": "PRESS RELEASE Acting on the powers vested in him by section 138(2) of the 1997 Constitution of The Gambia, His Excellency President Adama Barrow today presided over the swearing-in of Honourable Naceesay Sallah-Wadda as a Justice of the Supreme Court of The Gambia. President B...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/president-barrow-swears-in-justice-naceesay-sallah-wadda-to-the-supreme-court/",
+      "publishedAt": "2026-11-13T13:29:04.000Z",
+      "collectedAt": "2026-11-13T17:38:20.837Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1583cb0060fa6804",
+      "title": "Germany expands support for police reform, justice and investment in Gambia",
+      "summary": "By Hadram Hydara Germany and The Gambia have reaffirmed their expanding partnership, with both countries highlighting growing cooperation in democratic governance, security reform, economic development and investment. Speaking during Germany’s National Day celebrations on Tues...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/germany-expands-support-for-police-reform-justice-and-investment-in-gambia/",
+      "publishedAt": "2026-11-13T11:56:22.000Z",
+      "collectedAt": "2026-11-13T17:38:20.837Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0aafbdcad3ffbb1e",
       "title": "Kebba Madi Bojang Threatens Demonstrations Over IEC’s Rejection of His Presidential Nomination",
       "summary": "By Seedy Jobe Kebba Madi Bojang, leader of the National Democratic Party (NDP), has threatened to stage demonstrations against the Independent Electoral Commission (IEC) if his lawyers establish that the rejection of his presidential nomination was deliberate. Speaking to jour...",
@@ -1791,7 +1838,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-13T09:26:27.158Z",
+      "collectedAt": "2026-11-13T17:38:20.491Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1815,7 +1862,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-13T09:26:27.158Z",
+      "collectedAt": "2026-11-13T17:38:20.491Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1831,7 +1878,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T09:26:32.760Z",
-    "count": 78
+    "generatedAt": "2026-11-13T17:38:35.149Z",
+    "count": 80
   }
 }
