@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "1e7d391600728d7c",
+      "title": "Scorpions suffer 2-1 defeat to Ivory Coast in Afcon qualifiers",
+      "summary": "By Momodou Jarju The Gambia’s Scorpions Thursday endured a 2-1 defeat against Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers played at the Stade de la Paix in Bouaké. Scorpions boss Johnathan McKinstry included Musa Barrow to the starting...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/scorpions-suffer-2-1-defeat-to-ivory-coast-in-afcon-qualifiers/",
+      "publishedAt": "2026-11-14T13:22:40.000Z",
+      "collectedAt": "2026-11-14T13:23:48.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6162b0f2e92e75a1",
+      "title": "I’m beginning to wonder if we have raised a generation of successful individuals, but left them on their own to figure out how to be successful partners",
+      "summary": "By RamaTulai The more DMs I receive from well-educated, financially independent women who are unhappy in their relationships, the more this thought weighs on my mind. And it isn’t just about the women. I find myself wondering whether we have also failed the men. What exactly d...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/im-beginning-to-wonder-if-we-have-raised-a-generation-of-successful-individuals-but-left-them-on-their-own-to-figure-out-how-to-be-successful-partners/",
+      "publishedAt": "2026-11-14T12:09:58.000Z",
+      "collectedAt": "2026-11-14T13:23:49.512Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e4d3ebd1ce6b0265",
       "title": "Transport Union President Urges Drivers to Prioritise Safety During Presidential Campaign",
       "summary": "By Fatou Sillah The President of The Gambia Transport Union, Omar Ceesay, has urged commercial drivers to prioritize passenger safety and comply with road traffic regulations as political parties prepare to begin campaigning ahead of the December 5 presidential election. Mr. C...",
@@ -2027,7 +2073,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2050,7 +2096,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2074,7 +2120,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2097,7 +2143,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambian-music-goes-boring-no-beef-no-drama-no-buzz/",
       "publishedAt": "2026-10-28T03:09:34.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2118,7 +2164,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/busumbala-tailor-arrested-over-alleged-grpe-of-apprentice/",
       "publishedAt": "2026-10-28T03:06:08.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2139,7 +2185,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -2162,7 +2208,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/fula-gangstar-wants-to-make-peace-with-star-girl-as-fans-wait-for-the-full-story/",
       "publishedAt": "2026-10-21T02:21:43.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2183,7 +2229,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -2197,7 +2243,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T05:57:35.196Z",
-    "count": 95
+    "generatedAt": "2026-11-14T13:23:58.174Z",
+    "count": 97
   }
 }

@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "6162b0f2e92e75a1",
+      "title": "I’m beginning to wonder if we have raised a generation of successful individuals, but left them on their own to figure out how to be successful partners",
+      "summary": "By RamaTulai The more DMs I receive from well-educated, financially independent women who are unhappy in their relationships, the more this thought weighs on my mind. And it isn’t just about the women. I find myself wondering whether we have also failed the men. What exactly d...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/im-beginning-to-wonder-if-we-have-raised-a-generation-of-successful-individuals-but-left-them-on-their-own-to-figure-out-how-to-be-successful-partners/",
+      "publishedAt": "2026-11-14T12:09:58.000Z",
+      "collectedAt": "2026-11-14T13:23:49.512Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "39e7bd3c091e8ed7",
+      "title": "Thirst & Despair: Changai Toro Villagers Forced to Share Water with Livestock After Borehole Collapse",
+      "summary": "Written by: Dawda Baldeh Residents of Changai Toro, in the Sami District of the Central River Region (CRR), are facing a severe water crisis following the breakdown of the village’s only borehole, leaving hundreds of people without access to safe drinking water and forcing wom...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/thirst-despair-changai-toro-villagers-forced-to-share-water-with-livestock-after-borehole-collapse/",
+      "publishedAt": "2026-11-14T10:56:53.000Z",
+      "collectedAt": "2026-11-14T13:23:49.512Z",
+      "region": "central-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e8773bf05e758c66",
       "title": "President Barrow Swears In Justice Naceesay Sallah-Wadda to the Supreme Court",
       "summary": "PRESS RELEASE Acting on the powers vested in him by section 138(2) of the 1997 Constitution of The Gambia, His Excellency President Adama Barrow today presided over the swearing-in of Honourable Naceesay Sallah-Wadda as a Justice of the Supreme Court of The Gambia. President B...",
@@ -324,7 +368,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T05:57:35.196Z",
-    "count": 14
+    "generatedAt": "2026-11-14T13:23:58.174Z",
+    "count": 16
   }
 }

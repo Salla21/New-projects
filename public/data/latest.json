@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "1e7d391600728d7c",
+      "title": "Scorpions suffer 2-1 defeat to Ivory Coast in Afcon qualifiers",
+      "summary": "By Momodou Jarju The Gambia’s Scorpions Thursday endured a 2-1 defeat against Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers played at the Stade de la Paix in Bouaké. Scorpions boss Johnathan McKinstry included Musa Barrow to the starting...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/scorpions-suffer-2-1-defeat-to-ivory-coast-in-afcon-qualifiers/",
+      "publishedAt": "2026-11-14T13:22:40.000Z",
+      "collectedAt": "2026-11-14T13:23:48.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6162b0f2e92e75a1",
+      "title": "I’m beginning to wonder if we have raised a generation of successful individuals, but left them on their own to figure out how to be successful partners",
+      "summary": "By RamaTulai The more DMs I receive from well-educated, financially independent women who are unhappy in their relationships, the more this thought weighs on my mind. And it isn’t just about the women. I find myself wondering whether we have also failed the men. What exactly d...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/im-beginning-to-wonder-if-we-have-raised-a-generation-of-successful-individuals-but-left-them-on-their-own-to-figure-out-how-to-be-successful-partners/",
+      "publishedAt": "2026-11-14T12:09:58.000Z",
+      "collectedAt": "2026-11-14T13:23:49.512Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "39e7bd3c091e8ed7",
+      "title": "Thirst & Despair: Changai Toro Villagers Forced to Share Water with Livestock After Borehole Collapse",
+      "summary": "Written by: Dawda Baldeh Residents of Changai Toro, in the Sami District of the Central River Region (CRR), are facing a severe water crisis following the breakdown of the village’s only borehole, leaving hundreds of people without access to safe drinking water and forcing wom...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/thirst-despair-changai-toro-villagers-forced-to-share-water-with-livestock-after-borehole-collapse/",
+      "publishedAt": "2026-11-14T10:56:53.000Z",
+      "collectedAt": "2026-11-14T13:23:49.512Z",
+      "region": "central-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e4d3ebd1ce6b0265",
       "title": "Transport Union President Urges Drivers to Prioritise Safety During Presidential Campaign",
       "summary": "By Fatou Sillah The President of The Gambia Transport Union, Omar Ceesay, has urged commercial drivers to prioritize passenger safety and comply with road traffic regulations as political parties prepare to begin campaigning ahead of the December 5 presidential election. Mr. C...",
@@ -2249,80 +2318,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "754e1f934d4ea8c7",
-      "title": "Education Minister Drammeh Urges Dippa Kunda Women to Turn Out in Large Numbers for Barrow",
-      "summary": "By Seedy Jobe The Minister of Basic and Secondary Education, Dr. Habibatou Drammeh, has called on women in Dippa Kunda and surrounding communities to turn out in large numbers and vote for President Adama Barrow in the December 5 presidential election, citing his administratio...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/education-minister-drammeh-urges-dippa-kunda-women-to-turn-out-in-large-numbers-for-barrow/",
-      "publishedAt": "2026-11-09T02:11:30.000Z",
-      "collectedAt": "2026-11-09T09:34:46.441Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6d3f4a4fb1829df7",
-      "title": "The IEC Can Check Credentials Without Questioning Dignity",
-      "summary": "OPINION By Sarjo Barrow, Esq. The nomination period is perhaps the most delicate stage of any election. For a country still finding its feet after years of dictatorship, how public institutions treat people seeking office matters. The Independent Electoral Commission (IEC) mus...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/the-iec-can-check-credentials-without-questioning-dignity/",
-      "publishedAt": "2026-11-08T13:50:32.000Z",
-      "collectedAt": "2026-11-08T16:36:26.853Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d482d933f765b3e7",
-      "title": "Yellow Wave Prepares to Storm IEC",
-      "summary": "UDP Finalizes Darboe’s Nomination Papers Ahead of Key Electoral Milestone A vibrant sea of yellow banners and chanting crowds lined Bertil Harding Highway outside the United Democratic Party (UDP) secretariat, as the main opposition party finalized logistics and documentation ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/yellow-wave-prepares-to-storm-iec/",
-      "publishedAt": "2026-11-08T13:41:53.000Z",
-      "collectedAt": "2026-11-08T16:36:26.853Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T05:57:35.196Z",
+    "generatedAt": "2026-11-14T13:23:58.174Z",
     "count": 100
   }
 }

@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "1e7d391600728d7c",
+      "title": "Scorpions suffer 2-1 defeat to Ivory Coast in Afcon qualifiers",
+      "summary": "By Momodou Jarju The Gambia’s Scorpions Thursday endured a 2-1 defeat against Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers played at the Stade de la Paix in Bouaké. Scorpions boss Johnathan McKinstry included Musa Barrow to the starting...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/scorpions-suffer-2-1-defeat-to-ivory-coast-in-afcon-qualifiers/",
+      "publishedAt": "2026-11-14T13:22:40.000Z",
+      "collectedAt": "2026-11-14T13:23:48.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e4d3ebd1ce6b0265",
       "title": "Transport Union President Urges Drivers to Prioritise Safety During Presidential Campaign",
       "summary": "By Fatou Sillah The President of The Gambia Transport Union, Omar Ceesay, has urged commercial drivers to prioritize passenger safety and comply with road traffic regulations as political parties prepare to begin campaigning ahead of the December 5 presidential election. Mr. C...",
@@ -1814,7 +1839,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1838,7 +1863,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1854,7 +1879,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T05:57:35.196Z",
-    "count": 79
+    "generatedAt": "2026-11-14T13:23:58.174Z",
+    "count": 80
   }
 }

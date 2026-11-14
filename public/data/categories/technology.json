@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "39e7bd3c091e8ed7",
+      "title": "Thirst & Despair: Changai Toro Villagers Forced to Share Water with Livestock After Borehole Collapse",
+      "summary": "Written by: Dawda Baldeh Residents of Changai Toro, in the Sami District of the Central River Region (CRR), are facing a severe water crisis following the breakdown of the village’s only borehole, leaving hundreds of people without access to safe drinking water and forcing wom...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/thirst-despair-changai-toro-villagers-forced-to-share-water-with-livestock-after-borehole-collapse/",
+      "publishedAt": "2026-11-14T10:56:53.000Z",
+      "collectedAt": "2026-11-14T13:23:49.512Z",
+      "region": "central-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1f5571a7835a1b69",
       "title": "The steep price of power for Gambian women",
       "summary": "By Talibeh Hydara, Ndey Sowe & Isatou Colley Adama Bah lives in a two-bedroom house in Sukuta, a large suburban town and a political powerhouse in the West Coast Region. On the walls of her parlour, framed family pictures hang next to those of her party leader, Ousainu Darboe....",
@@ -202,7 +225,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-14T05:57:29.455Z",
+      "collectedAt": "2026-11-14T13:23:49.156Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -219,7 +242,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T05:57:35.196Z",
-    "count": 9
+    "generatedAt": "2026-11-14T13:23:58.174Z",
+    "count": 10
   }
 }

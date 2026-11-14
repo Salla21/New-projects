@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "1e7d391600728d7c",
+      "title": "Scorpions suffer 2-1 defeat to Ivory Coast in Afcon qualifiers",
+      "summary": "By Momodou Jarju The Gambia’s Scorpions Thursday endured a 2-1 defeat against Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers played at the Stade de la Paix in Bouaké. Scorpions boss Johnathan McKinstry included Musa Barrow to the starting...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/scorpions-suffer-2-1-defeat-to-ivory-coast-in-afcon-qualifiers/",
+      "publishedAt": "2026-11-14T13:22:40.000Z",
+      "collectedAt": "2026-11-14T13:23:48.823Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "sports",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "aa3bcbac13b7c056",
       "title": "IEC accepts five presidential nominations, rejects two candidates",
       "summary": "Kebba Madi Bojang’s candidature rejected By Nelson Manneh The Independent Electoral Commission (IEC) has accepted the nomination papers of five presidential candidates for the December 5 election and rejected the submissions of two others, according to its latest update. The a...",
@@ -1090,7 +1115,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T05:57:35.196Z",
-    "count": 47
+    "generatedAt": "2026-11-14T13:23:58.174Z",
+    "count": 48
   }
 }

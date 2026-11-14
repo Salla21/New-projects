@@ -1,22 +1,22 @@
 {
   "items": [
     {
-      "id": "c02723673a30e4be",
-      "title": "‘Our backs and ribs suffered’: Choya riders hail long-awaited road project",
-      "summary": "By Mama A. Touray Motorcycle riders and residents in Choya have welcomed the construction of a 20.5km road linking several communities in the Central River Region, saying the project will relieve years of poor road conditions, costly vehicle repairs, and high transport fares. ...",
+      "id": "39e7bd3c091e8ed7",
+      "title": "Thirst & Despair: Changai Toro Villagers Forced to Share Water with Livestock After Borehole Collapse",
+      "summary": "Written by: Dawda Baldeh Residents of Changai Toro, in the Sami District of the Central River Region (CRR), are facing a severe water crisis following the breakdown of the village’s only borehole, leaving hundreds of people without access to safe drinking water and forcing wom...",
       "sourceId": "the-fatu-network",
       "sourceName": "The Fatu Network",
       "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/our-backs-and-ribs-suffered-choya-riders-hail-long-awaited-road-project/",
-      "publishedAt": "2026-10-24T11:16:20.000Z",
-      "collectedAt": "2026-10-24T15:46:00.620Z",
+      "originalUrl": "https://thefatunetwork.com/thirst-despair-changai-toro-villagers-forced-to-share-water-with-livestock-after-borehole-collapse/",
+      "publishedAt": "2026-11-14T10:56:53.000Z",
+      "collectedAt": "2026-11-14T13:23:49.512Z",
       "region": "central-river",
       "categories": [
-        "business"
+        "technology"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Hadram Hydara",
+      "author": "Seringe S.T. Touray",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -25,7 +25,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T19:32:47.469Z",
+    "generatedAt": "2026-11-14T13:23:58.174Z",
     "count": 1
   }
 }
