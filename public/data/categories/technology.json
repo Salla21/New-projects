@@ -193,30 +193,6 @@
       "status": "published"
     },
     {
-      "id": "6d3f4a4fb1829df7",
-      "title": "The IEC Can Check Credentials Without Questioning Dignity",
-      "summary": "OPINION By Sarjo Barrow, Esq. The nomination period is perhaps the most delicate stage of any election. For a country still finding its feet after years of dictatorship, how public institutions treat people seeking office matters. The Independent Electoral Commission (IEC) mus...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/the-iec-can-check-credentials-without-questioning-dignity/",
-      "publishedAt": "2026-11-08T13:50:32.000Z",
-      "collectedAt": "2026-11-08T16:36:26.853Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -225,7 +201,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-14T13:23:49.156Z",
+      "collectedAt": "2026-11-14T19:01:50.516Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -242,7 +218,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T13:23:58.174Z",
-    "count": 10
+    "generatedAt": "2026-11-14T19:01:56.067Z",
+    "count": 9
   }
 }

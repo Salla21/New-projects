@@ -164,56 +164,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "f838a4f5d90b04a7",
-      "title": "Kemo Bojang Says Surveys Show UNITE Has Greater Voter Recognition Than Coalition 2026",
-      "summary": "By Fatou Sillah Kemo Bojang, the Deputy Party Leader for Political Matters and Media Relations of the UNITE Party, has said the decision to contest the December 5 presidential election under the UNITE banner rather than Coalition 2026 was informed by internal surveys showing s...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/kemo-bojang-says-surveys-show-unite-has-greater-voter-recognition-than-coalition-2026/",
-      "publishedAt": "2026-11-13T18:39:03.000Z",
-      "collectedAt": "2026-11-13T23:27:59.774Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e8773bf05e758c66",
-      "title": "President Barrow Swears In Justice Naceesay Sallah-Wadda to the Supreme Court",
-      "summary": "PRESS RELEASE Acting on the powers vested in him by section 138(2) of the 1997 Constitution of The Gambia, His Excellency President Adama Barrow today presided over the swearing-in of Honourable Naceesay Sallah-Wadda as a Justice of the Supreme Court of The Gambia. President B...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/president-barrow-swears-in-justice-naceesay-sallah-wadda-to-the-supreme-court/",
-      "publishedAt": "2026-11-13T13:29:04.000Z",
-      "collectedAt": "2026-11-13T17:38:20.837Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T13:23:58.174Z",
-    "count": 9
+    "generatedAt": "2026-11-14T19:01:56.067Z",
+    "count": 7
   }
 }

@@ -300,29 +300,6 @@
       "status": "published"
     },
     {
-      "id": "d482d933f765b3e7",
-      "title": "Yellow Wave Prepares to Storm IEC",
-      "summary": "UDP Finalizes Darboe’s Nomination Papers Ahead of Key Electoral Milestone A vibrant sea of yellow banners and chanting crowds lined Bertil Harding Highway outside the United Democratic Party (UDP) secretariat, as the main opposition party finalized logistics and documentation ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/yellow-wave-prepares-to-storm-iec/",
-      "publishedAt": "2026-11-08T13:41:53.000Z",
-      "collectedAt": "2026-11-08T16:36:26.853Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -331,7 +308,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-14T13:23:49.156Z",
+      "collectedAt": "2026-11-14T19:01:50.516Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -345,7 +322,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T13:23:58.174Z",
-    "count": 15
+    "generatedAt": "2026-11-14T19:01:56.067Z",
+    "count": 14
   }
 }
