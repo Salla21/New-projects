@@ -233,29 +233,6 @@
       "status": "published"
     },
     {
-      "id": "6ad2b284861121ca",
-      "title": "BAC Chairman Says Council Has Awarded Over 1,000 Scholarships, Pledges Expansion to KMC Under UDP Government",
-      "summary": "By Seedy Jobe Brikama Area Council (BAC) Chairman Yankuba Darboe has disclosed that more than 1,000 students have benefited from the council’s scholarship programme since its introduction in 2024, highlighting the initiative as part of efforts to expand access to higher educat...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bac-chairman-says-council-has-awarded-over-1000-scholarships-pledges-expansion-to-kmc-under-udp-government/",
-      "publishedAt": "2026-11-06T23:50:27.000Z",
-      "collectedAt": "2026-11-07T00:03:02.901Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7df537de5df55004",
       "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
       "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
@@ -264,7 +241,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-13T23:27:56.721Z",
+      "collectedAt": "2026-11-14T05:57:29.455Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -285,7 +262,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-13T23:27:56.721Z",
+      "collectedAt": "2026-11-14T05:57:29.455Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -299,7 +276,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T23:28:03.909Z",
-    "count": 13
+    "generatedAt": "2026-11-14T05:57:35.196Z",
+    "count": 12
   }
 }

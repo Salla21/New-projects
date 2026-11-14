@@ -321,33 +321,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "b8cc40f056b283ae",
-      "title": "Sis… When was the last time you actually played?",
-      "summary": "By RamaTulai Sis…..WHEN WAS THE LAST TIME YOU ACTUALLY PLAYED?? Not performed, delivered, led or solved problems. Just… played. Somewhere between back-to-back deadlines, high-stakes reports, and carrying the weight of our teams’ dreams, many of us have become so deeply wired f...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/sis-when-was-the-last-time-you-actually-played/",
-      "publishedAt": "2026-11-07T11:53:50.000Z",
-      "collectedAt": "2026-11-07T16:15:58.158Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T23:28:03.909Z",
-    "count": 15
+    "generatedAt": "2026-11-14T05:57:35.196Z",
+    "count": 14
   }
 }

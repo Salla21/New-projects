@@ -313,58 +313,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "eb83ddf25fa9e281",
-      "title": "Mayor Lowe Urges Women to Vote for Change, Citing Killings, Migrant Deaths, and Water Shortages",
-      "summary": "By Seedy Jobe Banjul Mayor Rohey Malick Lowe has urged Gambian women and young people to use their votes to demand change, citing growing concerns over insecurity, deaths along irregular migration routes and inadequate access to basic services.Speaking at a United Democratic P...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/mayor-lowe-urges-women-to-vote-for-change-citing-killings-migrant-deaths-and-water-shortages/",
-      "publishedAt": "2026-11-07T19:38:09.000Z",
-      "collectedAt": "2026-11-07T21:42:15.884Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3d6fd69352d8e8a4",
-      "title": "Darboe Says Barrow’s Call for Continuity Means More Corruption, Hardship, and Broken Promises",
-      "summary": "By Seedy Jobe United Democratic Party (UDP) leader Ousainu Darboe has urged residents of Dippa Kunda to reject President Adama Barrow’s call for continuity, arguing that another term under the incumbent would mean continued corruption, economic hardship, and unfulfilled promis...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-barrows-call-for-continuity-means-more-corruption-hardship-and-broken-promises/",
-      "publishedAt": "2026-11-07T00:41:43.000Z",
-      "collectedAt": "2026-11-07T08:38:31.094Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-13T23:28:03.909Z",
-    "count": 15
+    "generatedAt": "2026-11-14T05:57:35.196Z",
+    "count": 13
   }
 }
