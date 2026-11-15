@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "eede426d7db86bd9",
+      "title": "GID intercepts 215 would-be migrants in joint operations",
+      "summary": "By Hadram Hydara The Gambia Immigration Department (GID) has intercepted 215 would-be irregular migrants and arrested two suspected smugglers during coordinated operations across Banjul and the West Coast Region, the department announced. ​According to a GID statement, officer...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gid-intercepts-215-would-be-migrants-in-joint-operations/",
+      "publishedAt": "2026-11-15T14:59:49.000Z",
+      "collectedAt": "2026-11-15T19:43:52.708Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "08862a378f99c098",
       "title": "Gomez: Barrow’s Main Political Concern Is Now Bensouda, Not Darboe",
       "summary": "By Fatou Sillah UNITE’s Deputy Party Leader for Governance and Public Policy, Nenneh Freda Gomez, has said President Adama Barrow’s political focus has shifted from UDP leader Ousainou Darboe to UNITE leader Talib Bensouda, citing Bensouda’s growing support, organisation and p...",
@@ -366,7 +389,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T13:51:54.123Z",
-    "count": 15
+    "generatedAt": "2026-11-15T19:43:57.696Z",
+    "count": 16
   }
 }

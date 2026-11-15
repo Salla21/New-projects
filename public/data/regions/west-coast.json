@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "e315cc6786e7f217",
+      "title": "Over 1,100 migrants reach Canary Islands as two boats depart from Gambia",
+      "summary": "By Hadram Hydara More than 1,100 migrants arrived in Spain’s Canary Islands aboard 12 boats on Saturday, with two of the vessels reported to have departed from Gunjur in The Gambia, according to EFE News Agency. EFE reported that a total of 1,103 people, including 89 women and...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/over-1100-migrants-reach-canary-islands-as-two-boats-depart-from-gambia/",
+      "publishedAt": "2026-11-15T14:43:46.000Z",
+      "collectedAt": "2026-11-15T19:43:52.708Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1f5571a7835a1b69",
       "title": "The steep price of power for Gambian women",
       "summary": "By Talibeh Hydara, Ndey Sowe & Isatou Colley Adama Bah lives in a two-bedroom house in Sukuta, a large suburban town and a political powerhouse in the West Coast Region. On the walls of her parlour, framed family pictures hang next to those of her party leader, Ousainu Darboe....",
@@ -231,52 +254,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7df537de5df55004",
-      "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
-      "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
-      "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-15T13:51:40.444Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "98b8ee0bd6e69465",
-      "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
-      "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
-      "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-15T13:51:40.444Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T13:51:54.123Z",
-    "count": 12
+    "generatedAt": "2026-11-15T19:43:57.696Z",
+    "count": 11
   }
 }

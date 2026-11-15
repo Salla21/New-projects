@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "eede426d7db86bd9",
+      "title": "GID intercepts 215 would-be migrants in joint operations",
+      "summary": "By Hadram Hydara The Gambia Immigration Department (GID) has intercepted 215 would-be irregular migrants and arrested two suspected smugglers during coordinated operations across Banjul and the West Coast Region, the department announced. ​According to a GID statement, officer...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gid-intercepts-215-would-be-migrants-in-joint-operations/",
+      "publishedAt": "2026-11-15T14:59:49.000Z",
+      "collectedAt": "2026-11-15T19:43:52.708Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c96edc5622f8e472",
+      "title": "More than 1,300 migrants rescued near Canary Island, several boats reportedly departed from Gambia",
+      "summary": "By Hadram Hydara Spanish rescue services rescued 1,357 migrants aboard 13 boats near the Canary Islands, with several vessels reportedly departing from coastal communities in The Gambia, according to Gaceta del Meridiano. The publication reported that 1,235 migrants arrived in...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/more-than-1300-migrants-rescued-near-canary-island-several-boats-reportedly-departed-from-gambia/",
+      "publishedAt": "2026-11-15T14:52:48.000Z",
+      "collectedAt": "2026-11-15T19:43:52.708Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e315cc6786e7f217",
+      "title": "Over 1,100 migrants reach Canary Islands as two boats depart from Gambia",
+      "summary": "By Hadram Hydara More than 1,100 migrants arrived in Spain’s Canary Islands aboard 12 boats on Saturday, with two of the vessels reported to have departed from Gunjur in The Gambia, according to EFE News Agency. EFE reported that a total of 1,103 people, including 89 women and...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/over-1100-migrants-reach-canary-islands-as-two-boats-depart-from-gambia/",
+      "publishedAt": "2026-11-15T14:43:46.000Z",
+      "collectedAt": "2026-11-15T19:43:52.708Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6a8a03b60cdcb747",
       "title": "Bensouda Pledges to Sign Peace Pact First, Vows to Criminalise Tribalism",
       "summary": "By Seedy Jobe Talib Ahmed Bensouda, leader of UNITE party and flagbearer of Coalition 2026, has said his party and coalition will be the first to sign the peace pact ahead of the 5 December election. He has also pledged to criminalise tribalism if elected. Mr. Bensouda made th...",
@@ -143,7 +212,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T13:51:54.123Z",
-    "count": 6
+    "generatedAt": "2026-11-15T19:43:57.696Z",
+    "count": 9
   }
 }

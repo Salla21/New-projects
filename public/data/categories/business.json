@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "c96edc5622f8e472",
+      "title": "More than 1,300 migrants rescued near Canary Island, several boats reportedly departed from Gambia",
+      "summary": "By Hadram Hydara Spanish rescue services rescued 1,357 migrants aboard 13 boats near the Canary Islands, with several vessels reportedly departing from coastal communities in The Gambia, according to Gaceta del Meridiano. The publication reported that 1,235 migrants arrived in...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/more-than-1300-migrants-rescued-near-canary-island-several-boats-reportedly-departed-from-gambia/",
+      "publishedAt": "2026-11-15T14:52:48.000Z",
+      "collectedAt": "2026-11-15T19:43:52.708Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e315cc6786e7f217",
+      "title": "Over 1,100 migrants reach Canary Islands as two boats depart from Gambia",
+      "summary": "By Hadram Hydara More than 1,100 migrants arrived in Spain’s Canary Islands aboard 12 boats on Saturday, with two of the vessels reported to have departed from Gunjur in The Gambia, according to EFE News Agency. EFE reported that a total of 1,103 people, including 89 women and...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/over-1100-migrants-reach-canary-islands-as-two-boats-depart-from-gambia/",
+      "publishedAt": "2026-11-15T14:43:46.000Z",
+      "collectedAt": "2026-11-15T19:43:52.708Z",
+      "region": "west-coast",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "08862a378f99c098",
       "title": "Gomez: Barrow’s Main Political Concern Is Now Bensouda, Not Darboe",
       "summary": "By Fatou Sillah UNITE’s Deputy Party Leader for Governance and Public Policy, Nenneh Freda Gomez, has said President Adama Barrow’s political focus has shifted from UDP leader Ousainou Darboe to UNITE leader Talib Bensouda, citing Bensouda’s growing support, organisation and p...",
@@ -598,56 +644,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "57a0f91f5809e6a9",
-      "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
-      "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
-      "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-15T13:51:40.444Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Saidy",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "0fc306e42fa41a00",
-      "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
-      "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
-      "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-15T13:51:40.444Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T13:51:54.123Z",
+    "generatedAt": "2026-11-15T19:43:57.696Z",
     "count": 27
   }
 }
