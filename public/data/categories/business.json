@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "08862a378f99c098",
+      "title": "Gomez: Barrow’s Main Political Concern Is Now Bensouda, Not Darboe",
+      "summary": "By Fatou Sillah UNITE’s Deputy Party Leader for Governance and Public Policy, Nenneh Freda Gomez, has said President Adama Barrow’s political focus has shifted from UDP leader Ousainou Darboe to UNITE leader Talib Bensouda, citing Bensouda’s growing support, organisation and p...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gomez-barrows-main-political-concern-is-now-bensouda-not-darboe/",
+      "publishedAt": "2026-11-15T02:18:55.000Z",
+      "collectedAt": "2026-11-15T05:59:53.603Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e4d3ebd1ce6b0265",
       "title": "Transport Union President Urges Drivers to Prioritise Safety During Presidential Campaign",
       "summary": "By Fatou Sillah The President of The Gambia Transport Union, Omar Ceesay, has urged commercial drivers to prioritize passenger safety and comply with road traffic regulations as political parties prepare to begin campaigning ahead of the December 5 presidential election. Mr. C...",
@@ -607,7 +632,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-14T23:48:44.954Z",
+      "collectedAt": "2026-11-15T05:59:52.069Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -630,7 +655,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-14T23:48:44.954Z",
+      "collectedAt": "2026-11-15T05:59:52.069Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -646,7 +671,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T23:48:50.334Z",
-    "count": 27
+    "generatedAt": "2026-11-15T05:59:57.715Z",
+    "count": 28
   }
 }

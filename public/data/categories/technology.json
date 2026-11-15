@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4ab7d0611608430e",
+      "title": "Analyst: UNITE Defeating Both NPP and UDP in December Would Be a “Political Earthquake”",
+      "summary": "By Makutu Manneh Political analyst Biran Gai has said that a victory by the UNITE-led alliance over both the ruling National People’s Party (NPP) and the United Democratic Party (UDP) in the December election would amount to a political earthquake. Speaking on Kerr Fatou’s Rac...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/analyst-unite-defeating-both-npp-and-udp-in-december-would-be-a-political-earthquake/",
+      "publishedAt": "2026-11-15T01:57:28.000Z",
+      "collectedAt": "2026-11-15T05:59:53.603Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "39e7bd3c091e8ed7",
       "title": "Thirst & Despair: Changai Toro Villagers Forced to Share Water with Livestock After Borehole Collapse",
       "summary": "Written by: Dawda Baldeh Residents of Changai Toro, in the Sami District of the Central River Region (CRR), are facing a severe water crisis following the breakdown of the village’s only borehole, leaving hundreds of people without access to safe drinking water and forcing wom...",
@@ -201,7 +225,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-14T23:48:44.954Z",
+      "collectedAt": "2026-11-15T05:59:52.069Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -218,7 +242,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T23:48:50.334Z",
-    "count": 9
+    "generatedAt": "2026-11-15T05:59:57.715Z",
+    "count": 10
   }
 }

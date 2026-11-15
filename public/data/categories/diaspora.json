@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "08862a378f99c098",
+      "title": "Gomez: Barrow’s Main Political Concern Is Now Bensouda, Not Darboe",
+      "summary": "By Fatou Sillah UNITE’s Deputy Party Leader for Governance and Public Policy, Nenneh Freda Gomez, has said President Adama Barrow’s political focus has shifted from UDP leader Ousainou Darboe to UNITE leader Talib Bensouda, citing Bensouda’s growing support, organisation and p...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gomez-barrows-main-political-concern-is-now-bensouda-not-darboe/",
+      "publishedAt": "2026-11-15T02:18:55.000Z",
+      "collectedAt": "2026-11-15T05:59:53.603Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1e7d391600728d7c",
       "title": "Scorpions suffer 2-1 defeat to Ivory Coast in Afcon qualifiers",
       "summary": "By Momodou Jarju The Gambia’s Scorpions Thursday endured a 2-1 defeat against Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers played at the Stade de la Paix in Bouaké. Scorpions boss Johnathan McKinstry included Musa Barrow to the starting...",
@@ -341,7 +366,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-14T23:48:50.334Z",
-    "count": 14
+    "generatedAt": "2026-11-15T05:59:57.715Z",
+    "count": 15
   }
 }
