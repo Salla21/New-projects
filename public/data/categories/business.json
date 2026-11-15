@@ -600,30 +600,6 @@
       "status": "published"
     },
     {
-      "id": "c38cfc6075a0419e",
-      "title": "WHAT NEW TAX MEASURES FOR 2027 HAVE BEEN APPROVED BY THE NATIONAL ASSEMBLY?",
-      "summary": "Every year, the Government reviews the tax measures in place and come up with new measures to revise or introduce new tax measure which would require the approval of the National Assembly. Below are some of the revenue measures proposed by the Minister of Finance and Economic ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-new-tax-measures-for-2027-have-been-approved-by-the-national-assembly/",
-      "publishedAt": "2026-11-09T10:54:25.000Z",
-      "collectedAt": "2026-11-09T20:37:52.481Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -632,7 +608,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-15T05:59:52.069Z",
+      "collectedAt": "2026-11-15T13:51:40.444Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -655,7 +631,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-15T05:59:52.069Z",
+      "collectedAt": "2026-11-15T13:51:40.444Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -671,7 +647,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T05:59:57.715Z",
-    "count": 28
+    "generatedAt": "2026-11-15T13:51:54.123Z",
+    "count": 27
   }
 }

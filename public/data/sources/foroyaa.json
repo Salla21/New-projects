@@ -1065,57 +1065,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c38cfc6075a0419e",
-      "title": "WHAT NEW TAX MEASURES FOR 2027 HAVE BEEN APPROVED BY THE NATIONAL ASSEMBLY?",
-      "summary": "Every year, the Government reviews the tax measures in place and come up with new measures to revise or introduce new tax measure which would require the approval of the National Assembly. Below are some of the revenue measures proposed by the Minister of Finance and Economic ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-new-tax-measures-for-2027-have-been-approved-by-the-national-assembly/",
-      "publishedAt": "2026-11-09T10:54:25.000Z",
-      "collectedAt": "2026-11-09T20:37:52.481Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3453016fddd29e4d",
-      "title": "FOR A MAYOR’S NOMINATION AS A PRESIDENTIAL CANDIDATE TO BE ACCEPTED HE/SHE MUST RESIGN",
-      "summary": "The Constitution does list down the category of citizens whose nomination will not be accepted unless they resign from the public post they occupy. This includes a mayor/mayoress, chairpersons and members of councils. It stipulates in section 90(1) paragraph (j) that “No perso...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/for-a-mayors-nomination-as-a-presidential-candidate-to-be-accepted-he-she-must-resign/",
-      "publishedAt": "2026-11-09T10:52:33.000Z",
-      "collectedAt": "2026-11-09T20:37:52.481Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T05:59:57.715Z",
-    "count": 48
+    "generatedAt": "2026-11-15T13:51:54.123Z",
+    "count": 46
   }
 }
