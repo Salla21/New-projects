@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "da55421029f4dd19",
+      "title": "Stop Step Pharmacy and Medicare Clinic Offer Free Health Screenings in Serrekunda",
+      "summary": "By Fatou Sillah Stop Step Pharmacy and Medicare Clinic held a free medical screening event in Serrekunda on Saturday to mark the opening of the pharmacy’s new branch and the launch of its home healthcare service. The outreach, part of the pharmacy’s corporate social responsibi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/stop-step-pharmacy-and-medicare-clinic-offer-free-health-screenings-in-serrekunda/",
+      "publishedAt": "2026-11-15T23:13:46.000Z",
+      "collectedAt": "2026-11-15T23:55:19.197Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5ac797f1976160b3",
       "title": "Bensouda steps down as KMC mayor ahead of presidential election",
       "summary": "By Ndey Sowe Talib Ahmed Bensouda has resigned as mayor of Kanifing Municipal Council, ending more than eight years in office as he prepares for the next stage of his public service through the December 5 presidential election. Bensouda announced his voluntary departure in a f...",
@@ -48,7 +69,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T19:43:57.696Z",
-    "count": 2
+    "generatedAt": "2026-11-15T23:55:23.326Z",
+    "count": 3
   }
 }

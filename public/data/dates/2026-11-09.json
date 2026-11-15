@@ -273,81 +273,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4c2babe436ae148e",
-      "title": "Ousman Sillah represents Africa at global TVET conference in Brazil",
-      "summary": "Hon. Ousman Sillah, Secretary General of the Sub-Saharan Africa Skills and Apprenticeship Stakeholders Network (SASASNET), represented Africa on a panel at a global conference on technical and vocational education and training (TVET) in São Paulo, Brazil. The UNESCO-UNEVOC con...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/ousman-sillah-represents-africa-at-global-tvet-conference-in-brazil/",
-      "publishedAt": "2026-11-09T11:33:17.000Z",
-      "collectedAt": "2026-11-09T20:37:52.481Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "277b39b4ca6fbf9d",
-      "title": "Independent Candidate Bakary Badjie, NDP’s Kebba Madi Bojang Submit Nomination Papers",
-      "summary": "By Hatab Nyang / Louise Jobe Independent presidential aspirant Bakary K. Badjie has called for stronger action against corruption, saying it is holding back the country’s development. Speaking to journalists at the Independent Electoral Commission headquarters on Friday, Novem...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/independent-candidate-bakary-badjie-ndps-kebba-madi-bojang-submit-nomination-papers/",
-      "publishedAt": "2026-11-09T11:29:49.000Z",
-      "collectedAt": "2026-11-09T20:37:52.481Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "864c18eaa37a6139",
-      "title": "Darboe Urges Gambians, Journalists to Study Constitution Over One-Term Pledge",
-      "summary": "Written by: Dawda Baldeh United Democratic Party (UDP) leader Ousainou Darboe has urged Gambians, including journalists, to familiarise themselves with the country’s Constitution, stressing the importance of understanding its provisions before drawing conclusions on political ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-urges-gambians-journalists-to-study-constitution-over-one-term-pledge/",
-      "publishedAt": "2026-11-09T11:23:24.000Z",
-      "collectedAt": "2026-11-09T20:37:52.974Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T19:43:57.696Z",
-    "count": 15
+    "generatedAt": "2026-11-15T23:55:23.326Z",
+    "count": 12
   }
 }

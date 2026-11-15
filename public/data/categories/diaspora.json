@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "2b912bed68ae150a",
+      "title": "Darboe Hails Gen Z Endorsement of UDP Ahead of December Election",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader and secretary general ANM Ousainu Darboe welcomed an endorsement from hundreds of young Gambians ahead of the December 5 presidential election, describing the scale of the mobilisation as unprecedented in the country’s politic...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-hails-gen-z-endorsement-of-udp-ahead-of-december-election/",
+      "publishedAt": "2026-11-15T23:18:25.000Z",
+      "collectedAt": "2026-11-15T23:55:19.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eede426d7db86bd9",
       "title": "GID intercepts 215 would-be migrants in joint operations",
       "summary": "By Hadram Hydara The Gambia Immigration Department (GID) has intercepted 215 would-be irregular migrants and arrested two suspected smugglers during coordinated operations across Banjul and the West Coast Region, the department announced. ​According to a GID statement, officer...",
@@ -361,35 +385,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "864c18eaa37a6139",
-      "title": "Darboe Urges Gambians, Journalists to Study Constitution Over One-Term Pledge",
-      "summary": "Written by: Dawda Baldeh United Democratic Party (UDP) leader Ousainou Darboe has urged Gambians, including journalists, to familiarise themselves with the country’s Constitution, stressing the importance of understanding its provisions before drawing conclusions on political ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-urges-gambians-journalists-to-study-constitution-over-one-term-pledge/",
-      "publishedAt": "2026-11-09T11:23:24.000Z",
-      "collectedAt": "2026-11-09T20:37:52.974Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T19:43:57.696Z",
+    "generatedAt": "2026-11-15T23:55:23.326Z",
     "count": 16
   }
 }

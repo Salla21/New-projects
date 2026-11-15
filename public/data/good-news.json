@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "63f776c66fa13568",
+      "title": "UDP-Led Gambia First Coalition Formalises Alliance, Gains Three Endorsements",
+      "summary": "By Seedy Jobe The United Democratic Party (UDP)-led Gambia First Coalition formalised its partnership and secured the backing of three political leaders at a signing ceremony on Sunday, November 15, 2026, ahead of The Gambia’s December 5 presidential election. At the UDP burea...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/udp-led-gambia-first-coalition-formalises-alliance-gains-three-endorsements/",
+      "publishedAt": "2026-11-15T23:30:25.000Z",
+      "collectedAt": "2026-11-15T23:55:19.197Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "da55421029f4dd19",
+      "title": "Stop Step Pharmacy and Medicare Clinic Offer Free Health Screenings in Serrekunda",
+      "summary": "By Fatou Sillah Stop Step Pharmacy and Medicare Clinic held a free medical screening event in Serrekunda on Saturday to mark the opening of the pharmacy’s new branch and the launch of its home healthcare service. The outreach, part of the pharmacy’s corporate social responsibi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/stop-step-pharmacy-and-medicare-clinic-offer-free-health-screenings-in-serrekunda/",
+      "publishedAt": "2026-11-15T23:13:46.000Z",
+      "collectedAt": "2026-11-15T23:55:19.197Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6162b0f2e92e75a1",
       "title": "I’m beginning to wonder if we have raised a generation of successful individuals, but left them on their own to figure out how to be successful partners",
       "summary": "By RamaTulai The more DMs I receive from well-educated, financially independent women who are unhappy in their relationships, the more this thought weighs on my mind. And it isn’t just about the women. I find myself wondering whether we have also failed the men. What exactly d...",
@@ -298,10 +342,31 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
+    },
+    {
+      "id": "8d7c0ba9c85e332c",
+      "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
+      "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
+      "publishedAt": "2026-10-21T02:16:54.000Z",
+      "collectedAt": "2026-11-15T23:55:14.586Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T19:43:57.696Z",
-    "count": 13
+    "generatedAt": "2026-11-15T23:55:23.326Z",
+    "count": 16
   }
 }

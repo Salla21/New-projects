@@ -621,24 +621,45 @@
       "status": "published"
     },
     {
-      "id": "864c18eaa37a6139",
-      "title": "Darboe Urges Gambians, Journalists to Study Constitution Over One-Term Pledge",
-      "summary": "Written by: Dawda Baldeh United Democratic Party (UDP) leader Ousainou Darboe has urged Gambians, including journalists, to familiarise themselves with the country’s Constitution, stressing the importance of understanding its provisions before drawing conclusions on political ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-urges-gambians-journalists-to-study-constitution-over-one-term-pledge/",
-      "publishedAt": "2026-11-09T11:23:24.000Z",
-      "collectedAt": "2026-11-09T20:37:52.974Z",
+      "id": "57a0f91f5809e6a9",
+      "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
+      "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
+      "publishedAt": "2026-11-04T06:26:19.000Z",
+      "collectedAt": "2026-11-15T23:55:14.586Z",
       "region": "banjul",
       "categories": [
-        "politics",
-        "business",
-        "diaspora"
+        "business"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
+      "author": "Lamin Saidy",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0fc306e42fa41a00",
+      "title": "BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care",
+      "summary": "A police officer in Bansang has allegedly impregnated a Grade 11 student who was reportedly under…\nThe post BANSANG: Police Officer Allegedly Impregnates Grade 11 Student Under His Care appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
+      "publishedAt": "2026-10-28T03:03:43.000Z",
+      "collectedAt": "2026-11-15T23:55:14.586Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -647,7 +668,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-15T19:43:57.696Z",
-    "count": 27
+    "generatedAt": "2026-11-15T23:55:23.326Z",
+    "count": 28
   }
 }
