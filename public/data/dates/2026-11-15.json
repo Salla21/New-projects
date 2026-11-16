@@ -184,6 +184,29 @@
       "status": "published"
     },
     {
+      "id": "30ce0feebbd9d281",
+      "title": "Stakeholders call for stronger disability rights & accessible elections",
+      "summary": "By Kebba A.F. Touray As The Gambia prepares for the December 5 presidential election, disability advocates, lawmakers and election stakeholders are calling for better access to polling stations, accessible voter information and stronger enforcement of the Persons with Disabili...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/stakeholders-call-for-stronger-disability-rights-accessible-elections/",
+      "publishedAt": "2026-11-15T09:26:35.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6a8a03b60cdcb747",
       "title": "Bensouda Pledges to Sign Peace Pact First, Vows to Criminalise Tribalism",
       "summary": "By Seedy Jobe Talib Ahmed Bensouda, leader of UNITE party and flagbearer of Coalition 2026, has said his party and coalition will be the first to sign the peace pact ahead of the 5 December election. He has also pledged to criminalise tribalism if elected. Mr. Bensouda made th...",
@@ -326,7 +349,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T06:02:09.815Z",
-    "count": 14
+    "generatedAt": "2026-11-16T15:34:36.950Z",
+    "count": 15
   }
 }

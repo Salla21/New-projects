@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "27529a6330367209",
+      "title": "Presidential Candidates Sign Peace Pact Ahead of December",
+      "summary": "Published by: The Fatu Network The Gambia’s presidential candidates came together in Bijilo this morning to sign a Peace Pact, pledging to reject political violence, intimidation and hostility ahead of December 5th. The agreement, organised by the Independent Electoral Commiss...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/presidential-candidates-sign-peace-pact-ahead-of-december/",
+      "publishedAt": "2026-11-16T13:24:37.000Z",
+      "collectedAt": "2026-11-16T15:34:31.287Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "89a6fdc751ce5bfd",
+      "title": "New poll puts Barrow ahead but voters signal deep economic frustration",
+      "summary": "By Hadram Hydara President Adama Barrow and the ruling NPP-led alliance would secure the largest share of votes if The Gambia’s presidential election were held today, according to a new nationwide opinion poll, though widespread concerns about the economy, living costs and ele...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/new-poll-puts-barrow-ahead-but-voters-signal-deep-economic-frustration/",
+      "publishedAt": "2026-11-16T11:43:00.000Z",
+      "collectedAt": "2026-11-16T15:34:31.287Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eede426d7db86bd9",
       "title": "GID intercepts 215 would-be migrants in joint operations",
       "summary": "By Hadram Hydara The Gambia Immigration Department (GID) has intercepted 215 would-be irregular migrants and arrested two suspected smugglers during coordinated operations across Banjul and the West Coast Region, the department announced. ​According to a GID statement, officer...",
@@ -365,7 +412,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T06:02:09.815Z",
-    "count": 16
+    "generatedAt": "2026-11-16T15:34:36.950Z",
+    "count": 18
   }
 }

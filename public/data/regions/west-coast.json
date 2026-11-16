@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "bd49cfe534b08652",
+      "title": "Presidential Candidate Sima Unveils Vision for Jobs, Food Security and Affordable Homes",
+      "summary": "Speaks to Foroyaa Radio By Mariama Marong Modou Lamin Sima, the presidential candidate for the Alliance for Progressive Citizens (APC), has outlined plans to reduce The Gambia’s dependence on imports, create jobs and expand local production if his party wins office. Speaking o...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/presidential-candidate-sima-unveils-vision-for-jobs-food-security-and-affordable-homes/",
+      "publishedAt": "2026-11-16T11:25:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e315cc6786e7f217",
       "title": "Over 1,100 migrants reach Canary Islands as two boats depart from Gambia",
       "summary": "By Hadram Hydara More than 1,100 migrants arrived in Spain’s Canary Islands aboard 12 boats on Saturday, with two of the vessels reported to have departed from Gunjur in The Gambia, according to EFE News Agency. EFE reported that a total of 1,103 people, including 89 women and...",
@@ -264,7 +288,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-16T06:02:01.969Z",
+      "collectedAt": "2026-11-16T15:34:31.199Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -285,7 +309,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
       "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-16T06:02:01.969Z",
+      "collectedAt": "2026-11-16T15:34:31.199Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -299,7 +323,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T06:02:09.815Z",
-    "count": 13
+    "generatedAt": "2026-11-16T15:34:36.950Z",
+    "count": 14
   }
 }

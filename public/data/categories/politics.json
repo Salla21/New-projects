@@ -1,6 +1,194 @@
 {
   "items": [
     {
+      "id": "27529a6330367209",
+      "title": "Presidential Candidates Sign Peace Pact Ahead of December",
+      "summary": "Published by: The Fatu Network The Gambia’s presidential candidates came together in Bijilo this morning to sign a Peace Pact, pledging to reject political violence, intimidation and hostility ahead of December 5th. The agreement, organised by the Independent Electoral Commiss...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/presidential-candidates-sign-peace-pact-ahead-of-december/",
+      "publishedAt": "2026-11-16T13:24:37.000Z",
+      "collectedAt": "2026-11-16T15:34:31.287Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "89a6fdc751ce5bfd",
+      "title": "New poll puts Barrow ahead but voters signal deep economic frustration",
+      "summary": "By Hadram Hydara President Adama Barrow and the ruling NPP-led alliance would secure the largest share of votes if The Gambia’s presidential election were held today, according to a new nationwide opinion poll, though widespread concerns about the economy, living costs and ele...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/new-poll-puts-barrow-ahead-but-voters-signal-deep-economic-frustration/",
+      "publishedAt": "2026-11-16T11:43:00.000Z",
+      "collectedAt": "2026-11-16T15:34:31.287Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b9dacd4f9a168542",
+      "title": "IEC accepts nine presidential candidates for December presidential elections",
+      "summary": "By Nelson Manneh The Independent Electoral Commission (IEC) has accepted the nomination papers of nine candidates for the December 5 presidential election and rejected seven others. IEC chairperson Joseph Colley announced the results on Saturday, November 14, the final day of ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-accepts-nine-presidential-candidates-for-december-presidential-elections/",
+      "publishedAt": "2026-11-16T11:41:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bd49cfe534b08652",
+      "title": "Presidential Candidate Sima Unveils Vision for Jobs, Food Security and Affordable Homes",
+      "summary": "Speaks to Foroyaa Radio By Mariama Marong Modou Lamin Sima, the presidential candidate for the Alliance for Progressive Citizens (APC), has outlined plans to reduce The Gambia’s dependence on imports, create jobs and expand local production if his party wins office. Speaking o...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/presidential-candidate-sima-unveils-vision-for-jobs-food-security-and-affordable-homes/",
+      "publishedAt": "2026-11-16T11:25:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5bef121cf1e7e91d",
+      "title": "UTG Vice-Chancellor asks President Barrow to suspend successor recruitment",
+      "summary": "By Yankuba Jallow Professor Herbert Robinson said the Governing Council’s appraisal was unfair and argued that the final decision on renewing his appointment rests with the university’s Chancellor. University of The Gambia Vice-Chancellor Professor Herbert Robinson has asked P...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/utg-vice-chancellor-asks-president-barrow-to-suspend-successor-recruitment/",
+      "publishedAt": "2026-11-16T11:21:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7f32aa07db4e3fe1",
+      "title": "Honourable Bala Garba Jahumpa, ‘Actionman’, Joins PDOIS",
+      "summary": "Bala Garba Jahumpa, a prominent Gambian politician and former government minister widely known as “Actionman”, has officially joined the People’s Democratic Organisation for Independence and Socialism (PDOIS), a political party founded on the principles of fighting poverty, in...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/honourable-bala-garba-jahumpa-actionman-joins-pdois/",
+      "publishedAt": "2026-11-16T11:10:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a67b4d2287c15e5e",
+      "title": "WHAT ARE THE PRINCIPAL CONCERNS OF THE ELECTORATE?",
+      "summary": "What are the principal issues that the electorate want an elected president to resolve? Is it unemployment which engineers irregular migration, or inflation which is impoverishing the people, or the debt burden, or the lack of a market for women gardeners, or the lack of adequ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-are-the-principal-concerns-of-the-electorate/",
+      "publishedAt": "2026-11-16T09:21:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "76bfae0e975c518c",
+      "title": "THE BATTLE FOR THE HEARTS AND MINDS OF THE PEOPLE HAS BEGUN",
+      "summary": "The campaign trail is now set, and nine presidential candidates are now battling for the hearts and minds of the electorate. In fact, unofficial campaign had started much earlier as the candidates did not want to take a chance. For the next seventeen days the presidential cand...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-battle-for-the-hearts-and-minds-of-the-people-has-begun/",
+      "publishedAt": "2026-11-16T09:18:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "63f776c66fa13568",
       "title": "UDP-Led Gambia First Coalition Formalises Alliance, Gains Three Endorsements",
       "summary": "By Seedy Jobe The United Democratic Party (UDP)-led Gambia First Coalition formalised its partnership and secured the backing of three political leaders at a signing ceremony on Sunday, November 15, 2026, ahead of The Gambia’s December 5 presidential election. At the UDP burea...",
@@ -87,6 +275,29 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "30ce0feebbd9d281",
+      "title": "Stakeholders call for stronger disability rights & accessible elections",
+      "summary": "By Kebba A.F. Touray As The Gambia prepares for the December 5 presidential election, disability advocates, lawmakers and election stakeholders are calling for better access to polling stations, accessible voter information and stronger enforcement of the Persons with Disabili...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/stakeholders-call-for-stronger-disability-rights-accessible-elections/",
+      "publishedAt": "2026-11-15T09:26:35.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -1724,7 +1935,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-16T06:02:01.969Z",
+      "collectedAt": "2026-11-16T15:34:31.199Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1748,7 +1959,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-16T06:02:01.969Z",
+      "collectedAt": "2026-11-16T15:34:31.199Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1764,7 +1975,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T06:02:09.815Z",
-    "count": 75
+    "generatedAt": "2026-11-16T15:34:36.950Z",
+    "count": 84
   }
 }

@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "a67b4d2287c15e5e",
+      "title": "WHAT ARE THE PRINCIPAL CONCERNS OF THE ELECTORATE?",
+      "summary": "What are the principal issues that the electorate want an elected president to resolve? Is it unemployment which engineers irregular migration, or inflation which is impoverishing the people, or the debt burden, or the lack of a market for women gardeners, or the lack of adequ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-are-the-principal-concerns-of-the-electorate/",
+      "publishedAt": "2026-11-16T09:21:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2b912bed68ae150a",
       "title": "Darboe Hails Gen Z Endorsement of UDP Ahead of December Election",
       "summary": "By Seedy Jobe United Democratic Party (UDP) leader and secretary general ANM Ousainu Darboe welcomed an endorsement from hundreds of young Gambians ahead of the December 5 presidential election, describing the scale of the mobilisation as unprecedented in the country’s politic...",
@@ -388,7 +413,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T06:02:09.815Z",
-    "count": 16
+    "generatedAt": "2026-11-16T15:34:36.950Z",
+    "count": 17
   }
 }

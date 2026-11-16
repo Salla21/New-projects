@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "id": "44956d3148381de4",
+      "title": "Farmers in Niumi say Government still owe Them for 2025 groundnut sales",
+      "summary": "By Yankuba Jallow Three of the farmers are from Lowen village in Niumi, in the Ndungu Charen area and others are from nearby villages informed Foroyaa that the Gambia Government has still not paid them for the groundnuts they sold during the 2025/26 trade season. They estimate...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/farmers-in-niumi-say-government-still-owe-them-for-2025-groundnut-sales/",
+      "publishedAt": "2026-11-16T11:50:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "89a6fdc751ce5bfd",
+      "title": "New poll puts Barrow ahead but voters signal deep economic frustration",
+      "summary": "By Hadram Hydara President Adama Barrow and the ruling NPP-led alliance would secure the largest share of votes if The Gambia’s presidential election were held today, according to a new nationwide opinion poll, though widespread concerns about the economy, living costs and ele...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/new-poll-puts-barrow-ahead-but-voters-signal-deep-economic-frustration/",
+      "publishedAt": "2026-11-16T11:43:00.000Z",
+      "collectedAt": "2026-11-16T15:34:31.287Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bd49cfe534b08652",
+      "title": "Presidential Candidate Sima Unveils Vision for Jobs, Food Security and Affordable Homes",
+      "summary": "Speaks to Foroyaa Radio By Mariama Marong Modou Lamin Sima, the presidential candidate for the Alliance for Progressive Citizens (APC), has outlined plans to reduce The Gambia’s dependence on imports, create jobs and expand local production if his party wins office. Speaking o...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/presidential-candidate-sima-unveils-vision-for-jobs-food-security-and-affordable-homes/",
+      "publishedAt": "2026-11-16T11:25:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a67b4d2287c15e5e",
+      "title": "WHAT ARE THE PRINCIPAL CONCERNS OF THE ELECTORATE?",
+      "summary": "What are the principal issues that the electorate want an elected president to resolve? Is it unemployment which engineers irregular migration, or inflation which is impoverishing the people, or the debt burden, or the lack of a market for women gardeners, or the lack of adequ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-are-the-principal-concerns-of-the-electorate/",
+      "publishedAt": "2026-11-16T09:21:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c96edc5622f8e472",
       "title": "More than 1,300 migrants rescued near Canary Island, several boats reportedly departed from Gambia",
       "summary": "By Hadram Hydara Spanish rescue services rescued 1,357 migrants aboard 13 boats near the Canary Islands, with several vessels reportedly departing from coastal communities in The Gambia, according to Gaceta del Meridiano. The publication reported that 1,235 migrants arrived in...",
@@ -629,7 +725,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-16T06:02:01.969Z",
+      "collectedAt": "2026-11-16T15:34:31.199Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -652,7 +748,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bansang-police-officer-allegedly-impregnates-grade-11-student-under-his-care/",
       "publishedAt": "2026-10-28T03:03:43.000Z",
-      "collectedAt": "2026-11-16T06:02:01.969Z",
+      "collectedAt": "2026-11-16T15:34:31.199Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -668,7 +764,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T06:02:09.815Z",
-    "count": 28
+    "generatedAt": "2026-11-16T15:34:36.950Z",
+    "count": 32
   }
 }

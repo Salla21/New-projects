@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "c834fe7ca3f37991",
+      "title": "Halifa Sallah honoured as World Peace Advocate",
+      "summary": "Hon. Halifa Sallah has received a Chartered Fellowship Award as a World Peace Advocate from the International Association of World Peace Advocates. The award was presented on Saturday, November 14, 2026. Its citation appointed Sallah as an “Eminent Peace Ambassador”. He is a f...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/halifa-sallah-honoured-as-world-peace-advocate/",
+      "publishedAt": "2026-11-16T11:47:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bd49cfe534b08652",
+      "title": "Presidential Candidate Sima Unveils Vision for Jobs, Food Security and Affordable Homes",
+      "summary": "Speaks to Foroyaa Radio By Mariama Marong Modou Lamin Sima, the presidential candidate for the Alliance for Progressive Citizens (APC), has outlined plans to reduce The Gambia’s dependence on imports, create jobs and expand local production if his party wins office. Speaking o...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/presidential-candidate-sima-unveils-vision-for-jobs-food-security-and-affordable-homes/",
+      "publishedAt": "2026-11-16T11:25:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5bef121cf1e7e91d",
+      "title": "UTG Vice-Chancellor asks President Barrow to suspend successor recruitment",
+      "summary": "By Yankuba Jallow Professor Herbert Robinson said the Governing Council’s appraisal was unfair and argued that the final decision on renewing his appointment rests with the university’s Chancellor. University of The Gambia Vice-Chancellor Professor Herbert Robinson has asked P...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/utg-vice-chancellor-asks-president-barrow-to-suspend-successor-recruitment/",
+      "publishedAt": "2026-11-16T11:21:00.000Z",
+      "collectedAt": "2026-11-16T15:34:30.852Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "63f776c66fa13568",
       "title": "UDP-Led Gambia First Coalition Formalises Alliance, Gains Three Endorsements",
       "summary": "By Seedy Jobe The United Democratic Party (UDP)-led Gambia First Coalition formalised its partnership and secured the backing of three political leaders at a signing ceremony on Sunday, November 15, 2026, ahead of The Gambia’s December 5 presidential election. At the UDP burea...",
@@ -352,7 +420,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-16T06:02:01.969Z",
+      "collectedAt": "2026-11-16T15:34:31.199Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -366,7 +434,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T06:02:09.815Z",
-    "count": 16
+    "generatedAt": "2026-11-16T15:34:36.950Z",
+    "count": 19
   }
 }
