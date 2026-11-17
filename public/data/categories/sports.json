@@ -117,33 +117,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4a0e3f330bf3294c",
-      "title": "Scorpions depart Gambia for Ivory Coast ahead of Afcon qualifiers",
-      "summary": "By Momodou Jarju The Gambia’s Scorpions Tuesday departed the country to Bouaké via Abidjan where they will face Ivory Coast on Thursday in Matchday 3 of the TotalEnergies CAF Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers. Head Coach Johnathan McKinstry named a final 25-...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/scorpions-depart-gambia-for-ivory-coast-ahead-of-afcon-qualifiers/",
-      "publishedAt": "2026-11-10T16:56:32.000Z",
-      "collectedAt": "2026-11-10T21:45:32.387Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T10:30:11.660Z",
-    "count": 6
+    "generatedAt": "2026-11-17T20:46:25.239Z",
+    "count": 5
   }
 }

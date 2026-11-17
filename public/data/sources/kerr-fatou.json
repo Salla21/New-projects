@@ -958,58 +958,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "084fed8259f1c7a0",
-      "title": "Dr. Ceesay Calls UDP a ‘Serial Loser,’ Predicts 60 Percent Victory for Barrow",
-      "summary": "By Fatou Sillah Dr. Ismaila Ceesay, Minister of Information, Media and Broadcasting Services, has described the opposition United Democratic Party (UDP) as a “serial loser,” mocking its record of electoral defeats since 1996 and expressing confidence that President Adama Barro...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dr-ceesay-calls-udp-a-serial-loser-predicts-60-percent-victory-for-barrow/",
-      "publishedAt": "2026-11-10T18:58:46.000Z",
-      "collectedAt": "2026-11-10T21:46:02.190Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "255846f801f78897",
-      "title": "December 5 Election Offers Chance to Restore Gambia’s Lost Glory, Says Saho",
-      "summary": "By Seedy Jobe Sulayman Saho, the National Assembly Member for Central Badibou and National Organizing Secretary of the United Democratic Party (UDP), has described the December 5 presidential election as an opportunity to renew hope, restore national unity, and reclaim what he...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/december-5-election-offers-chance-to-restore-gambias-lost-glory-says-saho/",
-      "publishedAt": "2026-11-10T18:53:23.000Z",
-      "collectedAt": "2026-11-10T21:46:02.190Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T10:30:11.660Z",
-    "count": 43
+    "generatedAt": "2026-11-17T20:46:25.239Z",
+    "count": 41
   }
 }

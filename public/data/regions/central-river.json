@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "caec62e4130b1cba",
+      "title": "NPP’s Adama Barrow Urges Candidates to Keep Peace as He Signs Election Peace Pact",
+      "summary": "By Yankuba Jallow President Adama Barrow, the presidential candidate for the National People’s Party (NPP) has called on political leaders and their supporters to protect national peace and unity, saying the value of the Janjanbureh Accord will depend on how they act after sig...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/npps-adama-barrow-urges-candidates-to-keep-peace-as-he-signs-election-peace-pact/",
+      "publishedAt": "2026-11-17T11:58:00.000Z",
+      "collectedAt": "2026-11-17T20:45:36.377Z",
+      "region": "central-river",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "02c6a90c610480e4",
+      "title": "UDP’s Lawyer Darboe Says Peace Pact Must Be More Than a Ceremony",
+      "summary": "By Yankuba Jallow United Democratic Party leader and presidential candidate A.N.M. Ousainou Darboe has urged political leaders to honour every part of the Janjanbureh Peace Accord, warning that signing the document would mean little if candidates later acted against its commit...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/udps-lawyer-darboe-says-peace-pact-must-be-more-than-a-ceremony/",
+      "publishedAt": "2026-11-17T11:38:00.000Z",
+      "collectedAt": "2026-11-17T20:45:36.377Z",
+      "region": "central-river",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a0799b760064a65e",
+      "title": "UNITE’s Talib Ahmed Bensouda Says Peace Must Not Mean Silence on Injustice",
+      "summary": "By Yankuba Jallow UNITE Party presidential candidate Talib Ahmed Bensouda has called for a peaceful and credible election, while warning that peace should not be used to silence criticism or weaken democratic rights. Speaking at the signing of the Janjanbureh Peace Accord on N...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/unites-talib-ahmed-bensouda-says-peace-must-not-mean-silence-on-injustice/",
+      "publishedAt": "2026-11-17T11:20:00.000Z",
+      "collectedAt": "2026-11-17T20:45:36.377Z",
+      "region": "central-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "39e7bd3c091e8ed7",
       "title": "Thirst & Despair: Changai Toro Villagers Forced to Share Water with Livestock After Borehole Collapse",
       "summary": "Written by: Dawda Baldeh Residents of Changai Toro, in the Sami District of the Central River Region (CRR), are facing a severe water crisis following the breakdown of the village’s only borehole, leaving hundreds of people without access to safe drinking water and forcing wom...",
@@ -25,7 +96,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T10:30:11.660Z",
-    "count": 1
+    "generatedAt": "2026-11-17T20:46:25.239Z",
+    "count": 4
   }
 }

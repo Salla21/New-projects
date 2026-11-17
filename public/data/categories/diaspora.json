@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "02c6a90c610480e4",
+      "title": "UDP’s Lawyer Darboe Says Peace Pact Must Be More Than a Ceremony",
+      "summary": "By Yankuba Jallow United Democratic Party leader and presidential candidate A.N.M. Ousainou Darboe has urged political leaders to honour every part of the Janjanbureh Peace Accord, warning that signing the document would mean little if candidates later acted against its commit...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/udps-lawyer-darboe-says-peace-pact-must-be-more-than-a-ceremony/",
+      "publishedAt": "2026-11-17T11:38:00.000Z",
+      "collectedAt": "2026-11-17T20:45:36.377Z",
+      "region": "central-river",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bbce8895ed04c904",
       "title": "Darboe Accuses Barrow Government of Lacking Political Will to Fight Corruption",
       "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has accused President Adama Barrow’s administration of lacking the political will to combat corruption, citing the prolonged delay in making the Anti-Corruption Commi...",
@@ -364,7 +388,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T10:30:11.660Z",
-    "count": 15
+    "generatedAt": "2026-11-17T20:46:25.239Z",
+    "count": 16
   }
 }

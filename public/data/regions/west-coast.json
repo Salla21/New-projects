@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "5d490bd52d943f70",
+      "title": "Team Gambia’s Dr Lamin J. Darbo Calls for Peaceful Presidential Campaign",
+      "summary": "By Yankuba Jallow Team Gambia Grand Coalition presidential candidate Dr Lamin J. Darbo has urged candidates and political leaders to guide their supporters’ conduct, warning that a lack of restraint could turn political tension into disorder. Speaking at the signing of the Jan...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/team-gambias-dr-lamin-j-darbo-calls-for-peaceful-presidential-campaign/",
+      "publishedAt": "2026-11-17T11:29:00.000Z",
+      "collectedAt": "2026-11-17T20:45:36.377Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bd49cfe534b08652",
       "title": "Presidential Candidate Sima Unveils Vision for Jobs, Food Security and Affordable Homes",
       "summary": "Speaks to Foroyaa Radio By Mariama Marong Modou Lamin Sima, the presidential candidate for the Alliance for Progressive Citizens (APC), has outlined plans to reduce The Gambia’s dependence on imports, create jobs and expand local production if his party wins office. Speaking o...",
@@ -212,29 +236,50 @@
       "status": "published"
     },
     {
-      "id": "7e62a6050c807f9c",
-      "title": "Farmers Urge Better Prices as Groundnut Harvest Improves",
-      "summary": "By Lamin Fatty What began as a season of fear and sleepless nights for farmers in parts of The Gambia is turning into a period of hope as the groundnut harvest gets underway. Farmers in the Upper River Region (URR) and Central River Region (CRR) say the rains came late, then s...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/farmers-urge-better-prices-as-groundnut-harvest-improves/",
-      "publishedAt": "2026-11-10T12:25:18.000Z",
-      "collectedAt": "2026-11-10T14:46:14.790Z",
+      "id": "7df537de5df55004",
+      "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
+      "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
+      "publishedAt": "2026-11-04T06:20:12.000Z",
+      "collectedAt": "2026-11-17T20:45:36.950Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Sulayman Bah",
+      "author": "Eddy Jatta",
       "language": "en",
-      "isGoodNews": true,
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "98b8ee0bd6e69465",
+      "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
+      "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
+      "publishedAt": "2026-10-21T06:17:57.000Z",
+      "collectedAt": "2026-11-17T20:45:36.950Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T10:30:11.660Z",
-    "count": 10
+    "generatedAt": "2026-11-17T20:46:25.239Z",
+    "count": 12
   }
 }
