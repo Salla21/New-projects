@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "58125302071ba5d6",
+      "title": "Gambia Tourism Board Denies Restrictions on Public Beach Access, Pledges Investigation",
+      "summary": "By Makutu Manneh The Gambia Tourism Board (GT Board) has dismissed reports suggesting that Gambians are being denied access to beaches during and after the tourist season, insisting that no policy or directive restricts public access to the country’s beaches or the Tourism Dev...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-tourism-board-denies-restrictions-on-public-beach-access-pledges-investigation/",
+      "publishedAt": "2026-11-16T18:21:29.000Z",
+      "collectedAt": "2026-11-17T00:11:23.830Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c834fe7ca3f37991",
       "title": "Halifa Sallah honoured as World Peace Advocate",
       "summary": "Hon. Halifa Sallah has received a Chartered Fellowship Award as a World Peace Advocate from the International Association of World Peace Advocates. The award was presented on Saturday, November 14, 2026. Its citation appointed Sallah as an “Eminent Peace Ambassador”. He is a f...",
@@ -343,75 +367,6 @@
       "status": "published"
     },
     {
-      "id": "152175938a3fa2d5",
-      "title": "€165,000 Debt: When a Private Loan Raises Questions About Legal Certainty in The Gambia",
-      "summary": "Written by: Seringe S.T. Touray A new lawsuit against Ebrima Solomon Tamba, a Gambian businessman and shareholder in Kasumai Real Estate, the company behind Bitcoin Tower and The Edge apartment developments with Austrian investors, raises questions about contracts, property ri...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/e165000-debt-when-a-private-loan-raises-questions-about-legal-certainty-in-the-gambia/",
-      "publishedAt": "2026-11-10T09:22:40.000Z",
-      "collectedAt": "2026-11-10T14:46:15.241Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "95fc248b7b14c480",
-      "title": "Gambia Participates Launches AI-Powered Marble Elections App to Enhance Electoral Transparency",
-      "summary": "By Makutu Manneh Gambia Participates has launched an upgraded version of its Marble Elections App, incorporating artificial intelligence (AI) to improve access to electoral information, enhance transparency, and strengthen public confidence in The Gambia’s electoral process. T...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-participates-launches-ai-powered-marble-elections-app-to-enhance-electoral-transparency/",
-      "publishedAt": "2026-11-09T18:55:59.000Z",
-      "collectedAt": "2026-11-09T20:37:59.285Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "888ff59c88fb3d07",
-      "title": "Gambia Launches New Tourism Policy, Investment Strategy, and National Brand Identity",
-      "summary": "By Makutu Manneh The Gambia has unveiled a new National Tourism Policy and Strategy, a marketing and investment promotion framework, six priority investment projects and a national tourism brand logo as part of a broader effort to diversify the sector, attract investment and s...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-launches-new-tourism-policy-investment-strategy-and-national-brand-identity/",
-      "publishedAt": "2026-11-09T18:49:31.000Z",
-      "collectedAt": "2026-11-09T20:37:59.285Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "8d7c0ba9c85e332c",
       "title": "“I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador",
       "summary": "A woman who claims to have been involved in an affair with a married deputy ambassador…\nThe post “I Regret Everything!” Side Chick Opens Up About Two Pregnancies With Deputy Ambassador appeared first on What's On Gambia.",
@@ -420,7 +375,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/i-regret-everything-side-chick-opens-up-about-two-pregnancies-with-deputy-ambassador/",
       "publishedAt": "2026-10-21T02:16:54.000Z",
-      "collectedAt": "2026-11-16T15:34:31.199Z",
+      "collectedAt": "2026-11-17T00:11:21.874Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -434,7 +389,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T15:34:36.950Z",
-    "count": 19
+    "generatedAt": "2026-11-17T00:11:27.935Z",
+    "count": 17
   }
 }

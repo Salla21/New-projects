@@ -386,33 +386,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "152175938a3fa2d5",
-      "title": "€165,000 Debt: When a Private Loan Raises Questions About Legal Certainty in The Gambia",
-      "summary": "Written by: Seringe S.T. Touray A new lawsuit against Ebrima Solomon Tamba, a Gambian businessman and shareholder in Kasumai Real Estate, the company behind Bitcoin Tower and The Edge apartment developments with Austrian investors, raises questions about contracts, property ri...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/e165000-debt-when-a-private-loan-raises-questions-about-legal-certainty-in-the-gambia/",
-      "publishedAt": "2026-11-10T09:22:40.000Z",
-      "collectedAt": "2026-11-10T14:46:15.241Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T15:34:36.950Z",
-    "count": 18
+    "generatedAt": "2026-11-17T00:11:27.935Z",
+    "count": 17
   }
 }

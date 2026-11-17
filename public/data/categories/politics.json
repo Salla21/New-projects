@@ -1,6 +1,123 @@
 {
   "items": [
     {
+      "id": "24bd00e225af9832",
+      "title": "Barrow Assures No Buildings Will Be Demolished for Kairaba Avenue-Atlantic Road Project",
+      "summary": "By Makutu Manneh President Adama Barrow has assured the public that no buildings will be demolished to make way for the planned construction of the Kairaba Avenue-Atlantic Road Corridor, dismissing concerns that several prominent structures along the route could be affected. S...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-assures-no-buildings-will-be-demolished-for-kairaba-avenue-atlantic-road-project/",
+      "publishedAt": "2026-11-16T17:18:02.000Z",
+      "collectedAt": "2026-11-17T00:11:23.830Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e05fa0e57f0c025f",
+      "title": "IEC Chairman Urges Presidential Candidates to Uphold Campaign Code of Ethics",
+      "summary": "By Makutu Manneh The Chairman of the Independent Electoral Commission (IEC), Joseph Colley, has urged presidential candidates and other political actors to adhere strictly to the Code of Election Campaign Ethics, warning that its provisions are legally binding on all signatori...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-chairman-urges-presidential-candidates-to-uphold-campaign-code-of-ethics/",
+      "publishedAt": "2026-11-16T17:05:32.000Z",
+      "collectedAt": "2026-11-17T00:11:23.830Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "69ef11ef8c7075f4",
+      "title": "Eight Presidential Candidates Sign Peace Pact Ahead of December Election",
+      "summary": "By Makutu Manneh Eight presidential candidates signed a peace accord on Monday, November 16, pledging to conduct peaceful, issue-based campaigns and uphold democratic principles ahead of The Gambia’s December 5, 2026, presidential election. The agreement, comprising 11 article...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/eight-presidential-candidates-sign-peace-pact-ahead-of-december-election/",
+      "publishedAt": "2026-11-16T17:02:05.000Z",
+      "collectedAt": "2026-11-17T00:11:23.830Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "392f4cc4c6566434",
+      "title": "Badjie Challenges IEC Rejection, Plans Legal Action at High Court and ECOWAS Court",
+      "summary": "By Seedy Jobe Hon. Bakary K. Badjie, National Assembly Member for Foni Bintang Karanai and leader of the United Gambian Front (UGF), has challenged the Independent Electoral Commission’s (IEC) decision to reject his presidential nomination, insisting that he met all the legal ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/badjie-challenges-iec-rejection-plans-legal-action-at-high-court-and-ecowas-court/",
+      "publishedAt": "2026-11-16T16:56:24.000Z",
+      "collectedAt": "2026-11-17T00:11:23.830Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bbce8895ed04c904",
+      "title": "Darboe Accuses Barrow Government of Lacking Political Will to Fight Corruption",
+      "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has accused President Adama Barrow’s administration of lacking the political will to combat corruption, citing the prolonged delay in making the Anti-Corruption Commi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-accuses-barrow-government-of-lacking-political-will-to-fight-corruption/",
+      "publishedAt": "2026-11-16T16:48:59.000Z",
+      "collectedAt": "2026-11-17T00:11:23.830Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "27529a6330367209",
       "title": "Presidential Candidates Sign Peace Pact Ahead of December",
       "summary": "Published by: The Fatu Network The Gambia’s presidential candidates came together in Bijilo this morning to sign a Peace Pact, pledging to reject political violence, intimidation and hostility ahead of December 5th. The agreement, organised by the Independent Electoral Commiss...",
@@ -1714,219 +1831,6 @@
       "status": "published"
     },
     {
-      "id": "60ff467aa9a99ed6",
-      "title": "WHAT ARE THE NEW TAX MEASURES FOR 2027?",
-      "summary": "(PART 2) Every year, the Government reviews the tax measures in place and comes up with new measures to revise or introduce new tax measures which would require the approval of the National Assembly. We have already dealt with three of them in the last edition. Below are the r...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-are-the-new-tax-measures-for-2027/",
-      "publishedAt": "2026-11-10T11:22:09.000Z",
-      "collectedAt": "2026-11-10T14:46:14.790Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2f551efbd0b1b60a",
-      "title": "PRESIDENTIAL ELECTION: THE MOMENTUM IS ON",
-      "summary": "On December 5, 2026, Gambians will either be on the same page or turn a new page. That is for the Gambian electorate to decide. If the turnout during nomination is to go by, loyal party supporters are in the minority. They are yet to be able to fill a football field. We have t...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/presidential-election-the-momentum-is-on/",
-      "publishedAt": "2026-11-10T11:20:40.000Z",
-      "collectedAt": "2026-11-10T14:46:14.790Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "152175938a3fa2d5",
-      "title": "€165,000 Debt: When a Private Loan Raises Questions About Legal Certainty in The Gambia",
-      "summary": "Written by: Seringe S.T. Touray A new lawsuit against Ebrima Solomon Tamba, a Gambian businessman and shareholder in Kasumai Real Estate, the company behind Bitcoin Tower and The Edge apartment developments with Austrian investors, raises questions about contracts, property ri...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/e165000-debt-when-a-private-loan-raises-questions-about-legal-certainty-in-the-gambia/",
-      "publishedAt": "2026-11-10T09:22:40.000Z",
-      "collectedAt": "2026-11-10T14:46:15.241Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c40950c364c2049c",
-      "title": "Lamin J. Darboe Pledges New Constitution Within 18 Months, Rules Out Second Term",
-      "summary": "By Fatou Sillah Lamin J. Darboe, presidential candidate of Team Gambia Coalition, has pledged to introduce a new constitution within 18 months of taking office if elected, promising to establish a two-term presidential limit and strengthen safeguards against the concentration ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/lamin-j-darboe-pledges-new-constitution-within-18-months-rules-out-second-term/",
-      "publishedAt": "2026-11-10T01:01:03.000Z",
-      "collectedAt": "2026-11-10T04:02:52.265Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a5ba26282871fcf5",
-      "title": "“You Can Imitate Us, but You Cannot Match Us,” Darboe Tells Political Rivals",
-      "summary": "By Seedy Jobe United Democratic Party (UDP) leader and GFC-UDP alliance presidential candidate Ousainu Darboe has declared that political rivals may attempt to imitate his alliance but cannot match its strength, authenticity, or popular support. Speaking on Monday at the allia...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/you-can-imitate-us-but-you-cannot-match-us-darboe-tells-political-rivals/",
-      "publishedAt": "2026-11-10T00:55:32.000Z",
-      "collectedAt": "2026-11-10T04:02:52.265Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "95fc248b7b14c480",
-      "title": "Gambia Participates Launches AI-Powered Marble Elections App to Enhance Electoral Transparency",
-      "summary": "By Makutu Manneh Gambia Participates has launched an upgraded version of its Marble Elections App, incorporating artificial intelligence (AI) to improve access to electoral information, enhance transparency, and strengthen public confidence in The Gambia’s electoral process. T...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-participates-launches-ai-powered-marble-elections-app-to-enhance-electoral-transparency/",
-      "publishedAt": "2026-11-09T18:55:59.000Z",
-      "collectedAt": "2026-11-09T20:37:59.285Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c9d66fedd8240390",
-      "title": "President Barrow Receives New Chinese Ambassador, Pledges Stronger Bilateral Ties",
-      "summary": "By Makutu Manneh President Adama Barrow has received the newly appointed Chinese Ambassador to The Gambia, Xiao Yewen, at the State House in Banjul, reaffirming his government’s commitment to strengthening diplomatic relations and expanding cooperation between the two countrie...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/president-barrow-receives-new-chinese-ambassador-pledges-stronger-bilateral-ties/",
-      "publishedAt": "2026-11-09T18:43:15.000Z",
-      "collectedAt": "2026-11-09T20:37:59.285Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ef8c93e7d94f7c5c",
-      "title": "Independent Aspirant Abdou Dampha Submits Nomination Papers, Pledges Politics of Hope",
-      "summary": "By Makutu Manneh Independent presidential aspirant Abdou Dampha on Monday submitted his nomination papers to the Independent Electoral Commission (IEC), pledging to promote a politics of hope, economic inclusion, and equal opportunity ahead of The Gambia’s December 5 president...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/independent-aspirant-abdou-dampha-submits-nomination-papers-pledges-politics-of-hope/",
-      "publishedAt": "2026-11-09T18:29:06.000Z",
-      "collectedAt": "2026-11-09T20:37:59.285Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "52d4ee037d9e1eb5",
-      "title": "Darboe Submits Final Presidential Nomination Papers, Pledges One Term to Deliver Reforms",
-      "summary": "By Makutu Manneh Veteran opposition leader Ousainu Darboe has announced that Monday’s submission of his presidential nomination papers to the Independent Electoral Commission (IEC) will be his last, marking a significant moment in a political career spanning three decades at t...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-submits-final-presidential-nomination-papers-pledges-one-term-to-deliver-reforms/",
-      "publishedAt": "2026-11-09T18:22:18.000Z",
-      "collectedAt": "2026-11-09T20:37:59.285Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -1935,7 +1839,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-16T15:34:31.199Z",
+      "collectedAt": "2026-11-17T00:11:21.874Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1959,7 +1863,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-16T15:34:31.199Z",
+      "collectedAt": "2026-11-17T00:11:21.874Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1975,7 +1879,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T15:34:36.950Z",
-    "count": 84
+    "generatedAt": "2026-11-17T00:11:27.935Z",
+    "count": 80
   }
 }

@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "58125302071ba5d6",
+      "title": "Gambia Tourism Board Denies Restrictions on Public Beach Access, Pledges Investigation",
+      "summary": "By Makutu Manneh The Gambia Tourism Board (GT Board) has dismissed reports suggesting that Gambians are being denied access to beaches during and after the tourist season, insisting that no policy or directive restricts public access to the country’s beaches or the Tourism Dev...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-tourism-board-denies-restrictions-on-public-beach-access-pledges-investigation/",
+      "publishedAt": "2026-11-16T18:21:29.000Z",
+      "collectedAt": "2026-11-17T00:11:23.830Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e05fa0e57f0c025f",
+      "title": "IEC Chairman Urges Presidential Candidates to Uphold Campaign Code of Ethics",
+      "summary": "By Makutu Manneh The Chairman of the Independent Electoral Commission (IEC), Joseph Colley, has urged presidential candidates and other political actors to adhere strictly to the Code of Election Campaign Ethics, warning that its provisions are legally binding on all signatori...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/iec-chairman-urges-presidential-candidates-to-uphold-campaign-code-of-ethics/",
+      "publishedAt": "2026-11-16T17:05:32.000Z",
+      "collectedAt": "2026-11-17T00:11:23.830Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4ab7d0611608430e",
       "title": "Analyst: UNITE Defeating Both NPP and UDP in December Would Be a “Political Earthquake”",
       "summary": "By Makutu Manneh Political analyst Biran Gai has said that a victory by the UNITE-led alliance over both the ruling National People’s Party (NPP) and the United Democratic Party (UDP) in the December election would amount to a political earthquake. Speaking on Kerr Fatou’s Rac...",
@@ -202,7 +250,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-16T15:34:31.199Z",
+      "collectedAt": "2026-11-17T00:11:21.874Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -219,7 +267,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-16T15:34:36.950Z",
-    "count": 9
+    "generatedAt": "2026-11-17T00:11:27.935Z",
+    "count": 11
   }
 }
