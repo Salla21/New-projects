@@ -361,34 +361,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6c0cf22934fbd1b0",
-      "title": "Lawyer Ousainou Darboe submits all required nomination documents",
-      "summary": "By Mariama Marong United Democratic Party leader Ousainou Darboe has submitted all documents required for his presidential nomination, Independent Electoral Commission chairperson Joseph Colley says. Darboe filed his papers ahead of the December 5, 2026 election. The IEC’s nom...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/lawyer-ousainou-darboe-submits-all-required-nomination-documents/",
-      "publishedAt": "2026-11-10T11:50:26.000Z",
-      "collectedAt": "2026-11-10T14:46:14.790Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T00:11:27.935Z",
-    "count": 16
+    "generatedAt": "2026-11-17T10:30:11.660Z",
+    "count": 15
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "a7f2043023855278",
+      "title": "Dr Tamamyan, WHO Director-General Candidate, Leads Independent Election Scorecard, Scoring 12 out of 14",
+      "summary": "Former WHO Director-General Special Advisor Peter Singer places Botswana’s nominee four points ahead of his closest competitors after his newly published reform program doubles his score. Armenian pediatric oncologist Gevorg Tamamyan has taken the lead in an independent scorec...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/dr-tamamyan-who-director-general-candidate-leads-independent-election-scorecard-scoring-12-out-of-14/",
+      "publishedAt": "2026-11-17T09:14:46.000Z",
+      "collectedAt": "2026-11-17T10:30:03.693Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "27529a6330367209",
       "title": "Presidential Candidates Sign Peace Pact Ahead of December",
       "summary": "Published by: The Fatu Network The Gambia’s presidential candidates came together in Bijilo this morning to sign a Peace Pact, pledging to reject political violence, intimidation and hostility ahead of December 5th. The agreement, organised by the Independent Electoral Commiss...",
@@ -363,33 +386,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "7046d8afef1a97bf",
-      "title": "The Law Already Provides a Way Forward: Moving the Chief Justice Case Without the Chief Justice",
-      "summary": "ANALYSIS Sarjo Barrow, Esq. On July 31, 2026, the Gambia Bar Association filed a suit in the Supreme Court asking whether Chief Justice Edi M.O. Faal meets the constitutional qualifications for his office. According to the Bar’s public statement of November 9, the case has yet...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/the-law-already-provides-a-way-forward-moving-the-chief-justice-case-without-the-chief-justice/",
-      "publishedAt": "2026-11-10T11:30:34.000Z",
-      "collectedAt": "2026-11-10T14:46:15.241Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T00:11:27.935Z",
+    "generatedAt": "2026-11-17T10:30:11.660Z",
     "count": 17
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "ab75243ec736dbd1",
+      "title": "Scorpions prepare to host Ivory Coast tomorrow",
+      "summary": "By Momodou Jarju The Gambia’s Scorpions arrived home on Friday evening from Bouake via Abidjan after their narrow 2-1 defeat to the Elephants of Ivory Coast in the ongoing 2027 Africa Cup of Nations (AFCON) qualifiers. The Scorpions have since returned to training at the Indep...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/scorpions-prepare-to-host-ivory-coast-tomorrow/",
+      "publishedAt": "2026-11-16T16:15:32.000Z",
+      "collectedAt": "2026-11-17T10:29:59.084Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1e7d391600728d7c",
       "title": "Scorpions suffer 2-1 defeat to Ivory Coast in Afcon qualifiers",
       "summary": "By Momodou Jarju The Gambia’s Scorpions Thursday endured a 2-1 defeat against Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers played at the Stade de la Paix in Bouaké. Scorpions boss Johnathan McKinstry included Musa Barrow to the starting...",
@@ -120,7 +143,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T00:11:27.935Z",
-    "count": 5
+    "generatedAt": "2026-11-17T10:30:11.660Z",
+    "count": 6
   }
 }
