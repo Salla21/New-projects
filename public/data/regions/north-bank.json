@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "2fadcb08a9e680a2",
+      "title": "Barrow Urges North Bank Residents to Vote for Him to Sustain Development",
+      "summary": "By Makutu Manneh President Adama Barrow has urged residents of the North Bank Region to vote for him in the December 5 presidential election, saying their support at the ballot box is essential to securing his re-election and continuing his development agenda. Speaking at a ca...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-urges-north-bank-residents-to-vote-for-him-to-sustain-development/",
+      "publishedAt": "2026-11-17T22:17:05.000Z",
+      "collectedAt": "2026-11-18T03:34:50.392Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4af808ff53eee86e",
       "title": "GID Intercepts 200 Suspected Irregular Migrants in Two-Day Operations",
       "summary": "By Makutu Manneh The Gambia Immigration Department (GID) has intercepted 200 suspected irregular migrants in two separate operations conducted across the North Bank and West Coast Regions over two days. According to the department, the operations were carried out by its Migrat...",
@@ -26,7 +50,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T20:46:25.239Z",
-    "count": 1
+    "generatedAt": "2026-11-18T03:34:54.487Z",
+    "count": 2
   }
 }

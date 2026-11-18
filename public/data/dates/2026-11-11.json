@@ -323,57 +323,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ff957d9a33a43a0c",
-      "title": "NOMINATION OF CANDIDATES UNDER SCRUTINY",
-      "summary": "Suspense is the order of the day as aspirants wait for the IEC for acceptance or rejection of their application to stand as presidential candidates in the December 5 presidential election. It is not clear who the candidates would be. However, the country seems to be focusing o...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/nomination-of-candidates-under-scrutiny/",
-      "publishedAt": "2026-11-11T12:22:02.000Z",
-      "collectedAt": "2026-11-11T17:51:06.036Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1de1406bafff2718",
-      "title": "Darboe Pledges Citizenship for African Descendants",
-      "summary": "Opposition United Democratic Party (UDP) leader and presidential candidate Ousainu Darboe has pledged to grant Gambian citizenship to descendants of enslaved Africans who wish to return to The Gambia and make it their home. Darboe said a UDP government would facilitate the rei...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-pledges-citizenship-for-african-descendants/",
-      "publishedAt": "2026-11-11T12:06:51.000Z",
-      "collectedAt": "2026-11-11T17:51:06.666Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T20:46:25.239Z",
-    "count": 16
+    "generatedAt": "2026-11-18T03:34:54.487Z",
+    "count": 14
   }
 }

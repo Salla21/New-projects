@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "24aab77c98b85d10",
+      "title": "Darboe Welcomes Labour Party Endorsement, Urges Unity to Dispel Mistrust",
+      "summary": "By Seedy Jobe UDP Secretary General and party leader Ousainu Darboe has welcomed the Gambia Labour Party’s endorsement of his candidacy, describing it as a patriotic sacrifice made for the future of The Gambia rather than for personal gain. Mr. Darboe spoke after Labour Party ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-welcomes-labour-party-endorsement-urges-unity-to-dispel-mistrust/",
+      "publishedAt": "2026-11-17T22:09:00.000Z",
+      "collectedAt": "2026-11-18T03:34:50.392Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "02c6a90c610480e4",
       "title": "UDP’s Lawyer Darboe Says Peace Pact Must Be More Than a Ceremony",
       "summary": "By Yankuba Jallow United Democratic Party leader and presidential candidate A.N.M. Ousainou Darboe has urged political leaders to honour every part of the Janjanbureh Peace Accord, warning that signing the document would mean little if candidates later acted against its commit...",
@@ -361,34 +385,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "1de1406bafff2718",
-      "title": "Darboe Pledges Citizenship for African Descendants",
-      "summary": "Opposition United Democratic Party (UDP) leader and presidential candidate Ousainu Darboe has pledged to grant Gambian citizenship to descendants of enslaved Africans who wish to return to The Gambia and make it their home. Darboe said a UDP government would facilitate the rei...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-pledges-citizenship-for-african-descendants/",
-      "publishedAt": "2026-11-11T12:06:51.000Z",
-      "collectedAt": "2026-11-11T17:51:06.666Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T20:46:25.239Z",
+    "generatedAt": "2026-11-18T03:34:54.487Z",
     "count": 16
   }
 }
