@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "75a9a865e76c44fc",
+      "title": "MAA Foundation for Women Engages EU Election Observers on Women’s Role in Peaceful Democratic Transition",
+      "summary": "By Ndey Sowe MAA Foundation for Women is following up on an institutional engagement with representatives of the European Union Election Observation Mission (EU EOM) in The Gambia, by bringing together EU election observers Cristina Hurduiala and Daniel Kerekes, and the leader...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/maa-foundation-for-women-engages-eu-election-observers-on-womens-role-in-peaceful-democratic-transition/",
+      "publishedAt": "2026-11-18T11:42:00.000Z",
+      "collectedAt": "2026-11-18T12:55:15.955Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "24aab77c98b85d10",
       "title": "Darboe Welcomes Labour Party Endorsement, Urges Unity to Dispel Mistrust",
       "summary": "By Seedy Jobe UDP Secretary General and party leader Ousainu Darboe has welcomed the Gambia Labour Party’s endorsement of his candidacy, describing it as a patriotic sacrifice made for the future of The Gambia rather than for personal gain. Mr. Darboe spoke after Labour Party ...",
@@ -360,35 +384,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d5156cfa22aa2faa",
-      "title": "African descendants renew call for citizenship in The Gambia",
-      "summary": "Nyancho Kujabi says she was overjoyed after hearing a report that United Democratic Party leader Ousainou Darboe had pledged to help African descendants of slavery integrate into The Gambia. “I leapt out of bed in sheer joy,” said Kujabi, founder of Blaxit and COAD. “After yea...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/african-descendants-renew-call-for-citizenship-in-the-gambia/",
-      "publishedAt": "2026-11-11T12:28:51.000Z",
-      "collectedAt": "2026-11-11T17:51:06.036Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-18T03:34:54.487Z",
+    "generatedAt": "2026-11-18T12:55:22.626Z",
     "count": 16
   }
 }

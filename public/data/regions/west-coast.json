@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "ea641ea68b96c84e",
+      "title": "APC’s Modou Lamin Sima Says Peace Requires Justice",
+      "summary": "By Yankuba Jallow Alliance of Progressive Citizens (APC) leader Modou Lamin Sima has said lasting peace in The Gambia depends on justice and urged political leaders to guide their supporters during the election campaign. Speaking at the signing of the Janjanbureh Peace Accord ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apcs-modou-lamin-sima-says-peace-requires-justice/",
+      "publishedAt": "2026-11-18T11:32:00.000Z",
+      "collectedAt": "2026-11-18T12:55:15.955Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3aecc6b72fbfbc49",
+      "title": "Man Accused of Threatening to Kill Sister Granted Bail",
+      "summary": "By Louise Jobe Amadou Sanno has pleaded not guilty to a charge of threatening to kill his sister with a knife and an iron. The allegation was brought before Magistrate K. Sambou at the Brikama Magistrates’ Court. Sanno appeared without a lawyer when the case was called for ple...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/man-accused-of-threatening-to-kill-sister-granted-bail/",
+      "publishedAt": "2026-11-18T11:25:00.000Z",
+      "collectedAt": "2026-11-18T12:55:15.955Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "34bb3e204d76741d",
+      "title": "Team Gambia Flagbearer Darboe Pledges Single Term if Elected in December",
+      "summary": "By Makutu Manneh Lamin J. Darboe, presidential candidate of the Team Gambia Grand Coalition, has pledged to serve only one term if he wins the December election. Addressing supporters at a campaign rally in Ndungu Kebbeh, Darboe said he would organise an election at the end of...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/team-gambia-flagbearer-darboe-pledges-single-term-if-elected-in-december/",
+      "publishedAt": "2026-11-18T05:54:28.000Z",
+      "collectedAt": "2026-11-18T12:55:18.521Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5d490bd52d943f70",
       "title": "Team Gambia’s Dr Lamin J. Darbo Calls for Peaceful Presidential Campaign",
       "summary": "By Yankuba Jallow Team Gambia Grand Coalition presidential candidate Dr Lamin J. Darbo has urged candidates and political leaders to guide their supporters’ conduct, warning that a lack of restraint could turn political tension into disorder. Speaking at the signing of the Jan...",
@@ -198,28 +269,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-18T03:34:47.981Z",
-      "region": "west-coast",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Eddy Jatta",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "98b8ee0bd6e69465",
-      "title": "D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’",
-      "summary": "A young man in Brikama Nyambai, Malanding Fatty, has accused an imam and shopkeeper, Saja Susso,…\nThe post D135,000 GONE! Brikama Man Accuses Imam of Using His Money for ‘Backway’ appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/d135000-gone-brikama-man-accuses-imam-of-using-his-money-for-backway/",
-      "publishedAt": "2026-10-21T06:17:57.000Z",
-      "collectedAt": "2026-11-18T03:34:47.981Z",
+      "collectedAt": "2026-11-18T12:55:16.288Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -233,7 +283,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-18T03:34:54.487Z",
-    "count": 10
+    "generatedAt": "2026-11-18T12:55:22.626Z",
+    "count": 12
   }
 }
