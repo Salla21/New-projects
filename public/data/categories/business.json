@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9a0a69c1e91b62a8",
+      "title": "D36 Million, One Count, Three Years? The Hajj Case Raises Hard Questions",
+      "summary": "OPINION By Sarjo Barrow, Esq. Grief shows up in different ways. While mourning my father, I came across reports on the Hajj fraud case and have kept coming back to them. Imagine saving for years for the journey of a lifetime, only to learn it may never happen. Now imagine your...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/d36-million-one-count-three-years-the-hajj-case-raises-hard-questions/",
+      "publishedAt": "2026-11-18T17:28:42.000Z",
+      "collectedAt": "2026-11-18T21:47:18.090Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "946c9af017f68be9",
       "title": "APRC No-To-Alliance’s Almameh Manneh Says ‘The Gambia First’ Must Come Before Political Ambition",
       "summary": "By Yankuba Jallow Independent presidential candidate Almameh Gibba for the APRC faction called APRC No-To-Alliance has urged candidates and their supporters to protect peace and national unity during the campaign for the December 5 election. Speaking at the signing of the Janj...",
@@ -645,76 +669,6 @@
       "status": "published"
     },
     {
-      "id": "3521cfb1f155a51f",
-      "title": "GCCI urges investment and stronger business ties to unlock economic growth",
-      "summary": "By Ndey Sowe The Gambia Chamber of Commerce and Industry (GCCI) has called for closer cooperation among government, businesses and development partners to expand investment and strengthen the country’s economy. The call came at the GCCI Private Sector Forum 2026, held at Bakad...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gcci-urges-investment-and-stronger-business-ties-to-unlock-economic-growth/",
-      "publishedAt": "2026-11-12T11:05:57.000Z",
-      "collectedAt": "2026-11-12T18:04:45.823Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1bf248f497cddb06",
-      "title": "Germany marks Unity Day in Gambia with call for democracy, national unity",
-      "summary": "Germany’s ambassador to The Gambia and the country’s foreign minister have used celebrations marking the Day of German Unity to highlight the importance of democracy, freedom and national reconciliation, describing them as values that continue to shape both countries’ historie...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/germany-marks-unity-day-in-gambia-with-call-for-democracy-national-unity/",
-      "publishedAt": "2026-11-11T19:28:17.000Z",
-      "collectedAt": "2026-11-12T00:27:06.827Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "524d7bbfd8376b0a",
-      "title": "Gambia Validates $60 Million Employment Programme to Create Jobs & Reduce Poverty",
-      "summary": "By Mariama Marong The Government of The Gambia has begun a national validation process for a proposed $60 million Public Employment Programme (PEPP), aimed at creating jobs, promoting decent work and improving livelihoods across the country. The two-day validation workshop bri...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-validates-60-million-employment-programme-to-create-jobs-reduce-poverty/",
-      "publishedAt": "2026-11-11T12:59:54.000Z",
-      "collectedAt": "2026-11-11T17:51:06.036Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -723,7 +677,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-18T12:55:16.288Z",
+      "collectedAt": "2026-11-18T21:47:18.009Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -739,7 +693,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-18T12:55:22.626Z",
-    "count": 31
+    "generatedAt": "2026-11-18T21:47:25.033Z",
+    "count": 29
   }
 }

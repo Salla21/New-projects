@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "2d5c49dbcb446925",
+      "title": "Ministry of Higher Education Launches University Innovation Pod at USET",
+      "summary": "EDITOR’S NOTE: The following press release is published verbatim, without any edits or alterations to the original text. The Ministry of Higher Education, Research, Science and Technology (MoHERST), in partnership with the United Nations Development Programme (UNDP) in The Gam...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ministry-of-higher-education-launches-university-innovation-pod-at-uset/",
+      "publishedAt": "2026-11-18T17:19:52.000Z",
+      "collectedAt": "2026-11-18T21:47:18.090Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "58125302071ba5d6",
       "title": "Gambia Tourism Board Denies Restrictions on Public Beach Access, Pledges Investigation",
       "summary": "By Makutu Manneh The Gambia Tourism Board (GT Board) has dismissed reports suggesting that Gambians are being denied access to beaches during and after the tourist season, insisting that no policy or directive restricts public access to the country’s beaches or the Tourism Dev...",
@@ -145,30 +168,6 @@
       "status": "published"
     },
     {
-      "id": "70eb9b6ffef28886",
-      "title": "BST Galaxy Appoints New Technical Director",
-      "summary": "By Momodou Jarju The Gambia’s first division league side BST Galaxy Football Club Wednesday announced the appointment of Sheikh Adama Joof as their new Technical Director. His appointment comes ahead of the 2026/27 The Gambia Football Federation (GFF) football season. The club...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/bst-galaxy-appoints-new-technical-director/",
-      "publishedAt": "2026-11-12T10:05:59.000Z",
-      "collectedAt": "2026-11-12T18:04:45.823Z",
-      "region": "banjul",
-      "categories": [
-        "technology",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -177,7 +176,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-18T12:55:16.288Z",
+      "collectedAt": "2026-11-18T21:47:18.009Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -194,7 +193,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-18T12:55:22.626Z",
+    "generatedAt": "2026-11-18T21:47:25.033Z",
     "count": 8
   }
 }

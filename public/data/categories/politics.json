@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "dd60018257ba9597",
+      "title": "Gibba Promises to End Bundung’s Water, Electricity and Security Problems if Elected",
+      "summary": "By Seedy Jobe Hon. Almameh Gibba, flagbearer of the No-To Alliance movement, has pledged to address persistent water shortages, unreliable electricity supply and security concerns in Bundung if elected president in The Gambia’s December 5 election. Speaking at a campaign rally...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gibba-promises-to-end-bundungs-water-electricity-and-security-problems-if-elected/",
+      "publishedAt": "2026-11-18T18:21:28.000Z",
+      "collectedAt": "2026-11-18T21:47:20.888Z",
+      "region": "kanifing",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9a0a69c1e91b62a8",
+      "title": "D36 Million, One Count, Three Years? The Hajj Case Raises Hard Questions",
+      "summary": "OPINION By Sarjo Barrow, Esq. Grief shows up in different ways. While mourning my father, I came across reports on the Hajj fraud case and have kept coming back to them. Imagine saving for years for the journey of a lifetime, only to learn it may never happen. Now imagine your...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/d36-million-one-count-three-years-the-hajj-case-raises-hard-questions/",
+      "publishedAt": "2026-11-18T17:28:42.000Z",
+      "collectedAt": "2026-11-18T21:47:18.090Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "75a9a865e76c44fc",
       "title": "MAA Foundation for Women Engages EU Election Observers on Women’s Role in Peaceful Democratic Transition",
       "summary": "By Ndey Sowe MAA Foundation for Women is following up on an institutional engagement with representatives of the European Union Election Observation Mission (EU EOM) in The Gambia, by bringing together EU election observers Cristina Hurduiala and Daniel Kerekes, and the leader...",
@@ -1784,238 +1831,6 @@
       "status": "published"
     },
     {
-      "id": "639ed4f659094716",
-      "title": "Honourable Almameh Gibba submits nomination papers, pledges national reconciliation",
-      "summary": "By Yankuba Jallow Honourable Almameh Gibba, the presidential candidate for the APRC No-Alliance faction, has submitted his nomination papers to the Independent Electoral Commission (IEC). The Independent Electoral Commission (IEC) received his nomination documents on Wednesday...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/honourable-almameh-gibba-submits-nomination-papers-pledges-national-reconciliation/",
-      "publishedAt": "2026-11-12T10:58:50.000Z",
-      "collectedAt": "2026-11-12T18:04:45.823Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "92abad163847288b",
-      "title": "WHAT WILL HAPPEN IF ALL 18 PRESIDENTIAL ASPIRANTS ARE NOMINATED?",
-      "summary": "Each candidate is entitled to a ballot box and all the ballot boxes must be in a polling booth, that is, eighteen ballot boxes if you have eighteen candidates. This would lead to much higher cost and greater logistical problem for the IEC. Furthermore, how will these ballot bo...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/what-will-happen-if-all-18-presidential-aspirants-are-nominated/",
-      "publishedAt": "2026-11-12T10:18:03.000Z",
-      "collectedAt": "2026-11-12T18:04:45.823Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d41f347b99f122fb",
-      "title": "NOMINATION IS OVER: ALL EYES NOW ON IEC",
-      "summary": "Twenty-seven presidential aspirants collected nomination papers from the IEC but only eighteen submitted their nomination papers. The remaining nine withdrew. The IEC is to scrutinise the documents and affirm whether the candidates have a minimum five thousand nominators natio...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/nomination-is-over-all-eyes-now-on-iec/",
-      "publishedAt": "2026-11-12T10:09:52.000Z",
-      "collectedAt": "2026-11-12T18:04:45.823Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "57b0af6f74860d99",
-      "title": "Team Gambia’s Lamin J. Darboe Pledges Law-Based, Transparent Governance as He Files Nomination Papers",
-      "summary": "By Makutu Manneh Lamin J. Darboe, the presidential aspirant of the Team Gambia Grand Coalition, has pledged to establish a government founded on the rule of law, transparency, and respect for citizens’ dignity if elected president in the December 5 presidential election. Mr. D...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/team-gambias-lamin-j-darboe-pledges-law-based-transparent-governance-as-he-files-nomination-papers/",
-      "publishedAt": "2026-11-11T22:16:32.000Z",
-      "collectedAt": "2026-11-12T00:27:10.812Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3184371a8087f89b",
-      "title": "No-To-Alliance’s Gibba Pledges National Unity, Food Security, and Security Reforms After Filing Nomination",
-      "summary": "By Makutu Manneh Almameh Gibba, the presidential aspirant for No-To-Alliance, has pledged to prioritize national unity, food security, and sweeping reforms of The Gambia’s security sector if elected president in the December 5, 2026, presidential election. Speaking to journali...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/no-to-alliances-gibba-pledges-national-unity-food-security-and-security-reforms-after-filing-nomination/",
-      "publishedAt": "2026-11-11T22:12:34.000Z",
-      "collectedAt": "2026-11-12T00:27:10.812Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1bf248f497cddb06",
-      "title": "Germany marks Unity Day in Gambia with call for democracy, national unity",
-      "summary": "Germany’s ambassador to The Gambia and the country’s foreign minister have used celebrations marking the Day of German Unity to highlight the importance of democracy, freedom and national reconciliation, describing them as values that continue to shape both countries’ historie...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/germany-marks-unity-day-in-gambia-with-call-for-democracy-national-unity/",
-      "publishedAt": "2026-11-11T19:28:17.000Z",
-      "collectedAt": "2026-11-12T00:27:06.827Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ed7185bd96a105c0",
-      "title": "Sima Urges Gambians to Vote on Policies, Not Crowd Size or Party Loyalty",
-      "summary": "By Fatou Sillah Modou Lamin Sima, leader of the Alliance for Progressive Citizens (APC) and an independent presidential candidate, has urged Gambians to prioritize candidates’ policies and proposed solutions over crowd size, political loyalty, and partisan enthusiasm when voti...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sima-urges-gambians-to-vote-on-policies-not-crowd-size-or-party-loyalty/",
-      "publishedAt": "2026-11-11T18:39:37.000Z",
-      "collectedAt": "2026-11-12T00:27:10.812Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "45d78e214858b114",
-      "title": "Bojang Confident Opposition Coalition Will Emerge, Says Timing Is Crucial",
-      "summary": "By Seedy Jobe National Democratic Party (NDP) leader Kebba Madi Bojang has expressed confidence that an opposition coalition will emerge ahead of The Gambia’s presidential election, but insists that discussions about its formation must take place at the right time. Speaking in...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bojang-confident-opposition-coalition-will-emerge-says-timing-is-crucial/",
-      "publishedAt": "2026-11-11T18:32:27.000Z",
-      "collectedAt": "2026-11-12T00:27:10.812Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6d48582776594210",
-      "title": "UTG Formally Notifies Herbert Robinson of Contract Non-Renewal, Demands Comprehensive Handover",
-      "summary": "By Yankuba Jallow The University of The Gambia’s Governing Council has formally notified Vice-Chancellor Professor Herbert Robinson that his contract will not be renewed when it expires, citing shortcomings in leadership, financial management and institutional governance. In a...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/utg-formally-notifies-herbert-robinson-of-contract-non-renewal-demands-comprehensive-handover/",
-      "publishedAt": "2026-11-11T12:57:35.000Z",
-      "collectedAt": "2026-11-11T17:51:06.036Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "c537ed540788c842",
-      "title": "UTG Governing Council Resolves Not to Renew Vice-Chancellor Herbert Robinson’s Contract",
-      "summary": "By Yankuba Jallow The University of The Gambia’s Governing Council has resolved not to renew Professor Herbert Robinson’s contract as Vice-Chancellor when his current term expires, citing shortcomings in leadership, financial management and institutional governance. The decisi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/utg-governing-council-resolves-not-to-renew-vice-chancellor-herbert-robinsons-contract/",
-      "publishedAt": "2026-11-11T12:53:58.000Z",
-      "collectedAt": "2026-11-11T17:51:06.036Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -2024,7 +1839,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-18T12:55:16.288Z",
+      "collectedAt": "2026-11-18T21:47:18.009Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -2048,7 +1863,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-18T12:55:16.288Z",
+      "collectedAt": "2026-11-18T21:47:18.009Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -2064,7 +1879,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-18T12:55:22.626Z",
-    "count": 88
+    "generatedAt": "2026-11-18T21:47:25.033Z",
+    "count": 80
   }
 }

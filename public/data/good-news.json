@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "2d5c49dbcb446925",
+      "title": "Ministry of Higher Education Launches University Innovation Pod at USET",
+      "summary": "EDITOR’S NOTE: The following press release is published verbatim, without any edits or alterations to the original text. The Ministry of Higher Education, Research, Science and Technology (MoHERST), in partnership with the United Nations Development Programme (UNDP) in The Gam...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ministry-of-higher-education-launches-university-innovation-pod-at-uset/",
+      "publishedAt": "2026-11-18T17:19:52.000Z",
+      "collectedAt": "2026-11-18T21:47:18.090Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ea641ea68b96c84e",
       "title": "APC’s Modou Lamin Sima Says Peace Requires Justice",
       "summary": "By Yankuba Jallow Alliance of Progressive Citizens (APC) leader Modou Lamin Sima has said lasting peace in The Gambia depends on justice and urged political leaders to guide their supporters during the election campaign. Speaking at the signing of the Janjanbureh Peace Accord ...",
@@ -250,56 +273,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3521cfb1f155a51f",
-      "title": "GCCI urges investment and stronger business ties to unlock economic growth",
-      "summary": "By Ndey Sowe The Gambia Chamber of Commerce and Industry (GCCI) has called for closer cooperation among government, businesses and development partners to expand investment and strengthen the country’s economy. The call came at the GCCI Private Sector Forum 2026, held at Bakad...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gcci-urges-investment-and-stronger-business-ties-to-unlock-economic-growth/",
-      "publishedAt": "2026-11-12T11:05:57.000Z",
-      "collectedAt": "2026-11-12T18:04:45.823Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ed7185bd96a105c0",
-      "title": "Sima Urges Gambians to Vote on Policies, Not Crowd Size or Party Loyalty",
-      "summary": "By Fatou Sillah Modou Lamin Sima, leader of the Alliance for Progressive Citizens (APC) and an independent presidential candidate, has urged Gambians to prioritize candidates’ policies and proposed solutions over crowd size, political loyalty, and partisan enthusiasm when voti...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/sima-urges-gambians-to-vote-on-policies-not-crowd-size-or-party-loyalty/",
-      "publishedAt": "2026-11-11T18:39:37.000Z",
-      "collectedAt": "2026-11-12T00:27:10.812Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-18T12:55:22.626Z",
-    "count": 13
+    "generatedAt": "2026-11-18T21:47:25.033Z",
+    "count": 12
   }
 }
