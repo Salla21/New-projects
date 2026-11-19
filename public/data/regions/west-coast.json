@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "2aa10d295df6a980",
+      "title": "Dampha Says Some Voters Back Barrow Despite Economic Concerns, Citing Lack of a Credible Alternative",
+      "summary": "By Makutu Manneh Some Gambians who are dissatisfied with the government’s handling of the economy and the cost of living still intend to vote for President Adama Barrow because they see no credible alternative, according to CepRass researcher Lamin Dampha. Speaking on Kerr Fat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dampha-says-some-voters-back-barrow-despite-economic-concerns-citing-lack-of-a-credible-alternative/",
+      "publishedAt": "2026-11-18T22:27:00.000Z",
+      "collectedAt": "2026-11-19T03:07:09.887Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "29dff886504748d0",
+      "title": "Juwara Says Ethnic and Regional Ties May Outweigh Policy for Many Gambian Voters",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara says ethnic and regional ties carry more weight for many Gambian voters than the policies candidates put forward. He called for further research to establish how strongly those ties influence voting decisions. Discussing survey f...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/juwara-says-ethnic-and-regional-ties-may-outweigh-policy-for-many-gambian-voters/",
+      "publishedAt": "2026-11-18T22:21:03.000Z",
+      "collectedAt": "2026-11-19T03:07:09.887Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ea641ea68b96c84e",
       "title": "APC’s Modou Lamin Sima Says Peace Requires Justice",
       "summary": "By Yankuba Jallow Alliance of Progressive Citizens (APC) leader Modou Lamin Sima has said lasting peace in The Gambia depends on justice and urged political leaders to guide their supporters during the election campaign. Speaking at the signing of the Janjanbureh Peace Accord ...",
@@ -192,29 +239,6 @@
       "status": "published"
     },
     {
-      "id": "ff53de2baa94c2b1",
-      "title": "Lamin J. Darbo submits presidential nomination papers backed by Team Gambia Grand Coalition",
-      "summary": "By Yankuba Jallow Lamin J. Darbo has submitted his nomination papers to contest the December 5 presidential election, presenting himself as an independent candidate backed by the Team Gambia Grand Coalition. Darbo arrived at the Independent Electoral Commission’s Election Hous...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/lamin-j-darbo-submits-presidential-nomination-papers-backed-by-team-gambia-grand-coalition/",
-      "publishedAt": "2026-11-12T11:22:09.000Z",
-      "collectedAt": "2026-11-12T18:04:45.823Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7df537de5df55004",
       "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
       "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
@@ -223,7 +247,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-18T21:47:18.009Z",
+      "collectedAt": "2026-11-19T03:07:04.071Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -237,7 +261,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-18T21:47:25.033Z",
-    "count": 10
+    "generatedAt": "2026-11-19T03:07:14.059Z",
+    "count": 11
   }
 }

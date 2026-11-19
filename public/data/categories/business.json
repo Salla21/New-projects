@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "2aa10d295df6a980",
+      "title": "Dampha Says Some Voters Back Barrow Despite Economic Concerns, Citing Lack of a Credible Alternative",
+      "summary": "By Makutu Manneh Some Gambians who are dissatisfied with the government’s handling of the economy and the cost of living still intend to vote for President Adama Barrow because they see no credible alternative, according to CepRass researcher Lamin Dampha. Speaking on Kerr Fat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dampha-says-some-voters-back-barrow-despite-economic-concerns-citing-lack-of-a-credible-alternative/",
+      "publishedAt": "2026-11-18T22:27:00.000Z",
+      "collectedAt": "2026-11-19T03:07:09.887Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "cd2becd55a22ab70",
+      "title": "Darboe Welcomes NDP to UDP-Led Alliance, Calls It a Homecoming",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader ANM Ousainu Darboe welcomed National Democratic Party (NDP) leader Kebba Madi Bojang and his supporters to the Gambia for Change (GFC) alliance, describing their decision to join the UDP-led coalition as a homecoming. Darboe a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-welcomes-ndp-to-udp-led-alliance-calls-it-a-homecoming/",
+      "publishedAt": "2026-11-18T22:03:43.000Z",
+      "collectedAt": "2026-11-19T03:07:09.887Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9a0a69c1e91b62a8",
       "title": "D36 Million, One Count, Three Years? The Hajj Case Raises Hard Questions",
       "summary": "OPINION By Sarjo Barrow, Esq. Grief shows up in different ways. While mourning my father, I came across reports on the Hajj fraud case and have kept coming back to them. Imagine saving for years for the journey of a lifetime, only to learn it may never happen. Now imagine your...",
@@ -677,7 +726,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-18T21:47:18.009Z",
+      "collectedAt": "2026-11-19T03:07:04.071Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -693,7 +742,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-18T21:47:25.033Z",
-    "count": 29
+    "generatedAt": "2026-11-19T03:07:14.059Z",
+    "count": 31
   }
 }

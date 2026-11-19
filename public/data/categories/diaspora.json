@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "id": "5bf188d9ec20791d",
+      "title": "Barrow Calls on Darboe to Retire, Says Younger Leaders Should Take Over",
+      "summary": "By Makutu Manneh President Adama Barrow has called on veteran opposition leader Ousainu Darboe to retire from politics and make way for younger leaders. Barrow made the remarks at a campaign rally in Kerewan as he seeks a third term. “But this year whether he wants it or not w...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-calls-on-darboe-to-retire-says-younger-leaders-should-take-over/",
+      "publishedAt": "2026-11-18T23:03:18.000Z",
+      "collectedAt": "2026-11-19T03:07:09.887Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "403fdadbb026d257",
+      "title": "‘No Going Back, Only State House’: Bojang Pledges to Help Darboe Win Presidency",
+      "summary": "By Seedy Jobe National Democratic Party (NDP) leader Kebba Madi Bojang has pledged to help ANM Ousainu Darboe win The Gambia’s 2026 presidential election after the NDP and its alliance partners formally endorsed the candidate of the United Democratic Party (UDP)-led Gambia for...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/no-going-back-only-state-house-bojang-pledges-to-help-darboe-win-presidency/",
+      "publishedAt": "2026-11-18T22:10:31.000Z",
+      "collectedAt": "2026-11-19T03:07:09.887Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "cd2becd55a22ab70",
+      "title": "Darboe Welcomes NDP to UDP-Led Alliance, Calls It a Homecoming",
+      "summary": "By Seedy Jobe United Democratic Party (UDP) leader ANM Ousainu Darboe welcomed National Democratic Party (NDP) leader Kebba Madi Bojang and his supporters to the Gambia for Change (GFC) alliance, describing their decision to join the UDP-led coalition as a homecoming. Darboe a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-welcomes-ndp-to-udp-led-alliance-calls-it-a-homecoming/",
+      "publishedAt": "2026-11-18T22:03:43.000Z",
+      "collectedAt": "2026-11-19T03:07:09.887Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "75a9a865e76c44fc",
       "title": "MAA Foundation for Women Engages EU Election Observers on Women’s Role in Peaceful Democratic Transition",
       "summary": "By Ndey Sowe MAA Foundation for Women is following up on an institutional engagement with representatives of the European Union Election Observation Mission (EU EOM) in The Gambia, by bringing together EU election observers Cristina Hurduiala and Daniel Kerekes, and the leader...",
@@ -317,7 +390,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-18T21:47:25.033Z",
-    "count": 13
+    "generatedAt": "2026-11-19T03:07:14.059Z",
+    "count": 16
   }
 }
