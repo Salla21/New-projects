@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "12b025d65b463ae6",
+      "title": "Barrow Pledges Roads, Electricity and Better Farm Prices in North Bank Campaign Push",
+      "summary": "President Adama Barrow has promised improved roads, expanded electricity access and higher farm-gate prices for groundnuts as he stepped up his re-election campaign in the North Bank Region ahead of the 5 December presidential election. Addressing supporters in Niumi and Jokad...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-pledges-roads-electricity-and-better-farm-prices-in-north-bank-campaign-push/",
+      "publishedAt": "2026-11-19T14:56:46.000Z",
+      "collectedAt": "2026-11-19T22:07:51.812Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5bf188d9ec20791d",
       "title": "Barrow Calls on Darboe to Retire, Says Younger Leaders Should Take Over",
       "summary": "By Makutu Manneh President Adama Barrow has called on veteran opposition leader Ousainu Darboe to retire from politics and make way for younger leaders. Barrow made the remarks at a campaign rally in Kerewan as he seeks a third term. “But this year whether he wants it or not w...",
@@ -97,7 +121,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T12:46:41.568Z",
-    "count": 4
+    "generatedAt": "2026-11-19T22:08:04.546Z",
+    "count": 5
   }
 }

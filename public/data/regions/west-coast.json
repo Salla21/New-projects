@@ -213,24 +213,20 @@
       "status": "published"
     },
     {
-      "id": "1f5571a7835a1b69",
-      "title": "The steep price of power for Gambian women",
-      "summary": "By Talibeh Hydara, Ndey Sowe & Isatou Colley Adama Bah lives in a two-bedroom house in Sukuta, a large suburban town and a political powerhouse in the West Coast Region. On the walls of her parlour, framed family pictures hang next to those of her party leader, Ousainu Darboe....",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-steep-price-of-power-for-gambian-women/",
-      "publishedAt": "2026-11-13T11:50:00.000Z",
-      "collectedAt": "2026-11-13T23:27:56.336Z",
+      "id": "7df537de5df55004",
+      "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
+      "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
+      "publishedAt": "2026-11-04T06:20:12.000Z",
+      "collectedAt": "2026-11-19T22:07:51.395Z",
       "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology",
-        "diaspora"
-      ],
+      "categories": [],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Sulayman Bah",
+      "author": "Eddy Jatta",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -239,7 +235,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T12:46:41.568Z",
+    "generatedAt": "2026-11-19T22:08:04.546Z",
     "count": 10
   }
 }

@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "c636a66cb5236374",
+      "title": "If You’re Tough on Corruption, Prove It on Paper: Show Us the Assets",
+      "summary": "OPINION By Sarjo Barrow, Esq. Nominations have closed, and every presidential candidate has filed a sworn declaration of assets with the Independent Electoral Commission (IEC), as the Elections Act requires. Yet voters have seen none of them. Unlike in 2021, when the IEC brief...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/if-youre-tough-on-corruption-prove-it-on-paper-show-us-the-assets/",
+      "publishedAt": "2026-11-19T17:45:19.000Z",
+      "collectedAt": "2026-11-19T22:07:51.812Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "12b025d65b463ae6",
+      "title": "Barrow Pledges Roads, Electricity and Better Farm Prices in North Bank Campaign Push",
+      "summary": "President Adama Barrow has promised improved roads, expanded electricity access and higher farm-gate prices for groundnuts as he stepped up his re-election campaign in the North Bank Region ahead of the 5 December presidential election. Addressing supporters in Niumi and Jokad...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/barrow-pledges-roads-electricity-and-better-farm-prices-in-north-bank-campaign-push/",
+      "publishedAt": "2026-11-19T14:56:46.000Z",
+      "collectedAt": "2026-11-19T22:07:51.812Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "40c74ec641277346",
       "title": "From the streets of Serrekunda to the basketball courts of America",
       "summary": "By Sainabou Sama The Journey of Alhagie Waka Mbatch Driven by determination, resilience and an unwavering ambition to succeed, Gambian basketball player Alhagie Waka Mbatch is turning a childhood passion into an international sporting career. For Alhagie Waka Mbatch, the journ...",
@@ -401,81 +448,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "cd2becd55a22ab70",
-      "title": "Darboe Welcomes NDP to UDP-Led Alliance, Calls It a Homecoming",
-      "summary": "By Seedy Jobe United Democratic Party (UDP) leader ANM Ousainu Darboe welcomed National Democratic Party (NDP) leader Kebba Madi Bojang and his supporters to the Gambia for Change (GFC) alliance, describing their decision to join the UDP-led coalition as a homecoming. Darboe a...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-welcomes-ndp-to-udp-led-alliance-calls-it-a-homecoming/",
-      "publishedAt": "2026-11-18T22:03:43.000Z",
-      "collectedAt": "2026-11-19T03:07:09.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "79a3944b9e972cf4",
-      "title": "Gibba Questions Barrow’s Experience, Alleges D75 Million Spent on Meet-the-People Tour",
-      "summary": "By Seedy Jobe No-To Alliance Movement presidential candidate Almameh Gibba has accused President Adama Barrow’s administration of spending D75 million on a meet-the-people tour in less than a year.  Speaking at a campaign meeting in Ebo Town, Gibba described the alleged expend...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gibba-questions-barrows-experience-alleges-d75-million-spent-on-meet-the-people-tour/",
-      "publishedAt": "2026-11-18T21:56:11.000Z",
-      "collectedAt": "2026-11-19T03:07:09.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "dd60018257ba9597",
-      "title": "Gibba Promises to End Bundung’s Water, Electricity and Security Problems if Elected",
-      "summary": "By Seedy Jobe Hon. Almameh Gibba, flagbearer of the No-To Alliance movement, has pledged to address persistent water shortages, unreliable electricity supply and security concerns in Bundung if elected president in The Gambia’s December 5 election. Speaking at a campaign rally...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gibba-promises-to-end-bundungs-water-electricity-and-security-problems-if-elected/",
-      "publishedAt": "2026-11-18T18:21:28.000Z",
-      "collectedAt": "2026-11-18T21:47:20.888Z",
-      "region": "kanifing",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T12:46:41.568Z",
-    "count": 20
+    "generatedAt": "2026-11-19T22:08:04.546Z",
+    "count": 19
   }
 }

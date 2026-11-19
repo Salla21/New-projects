@@ -916,33 +916,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "0aafbdcad3ffbb1e",
-      "title": "Kebba Madi Bojang Threatens Demonstrations Over IEC’s Rejection of His Presidential Nomination",
-      "summary": "By Seedy Jobe Kebba Madi Bojang, leader of the National Democratic Party (NDP), has threatened to stage demonstrations against the Independent Electoral Commission (IEC) if his lawyers establish that the rejection of his presidential nomination was deliberate. Speaking to jour...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/kebba-madi-bojang-threatens-demonstrations-over-iecs-rejection-of-his-presidential-nomination/",
-      "publishedAt": "2026-11-12T23:16:29.000Z",
-      "collectedAt": "2026-11-13T01:00:20.293Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T12:46:41.568Z",
-    "count": 40
+    "generatedAt": "2026-11-19T22:08:04.546Z",
+    "count": 39
   }
 }
