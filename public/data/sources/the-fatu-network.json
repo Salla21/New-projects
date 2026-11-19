@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "40c74ec641277346",
+      "title": "From the streets of Serrekunda to the basketball courts of America",
+      "summary": "By Sainabou Sama The Journey of Alhagie Waka Mbatch Driven by determination, resilience and an unwavering ambition to succeed, Gambian basketball player Alhagie Waka Mbatch is turning a childhood passion into an international sporting career. For Alhagie Waka Mbatch, the journ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/from-the-streets-of-serrekunda-to-the-basketball-courts-of-america/",
+      "publishedAt": "2026-11-19T12:38:56.000Z",
+      "collectedAt": "2026-11-19T12:46:36.168Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d897bf01f9aa218f",
+      "title": "Gambia Scores Victory in Historic Genocide Case Against Myanmar",
+      "summary": "Written by: Seringe S.T. Touray The Gambia has secured a major victory in its genocide case against Myanmar after the International Court of Justice (ICJ) found that security forces in the Southeast Asian country carried out widespread atrocities against the Rohingya, a predom...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gambia-scores-victory-in-historic-genocide-case-against-myanmar/",
+      "publishedAt": "2026-11-19T10:56:15.000Z",
+      "collectedAt": "2026-11-19T12:46:36.168Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9a0a69c1e91b62a8",
       "title": "D36 Million, One Count, Three Years? The Hajj Case Raises Hard Questions",
       "summary": "OPINION By Sarjo Barrow, Esq. Grief shows up in different ways. While mourning my father, I came across reports on the Hajj fraud case and have kept coming back to them. Imagine saving for years for the journey of a lifetime, only to learn it may never happen. Now imagine your...",
@@ -364,31 +411,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "cbe7253923bcaeda",
-      "title": "SOCIAL SECURITY AND HOUSING FINANCE CORPORATION (SSHFC)",
-      "summary": "END OF YEAR PROMOTIONAL LAND SALES Nafugan Housing Estate The Social Security and Housing Finance Corporation (SSHFC) is pleased to announce promotional plot sales at Nafugan Housing Estate, the Corporation’s first rural housing estate in The Gambia. Location: Nafugan Housing ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/social-security-and-housing-finance-corporation-sshfc/",
-      "publishedAt": "2026-11-12T19:36:43.000Z",
-      "collectedAt": "2026-11-13T01:00:11.291Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T03:07:14.059Z",
-    "count": 17
+    "generatedAt": "2026-11-19T12:46:41.568Z",
+    "count": 18
   }
 }

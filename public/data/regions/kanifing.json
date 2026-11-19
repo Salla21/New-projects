@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "40c74ec641277346",
+      "title": "From the streets of Serrekunda to the basketball courts of America",
+      "summary": "By Sainabou Sama The Journey of Alhagie Waka Mbatch Driven by determination, resilience and an unwavering ambition to succeed, Gambian basketball player Alhagie Waka Mbatch is turning a childhood passion into an international sporting career. For Alhagie Waka Mbatch, the journ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/from-the-streets-of-serrekunda-to-the-basketball-courts-of-america/",
+      "publishedAt": "2026-11-19T12:38:56.000Z",
+      "collectedAt": "2026-11-19T12:46:36.168Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "dd60018257ba9597",
       "title": "Gibba Promises to End Bundung’s Water, Electricity and Security Problems if Elected",
       "summary": "By Seedy Jobe Hon. Almameh Gibba, flagbearer of the No-To Alliance movement, has pledged to address persistent water shortages, unreliable electricity supply and security concerns in Bundung if elected president in The Gambia’s December 5 election. Speaking at a campaign rally...",
@@ -46,7 +70,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T03:07:14.059Z",
-    "count": 2
+    "generatedAt": "2026-11-19T12:46:41.568Z",
+    "count": 3
   }
 }

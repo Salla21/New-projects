@@ -250,33 +250,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "35dfe5b15397800d",
-      "title": "Saikouba Jarju Rejects Claims of Hunger in The Gambia, Credits Barrow With Sustaining Progress Amid Global Crises",
-      "summary": "By Seedy Jobe Saikouba Jarju, Deputy Head of Mission at The Gambia’s Embassy in Nouakchott, Mauritania, has rejected claims of widespread hunger in The Gambia, arguing that the country has made significant progress under President Adama Barrow despite economic challenges and s...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/saikouba-jarju-rejects-claims-of-hunger-in-the-gambia-credits-barrow-with-sustaining-progress-amid-global-crises/",
-      "publishedAt": "2026-11-12T18:27:27.000Z",
-      "collectedAt": "2026-11-13T01:00:20.293Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T03:07:14.059Z",
-    "count": 12
+    "generatedAt": "2026-11-19T12:46:41.568Z",
+    "count": 11
   }
 }

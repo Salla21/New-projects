@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "40c74ec641277346",
+      "title": "From the streets of Serrekunda to the basketball courts of America",
+      "summary": "By Sainabou Sama The Journey of Alhagie Waka Mbatch Driven by determination, resilience and an unwavering ambition to succeed, Gambian basketball player Alhagie Waka Mbatch is turning a childhood passion into an international sporting career. For Alhagie Waka Mbatch, the journ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/from-the-streets-of-serrekunda-to-the-basketball-courts-of-america/",
+      "publishedAt": "2026-11-19T12:38:56.000Z",
+      "collectedAt": "2026-11-19T12:46:36.168Z",
+      "region": "kanifing",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a320dd3d0760c28a",
       "title": "Morocco complete perfect streak; Burkina Faso, Mali win to qualify; Benin and Cameroon join the 2027 TotalEnergies AFCON pack",
       "summary": "Morocco completed their perfect streak in Group A of the TotalEnergies Africa Cup of Nations “Pamoja 2027” Qualifiers, beating Niger to guarantee their qualification on Tuesday. Burkina Faso joined the qualified teams pack, taking Benin to the finals in the process. Mali also ...",
@@ -96,7 +120,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T03:07:14.059Z",
-    "count": 4
+    "generatedAt": "2026-11-19T12:46:41.568Z",
+    "count": 5
   }
 }
