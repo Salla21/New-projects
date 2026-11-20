@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "f3555ba270fb2310",
+      "title": "Second Lady Sarjo Mballow Urges Nema Jola Kunda Residents to Re-elect Barrow for Continued Development",
+      "summary": "By Makutu Manneh Second Lady Sarjo Mballow Barrow has urged residents of Nema Jola Kunda to support President Adama Barrow in the December 5 presidential election, saying his re-election would ensure continued development and improvements in essential services. Speaking at a c...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/second-lady-sarjo-mballow-urges-nema-jola-kunda-residents-to-re-elect-barrow-for-continued-development/",
+      "publishedAt": "2026-11-19T23:43:21.000Z",
+      "collectedAt": "2026-11-20T06:56:04.252Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "26b24cc1b61c7e67",
+      "title": "Darboe Pledges Budget Review and Reforms as Alliance Launches Campaign",
+      "summary": "By Seedy Jobe Gambia First Coalition presidential candidate ANM Ousainu Darboe has launched the UDP-led alliance’s campaign tour in Badibou Saba, promising to review government spending and address problems in agriculture, healthcare and education if elected on December 5. Dar...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-budget-review-and-reforms-as-alliance-launches-campaign/",
+      "publishedAt": "2026-11-19T23:22:51.000Z",
+      "collectedAt": "2026-11-20T06:56:04.252Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "12b025d65b463ae6",
       "title": "Barrow Pledges Roads, Electricity and Better Farm Prices in North Bank Campaign Push",
       "summary": "President Adama Barrow has promised improved roads, expanded electricity access and higher farm-gate prices for groundnuts as he stepped up his re-election campaign in the North Bank Region ahead of the 5 December presidential election. Addressing supporters in Niumi and Jokad...",
@@ -230,7 +279,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T22:08:04.546Z",
-    "count": 10
+    "generatedAt": "2026-11-20T06:56:08.358Z",
+    "count": 12
   }
 }

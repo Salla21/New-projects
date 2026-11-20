@@ -1,22 +1,20 @@
 {
   "items": [
     {
-      "id": "709b3193df379c0b",
-      "title": "Gambia Signs $169 Million Deal for Soma Solar Park Expansion",
-      "summary": "Government signs US$169 million Soma Solar Park agreements with Solaris Africa Ltd In the presence of His Excellency President Adama Barrow, the Government of The Gambia today signed agreements with Solaris Africa Ltd, a company of Mark Cables FZE, for Phase 2 of the Soma Sola...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-signs-169-million-deal-for-soma-solar-park-expansion/",
-      "publishedAt": "2026-10-30T12:57:00.000Z",
-      "collectedAt": "2026-10-30T19:07:02.403Z",
+      "id": "c99ce774b0403eeb",
+      "title": "Gambia Signs Agreements for 52 MW Solar Power Project in Soma",
+      "summary": "By Makutu Manneh The Government of The Gambia has signed two major agreements for the development of a 52-megawatt-peak (MWp) solar photovoltaic power plant in Soma, equipped with a 40.9-megawatt-hour (MWh) battery energy storage system, as part of efforts to strengthen the co...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gambia-signs-agreements-for-52-mw-solar-power-project-in-soma/",
+      "publishedAt": "2026-11-19T23:51:14.000Z",
+      "collectedAt": "2026-11-20T06:56:04.252Z",
       "region": "lower-river",
-      "categories": [
-        "politics"
-      ],
+      "categories": [],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Sulayman Bah",
+      "author": "Makutu Manneh",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -25,7 +23,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-04T14:18:18.427Z",
+    "generatedAt": "2026-11-20T06:56:08.358Z",
     "count": 1
   }
 }
