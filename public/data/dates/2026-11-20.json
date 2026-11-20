@@ -1,6 +1,195 @@
 {
   "items": [
     {
+      "id": "28dc2374419e12a4",
+      "title": "Gibba Tells Farafenni Voters Barrow’s Decade in Office Is Enough",
+      "summary": "By Seedy Jobe No-To Alliance Movement presidential candidate Almameh Gibba told voters in Farafenni that President Adama Barrow has had sufficient time in office, arguing that what he failed to achieve in ten years he cannot achieve in fifteen. Speaking at a campaign rally in ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gibba-tells-farafenni-voters-barrows-decade-in-office-is-enough/",
+      "publishedAt": "2026-11-20T23:55:25.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "north-bank",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "61bb53db6f4c0835",
+      "title": "Team Gambia Coalition Flagbearer Darboe: Barrow Must Not Be Allowed a Third Term",
+      "summary": "By Makutu Manneh Lamin J. Darboe, flagbearer of the Team Gambia Grand Coalition, has said President Adama Barrow should not be allowed to win a third term in office. Speaking at a campaign rally in Farafenni ahead of the 5 December presidential election, Darboe noted that The ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/team-gambia-coalition-flagbearer-darboe-barrow-must-not-be-allowed-a-third-term/",
+      "publishedAt": "2026-11-20T22:15:59.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "68569f78438c74d5",
+      "title": "Darboe to Farafenni Crowd: Politicians Have Kept Their Word, Now It Is Up to Voters",
+      "summary": "By Seedy Jobe Coalition presidential candidate ANM Ousainu Darboe has told supporters in Farafenni that opposition politicians have fulfilled their pledge to unite, and that it is now up to Gambians to complete the task by voting President Adama Barrow out of office. Mr. Darbo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-to-farafenni-crowd-politicians-have-kept-their-word-now-it-is-up-to-voters/",
+      "publishedAt": "2026-11-20T21:56:33.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "00ce200ea0fb37f1",
+      "title": "Second Lady Campaigns in Bafuloto, Pledges Development if President Barrow Wins Third Term",
+      "summary": "By Makutu Manneh The Second Lady of The Gambia, Sarjo Mballow Barrow, has urged residents of Bafuloto to re-elect President Adama Barrow for a third term, assuring them they will not regret the decision. Mrs. Barrow made the appeal while campaigning on behalf of her husband ah...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/second-lady-campaigns-in-bafuloto-pledges-development-if-president-barrow-wins-third-term/",
+      "publishedAt": "2026-11-20T21:50:30.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c4670bd86c716ce4",
+      "title": "Barrow Pledges “Historic Development” for Niani, Says Constituency Could Become “Dubai” if He Is Re-elected",
+      "summary": "By Makutu Manneh President Adama Barrow has pledged to bring historic development to the Niani constituency, saying he wants to transform the area so that, by the time he returns, it will be known as “Dubai.” Speaking at Jalo Kunda Mat Mbye in Niani as he continued his re-elec...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-pledges-historic-development-for-niani-says-constituency-could-become-dubai-if-he-is-re-elected/",
+      "publishedAt": "2026-11-20T21:45:39.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "0b290059599cac43",
+      "title": "Touray Urges Voters to Give a Woman the Chance to Lead",
+      "summary": "By Fatou Sillah Dr Isatou Touray, an independent presidential candidate, has called on Gambians to give a woman the opportunity to lead the country, saying leadership should be judged on knowledge, experience and the ability to serve the people rather than on party politics or...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/touray-urges-voters-to-give-a-woman-the-chance-to-lead/",
+      "publishedAt": "2026-11-20T21:10:49.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "caaa406655f3c2b4",
+      "title": "Bensouda Casts 2026 Election as Choice Between Past and Future",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE and presidential candidate of Coalition 2026, has described the 2026 election as a choice between moving backward under President Adama Barrow and moving forward under his leadership. He also criticised the government for p...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-casts-2026-election-as-choice-between-past-and-future/",
+      "publishedAt": "2026-11-20T21:08:00.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7f9b121201b0f7b9",
+      "title": "Darboe Commends Salikenni Residents for Steadfast Loyalty Through Good Times and Bad",
+      "summary": "By Seedy Jobe Gambia First Coalition presidential candidate Ousainou Darboe on Thursday commended the people of Salikenni for standing firm in their support for the truth through both difficult and prosperous times, saying that neither money, threats nor political positions ha...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-commends-salikenni-residents-for-steadfast-loyalty-through-good-times-and-bad/",
+      "publishedAt": "2026-11-20T21:03:33.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d078d05b0e38db3c",
       "title": "Acquitted – Yet Still Not Free? Why Gambian Police Continue to Fight for Control of Two Investors’ Passports",
       "summary": "Written by: Seringe S.T. Touray For eleven months, two Austrian entrepreneurs were unable to leave The Gambia freely. Then a court acquitted them and criticised the prolonged seizure of their passports and property. But the police have appealed the ruling, seeking to overturn ...",
@@ -210,7 +399,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T16:54:52.301Z",
-    "count": 9
+    "generatedAt": "2026-11-20T23:55:35.566Z",
+    "count": 17
   }
 }

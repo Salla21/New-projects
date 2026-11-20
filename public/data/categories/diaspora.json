@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "68569f78438c74d5",
+      "title": "Darboe to Farafenni Crowd: Politicians Have Kept Their Word, Now It Is Up to Voters",
+      "summary": "By Seedy Jobe Coalition presidential candidate ANM Ousainu Darboe has told supporters in Farafenni that opposition politicians have fulfilled their pledge to unite, and that it is now up to Gambians to complete the task by voting President Adama Barrow out of office. Mr. Darbo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-to-farafenni-crowd-politicians-have-kept-their-word-now-it-is-up-to-voters/",
+      "publishedAt": "2026-11-20T21:56:33.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7f9b121201b0f7b9",
+      "title": "Darboe Commends Salikenni Residents for Steadfast Loyalty Through Good Times and Bad",
+      "summary": "By Seedy Jobe Gambia First Coalition presidential candidate Ousainou Darboe on Thursday commended the people of Salikenni for standing firm in their support for the truth through both difficult and prosperous times, saying that neither money, threats nor political positions ha...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-commends-salikenni-residents-for-steadfast-loyalty-through-good-times-and-bad/",
+      "publishedAt": "2026-11-20T21:03:33.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "739ff7a047453fdb",
       "title": "UDP’s Ousainou Darboe Sets Out Security and Agriculture Plans",
       "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou ANM Darboe has outlined plans on security, civil service reform, agriculture and education during a campaign meeting in Kerr Pateh Kala, North Bank Region. Darboe urged ...",
@@ -316,58 +366,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "eede426d7db86bd9",
-      "title": "GID intercepts 215 would-be migrants in joint operations",
-      "summary": "By Hadram Hydara The Gambia Immigration Department (GID) has intercepted 215 would-be irregular migrants and arrested two suspected smugglers during coordinated operations across Banjul and the West Coast Region, the department announced. ​According to a GID statement, officer...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gid-intercepts-215-would-be-migrants-in-joint-operations/",
-      "publishedAt": "2026-11-15T14:59:49.000Z",
-      "collectedAt": "2026-11-15T19:43:52.708Z",
-      "region": "banjul",
-      "categories": [
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "08862a378f99c098",
-      "title": "Gomez: Barrow’s Main Political Concern Is Now Bensouda, Not Darboe",
-      "summary": "By Fatou Sillah UNITE’s Deputy Party Leader for Governance and Public Policy, Nenneh Freda Gomez, has said President Adama Barrow’s political focus has shifted from UDP leader Ousainou Darboe to UNITE leader Talib Bensouda, citing Bensouda’s growing support, organisation and p...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gomez-barrows-main-political-concern-is-now-bensouda-not-darboe/",
-      "publishedAt": "2026-11-15T02:18:55.000Z",
-      "collectedAt": "2026-11-15T05:59:53.603Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T16:54:52.301Z",
+    "generatedAt": "2026-11-20T23:55:35.566Z",
     "count": 15
   }
 }

@@ -1138,33 +1138,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "30ce0feebbd9d281",
-      "title": "Stakeholders call for stronger disability rights & accessible elections",
-      "summary": "By Kebba A.F. Touray As The Gambia prepares for the December 5 presidential election, disability advocates, lawmakers and election stakeholders are calling for better access to polling stations, accessible voter information and stronger enforcement of the Persons with Disabili...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/stakeholders-call-for-stronger-disability-rights-accessible-elections/",
-      "publishedAt": "2026-11-15T09:26:35.000Z",
-      "collectedAt": "2026-11-16T15:34:30.852Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T16:54:52.301Z",
-    "count": 50
+    "generatedAt": "2026-11-20T23:55:35.566Z",
+    "count": 49
   }
 }

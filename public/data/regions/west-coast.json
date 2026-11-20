@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "61bb53db6f4c0835",
+      "title": "Team Gambia Coalition Flagbearer Darboe: Barrow Must Not Be Allowed a Third Term",
+      "summary": "By Makutu Manneh Lamin J. Darboe, flagbearer of the Team Gambia Grand Coalition, has said President Adama Barrow should not be allowed to win a third term in office. Speaking at a campaign rally in Farafenni ahead of the 5 December presidential election, Darboe noted that The ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/team-gambia-coalition-flagbearer-darboe-barrow-must-not-be-allowed-a-third-term/",
+      "publishedAt": "2026-11-20T22:15:59.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "662256b8c9210b2d",
       "title": "Sidia Jatta urges voters to question why hardship persists after 6 decades of voting",
       "summary": "Lamin J. Darbo urges voters to Use Their Ballot for Change By Yankuba Jallow At a campaign meeting in Farafenni on November 18, the leadership of the Team Gambia Grand Coalition have urged voters to judge candidates by their integrity, knowledge and record of service, as presi...",
@@ -213,29 +236,6 @@
       "status": "published"
     },
     {
-      "id": "e315cc6786e7f217",
-      "title": "Over 1,100 migrants reach Canary Islands as two boats depart from Gambia",
-      "summary": "By Hadram Hydara More than 1,100 migrants arrived in Spain’s Canary Islands aboard 12 boats on Saturday, with two of the vessels reported to have departed from Gunjur in The Gambia, according to EFE News Agency. EFE reported that a total of 1,103 people, including 89 women and...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/over-1100-migrants-reach-canary-islands-as-two-boats-depart-from-gambia/",
-      "publishedAt": "2026-11-15T14:43:46.000Z",
-      "collectedAt": "2026-11-15T19:43:52.708Z",
-      "region": "west-coast",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7df537de5df55004",
       "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
       "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
@@ -244,7 +244,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-20T16:54:45.241Z",
+      "collectedAt": "2026-11-20T23:55:26.928Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -258,7 +258,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T16:54:52.301Z",
+    "generatedAt": "2026-11-20T23:55:35.566Z",
     "count": 11
   }
 }

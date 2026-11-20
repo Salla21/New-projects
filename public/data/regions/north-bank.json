@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "28dc2374419e12a4",
+      "title": "Gibba Tells Farafenni Voters Barrow’s Decade in Office Is Enough",
+      "summary": "By Seedy Jobe No-To Alliance Movement presidential candidate Almameh Gibba told voters in Farafenni that President Adama Barrow has had sufficient time in office, arguing that what he failed to achieve in ten years he cannot achieve in fifteen. Speaking at a campaign rally in ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gibba-tells-farafenni-voters-barrows-decade-in-office-is-enough/",
+      "publishedAt": "2026-11-20T23:55:25.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "north-bank",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "68569f78438c74d5",
+      "title": "Darboe to Farafenni Crowd: Politicians Have Kept Their Word, Now It Is Up to Voters",
+      "summary": "By Seedy Jobe Coalition presidential candidate ANM Ousainu Darboe has told supporters in Farafenni that opposition politicians have fulfilled their pledge to unite, and that it is now up to Gambians to complete the task by voting President Adama Barrow out of office. Mr. Darbo...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-to-farafenni-crowd-politicians-have-kept-their-word-now-it-is-up-to-voters/",
+      "publishedAt": "2026-11-20T21:56:33.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e29d7870557122a1",
       "title": "Bensouda Outlines Agriculture, Infrastructure and Economic Plans as Nationwide Tour Continues",
       "summary": "Written by: Seringe S.T. Touray UNITE leader Talib Ahmed Bensouda continues his nationwide tour today in the Upper River Region, with scheduled stops in Julangel, Bakadagi, Basse, Perai Tenda, Sare Alpha and Koina, following several days of engagements across the North Bank an...",
@@ -193,7 +241,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T16:54:52.301Z",
-    "count": 8
+    "generatedAt": "2026-11-20T23:55:35.566Z",
+    "count": 10
   }
 }

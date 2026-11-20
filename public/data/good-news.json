@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "7f9b121201b0f7b9",
+      "title": "Darboe Commends Salikenni Residents for Steadfast Loyalty Through Good Times and Bad",
+      "summary": "By Seedy Jobe Gambia First Coalition presidential candidate Ousainou Darboe on Thursday commended the people of Salikenni for standing firm in their support for the truth through both difficult and prosperous times, saying that neither money, threats nor political positions ha...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-commends-salikenni-residents-for-steadfast-loyalty-through-good-times-and-bad/",
+      "publishedAt": "2026-11-20T21:03:33.000Z",
+      "collectedAt": "2026-11-20T23:55:31.446Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d078d05b0e38db3c",
       "title": "Acquitted – Yet Still Not Free? Why Gambian Police Continue to Fight for Control of Two Investors’ Passports",
       "summary": "Written by: Seringe S.T. Touray For eleven months, two Austrian entrepreneurs were unable to leave The Gambia freely. Then a court acquitted them and criticised the prolonged seizure of their passports and property. But the police have appealed the ruling, seeking to overturn ...",
@@ -304,7 +329,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T16:54:52.301Z",
-    "count": 13
+    "generatedAt": "2026-11-20T23:55:35.566Z",
+    "count": 14
   }
 }
