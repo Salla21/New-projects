@@ -190,6 +190,77 @@
       "status": "published"
     },
     {
+      "id": "2f541bb98e784574",
+      "title": "ICJ Finds Myanmar Committed Genocide Against Rohingya in Landmark Victory for The Gambia",
+      "summary": "By Yankuba Jallow The International Court of Justice (ICJ) has ruled that Myanmar committed genocide against the Rohingya people in northern Rakhine State, in a landmark judgment that marks a major international legal victory for The Gambia. In its judgment delivered on 19 Nov...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/icj-finds-myanmar-committed-genocide-against-rohingya-in-landmark-victory-for-the-gambia/",
+      "publishedAt": "2026-11-19T15:54:36.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5b4337f135aff02c",
+      "title": "APEC leaders adopt 2026 declaration as Xi urges closer regional cooperation",
+      "summary": "By Yankuba Jallow Leaders at the 33rd Asia-Pacific Economic Cooperation (APEC) meeting adopted a declaration and three supporting documents in Shenzhen on 19 November, as Chinese President Xi Jinping called for stronger trade ties, regional connections, technological cooperati...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apec-leaders-adopt-2026-declaration-as-xi-urges-closer-regional-cooperation/",
+      "publishedAt": "2026-11-19T15:20:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "015556b18dcb114b",
+      "title": "China, Russia and US issue four-point declaration after Shenzhen summit",
+      "summary": "By Yankuba Jallow China, Russia and the United States have issued a four-point declaration covering United Nations reform, energy supplies, the International Criminal Court and nuclear risks, following a meeting between their presidents in Shenzhen. The document says Chinese P...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/china-russia-and-us-issue-four-point-declaration-after-shenzhen-summit/",
+      "publishedAt": "2026-11-19T15:15:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "12b025d65b463ae6",
       "title": "Barrow Pledges Roads, Electricity and Better Farm Prices in North Bank Campaign Push",
       "summary": "President Adama Barrow has promised improved roads, expanded electricity access and higher farm-gate prices for groundnuts as he stepped up his re-election campaign in the North Bank Region ahead of the 5 December presidential election. Addressing supporters in Niumi and Jokad...",
@@ -499,7 +570,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T06:56:08.358Z",
-    "count": 21
+    "generatedAt": "2026-11-20T16:54:52.301Z",
+    "count": 24
   }
 }

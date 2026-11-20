@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d078d05b0e38db3c",
+      "title": "Acquitted – Yet Still Not Free? Why Gambian Police Continue to Fight for Control of Two Investors’ Passports",
+      "summary": "Written by: Seringe S.T. Touray For eleven months, two Austrian entrepreneurs were unable to leave The Gambia freely. Then a court acquitted them and criticised the prolonged seizure of their passports and property. But the police have appealed the ruling, seeking to overturn ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/acquitted-yet-still-not-free-why-gambian-police-continue-to-fight-for-control-of-two-investors-passports/",
+      "publishedAt": "2026-11-20T13:53:50.000Z",
+      "collectedAt": "2026-11-20T16:54:45.610Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e29d7870557122a1",
+      "title": "Bensouda Outlines Agriculture, Infrastructure and Economic Plans as Nationwide Tour Continues",
+      "summary": "Written by: Seringe S.T. Touray UNITE leader Talib Ahmed Bensouda continues his nationwide tour today in the Upper River Region, with scheduled stops in Julangel, Bakadagi, Basse, Perai Tenda, Sare Alpha and Koina, following several days of engagements across the North Bank an...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-outlines-agriculture-infrastructure-and-economic-plans-as-nationwide-tour-continues/",
+      "publishedAt": "2026-11-20T13:12:46.000Z",
+      "collectedAt": "2026-11-20T16:54:45.610Z",
+      "region": "north-bank",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c636a66cb5236374",
       "title": "If You’re Tough on Corruption, Prove It on Paper: Show Us the Assets",
       "summary": "OPINION By Sarjo Barrow, Esq. Nominations have closed, and every presidential candidate has filed a sworn declaration of assets with the Independent Electoral Commission (IEC), as the Elections Act requires. Yet voters have seen none of them. Unlike in 2021, when the IEC brief...",
@@ -346,54 +392,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6162b0f2e92e75a1",
-      "title": "I’m beginning to wonder if we have raised a generation of successful individuals, but left them on their own to figure out how to be successful partners",
-      "summary": "By RamaTulai The more DMs I receive from well-educated, financially independent women who are unhappy in their relationships, the more this thought weighs on my mind. And it isn’t just about the women. I find myself wondering whether we have also failed the men. What exactly d...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/im-beginning-to-wonder-if-we-have-raised-a-generation-of-successful-individuals-but-left-them-on-their-own-to-figure-out-how-to-be-successful-partners/",
-      "publishedAt": "2026-11-14T12:09:58.000Z",
-      "collectedAt": "2026-11-14T13:23:49.512Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "39e7bd3c091e8ed7",
-      "title": "Thirst & Despair: Changai Toro Villagers Forced to Share Water with Livestock After Borehole Collapse",
-      "summary": "Written by: Dawda Baldeh Residents of Changai Toro, in the Sami District of the Central River Region (CRR), are facing a severe water crisis following the breakdown of the village’s only borehole, leaving hundreds of people without access to safe drinking water and forcing wom...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/thirst-despair-changai-toro-villagers-forced-to-share-water-with-livestock-after-borehole-collapse/",
-      "publishedAt": "2026-11-14T10:56:53.000Z",
-      "collectedAt": "2026-11-14T13:23:49.512Z",
-      "region": "central-river",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T06:56:08.358Z",
+    "generatedAt": "2026-11-20T16:54:52.301Z",
     "count": 17
   }
 }

@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "d078d05b0e38db3c",
+      "title": "Acquitted – Yet Still Not Free? Why Gambian Police Continue to Fight for Control of Two Investors’ Passports",
+      "summary": "Written by: Seringe S.T. Touray For eleven months, two Austrian entrepreneurs were unable to leave The Gambia freely. Then a court acquitted them and criticised the prolonged seizure of their passports and property. But the police have appealed the ruling, seeking to overturn ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/acquitted-yet-still-not-free-why-gambian-police-continue-to-fight-for-control-of-two-investors-passports/",
+      "publishedAt": "2026-11-20T13:53:50.000Z",
+      "collectedAt": "2026-11-20T16:54:45.610Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "662256b8c9210b2d",
+      "title": "Sidia Jatta urges voters to question why hardship persists after 6 decades of voting",
+      "summary": "Lamin J. Darbo urges voters to Use Their Ballot for Change By Yankuba Jallow At a campaign meeting in Farafenni on November 18, the leadership of the Team Gambia Grand Coalition have urged voters to judge candidates by their integrity, knowledge and record of service, as presi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/sidia-jatta-urges-voters-to-question-why-hardship-persists-after-6-decades-of-voting/",
+      "publishedAt": "2026-11-20T11:31:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f3555ba270fb2310",
       "title": "Second Lady Sarjo Mballow Urges Nema Jola Kunda Residents to Re-elect Barrow for Continued Development",
       "summary": "By Makutu Manneh Second Lady Sarjo Mballow Barrow has urged residents of Nema Jola Kunda to support President Adama Barrow in the December 5 presidential election, saying his re-election would ensure continued development and improvements in essential services. Speaking at a c...",
@@ -255,31 +301,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "6162b0f2e92e75a1",
-      "title": "I’m beginning to wonder if we have raised a generation of successful individuals, but left them on their own to figure out how to be successful partners",
-      "summary": "By RamaTulai The more DMs I receive from well-educated, financially independent women who are unhappy in their relationships, the more this thought weighs on my mind. And it isn’t just about the women. I find myself wondering whether we have also failed the men. What exactly d...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/im-beginning-to-wonder-if-we-have-raised-a-generation-of-successful-individuals-but-left-them-on-their-own-to-figure-out-how-to-be-successful-partners/",
-      "publishedAt": "2026-11-14T12:09:58.000Z",
-      "collectedAt": "2026-11-14T13:23:49.512Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T06:56:08.358Z",
-    "count": 12
+    "generatedAt": "2026-11-20T16:54:52.301Z",
+    "count": 13
   }
 }

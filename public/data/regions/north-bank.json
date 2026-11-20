@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "e29d7870557122a1",
+      "title": "Bensouda Outlines Agriculture, Infrastructure and Economic Plans as Nationwide Tour Continues",
+      "summary": "Written by: Seringe S.T. Touray UNITE leader Talib Ahmed Bensouda continues his nationwide tour today in the Upper River Region, with scheduled stops in Julangel, Bakadagi, Basse, Perai Tenda, Sare Alpha and Koina, following several days of engagements across the North Bank an...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-outlines-agriculture-infrastructure-and-economic-plans-as-nationwide-tour-continues/",
+      "publishedAt": "2026-11-20T13:12:46.000Z",
+      "collectedAt": "2026-11-20T16:54:45.610Z",
+      "region": "north-bank",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "739ff7a047453fdb",
+      "title": "UDP’s Ousainou Darboe Sets Out Security and Agriculture Plans",
+      "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou ANM Darboe has outlined plans on security, civil service reform, agriculture and education during a campaign meeting in Kerr Pateh Kala, North Bank Region. Darboe urged ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/udps-ousainou-darboe-sets-out-security-and-agriculture-plans/",
+      "publishedAt": "2026-11-20T11:46:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3671233c78f34249",
       "title": "Barrow Urges Supporters Not to Underestimate Opponents as Election Nears",
       "summary": "By Makutu Manneh President Adama Barrow has urged his supporters and coalition partners to intensify their campaign efforts and avoid complacency as the December 5 presidential election approaches. Speaking at campaign rallies in Dibba Kunda, Sabach Sanjal, in the North Bank R...",
@@ -145,7 +193,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T06:56:08.358Z",
-    "count": 6
+    "generatedAt": "2026-11-20T16:54:52.301Z",
+    "count": 8
   }
 }

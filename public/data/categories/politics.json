@@ -1,6 +1,124 @@
 {
   "items": [
     {
+      "id": "30613d9f9e4b984f",
+      "title": "Talib Ahmed Bensouda Pledges to Restore Death Penalty for Murder if Elected",
+      "summary": "By Kebba A.F. Touray Talib Ahmed Bensouda, the presidential candidate for the UNITE Party and Coalition 2026, has pledged to enforce the death penalty for murder if elected president. The death penalty is currently in the law books, but the Gambia Government, through President...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/bensouda-pledges-to-restore-death-penalty-for-murder-if-elected/",
+      "publishedAt": "2026-11-20T12:07:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9507593a30e20c0f",
+      "title": "IEC Warns Against Constituency-Based Campaigns, Urges Candidates to Follow Official Schedule",
+      "summary": "By Nelson Manneh The Independent Electoral Commission (IEC) has cautioned political parties and aspirants against conducting unauthorised constituency-based campaigns, directing all presidential contenders to strictly adhere to the Commission’s approved national campaign itine...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-warns-against-constituency-based-campaigns-urges-candidates-to-follow-official-schedule/",
+      "publishedAt": "2026-11-20T11:53:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "739ff7a047453fdb",
+      "title": "UDP’s Ousainou Darboe Sets Out Security and Agriculture Plans",
+      "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou ANM Darboe has outlined plans on security, civil service reform, agriculture and education during a campaign meeting in Kerr Pateh Kala, North Bank Region. Darboe urged ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/udps-ousainou-darboe-sets-out-security-and-agriculture-plans/",
+      "publishedAt": "2026-11-20T11:46:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "662256b8c9210b2d",
+      "title": "Sidia Jatta urges voters to question why hardship persists after 6 decades of voting",
+      "summary": "Lamin J. Darbo urges voters to Use Their Ballot for Change By Yankuba Jallow At a campaign meeting in Farafenni on November 18, the leadership of the Team Gambia Grand Coalition have urged voters to judge candidates by their integrity, knowledge and record of service, as presi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/sidia-jatta-urges-voters-to-question-why-hardship-persists-after-6-decades-of-voting/",
+      "publishedAt": "2026-11-20T11:31:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "429e8b1b3c6de0b8",
+      "title": "THE DEATH PENALTY IN THE GAMBIA",
+      "summary": "Under the first republic the death penalty was abolished, and no law could be enacted for which a death sentence was the penalty. But in 1995 under military rule a decree was established re-introducing the death penalty. The 1997 Constitution did not abolish the death penalty ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-death-penalty-in-the-gambia/",
+      "publishedAt": "2026-11-20T10:25:23.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f3555ba270fb2310",
       "title": "Second Lady Sarjo Mballow Urges Nema Jola Kunda Residents to Re-elect Barrow for Continued Development",
       "summary": "By Makutu Manneh Second Lady Sarjo Mballow Barrow has urged residents of Nema Jola Kunda to support President Adama Barrow in the December 5 presidential election, saying his re-election would ensure continued development and improvements in essential services. Speaking at a c...",
@@ -162,6 +280,54 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5b4337f135aff02c",
+      "title": "APEC leaders adopt 2026 declaration as Xi urges closer regional cooperation",
+      "summary": "By Yankuba Jallow Leaders at the 33rd Asia-Pacific Economic Cooperation (APEC) meeting adopted a declaration and three supporting documents in Shenzhen on 19 November, as Chinese President Xi Jinping called for stronger trade ties, regional connections, technological cooperati...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apec-leaders-adopt-2026-declaration-as-xi-urges-closer-regional-cooperation/",
+      "publishedAt": "2026-11-19T15:20:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "015556b18dcb114b",
+      "title": "China, Russia and US issue four-point declaration after Shenzhen summit",
+      "summary": "By Yankuba Jallow China, Russia and the United States have issued a four-point declaration covering United Nations reform, energy supplies, the International Criminal Court and nuclear risks, following a meeting between their presidents in Shenzhen. The document says Chinese P...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/china-russia-and-us-issue-four-point-declaration-after-shenzhen-summit/",
+      "publishedAt": "2026-11-19T15:15:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -1770,127 +1936,6 @@
       "status": "published"
     },
     {
-      "id": "1e7d391600728d7c",
-      "title": "Scorpions suffer 2-1 defeat to Ivory Coast in Afcon qualifiers",
-      "summary": "By Momodou Jarju The Gambia’s Scorpions Thursday endured a 2-1 defeat against Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers played at the Stade de la Paix in Bouaké. Scorpions boss Johnathan McKinstry included Musa Barrow to the starting...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/scorpions-suffer-2-1-defeat-to-ivory-coast-in-afcon-qualifiers/",
-      "publishedAt": "2026-11-14T13:22:40.000Z",
-      "collectedAt": "2026-11-14T13:23:48.823Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "sports",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "e4d3ebd1ce6b0265",
-      "title": "Transport Union President Urges Drivers to Prioritise Safety During Presidential Campaign",
-      "summary": "By Fatou Sillah The President of The Gambia Transport Union, Omar Ceesay, has urged commercial drivers to prioritize passenger safety and comply with road traffic regulations as political parties prepare to begin campaigning ahead of the December 5 presidential election. Mr. C...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/transport-union-president-urges-drivers-to-prioritise-safety-during-presidential-campaign/",
-      "publishedAt": "2026-11-13T22:36:51.000Z",
-      "collectedAt": "2026-11-13T23:27:59.774Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "184ccfecb81bda40",
-      "title": "UDP Youth Leader Accuses NPP of Spending Millions to Create Illusion of Popular Support",
-      "summary": "By Seedy Jobe Hagi Suwaneh, National Youth President of the United Democratic Party (UDP), has accused the ruling National People’s Party (NPP) of spending millions of dalasis to mobilize crowds for political events, alleging that the party is more concerned with projecting an...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-accuses-npp-of-spending-millions-to-create-illusion-of-popular-support/",
-      "publishedAt": "2026-11-13T21:15:30.000Z",
-      "collectedAt": "2026-11-13T23:27:59.774Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "64ee51caf679d877",
-      "title": "Darboe Says Free, Fair, and Transparent Election Will Leave No Losers",
-      "summary": "By Seedy Jobe The Secretary-General and leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has called for a peaceful, free, and transparent presidential election, saying that all Gambians would emerge as winners if the electoral process is conducted fairly and in...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-free-fair-and-transparent-election-will-leave-no-losers/",
-      "publishedAt": "2026-11-13T19:09:27.000Z",
-      "collectedAt": "2026-11-13T23:27:59.774Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a61f3f22bcb6f66e",
-      "title": "Tabax Reewmi, UNITE to Formalize Political Alliance Ahead of December Election",
-      "summary": "By Staff Writer Tabax Reewmi and the Unite for National Integrity, Transformation and Equality (UNITE) are set to formalize a political alliance on Saturday, November 14, as opposition groups intensify efforts to consolidate support ahead of The Gambia’s December 5 presidentia...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/tabax-reewmi-unite-to-formalize-political-alliance-ahead-of-december-election/",
-      "publishedAt": "2026-11-13T19:06:23.000Z",
-      "collectedAt": "2026-11-13T23:27:59.774Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -1899,7 +1944,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-20T06:56:01.062Z",
+      "collectedAt": "2026-11-20T16:54:45.241Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1923,7 +1968,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-20T06:56:01.062Z",
+      "collectedAt": "2026-11-20T16:54:45.241Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1939,7 +1984,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T06:56:08.358Z",
-    "count": 82
+    "generatedAt": "2026-11-20T16:54:52.301Z",
+    "count": 84
   }
 }

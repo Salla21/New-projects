@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "9507593a30e20c0f",
+      "title": "IEC Warns Against Constituency-Based Campaigns, Urges Candidates to Follow Official Schedule",
+      "summary": "By Nelson Manneh The Independent Electoral Commission (IEC) has cautioned political parties and aspirants against conducting unauthorised constituency-based campaigns, directing all presidential contenders to strictly adhere to the Commission’s approved national campaign itine...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/iec-warns-against-constituency-based-campaigns-urges-candidates-to-follow-official-schedule/",
+      "publishedAt": "2026-11-20T11:53:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2f541bb98e784574",
+      "title": "ICJ Finds Myanmar Committed Genocide Against Rohingya in Landmark Victory for The Gambia",
+      "summary": "By Yankuba Jallow The International Court of Justice (ICJ) has ruled that Myanmar committed genocide against the Rohingya people in northern Rakhine State, in a landmark judgment that marks a major international legal victory for The Gambia. In its judgment delivered on 19 Nov...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/icj-finds-myanmar-committed-genocide-against-rohingya-in-landmark-victory-for-the-gambia/",
+      "publishedAt": "2026-11-19T15:54:36.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5b4337f135aff02c",
+      "title": "APEC leaders adopt 2026 declaration as Xi urges closer regional cooperation",
+      "summary": "By Yankuba Jallow Leaders at the 33rd Asia-Pacific Economic Cooperation (APEC) meeting adopted a declaration and three supporting documents in Shenzhen on 19 November, as Chinese President Xi Jinping called for stronger trade ties, regional connections, technological cooperati...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apec-leaders-adopt-2026-declaration-as-xi-urges-closer-regional-cooperation/",
+      "publishedAt": "2026-11-19T15:20:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a823c8163b7eb1dc",
       "title": "Badjie Kunda Family of Kangibat Wins Marato Land Case against Sanyang Kunda Family of Chabai",
       "summary": "Foni Bondali District Tribunal Decides By Louise Jobe The Foni Bondali District Tribunal has declared Marato Fass to be the traditional land of the Badjie Kunda family of Kangibat, ruling in favour of Baba Badjie in a land dispute with Kebuteh B. Sanyang, who represented the S...",
@@ -142,29 +214,6 @@
       "status": "published"
     },
     {
-      "id": "39e7bd3c091e8ed7",
-      "title": "Thirst & Despair: Changai Toro Villagers Forced to Share Water with Livestock After Borehole Collapse",
-      "summary": "Written by: Dawda Baldeh Residents of Changai Toro, in the Sami District of the Central River Region (CRR), are facing a severe water crisis following the breakdown of the village’s only borehole, leaving hundreds of people without access to safe drinking water and forcing wom...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/thirst-despair-changai-toro-villagers-forced-to-share-water-with-livestock-after-borehole-collapse/",
-      "publishedAt": "2026-11-14T10:56:53.000Z",
-      "collectedAt": "2026-11-14T13:23:49.512Z",
-      "region": "central-river",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -173,7 +222,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-20T06:56:01.062Z",
+      "collectedAt": "2026-11-20T16:54:45.241Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -190,7 +239,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T06:56:08.358Z",
-    "count": 8
+    "generatedAt": "2026-11-20T16:54:52.301Z",
+    "count": 10
   }
 }

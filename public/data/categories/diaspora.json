@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "739ff7a047453fdb",
+      "title": "UDP’s Ousainou Darboe Sets Out Security and Agriculture Plans",
+      "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou ANM Darboe has outlined plans on security, civil service reform, agriculture and education during a campaign meeting in Kerr Pateh Kala, North Bank Region. Darboe urged ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/udps-ousainou-darboe-sets-out-security-and-agriculture-plans/",
+      "publishedAt": "2026-11-20T11:46:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "26b24cc1b61c7e67",
       "title": "Darboe Pledges Budget Review and Reforms as Alliance Launches Campaign",
       "summary": "By Seedy Jobe Gambia First Coalition presidential candidate ANM Ousainu Darboe has launched the UDP-led alliance’s campaign tour in Badibou Saba, promising to review government spending and address problems in agriculture, healthcare and education if elected on December 5. Dar...",
@@ -339,59 +364,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "1e7d391600728d7c",
-      "title": "Scorpions suffer 2-1 defeat to Ivory Coast in Afcon qualifiers",
-      "summary": "By Momodou Jarju The Gambia’s Scorpions Thursday endured a 2-1 defeat against Ivory Coast in Matchday 3 of the Africa Cup of Nations (AFCON) PAMOJA 2027 qualifiers played at the Stade de la Paix in Bouaké. Scorpions boss Johnathan McKinstry included Musa Barrow to the starting...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/scorpions-suffer-2-1-defeat-to-ivory-coast-in-afcon-qualifiers/",
-      "publishedAt": "2026-11-14T13:22:40.000Z",
-      "collectedAt": "2026-11-14T13:23:48.823Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "sports",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "64ee51caf679d877",
-      "title": "Darboe Says Free, Fair, and Transparent Election Will Leave No Losers",
-      "summary": "By Seedy Jobe The Secretary-General and leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has called for a peaceful, free, and transparent presidential election, saying that all Gambians would emerge as winners if the electoral process is conducted fairly and in...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-says-free-fair-and-transparent-election-will-leave-no-losers/",
-      "publishedAt": "2026-11-13T19:09:27.000Z",
-      "collectedAt": "2026-11-13T23:27:59.774Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T06:56:08.358Z",
-    "count": 16
+    "generatedAt": "2026-11-20T16:54:52.301Z",
+    "count": 15
   }
 }

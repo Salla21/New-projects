@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "d078d05b0e38db3c",
+      "title": "Acquitted – Yet Still Not Free? Why Gambian Police Continue to Fight for Control of Two Investors’ Passports",
+      "summary": "Written by: Seringe S.T. Touray For eleven months, two Austrian entrepreneurs were unable to leave The Gambia freely. Then a court acquitted them and criticised the prolonged seizure of their passports and property. But the police have appealed the ruling, seeking to overturn ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/acquitted-yet-still-not-free-why-gambian-police-continue-to-fight-for-control-of-two-investors-passports/",
+      "publishedAt": "2026-11-20T13:53:50.000Z",
+      "collectedAt": "2026-11-20T16:54:45.610Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e29d7870557122a1",
+      "title": "Bensouda Outlines Agriculture, Infrastructure and Economic Plans as Nationwide Tour Continues",
+      "summary": "Written by: Seringe S.T. Touray UNITE leader Talib Ahmed Bensouda continues his nationwide tour today in the Upper River Region, with scheduled stops in Julangel, Bakadagi, Basse, Perai Tenda, Sare Alpha and Koina, following several days of engagements across the North Bank an...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-outlines-agriculture-infrastructure-and-economic-plans-as-nationwide-tour-continues/",
+      "publishedAt": "2026-11-20T13:12:46.000Z",
+      "collectedAt": "2026-11-20T16:54:45.610Z",
+      "region": "north-bank",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "739ff7a047453fdb",
+      "title": "UDP’s Ousainou Darboe Sets Out Security and Agriculture Plans",
+      "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou ANM Darboe has outlined plans on security, civil service reform, agriculture and education during a campaign meeting in Kerr Pateh Kala, North Bank Region. Darboe urged ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/udps-ousainou-darboe-sets-out-security-and-agriculture-plans/",
+      "publishedAt": "2026-11-20T11:46:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "25f793db3c251723",
+      "title": "Ndungu Chareh Secco Manager Says Some Farmers Have Been Paid",
+      "summary": "By Kebba Secka The manager of Ndungu Chareh Secco says some farmers who were owed money from the 2025/2026 groundnut trade season have been paid, while others are expected to receive their outstanding balances within a week. Ebrima Sarr, the Secco manager, said some farmers we...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/ndungu-chareh-secco-manager-says-some-farmers-have-been-paid/",
+      "publishedAt": "2026-11-20T11:40:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f3555ba270fb2310",
       "title": "Second Lady Sarjo Mballow Urges Nema Jola Kunda Residents to Re-elect Barrow for Continued Development",
       "summary": "By Makutu Manneh Second Lady Sarjo Mballow Barrow has urged residents of Nema Jola Kunda to support President Adama Barrow in the December 5 presidential election, saying his re-election would ensure continued development and improvements in essential services. Speaking at a c...",
@@ -139,6 +233,31 @@
       "contentType": "article",
       "thumbnailUrl": null,
       "author": "Fatou Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "5b4337f135aff02c",
+      "title": "APEC leaders adopt 2026 declaration as Xi urges closer regional cooperation",
+      "summary": "By Yankuba Jallow Leaders at the 33rd Asia-Pacific Economic Cooperation (APEC) meeting adopted a declaration and three supporting documents in Shenzhen on 19 November, as Chinese President Xi Jinping called for stronger trade ties, regional connections, technological cooperati...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apec-leaders-adopt-2026-declaration-as-xi-urges-closer-regional-cooperation/",
+      "publishedAt": "2026-11-19T15:20:00.000Z",
+      "collectedAt": "2026-11-20T16:54:44.793Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -888,78 +1007,6 @@
       "status": "published"
     },
     {
-      "id": "e4d3ebd1ce6b0265",
-      "title": "Transport Union President Urges Drivers to Prioritise Safety During Presidential Campaign",
-      "summary": "By Fatou Sillah The President of The Gambia Transport Union, Omar Ceesay, has urged commercial drivers to prioritize passenger safety and comply with road traffic regulations as political parties prepare to begin campaigning ahead of the December 5 presidential election. Mr. C...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/transport-union-president-urges-drivers-to-prioritise-safety-during-presidential-campaign/",
-      "publishedAt": "2026-11-13T22:36:51.000Z",
-      "collectedAt": "2026-11-13T23:27:59.774Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "184ccfecb81bda40",
-      "title": "UDP Youth Leader Accuses NPP of Spending Millions to Create Illusion of Popular Support",
-      "summary": "By Seedy Jobe Hagi Suwaneh, National Youth President of the United Democratic Party (UDP), has accused the ruling National People’s Party (NPP) of spending millions of dalasis to mobilize crowds for political events, alleging that the party is more concerned with projecting an...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-youth-leader-accuses-npp-of-spending-millions-to-create-illusion-of-popular-support/",
-      "publishedAt": "2026-11-13T21:15:30.000Z",
-      "collectedAt": "2026-11-13T23:27:59.774Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Admin",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "a61f3f22bcb6f66e",
-      "title": "Tabax Reewmi, UNITE to Formalize Political Alliance Ahead of December Election",
-      "summary": "By Staff Writer Tabax Reewmi and the Unite for National Integrity, Transformation and Equality (UNITE) are set to formalize a political alliance on Saturday, November 14, as opposition groups intensify efforts to consolidate support ahead of The Gambia’s December 5 presidentia...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/tabax-reewmi-unite-to-formalize-political-alliance-ahead-of-december-election/",
-      "publishedAt": "2026-11-13T19:06:23.000Z",
-      "collectedAt": "2026-11-13T23:27:59.774Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Staff Writer",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -968,7 +1015,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-20T06:56:01.062Z",
+      "collectedAt": "2026-11-20T16:54:45.241Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -984,7 +1031,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T06:56:08.358Z",
-    "count": 41
+    "generatedAt": "2026-11-20T16:54:52.301Z",
+    "count": 43
   }
 }
