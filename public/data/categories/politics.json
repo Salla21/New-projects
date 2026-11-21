@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "id": "80f9d728301b52cc",
+      "title": "Darboe urges Gambians to back opposition coaltion in upcoming poll",
+      "summary": "​By Mama A. Touray The presidential candidate for the Gambia First Coalition UDP-Led Alliance, Lawyer Ousainou Darboe, has called on Gambians to vote for his coalition, declaring that opposition parties have fulfilled voters’ demands for a united front ahead of the presidentia...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-urges-gambians-to-back-opposition-coaltion-in-upcoming-poll/",
+      "publishedAt": "2026-11-21T15:33:08.000Z",
+      "collectedAt": "2026-11-21T16:05:56.726Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "622b0637276b8f42",
+      "title": "I get excited when leadership and femininity cross paths. Because, sis, there is power in that combination!",
+      "summary": "By RamaTulai And the recent Nvidia story has certainly given us something to talk about. For context, Nvidia is the American technology giant at the centre of the AI revolution. Its former CEO, billionaire Jensen Huang, recently resigned following revelations about an extramar...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/i-get-excited-when-leadership-and-femininity-cross-paths-because-sis-there-is-power-in-that-combination/",
+      "publishedAt": "2026-11-21T12:43:23.000Z",
+      "collectedAt": "2026-11-21T16:05:56.726Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "88cda9bb5dccd4c8",
+      "title": "Darboe calls for national unity amid growing tribal rhetoric on social media",
+      "summary": "By Mama A. Touray ​The standard-bearer of the Gambia First Coalition UDP-Led Alliance, Ousainou Darboe, has called for national unity amid rising tribal rhetoric on social media platforms such as TikTok and Facebook. Addressing supporters in Farafenni in the North Bank Region,...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-calls-for-national-unity-amid-growing-tribal-rhetoric-on-social-media/",
+      "publishedAt": "2026-11-21T12:24:38.000Z",
+      "collectedAt": "2026-11-21T16:05:56.726Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "28dc2374419e12a4",
       "title": "Gibba Tells Farafenni Voters Barrow’s Decade in Office Is Enough",
       "summary": "By Seedy Jobe No-To Alliance Movement presidential candidate Almameh Gibba told voters in Farafenni that President Adama Barrow has had sufficient time in office, arguing that what he failed to achieve in ten years he cannot achieve in fifteen. Speaking at a campaign rally in ...",
@@ -1758,7 +1831,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-21T06:48:16.707Z",
+      "collectedAt": "2026-11-21T16:05:56.365Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1782,7 +1855,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-21T06:48:16.707Z",
+      "collectedAt": "2026-11-21T16:05:56.365Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1798,7 +1871,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T06:48:24.722Z",
-    "count": 76
+    "generatedAt": "2026-11-21T16:06:03.086Z",
+    "count": 79
   }
 }

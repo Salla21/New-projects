@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "88cda9bb5dccd4c8",
+      "title": "Darboe calls for national unity amid growing tribal rhetoric on social media",
+      "summary": "By Mama A. Touray ​The standard-bearer of the Gambia First Coalition UDP-Led Alliance, Ousainou Darboe, has called for national unity amid rising tribal rhetoric on social media platforms such as TikTok and Facebook. Addressing supporters in Farafenni in the North Bank Region,...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/darboe-calls-for-national-unity-amid-growing-tribal-rhetoric-on-social-media/",
+      "publishedAt": "2026-11-21T12:24:38.000Z",
+      "collectedAt": "2026-11-21T16:05:56.726Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "28dc2374419e12a4",
       "title": "Gibba Tells Farafenni Voters Barrow’s Decade in Office Is Enough",
       "summary": "By Seedy Jobe No-To Alliance Movement presidential candidate Almameh Gibba told voters in Farafenni that President Adama Barrow has had sufficient time in office, arguing that what he failed to achieve in ten years he cannot achieve in fifteen. Speaking at a campaign rally in ...",
@@ -241,7 +266,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T06:48:24.722Z",
-    "count": 10
+    "generatedAt": "2026-11-21T16:06:03.086Z",
+    "count": 11
   }
 }
