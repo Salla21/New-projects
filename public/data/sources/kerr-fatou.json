@@ -897,78 +897,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "63f776c66fa13568",
-      "title": "UDP-Led Gambia First Coalition Formalises Alliance, Gains Three Endorsements",
-      "summary": "By Seedy Jobe The United Democratic Party (UDP)-led Gambia First Coalition formalised its partnership and secured the backing of three political leaders at a signing ceremony on Sunday, November 15, 2026, ahead of The Gambia’s December 5 presidential election. At the UDP burea...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/udp-led-gambia-first-coalition-formalises-alliance-gains-three-endorsements/",
-      "publishedAt": "2026-11-15T23:30:25.000Z",
-      "collectedAt": "2026-11-15T23:55:19.197Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2b912bed68ae150a",
-      "title": "Darboe Hails Gen Z Endorsement of UDP Ahead of December Election",
-      "summary": "By Seedy Jobe United Democratic Party (UDP) leader and secretary general ANM Ousainu Darboe welcomed an endorsement from hundreds of young Gambians ahead of the December 5 presidential election, describing the scale of the mobilisation as unprecedented in the country’s politic...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-hails-gen-z-endorsement-of-udp-ahead-of-december-election/",
-      "publishedAt": "2026-11-15T23:18:25.000Z",
-      "collectedAt": "2026-11-15T23:55:19.197Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "da55421029f4dd19",
-      "title": "Stop Step Pharmacy and Medicare Clinic Offer Free Health Screenings in Serrekunda",
-      "summary": "By Fatou Sillah Stop Step Pharmacy and Medicare Clinic held a free medical screening event in Serrekunda on Saturday to mark the opening of the pharmacy’s new branch and the launch of its home healthcare service. The outreach, part of the pharmacy’s corporate social responsibi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/stop-step-pharmacy-and-medicare-clinic-offer-free-health-screenings-in-serrekunda/",
-      "publishedAt": "2026-11-15T23:13:46.000Z",
-      "collectedAt": "2026-11-15T23:55:19.197Z",
-      "region": "kanifing",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-20T23:55:35.566Z",
-    "count": 41
+    "generatedAt": "2026-11-21T06:48:24.722Z",
+    "count": 38
   }
 }
