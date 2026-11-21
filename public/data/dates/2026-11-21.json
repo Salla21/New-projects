@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e6110e93db818b6b",
+      "title": "Dr. Touray Says She Entered Presidential Race to Expand Opportunities for Gambian Youth",
+      "summary": "Dr. Isatou Touray, Presidential Candidate By Fatou Sillah Independent presidential candidate Dr. Isatou Touray says improving opportunities for young Gambians is a central reason she entered the 2026 presidential race. Speaking at a campaign stop in Karantaba Wolof, Touray sai...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-touray-says-she-entered-presidential-race-to-expand-opportunities-for-gambian-youth/",
+      "publishedAt": "2026-11-21T22:44:22.000Z",
+      "collectedAt": "2026-11-21T23:00:22.435Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "80f9d728301b52cc",
       "title": "Darboe urges Gambians to back opposition coaltion in upcoming poll",
       "summary": "​By Mama A. Touray The presidential candidate for the Gambia First Coalition UDP-Led Alliance, Lawyer Ousainou Darboe, has called on Gambians to vote for his coalition, declaring that opposition parties have fulfilled voters’ demands for a united front ahead of the presidentia...",
@@ -75,7 +99,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T16:06:03.086Z",
-    "count": 3
+    "generatedAt": "2026-11-21T23:00:26.532Z",
+    "count": 4
   }
 }

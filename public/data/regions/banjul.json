@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e6110e93db818b6b",
+      "title": "Dr. Touray Says She Entered Presidential Race to Expand Opportunities for Gambian Youth",
+      "summary": "Dr. Isatou Touray, Presidential Candidate By Fatou Sillah Independent presidential candidate Dr. Isatou Touray says improving opportunities for young Gambians is a central reason she entered the 2026 presidential race. Speaking at a campaign stop in Karantaba Wolof, Touray sai...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-touray-says-she-entered-presidential-race-to-expand-opportunities-for-gambian-youth/",
+      "publishedAt": "2026-11-21T22:44:22.000Z",
+      "collectedAt": "2026-11-21T23:00:22.435Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "80f9d728301b52cc",
       "title": "Darboe urges Gambians to back opposition coaltion in upcoming poll",
       "summary": "​By Mama A. Touray The presidential candidate for the Gambia First Coalition UDP-Led Alliance, Lawyer Ousainou Darboe, has called on Gambians to vote for his coalition, declaring that opposition parties have fulfilled voters’ demands for a united front ahead of the presidentia...",
@@ -1697,74 +1721,6 @@
       "status": "published"
     },
     {
-      "id": "89a6fdc751ce5bfd",
-      "title": "New poll puts Barrow ahead but voters signal deep economic frustration",
-      "summary": "By Hadram Hydara President Adama Barrow and the ruling NPP-led alliance would secure the largest share of votes if The Gambia’s presidential election were held today, according to a new nationwide opinion poll, though widespread concerns about the economy, living costs and ele...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/new-poll-puts-barrow-ahead-but-voters-signal-deep-economic-frustration/",
-      "publishedAt": "2026-11-16T11:43:00.000Z",
-      "collectedAt": "2026-11-16T15:34:31.287Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b9dacd4f9a168542",
-      "title": "IEC accepts nine presidential candidates for December presidential elections",
-      "summary": "By Nelson Manneh The Independent Electoral Commission (IEC) has accepted the nomination papers of nine candidates for the December 5 presidential election and rejected seven others. IEC chairperson Joseph Colley announced the results on Saturday, November 14, the final day of ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-accepts-nine-presidential-candidates-for-december-presidential-elections/",
-      "publishedAt": "2026-11-16T11:41:00.000Z",
-      "collectedAt": "2026-11-16T15:34:30.852Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "29411ea5af5c652f",
-      "title": "Gambia Welcomes New Chinese Ambassador Xiao Yewen",
-      "summary": "By Ndey Sowe The Gambia and China have reaffirmed their commitment to strengthen relations as they mark 10 years since restoring diplomatic ties in 2016. The commitment was voiced at a reception hosted by the Chinese Embassy on Thursday, November 12, at the Sir Dawda Kairaba J...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-welcomes-new-chinese-ambassador-xiao-yewen/",
-      "publishedAt": "2026-11-16T11:34:00.000Z",
-      "collectedAt": "2026-11-16T15:34:30.852Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -1773,7 +1729,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-21T16:05:56.365Z",
+      "collectedAt": "2026-11-21T23:00:16.458Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1796,7 +1752,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-21T16:05:56.365Z",
+      "collectedAt": "2026-11-21T23:00:16.458Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1820,7 +1776,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-21T16:05:56.365Z",
+      "collectedAt": "2026-11-21T23:00:16.458Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1843,7 +1799,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambian-music-goes-boring-no-beef-no-drama-no-buzz/",
       "publishedAt": "2026-10-28T03:09:34.000Z",
-      "collectedAt": "2026-11-21T16:05:56.365Z",
+      "collectedAt": "2026-11-21T23:00:16.458Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1864,7 +1820,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/busumbala-tailor-arrested-over-alleged-grpe-of-apprentice/",
       "publishedAt": "2026-10-28T03:06:08.000Z",
-      "collectedAt": "2026-11-21T16:05:56.365Z",
+      "collectedAt": "2026-11-21T23:00:16.458Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1878,7 +1834,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T16:06:03.086Z",
-    "count": 81
+    "generatedAt": "2026-11-21T23:00:26.532Z",
+    "count": 79
   }
 }

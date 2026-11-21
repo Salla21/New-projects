@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e6110e93db818b6b",
+      "title": "Dr. Touray Says She Entered Presidential Race to Expand Opportunities for Gambian Youth",
+      "summary": "Dr. Isatou Touray, Presidential Candidate By Fatou Sillah Independent presidential candidate Dr. Isatou Touray says improving opportunities for young Gambians is a central reason she entered the 2026 presidential race. Speaking at a campaign stop in Karantaba Wolof, Touray sai...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-touray-says-she-entered-presidential-race-to-expand-opportunities-for-gambian-youth/",
+      "publishedAt": "2026-11-21T22:44:22.000Z",
+      "collectedAt": "2026-11-21T23:00:22.435Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "88cda9bb5dccd4c8",
       "title": "Darboe calls for national unity amid growing tribal rhetoric on social media",
       "summary": "By Mama A. Touray ​The standard-bearer of the Gambia First Coalition UDP-Led Alliance, Ousainou Darboe, has called for national unity amid rising tribal rhetoric on social media platforms such as TikTok and Facebook. Addressing supporters in Farafenni in the North Bank Region,...",
@@ -962,30 +986,6 @@
       "status": "published"
     },
     {
-      "id": "89a6fdc751ce5bfd",
-      "title": "New poll puts Barrow ahead but voters signal deep economic frustration",
-      "summary": "By Hadram Hydara President Adama Barrow and the ruling NPP-led alliance would secure the largest share of votes if The Gambia’s presidential election were held today, according to a new nationwide opinion poll, though widespread concerns about the economy, living costs and ele...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/new-poll-puts-barrow-ahead-but-voters-signal-deep-economic-frustration/",
-      "publishedAt": "2026-11-16T11:43:00.000Z",
-      "collectedAt": "2026-11-16T15:34:31.287Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -994,7 +994,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-21T16:05:56.365Z",
+      "collectedAt": "2026-11-21T23:00:16.458Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1010,7 +1010,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T16:06:03.086Z",
+    "generatedAt": "2026-11-21T23:00:26.532Z",
     "count": 42
   }
 }

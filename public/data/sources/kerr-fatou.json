@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e6110e93db818b6b",
+      "title": "Dr. Touray Says She Entered Presidential Race to Expand Opportunities for Gambian Youth",
+      "summary": "Dr. Isatou Touray, Presidential Candidate By Fatou Sillah Independent presidential candidate Dr. Isatou Touray says improving opportunities for young Gambians is a central reason she entered the 2026 presidential race. Speaking at a campaign stop in Karantaba Wolof, Touray sai...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/dr-touray-says-she-entered-presidential-race-to-expand-opportunities-for-gambian-youth/",
+      "publishedAt": "2026-11-21T22:44:22.000Z",
+      "collectedAt": "2026-11-21T23:00:22.435Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "28dc2374419e12a4",
       "title": "Gibba Tells Farafenni Voters Barrow’s Decade in Office Is Enough",
       "summary": "By Seedy Jobe No-To Alliance Movement presidential candidate Almameh Gibba told voters in Farafenni that President Adama Barrow has had sufficient time in office, arguing that what he failed to achieve in ten years he cannot achieve in fifteen. Speaking at a campaign rally in ...",
@@ -900,7 +924,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T16:06:03.086Z",
-    "count": 38
+    "generatedAt": "2026-11-21T23:00:26.532Z",
+    "count": 39
   }
 }

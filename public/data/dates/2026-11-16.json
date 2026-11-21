@@ -230,78 +230,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "89a6fdc751ce5bfd",
-      "title": "New poll puts Barrow ahead but voters signal deep economic frustration",
-      "summary": "By Hadram Hydara President Adama Barrow and the ruling NPP-led alliance would secure the largest share of votes if The Gambia’s presidential election were held today, according to a new nationwide opinion poll, though widespread concerns about the economy, living costs and ele...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/new-poll-puts-barrow-ahead-but-voters-signal-deep-economic-frustration/",
-      "publishedAt": "2026-11-16T11:43:00.000Z",
-      "collectedAt": "2026-11-16T15:34:31.287Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b9dacd4f9a168542",
-      "title": "IEC accepts nine presidential candidates for December presidential elections",
-      "summary": "By Nelson Manneh The Independent Electoral Commission (IEC) has accepted the nomination papers of nine candidates for the December 5 presidential election and rejected seven others. IEC chairperson Joseph Colley announced the results on Saturday, November 14, the final day of ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-accepts-nine-presidential-candidates-for-december-presidential-elections/",
-      "publishedAt": "2026-11-16T11:41:00.000Z",
-      "collectedAt": "2026-11-16T15:34:30.852Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "29411ea5af5c652f",
-      "title": "Gambia Welcomes New Chinese Ambassador Xiao Yewen",
-      "summary": "By Ndey Sowe The Gambia and China have reaffirmed their commitment to strengthen relations as they mark 10 years since restoring diplomatic ties in 2016. The commitment was voiced at a reception hosted by the Chinese Embassy on Thursday, November 12, at the Sir Dawda Kairaba J...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/gambia-welcomes-new-chinese-ambassador-xiao-yewen/",
-      "publishedAt": "2026-11-16T11:34:00.000Z",
-      "collectedAt": "2026-11-16T15:34:30.852Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T16:06:03.086Z",
-    "count": 13
+    "generatedAt": "2026-11-21T23:00:26.532Z",
+    "count": 10
   }
 }
