@@ -366,34 +366,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "bbce8895ed04c904",
-      "title": "Darboe Accuses Barrow Government of Lacking Political Will to Fight Corruption",
-      "summary": "By Seedy Jobe The Secretary-General and Party Leader of the United Democratic Party (UDP), ANM Ousainu Darboe, has accused President Adama Barrow’s administration of lacking the political will to combat corruption, citing the prolonged delay in making the Anti-Corruption Commi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-accuses-barrow-government-of-lacking-political-will-to-fight-corruption/",
-      "publishedAt": "2026-11-16T16:48:59.000Z",
-      "collectedAt": "2026-11-17T00:11:23.830Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T06:19:26.641Z",
-    "count": 16
+    "generatedAt": "2026-11-22T16:12:27.091Z",
+    "count": 15
   }
 }

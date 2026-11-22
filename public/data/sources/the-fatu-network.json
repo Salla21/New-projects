@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "36b9c28f1f754118",
+      "title": "TAMBADOU TAKES ON POLICE AS FOREIGN INVESTORS FILE 9 COMPLAINTS IN BITCOIN TOWER FRAUD BATTLE",
+      "summary": "Written by: Seringe ST Touray Veteran Gambian lawyer Sheriff Marie Tambadou, who is representing Austrian investor Manuel Di Stofleth-Mitterer, is leading his legal fight against the Gambia Police Force as the struggle over control of the unfinished Bitcoin Tower and The Edge ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/tambadou-takes-on-police-as-foreign-investors-file-9-complaints-in-bitcoin-tower-fraud-battle/",
+      "publishedAt": "2026-11-22T14:39:08.000Z",
+      "collectedAt": "2026-11-22T16:12:17.642Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "dd178ab260590a38",
+      "title": "Gibba Calls for United Opposition as Bensouda Says Barrow Is the ‘Common Problem’",
+      "summary": "By Mama A Touray APRC No to Alliance candidate Almameh Gibba has called for greater unity among opposition parties ahead of the 5 December presidential election, describing a united opposition as the best chance of political change in The Gambia. Gibba made the remarks while s...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gibba-calls-for-united-opposition-as-bensouda-says-barrow-is-the-common-problem/",
+      "publishedAt": "2026-11-22T12:42:08.000Z",
+      "collectedAt": "2026-11-22T16:12:17.642Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "80f9d728301b52cc",
       "title": "Darboe urges Gambians to back opposition coaltion in upcoming poll",
       "summary": "​By Mama A. Touray The presidential candidate for the Gambia First Coalition UDP-Led Alliance, Lawyer Ousainou Darboe, has called on Gambians to vote for his coalition, declaring that opposition parties have fulfilled voters’ demands for a united front ahead of the presidentia...",
@@ -349,33 +395,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "27529a6330367209",
-      "title": "Presidential Candidates Sign Peace Pact Ahead of December",
-      "summary": "Published by: The Fatu Network The Gambia’s presidential candidates came together in Bijilo this morning to sign a Peace Pact, pledging to reject political violence, intimidation and hostility ahead of December 5th. The agreement, organised by the Independent Electoral Commiss...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/presidential-candidates-sign-peace-pact-ahead-of-december/",
-      "publishedAt": "2026-11-16T13:24:37.000Z",
-      "collectedAt": "2026-11-16T15:34:31.287Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T06:19:26.641Z",
-    "count": 16
+    "generatedAt": "2026-11-22T16:12:27.091Z",
+    "count": 17
   }
 }

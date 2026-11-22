@@ -238,30 +238,6 @@
       "status": "published"
     },
     {
-      "id": "e05fa0e57f0c025f",
-      "title": "IEC Chairman Urges Presidential Candidates to Uphold Campaign Code of Ethics",
-      "summary": "By Makutu Manneh The Chairman of the Independent Electoral Commission (IEC), Joseph Colley, has urged presidential candidates and other political actors to adhere strictly to the Code of Election Campaign Ethics, warning that its provisions are legally binding on all signatori...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/iec-chairman-urges-presidential-candidates-to-uphold-campaign-code-of-ethics/",
-      "publishedAt": "2026-11-16T17:05:32.000Z",
-      "collectedAt": "2026-11-17T00:11:23.830Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "434861903ad39ab1",
       "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
       "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
@@ -270,7 +246,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-22T06:19:20.726Z",
+      "collectedAt": "2026-11-22T16:12:17.553Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -287,7 +263,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T06:19:26.641Z",
-    "count": 12
+    "generatedAt": "2026-11-22T16:12:27.091Z",
+    "count": 11
   }
 }

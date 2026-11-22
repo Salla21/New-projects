@@ -1011,29 +1011,6 @@
       "status": "published"
     },
     {
-      "id": "44956d3148381de4",
-      "title": "Farmers in Niumi say Government still owe Them for 2025 groundnut sales",
-      "summary": "By Yankuba Jallow Three of the farmers are from Lowen village in Niumi, in the Ndungu Charen area and others are from nearby villages informed Foroyaa that the Gambia Government has still not paid them for the groundnuts they sold during the 2025/26 trade season. They estimate...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/farmers-in-niumi-say-government-still-owe-them-for-2025-groundnut-sales/",
-      "publishedAt": "2026-11-16T11:50:00.000Z",
-      "collectedAt": "2026-11-16T15:34:30.852Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -1042,7 +1019,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-22T06:19:20.726Z",
+      "collectedAt": "2026-11-22T16:12:17.553Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1058,7 +1035,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T06:19:26.641Z",
-    "count": 44
+    "generatedAt": "2026-11-22T16:12:27.091Z",
+    "count": 43
   }
 }

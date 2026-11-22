@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "36b9c28f1f754118",
+      "title": "TAMBADOU TAKES ON POLICE AS FOREIGN INVESTORS FILE 9 COMPLAINTS IN BITCOIN TOWER FRAUD BATTLE",
+      "summary": "Written by: Seringe ST Touray Veteran Gambian lawyer Sheriff Marie Tambadou, who is representing Austrian investor Manuel Di Stofleth-Mitterer, is leading his legal fight against the Gambia Police Force as the struggle over control of the unfinished Bitcoin Tower and The Edge ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/tambadou-takes-on-police-as-foreign-investors-file-9-complaints-in-bitcoin-tower-fraud-battle/",
+      "publishedAt": "2026-11-22T14:39:08.000Z",
+      "collectedAt": "2026-11-22T16:12:17.642Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7f9b121201b0f7b9",
       "title": "Darboe Commends Salikenni Residents for Steadfast Loyalty Through Good Times and Bad",
       "summary": "By Seedy Jobe Gambia First Coalition presidential candidate Ousainou Darboe on Thursday commended the people of Salikenni for standing firm in their support for the truth through both difficult and prosperous times, saying that neither money, threats nor political positions ha...",
@@ -217,7 +240,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T06:19:26.641Z",
-    "count": 9
+    "generatedAt": "2026-11-22T16:12:27.091Z",
+    "count": 10
   }
 }

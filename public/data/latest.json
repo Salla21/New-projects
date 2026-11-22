@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "36b9c28f1f754118",
+      "title": "TAMBADOU TAKES ON POLICE AS FOREIGN INVESTORS FILE 9 COMPLAINTS IN BITCOIN TOWER FRAUD BATTLE",
+      "summary": "Written by: Seringe ST Touray Veteran Gambian lawyer Sheriff Marie Tambadou, who is representing Austrian investor Manuel Di Stofleth-Mitterer, is leading his legal fight against the Gambia Police Force as the struggle over control of the unfinished Bitcoin Tower and The Edge ...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/tambadou-takes-on-police-as-foreign-investors-file-9-complaints-in-bitcoin-tower-fraud-battle/",
+      "publishedAt": "2026-11-22T14:39:08.000Z",
+      "collectedAt": "2026-11-22T16:12:17.642Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "dd178ab260590a38",
+      "title": "Gibba Calls for United Opposition as Bensouda Says Barrow Is the ‘Common Problem’",
+      "summary": "By Mama A Touray APRC No to Alliance candidate Almameh Gibba has called for greater unity among opposition parties ahead of the 5 December presidential election, describing a united opposition as the best chance of political change in The Gambia. Gibba made the remarks while s...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/gibba-calls-for-united-opposition-as-bensouda-says-barrow-is-the-common-problem/",
+      "publishedAt": "2026-11-22T12:42:08.000Z",
+      "collectedAt": "2026-11-22T16:12:17.642Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6b35ce4b6a5108d5",
       "title": "Bensouda Pledges Economic Reforms to Boost Local Production and Create Jobs",
       "summary": "Mayor Talib Ahmed Bensouda By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE and presidential candidate for Coalition 2026, has pledged to introduce economic reforms aimed at reducing The Gambia’s dependence on imports, boosting local production, and creating employment op...",
@@ -2292,57 +2338,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a7f2043023855278",
-      "title": "Dr Tamamyan, WHO Director-General Candidate, Leads Independent Election Scorecard, Scoring 12 out of 14",
-      "summary": "Former WHO Director-General Special Advisor Peter Singer places Botswana’s nominee four points ahead of his closest competitors after his newly published reform program doubles his score. Armenian pediatric oncologist Gevorg Tamamyan has taken the lead in an independent scorec...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/dr-tamamyan-who-director-general-candidate-leads-independent-election-scorecard-scoring-12-out-of-14/",
-      "publishedAt": "2026-11-17T09:14:46.000Z",
-      "collectedAt": "2026-11-17T10:30:03.693Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "58125302071ba5d6",
-      "title": "Gambia Tourism Board Denies Restrictions on Public Beach Access, Pledges Investigation",
-      "summary": "By Makutu Manneh The Gambia Tourism Board (GT Board) has dismissed reports suggesting that Gambians are being denied access to beaches during and after the tourist season, insisting that no policy or directive restricts public access to the country’s beaches or the Tourism Dev...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-tourism-board-denies-restrictions-on-public-beach-access-pledges-investigation/",
-      "publishedAt": "2026-11-16T18:21:29.000Z",
-      "collectedAt": "2026-11-17T00:11:23.830Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T06:19:26.641Z",
+    "generatedAt": "2026-11-22T16:12:27.091Z",
     "count": 100
   }
 }

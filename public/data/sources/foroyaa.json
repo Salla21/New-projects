@@ -909,56 +909,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ab75243ec736dbd1",
-      "title": "Scorpions prepare to host Ivory Coast tomorrow",
-      "summary": "By Momodou Jarju The Gambia’s Scorpions arrived home on Friday evening from Bouake via Abidjan after their narrow 2-1 defeat to the Elephants of Ivory Coast in the ongoing 2027 Africa Cup of Nations (AFCON) qualifiers. The Scorpions have since returned to training at the Indep...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/scorpions-prepare-to-host-ivory-coast-tomorrow/",
-      "publishedAt": "2026-11-16T16:15:32.000Z",
-      "collectedAt": "2026-11-17T10:29:59.084Z",
-      "region": "banjul",
-      "categories": [
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "44956d3148381de4",
-      "title": "Farmers in Niumi say Government still owe Them for 2025 groundnut sales",
-      "summary": "By Yankuba Jallow Three of the farmers are from Lowen village in Niumi, in the Ndungu Charen area and others are from nearby villages informed Foroyaa that the Gambia Government has still not paid them for the groundnuts they sold during the 2025/26 trade season. They estimate...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/farmers-in-niumi-say-government-still-owe-them-for-2025-groundnut-sales/",
-      "publishedAt": "2026-11-16T11:50:00.000Z",
-      "collectedAt": "2026-11-16T15:34:30.852Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T06:19:26.641Z",
-    "count": 41
+    "generatedAt": "2026-11-22T16:12:27.091Z",
+    "count": 39
   }
 }
