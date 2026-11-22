@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8b93945876886a28",
+      "title": "Isatou Touray Pledges to Prioritise New Constitution if Elected President",
+      "summary": "Dr. Isatou Touray By Fatou Sillah Independent presidential candidate and former Vice President Dr. Isatou Touray has pledged to prioritise the introduction of a new constitution if elected president in The Gambia’s December 5, 2026, presidential election. Speaking to supporter...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/isatou-touray-pledges-to-prioritise-new-constitution-if-elected-president/",
+      "publishedAt": "2026-11-22T23:24:08.000Z",
+      "collectedAt": "2026-11-22T23:30:17.716Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "6b35ce4b6a5108d5",
       "title": "Bensouda Pledges Economic Reforms to Boost Local Production and Create Jobs",
       "summary": "Mayor Talib Ahmed Bensouda By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE and presidential candidate for Coalition 2026, has pledged to introduce economic reforms aimed at reducing The Gambia’s dependence on imports, boosting local production, and creating employment op...",
@@ -987,30 +1011,6 @@
       "status": "published"
     },
     {
-      "id": "58125302071ba5d6",
-      "title": "Gambia Tourism Board Denies Restrictions on Public Beach Access, Pledges Investigation",
-      "summary": "By Makutu Manneh The Gambia Tourism Board (GT Board) has dismissed reports suggesting that Gambians are being denied access to beaches during and after the tourist season, insisting that no policy or directive restricts public access to the country’s beaches or the Tourism Dev...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-tourism-board-denies-restrictions-on-public-beach-access-pledges-investigation/",
-      "publishedAt": "2026-11-16T18:21:29.000Z",
-      "collectedAt": "2026-11-17T00:11:23.830Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -1019,7 +1019,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-22T16:12:17.553Z",
+      "collectedAt": "2026-11-22T23:30:15.638Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1035,7 +1035,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T16:12:27.091Z",
+    "generatedAt": "2026-11-22T23:30:21.800Z",
     "count": 43
   }
 }

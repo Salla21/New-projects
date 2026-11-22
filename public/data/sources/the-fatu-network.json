@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "d1ea1f91241d489f",
+      "title": "Bensouda Pledges Death Penalty Enforcement, Justice Reforms",
+      "summary": "By Mama A Touray Coalition 2026 leader Talib Ahmed Bensouda has pledged to enforce the death penalty for murder and reform The Gambia’s justice system if elected president, making security and governance central themes of his campaign in the Central River Region. Addressing su...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-pledges-death-penalty-enforcement-justice-reforms/",
+      "publishedAt": "2026-11-22T17:07:30.000Z",
+      "collectedAt": "2026-11-22T23:30:15.730Z",
+      "region": "central-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "36b9c28f1f754118",
       "title": "TAMBADOU TAKES ON POLICE AS FOREIGN INVESTORS FILE 9 COMPLAINTS IN BITCOIN TOWER FRAUD BATTLE",
       "summary": "Written by: Seringe ST Touray Veteran Gambian lawyer Sheriff Marie Tambadou, who is representing Austrian investor Manuel Di Stofleth-Mitterer, is leading his legal fight against the Gambia Police Force as the struggle over control of the unfinished Bitcoin Tower and The Edge ...",
@@ -372,33 +395,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a7f2043023855278",
-      "title": "Dr Tamamyan, WHO Director-General Candidate, Leads Independent Election Scorecard, Scoring 12 out of 14",
-      "summary": "Former WHO Director-General Special Advisor Peter Singer places Botswana’s nominee four points ahead of his closest competitors after his newly published reform program doubles his score. Armenian pediatric oncologist Gevorg Tamamyan has taken the lead in an independent scorec...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/dr-tamamyan-who-director-general-candidate-leads-independent-election-scorecard-scoring-12-out-of-14/",
-      "publishedAt": "2026-11-17T09:14:46.000Z",
-      "collectedAt": "2026-11-17T10:30:03.693Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T16:12:27.091Z",
+    "generatedAt": "2026-11-22T23:30:21.800Z",
     "count": 17
   }
 }

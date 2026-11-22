@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "d1ea1f91241d489f",
+      "title": "Bensouda Pledges Death Penalty Enforcement, Justice Reforms",
+      "summary": "By Mama A Touray Coalition 2026 leader Talib Ahmed Bensouda has pledged to enforce the death penalty for murder and reform The Gambia’s justice system if elected president, making security and governance central themes of his campaign in the Central River Region. Addressing su...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-pledges-death-penalty-enforcement-justice-reforms/",
+      "publishedAt": "2026-11-22T17:07:30.000Z",
+      "collectedAt": "2026-11-22T23:30:15.730Z",
+      "region": "central-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "60679d6476b07fd7",
       "title": "Barrow Warns Mbayen Residents Against Opposition ‘Deception,’ Seeks Third Term",
       "summary": "By Makutu Manneh President Adama Barrow has cautioned residents of Mbayen in the Central River Region against what he described as deceptive promises by opposition politicians, urging voters to support his bid for a third term in the December 5 presidential election. Speaking ...",
@@ -97,7 +120,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T16:12:27.091Z",
-    "count": 4
+    "generatedAt": "2026-11-22T23:30:21.800Z",
+    "count": 5
   }
 }

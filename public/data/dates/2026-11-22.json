@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "8b93945876886a28",
+      "title": "Isatou Touray Pledges to Prioritise New Constitution if Elected President",
+      "summary": "Dr. Isatou Touray By Fatou Sillah Independent presidential candidate and former Vice President Dr. Isatou Touray has pledged to prioritise the introduction of a new constitution if elected president in The Gambia’s December 5, 2026, presidential election. Speaking to supporter...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/isatou-touray-pledges-to-prioritise-new-constitution-if-elected-president/",
+      "publishedAt": "2026-11-22T23:24:08.000Z",
+      "collectedAt": "2026-11-22T23:30:17.716Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1bb64dcfd58e8a34",
+      "title": "Bensouda Says No Other Presidential Candidate Matches His Experience in Business and Governance",
+      "summary": "Talib Ahmed Bensouda By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE and presidential candidate for Coalition 2026, has argued that his extensive experience in business, the private sector, and local government sets him apart from other candidates contesting The Gambia’s...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-no-other-presidential-candidate-matches-his-experience-in-business-and-governance/",
+      "publishedAt": "2026-11-22T23:21:40.000Z",
+      "collectedAt": "2026-11-22T23:30:17.716Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d1ea1f91241d489f",
+      "title": "Bensouda Pledges Death Penalty Enforcement, Justice Reforms",
+      "summary": "By Mama A Touray Coalition 2026 leader Talib Ahmed Bensouda has pledged to enforce the death penalty for murder and reform The Gambia’s justice system if elected president, making security and governance central themes of his campaign in the Central River Region. Addressing su...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/bensouda-pledges-death-penalty-enforcement-justice-reforms/",
+      "publishedAt": "2026-11-22T17:07:30.000Z",
+      "collectedAt": "2026-11-22T23:30:15.730Z",
+      "region": "central-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "36b9c28f1f754118",
       "title": "TAMBADOU TAKES ON POLICE AS FOREIGN INVESTORS FILE 9 COMPLAINTS IN BITCOIN TOWER FRAUD BATTLE",
       "summary": "Written by: Seringe ST Touray Veteran Gambian lawyer Sheriff Marie Tambadou, who is representing Austrian investor Manuel Di Stofleth-Mitterer, is leading his legal fight against the Gambia Police Force as the struggle over control of the unfinished Bitcoin Tower and The Edge ...",
@@ -237,7 +307,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T16:12:27.091Z",
-    "count": 10
+    "generatedAt": "2026-11-22T23:30:21.800Z",
+    "count": 13
   }
 }

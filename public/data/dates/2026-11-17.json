@@ -349,33 +349,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "a7f2043023855278",
-      "title": "Dr Tamamyan, WHO Director-General Candidate, Leads Independent Election Scorecard, Scoring 12 out of 14",
-      "summary": "Former WHO Director-General Special Advisor Peter Singer places Botswana’s nominee four points ahead of his closest competitors after his newly published reform program doubles his score. Armenian pediatric oncologist Gevorg Tamamyan has taken the lead in an independent scorec...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/dr-tamamyan-who-director-general-candidate-leads-independent-election-scorecard-scoring-12-out-of-14/",
-      "publishedAt": "2026-11-17T09:14:46.000Z",
-      "collectedAt": "2026-11-17T10:30:03.693Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T16:12:27.091Z",
-    "count": 16
+    "generatedAt": "2026-11-22T23:30:21.800Z",
+    "count": 15
   }
 }

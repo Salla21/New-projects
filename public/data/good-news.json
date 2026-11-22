@@ -213,34 +213,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "58125302071ba5d6",
-      "title": "Gambia Tourism Board Denies Restrictions on Public Beach Access, Pledges Investigation",
-      "summary": "By Makutu Manneh The Gambia Tourism Board (GT Board) has dismissed reports suggesting that Gambians are being denied access to beaches during and after the tourist season, insisting that no policy or directive restricts public access to the country’s beaches or the Tourism Dev...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-tourism-board-denies-restrictions-on-public-beach-access-pledges-investigation/",
-      "publishedAt": "2026-11-16T18:21:29.000Z",
-      "collectedAt": "2026-11-17T00:11:23.830Z",
-      "region": "banjul",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-22T16:12:27.091Z",
-    "count": 10
+    "generatedAt": "2026-11-22T23:30:21.800Z",
+    "count": 9
   }
 }
