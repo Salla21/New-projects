@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "0e2aa3b9b578ea28",
+      "title": "DA Jawo Expects Some Presidential Candidates to Withdraw and Join Coalitions Before November 24",
+      "summary": "Demba Ali Jawo, Former Minister of Information By Makutu Manneh Veteran journalist and former Information Minister Demba Ali Jawo has predicted that some presidential candidates will recognise before November 24 that they have no realistic chance of winning the December electi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/da-jawo-expects-some-presidential-candidates-to-withdraw-and-join-coalitions-before-november-24/",
+      "publishedAt": "2026-11-22T00:30:45.000Z",
+      "collectedAt": "2026-11-22T06:19:22.523Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8eaf5deee8043291",
+      "title": "Political Analyst Juwara Says December Presidential Race Remains Open, With No Clear Frontrunner",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has said the 5 December 2026 presidential election remains wide open, with no candidate yet assured of victory. Speaking on The Brunch show on Kerr Fatou on Saturday, Juwara described the race as fluid, noting that many voters ar...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-says-december-presidential-race-remains-open-with-no-clear-frontrunner/",
+      "publishedAt": "2026-11-22T00:27:04.000Z",
+      "collectedAt": "2026-11-22T06:19:22.523Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "622b0637276b8f42",
       "title": "I get excited when leadership and femininity cross paths. Because, sis, there is power in that combination!",
       "summary": "By RamaTulai And the recent Nvidia story has certainly given us something to talk about. For context, Nvidia is the American technology giant at the centre of the AI revolution. Its former CEO, billionaire Jensen Huang, recently resigned following revelations about an extramar...",
@@ -222,7 +270,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-21T23:00:16.458Z",
+      "collectedAt": "2026-11-22T06:19:20.726Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -239,7 +287,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T23:00:26.532Z",
-    "count": 10
+    "generatedAt": "2026-11-22T06:19:26.641Z",
+    "count": 12
   }
 }

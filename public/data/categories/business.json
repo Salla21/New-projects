@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "6b35ce4b6a5108d5",
+      "title": "Bensouda Pledges Economic Reforms to Boost Local Production and Create Jobs",
+      "summary": "Mayor Talib Ahmed Bensouda By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE and presidential candidate for Coalition 2026, has pledged to introduce economic reforms aimed at reducing The Gambia’s dependence on imports, boosting local production, and creating employment op...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-economic-reforms-to-boost-local-production-and-create-jobs/",
+      "publishedAt": "2026-11-22T01:33:03.000Z",
+      "collectedAt": "2026-11-22T06:19:22.523Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d7eff6b0bff15a5f",
+      "title": "Gibba Pledges Salaries for Imams and Clergy, Legal Recognition for Religious Councils",
+      "summary": "By Seedy Jobe No-To Alliance Movement presidential candidate Hon. Almameh Gibba has pledged to pay salaries to all Imams, pastors and priests in The Gambia if elected president, arguing that religious leaders contribute to the national economy through taxes and are therefore e...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gibba-pledges-salaries-for-imams-and-clergy-legal-recognition-for-religious-councils/",
+      "publishedAt": "2026-11-22T00:08:45.000Z",
+      "collectedAt": "2026-11-22T06:19:22.523Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e6110e93db818b6b",
       "title": "Dr. Touray Says She Entered Presidential Race to Expand Opportunities for Gambian Youth",
       "summary": "Dr. Isatou Touray, Presidential Candidate By Fatou Sillah Independent presidential candidate Dr. Isatou Touray says improving opportunities for young Gambians is a central reason she entered the 2026 presidential race. Speaking at a campaign stop in Karantaba Wolof, Touray sai...",
@@ -994,7 +1042,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-21T23:00:16.458Z",
+      "collectedAt": "2026-11-22T06:19:20.726Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1010,7 +1058,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T23:00:26.532Z",
-    "count": 42
+    "generatedAt": "2026-11-22T06:19:26.641Z",
+    "count": 44
   }
 }

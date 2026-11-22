@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "c82ad2491141d63c",
+      "title": "Analyst Questions Team Gambia’s Absence from Larger Opposition Coalitions",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has expressed surprise that the Team Gambia Grand Coalition has not joined one of the larger opposition alliances ahead of the December presidential election. Speaking on The Brunch show on Kerr Fatou on Saturday, Juwara noted th...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/analyst-questions-team-gambias-absence-from-larger-opposition-coalitions/",
+      "publishedAt": "2026-11-22T00:41:06.000Z",
+      "collectedAt": "2026-11-22T06:19:22.523Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8eaf5deee8043291",
+      "title": "Political Analyst Juwara Says December Presidential Race Remains Open, With No Clear Frontrunner",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has said the 5 December 2026 presidential election remains wide open, with no candidate yet assured of victory. Speaking on The Brunch show on Kerr Fatou on Saturday, Juwara described the race as fluid, noting that many voters ar...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-says-december-presidential-race-remains-open-with-no-clear-frontrunner/",
+      "publishedAt": "2026-11-22T00:27:04.000Z",
+      "collectedAt": "2026-11-22T06:19:22.523Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "61bb53db6f4c0835",
       "title": "Team Gambia Coalition Flagbearer Darboe: Barrow Must Not Be Allowed a Third Term",
       "summary": "By Makutu Manneh Lamin J. Darboe, flagbearer of the Team Gambia Grand Coalition, has said President Adama Barrow should not be allowed to win a third term in office. Speaking at a campaign rally in Farafenni ahead of the 5 December presidential election, Darboe noted that The ...",
@@ -220,7 +267,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-21T23:00:16.458Z",
+      "collectedAt": "2026-11-22T06:19:20.726Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -234,7 +281,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T23:00:26.532Z",
-    "count": 10
+    "generatedAt": "2026-11-22T06:19:26.641Z",
+    "count": 12
   }
 }

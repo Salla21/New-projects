@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "11ca830bf3944542",
+      "title": "Darboe Pledges Visible Change in Fass If Elected",
+      "summary": "ANM Ousainu Darboe By Seedy Jobe Gambia First Coalition presidential candidate Ousainou Darboe, who leads the UDP-led alliance, has assured residents of Fass that they will begin to see change the day after the 5 December election if they vote for him. Speaking in Fass during ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-visible-change-in-fass-if-elected/",
+      "publishedAt": "2026-11-22T00:34:39.000Z",
+      "collectedAt": "2026-11-22T06:19:22.523Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "80f9d728301b52cc",
       "title": "Darboe urges Gambians to back opposition coaltion in upcoming poll",
       "summary": "​By Mama A. Touray The presidential candidate for the Gambia First Coalition UDP-Led Alliance, Lawyer Ousainou Darboe, has called on Gambians to vote for his coalition, declaring that opposition parties have fulfilled voters’ demands for a united front ahead of the presidentia...",
@@ -369,7 +393,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T23:00:26.532Z",
-    "count": 15
+    "generatedAt": "2026-11-22T06:19:26.641Z",
+    "count": 16
   }
 }
