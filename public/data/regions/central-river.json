@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "7c8f4549aba81a48",
+      "title": "Archaeologists Find Human Skeleton Near Sangule Village",
+      "summary": "By Hatab Nyang Archaeologists have found a human skeleton at an excavation site near Sangule village in Nianija District, Central River Region. Researchers estimate the remains are between 250 and 300 years old, but further tests are planned to determine their age. The discove...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/archaeologists-find-human-skeleton-near-sangule-village/",
+      "publishedAt": "2026-11-23T11:42:00.000Z",
+      "collectedAt": "2026-11-23T20:05:54.308Z",
+      "region": "central-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d1ea1f91241d489f",
       "title": "Bensouda Pledges Death Penalty Enforcement, Justice Reforms",
       "summary": "By Mama A Touray Coalition 2026 leader Talib Ahmed Bensouda has pledged to enforce the death penalty for murder and reform The Gambia’s justice system if elected president, making security and governance central themes of his campaign in the Central River Region. Addressing su...",
@@ -120,7 +143,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T07:12:14.842Z",
-    "count": 5
+    "generatedAt": "2026-11-23T20:06:01.140Z",
+    "count": 6
   }
 }

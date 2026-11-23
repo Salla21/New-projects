@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b091bd55eadc30d8",
+      "title": "Justice M.S. Jallow Threatens to Jail Journalist for Taking Photo Outside Court",
+      "summary": "Prison Officers Tried to Seize Her Phone By Yankuba Jallow Justice Momodou S.M. Jallow has warned a reporter for The Alkamba Times, Sainabou Sambou, that he could cite her for contempt and send her to Mile 2 after she tried to photograph an accused person outside the Bundung H...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/justice-m-s-jallow-threatens-to-jail-journalist-for-taking-photo-outside-court/",
+      "publishedAt": "2026-11-23T17:12:36.000Z",
+      "collectedAt": "2026-11-23T20:05:54.308Z",
+      "region": "kanifing",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "40c74ec641277346",
       "title": "From the streets of Serrekunda to the basketball courts of America",
       "summary": "By Sainabou Sama The Journey of Alhagie Waka Mbatch Driven by determination, resilience and an unwavering ambition to succeed, Gambian basketball player Alhagie Waka Mbatch is turning a childhood passion into an international sporting career. For Alhagie Waka Mbatch, the journ...",
@@ -49,7 +72,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T07:12:14.842Z",
-    "count": 2
+    "generatedAt": "2026-11-23T20:06:01.140Z",
+    "count": 3
   }
 }

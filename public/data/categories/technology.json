@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "7c8f4549aba81a48",
+      "title": "Archaeologists Find Human Skeleton Near Sangule Village",
+      "summary": "By Hatab Nyang Archaeologists have found a human skeleton at an excavation site near Sangule village in Nianija District, Central River Region. Researchers estimate the remains are between 250 and 300 years old, but further tests are planned to determine their age. The discove...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/archaeologists-find-human-skeleton-near-sangule-village/",
+      "publishedAt": "2026-11-23T11:42:00.000Z",
+      "collectedAt": "2026-11-23T20:05:54.308Z",
+      "region": "central-river",
+      "categories": [
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "01b441c312f2c426",
+      "title": "DOES THE LAW IMPOSE ANY RESTRICTIONS DURING ELECTION CAMPAIGN?",
+      "summary": "Section 90 of the Elections Act states: “A candidate or political party shall not, during an election campaign period – In short, what we see happening quite often is for bidden by law. Facebook Notice for EU! You need to login to view and post FB Comments!",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/does-the-law-impose-any-restrictions-during-election-campaign/",
+      "publishedAt": "2026-11-23T10:38:08.000Z",
+      "collectedAt": "2026-11-23T20:05:54.308Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0e2aa3b9b578ea28",
       "title": "DA Jawo Expects Some Presidential Candidates to Withdraw and Join Coalitions Before November 24",
       "summary": "Demba Ali Jawo, Former Minister of Information By Makutu Manneh Veteran journalist and former Information Minister Demba Ali Jawo has predicted that some presidential candidates will recognise before November 24 that they have no realistic chance of winning the December electi...",
@@ -222,7 +269,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-23T07:12:09.360Z",
+      "collectedAt": "2026-11-23T20:05:55.131Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -239,7 +286,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T07:12:14.842Z",
-    "count": 10
+    "generatedAt": "2026-11-23T20:06:01.140Z",
+    "count": 12
   }
 }

@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "b73d0db3bbc41de7",
+      "title": "Modou Lamin Sima Pledges New Groundnut Seeds and Processing Plant",
+      "summary": "By Yankuba Jallow Modou Lamin Sima, presidential candidate for the Alliance of Progressive Citizens (APC), has promised to introduce higher-yielding groundnut seeds and build a factory to process groundnuts into oil if his party forms the next government. He made this promise ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/modou-lamin-sima-pledges-new-groundnut-seeds-and-processing-plant/",
+      "publishedAt": "2026-11-23T11:50:00.000Z",
+      "collectedAt": "2026-11-23T20:05:54.308Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "91f0cf710de60a6e",
+      "title": "APC Presidential Candidate Sima Pledges Groundnut Revolution, Year-Round Farming in North Bank",
+      "summary": "By Makutu Manneh Alliance of Progressive Citizens (APC) presidential candidate Modou Lamin Sima has pledged to transform agriculture in the North Bank Region through the introduction of improved groundnut varieties, year-round farming, and initiatives aimed at boosting local f...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/apc-presidential-candidate-sima-pledges-groundnut-revolution-year-round-farming-in-north-bank/",
+      "publishedAt": "2026-11-23T11:08:16.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bc574065cc06e526",
+      "title": "Bensouda Says Barrow Cannot Achieve in 15 Years What He Failed to Deliver in 10",
+      "summary": "Talib Ahmed Bensouda By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE and presidential candidate of Coalition 2026, has criticised President Adama Barrow’s development record, arguing that another five years in office would not enable him to accomplish what he has fai...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-barrow-cannot-achieve-in-15-years-what-he-failed-to-deliver-in-10/",
+      "publishedAt": "2026-11-23T10:53:09.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "36b9c28f1f754118",
       "title": "TAMBADOU TAKES ON POLICE AS FOREIGN INVESTORS FILE 9 COMPLAINTS IN BITCOIN TOWER FRAUD BATTLE",
       "summary": "Written by: Seringe ST Touray Veteran Gambian lawyer Sheriff Marie Tambadou, who is representing Austrian investor Manuel Di Stofleth-Mitterer, is leading his legal fight against the Gambia Police Force as the struggle over control of the unfinished Bitcoin Tower and The Edge ...",
@@ -216,7 +286,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T07:12:14.842Z",
-    "count": 9
+    "generatedAt": "2026-11-23T20:06:01.140Z",
+    "count": 12
   }
 }

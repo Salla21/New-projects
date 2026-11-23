@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "id": "5d7e725a75c0d006",
+      "title": "Almameh Gibba Accuses Government of Failing Gambians over AKI Deaths & Irregular Migration",
+      "summary": "By Nelson Manneh Presidential candidate Almameh Gibba has accused the government of failing Gambians, citing the deaths of dozens of children in public hospitals and the deaths of young people attempting to reach Europe by sea. Honourable Gibba made the remarks at a campaign r...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/almameh-gibba-accuses-government-of-failing-gambians-over-aki-deaths-irregular-migration/",
+      "publishedAt": "2026-11-23T12:10:00.000Z",
+      "collectedAt": "2026-11-23T20:05:54.308Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "81c077bc71db150b",
+      "title": "Talib Bensouda Pledges Jobs to End Backway",
+      "summary": "By Kebba A.F. Touray UNITE and Coalition 2026 presidential candidate Talib Ahmed Bensouda has pledged that his movement wants to end irregular migration to Europe by creating jobs in The Gambia. Bensouda made the pledge during campaign meetings on Friday, November 20, in Kunta...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/talib-bensouda-pledges-jobs-to-end-backway/",
+      "publishedAt": "2026-11-23T11:47:00.000Z",
+      "collectedAt": "2026-11-23T20:05:54.308Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1a02d0f34cefdc57",
+      "title": "Darboe: December 5 Is the Day to Heal Gambia’s “Wound”",
+      "summary": "ANM Ousainu Darboe By Seedy Jobe Gambia First Coalition-UDP-led Alliance presidential candidate Ousainou Darboe has told supporters in Diabugu Batapa that The Gambia has suffered from the same “wound” since 1996, and that voters must treat it on December 5. Speaking at a rally...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-december-5-is-the-day-to-heal-gambias-wound/",
+      "publishedAt": "2026-11-23T10:15:45.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "11ca830bf3944542",
       "title": "Darboe Pledges Visible Change in Fass If Elected",
       "summary": "ANM Ousainu Darboe By Seedy Jobe Gambia First Coalition presidential candidate Ousainou Darboe, who leads the UDP-led alliance, has assured residents of Fass that they will begin to see change the day after the 5 December election if they vote for him. Speaking in Fass during ...",
@@ -369,7 +442,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T07:12:14.842Z",
-    "count": 15
+    "generatedAt": "2026-11-23T20:06:01.140Z",
+    "count": 18
   }
 }

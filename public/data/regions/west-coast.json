@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "id": "b73d0db3bbc41de7",
+      "title": "Modou Lamin Sima Pledges New Groundnut Seeds and Processing Plant",
+      "summary": "By Yankuba Jallow Modou Lamin Sima, presidential candidate for the Alliance of Progressive Citizens (APC), has promised to introduce higher-yielding groundnut seeds and build a factory to process groundnuts into oil if his party forms the next government. He made this promise ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/modou-lamin-sima-pledges-new-groundnut-seeds-and-processing-plant/",
+      "publishedAt": "2026-11-23T11:50:00.000Z",
+      "collectedAt": "2026-11-23T20:05:54.308Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "91f0cf710de60a6e",
+      "title": "APC Presidential Candidate Sima Pledges Groundnut Revolution, Year-Round Farming in North Bank",
+      "summary": "By Makutu Manneh Alliance of Progressive Citizens (APC) presidential candidate Modou Lamin Sima has pledged to transform agriculture in the North Bank Region through the introduction of improved groundnut varieties, year-round farming, and initiatives aimed at boosting local f...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/apc-presidential-candidate-sima-pledges-groundnut-revolution-year-round-farming-in-north-bank/",
+      "publishedAt": "2026-11-23T11:08:16.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "acfd8f635e064a05",
+      "title": "Lamin J. Darboe Says December Election Will Usher in Good Governance for The Gambia",
+      "summary": "Lamin J Darbo By Seedy Jobe Team Gambia Grand Coalition presidential candidate Lamin J. Darboe has expressed confidence that the December 5 presidential election will mark the beginning of a new era of good governance in The Gambia. Speaking to supporters in Wuli Welingara Yar...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-j-darboe-says-december-election-will-usher-in-good-governance-for-the-gambia/",
+      "publishedAt": "2026-11-23T10:21:52.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c82ad2491141d63c",
       "title": "Analyst Questions Team Gambia’s Absence from Larger Opposition Coalitions",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has expressed surprise that the Team Gambia Grand Coalition has not joined one of the larger opposition alliances ahead of the December presidential election. Speaking on The Brunch show on Kerr Fatou on Saturday, Juwara noted th...",
@@ -267,7 +338,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-23T07:12:09.360Z",
+      "collectedAt": "2026-11-23T20:05:55.131Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -281,7 +352,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T07:12:14.842Z",
-    "count": 12
+    "generatedAt": "2026-11-23T20:06:01.140Z",
+    "count": 15
   }
 }

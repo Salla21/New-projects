@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "id": "91f0cf710de60a6e",
+      "title": "APC Presidential Candidate Sima Pledges Groundnut Revolution, Year-Round Farming in North Bank",
+      "summary": "By Makutu Manneh Alliance of Progressive Citizens (APC) presidential candidate Modou Lamin Sima has pledged to transform agriculture in the North Bank Region through the introduction of improved groundnut varieties, year-round farming, and initiatives aimed at boosting local f...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/apc-presidential-candidate-sima-pledges-groundnut-revolution-year-round-farming-in-north-bank/",
+      "publishedAt": "2026-11-23T11:08:16.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4eeaaba1b2327f04",
+      "title": "PAP Presidential Candidate Manneh Pledges to Return Fishing Trawlers to Gambian Ownership, Address Economic Hardship",
+      "summary": "Ebrima Tabora Manneh By Makutu Manneh Ebrima Tabora Manneh, presidential candidate of the People’s Alliance Party (PAP), has pledged to address economic hardship, unemployment and the rising cost of living if elected president in the December 5 presidential election. Speaking ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/pap-presidential-candidate-manneh-pledges-to-return-fishing-trawlers-to-gambian-ownership-address-economic-hardship/",
+      "publishedAt": "2026-11-23T10:58:23.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "bc574065cc06e526",
+      "title": "Bensouda Says Barrow Cannot Achieve in 15 Years What He Failed to Deliver in 10",
+      "summary": "Talib Ahmed Bensouda By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE and presidential candidate of Coalition 2026, has criticised President Adama Barrow’s development record, arguing that another five years in office would not enable him to accomplish what he has fai...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-says-barrow-cannot-achieve-in-15-years-what-he-failed-to-deliver-in-10/",
+      "publishedAt": "2026-11-23T10:53:09.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "acfd8f635e064a05",
+      "title": "Lamin J. Darboe Says December Election Will Usher in Good Governance for The Gambia",
+      "summary": "Lamin J Darbo By Seedy Jobe Team Gambia Grand Coalition presidential candidate Lamin J. Darboe has expressed confidence that the December 5 presidential election will mark the beginning of a new era of good governance in The Gambia. Speaking to supporters in Wuli Welingara Yar...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/lamin-j-darboe-says-december-election-will-usher-in-good-governance-for-the-gambia/",
+      "publishedAt": "2026-11-23T10:21:52.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1a02d0f34cefdc57",
+      "title": "Darboe: December 5 Is the Day to Heal Gambia’s “Wound”",
+      "summary": "ANM Ousainu Darboe By Seedy Jobe Gambia First Coalition-UDP-led Alliance presidential candidate Ousainou Darboe has told supporters in Diabugu Batapa that The Gambia has suffered from the same “wound” since 1996, and that voters must treat it on December 5. Speaking at a rally...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-december-5-is-the-day-to-heal-gambias-wound/",
+      "publishedAt": "2026-11-23T10:15:45.000Z",
+      "collectedAt": "2026-11-23T20:05:57.029Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8b93945876886a28",
       "title": "Isatou Touray Pledges to Prioritise New Constitution if Elected President",
       "summary": "Dr. Isatou Touray By Fatou Sillah Independent presidential candidate and former Vice President Dr. Isatou Touray has pledged to prioritise the introduction of a new constitution if elected president in The Gambia’s December 5, 2026, presidential election. Speaking to supporter...",
@@ -1019,7 +1139,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T07:12:14.842Z",
-    "count": 43
+    "generatedAt": "2026-11-23T20:06:01.140Z",
+    "count": 48
   }
 }
