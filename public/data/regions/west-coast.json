@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "cf0926f5bfe05949",
+      "title": "APC Presidential Candidate Sima Questions Gambia’s Growing Dependence on Imports",
+      "summary": "By Makutu Manneh Modou Lamin Sima, presidential candidate of the Alliance of Progressive Citizens (APC), has questioned The Gambia’s growing dependence on imported essential commodities, particularly rice and cooking oil, amid rising living costs and increasing economic hardsh...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/apc-presidential-candidate-sima-questions-gambias-growing-dependence-on-imports/",
+      "publishedAt": "2026-11-24T01:21:25.000Z",
+      "collectedAt": "2026-11-24T05:52:04.059Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b73d0db3bbc41de7",
       "title": "Modou Lamin Sima Pledges New Groundnut Seeds and Processing Plant",
       "summary": "By Yankuba Jallow Modou Lamin Sima, presidential candidate for the Alliance of Progressive Citizens (APC), has promised to introduce higher-yielding groundnut seeds and build a factory to process groundnuts into oil if his party forms the next government. He made this promise ...",
@@ -282,54 +306,6 @@
       "status": "published"
     },
     {
-      "id": "34bb3e204d76741d",
-      "title": "Team Gambia Flagbearer Darboe Pledges Single Term if Elected in December",
-      "summary": "By Makutu Manneh Lamin J. Darboe, presidential candidate of the Team Gambia Grand Coalition, has pledged to serve only one term if he wins the December election. Addressing supporters at a campaign rally in Ndungu Kebbeh, Darboe said he would organise an election at the end of...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/team-gambia-flagbearer-darboe-pledges-single-term-if-elected-in-december/",
-      "publishedAt": "2026-11-18T05:54:28.000Z",
-      "collectedAt": "2026-11-18T12:55:18.521Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5d490bd52d943f70",
-      "title": "Team Gambia’s Dr Lamin J. Darbo Calls for Peaceful Presidential Campaign",
-      "summary": "By Yankuba Jallow Team Gambia Grand Coalition presidential candidate Dr Lamin J. Darbo has urged candidates and political leaders to guide their supporters’ conduct, warning that a lack of restraint could turn political tension into disorder. Speaking at the signing of the Jan...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/team-gambias-dr-lamin-j-darbo-calls-for-peaceful-presidential-campaign/",
-      "publishedAt": "2026-11-17T11:29:00.000Z",
-      "collectedAt": "2026-11-17T20:45:36.377Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7df537de5df55004",
       "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
       "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
@@ -338,7 +314,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-23T20:05:55.131Z",
+      "collectedAt": "2026-11-24T05:52:01.804Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -352,7 +328,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T20:06:01.140Z",
-    "count": 15
+    "generatedAt": "2026-11-24T05:52:08.160Z",
+    "count": 14
   }
 }

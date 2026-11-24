@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "eb5730f7f7c096c0",
+      "title": "Darboe Says Campaign Trail Reflects Growing Determination for Change of Government in December",
+      "summary": "By Seedy Jobe Gambia First Coalition–UDP-led Alliance presidential candidate ANM Ousainu Darboe says the enthusiasm and turnout witnessed during his campaign tour demonstrate what he describes as a growing determination among Gambians to vote for a change of government in the ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-campaign-trail-reflects-growing-determination-for-change-of-government-in-december/",
+      "publishedAt": "2026-11-24T01:18:32.000Z",
+      "collectedAt": "2026-11-24T05:52:04.059Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5d7e725a75c0d006",
       "title": "Almameh Gibba Accuses Government of Failing Gambians over AKI Deaths & Irregular Migration",
       "summary": "By Nelson Manneh Presidential candidate Almameh Gibba has accused the government of failing Gambians, citing the deaths of dozens of children in public hospitals and the deaths of young people attempting to reach Europe by sea. Honourable Gibba made the remarks at a campaign r...",
@@ -391,58 +415,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "24aab77c98b85d10",
-      "title": "Darboe Welcomes Labour Party Endorsement, Urges Unity to Dispel Mistrust",
-      "summary": "By Seedy Jobe UDP Secretary General and party leader Ousainu Darboe has welcomed the Gambia Labour Party’s endorsement of his candidacy, describing it as a patriotic sacrifice made for the future of The Gambia rather than for personal gain. Mr. Darboe spoke after Labour Party ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-welcomes-labour-party-endorsement-urges-unity-to-dispel-mistrust/",
-      "publishedAt": "2026-11-17T22:09:00.000Z",
-      "collectedAt": "2026-11-18T03:34:50.392Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "02c6a90c610480e4",
-      "title": "UDP’s Lawyer Darboe Says Peace Pact Must Be More Than a Ceremony",
-      "summary": "By Yankuba Jallow United Democratic Party leader and presidential candidate A.N.M. Ousainou Darboe has urged political leaders to honour every part of the Janjanbureh Peace Accord, warning that signing the document would mean little if candidates later acted against its commit...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/udps-lawyer-darboe-says-peace-pact-must-be-more-than-a-ceremony/",
-      "publishedAt": "2026-11-17T11:38:00.000Z",
-      "collectedAt": "2026-11-17T20:45:36.377Z",
-      "region": "central-river",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T20:06:01.140Z",
-    "count": 18
+    "generatedAt": "2026-11-24T05:52:08.160Z",
+    "count": 17
   }
 }

@@ -349,56 +349,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "17e9225ce161024a",
-      "title": "Germany backs child heart care at EFSTH with €18,000 equipment, training programme",
-      "summary": "By Hadram Hydara Germany has provided €18,000 in support to the Paediatric Emergency Unit of the Edward Francis Small Teaching Hospital (EFSTH), funding a specialised echocardiography machine, expert medical support from Germany and training aimed at improving the diagnosis of...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/germany-backs-child-heart-care-at-efsth-with-e18000-equipment-training-programme/",
-      "publishedAt": "2026-11-17T19:53:47.000Z",
-      "collectedAt": "2026-11-17T20:45:37.145Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7abad3b6057162e0",
-      "title": "NDP in Advanced Talks to Endorse UDP Following IEC Nomination Rejection",
-      "summary": "The opposition National Democratic Party (NDP), led by Kebba Madi Bojang, is in advanced talks to endorse the United Democratic Party (UDP) ahead of the December 5th presidential election, according to a senior party source. The discussions follow the Independent Electoral Com...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ndp-in-advanced-talks-to-endorse-udp-following-iec-nomination-rejection/",
-      "publishedAt": "2026-11-17T13:15:15.000Z",
-      "collectedAt": "2026-11-17T20:45:37.145Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T20:06:01.140Z",
-    "count": 17
+    "generatedAt": "2026-11-24T05:52:08.160Z",
+    "count": 15
   }
 }

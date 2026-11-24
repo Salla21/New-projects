@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "cf0926f5bfe05949",
+      "title": "APC Presidential Candidate Sima Questions Gambia’s Growing Dependence on Imports",
+      "summary": "By Makutu Manneh Modou Lamin Sima, presidential candidate of the Alliance of Progressive Citizens (APC), has questioned The Gambia’s growing dependence on imported essential commodities, particularly rice and cooking oil, amid rising living costs and increasing economic hardsh...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/apc-presidential-candidate-sima-questions-gambias-growing-dependence-on-imports/",
+      "publishedAt": "2026-11-24T01:21:25.000Z",
+      "collectedAt": "2026-11-24T05:52:04.059Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8fbe67fba7320976",
+      "title": "Barrow Accuses Opposition of Opposing Development, Urges Sare Yoro Golori Residents to Support His Re-election",
+      "summary": "By Makutu Manneh President Adama Barrow has accused opposition politicians of opposing his government’s development initiatives, claiming they fear that continued progress under his administration would undermine their chances of winning the presidency. Speaking at a campaign ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-accuses-opposition-of-opposing-development-urges-sare-yoro-golori-residents-to-support-his-re-election/",
+      "publishedAt": "2026-11-23T22:27:40.000Z",
+      "collectedAt": "2026-11-24T05:52:04.059Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b73d0db3bbc41de7",
       "title": "Modou Lamin Sima Pledges New Groundnut Seeds and Processing Plant",
       "summary": "By Yankuba Jallow Modou Lamin Sima, presidential candidate for the Alliance of Progressive Citizens (APC), has promised to introduce higher-yielding groundnut seeds and build a factory to process groundnuts into oil if his party forms the next government. He made this promise ...",
@@ -286,7 +334,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T20:06:01.140Z",
-    "count": 12
+    "generatedAt": "2026-11-24T05:52:08.160Z",
+    "count": 14
   }
 }

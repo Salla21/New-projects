@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "eb5730f7f7c096c0",
+      "title": "Darboe Says Campaign Trail Reflects Growing Determination for Change of Government in December",
+      "summary": "By Seedy Jobe Gambia First Coalition–UDP-led Alliance presidential candidate ANM Ousainu Darboe says the enthusiasm and turnout witnessed during his campaign tour demonstrate what he describes as a growing determination among Gambians to vote for a change of government in the ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-says-campaign-trail-reflects-growing-determination-for-change-of-government-in-december/",
+      "publishedAt": "2026-11-24T01:18:32.000Z",
+      "collectedAt": "2026-11-24T05:52:04.059Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "8fbe67fba7320976",
+      "title": "Barrow Accuses Opposition of Opposing Development, Urges Sare Yoro Golori Residents to Support His Re-election",
+      "summary": "By Makutu Manneh President Adama Barrow has accused opposition politicians of opposing his government’s development initiatives, claiming they fear that continued progress under his administration would undermine their chances of winning the presidency. Speaking at a campaign ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-accuses-opposition-of-opposing-development-urges-sare-yoro-golori-residents-to-support-his-re-election/",
+      "publishedAt": "2026-11-23T22:27:40.000Z",
+      "collectedAt": "2026-11-24T05:52:04.059Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "15705f6e733baa40",
       "title": "Halifa Sallah Questions Sustainability of Road Projects as Debt Payments Continue to Rise",
       "summary": "By Yankuba Jallow Honourable Halifa Sallah has questioned whether the government can sustain its road construction programme, saying the projects are being paid for with public funds and that growing debt payments could leave less money for development. Speaking at a Team Gamb...",
@@ -1660,192 +1708,6 @@
       "status": "published"
     },
     {
-      "id": "88c8f19fb1592159",
-      "title": "Bensouda Pledges Banjul-Barra Bridge Within a Decade if Elected",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, the presidential candidate of Coalition 2026, has pledged to build a bridge linking Banjul and Barra before 2036 if elected, saying the project would unlock the economic potential of the North Bank Region. Speaking at spot meetings in Essa...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-banjul-barra-bridge-within-a-decade-if-elected/",
-      "publishedAt": "2026-11-18T05:52:47.000Z",
-      "collectedAt": "2026-11-18T12:55:18.521Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "b6ba690f1b1b267a",
-      "title": "Independent Candidate Touray Dismisses CepRass Poll as “Guesstimate,” Calls Herself a “Game Changer”",
-      "summary": "By Makutu Manneh Independent presidential candidate Dr. Isatou Touray has dismissed the findings of the CepRass poll as guesstimates, describing herself as a “game changer” in the 2026 presidential election. “I respect the CepRass poll, but these are guesstimates,” she said du...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/independent-candidate-touray-dismisses-ceprass-poll-as-guesstimate-calls-herself-a-game-changer/",
-      "publishedAt": "2026-11-17T22:23:27.000Z",
-      "collectedAt": "2026-11-18T03:34:50.392Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "f7021f46ca47e758",
-      "title": "Bensouda Calls for Honesty and Clear Development Plans in Politics",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE and presidential candidate of Coalition 2026, has urged politicians to be truthful with voters and explain their development plans rather than make promises they cannot fulfil. Addressing a political rally in Manduar, Benso...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-calls-for-honesty-and-clear-development-plans-in-politics/",
-      "publishedAt": "2026-11-17T22:11:44.000Z",
-      "collectedAt": "2026-11-18T03:34:50.392Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "24aab77c98b85d10",
-      "title": "Darboe Welcomes Labour Party Endorsement, Urges Unity to Dispel Mistrust",
-      "summary": "By Seedy Jobe UDP Secretary General and party leader Ousainu Darboe has welcomed the Gambia Labour Party’s endorsement of his candidacy, describing it as a patriotic sacrifice made for the future of The Gambia rather than for personal gain. Mr. Darboe spoke after Labour Party ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-welcomes-labour-party-endorsement-urges-unity-to-dispel-mistrust/",
-      "publishedAt": "2026-11-17T22:09:00.000Z",
-      "collectedAt": "2026-11-18T03:34:50.392Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "17e9225ce161024a",
-      "title": "Germany backs child heart care at EFSTH with €18,000 equipment, training programme",
-      "summary": "By Hadram Hydara Germany has provided €18,000 in support to the Paediatric Emergency Unit of the Edward Francis Small Teaching Hospital (EFSTH), funding a specialised echocardiography machine, expert medical support from Germany and training aimed at improving the diagnosis of...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/germany-backs-child-heart-care-at-efsth-with-e18000-equipment-training-programme/",
-      "publishedAt": "2026-11-17T19:53:47.000Z",
-      "collectedAt": "2026-11-17T20:45:37.145Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "7abad3b6057162e0",
-      "title": "NDP in Advanced Talks to Endorse UDP Following IEC Nomination Rejection",
-      "summary": "The opposition National Democratic Party (NDP), led by Kebba Madi Bojang, is in advanced talks to endorse the United Democratic Party (UDP) ahead of the December 5th presidential election, according to a senior party source. The discussions follow the Independent Electoral Com...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ndp-in-advanced-talks-to-endorse-udp-following-iec-nomination-rejection/",
-      "publishedAt": "2026-11-17T13:15:15.000Z",
-      "collectedAt": "2026-11-17T20:45:37.145Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "50ac2f163a8376a7",
-      "title": "Opinion Poll Puts President Barrow Ahead with 38%",
-      "summary": "Cost of Living Tops Voters’ Concerns  By Mariama Marong  A new nationwide opinion poll has placed President Adama Barrow’s NPP-led alliance ahead in stated voting intention.  The survey also revealed that economic hardship, electricity supply and fears about election-related v...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/opinion-poll-puts-president-barrow-ahead-with-38/",
-      "publishedAt": "2026-11-17T12:00:00.000Z",
-      "collectedAt": "2026-11-17T20:45:36.377Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "8c40e903ec37bb27",
-      "title": "Dr Isatou Touray Says Political Differences Must Not Divide Gambians",
-      "summary": "By Yankuba Jallow Independent presidential candidate Dr Isatou Touray has urged candidates to keep political competition focused on ideas and policies, saying their differences should not outweigh their shared responsibility to The Gambia. Speaking at the signing of the Janjan...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/dr-isatou-touray-says-political-differences-must-not-divide-gambians/",
-      "publishedAt": "2026-11-17T11:49:00.000Z",
-      "collectedAt": "2026-11-17T20:45:36.377Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "57a0f91f5809e6a9",
       "title": "Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her",
       "summary": "A Brusubi Turntable afra seller is facing allegations of abandoning his former assistant after she reportedly…\nThe post Brusubi Turntable Afra Seller Allegedly Dumps Assistant After Impregnating Her appeared first on What's On Gambia.",
@@ -1854,7 +1716,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-23T20:05:55.131Z",
+      "collectedAt": "2026-11-24T05:52:01.804Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1877,7 +1739,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-23T20:05:55.131Z",
+      "collectedAt": "2026-11-24T05:52:01.804Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -1901,7 +1763,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/everything-is-getting-more-expensive-but-bag-of-salt-remains-d200-why/",
       "publishedAt": "2026-10-28T03:13:12.000Z",
-      "collectedAt": "2026-11-23T20:05:55.131Z",
+      "collectedAt": "2026-11-24T05:52:01.804Z",
       "region": "banjul",
       "categories": [
         "politics"
@@ -1924,7 +1786,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambian-music-goes-boring-no-beef-no-drama-no-buzz/",
       "publishedAt": "2026-10-28T03:09:34.000Z",
-      "collectedAt": "2026-11-23T20:05:55.131Z",
+      "collectedAt": "2026-11-24T05:52:01.804Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1945,7 +1807,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/busumbala-tailor-arrested-over-alleged-grpe-of-apprentice/",
       "publishedAt": "2026-10-28T03:06:08.000Z",
-      "collectedAt": "2026-11-23T20:05:55.131Z",
+      "collectedAt": "2026-11-24T05:52:01.804Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1959,7 +1821,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T20:06:01.140Z",
-    "count": 84
+    "generatedAt": "2026-11-24T05:52:08.160Z",
+    "count": 78
   }
 }
