@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "9d7e0eae39e0bd0b",
+      "title": "Water Resources Department Says 2026 Rainfall Lowest Since 2020",
+      "summary": "By Madiba Singhateh The Department of Water Resources says The Gambia’s 2026 rainfall season recorded the lowest rainfall since 2020. The season also had dry spells at the beginning and end, which could affect farmers during the dry season. Mr Tijani Bojang, a senior official ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/water-resources-department-says-2026-rainfall-lowest-since-2020/",
+      "publishedAt": "2026-11-24T12:04:00.000Z",
+      "collectedAt": "2026-11-24T17:27:10.533Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cf0926f5bfe05949",
       "title": "APC Presidential Candidate Sima Questions Gambia’s Growing Dependence on Imports",
       "summary": "By Makutu Manneh Modou Lamin Sima, presidential candidate of the Alliance of Progressive Citizens (APC), has questioned The Gambia’s growing dependence on imported essential commodities, particularly rice and cooking oil, amid rising living costs and increasing economic hardsh...",
@@ -334,7 +355,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T05:52:08.160Z",
-    "count": 14
+    "generatedAt": "2026-11-24T17:27:17.482Z",
+    "count": 15
   }
 }

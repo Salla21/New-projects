@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "a0d8034277b9bd92",
+      "title": "APC’s Modou Lamin Sima Pledges to Cut Food Imports & Expand Local Production",
+      "summary": "By Yankuba Jallow APC presidential candidate Modou Lamin Sima has pledged to reduce food imports, expand local production and build factories to process groundnuts into oil if elected. Speaking at campaign rallies in Sabach Sanjal and Kaur, Sima said poverty, high living costs...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apcs-modou-lamin-sima-pledges-to-cut-food-imports-expand-local-production/",
+      "publishedAt": "2026-11-24T11:55:00.000Z",
+      "collectedAt": "2026-11-24T17:27:10.533Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6edd9e6bad9161ee",
+      "title": "Lamin J. Darbo pledges to end self-perpetuating rule in The Gambia",
+      "summary": "By Yankuba Jallow Dr Lamin J. Darbo, presidential candidate for the Team Gambia Grand Coalition, has repeated his promise to serve for one five-year term if elected and not contest the following election.  “If you vote for me, I will serve one term and won’t seek re-election a...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/lamin-j-darbo-pledges-to-end-self-perpetuating-rule-in-the-gambia/",
+      "publishedAt": "2026-11-24T11:43:00.000Z",
+      "collectedAt": "2026-11-24T17:27:10.533Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cf0926f5bfe05949",
       "title": "APC Presidential Candidate Sima Questions Gambia’s Growing Dependence on Imports",
       "summary": "By Makutu Manneh Modou Lamin Sima, presidential candidate of the Alliance of Progressive Citizens (APC), has questioned The Gambia’s growing dependence on imported essential commodities, particularly rice and cooking oil, amid rising living costs and increasing economic hardsh...",
@@ -314,7 +361,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-24T05:52:01.804Z",
+      "collectedAt": "2026-11-24T17:27:10.751Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -328,7 +375,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T05:52:08.160Z",
-    "count": 14
+    "generatedAt": "2026-11-24T17:27:17.482Z",
+    "count": 16
   }
 }

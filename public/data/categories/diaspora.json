@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9fbc69ead077439d",
+      "title": "UDP’s Ousainou Darboe Says Gambians Must Not Face Discrimination over Ethnicity",
+      "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou A.N.M. Darboe has criticised political statements threatening to drive people out of The Gambia, saying citizens should not be targeted because of their ethnic backgroun...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/udps-ousainou-darboe-says-gambians-must-not-face-discrimination-over-ethnicity/",
+      "publishedAt": "2026-11-24T11:49:00.000Z",
+      "collectedAt": "2026-11-24T17:27:10.533Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "eb5730f7f7c096c0",
       "title": "Darboe Says Campaign Trail Reflects Growing Determination for Change of Government in December",
       "summary": "By Seedy Jobe Gambia First Coalition–UDP-led Alliance presidential candidate ANM Ousainu Darboe says the enthusiasm and turnout witnessed during his campaign tour demonstrate what he describes as a growing determination among Gambians to vote for a change of government in the ...",
@@ -418,7 +442,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T05:52:08.160Z",
-    "count": 17
+    "generatedAt": "2026-11-24T17:27:17.482Z",
+    "count": 18
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8c0864f81da5e62f",
+      "title": "Gibba Warns of Unprecedented Border Conflict if Barrow Is Re-elected",
+      "summary": "By Seedy Jobe The presidential candidate of the No-To-Alliance Movement, Hon. Almameh Gibba, has warned that Gambians could live to regret re-electing President Adama Barrow, alleging that a second Barrow victory could lead to unprecedented fighting along The Gambia’s southern...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gibba-warns-of-unprecedented-border-conflict-if-barrow-is-re-elected/",
+      "publishedAt": "2026-11-24T14:27:33.000Z",
+      "collectedAt": "2026-11-24T17:27:13.315Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7c8f4549aba81a48",
       "title": "Archaeologists Find Human Skeleton Near Sangule Village",
       "summary": "By Hatab Nyang Archaeologists have found a human skeleton at an excavation site near Sangule village in Nianija District, Central River Region. Researchers estimate the remains are between 250 and 300 years old, but further tests are planned to determine their age. The discove...",
@@ -269,7 +293,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-24T05:52:01.804Z",
+      "collectedAt": "2026-11-24T17:27:10.751Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -286,7 +310,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T05:52:08.160Z",
-    "count": 12
+    "generatedAt": "2026-11-24T17:27:17.482Z",
+    "count": 13
   }
 }

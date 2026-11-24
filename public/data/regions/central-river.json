@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "db0e27b39592237d",
+      "title": "Talib Bensouda Says Campaign Will Focus on Poverty, Hunger and Jobs",
+      "summary": "By Kebba A.F. Touray UNITE and Coalition 2026 presidential candidate Talib Ahmed Bensouda has said his campaign will focus on poverty, hunger, access to healthcare and unemployment. He spoke at a meeting in Niamina Dankunku, Central River Region, on Monday, November 23, during...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/talib-bensouda-says-campaign-will-focus-on-poverty-hunger-and-jobs/",
+      "publishedAt": "2026-11-24T11:46:00.000Z",
+      "collectedAt": "2026-11-24T17:27:10.533Z",
+      "region": "central-river",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "0b73f4504550e796",
       "title": "Barrow Touts 10 Years of Governance Experience, Says Only He Has the Licence to Drive The Gambia",
       "summary": "By Makutu Manneh President Adama Barrow has touted his decade of experience in governing The Gambia, saying it has equipped him with the knowledge, courage and expertise needed to deliver unprecedented development across the country. Speaking at a campaign rally in Janjanbureh...",
@@ -95,7 +119,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T05:52:08.160Z",
-    "count": 4
+    "generatedAt": "2026-11-24T17:27:17.482Z",
+    "count": 5
   }
 }

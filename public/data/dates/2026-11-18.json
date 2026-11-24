@@ -540,7 +540,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/drama-25-year-old-man-allegedly-caught-in-bed-with-stepmothers-18-year-old-daughter/",
       "publishedAt": "2026-11-18T07:26:46.000Z",
-      "collectedAt": "2026-11-18T12:55:16.288Z",
+      "collectedAt": "2026-11-24T17:27:10.751Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -563,7 +563,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambians-snub-chella-nigerian-stars-debut-concert-suffers-poor-turnout/",
       "publishedAt": "2026-11-18T07:23:29.000Z",
-      "collectedAt": "2026-11-18T12:55:16.288Z",
+      "collectedAt": "2026-11-24T17:27:10.751Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -584,7 +584,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/from-studio-partners-to-rivals-what-really-happened-between-an2-and-attack/",
       "publishedAt": "2026-11-18T07:21:17.000Z",
-      "collectedAt": "2026-11-18T12:55:16.288Z",
+      "collectedAt": "2026-11-24T17:27:10.751Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -595,34 +595,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "87761fab24b3c467",
-      "title": "Isatou Touray Pledges New Constitution, Jobs and Stable Power if Elected",
-      "summary": "By Fatou Sillah Independent presidential candidate Dr Isatou Touray has pledged to introduce a new constitution, create jobs for young people and stabilise the country’s electricity supply if she wins the 5 December presidential election. Addressing supporters at Sotokoi, Dr T...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/isatou-touray-pledges-new-constitution-jobs-and-stable-power-if-elected/",
-      "publishedAt": "2026-11-18T06:11:57.000Z",
-      "collectedAt": "2026-11-18T12:55:18.521Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T05:52:08.160Z",
-    "count": 27
+    "generatedAt": "2026-11-24T17:27:17.482Z",
+    "count": 26
   }
 }

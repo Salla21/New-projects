@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8c0864f81da5e62f",
+      "title": "Gibba Warns of Unprecedented Border Conflict if Barrow Is Re-elected",
+      "summary": "By Seedy Jobe The presidential candidate of the No-To-Alliance Movement, Hon. Almameh Gibba, has warned that Gambians could live to regret re-electing President Adama Barrow, alleging that a second Barrow victory could lead to unprecedented fighting along The Gambia’s southern...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/gibba-warns-of-unprecedented-border-conflict-if-barrow-is-re-elected/",
+      "publishedAt": "2026-11-24T14:27:33.000Z",
+      "collectedAt": "2026-11-24T17:27:13.315Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "cf0926f5bfe05949",
       "title": "APC Presidential Candidate Sima Questions Gambia’s Growing Dependence on Imports",
       "summary": "By Makutu Manneh Modou Lamin Sima, presidential candidate of the Alliance of Progressive Citizens (APC), has questioned The Gambia’s growing dependence on imported essential commodities, particularly rice and cooking oil, amid rising living costs and increasing economic hardsh...",
@@ -1041,34 +1065,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "87761fab24b3c467",
-      "title": "Isatou Touray Pledges New Constitution, Jobs and Stable Power if Elected",
-      "summary": "By Fatou Sillah Independent presidential candidate Dr Isatou Touray has pledged to introduce a new constitution, create jobs for young people and stabilise the country’s electricity supply if she wins the 5 December presidential election. Addressing supporters at Sotokoi, Dr T...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/isatou-touray-pledges-new-constitution-jobs-and-stable-power-if-elected/",
-      "publishedAt": "2026-11-18T06:11:57.000Z",
-      "collectedAt": "2026-11-18T12:55:18.521Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T05:52:08.160Z",
+    "generatedAt": "2026-11-24T17:27:17.482Z",
     "count": 45
   }
 }
