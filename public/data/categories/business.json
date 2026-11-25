@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "afdf5b8c5343b12a",
+      "title": "President Barrow Criticises UNITE Leader, Announces Development Pledges in Galla Mande",
+      "summary": "By Makutu Manneh President Adama Barrow has criticised UNITE presidential candidate and former Mayor of the Kanifing Municipal Council (KMC), Talib Ahmed Bensouda, during a meeting with residents of Galla Mande, where a group of villagers reportedly defected from UNITE to the ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-criticises-unite-leader-announces-development-pledges-in-galla-mande/",
+      "publishedAt": "2026-11-24T21:34:09.000Z",
+      "collectedAt": "2026-11-25T02:12:31.383Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "3b7440f6e367f853",
+      "title": "The Robe and the Lens: Balancing Judicial Authority and Press Freedom",
+      "summary": "OPINION/LEGAL ANALYSIS By Sarjo Barrow, Esq. Two freedoms, one courthouse Since 2017, The Gambia has changed in ways many once thought unlikely. Journalists now report, question and criticize with a freedom difficult to imagine a decade ago. Our courts, in my view, have also r...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-robe-and-the-lens-balancing-judicial-authority-and-press-freedom/",
+      "publishedAt": "2026-11-24T19:46:08.000Z",
+      "collectedAt": "2026-11-25T02:12:29.091Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "605966e3aa88945e",
       "title": "Almameh Gibba Promises Salaries for Imams, Priests and Pastors if Elected",
       "summary": "By Nelson Manneh Independent presidential candidate Almameh Gibba has promised to introduce monthly salaries for imams, priests and pastors if elected on December 5. Speaking to supporters, the APRC No-To-Alliance Movement flagbearer said paying religious leaders would be amon...",
@@ -1037,78 +1085,6 @@
       "status": "published"
     },
     {
-      "id": "946c9af017f68be9",
-      "title": "APRC No-To-Alliance’s Almameh Manneh Says ‘The Gambia First’ Must Come Before Political Ambition",
-      "summary": "By Yankuba Jallow Independent presidential candidate Almameh Gibba for the APRC faction called APRC No-To-Alliance has urged candidates and their supporters to protect peace and national unity during the campaign for the December 5 election. Speaking at the signing of the Janj...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/aprc-no-to-alliances-almameh-manneh-says-the-gambia-first-must-come-before-political-ambition/",
-      "publishedAt": "2026-11-18T11:34:00.000Z",
-      "collectedAt": "2026-11-18T12:55:15.955Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "ea641ea68b96c84e",
-      "title": "APC’s Modou Lamin Sima Says Peace Requires Justice",
-      "summary": "By Yankuba Jallow Alliance of Progressive Citizens (APC) leader Modou Lamin Sima has said lasting peace in The Gambia depends on justice and urged political leaders to guide their supporters during the election campaign. Speaking at the signing of the Janjanbureh Peace Accord ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/apcs-modou-lamin-sima-says-peace-requires-justice/",
-      "publishedAt": "2026-11-18T11:32:00.000Z",
-      "collectedAt": "2026-11-18T12:55:15.955Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6457fa61e131bace",
-      "title": "PAP’s Ebrima Tabora Manneh Says Political Ambition Must Not Divide Gambians",
-      "summary": "By Yankuba Jallow People’s Alliance Party presidential candidate Ebrima Tabora Manneh has urged political leaders and supporters to protect peace during the election campaign, saying the country is more important than any candidate’s ambition. Speaking at the signing ceremony ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/paps-ebrima-tabora-manneh-says-political-ambition-must-not-divide-gambians/",
-      "publishedAt": "2026-11-18T11:28:00.000Z",
-      "collectedAt": "2026-11-18T12:55:15.955Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f24f4bdce172e0a6",
       "title": "DRAMA! 25-Year-Old Man Allegedly Caught in Bed With Stepmother’s 18-Year-Old Daughter",
       "summary": "A family scandal has reportedly erupted in Faji Kunda after a Sierra Leonean-born man, aged between…\nThe post DRAMA! 25-Year-Old Man Allegedly Caught in Bed With Stepmother’s 18-Year-Old Daughter appeared first on What's On Gambia.",
@@ -1117,7 +1093,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/drama-25-year-old-man-allegedly-caught-in-bed-with-stepmothers-18-year-old-daughter/",
       "publishedAt": "2026-11-18T07:26:46.000Z",
-      "collectedAt": "2026-11-24T17:27:10.751Z",
+      "collectedAt": "2026-11-25T02:12:28.857Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1140,7 +1116,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-24T17:27:10.751Z",
+      "collectedAt": "2026-11-25T02:12:28.857Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1156,7 +1132,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T17:27:17.482Z",
-    "count": 48
+    "generatedAt": "2026-11-25T02:12:35.505Z",
+    "count": 47
   }
 }

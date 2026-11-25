@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e8e6525c1a3bfca4",
+      "title": "Barrow Predicts Victory in Fulladu, Takes Credit for Strengthening Gambia’s Democracy",
+      "summary": "By Makutu Manneh President Adama Barrow has expressed confidence in securing victory in Fulladu in the December 5 presidential election, crediting his administration with strengthening democracy in The Gambia and creating an enabling political environment for his opponents to ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-predicts-victory-in-fulladu-takes-credit-for-strengthening-gambias-democracy/",
+      "publishedAt": "2026-11-24T21:36:56.000Z",
+      "collectedAt": "2026-11-25T02:12:31.383Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "8c0864f81da5e62f",
       "title": "Gibba Warns of Unprecedented Border Conflict if Barrow Is Re-elected",
       "summary": "By Seedy Jobe The presidential candidate of the No-To-Alliance Movement, Hon. Almameh Gibba, has warned that Gambians could live to regret re-electing President Adama Barrow, alleging that a second Barrow victory could lead to unprecedented fighting along The Gambia’s southern...",
@@ -293,7 +317,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
       "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-24T17:27:10.751Z",
+      "collectedAt": "2026-11-25T02:12:28.857Z",
       "region": "banjul",
       "categories": [
         "politics",
@@ -310,7 +334,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T17:27:17.482Z",
-    "count": 13
+    "generatedAt": "2026-11-25T02:12:35.505Z",
+    "count": 14
   }
 }

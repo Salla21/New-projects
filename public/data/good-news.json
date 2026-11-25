@@ -328,34 +328,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "ea641ea68b96c84e",
-      "title": "APC’s Modou Lamin Sima Says Peace Requires Justice",
-      "summary": "By Yankuba Jallow Alliance of Progressive Citizens (APC) leader Modou Lamin Sima has said lasting peace in The Gambia depends on justice and urged political leaders to guide their supporters during the election campaign. Speaking at the signing of the Janjanbureh Peace Accord ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/apcs-modou-lamin-sima-says-peace-requires-justice/",
-      "publishedAt": "2026-11-18T11:32:00.000Z",
-      "collectedAt": "2026-11-18T12:55:15.955Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T17:27:17.482Z",
-    "count": 15
+    "generatedAt": "2026-11-25T02:12:35.505Z",
+    "count": 14
   }
 }

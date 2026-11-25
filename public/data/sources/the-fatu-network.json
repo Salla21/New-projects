@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3b7440f6e367f853",
+      "title": "The Robe and the Lens: Balancing Judicial Authority and Press Freedom",
+      "summary": "OPINION/LEGAL ANALYSIS By Sarjo Barrow, Esq. Two freedoms, one courthouse Since 2017, The Gambia has changed in ways many once thought unlikely. Journalists now report, question and criticize with a freedom difficult to imagine a decade ago. Our courts, in my view, have also r...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/the-robe-and-the-lens-balancing-judicial-authority-and-press-freedom/",
+      "publishedAt": "2026-11-24T19:46:08.000Z",
+      "collectedAt": "2026-11-25T02:12:29.091Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "d1ea1f91241d489f",
       "title": "Bensouda Pledges Death Penalty Enforcement, Justice Reforms",
       "summary": "By Mama A Touray Coalition 2026 leader Talib Ahmed Bensouda has pledged to enforce the death penalty for murder and reform The Gambia’s justice system if elected president, making security and governance central themes of his campaign in the Central River Region. Addressing su...",
@@ -352,7 +376,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T17:27:17.482Z",
-    "count": 15
+    "generatedAt": "2026-11-25T02:12:35.505Z",
+    "count": 16
   }
 }

@@ -306,53 +306,6 @@
       "status": "published"
     },
     {
-      "id": "ea641ea68b96c84e",
-      "title": "APC’s Modou Lamin Sima Says Peace Requires Justice",
-      "summary": "By Yankuba Jallow Alliance of Progressive Citizens (APC) leader Modou Lamin Sima has said lasting peace in The Gambia depends on justice and urged political leaders to guide their supporters during the election campaign. Speaking at the signing of the Janjanbureh Peace Accord ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/apcs-modou-lamin-sima-says-peace-requires-justice/",
-      "publishedAt": "2026-11-18T11:32:00.000Z",
-      "collectedAt": "2026-11-18T12:55:15.955Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "3aecc6b72fbfbc49",
-      "title": "Man Accused of Threatening to Kill Sister Granted Bail",
-      "summary": "By Louise Jobe Amadou Sanno has pleaded not guilty to a charge of threatening to kill his sister with a knife and an iron. The allegation was brought before Magistrate K. Sambou at the Brikama Magistrates’ Court. Sanno appeared without a lawyer when the case was called for ple...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/man-accused-of-threatening-to-kill-sister-granted-bail/",
-      "publishedAt": "2026-11-18T11:25:00.000Z",
-      "collectedAt": "2026-11-18T12:55:15.955Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7df537de5df55004",
       "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
       "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
@@ -361,7 +314,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-24T17:27:10.751Z",
+      "collectedAt": "2026-11-25T02:12:28.857Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -375,7 +328,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T17:27:17.482Z",
-    "count": 16
+    "generatedAt": "2026-11-25T02:12:35.505Z",
+    "count": 14
   }
 }

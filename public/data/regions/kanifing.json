@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "afdf5b8c5343b12a",
+      "title": "President Barrow Criticises UNITE Leader, Announces Development Pledges in Galla Mande",
+      "summary": "By Makutu Manneh President Adama Barrow has criticised UNITE presidential candidate and former Mayor of the Kanifing Municipal Council (KMC), Talib Ahmed Bensouda, during a meeting with residents of Galla Mande, where a group of villagers reportedly defected from UNITE to the ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-criticises-unite-leader-announces-development-pledges-in-galla-mande/",
+      "publishedAt": "2026-11-24T21:34:09.000Z",
+      "collectedAt": "2026-11-25T02:12:31.383Z",
+      "region": "kanifing",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "b091bd55eadc30d8",
       "title": "Justice M.S. Jallow Threatens to Jail Journalist for Taking Photo Outside Court",
       "summary": "Prison Officers Tried to Seize Her Phone By Yankuba Jallow Justice Momodou S.M. Jallow has warned a reporter for The Alkamba Times, Sainabou Sambou, that he could cite her for contempt and send her to Mile 2 after she tried to photograph an accused person outside the Bundung H...",
@@ -72,7 +96,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-24T17:27:17.482Z",
-    "count": 3
+    "generatedAt": "2026-11-25T02:12:35.505Z",
+    "count": 4
   }
 }
