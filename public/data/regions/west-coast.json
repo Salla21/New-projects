@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "f777eafffd0e1fc2",
+      "title": "Lamin J. Darbo Says Team Gambia Grand Coalition Will Deliver “New Gambia”",
+      "summary": "By Yankuba Jallow Dr Lamin J. Darbo, flagbearer of the Team Gambia Grand Coalition, has promised voters a “New Gambia” built on clean governance, social justice and economic change if the coalition wins the December 5 presidential election. “We are people with clean hands and ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/lamin-j-darbo-says-team-gambia-grand-coalition-will-deliver-new-gambia/",
+      "publishedAt": "2026-11-25T11:53:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "9a896f6f37f40047",
+      "title": "Admin Secretary Says UDP Will Publish Its Own Results on Election Night",
+      "summary": "By Hatab Nyang Dr Lamin Manneh, the United Democratic Party’s Administrative Secretary, has reiterated that the party plans to compile and publish its own tally of polling-station results on election night. He acknowledged that only the Independent Electoral Commission (IEC) h...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/admin-secretary-says-udp-will-publish-its-own-results-on-election-night/",
+      "publishedAt": "2026-11-25T11:48:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e8d8cda3c18f3dc2",
+      "title": "SANYANG LAND SALE: EBRIMA SOLOMON TAMBA FACES CRIMINAL COMPLAINT OVER COMPANY PROPERTY & MISSING PROCEEDS",
+      "summary": "Written by: Seringe S.T. Touray Gambian businessman Ebrima Solomon Tamba is facing another criminal complaint from his former Austrian business partner, Manuel Stofleth-Mitterer, this time over the sale of land in Sanyang and what happened to the money from the transaction. Th...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sanyang-land-sale-ebrima-solomon-tamba-faces-criminal-complaint-over-company-property-missing-proceeds/",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.841Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a0d8034277b9bd92",
       "title": "APC’s Modou Lamin Sima Pledges to Cut Food Imports & Expand Local Production",
       "summary": "By Yankuba Jallow APC presidential candidate Modou Lamin Sima has pledged to reduce food imports, expand local production and build factories to process groundnuts into oil if elected. Speaking at campaign rallies in Sabach Sanjal and Kaur, Sima said poverty, high living costs...",
@@ -314,7 +381,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-25T02:12:28.857Z",
+      "collectedAt": "2026-11-25T14:07:09.578Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -328,7 +395,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T02:12:35.505Z",
-    "count": 14
+    "generatedAt": "2026-11-25T14:07:15.206Z",
+    "count": 17
   }
 }

@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "a505e8872690a305",
+      "title": "Kerewan Kerr Demba Residents Ask Barrow for Better Groundnut Price, Road and Health Facility Improvement",
+      "summary": "By Kebba Secka Residents of Kerewan Kerr Demba in the Central River Region have asked President Adama Barrow to rehabilitate fields between Jarren in Niamina and Kuntaur for year-round rice cultivation and offer farmers a better groundnut buying price for the 2026/27 trade sea...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kerewan-kerr-demba-residents-ask-barrow-for-better-groundnut-price-road-and-health-facility-improvement/",
+      "publishedAt": "2026-11-25T12:06:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ddc102b3bf52d426",
+      "title": "Ousainou Darboe Pledges Economic Transformation Through Agricultural Investment, Local Processing & Job Creation",
+      "summary": "By Mariama Marong United Democratic Party (UDP)-led Alliance presidential candidate Ousainou Darboe has outlined plans to expand agricultural production, develop local processing industries and create jobs if elected in the December 5, 2026 presidential election. Speaking at a...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/ousainou-darboe-pledges-economic-transformation-through-agricultural-investment-local-processing-job-creation/",
+      "publishedAt": "2026-11-25T11:56:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2f7cf7a5d25eb273",
+      "title": "Jarrankas Launch Search for Missing National Assembly Member",
+      "summary": "Residents of Jarra East are calling for answers over the whereabouts of their National Assembly Member,…\nThe post Jarrankas Launch Search for Missing National Assembly Member appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/jarrankas-launch-search-for-missing-national-assembly-member/",
+      "publishedAt": "2026-11-25T08:34:23.000Z",
+      "collectedAt": "2026-11-25T14:07:09.578Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Aisha J",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9d7e0eae39e0bd0b",
       "title": "Water Resources Department Says 2026 Rainfall Lowest Since 2020",
       "summary": "By Madiba Singhateh The Department of Water Resources says The Gambia’s 2026 rainfall season recorded the lowest rainfall since 2020. The season also had dry spells at the beginning and end, which could affect farmers during the dry season. Mr Tijani Bojang, a senior official ...",
@@ -305,33 +377,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2d5c49dbcb446925",
-      "title": "Ministry of Higher Education Launches University Innovation Pod at USET",
-      "summary": "EDITOR’S NOTE: The following press release is published verbatim, without any edits or alterations to the original text. The Ministry of Higher Education, Research, Science and Technology (MoHERST), in partnership with the United Nations Development Programme (UNDP) in The Gam...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ministry-of-higher-education-launches-university-innovation-pod-at-uset/",
-      "publishedAt": "2026-11-18T17:19:52.000Z",
-      "collectedAt": "2026-11-18T21:47:18.090Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T02:12:35.505Z",
-    "count": 14
+    "generatedAt": "2026-11-25T14:07:15.206Z",
+    "count": 16
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "5262e807ca0ba51c",
+      "title": "Does Bakau Have a N*de Beach? Mysterious Sign Sparks Curiosity",
+      "summary": "A mysterious sign spotted in Cape Point, Bakau, has raised eyebrows and sparked speculation over whether…\nThe post Does Bakau Have a N*de Beach? Mysterious Sign Sparks Curiosity appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/does-bakau-have-a-nde-beach-mysterious-sign-sparks-curiosity/",
+      "publishedAt": "2026-11-25T08:31:56.000Z",
+      "collectedAt": "2026-11-25T14:07:09.578Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "afdf5b8c5343b12a",
       "title": "President Barrow Criticises UNITE Leader, Announces Development Pledges in Galla Mande",
       "summary": "By Makutu Manneh President Adama Barrow has criticised UNITE presidential candidate and former Mayor of the Kanifing Municipal Council (KMC), Talib Ahmed Bensouda, during a meeting with residents of Galla Mande, where a group of villagers reportedly defected from UNITE to the ...",
@@ -96,7 +117,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T02:12:35.505Z",
-    "count": 4
+    "generatedAt": "2026-11-25T14:07:15.206Z",
+    "count": 5
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "df938951a9e410ea",
+      "title": "Touray Vows Constitutional Reform, Accountability at Simoto Tuba Rally",
+      "summary": "By Hatab Nyang  Independent presidential candidate Isatou Touray pledged to overhaul The Gambia’s constitution and enforce strict presidential term limits during a campaign stop in the Upper River Region, sharpening her criticism of President Adama Barrow’s administration ahea...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/touray-vows-constitutional-reform-accountability-at-simoto-tuba-rally/",
+      "publishedAt": "2026-11-25T12:08:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "upper-river",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "1ef6d1d0f9e00b66",
       "title": "President Adama Barrow Tells URR Voters His Re-election Would Extend Services",
       "summary": "By Kebba Secka President Adama Barrow has told voters in the Upper River Region that re-electing him would allow his government to extend electricity, water, schools and roads to communities that have yet to benefit. He made the statement during campaign meetings in Kolibana, ...",
@@ -25,7 +49,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T02:12:35.505Z",
-    "count": 1
+    "generatedAt": "2026-11-25T14:07:15.206Z",
+    "count": 2
   }
 }

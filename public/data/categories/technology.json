@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "df938951a9e410ea",
+      "title": "Touray Vows Constitutional Reform, Accountability at Simoto Tuba Rally",
+      "summary": "By Hatab Nyang  Independent presidential candidate Isatou Touray pledged to overhaul The Gambia’s constitution and enforce strict presidential term limits during a campaign stop in the Upper River Region, sharpening her criticism of President Adama Barrow’s administration ahea...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/touray-vows-constitutional-reform-accountability-at-simoto-tuba-rally/",
+      "publishedAt": "2026-11-25T12:08:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "upper-river",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "c7392014232e5e40",
+      "title": "Almameh Gibba Promises to Address Killings & Conflict Along Foni Borderline",
+      "summary": "By Nelson Manneh Independent presidential candidate and Foni Kansala National Assembly Member Almameh Gibba has pledged to address insecurity and recurring violence in communities along The Gambia’s border with Senegal if elected on December 5. Speaking to supporters during hi...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/almameh-gibba-promises-to-address-killings-conflict-along-foni-borderline/",
+      "publishedAt": "2026-11-25T12:04:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e8e6525c1a3bfca4",
       "title": "Barrow Predicts Victory in Fulladu, Takes Credit for Strengthening Gambia’s Democracy",
       "summary": "By Makutu Manneh President Adama Barrow has expressed confidence in securing victory in Fulladu in the December 5 presidential election, crediting his administration with strengthening democracy in The Gambia and creating an enabling political environment for his opponents to ...",
@@ -284,57 +333,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2d5c49dbcb446925",
-      "title": "Ministry of Higher Education Launches University Innovation Pod at USET",
-      "summary": "EDITOR’S NOTE: The following press release is published verbatim, without any edits or alterations to the original text. The Ministry of Higher Education, Research, Science and Technology (MoHERST), in partnership with the United Nations Development Programme (UNDP) in The Gam...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ministry-of-higher-education-launches-university-innovation-pod-at-uset/",
-      "publishedAt": "2026-11-18T17:19:52.000Z",
-      "collectedAt": "2026-11-18T21:47:18.090Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "434861903ad39ab1",
-      "title": "Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory!",
-      "summary": "Former Jimara National Assembly Member Alhagie Sowe has dropped a political bombshell, claiming that controversial Senegalese…\nThe post Alhagie Sowe Blows the Lid Off! Kounkande Recruited to Help Barrow Secure Election Victory! appeared first on What's On Gambia.",
-      "sourceId": "whats-on-gambia",
-      "sourceName": "What's On Gambia",
-      "sourceUrl": "https://whatson-gambia.com/feed/",
-      "originalUrl": "https://whatson-gambia.com/alhagie-sowe-blows-the-lid-off-kounkande-recruited-to-help-barrow-secure-election-victory/",
-      "publishedAt": "2026-11-04T06:16:52.000Z",
-      "collectedAt": "2026-11-25T02:12:28.857Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Lamin Saidy",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T02:12:35.505Z",
+    "generatedAt": "2026-11-25T14:07:15.206Z",
     "count": 14
   }
 }

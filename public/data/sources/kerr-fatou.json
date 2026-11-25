@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "a1452f969c00189b",
+      "title": "Bensouda Accuses Barrow Administration of Neglecting Foni, Pledges Major Development",
+      "summary": "Mayor Talib Bensouda By Fatou Sillah Talib Ahmed Bensouda, leader of the UNITE Party and presidential candidate of Coalition 2026, has accused the Barrow administration of neglecting Foni, pledging to undertake significant development initiatives in the region if elected presi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-accuses-barrow-administration-of-neglecting-foni-pledges-major-development/",
+      "publishedAt": "2026-11-25T11:18:13.000Z",
+      "collectedAt": "2026-11-25T14:07:11.085Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "03baf0fcf0638dea",
       "title": "Dr. Ceesay Says All Ministers Must Promote President Barrow’s Agenda at All Costs",
       "summary": "By Makutu Manneh The Minister of Information, Media and Broadcasting Services, Dr. Ismaila Ceesay, has defended the political involvement of cabinet ministers, arguing that, as political appointees, they have a responsibility to promote the government’s policies and advance Pr...",
@@ -1185,7 +1208,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T02:12:35.505Z",
-    "count": 50
+    "generatedAt": "2026-11-25T14:07:15.206Z",
+    "count": 51
   }
 }

@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "ddc102b3bf52d426",
+      "title": "Ousainou Darboe Pledges Economic Transformation Through Agricultural Investment, Local Processing & Job Creation",
+      "summary": "By Mariama Marong United Democratic Party (UDP)-led Alliance presidential candidate Ousainou Darboe has outlined plans to expand agricultural production, develop local processing industries and create jobs if elected in the December 5, 2026 presidential election. Speaking at a...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/ousainou-darboe-pledges-economic-transformation-through-agricultural-investment-local-processing-job-creation/",
+      "publishedAt": "2026-11-25T11:56:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4d726aa9599c12f4",
+      "title": "DAY OF DECISION: 5TH DECEMBER, 2026",
+      "summary": "Who will win the 5th December, 2026 presidential election? One opinion poll puts Mr Ousainou Darboe in the lead with 40 percent of the votes while Mr Adama Barrow gets only 25 percent. Another opinion poll however puts Mr Adama Barrow in the lead with 38 percent of the votes w...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/day-of-decision-5th-december-2026/",
+      "publishedAt": "2026-11-25T09:34:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "9fbc69ead077439d",
       "title": "UDP’s Ousainou Darboe Says Gambians Must Not Face Discrimination over Ethnicity",
       "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou A.N.M. Darboe has criticised political statements threatening to drive people out of The Gambia, saying citizens should not be targeted because of their ethnic backgroun...",
@@ -415,34 +464,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "75a9a865e76c44fc",
-      "title": "MAA Foundation for Women Engages EU Election Observers on Women’s Role in Peaceful Democratic Transition",
-      "summary": "By Ndey Sowe MAA Foundation for Women is following up on an institutional engagement with representatives of the European Union Election Observation Mission (EU EOM) in The Gambia, by bringing together EU election observers Cristina Hurduiala and Daniel Kerekes, and the leader...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/maa-foundation-for-women-engages-eu-election-observers-on-womens-role-in-peaceful-democratic-transition/",
-      "publishedAt": "2026-11-18T11:42:00.000Z",
-      "collectedAt": "2026-11-18T12:55:15.955Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T02:12:35.505Z",
-    "count": 18
+    "generatedAt": "2026-11-25T14:07:15.206Z",
+    "count": 19
   }
 }

@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "4fee047652eae138",
+      "title": "SPOTLIGHT | From Gambia to the stars: Fama Jallow’s mission beyond Earth",
+      "summary": "From a country of fewer than three million people to the doorstep of human spaceflight, Gambian aerospace engineer Fama Jallow is proving that ambition has no borders. Selected by Titans Space Industries as an astronaut candidate and working towards spaceflight qualification b...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/spotlight-from-gambia-to-the-stars-fama-jallows-mission-beyond-earth/",
+      "publishedAt": "2026-11-25T12:23:03.000Z",
+      "collectedAt": "2026-11-25T14:07:09.841Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e8d8cda3c18f3dc2",
+      "title": "SANYANG LAND SALE: EBRIMA SOLOMON TAMBA FACES CRIMINAL COMPLAINT OVER COMPANY PROPERTY & MISSING PROCEEDS",
+      "summary": "Written by: Seringe S.T. Touray Gambian businessman Ebrima Solomon Tamba is facing another criminal complaint from his former Austrian business partner, Manuel Stofleth-Mitterer, this time over the sale of land in Sanyang and what happened to the money from the transaction. Th...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/sanyang-land-sale-ebrima-solomon-tamba-faces-criminal-complaint-over-company-property-missing-proceeds/",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.841Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "3b7440f6e367f853",
       "title": "The Robe and the Lens: Balancing Judicial Authority and Press Freedom",
       "summary": "OPINION/LEGAL ANALYSIS By Sarjo Barrow, Esq. Two freedoms, one courthouse Since 2017, The Gambia has changed in ways many once thought unlikely. Journalists now report, question and criticize with a freedom difficult to imagine a decade ago. Our courts, in my view, have also r...",
@@ -305,78 +347,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9a0a69c1e91b62a8",
-      "title": "D36 Million, One Count, Three Years? The Hajj Case Raises Hard Questions",
-      "summary": "OPINION By Sarjo Barrow, Esq. Grief shows up in different ways. While mourning my father, I came across reports on the Hajj fraud case and have kept coming back to them. Imagine saving for years for the journey of a lifetime, only to learn it may never happen. Now imagine your...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/d36-million-one-count-three-years-the-hajj-case-raises-hard-questions/",
-      "publishedAt": "2026-11-18T17:28:42.000Z",
-      "collectedAt": "2026-11-18T21:47:18.090Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2d5c49dbcb446925",
-      "title": "Ministry of Higher Education Launches University Innovation Pod at USET",
-      "summary": "EDITOR’S NOTE: The following press release is published verbatim, without any edits or alterations to the original text. The Ministry of Higher Education, Research, Science and Technology (MoHERST), in partnership with the United Nations Development Programme (UNDP) in The Gam...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/ministry-of-higher-education-launches-university-innovation-pod-at-uset/",
-      "publishedAt": "2026-11-18T17:19:52.000Z",
-      "collectedAt": "2026-11-18T21:47:18.090Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d0fa529482b8d710",
-      "title": "International Criminal Court: Caught Between Global Justice and Geopolitics",
-      "summary": "ANALYSIS Established in 2002 under the Rome Statute to prosecute genocide, war crimes, and crimes against humanity, the International Criminal Court (ICC) is facing an unprecedented existential crisis. While designed as a permanent global judicial body, its authority is increa...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/international-criminal-court-caught-between-global-justice-and-geopolitics/",
-      "publishedAt": "2026-11-18T14:12:40.000Z",
-      "collectedAt": "2026-11-18T21:47:18.090Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T02:12:35.505Z",
-    "count": 16
+    "generatedAt": "2026-11-25T14:07:15.206Z",
+    "count": 15
   }
 }

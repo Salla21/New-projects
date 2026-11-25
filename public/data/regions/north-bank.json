@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "a505e8872690a305",
+      "title": "Kerewan Kerr Demba Residents Ask Barrow for Better Groundnut Price, Road and Health Facility Improvement",
+      "summary": "By Kebba Secka Residents of Kerewan Kerr Demba in the Central River Region have asked President Adama Barrow to rehabilitate fields between Jarren in Niamina and Kuntaur for year-round rice cultivation and offer farmers a better groundnut buying price for the 2026/27 trade sea...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kerewan-kerr-demba-residents-ask-barrow-for-better-groundnut-price-road-and-health-facility-improvement/",
+      "publishedAt": "2026-11-25T12:06:00.000Z",
+      "collectedAt": "2026-11-25T14:07:09.382Z",
+      "region": "north-bank",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "88cda9bb5dccd4c8",
       "title": "Darboe calls for national unity amid growing tribal rhetoric on social media",
       "summary": "By Mama A. Touray ​The standard-bearer of the Gambia First Coalition UDP-Led Alliance, Ousainou Darboe, has called for national unity amid rising tribal rhetoric on social media platforms such as TikTok and Facebook. Addressing supporters in Farafenni in the North Bank Region,...",
@@ -218,7 +242,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T02:12:35.505Z",
-    "count": 9
+    "generatedAt": "2026-11-25T14:07:15.206Z",
+    "count": 10
   }
 }
