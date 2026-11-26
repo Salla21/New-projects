@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "2266bbb6cd92e652",
+      "title": "WHAT IS THE ROLE OF A POLLING AGENT AT A POLLING STATION?",
+      "summary": "The law empowers a candidate to appoint two polling agents for each polling station. These polling agents are the eyes and ears of the candidate at the polling station. They are supposed to monitor the process taking place at the polling station and its environ and check wheth...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-is-the-role-of-a-polling-agent-at-a-polling-station/",
+      "publishedAt": "2026-11-26T09:32:00.000Z",
+      "collectedAt": "2026-11-26T10:43:23.327Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "96ae56a8382472ad",
+      "title": "THE IEC CHAIRMAN IS THE ONE AUTHORISED BY LAW TO ANNOUNCE THE RESULTS OF ELECTIONS",
+      "summary": "The law requires counting of votes cast to be done in the presence of the counting agents of the candidates. The Commission shall display a signed copy of the results of the vote at each polling centre outside the polling centre for public attention. According to section 80 su...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-iec-chairman-is-the-one-authorised-by-law-to-announce-the-results-of-elections/",
+      "publishedAt": "2026-11-26T09:30:00.000Z",
+      "collectedAt": "2026-11-26T10:43:23.327Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5f00f3dc645c1a6b",
       "title": "Political Analyst Juwara Questions Barrow’s Economic and Security Agenda in Third-Term Campaign",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has questioned President Adama Barrow’s failure to articulate clear economic and security policies as he campaigns for a third term in office ahead of The Gambia’s December 5 presidential election. Speaking on Kerr Fatou’s Politi...",
@@ -2296,58 +2342,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "2f541bb98e784574",
-      "title": "ICJ Finds Myanmar Committed Genocide Against Rohingya in Landmark Victory for The Gambia",
-      "summary": "By Yankuba Jallow The International Court of Justice (ICJ) has ruled that Myanmar committed genocide against the Rohingya people in northern Rakhine State, in a landmark judgment that marks a major international legal victory for The Gambia. In its judgment delivered on 19 Nov...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/icj-finds-myanmar-committed-genocide-against-rohingya-in-landmark-victory-for-the-gambia/",
-      "publishedAt": "2026-11-19T15:54:36.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "5b4337f135aff02c",
-      "title": "APEC leaders adopt 2026 declaration as Xi urges closer regional cooperation",
-      "summary": "By Yankuba Jallow Leaders at the 33rd Asia-Pacific Economic Cooperation (APEC) meeting adopted a declaration and three supporting documents in Shenzhen on 19 November, as Chinese President Xi Jinping called for stronger trade ties, regional connections, technological cooperati...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/apec-leaders-adopt-2026-declaration-as-xi-urges-closer-regional-cooperation/",
-      "publishedAt": "2026-11-19T15:20:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T00:09:10.452Z",
+    "generatedAt": "2026-11-26T10:43:42.923Z",
     "count": 100
   }
 }

@@ -390,35 +390,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d307b69b1bb3204f",
-      "title": "NPP’s Adama Barrow Leads Presidential Race with 28% in Gambia Participates Opinion Polls",
-      "summary": "By Nelson Manneh President Adama Barrow leads a close three-way presidential race, with 28 per cent support in the latest opinion poll by Gambia Participates. The Round 3 survey, published on November 18, found United Democratic Party leader Ousainou Darboe at 25 per cent and ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/npps-adama-barrow-leads-presidential-race-with-28-in-gambia-participates-opinion-polls/",
-      "publishedAt": "2026-11-19T11:42:40.000Z",
-      "collectedAt": "2026-11-19T12:46:31.721Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T00:09:10.452Z",
-    "count": 17
+    "generatedAt": "2026-11-26T10:43:42.923Z",
+    "count": 16
   }
 }

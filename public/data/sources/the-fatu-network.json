@@ -276,58 +276,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "12b025d65b463ae6",
-      "title": "Barrow Pledges Roads, Electricity and Better Farm Prices in North Bank Campaign Push",
-      "summary": "President Adama Barrow has promised improved roads, expanded electricity access and higher farm-gate prices for groundnuts as he stepped up his re-election campaign in the North Bank Region ahead of the 5 December presidential election. Addressing supporters in Niumi and Jokad...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/barrow-pledges-roads-electricity-and-better-farm-prices-in-north-bank-campaign-push/",
-      "publishedAt": "2026-11-19T14:56:46.000Z",
-      "collectedAt": "2026-11-19T22:07:51.812Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "40c74ec641277346",
-      "title": "From the streets of Serrekunda to the basketball courts of America",
-      "summary": "By Sainabou Sama The Journey of Alhagie Waka Mbatch Driven by determination, resilience and an unwavering ambition to succeed, Gambian basketball player Alhagie Waka Mbatch is turning a childhood passion into an international sporting career. For Alhagie Waka Mbatch, the journ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/from-the-streets-of-serrekunda-to-the-basketball-courts-of-america/",
-      "publishedAt": "2026-11-19T12:38:56.000Z",
-      "collectedAt": "2026-11-19T12:46:36.168Z",
-      "region": "kanifing",
-      "categories": [
-        "business",
-        "sports"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T00:09:10.452Z",
-    "count": 14
+    "generatedAt": "2026-11-26T10:43:42.923Z",
+    "count": 12
   }
 }

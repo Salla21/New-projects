@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "2266bbb6cd92e652",
+      "title": "WHAT IS THE ROLE OF A POLLING AGENT AT A POLLING STATION?",
+      "summary": "The law empowers a candidate to appoint two polling agents for each polling station. These polling agents are the eyes and ears of the candidate at the polling station. They are supposed to monitor the process taking place at the polling station and its environ and check wheth...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-is-the-role-of-a-polling-agent-at-a-polling-station/",
+      "publishedAt": "2026-11-26T09:32:00.000Z",
+      "collectedAt": "2026-11-26T10:43:23.327Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "96ae56a8382472ad",
+      "title": "THE IEC CHAIRMAN IS THE ONE AUTHORISED BY LAW TO ANNOUNCE THE RESULTS OF ELECTIONS",
+      "summary": "The law requires counting of votes cast to be done in the presence of the counting agents of the candidates. The Commission shall display a signed copy of the results of the vote at each polling centre outside the polling centre for public attention. According to section 80 su...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-iec-chairman-is-the-one-authorised-by-law-to-announce-the-results-of-elections/",
+      "publishedAt": "2026-11-26T09:30:00.000Z",
+      "collectedAt": "2026-11-26T10:43:23.327Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-26T10:43:42.923Z",
+    "count": 2
+  }
+}

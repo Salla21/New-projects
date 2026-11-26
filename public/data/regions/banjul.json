@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "2266bbb6cd92e652",
+      "title": "WHAT IS THE ROLE OF A POLLING AGENT AT A POLLING STATION?",
+      "summary": "The law empowers a candidate to appoint two polling agents for each polling station. These polling agents are the eyes and ears of the candidate at the polling station. They are supposed to monitor the process taking place at the polling station and its environ and check wheth...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/what-is-the-role-of-a-polling-agent-at-a-polling-station/",
+      "publishedAt": "2026-11-26T09:32:00.000Z",
+      "collectedAt": "2026-11-26T10:43:23.327Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "96ae56a8382472ad",
+      "title": "THE IEC CHAIRMAN IS THE ONE AUTHORISED BY LAW TO ANNOUNCE THE RESULTS OF ELECTIONS",
+      "summary": "The law requires counting of votes cast to be done in the presence of the counting agents of the candidates. The Commission shall display a signed copy of the results of the vote at each polling centre outside the polling centre for public attention. According to section 80 su...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/the-iec-chairman-is-the-one-authorised-by-law-to-announce-the-results-of-elections/",
+      "publishedAt": "2026-11-26T09:30:00.000Z",
+      "collectedAt": "2026-11-26T10:43:23.327Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "288db7e1ade7198d",
       "title": "Darboe Urges Dankunku Voters to Scrutinise Presidential Candidates Ahead of December 5 Election",
       "summary": "ANM Ousainu Darboe By Seedy Jobe The GFC-UDP-led Alliance presidential candidate, ANM Ousainu Darboe, has urged voters in Dankunku to carefully assess the candidates contesting the December 5 presidential election and elect a leader committed to serving the interests of The Ga...",
@@ -1526,78 +1572,6 @@
       "status": "published"
     },
     {
-      "id": "015556b18dcb114b",
-      "title": "China, Russia and US issue four-point declaration after Shenzhen summit",
-      "summary": "By Yankuba Jallow China, Russia and the United States have issued a four-point declaration covering United Nations reform, energy supplies, the International Criminal Court and nuclear risks, following a meeting between their presidents in Shenzhen. The document says Chinese P...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/china-russia-and-us-issue-four-point-declaration-after-shenzhen-summit/",
-      "publishedAt": "2026-11-19T15:15:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "de7a94f960c17efa",
-      "title": "Hon. Almameh Gibba Says Movement Colours Represent Agriculture & the River",
-      "summary": "By Nelson Manneh Independent presidential candidate Almameh Gibba said the colours of his APRC No-To-Alliance Movement represent agriculture and the river, which he described as important to The Gambia’s development. Gibba, the National Assembly Member for Foni Kansala, spoke ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/hon-almameh-gibba-says-movement-colours-represent-agriculture-the-river/",
-      "publishedAt": "2026-11-19T11:46:04.000Z",
-      "collectedAt": "2026-11-19T12:46:31.721Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d307b69b1bb3204f",
-      "title": "NPP’s Adama Barrow Leads Presidential Race with 28% in Gambia Participates Opinion Polls",
-      "summary": "By Nelson Manneh President Adama Barrow leads a close three-way presidential race, with 28 per cent support in the latest opinion poll by Gambia Participates. The Round 3 survey, published on November 18, found United Democratic Party leader Ousainou Darboe at 25 per cent and ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/npps-adama-barrow-leads-presidential-race-with-28-in-gambia-participates-opinion-polls/",
-      "publishedAt": "2026-11-19T11:42:40.000Z",
-      "collectedAt": "2026-11-19T12:46:31.721Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "296d3df912977502",
       "title": "Bedrooms No Longer Need NAWEC as Glowing Waist Beads Take Over!",
       "summary": "A new bedroom trend is catching fire among young Gambian women, with glow-in-the-dark waist beads adding…\nThe post Bedrooms No Longer Need NAWEC as Glowing Waist Beads Take Over! appeared first on What's On Gambia.",
@@ -1606,7 +1580,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/bedrooms-no-longer-need-nawec-as-glowing-waist-beads-take-over/",
       "publishedAt": "2026-11-18T07:27:50.000Z",
-      "collectedAt": "2026-11-26T00:09:03.238Z",
+      "collectedAt": "2026-11-26T10:43:23.645Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1627,7 +1601,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/drama-25-year-old-man-allegedly-caught-in-bed-with-stepmothers-18-year-old-daughter/",
       "publishedAt": "2026-11-18T07:26:46.000Z",
-      "collectedAt": "2026-11-26T00:09:03.238Z",
+      "collectedAt": "2026-11-26T10:43:23.645Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1650,7 +1624,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/gambians-snub-chella-nigerian-stars-debut-concert-suffers-poor-turnout/",
       "publishedAt": "2026-11-18T07:23:29.000Z",
-      "collectedAt": "2026-11-26T00:09:03.238Z",
+      "collectedAt": "2026-11-26T10:43:23.645Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1671,7 +1645,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/from-studio-partners-to-rivals-what-really-happened-between-an2-and-attack/",
       "publishedAt": "2026-11-18T07:21:17.000Z",
-      "collectedAt": "2026-11-26T00:09:03.238Z",
+      "collectedAt": "2026-11-26T10:43:23.645Z",
       "region": "banjul",
       "categories": [],
       "contentType": "article",
@@ -1692,7 +1666,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-26T00:09:03.238Z",
+      "collectedAt": "2026-11-26T10:43:23.645Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1708,7 +1682,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T00:09:10.452Z",
-    "count": 73
+    "generatedAt": "2026-11-26T10:43:42.923Z",
+    "count": 72
   }
 }
