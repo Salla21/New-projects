@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "42f0ba200acd69bd",
+      "title": "Trust Bank Marks Third Year of Support for Essau District Hospital With D200,000 Donation",
+      "summary": "By Makutu Manneh Trust Bank Ltd has reaffirmed its commitment to improving healthcare delivery in The Gambia with the donation of medical equipment and essential supplies worth D200,000 to Essau District Hospital, marking its third consecutive year of support for the facility....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-marks-third-year-of-support-for-essau-district-hospital-with-d200000-donation/",
+      "publishedAt": "2026-11-25T22:28:49.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "north-bank",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1a2891f176727786",
+      "title": "Chinese and Pakistani Astronauts Make History with First-Ever Joint Mission Aboard Tiangong Space Station",
+      "summary": "By Yankuba Jallow China and Pakistan have marked a historic milestone in international space exploration after a Pakistani astronaut joined Chinese astronauts aboard China’s Tiangong space station for the first-ever joint mission involving a foreign astronaut in China’s crewed...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/chinese-and-pakistani-astronauts-make-history-with-first-ever-joint-mission-aboard-tiangong-space-station/",
+      "publishedAt": "2026-11-25T19:05:57.000Z",
+      "collectedAt": "2026-11-26T00:09:02.700Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a505e8872690a305",
       "title": "Kerewan Kerr Demba Residents Ask Barrow for Better Groundnut Price, Road and Health Facility Improvement",
       "summary": "By Kebba Secka Residents of Kerewan Kerr Demba in the Central River Region have asked President Adama Barrow to rehabilitate fields between Jarren in Niamina and Kuntaur for year-round rice cultivation and offer farmers a better groundnut buying price for the 2026/27 trade sea...",
@@ -380,7 +425,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T14:07:15.206Z",
-    "count": 16
+    "generatedAt": "2026-11-26T00:09:10.452Z",
+    "count": 18
   }
 }

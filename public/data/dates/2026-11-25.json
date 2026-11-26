@@ -1,6 +1,147 @@
 {
   "items": [
     {
+      "id": "5f00f3dc645c1a6b",
+      "title": "Political Analyst Juwara Questions Barrow’s Economic and Security Agenda in Third-Term Campaign",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has questioned President Adama Barrow’s failure to articulate clear economic and security policies as he campaigns for a third term in office ahead of The Gambia’s December 5 presidential election. Speaking on Kerr Fatou’s Politi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-questions-barrows-economic-and-security-agenda-in-third-term-campaign/",
+      "publishedAt": "2026-11-25T23:11:47.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "288db7e1ade7198d",
+      "title": "Darboe Urges Dankunku Voters to Scrutinise Presidential Candidates Ahead of December 5 Election",
+      "summary": "ANM Ousainu Darboe By Seedy Jobe The GFC-UDP-led Alliance presidential candidate, ANM Ousainu Darboe, has urged voters in Dankunku to carefully assess the candidates contesting the December 5 presidential election and elect a leader committed to serving the interests of The Ga...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-urges-dankunku-voters-to-scrutinise-presidential-candidates-ahead-of-december-5-election/",
+      "publishedAt": "2026-11-25T22:44:37.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e2f456a1262e834b",
+      "title": "Political Analyst Juwara Predicts Narrower Victory for Barrow if Re-elected on December 5",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow, if re-elected in the December 5 presidential election, will secure a victory with reduced electoral support compared to his performance in the 2021 presidential election. Speaking on Ker...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-predicts-narrower-victory-for-barrow-if-re-elected-on-december-5/",
+      "publishedAt": "2026-11-25T22:37:13.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a4ce55385de77770",
+      "title": "Barrow Warns Bureng Residents Darboe Will Not Construct Their Roads if Elected President",
+      "summary": "By Makutu Manneh President Adama Barrow has warned residents of Bureng in the Lower River Region that their hopes of securing road infrastructure could be jeopardised if United Democratic Party (UDP) leader ANM Ousainu Darboe wins the December 5 presidential election. Speaking...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-warns-bureng-residents-darboe-will-not-construct-their-roads-if-elected-president/",
+      "publishedAt": "2026-11-25T22:32:19.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "lower-river",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "42f0ba200acd69bd",
+      "title": "Trust Bank Marks Third Year of Support for Essau District Hospital With D200,000 Donation",
+      "summary": "By Makutu Manneh Trust Bank Ltd has reaffirmed its commitment to improving healthcare delivery in The Gambia with the donation of medical equipment and essential supplies worth D200,000 to Essau District Hospital, marking its third consecutive year of support for the facility....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-marks-third-year-of-support-for-essau-district-hospital-with-d200000-donation/",
+      "publishedAt": "2026-11-25T22:28:49.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "north-bank",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "1a2891f176727786",
+      "title": "Chinese and Pakistani Astronauts Make History with First-Ever Joint Mission Aboard Tiangong Space Station",
+      "summary": "By Yankuba Jallow China and Pakistan have marked a historic milestone in international space exploration after a Pakistani astronaut joined Chinese astronauts aboard China’s Tiangong space station for the first-ever joint mission involving a foreign astronaut in China’s crewed...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/chinese-and-pakistani-astronauts-make-history-with-first-ever-joint-mission-aboard-tiangong-space-station/",
+      "publishedAt": "2026-11-25T19:05:57.000Z",
+      "collectedAt": "2026-11-26T00:09:02.700Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Yankuba Jallow",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4fee047652eae138",
       "title": "SPOTLIGHT | From Gambia to the stars: Fama Jallow’s mission beyond Earth",
       "summary": "From a country of fewer than three million people to the doorstep of human spaceflight, Gambian aerospace engineer Fama Jallow is proving that ambition has no borders. Selected by Titans Space Industries as an astronaut candidate and working towards spaceflight qualification b...",
@@ -370,7 +511,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T14:07:15.206Z",
-    "count": 16
+    "generatedAt": "2026-11-26T00:09:10.452Z",
+    "count": 22
   }
 }

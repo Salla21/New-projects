@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "5f00f3dc645c1a6b",
+      "title": "Political Analyst Juwara Questions Barrow’s Economic and Security Agenda in Third-Term Campaign",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has questioned President Adama Barrow’s failure to articulate clear economic and security policies as he campaigns for a third term in office ahead of The Gambia’s December 5 presidential election. Speaking on Kerr Fatou’s Politi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-questions-barrows-economic-and-security-agenda-in-third-term-campaign/",
+      "publishedAt": "2026-11-25T23:11:47.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e2f456a1262e834b",
+      "title": "Political Analyst Juwara Predicts Narrower Victory for Barrow if Re-elected on December 5",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow, if re-elected in the December 5 presidential election, will secure a victory with reduced electoral support compared to his performance in the 2021 presidential election. Speaking on Ker...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-predicts-narrower-victory-for-barrow-if-re-elected-on-december-5/",
+      "publishedAt": "2026-11-25T22:37:13.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f777eafffd0e1fc2",
       "title": "Lamin J. Darbo Says Team Gambia Grand Coalition Will Deliver “New Gambia”",
       "summary": "By Yankuba Jallow Dr Lamin J. Darbo, flagbearer of the Team Gambia Grand Coalition, has promised voters a “New Gambia” built on clean governance, social justice and economic change if the coalition wins the December 5 presidential election. “We are people with clean hands and ...",
@@ -326,53 +374,6 @@
       "status": "published"
     },
     {
-      "id": "2aa10d295df6a980",
-      "title": "Dampha Says Some Voters Back Barrow Despite Economic Concerns, Citing Lack of a Credible Alternative",
-      "summary": "By Makutu Manneh Some Gambians who are dissatisfied with the government’s handling of the economy and the cost of living still intend to vote for President Adama Barrow because they see no credible alternative, according to CepRass researcher Lamin Dampha. Speaking on Kerr Fat...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dampha-says-some-voters-back-barrow-despite-economic-concerns-citing-lack-of-a-credible-alternative/",
-      "publishedAt": "2026-11-18T22:27:00.000Z",
-      "collectedAt": "2026-11-19T03:07:09.887Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "29dff886504748d0",
-      "title": "Juwara Says Ethnic and Regional Ties May Outweigh Policy for Many Gambian Voters",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara says ethnic and regional ties carry more weight for many Gambian voters than the policies candidates put forward. He called for further research to establish how strongly those ties influence voting decisions. Discussing survey f...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/juwara-says-ethnic-and-regional-ties-may-outweigh-policy-for-many-gambian-voters/",
-      "publishedAt": "2026-11-18T22:21:03.000Z",
-      "collectedAt": "2026-11-19T03:07:09.887Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "7df537de5df55004",
       "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
       "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
@@ -381,7 +382,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-25T14:07:09.578Z",
+      "collectedAt": "2026-11-26T00:09:03.238Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -395,7 +396,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T14:07:15.206Z",
+    "generatedAt": "2026-11-26T00:09:10.452Z",
     "count": 17
   }
 }

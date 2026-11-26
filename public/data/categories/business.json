@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "e2f456a1262e834b",
+      "title": "Political Analyst Juwara Predicts Narrower Victory for Barrow if Re-elected on December 5",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow, if re-elected in the December 5 presidential election, will secure a victory with reduced electoral support compared to his performance in the 2021 presidential election. Speaking on Ker...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-predicts-narrower-victory-for-barrow-if-re-elected-on-december-5/",
+      "publishedAt": "2026-11-25T22:37:13.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "42f0ba200acd69bd",
+      "title": "Trust Bank Marks Third Year of Support for Essau District Hospital With D200,000 Donation",
+      "summary": "By Makutu Manneh Trust Bank Ltd has reaffirmed its commitment to improving healthcare delivery in The Gambia with the donation of medical equipment and essential supplies worth D200,000 to Essau District Hospital, marking its third consecutive year of support for the facility....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-marks-third-year-of-support-for-essau-district-hospital-with-d200000-donation/",
+      "publishedAt": "2026-11-25T22:28:49.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "north-bank",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a505e8872690a305",
       "title": "Kerewan Kerr Demba Residents Ask Barrow for Better Groundnut Price, Road and Health Facility Improvement",
       "summary": "By Kebba Secka Residents of Kerewan Kerr Demba in the Central River Region have asked President Adama Barrow to rehabilitate fields between Jarren in Niamina and Kuntaur for year-round rice cultivation and offer farmers a better groundnut buying price for the 2026/27 trade sea...",
@@ -1038,150 +1087,6 @@
       "status": "published"
     },
     {
-      "id": "005bc0e3724d54b7",
-      "title": "Talib Bensouda Pledges Agricultural Bank and Higher Groundnut Prices",
-      "summary": "By Kebba A.F. Touray UNITE Party presidential candidate Talib Ahmed Bensouda has promised to establish an agricultural bank and raise the price paid to farmers for groundnuts if elected on December 5. Bensouda made the pledges during campaign meetings in Jokadu, Daru Rilwan an...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/talib-bensouda-pledges-agricultural-bank-and-higher-groundnut-prices/",
-      "publishedAt": "2026-11-19T11:30:57.000Z",
-      "collectedAt": "2026-11-19T12:46:31.721Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "1343b449c606f997",
-      "title": "Dr Isatou Touray Blames Corruption for Dalasi’s Decline",
-      "summary": "Cites Youth Unemployment By Hatab Nyang Independent presidential candidate Dr Isatou Touray has blamed corruption and the misuse of public funds for the dalasi’s loss of value and the economic hardship faced by Gambians. Touray made the remarks at her first campaign meeting in...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/dr-isatou-touray-blames-corruption-for-dalasis-decline/",
-      "publishedAt": "2026-11-19T11:22:29.000Z",
-      "collectedAt": "2026-11-19T12:46:31.721Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "24acf42ccfa87657",
-      "title": "NPP’s Adama Barrow Promises Farmers a Groundnut Price “Never Seen Before”",
-      "summary": "By Kebba Secka Adama Barrow, the presidential candidate for the National People’s Party (NPP) has promised farmers a favourable groundnut buying price for the 2026/2027 trade season but did not say how much they would receive per kilogram. Barrow pledged during a campaign meet...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/npps-adama-barrow-promises-farmers-a-groundnut-price-never-seen-before/",
-      "publishedAt": "2026-11-19T11:17:08.000Z",
-      "collectedAt": "2026-11-19T12:46:31.721Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d0fc2dd63f6cfab9",
-      "title": "WHEN WILL THE GROUNDNUT TRADE SEASON COMMENCE?",
-      "summary": "December is fast approaching and farmers are yet to be told the date of commencement of the 2026/2027 groundnut trade season. Secco managers have not been seen clearing their seccos. Is that an indication that the groundnut trade season may not start very soon? What will the f...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/when-will-the-groundnut-trade-season-commence-2/",
-      "publishedAt": "2026-11-19T11:00:40.000Z",
-      "collectedAt": "2026-11-19T12:46:31.721Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "2aa10d295df6a980",
-      "title": "Dampha Says Some Voters Back Barrow Despite Economic Concerns, Citing Lack of a Credible Alternative",
-      "summary": "By Makutu Manneh Some Gambians who are dissatisfied with the government’s handling of the economy and the cost of living still intend to vote for President Adama Barrow because they see no credible alternative, according to CepRass researcher Lamin Dampha. Speaking on Kerr Fat...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/dampha-says-some-voters-back-barrow-despite-economic-concerns-citing-lack-of-a-credible-alternative/",
-      "publishedAt": "2026-11-18T22:27:00.000Z",
-      "collectedAt": "2026-11-19T03:07:09.887Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cd2becd55a22ab70",
-      "title": "Darboe Welcomes NDP to UDP-Led Alliance, Calls It a Homecoming",
-      "summary": "By Seedy Jobe United Democratic Party (UDP) leader ANM Ousainu Darboe welcomed National Democratic Party (NDP) leader Kebba Madi Bojang and his supporters to the Gambia for Change (GFC) alliance, describing their decision to join the UDP-led coalition as a homecoming. Darboe a...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-welcomes-ndp-to-udp-led-alliance-calls-it-a-homecoming/",
-      "publishedAt": "2026-11-18T22:03:43.000Z",
-      "collectedAt": "2026-11-19T03:07:09.887Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f24f4bdce172e0a6",
       "title": "DRAMA! 25-Year-Old Man Allegedly Caught in Bed With Stepmother’s 18-Year-Old Daughter",
       "summary": "A family scandal has reportedly erupted in Faji Kunda after a Sierra Leonean-born man, aged between…\nThe post DRAMA! 25-Year-Old Man Allegedly Caught in Bed With Stepmother’s 18-Year-Old Daughter appeared first on What's On Gambia.",
@@ -1190,7 +1095,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/drama-25-year-old-man-allegedly-caught-in-bed-with-stepmothers-18-year-old-daughter/",
       "publishedAt": "2026-11-18T07:26:46.000Z",
-      "collectedAt": "2026-11-25T14:07:09.578Z",
+      "collectedAt": "2026-11-26T00:09:03.238Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1213,7 +1118,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-25T14:07:09.578Z",
+      "collectedAt": "2026-11-26T00:09:03.238Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1229,7 +1134,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T14:07:15.206Z",
-    "count": 51
+    "generatedAt": "2026-11-26T00:09:10.452Z",
+    "count": 47
   }
 }

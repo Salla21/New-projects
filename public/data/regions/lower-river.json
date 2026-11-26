@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "a4ce55385de77770",
+      "title": "Barrow Warns Bureng Residents Darboe Will Not Construct Their Roads if Elected President",
+      "summary": "By Makutu Manneh President Adama Barrow has warned residents of Bureng in the Lower River Region that their hopes of securing road infrastructure could be jeopardised if United Democratic Party (UDP) leader ANM Ousainu Darboe wins the December 5 presidential election. Speaking...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/barrow-warns-bureng-residents-darboe-will-not-construct-their-roads-if-elected-president/",
+      "publishedAt": "2026-11-25T22:32:19.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "lower-river",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "c99ce774b0403eeb",
       "title": "Gambia Signs Agreements for 52 MW Solar Power Project in Soma",
       "summary": "By Makutu Manneh The Government of The Gambia has signed two major agreements for the development of a 52-megawatt-peak (MWp) solar photovoltaic power plant in Soma, equipped with a 40.9-megawatt-hour (MWh) battery energy storage system, as part of efforts to strengthen the co...",
@@ -23,7 +47,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T14:07:15.206Z",
-    "count": 1
+    "generatedAt": "2026-11-26T00:09:10.452Z",
+    "count": 2
   }
 }

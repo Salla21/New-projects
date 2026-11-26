@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "e2f456a1262e834b",
+      "title": "Political Analyst Juwara Predicts Narrower Victory for Barrow if Re-elected on December 5",
+      "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow, if re-elected in the December 5 presidential election, will secure a victory with reduced electoral support compared to his performance in the 2021 presidential election. Speaking on Ker...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-predicts-narrower-victory-for-barrow-if-re-elected-on-december-5/",
+      "publishedAt": "2026-11-25T22:37:13.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "42f0ba200acd69bd",
+      "title": "Trust Bank Marks Third Year of Support for Essau District Hospital With D200,000 Donation",
+      "summary": "By Makutu Manneh Trust Bank Ltd has reaffirmed its commitment to improving healthcare delivery in The Gambia with the donation of medical equipment and essential supplies worth D200,000 to Essau District Hospital, marking its third consecutive year of support for the facility....",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-marks-third-year-of-support-for-essau-district-hospital-with-d200000-donation/",
+      "publishedAt": "2026-11-25T22:28:49.000Z",
+      "collectedAt": "2026-11-26T00:09:06.372Z",
+      "region": "north-bank",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "df938951a9e410ea",
       "title": "Touray Vows Constitutional Reform, Accountability at Simoto Tuba Rally",
       "summary": "By Hatab Nyang  Independent presidential candidate Isatou Touray pledged to overhaul The Gambia’s constitution and enforce strict presidential term limits during a campaign stop in the Upper River Region, sharpening her criticism of President Adama Barrow’s administration ahea...",
@@ -310,33 +359,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d897bf01f9aa218f",
-      "title": "Gambia Scores Victory in Historic Genocide Case Against Myanmar",
-      "summary": "Written by: Seringe S.T. Touray The Gambia has secured a major victory in its genocide case against Myanmar after the International Court of Justice (ICJ) found that security forces in the Southeast Asian country carried out widespread atrocities against the Rohingya, a predom...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-scores-victory-in-historic-genocide-case-against-myanmar/",
-      "publishedAt": "2026-11-19T10:56:15.000Z",
-      "collectedAt": "2026-11-19T12:46:36.168Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T14:07:15.206Z",
-    "count": 14
+    "generatedAt": "2026-11-26T00:09:10.452Z",
+    "count": 15
   }
 }

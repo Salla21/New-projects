@@ -324,33 +324,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "d897bf01f9aa218f",
-      "title": "Gambia Scores Victory in Historic Genocide Case Against Myanmar",
-      "summary": "Written by: Seringe S.T. Touray The Gambia has secured a major victory in its genocide case against Myanmar after the International Court of Justice (ICJ) found that security forces in the Southeast Asian country carried out widespread atrocities against the Rohingya, a predom...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/gambia-scores-victory-in-historic-genocide-case-against-myanmar/",
-      "publishedAt": "2026-11-19T10:56:15.000Z",
-      "collectedAt": "2026-11-19T12:46:36.168Z",
-      "region": "banjul",
-      "categories": [
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T14:07:15.206Z",
-    "count": 15
+    "generatedAt": "2026-11-26T00:09:10.452Z",
+    "count": 14
   }
 }
