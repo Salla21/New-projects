@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "713e21efd0d31299",
+      "title": "APC Presidential Candidate Modou Lamin Sima Withdraws from December 5 Election",
+      "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) presidential candidate Modou Lamin Sima has withdrawn from The Gambia’s December 5, 2026 presidential election. The Independent Electoral Commission (IEC) said Sima submitted his withdrawal on November 24. The commission ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apc-presidential-candidate-modou-lamin-sima-withdraws-from-december-5-election/",
+      "publishedAt": "2026-11-26T12:25:00.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "42f0ba200acd69bd",
       "title": "Trust Bank Marks Third Year of Support for Essau District Hospital With D200,000 Donation",
       "summary": "By Makutu Manneh Trust Bank Ltd has reaffirmed its commitment to improving healthcare delivery in The Gambia with the donation of medical equipment and essential supplies worth D200,000 to Essau District Hospital, marking its third consecutive year of support for the facility....",
@@ -401,7 +424,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T10:43:42.923Z",
-    "count": 17
+    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "count": 18
   }
 }

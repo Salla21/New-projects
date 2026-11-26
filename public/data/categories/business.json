@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "bf3154f7d521439d",
+      "title": "CAF to implement CAS’s ruling on Senegal Afcon appeal",
+      "summary": "By Momodou Jarju The Confederation of African Football (CAF) has issued a statement after the Court of Arbitration for Sport (CAS’s) ruling on the dispute between Senegal and Morocco football bodies with respect to the TotalEnergies CAF Africa Cup of Nations Morocco 2025 Final...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/caf-to-implement-cass-ruling-on-senegal-afcon-appeal/",
+      "publishedAt": "2026-11-26T14:39:34.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "banjul",
+      "categories": [
+        "business",
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "72d31073d29944ae",
+      "title": "Dr Isatou Touray Pledges Irrigation and Equipment Support for Women Farmers",
+      "summary": "By Hatab Nyang Independent presidential candidate Dr Isatou Touray has pledged to provide boreholes, sprinkler systems and modern farming equipment to women’s gardens if elected in the December 5 presidential election. Touray made the pledge after visiting Fofona Garden in Far...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/dr-isatou-touray-pledges-irrigation-and-equipment-support-for-women-farmers/",
+      "publishedAt": "2026-11-26T11:40:00.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e2f456a1262e834b",
       "title": "Political Analyst Juwara Predicts Narrower Victory for Barrow if Re-elected on December 5",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow, if re-elected in the December 5 presidential election, will secure a victory with reduced electoral support compared to his performance in the 2021 presidential election. Speaking on Ker...",
@@ -965,31 +1013,6 @@
       "status": "published"
     },
     {
-      "id": "5b4337f135aff02c",
-      "title": "APEC leaders adopt 2026 declaration as Xi urges closer regional cooperation",
-      "summary": "By Yankuba Jallow Leaders at the 33rd Asia-Pacific Economic Cooperation (APEC) meeting adopted a declaration and three supporting documents in Shenzhen on 19 November, as Chinese President Xi Jinping called for stronger trade ties, regional connections, technological cooperati...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/apec-leaders-adopt-2026-declaration-as-xi-urges-closer-regional-cooperation/",
-      "publishedAt": "2026-11-19T15:20:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
       "id": "f24f4bdce172e0a6",
       "title": "DRAMA! 25-Year-Old Man Allegedly Caught in Bed With Stepmother’s 18-Year-Old Daughter",
       "summary": "A family scandal has reportedly erupted in Faji Kunda after a Sierra Leonean-born man, aged between…\nThe post DRAMA! 25-Year-Old Man Allegedly Caught in Bed With Stepmother’s 18-Year-Old Daughter appeared first on What's On Gambia.",
@@ -998,7 +1021,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/drama-25-year-old-man-allegedly-caught-in-bed-with-stepmothers-18-year-old-daughter/",
       "publishedAt": "2026-11-18T07:26:46.000Z",
-      "collectedAt": "2026-11-26T10:43:23.645Z",
+      "collectedAt": "2026-11-26T21:19:32.484Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1021,7 +1044,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/brusubi-turntable-afra-seller-allegedly-dumps-assistant-after-impregnating-her/",
       "publishedAt": "2026-11-04T06:26:19.000Z",
-      "collectedAt": "2026-11-26T10:43:23.645Z",
+      "collectedAt": "2026-11-26T21:19:32.484Z",
       "region": "banjul",
       "categories": [
         "business"
@@ -1037,7 +1060,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T10:43:42.923Z",
-    "count": 43
+    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "count": 44
   }
 }

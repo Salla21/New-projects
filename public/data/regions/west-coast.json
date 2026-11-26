@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "713e21efd0d31299",
+      "title": "APC Presidential Candidate Modou Lamin Sima Withdraws from December 5 Election",
+      "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) presidential candidate Modou Lamin Sima has withdrawn from The Gambia’s December 5, 2026 presidential election. The Independent Electoral Commission (IEC) said Sima submitted his withdrawal on November 24. The commission ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apc-presidential-candidate-modou-lamin-sima-withdraws-from-december-5-election/",
+      "publishedAt": "2026-11-26T12:25:00.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5f00f3dc645c1a6b",
       "title": "Political Analyst Juwara Questions Barrow’s Economic and Security Agenda in Third-Term Campaign",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has questioned President Adama Barrow’s failure to articulate clear economic and security policies as he campaigns for a third term in office ahead of The Gambia’s December 5 presidential election. Speaking on Kerr Fatou’s Politi...",
@@ -359,7 +382,7 @@
       "sourceUrl": "https://whatson-gambia.com/feed/",
       "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
       "publishedAt": "2026-11-04T06:20:12.000Z",
-      "collectedAt": "2026-11-26T10:43:23.645Z",
+      "collectedAt": "2026-11-26T21:19:32.484Z",
       "region": "west-coast",
       "categories": [],
       "contentType": "article",
@@ -373,7 +396,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T10:43:42.923Z",
-    "count": 16
+    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "count": 17
   }
 }

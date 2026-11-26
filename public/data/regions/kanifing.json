@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "2351083d7ac00727",
+      "title": "Kanifing East sign RS Tallinding’s strker Ba Alpha Ceesay",
+      "summary": "By Momodou Jarju The first division league newcomers Kanifing East FC has signed striker Ba Alpha Ceesay from second division league outfit RS Tallinding FC ahead of the new football season which is expected to kick off next month. With a debut season in sight in the domestic ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kanifing-east-sign-rs-tallindings-strker-ba-alpha-ceesay/",
+      "publishedAt": "2026-11-26T14:35:29.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "kanifing",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "5262e807ca0ba51c",
       "title": "Does Bakau Have a N*de Beach? Mysterious Sign Sparks Curiosity",
       "summary": "A mysterious sign spotted in Cape Point, Bakau, has raised eyebrows and sparked speculation over whether…\nThe post Does Bakau Have a N*de Beach? Mysterious Sign Sparks Curiosity appeared first on What's On Gambia.",
@@ -70,7 +93,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T10:43:42.923Z",
-    "count": 3
+    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "count": 4
   }
 }

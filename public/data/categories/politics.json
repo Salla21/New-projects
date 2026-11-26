@@ -1,6 +1,145 @@
 {
   "items": [
     {
+      "id": "638caefcb09e7ea6",
+      "title": "Ghana Town and the Law: Citizenship Is Not a Political Pawn",
+      "summary": "OPINION/LEGAL ANALYSIS By Sarjo Barrow, Esq. Chances are, if you are a senior Ghana Town resident, you have lived in The Gambia longer than many of the officials who now ask for your papers. You may have fished its waters, raised children and grandchildren here, and buried you...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ghana-town-and-the-law-citizenship-is-not-a-political-pawn/",
+      "publishedAt": "2026-11-26T17:51:16.000Z",
+      "collectedAt": "2026-11-26T21:19:32.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6503474abccdb17c",
+      "title": "EFSCRJ Releases Position Paper on the 2026 Presidential Election and Candidates",
+      "summary": "The Edward Francis Small Centre for Rights and Justice has released its position paper on the 5 December 2026 presidential election and candidates, highlighting critical issues of constitutionalism, democratic governance, human rights, transitional justice, and national develo...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/efscrj-releases-position-paper-on-the-2026-presidential-election-and-candidates/",
+      "publishedAt": "2026-11-26T17:27:55.000Z",
+      "collectedAt": "2026-11-26T21:19:32.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "713e21efd0d31299",
+      "title": "APC Presidential Candidate Modou Lamin Sima Withdraws from December 5 Election",
+      "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) presidential candidate Modou Lamin Sima has withdrawn from The Gambia’s December 5, 2026 presidential election. The Independent Electoral Commission (IEC) said Sima submitted his withdrawal on November 24. The commission ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apc-presidential-candidate-modou-lamin-sima-withdraws-from-december-5-election/",
+      "publishedAt": "2026-11-26T12:25:00.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7a917d21c0fe776c",
+      "title": "Almameh Gibba Promises Comprehensive Security Reform if Elected President",
+      "summary": "By Nelson Manneh Presidential candidate Almameh Gibba has pledged to reform The Gambia’s security sector and give Gambian security personnel greater responsibility if elected in the December 5 presidential election. Gibba, leader of the No-To-Alliance Movement and National Ass...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/almameh-gibba-promises-comprehensive-security-reform-if-elected-president/",
+      "publishedAt": "2026-11-26T12:10:00.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "963714f3a4675312",
+      "title": "Jarra Jappineh Residents Ask Barrow to Construct Road Linking Community to Fishing Stream",
+      "summary": "By Kebba Secka Residents of Jarra Jappineh have asked President Adama Barrow to construct or rehabilitate the road linking their community to the fishing stream, saying many local livelihoods depend on access to the river. Saja Sarr made the request during Barrow’s campaign me...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/jarra-jappineh-residents-ask-barrow-to-construct-road-linking-community-to-fishing-stream/",
+      "publishedAt": "2026-11-26T11:50:00.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "lower-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "72d31073d29944ae",
+      "title": "Dr Isatou Touray Pledges Irrigation and Equipment Support for Women Farmers",
+      "summary": "By Hatab Nyang Independent presidential candidate Dr Isatou Touray has pledged to provide boreholes, sprinkler systems and modern farming equipment to women’s gardens if elected in the December 5 presidential election. Touray made the pledge after visiting Fofona Garden in Far...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/dr-isatou-touray-pledges-irrigation-and-equipment-support-for-women-farmers/",
+      "publishedAt": "2026-11-26T11:40:00.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2266bbb6cd92e652",
       "title": "WHAT IS THE ROLE OF A POLLING AGENT AT A POLLING STATION?",
       "summary": "The law empowers a candidate to appoint two polling agents for each polling station. These polling agents are the eyes and ears of the candidate at the polling station. They are supposed to monitor the process taking place at the polling station and its environ and check wheth...",
@@ -1991,35 +2130,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "5b4337f135aff02c",
-      "title": "APEC leaders adopt 2026 declaration as Xi urges closer regional cooperation",
-      "summary": "By Yankuba Jallow Leaders at the 33rd Asia-Pacific Economic Cooperation (APEC) meeting adopted a declaration and three supporting documents in Shenzhen on 19 November, as Chinese President Xi Jinping called for stronger trade ties, regional connections, technological cooperati...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/apec-leaders-adopt-2026-declaration-as-xi-urges-closer-regional-cooperation/",
-      "publishedAt": "2026-11-19T15:20:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Yankuba Jallow",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T10:43:42.923Z",
-    "count": 85
+    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "count": 90
   }
 }

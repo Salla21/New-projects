@@ -1,23 +1,69 @@
 {
   "items": [
     {
-      "id": "40c74ec641277346",
-      "title": "From the streets of Serrekunda to the basketball courts of America",
-      "summary": "By Sainabou Sama The Journey of Alhagie Waka Mbatch Driven by determination, resilience and an unwavering ambition to succeed, Gambian basketball player Alhagie Waka Mbatch is turning a childhood passion into an international sporting career. For Alhagie Waka Mbatch, the journ...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/from-the-streets-of-serrekunda-to-the-basketball-courts-of-america/",
-      "publishedAt": "2026-11-19T12:38:56.000Z",
-      "collectedAt": "2026-11-19T12:46:36.168Z",
-      "region": "kanifing",
+      "id": "bf3154f7d521439d",
+      "title": "CAF to implement CAS’s ruling on Senegal Afcon appeal",
+      "summary": "By Momodou Jarju The Confederation of African Football (CAF) has issued a statement after the Court of Arbitration for Sport (CAS’s) ruling on the dispute between Senegal and Morocco football bodies with respect to the TotalEnergies CAF Africa Cup of Nations Morocco 2025 Final...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/caf-to-implement-cass-ruling-on-senegal-afcon-appeal/",
+      "publishedAt": "2026-11-26T14:39:34.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "banjul",
       "categories": [
         "business",
         "sports"
       ],
       "contentType": "article",
       "thumbnailUrl": null,
-      "author": "Hadram Hydara",
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "2351083d7ac00727",
+      "title": "Kanifing East sign RS Tallinding’s strker Ba Alpha Ceesay",
+      "summary": "By Momodou Jarju The first division league newcomers Kanifing East FC has signed striker Ba Alpha Ceesay from second division league outfit RS Tallinding FC ahead of the new football season which is expected to kick off next month. With a debut season in sight in the domestic ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kanifing-east-sign-rs-tallindings-strker-ba-alpha-ceesay/",
+      "publishedAt": "2026-11-26T14:35:29.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "kanifing",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f35808e0eed4280c",
+      "title": "Samger sign promising left wing-back Kebba Saine",
+      "summary": "By Momodou Jarju The Gambia Football Federation (GFF) second division league side Samger FC Wednesday announced the signing of a promising player Kebba Saine ahead of the 2026/27 football season. The young left-footed wing-back is expected to strengthen their squad as they pre...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/samger-sign-promising-left-wing-back-kebba-saine/",
+      "publishedAt": "2026-11-26T13:27:47.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "banjul",
+      "categories": [
+        "sports"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
       "language": "en",
       "isGoodNews": false,
       "isOfficialSource": false,
@@ -26,7 +72,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T00:09:10.452Z",
-    "count": 1
+    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "count": 3
   }
 }

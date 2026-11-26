@@ -1,6 +1,73 @@
 {
   "items": [
     {
+      "id": "638caefcb09e7ea6",
+      "title": "Ghana Town and the Law: Citizenship Is Not a Political Pawn",
+      "summary": "OPINION/LEGAL ANALYSIS By Sarjo Barrow, Esq. Chances are, if you are a senior Ghana Town resident, you have lived in The Gambia longer than many of the officials who now ask for your papers. You may have fished its waters, raised children and grandchildren here, and buried you...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/ghana-town-and-the-law-citizenship-is-not-a-political-pawn/",
+      "publishedAt": "2026-11-26T17:51:16.000Z",
+      "collectedAt": "2026-11-26T21:19:32.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "ec943cd2252da268",
+      "title": "Fatou Baldeh Urges Gambia to Match Global Human Rights Stance With Action at Home",
+      "summary": "By Mama A. Touray Women in Liberation and Leadership (WILL) Executive Director Fatou Baldeh has urged The Gambia to demonstrate the same commitment to human rights domestically as it has on the international stage, warning against any weakening of protections for women and gir...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/fatou-baldeh-urges-gambia-to-match-global-human-rights-stance-with-action-at-home/",
+      "publishedAt": "2026-11-26T17:36:06.000Z",
+      "collectedAt": "2026-11-26T21:19:32.591Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "6503474abccdb17c",
+      "title": "EFSCRJ Releases Position Paper on the 2026 Presidential Election and Candidates",
+      "summary": "The Edward Francis Small Centre for Rights and Justice has released its position paper on the 5 December 2026 presidential election and candidates, highlighting critical issues of constitutionalism, democratic governance, human rights, transitional justice, and national develo...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/efscrj-releases-position-paper-on-the-2026-presidential-election-and-candidates/",
+      "publishedAt": "2026-11-26T17:27:55.000Z",
+      "collectedAt": "2026-11-26T21:19:32.591Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Hadram Hydara",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "4fee047652eae138",
       "title": "SPOTLIGHT | From Gambia to the stars: Fama Jallow’s mission beyond Earth",
       "summary": "From a country of fewer than three million people to the doorstep of human spaceflight, Gambian aerospace engineer Fama Jallow is proving that ambition has no borders. Selected by Titans Space Industries as an astronaut candidate and working towards spaceflight qualification b...",
@@ -279,7 +346,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T10:43:42.923Z",
-    "count": 12
+    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "count": 15
   }
 }

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "e3e5fd079331c6e2",
+      "title": "Maa Foundation for Women Takes Grassroots Leadership to the Global Stage",
+      "summary": "From The Gambia to Europe By Ndey Sowe Maa Foundation for Women has brought the experience of Gambian grassroots leadership to an international platform, as its Founder and Chief Executive Officer, Fatoumata Jawara, joined the fifth edition of PITASO: International Youth Visio...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/maa-foundation-for-women-takes-grassroots-leadership-to-the-global-stage/",
+      "publishedAt": "2026-11-26T12:19:00.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "banjul",
+      "categories": [
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "288db7e1ade7198d",
       "title": "Darboe Urges Dankunku Voters to Scrutinise Presidential Candidates Ahead of December 5 Election",
       "summary": "ANM Ousainu Darboe By Seedy Jobe The GFC-UDP-led Alliance presidential candidate, ANM Ousainu Darboe, has urged voters in Dankunku to carefully assess the candidates contesting the December 5 presidential election and elect a leader committed to serving the interests of The Ga...",
@@ -393,7 +416,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T10:43:42.923Z",
-    "count": 16
+    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "count": 17
   }
 }

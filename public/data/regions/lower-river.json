@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "963714f3a4675312",
+      "title": "Jarra Jappineh Residents Ask Barrow to Construct Road Linking Community to Fishing Stream",
+      "summary": "By Kebba Secka Residents of Jarra Jappineh have asked President Adama Barrow to construct or rehabilitate the road linking their community to the fishing stream, saying many local livelihoods depend on access to the river. Saja Sarr made the request during Barrow’s campaign me...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/jarra-jappineh-residents-ask-barrow-to-construct-road-linking-community-to-fishing-stream/",
+      "publishedAt": "2026-11-26T11:50:00.000Z",
+      "collectedAt": "2026-11-26T21:19:32.313Z",
+      "region": "lower-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "a4ce55385de77770",
       "title": "Barrow Warns Bureng Residents Darboe Will Not Construct Their Roads if Elected President",
       "summary": "By Makutu Manneh President Adama Barrow has warned residents of Bureng in the Lower River Region that their hopes of securing road infrastructure could be jeopardised if United Democratic Party (UDP) leader ANM Ousainu Darboe wins the December 5 presidential election. Speaking...",
@@ -47,7 +70,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T10:43:42.923Z",
-    "count": 2
+    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "count": 3
   }
 }
