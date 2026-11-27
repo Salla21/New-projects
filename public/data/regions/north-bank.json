@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "b771fe2b0841000b",
+      "title": "Trust Bank Donates D250,000 Worth of Medical Supplies to Farafenni General Hospital",
+      "summary": "By Makutu Manneh Trust Bank Ltd has donated medical supplies and other essential materials worth D250,000 to Farafenni General Hospital as part of its annual corporate social responsibility (CSR) programme aimed at strengthening healthcare delivery across The Gambia. The donat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-donates-d250000-worth-of-medical-supplies-to-farafenni-general-hospital/",
+      "publishedAt": "2026-11-26T22:35:51.000Z",
+      "collectedAt": "2026-11-27T04:03:34.514Z",
+      "region": "north-bank",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "42f0ba200acd69bd",
       "title": "Trust Bank Marks Third Year of Support for Essau District Hospital With D200,000 Donation",
       "summary": "By Makutu Manneh Trust Bank Ltd has reaffirmed its commitment to improving healthcare delivery in The Gambia with the donation of medical equipment and essential supplies worth D200,000 to Essau District Hospital, marking its third consecutive year of support for the facility....",
@@ -168,34 +191,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "3671233c78f34249",
-      "title": "Barrow Urges Supporters Not to Underestimate Opponents as Election Nears",
-      "summary": "By Makutu Manneh President Adama Barrow has urged his supporters and coalition partners to intensify their campaign efforts and avoid complacency as the December 5 presidential election approaches. Speaking at campaign rallies in Dibba Kunda, Sabach Sanjal, in the North Bank R...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-urges-supporters-not-to-underestimate-opponents-as-election-nears/",
-      "publishedAt": "2026-11-19T23:33:38.000Z",
-      "collectedAt": "2026-11-20T06:56:04.252Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "generatedAt": "2026-11-27T04:03:38.615Z",
     "count": 8
   }
 }

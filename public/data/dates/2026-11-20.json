@@ -306,100 +306,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "25f793db3c251723",
-      "title": "Ndungu Chareh Secco Manager Says Some Farmers Have Been Paid",
-      "summary": "By Kebba Secka The manager of Ndungu Chareh Secco says some farmers who were owed money from the 2025/2026 groundnut trade season have been paid, while others are expected to receive their outstanding balances within a week. Ebrima Sarr, the Secco manager, said some farmers we...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/ndungu-chareh-secco-manager-says-some-farmers-have-been-paid/",
-      "publishedAt": "2026-11-20T11:40:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "662256b8c9210b2d",
-      "title": "Sidia Jatta urges voters to question why hardship persists after 6 decades of voting",
-      "summary": "Lamin J. Darbo urges voters to Use Their Ballot for Change By Yankuba Jallow At a campaign meeting in Farafenni on November 18, the leadership of the Team Gambia Grand Coalition have urged voters to judge candidates by their integrity, knowledge and record of service, as presi...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/sidia-jatta-urges-voters-to-question-why-hardship-persists-after-6-decades-of-voting/",
-      "publishedAt": "2026-11-20T11:31:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "west-coast",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "cce240c25b3bf105",
-      "title": "HOW MUST THE FARMGATE PRICE OF GROUNDUTS BE DETERMINED?",
-      "summary": "Key in the determination of the price of groundnuts is the involvement of representatives of the farmers who toil in the field to produce the crop. Do they have a say in the determination of the farmgate price? Farmers should select their own representatives who should act as ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/how-must-the-farmgate-price-of-grounduts-be-determined/",
-      "publishedAt": "2026-11-20T10:26:56.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "429e8b1b3c6de0b8",
-      "title": "THE DEATH PENALTY IN THE GAMBIA",
-      "summary": "Under the first republic the death penalty was abolished, and no law could be enacted for which a death sentence was the penalty. But in 1995 under military rule a decree was established re-introducing the death penalty. The 1997 Constitution did not abolish the death penalty ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/the-death-penalty-in-the-gambia/",
-      "publishedAt": "2026-11-20T10:25:23.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T21:19:46.104Z",
-    "count": 17
+    "generatedAt": "2026-11-27T04:03:38.615Z",
+    "count": 13
   }
 }

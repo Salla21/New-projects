@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "2ed1bfd020d969f6",
+      "title": "Finance Minister Claims Gambia Is Only West African Country With Falling Rice Prices, Urges Barrow’s Re-election",
+      "summary": "Seedy Keita, Minister of Finance By Makutu Manneh The Minister of Finance and Economic Affairs, Seedy Keita, has claimed that The Gambia is the only country in West Africa where rice prices have declined, attributing the development to the government’s fiscal policies aimed at...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/finance-minister-claims-gambia-is-only-west-african-country-with-falling-rice-prices-urges-barrows-re-election/",
+      "publishedAt": "2026-11-26T22:46:45.000Z",
+      "collectedAt": "2026-11-27T04:03:34.514Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "f11e38901c473151",
+      "title": "President Barrow Pledges Factories, 200MW Solar Project for Jarra Soma if Re-elected",
+      "summary": "By Makutu Manneh President Adama Barrow has pledged to establish factories and implement a 200-megawatt solar energy project in Jarra Soma, Lower River Region (LRR), if re-elected in the December 5 presidential election. Speaking at a campaign rally in Jarra Soma, President Ba...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-pledges-factories-200mw-solar-project-for-jarra-soma-if-re-elected/",
+      "publishedAt": "2026-11-26T22:41:20.000Z",
+      "collectedAt": "2026-11-27T04:03:34.514Z",
+      "region": "lower-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "7136d1f12f45ded7",
+      "title": "Trust Bank Donates D200,000 Worth of Supplies to Basse District Hospital’s Male Medical Ward",
+      "summary": "By Makutu Manneh Trust Bank Limited has donated essential supplies and equipment valued at D200,000 to the Male Medical Ward of Basse District Hospital as part of its ongoing corporate social responsibility initiative aimed at strengthening healthcare delivery across The Gambi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-donates-d200000-worth-of-supplies-to-basse-district-hospitals-male-medical-ward/",
+      "publishedAt": "2026-11-26T22:39:10.000Z",
+      "collectedAt": "2026-11-27T04:03:34.514Z",
+      "region": "upper-river",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "b771fe2b0841000b",
+      "title": "Trust Bank Donates D250,000 Worth of Medical Supplies to Farafenni General Hospital",
+      "summary": "By Makutu Manneh Trust Bank Ltd has donated medical supplies and other essential materials worth D250,000 to Farafenni General Hospital as part of its annual corporate social responsibility (CSR) programme aimed at strengthening healthcare delivery across The Gambia. The donat...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-donates-d250000-worth-of-medical-supplies-to-farafenni-general-hospital/",
+      "publishedAt": "2026-11-26T22:35:51.000Z",
+      "collectedAt": "2026-11-27T04:03:34.514Z",
+      "region": "north-bank",
+      "categories": [
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "638caefcb09e7ea6",
       "title": "Ghana Town and the Law: Citizenship Is Not a Political Pawn",
       "summary": "OPINION/LEGAL ANALYSIS By Sarjo Barrow, Esq. Chances are, if you are a senior Ghana Town resident, you have lived in The Gambia longer than many of the officials who now ask for your papers. You may have fished its waters, raised children and grandchildren here, and buried you...",
@@ -2242,105 +2336,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e29d7870557122a1",
-      "title": "Bensouda Outlines Agriculture, Infrastructure and Economic Plans as Nationwide Tour Continues",
-      "summary": "Written by: Seringe S.T. Touray UNITE leader Talib Ahmed Bensouda continues his nationwide tour today in the Upper River Region, with scheduled stops in Julangel, Bakadagi, Basse, Perai Tenda, Sare Alpha and Koina, following several days of engagements across the North Bank an...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bensouda-outlines-agriculture-infrastructure-and-economic-plans-as-nationwide-tour-continues/",
-      "publishedAt": "2026-11-20T13:12:46.000Z",
-      "collectedAt": "2026-11-20T16:54:45.610Z",
-      "region": "north-bank",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "30613d9f9e4b984f",
-      "title": "Talib Ahmed Bensouda Pledges to Restore Death Penalty for Murder if Elected",
-      "summary": "By Kebba A.F. Touray Talib Ahmed Bensouda, the presidential candidate for the UNITE Party and Coalition 2026, has pledged to enforce the death penalty for murder if elected president. The death penalty is currently in the law books, but the Gambia Government, through President...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/bensouda-pledges-to-restore-death-penalty-for-murder-if-elected/",
-      "publishedAt": "2026-11-20T12:07:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9507593a30e20c0f",
-      "title": "IEC Warns Against Constituency-Based Campaigns, Urges Candidates to Follow Official Schedule",
-      "summary": "By Nelson Manneh The Independent Electoral Commission (IEC) has cautioned political parties and aspirants against conducting unauthorised constituency-based campaigns, directing all presidential contenders to strictly adhere to the Commission’s approved national campaign itine...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-warns-against-constituency-based-campaigns-urges-candidates-to-follow-official-schedule/",
-      "publishedAt": "2026-11-20T11:53:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "739ff7a047453fdb",
-      "title": "UDP’s Ousainou Darboe Sets Out Security and Agriculture Plans",
-      "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou ANM Darboe has outlined plans on security, civil service reform, agriculture and education during a campaign meeting in Kerr Pateh Kala, North Bank Region. Darboe urged ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/udps-ousainou-darboe-sets-out-security-and-agriculture-plans/",
-      "publishedAt": "2026-11-20T11:46:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "generatedAt": "2026-11-27T04:03:38.615Z",
     "count": 100
   }
 }

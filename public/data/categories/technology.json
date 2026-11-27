@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7136d1f12f45ded7",
+      "title": "Trust Bank Donates D200,000 Worth of Supplies to Basse District Hospital’s Male Medical Ward",
+      "summary": "By Makutu Manneh Trust Bank Limited has donated essential supplies and equipment valued at D200,000 to the Male Medical Ward of Basse District Hospital as part of its ongoing corporate social responsibility initiative aimed at strengthening healthcare delivery across The Gambi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-donates-d200000-worth-of-supplies-to-basse-district-hospitals-male-medical-ward/",
+      "publishedAt": "2026-11-26T22:39:10.000Z",
+      "collectedAt": "2026-11-27T04:03:34.514Z",
+      "region": "upper-river",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e2f456a1262e834b",
       "title": "Political Analyst Juwara Predicts Narrower Victory for Barrow if Re-elected on December 5",
       "summary": "By Makutu Manneh Political analyst Lamin Juwara has predicted that President Adama Barrow, if re-elected in the December 5 presidential election, will secure a victory with reduced electoral support compared to his performance in the 2021 presidential election. Speaking on Ker...",
@@ -291,7 +315,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T21:19:46.104Z",
-    "count": 12
+    "generatedAt": "2026-11-27T04:03:38.615Z",
+    "count": 13
   }
 }

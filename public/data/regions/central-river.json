@@ -92,34 +92,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "60679d6476b07fd7",
-      "title": "Barrow Warns Mbayen Residents Against Opposition ‘Deception,’ Seeks Third Term",
-      "summary": "By Makutu Manneh President Adama Barrow has cautioned residents of Mbayen in the Central River Region against what he described as deceptive promises by opposition politicians, urging voters to support his bid for a third term in the December 5 presidential election. Speaking ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-warns-mbayen-residents-against-opposition-deception-seeks-third-term/",
-      "publishedAt": "2026-11-19T23:38:20.000Z",
-      "collectedAt": "2026-11-20T06:56:04.252Z",
-      "region": "central-river",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T21:19:46.104Z",
-    "count": 5
+    "generatedAt": "2026-11-27T04:03:38.615Z",
+    "count": 4
   }
 }

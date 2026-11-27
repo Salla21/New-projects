@@ -320,33 +320,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c636a66cb5236374",
-      "title": "If You’re Tough on Corruption, Prove It on Paper: Show Us the Assets",
-      "summary": "OPINION By Sarjo Barrow, Esq. Nominations have closed, and every presidential candidate has filed a sworn declaration of assets with the Independent Electoral Commission (IEC), as the Elections Act requires. Yet voters have seen none of them. Unlike in 2021, when the IEC brief...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/if-youre-tough-on-corruption-prove-it-on-paper-show-us-the-assets/",
-      "publishedAt": "2026-11-19T17:45:19.000Z",
-      "collectedAt": "2026-11-19T22:07:51.812Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T21:19:46.104Z",
-    "count": 15
+    "generatedAt": "2026-11-27T04:03:38.615Z",
+    "count": 14
   }
 }

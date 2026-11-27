@@ -388,35 +388,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "26b24cc1b61c7e67",
-      "title": "Darboe Pledges Budget Review and Reforms as Alliance Launches Campaign",
-      "summary": "By Seedy Jobe Gambia First Coalition presidential candidate ANM Ousainu Darboe has launched the UDP-led alliance’s campaign tour in Badibou Saba, promising to review government spending and address problems in agriculture, healthcare and education if elected on December 5. Dar...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-budget-review-and-reforms-as-alliance-launches-campaign/",
-      "publishedAt": "2026-11-19T23:22:51.000Z",
-      "collectedAt": "2026-11-20T06:56:04.252Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T21:19:46.104Z",
-    "count": 17
+    "generatedAt": "2026-11-27T04:03:38.615Z",
+    "count": 16
   }
 }

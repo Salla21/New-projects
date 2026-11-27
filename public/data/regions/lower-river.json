@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "f11e38901c473151",
+      "title": "President Barrow Pledges Factories, 200MW Solar Project for Jarra Soma if Re-elected",
+      "summary": "By Makutu Manneh President Adama Barrow has pledged to establish factories and implement a 200-megawatt solar energy project in Jarra Soma, Lower River Region (LRR), if re-elected in the December 5 presidential election. Speaking at a campaign rally in Jarra Soma, President Ba...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/president-barrow-pledges-factories-200mw-solar-project-for-jarra-soma-if-re-elected/",
+      "publishedAt": "2026-11-26T22:41:20.000Z",
+      "collectedAt": "2026-11-27T04:03:34.514Z",
+      "region": "lower-river",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "963714f3a4675312",
       "title": "Jarra Jappineh Residents Ask Barrow to Construct Road Linking Community to Fishing Stream",
       "summary": "By Kebba Secka Residents of Jarra Jappineh have asked President Adama Barrow to construct or rehabilitate the road linking their community to the fishing stream, saying many local livelihoods depend on access to the river. Saja Sarr made the request during Barrow’s campaign me...",
@@ -46,31 +69,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c99ce774b0403eeb",
-      "title": "Gambia Signs Agreements for 52 MW Solar Power Project in Soma",
-      "summary": "By Makutu Manneh The Government of The Gambia has signed two major agreements for the development of a 52-megawatt-peak (MWp) solar photovoltaic power plant in Soma, equipped with a 40.9-megawatt-hour (MWh) battery energy storage system, as part of efforts to strengthen the co...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gambia-signs-agreements-for-52-mw-solar-power-project-in-soma/",
-      "publishedAt": "2026-11-19T23:51:14.000Z",
-      "collectedAt": "2026-11-20T06:56:04.252Z",
-      "region": "lower-river",
-      "categories": [],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-26T21:19:46.104Z",
+    "generatedAt": "2026-11-27T04:03:38.615Z",
     "count": 3
   }
 }
