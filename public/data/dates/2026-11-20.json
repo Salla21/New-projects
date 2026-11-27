@@ -211,105 +211,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e29d7870557122a1",
-      "title": "Bensouda Outlines Agriculture, Infrastructure and Economic Plans as Nationwide Tour Continues",
-      "summary": "Written by: Seringe S.T. Touray UNITE leader Talib Ahmed Bensouda continues his nationwide tour today in the Upper River Region, with scheduled stops in Julangel, Bakadagi, Basse, Perai Tenda, Sare Alpha and Koina, following several days of engagements across the North Bank an...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bensouda-outlines-agriculture-infrastructure-and-economic-plans-as-nationwide-tour-continues/",
-      "publishedAt": "2026-11-20T13:12:46.000Z",
-      "collectedAt": "2026-11-20T16:54:45.610Z",
-      "region": "north-bank",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "30613d9f9e4b984f",
-      "title": "Talib Ahmed Bensouda Pledges to Restore Death Penalty for Murder if Elected",
-      "summary": "By Kebba A.F. Touray Talib Ahmed Bensouda, the presidential candidate for the UNITE Party and Coalition 2026, has pledged to enforce the death penalty for murder if elected president. The death penalty is currently in the law books, but the Gambia Government, through President...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/bensouda-pledges-to-restore-death-penalty-for-murder-if-elected/",
-      "publishedAt": "2026-11-20T12:07:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "9507593a30e20c0f",
-      "title": "IEC Warns Against Constituency-Based Campaigns, Urges Candidates to Follow Official Schedule",
-      "summary": "By Nelson Manneh The Independent Electoral Commission (IEC) has cautioned political parties and aspirants against conducting unauthorised constituency-based campaigns, directing all presidential contenders to strictly adhere to the Commission’s approved national campaign itine...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-warns-against-constituency-based-campaigns-urges-candidates-to-follow-official-schedule/",
-      "publishedAt": "2026-11-20T11:53:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "739ff7a047453fdb",
-      "title": "UDP’s Ousainou Darboe Sets Out Security and Agriculture Plans",
-      "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou ANM Darboe has outlined plans on security, civil service reform, agriculture and education during a campaign meeting in Kerr Pateh Kala, North Bank Region. Darboe urged ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/udps-ousainou-darboe-sets-out-security-and-agriculture-plans/",
-      "publishedAt": "2026-11-20T11:46:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T04:03:38.615Z",
-    "count": 13
+    "generatedAt": "2026-11-27T16:33:24.846Z",
+    "count": 9
   }
 }

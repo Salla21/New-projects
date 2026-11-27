@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "180b2da250036c44",
+      "title": "Darboe Pledges Agricultural Revival, Says Economic Growth Must Begin With Food Self-Sufficiency",
+      "summary": "ANM Ousainu Darboe By Seedy Jobe The presidential candidate of the Gambia First Coalition-UDP-led Alliance, ANM Ousainu Darboe, has pledged to revitalise The Gambia’s agricultural sector if elected, emphasising that the country’s economic transformation must begin with achievi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-agricultural-revival-says-economic-growth-must-begin-with-food-self-sufficiency/",
+      "publishedAt": "2026-11-27T06:55:36.000Z",
+      "collectedAt": "2026-11-27T16:33:20.733Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "713e21efd0d31299",
       "title": "APC Presidential Candidate Modou Lamin Sima Withdraws from December 5 Election",
       "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) presidential candidate Modou Lamin Sima has withdrawn from The Gambia’s December 5, 2026 presidential election. The Independent Electoral Commission (IEC) said Sima submitted his withdrawal on November 24. The commission ...",
@@ -352,7 +376,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T04:03:38.615Z",
-    "count": 15
+    "generatedAt": "2026-11-27T16:33:24.846Z",
+    "count": 16
   }
 }

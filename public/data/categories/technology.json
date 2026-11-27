@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ab613791468c0caa",
+      "title": "Essa Bokar Sey Says Bensouda’s Victory Would Transform Taibatu and West Coast Region",
+      "summary": "By Fatou Sillah Essa Bokar Sey, leader of FORGAM and a member of Coalition 2026, has said that a victory for the coalition’s presidential candidate, Talib Ahmed Bensouda, in the December 5 presidential election would usher in significant development in Taibatu and other commun...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/essa-bokar-sey-says-bensoudas-victory-would-transform-taibatu-and-west-coast-region/",
+      "publishedAt": "2026-11-27T14:14:56.000Z",
+      "collectedAt": "2026-11-27T16:33:20.733Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "7136d1f12f45ded7",
       "title": "Trust Bank Donates D200,000 Worth of Supplies to Basse District Hospital’s Male Medical Ward",
       "summary": "By Makutu Manneh Trust Bank Limited has donated essential supplies and equipment valued at D200,000 to the Male Medical Ward of Basse District Hospital as part of its ongoing corporate social responsibility initiative aimed at strengthening healthcare delivery across The Gambi...",
@@ -288,34 +312,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "9507593a30e20c0f",
-      "title": "IEC Warns Against Constituency-Based Campaigns, Urges Candidates to Follow Official Schedule",
-      "summary": "By Nelson Manneh The Independent Electoral Commission (IEC) has cautioned political parties and aspirants against conducting unauthorised constituency-based campaigns, directing all presidential contenders to strictly adhere to the Commission’s approved national campaign itine...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/iec-warns-against-constituency-based-campaigns-urges-candidates-to-follow-official-schedule/",
-      "publishedAt": "2026-11-20T11:53:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T04:03:38.615Z",
+    "generatedAt": "2026-11-27T16:33:24.846Z",
     "count": 13
   }
 }

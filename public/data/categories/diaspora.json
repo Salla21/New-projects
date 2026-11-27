@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "4bda6608794c12a3",
+      "title": "Bensouda Pledges Premier League-Style Football Model for The Gambia",
+      "summary": "Mayor Talib Ahmed Bensouda By Fatou Sillah Talib Ahmed Bensouda, presidential candidate of UNITE Party and Coalition 2026, has pledged to transform sports development in The Gambia by introducing a sustainable football model inspired by some of Europe’s leading professional le...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-premier-league-style-football-model-for-the-gambia/",
+      "publishedAt": "2026-11-27T07:00:12.000Z",
+      "collectedAt": "2026-11-27T16:33:20.733Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "180b2da250036c44",
+      "title": "Darboe Pledges Agricultural Revival, Says Economic Growth Must Begin With Food Self-Sufficiency",
+      "summary": "ANM Ousainu Darboe By Seedy Jobe The presidential candidate of the Gambia First Coalition-UDP-led Alliance, ANM Ousainu Darboe, has pledged to revitalise The Gambia’s agricultural sector if elected, emphasising that the country’s economic transformation must begin with achievi...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-agricultural-revival-says-economic-growth-must-begin-with-food-self-sufficiency/",
+      "publishedAt": "2026-11-27T06:55:36.000Z",
+      "collectedAt": "2026-11-27T16:33:20.733Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seedy Jobe",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "e3e5fd079331c6e2",
       "title": "Maa Foundation for Women Takes Grassroots Leadership to the Global Stage",
       "summary": "From The Gambia to Europe By Ndey Sowe Maa Foundation for Women has brought the experience of Gambian grassroots leadership to an international platform, as its Founder and Chief Executive Officer, Fatoumata Jawara, joined the fifth edition of PITASO: International Youth Visio...",
@@ -363,35 +413,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "739ff7a047453fdb",
-      "title": "UDP’s Ousainou Darboe Sets Out Security and Agriculture Plans",
-      "summary": "By Mariama Marong United Democratic Party leader and Gambia First Coalition presidential candidate Ousainou ANM Darboe has outlined plans on security, civil service reform, agriculture and education during a campaign meeting in Kerr Pateh Kala, North Bank Region. Darboe urged ...",
-      "sourceId": "foroyaa",
-      "sourceName": "Foroyaa",
-      "sourceUrl": "https://foroyaa.net/feed/",
-      "originalUrl": "https://foroyaa.net/udps-ousainou-darboe-sets-out-security-and-agriculture-plans/",
-      "publishedAt": "2026-11-20T11:46:00.000Z",
-      "collectedAt": "2026-11-20T16:54:44.793Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Sulayman Bah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T04:03:38.615Z",
-    "count": 16
+    "generatedAt": "2026-11-27T16:33:24.846Z",
+    "count": 17
   }
 }

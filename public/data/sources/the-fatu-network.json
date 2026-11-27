@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "9bbba996b4ce55f8",
+      "title": "Senegalese Mayor Allegedly Set on Fire by Wife as He Slept; Suspect Arrested While Attempting to Flee to The Gambia",
+      "summary": "Published by: The Fatu NetworkA mayor in southern Senegal’s Casamance region is in serious condition after his wife allegedly poured petrol on him and set him on fire while he was asleep, before attempting to flee to The Gambia. Sagar Coly, the mayor of Oulampane in the Bignon...",
+      "sourceId": "the-fatu-network",
+      "sourceName": "The Fatu Network",
+      "sourceUrl": "https://thefatunetwork.com/feed/",
+      "originalUrl": "https://thefatunetwork.com/senegalese-mayor-allegedly-set-on-fire-by-wife-as-he-slept-suspect-arrested-while-attempting-to-flee-to-the-gambia/",
+      "publishedAt": "2026-11-27T10:23:02.000Z",
+      "collectedAt": "2026-11-27T16:33:07.464Z",
+      "region": "banjul",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Seringe S.T. Touray",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "638caefcb09e7ea6",
       "title": "Ghana Town and the Law: Citizenship Is Not a Political Pawn",
       "summary": "OPINION/LEGAL ANALYSIS By Sarjo Barrow, Esq. Chances are, if you are a senior Ghana Town resident, you have lived in The Gambia longer than many of the officials who now ask for your papers. You may have fished its waters, raised children and grandchildren here, and buried you...",
@@ -297,33 +318,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "e29d7870557122a1",
-      "title": "Bensouda Outlines Agriculture, Infrastructure and Economic Plans as Nationwide Tour Continues",
-      "summary": "Written by: Seringe S.T. Touray UNITE leader Talib Ahmed Bensouda continues his nationwide tour today in the Upper River Region, with scheduled stops in Julangel, Bakadagi, Basse, Perai Tenda, Sare Alpha and Koina, following several days of engagements across the North Bank an...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/bensouda-outlines-agriculture-infrastructure-and-economic-plans-as-nationwide-tour-continues/",
-      "publishedAt": "2026-11-20T13:12:46.000Z",
-      "collectedAt": "2026-11-20T16:54:45.610Z",
-      "region": "north-bank",
-      "categories": [
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seringe S.T. Touray",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T04:03:38.615Z",
+    "generatedAt": "2026-11-27T16:33:24.846Z",
     "count": 14
   }
 }

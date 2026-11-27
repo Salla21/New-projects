@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "id": "4bda6608794c12a3",
+      "title": "Bensouda Pledges Premier League-Style Football Model for The Gambia",
+      "summary": "Mayor Talib Ahmed Bensouda By Fatou Sillah Talib Ahmed Bensouda, presidential candidate of UNITE Party and Coalition 2026, has pledged to transform sports development in The Gambia by introducing a sustainable football model inspired by some of Europe’s leading professional le...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-premier-league-style-football-model-for-the-gambia/",
+      "publishedAt": "2026-11-27T07:00:12.000Z",
+      "collectedAt": "2026-11-27T16:33:20.733Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "diaspora"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Fatou Sillah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bf3154f7d521439d",
       "title": "CAF to implement CAS’s ruling on Senegal Afcon appeal",
       "summary": "By Momodou Jarju The Confederation of African Football (CAF) has issued a statement after the Court of Arbitration for Sport (CAS’s) ruling on the dispute between Senegal and Morocco football bodies with respect to the TotalEnergies CAF Africa Cup of Nations Morocco 2025 Final...",
@@ -72,7 +98,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T04:03:38.615Z",
-    "count": 3
+    "generatedAt": "2026-11-27T16:33:24.846Z",
+    "count": 4
   }
 }
