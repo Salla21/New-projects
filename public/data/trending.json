@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "cc0207408f996e6c",
+      "title": "Bensouda Vows to End Six-Month and One-Year Advance Rent Payments If Elected",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE Party and presidential candidate of Coalition 2026, has pledged to end the practice of requiring tenants to pay six months or a year’s rent in advance if elected president in the December 5 presidential election. Speaking a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-end-six-month-and-one-year-advance-rent-payments-if-elected/",
+      "publishedAt": "2026-11-28T08:17:26.000Z",
+      "collectedAt": "2026-11-28T10:09:42.792Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "41fd6ef99bd6d98b",
       "title": "Five Years On, Trust Bank Deepens Partnership With Bwiam General Hospital With D200,000 Donation",
       "summary": "By Makutu Manneh Trust Bank Ltd. has marked five years of partnership with Bwiam General Hospital by donating essential cleaning supplies and other materials valued at D200,000 to the hospital’s maternity ward as part of its 2026 corporate social responsibility (CSR) initiativ...",
@@ -321,60 +344,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "4bda6608794c12a3",
-      "title": "Bensouda Pledges Premier League-Style Football Model for The Gambia",
-      "summary": "Mayor Talib Ahmed Bensouda By Fatou Sillah Talib Ahmed Bensouda, presidential candidate of UNITE Party and Coalition 2026, has pledged to transform sports development in The Gambia by introducing a sustainable football model inspired by some of Europe’s leading professional le...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-premier-league-style-football-model-for-the-gambia/",
-      "publishedAt": "2026-11-27T07:00:12.000Z",
-      "collectedAt": "2026-11-27T16:33:20.733Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "180b2da250036c44",
-      "title": "Darboe Pledges Agricultural Revival, Says Economic Growth Must Begin With Food Self-Sufficiency",
-      "summary": "ANM Ousainu Darboe By Seedy Jobe The presidential candidate of the Gambia First Coalition-UDP-led Alliance, ANM Ousainu Darboe, has pledged to revitalise The Gambia’s agricultural sector if elected, emphasising that the country’s economic transformation must begin with achievi...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/darboe-pledges-agricultural-revival-says-economic-growth-must-begin-with-food-self-sufficiency/",
-      "publishedAt": "2026-11-27T06:55:36.000Z",
-      "collectedAt": "2026-11-27T16:33:20.733Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": true,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-28T01:19:35.414Z",
-    "count": 16
+    "generatedAt": "2026-11-28T10:09:46.891Z",
+    "count": 15
   }
 }

@@ -234,80 +234,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "c995f9e2fa59c30c",
-      "title": "Barrow Ties Completion of Wuli Roads and Electricity Projects to Re-election",
-      "summary": "By Makutu Manneh President Adama Barrow has told voters in Wuli that continued road construction and the extension of electricity to unconnected communities depend on his re-election. Speaking at a campaign rally in Briffu as he seeks a third term in the December presidential ...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/barrow-ties-completion-of-wuli-roads-and-electricity-projects-to-re-election/",
-      "publishedAt": "2026-11-22T00:20:01.000Z",
-      "collectedAt": "2026-11-22T06:19:22.523Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "d7eff6b0bff15a5f",
-      "title": "Gibba Pledges Salaries for Imams and Clergy, Legal Recognition for Religious Councils",
-      "summary": "By Seedy Jobe No-To Alliance Movement presidential candidate Hon. Almameh Gibba has pledged to pay salaries to all Imams, pastors and priests in The Gambia if elected president, arguing that religious leaders contribute to the national economy through taxes and are therefore e...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/gibba-pledges-salaries-for-imams-and-clergy-legal-recognition-for-religious-councils/",
-      "publishedAt": "2026-11-22T00:08:45.000Z",
-      "collectedAt": "2026-11-22T06:19:22.523Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Seedy Jobe",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "6b4036c1091c5146",
-      "title": "Bensouda Pledges Two-Term Presidential Limit Within Six Months of Taking Office",
-      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE and presidential candidate of Coalition 2026, has promised that his government will introduce a two-term limit for the presidency within six months of taking office, if elected in the 2026 presidential election. Speaking on...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/bensouda-pledges-two-term-presidential-limit-within-six-months-of-taking-office/",
-      "publishedAt": "2026-11-22T00:05:32.000Z",
-      "collectedAt": "2026-11-22T06:19:22.523Z",
-      "region": "banjul",
-      "categories": [
-        "politics"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Fatou Sillah",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-28T01:19:35.414Z",
-    "count": 13
+    "generatedAt": "2026-11-28T10:09:46.891Z",
+    "count": 10
   }
 }

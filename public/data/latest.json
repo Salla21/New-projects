@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "id": "cc0207408f996e6c",
+      "title": "Bensouda Vows to End Six-Month and One-Year Advance Rent Payments If Elected",
+      "summary": "By Fatou Sillah Talib Ahmed Bensouda, leader of UNITE Party and presidential candidate of Coalition 2026, has pledged to end the practice of requiring tenants to pay six months or a year’s rent in advance if elected president in the December 5 presidential election. Speaking a...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/bensouda-vows-to-end-six-month-and-one-year-advance-rent-payments-if-elected/",
+      "publishedAt": "2026-11-28T08:17:26.000Z",
+      "collectedAt": "2026-11-28T10:09:42.792Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Admin",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "41fd6ef99bd6d98b",
       "title": "Five Years On, Trust Bank Deepens Partnership With Bwiam General Hospital With D200,000 Donation",
       "summary": "By Makutu Manneh Trust Bank Ltd. has marked five years of partnership with Bwiam General Hospital by donating essential cleaning supplies and other materials valued at D200,000 to the hospital’s maternity ward as part of its 2026 corporate social responsibility (CSR) initiativ...",
@@ -2305,34 +2328,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "8eaf5deee8043291",
-      "title": "Political Analyst Juwara Says December Presidential Race Remains Open, With No Clear Frontrunner",
-      "summary": "By Makutu Manneh Political analyst Lamin Juwara has said the 5 December 2026 presidential election remains wide open, with no candidate yet assured of victory. Speaking on The Brunch show on Kerr Fatou on Saturday, Juwara described the race as fluid, noting that many voters ar...",
-      "sourceId": "kerr-fatou",
-      "sourceName": "Kerr Fatou",
-      "sourceUrl": "https://kerrfatou.com/feed/",
-      "originalUrl": "https://www.kerrfatou.com/political-analyst-juwara-says-december-presidential-race-remains-open-with-no-clear-frontrunner/",
-      "publishedAt": "2026-11-22T00:27:04.000Z",
-      "collectedAt": "2026-11-22T06:19:22.523Z",
-      "region": "west-coast",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Makutu Manneh",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-28T01:19:35.414Z",
+    "generatedAt": "2026-11-28T10:09:46.891Z",
     "count": 100
   }
 }

@@ -222,83 +222,10 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
-    },
-    {
-      "id": "80f9d728301b52cc",
-      "title": "Darboe urges Gambians to back opposition coaltion in upcoming poll",
-      "summary": "​By Mama A. Touray The presidential candidate for the Gambia First Coalition UDP-Led Alliance, Lawyer Ousainou Darboe, has called on Gambians to vote for his coalition, declaring that opposition parties have fulfilled voters’ demands for a united front ahead of the presidentia...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-urges-gambians-to-back-opposition-coaltion-in-upcoming-poll/",
-      "publishedAt": "2026-11-21T15:33:08.000Z",
-      "collectedAt": "2026-11-21T16:05:56.726Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "622b0637276b8f42",
-      "title": "I get excited when leadership and femininity cross paths. Because, sis, there is power in that combination!",
-      "summary": "By RamaTulai And the recent Nvidia story has certainly given us something to talk about. For context, Nvidia is the American technology giant at the centre of the AI revolution. Its former CEO, billionaire Jensen Huang, recently resigned following revelations about an extramar...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/i-get-excited-when-leadership-and-femininity-cross-paths-because-sis-there-is-power-in-that-combination/",
-      "publishedAt": "2026-11-21T12:43:23.000Z",
-      "collectedAt": "2026-11-21T16:05:56.726Z",
-      "region": "banjul",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
-    },
-    {
-      "id": "88cda9bb5dccd4c8",
-      "title": "Darboe calls for national unity amid growing tribal rhetoric on social media",
-      "summary": "By Mama A. Touray ​The standard-bearer of the Gambia First Coalition UDP-Led Alliance, Ousainou Darboe, has called for national unity amid rising tribal rhetoric on social media platforms such as TikTok and Facebook. Addressing supporters in Farafenni in the North Bank Region,...",
-      "sourceId": "the-fatu-network",
-      "sourceName": "The Fatu Network",
-      "sourceUrl": "https://thefatunetwork.com/feed/",
-      "originalUrl": "https://thefatunetwork.com/darboe-calls-for-national-unity-amid-growing-tribal-rhetoric-on-social-media/",
-      "publishedAt": "2026-11-21T12:24:38.000Z",
-      "collectedAt": "2026-11-21T16:05:56.726Z",
-      "region": "north-bank",
-      "categories": [
-        "politics",
-        "business",
-        "diaspora"
-      ],
-      "contentType": "article",
-      "thumbnailUrl": null,
-      "author": "Hadram Hydara",
-      "language": "en",
-      "isGoodNews": false,
-      "isOfficialSource": false,
-      "embedUrl": null,
-      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-28T01:19:35.414Z",
-    "count": 13
+    "generatedAt": "2026-11-28T10:09:46.891Z",
+    "count": 10
   }
 }
