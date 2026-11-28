@@ -1,6 +1,144 @@
 {
   "items": [
     {
+      "id": "ec8469d0b9864041",
+      "title": "KMC Rejects LG Service Commission Appointment of Director of Finance & Acting CEO",
+      "summary": "By Yankuba Jallow Mrs Joanna Hall’s attempt to return to her former position as Director of Finance at the Kanifing Municipal Council (KMC) has met fresh resistance after the KMC General Council formally rejected her proposed reinstatement. The Local Government Service Commiss...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kmc-rejects-lg-service-commission-appointment-of-director-of-finance-acting-ceo/",
+      "publishedAt": "2026-11-27T12:38:00.000Z",
+      "collectedAt": "2026-11-28T01:19:28.741Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "d64eb0b594ac4d4e",
+      "title": "PAP Candidate Pledges Better Farm Inputs, Increased Groundnut Price",
+      "summary": "People’s Alliance Party presidential candidate Ebrima Manneh has pledged to expand support for farmers, including by providing quality seeds, fertiliser and improved gardening facilities, saying groundnuts should sell for at least 50 dalasis per kilogram if he is elected. Mann...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/pap-candidate-pledges-better-farm-inputs-increased-groundnut-price/",
+      "publishedAt": "2026-11-27T12:34:00.000Z",
+      "collectedAt": "2026-11-28T01:19:28.741Z",
+      "region": "banjul",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "4871e162c2efd447",
+      "title": "Dr Lamin J. Darbo Pledges One Term & New Gambia",
+      "summary": "By Louise Jobe and Hatab Nyang Team Gambia Grand Coalition presidential candidate Dr Lamin J. Darbo has pledged to serve for one five-year term if elected on December 5, saying he would not contest or support a candidate in the 2031 presidential election. Speaking during the c...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/dr-lamin-j-darbo-pledges-one-term-new-gambia/",
+      "publishedAt": "2026-11-27T12:20:00.000Z",
+      "collectedAt": "2026-11-28T01:19:28.741Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "e9227ee3ef1f21d8",
+      "title": "Almameh Gibba Pledges to Restore Security and Protect Foni Border Communities",
+      "summary": "By Nelson Manneh Almameh Gibba has pledged to address insecurity and hardship in communities along The Gambia’s border with Senegal if elected president, saying residents should be able to live safely and access their farmlands. Speaking at a political meeting in Foni Bwiam, t...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/almameh-gibba-pledges-to-restore-security-and-protect-foni-border-communities/",
+      "publishedAt": "2026-11-27T12:17:00.000Z",
+      "collectedAt": "2026-11-28T01:19:28.741Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "29aa978082585466",
+      "title": "Halifa Sallah Says Presidency Is a Public Trust as He Calls for System Change",
+      "summary": "By Louise Jobe and Hatab Nyang Honourable Halifa Sallah, one of the coordinators of the Team Gambia Grand Coalition 2026, has called for a political system in which elected leaders serve the people and protect the country’s sovereignty. Addressing a campaign gathering in Foni ...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/halifa-sallah-says-presidency-is-a-public-trust-as-he-calls-for-system-change/",
+      "publishedAt": "2026-11-27T12:14:00.000Z",
+      "collectedAt": "2026-11-28T01:19:28.741Z",
+      "region": "banjul",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a79d2a50df8697b9",
+      "title": "APC Joins UDP-Led Coalition after Modou Lamin Sima Withdraws from Presidential Election",
+      "summary": "By Yankuba Jallow Alliance for Progressive Citizens (APC) leader Modou Lamin Sima has announced that his party is joining the United Democratic Party (UDP)-led coalition after signing a Memorandum of Understanding. Speaking at the signing ceremony, Sima said the decision was m...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apc-joins-udp-led-coalition-after-modou-lamin-sima-withdraws-from-presidential-election/",
+      "publishedAt": "2026-11-27T12:09:00.000Z",
+      "collectedAt": "2026-11-28T01:19:28.741Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "bf3154f7d521439d",
       "title": "CAF to implement CAS’s ruling on Senegal Afcon appeal",
       "summary": "By Momodou Jarju The Confederation of African Football (CAF) has issued a statement after the Court of Arbitration for Sport (CAS’s) ruling on the dispute between Senegal and Morocco football bodies with respect to the TotalEnergies CAF Africa Cup of Nations Morocco 2025 Final...",
@@ -911,7 +1049,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T16:33:24.846Z",
-    "count": 39
+    "generatedAt": "2026-11-28T01:19:35.414Z",
+    "count": 45
   }
 }

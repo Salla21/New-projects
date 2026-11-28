@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "4871e162c2efd447",
+      "title": "Dr Lamin J. Darbo Pledges One Term & New Gambia",
+      "summary": "By Louise Jobe and Hatab Nyang Team Gambia Grand Coalition presidential candidate Dr Lamin J. Darbo has pledged to serve for one five-year term if elected on December 5, saying he would not contest or support a candidate in the 2031 presidential election. Speaking during the c...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/dr-lamin-j-darbo-pledges-one-term-new-gambia/",
+      "publishedAt": "2026-11-27T12:20:00.000Z",
+      "collectedAt": "2026-11-28T01:19:28.741Z",
+      "region": "west-coast",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
+      "id": "a79d2a50df8697b9",
+      "title": "APC Joins UDP-Led Coalition after Modou Lamin Sima Withdraws from Presidential Election",
+      "summary": "By Yankuba Jallow Alliance for Progressive Citizens (APC) leader Modou Lamin Sima has announced that his party is joining the United Democratic Party (UDP)-led coalition after signing a Memorandum of Understanding. Speaking at the signing ceremony, Sima said the decision was m...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/apc-joins-udp-led-coalition-after-modou-lamin-sima-withdraws-from-presidential-election/",
+      "publishedAt": "2026-11-27T12:09:00.000Z",
+      "collectedAt": "2026-11-28T01:19:28.741Z",
+      "region": "west-coast",
+      "categories": [
+        "politics"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "713e21efd0d31299",
       "title": "APC Presidential Candidate Modou Lamin Sima Withdraws from December 5 Election",
       "summary": "By Nelson Manneh Alliance of Progressive Citizens (APC) presidential candidate Modou Lamin Sima has withdrawn from The Gambia’s December 5, 2026 presidential election. The Independent Electoral Commission (IEC) said Sima submitted his withdrawal on November 24. The commission ...",
@@ -349,10 +396,31 @@
       "isOfficialSource": false,
       "embedUrl": null,
       "status": "published"
+    },
+    {
+      "id": "7df537de5df55004",
+      "title": "D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened",
+      "summary": "A father in Kololi has denied receiving more than D170,000 from a young man who wanted…\nThe post D170,000 Gone? Man Says He Paid Father for Marriage That Never Happened appeared first on What's On Gambia.",
+      "sourceId": "whats-on-gambia",
+      "sourceName": "What's On Gambia",
+      "sourceUrl": "https://whatson-gambia.com/feed/",
+      "originalUrl": "https://whatson-gambia.com/d170000-gone-man-says-he-paid-father-for-marriage-that-never-happened/",
+      "publishedAt": "2026-11-04T06:20:12.000Z",
+      "collectedAt": "2026-11-28T01:19:28.916Z",
+      "region": "west-coast",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Eddy Jatta",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T16:33:24.846Z",
-    "count": 15
+    "generatedAt": "2026-11-28T01:19:35.414Z",
+    "count": 18
   }
 }

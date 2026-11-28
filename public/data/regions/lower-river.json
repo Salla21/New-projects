@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "64d2b79800c5031b",
+      "title": "Trust Bank Boosts Healthcare Delivery at Soma District Hospital With D150,000 Donation",
+      "summary": "By Makutu Manneh Trust Bank PLC has donated equipment and office supplies worth D150,000 to Soma District Hospital as part of its ongoing corporate social responsibility (CSR) programme aimed at strengthening healthcare delivery across The Gambia. The donation, which includes ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-boosts-healthcare-delivery-at-soma-district-hospital-with-d150000-donation/",
+      "publishedAt": "2026-11-27T23:28:52.000Z",
+      "collectedAt": "2026-11-28T01:19:31.314Z",
+      "region": "lower-river",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "f11e38901c473151",
       "title": "President Barrow Pledges Factories, 200MW Solar Project for Jarra Soma if Re-elected",
       "summary": "By Makutu Manneh President Adama Barrow has pledged to establish factories and implement a 200-megawatt solar energy project in Jarra Soma, Lower River Region (LRR), if re-elected in the December 5 presidential election. Speaking at a campaign rally in Jarra Soma, President Ba...",
@@ -72,7 +96,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T16:33:24.846Z",
-    "count": 3
+    "generatedAt": "2026-11-28T01:19:35.414Z",
+    "count": 4
   }
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "64d2b79800c5031b",
+      "title": "Trust Bank Boosts Healthcare Delivery at Soma District Hospital With D150,000 Donation",
+      "summary": "By Makutu Manneh Trust Bank PLC has donated equipment and office supplies worth D150,000 to Soma District Hospital as part of its ongoing corporate social responsibility (CSR) programme aimed at strengthening healthcare delivery across The Gambia. The donation, which includes ...",
+      "sourceId": "kerr-fatou",
+      "sourceName": "Kerr Fatou",
+      "sourceUrl": "https://kerrfatou.com/feed/",
+      "originalUrl": "https://www.kerrfatou.com/trust-bank-boosts-healthcare-delivery-at-soma-district-hospital-with-d150000-donation/",
+      "publishedAt": "2026-11-27T23:28:52.000Z",
+      "collectedAt": "2026-11-28T01:19:31.314Z",
+      "region": "lower-river",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Makutu Manneh",
+      "language": "en",
+      "isGoodNews": true,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "ab613791468c0caa",
       "title": "Essa Bokar Sey Says Bensouda’s Victory Would Transform Taibatu and West Coast Region",
       "summary": "By Fatou Sillah Essa Bokar Sey, leader of FORGAM and a member of Coalition 2026, has said that a victory for the coalition’s presidential candidate, Talib Ahmed Bensouda, in the December 5 presidential election would usher in significant development in Taibatu and other commun...",
@@ -315,7 +339,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T16:33:24.846Z",
-    "count": 13
+    "generatedAt": "2026-11-28T01:19:35.414Z",
+    "count": 14
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "ec8469d0b9864041",
+      "title": "KMC Rejects LG Service Commission Appointment of Director of Finance & Acting CEO",
+      "summary": "By Yankuba Jallow Mrs Joanna Hall’s attempt to return to her former position as Director of Finance at the Kanifing Municipal Council (KMC) has met fresh resistance after the KMC General Council formally rejected her proposed reinstatement. The Local Government Service Commiss...",
+      "sourceId": "foroyaa",
+      "sourceName": "Foroyaa",
+      "sourceUrl": "https://foroyaa.net/feed/",
+      "originalUrl": "https://foroyaa.net/kmc-rejects-lg-service-commission-appointment-of-director-of-finance-acting-ceo/",
+      "publishedAt": "2026-11-27T12:38:00.000Z",
+      "collectedAt": "2026-11-28T01:19:28.741Z",
+      "region": "kanifing",
+      "categories": [],
+      "contentType": "article",
+      "thumbnailUrl": null,
+      "author": "Sulayman Bah",
+      "language": "en",
+      "isGoodNews": false,
+      "isOfficialSource": false,
+      "embedUrl": null,
+      "status": "published"
+    },
+    {
       "id": "2351083d7ac00727",
       "title": "Kanifing East sign RS Tallinding’s strker Ba Alpha Ceesay",
       "summary": "By Momodou Jarju The first division league newcomers Kanifing East FC has signed striker Ba Alpha Ceesay from second division league outfit RS Tallinding FC ahead of the new football season which is expected to kick off next month. With a debut season in sight in the domestic ...",
@@ -93,7 +114,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-27T16:33:24.846Z",
-    "count": 4
+    "generatedAt": "2026-11-28T01:19:35.414Z",
+    "count": 5
   }
 }
